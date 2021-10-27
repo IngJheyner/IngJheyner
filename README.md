@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola, mi nombre es Jheyner David... 👋
+
+![fondo](https://user-images.githubusercontent.com/38741238/138994264-01b9ea39-578c-44da-bb23-00a0732bcc3a.jpg)
+
+Puedes encontrarme en 🌎:
+- Facebook
+- Instagram
 
 <!--
 **IngJheyner/IngJheyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
