@@ -1,10 +1,21 @@
-### Hola, mi nombre es Jheyner David... 👋
+### Hola, mi nombre es Jheyner... 👋
 
-![fondo](https://user-images.githubusercontent.com/38741238/138994264-01b9ea39-578c-44da-bb23-00a0732bcc3a.jpg)
+![fondo](https://user-images.githubusercontent.com/38741238/139778759-7f232754-e856-4b77-9328-72917c60da80.jpeg)
 
-Puedes encontrarme en 🌎:
+Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información con estudios en seguridad informática y desarrollo web (FrontEnd – BackEnd) en varios lenguajes de programación nativa e hibrida, enfocado al buen manejo de la internet de forma autodidacta y búsqueda avanzada de la información.
+
+```js
+const profile = {
+  pronouns: 'he' | 'him',
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [React, Sass, Bootstrap, Docker, Drupal]
+}
+```
+## Puedes encontrarme en 🌎:
 - Facebook
 - Instagram
+
+[![IngJheyner GitHub stats](https://github-readme-stats.vercel.app/api?username=IngJheyner)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IngJheyner/IngJheyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
