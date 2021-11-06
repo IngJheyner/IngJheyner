@@ -1,0 +1,24 @@
+{
+  "name": "IngJheyner",
+  "version": "1.0.0",
+  "description": "IngJheyner GIT HUB PROFILER",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngJheyner/IngJheyner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngJheyner/IngJheyner/issues"
+  },
+  "homepage": "https://github.com/IngJheyner/IngJheyner#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
