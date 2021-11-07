@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 -->
 
 ## Noticias en tecnologia:
-- [Computer hoy](https://computerhoy.com/)
+<div id="noticie-technology">
+  %{{latest_article}}%
+</div>
 
-%{{latest_article}}%
+- Creditos: [Computer hoy](https://computerhoy.com/)
+

@@ -35,11 +35,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<<<<<<< HEAD
 ## Noticias en tecnologia:
-- [Computer hoy](https://computerhoy.com/)
+<div id="noticie-technology">
+  
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717'>Cómo resetear de fábrica Windows 11 en 30 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo resetear de fábrica Windows 11 en 30 segundos' />
+    </a>
+</div>
 
-[Cómo resetear de fábrica Windows 11 en 30 segundos](https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717)
-=======
-- latest article: [Métricas de Web Performance](https://midu.dev/metricas-web-performance/)
->>>>>>> 9ef6c278342bb7559baf3a95eff663c41f4244e0
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713'>Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bmw-lanzara-coches-pantalla-tactil-crisis-semiconductores-2525769.jpg' alt='Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637'>Estos paneles solares son portátiles y perfectos para generar tu propia electricidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-2525685.jpg' alt='Estos paneles solares son portátiles y perfectos para generar tu propia electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-trailer-espanol-fecha-lanzamiento-titulos-episodios-960707'>Stranger Things 4 estrena tráiler en español, fecha de lanzamiento y títulos de los episodios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-trailer-espanol-fecha-lanzamiento-titulos-episodios-960707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Stranger Things 4 estrena tráiler en español, fecha de lanzamiento y títulos de los episodios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-lanzara-servicio-suscripcion-deshabilitar-anuncios-grandes-canales-960677'>Telegram lanzará un servicio de suscripción para deshabilitar los anuncios en grandes canales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-lanzara-servicio-suscripcion-deshabilitar-anuncios-grandes-canales-960677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram lanzará un servicio de suscripción para deshabilitar los anuncios en grandes canales' />
+    </a>
+</div>
+
+</div>
+
+- Creditos: [Computer hoy](https://computerhoy.com/)
+
