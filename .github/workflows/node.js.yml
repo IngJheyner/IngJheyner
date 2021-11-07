@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
@@ -22,6 +22,7 @@ jobs:
     - run: npm install
     - run: npm run update-readme
     - run: |
+        date +%s > README.md
         git config user.name IngJheyner
         git config user.email david-ibagon@hotmail.com
         git add README.md
