@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
 ## Noticias en tecnologia:
 - [Computer hoy](https://computerhoy.com/)
 
 [Cómo resetear de fábrica Windows 11 en 30 segundos](https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717)
+=======
+- latest article: [Métricas de Web Performance](https://midu.dev/metricas-web-performance/)
+>>>>>>> 9ef6c278342bb7559baf3a95eff663c41f4244e0
