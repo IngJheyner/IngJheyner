@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- latest article: %{{latest_article}}%
+## Noticias en tecnologia:
+- [Computer hoy](https://computerhoy.com/)
+
+%{{latest_article}}%
