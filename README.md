@@ -2,42 +2,61 @@
 
 ![fondo](https://user-images.githubusercontent.com/38741238/139778759-7f232754-e856-4b77-9328-72917c60da80.jpeg)
 
-Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información con estudios en seguridad informática y desarrollo web (FrontEnd – BackEnd) en varios lenguajes de programación nativa e hibrida, enfocado al buen manejo de la internet de forma autodidacta y búsqueda avanzada de la información.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-```js
-const profile = {
-  pronouns: 'he' | 'him',
-  code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [React, Sass, Bootstrap, Docker, Drupal]
-}
-```
-## Puedes encontrarme en 🌎:
-<p align='center'>
-    <a href='' target='_blank'>
-        <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='midudev.frontend' height='48' width='48'/>
-    </a>
+<h3> 👨🏻‍💻 Sobre mí </h3>
+<p>Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información con estudios en seguridad informática y desarrollo web (FrontEnd – BackEnd) en varios lenguajes de programación nativa e hibrida, enfocado al buen manejo de la internet de forma autodidacta y búsqueda avanzada de la información.</p>
+
+### Mi Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-Php-%8993C1?style=flat-square&logo=php&logoColor=000000)
+![Drupal](https://img.shields.io/badge/-Drupal-%231572B6?style=flat-square&logo=drupal&logoColor=ffffff)
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br>
+
+[![IngJheyner GitHub stats](https://github-readme-stats.vercel.app/api?username=IngJheyner&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![IngJheyner GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IngJheyner&layout=compact&text_color=000000&bg_color=ffffff)](https://github.com/devSouvik/github-readme-stats)
+
+<br>
+
+### 🌎 Puedes encontrarme en:
+<hr>
+<p align='left'>
+    <a href="https://www.facebook.com/teg.david/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
+<a href="https://www.instagram.com/jheyner_dic/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
-[![IngJheyner GitHub stats](https://github-readme-stats.vercel.app/api?username=IngJheyner)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-<!--
-**IngJheyner/IngJheyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Noticias en tecnologia:
+### 🗒️ Noticias de interés:
+<hr>
 <div id="noticie-technology">
   
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721'>Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nintendo-revela-edad-jugadores-nintendo-switch-41-anos-superan-menores-edad-otras-curiosidades-2525807.jpg' alt='Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades' />
+    </a>
+</div>
+
+
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717'>Cómo resetear de fábrica Windows 11 en 30 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717' target='_blank'>
@@ -69,15 +88,11 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-lanzara-servicio-suscripcion-deshabilitar-anuncios-grandes-canales-960677'>Telegram lanzará un servicio de suscripción para deshabilitar los anuncios en grandes canales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-lanzara-servicio-suscripcion-deshabilitar-anuncios-grandes-canales-960677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram lanzará un servicio de suscripción para deshabilitar los anuncios en grandes canales' />
-    </a>
 </div>
 
-</div>
+<br>
 
-- Creditos: [Computer hoy](https://computerhoy.com/)
+⭐️ Creditos:
+- <img width='20px' src='https://computerhoy.com/themes/computerhoy/favicon.ico'> [Computer hoy](https://computerhoy.com/)
+
 
