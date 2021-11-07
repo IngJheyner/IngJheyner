@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mí </h3>
-Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información con estudios en seguridad informática y desarrollo web (FrontEnd – BackEnd) en varios lenguajes de programación nativa e hibrida, enfocado al buen manejo de la internet de forma autodidacta y búsqueda avanzada de la información.
+<p>Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información con estudios en seguridad informática y desarrollo web (FrontEnd – BackEnd) en varios lenguajes de programación nativa e hibrida, enfocado al buen manejo de la internet de forma autodidacta y búsqueda avanzada de la información.</p>
 
 ### Mi Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -53,7 +53,7 @@ Soy Ingeniero de sistemas en análisis y desarrollo de sistemas de información 
 
 <br>
 
-⭐️ Creditos: 
+⭐️ Creditos:
 - <img width='20px' src='https://computerhoy.com/themes/computerhoy/favicon.ico'> [Computer hoy](https://computerhoy.com/)
 
 
