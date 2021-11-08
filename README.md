@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199'>Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133'>Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-pro-2526215.jpg' alt='Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185'>Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151'>Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chocolate-mercadona-2071795.jpg' alt='Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado' />
     </a>
 </div>
 
