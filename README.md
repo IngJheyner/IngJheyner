@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-960969'>Las nuevas tarjetas gráficas de Nvidia serán el doble de potentes que la serie RTX 3000</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-960969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='Las nuevas tarjetas gráficas de Nvidia serán el doble de potentes que la serie RTX 3000' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027'>Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kindle-paperwhite-2315763.jpg' alt='Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuando-empiezan-ofertas-black-friday-amazon-otras-tiendas-960715'>¿Cuándo empiezan las ofertas del Black Friday en Amazon y otras tiendas?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cuando-empiezan-ofertas-black-friday-amazon-otras-tiendas-960715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-2525799.jpg' alt='¿Cuándo empiezan las ofertas del Black Friday en Amazon y otras tiendas?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-conclusiones-ocu-comparar-precios-ultimos-black-friday-961067'>Las sorprendentes conclusiones de la OCU al comparar los precios de los últimos Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-conclusiones-ocu-comparar-precios-ultimos-black-friday-961067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2143737.jpg' alt='Las sorprendentes conclusiones de la OCU al comparar los precios de los últimos Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-960965'>Netflix sigue avanzando en sus videojuegos para iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/netflix-960965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juegos-netflix-2521189.jpg' alt='Netflix sigue avanzando en sus videojuegos para iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-interior-estacion-espacial-internacional-4k-impresionante-960993'>Vemos por primera vez el interior de la Estación Espacial Internacional en 4K y es impresionante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-interior-estacion-espacial-internacional-4k-impresionante-960993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estacion-espacial-internacional-2526055.jpg' alt='Vemos por primera vez el interior de la Estación Espacial Internacional en 4K y es impresionante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-molestas-barras-negras-viendo-peliculas-vengadores-television-960941'>Adiós a las molestas barras negras viendo las películas de Los Vengadores en la televisión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-molestas-barras-negras-viendo-peliculas-vengadores-television-960941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vengadores-2525995.jpg' alt='Adiós a las molestas barras negras viendo las películas de Los Vengadores en la televisión' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/xiaomi-mesh-system-ax3000-review-opinion-960397'>Xiaomi Mesh System AX3000, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/xiaomi-mesh-system-ax3000-review-opinion-960397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg' alt='Xiaomi Mesh System AX3000, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/respetara-elon-musk-resultados-encuesta-publico-twitter-960939'>¿Respetará Elon Musk los resultados de la encuesta que publicó en Twitter?</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/respetara-elon-musk-resultados-encuesta-publico-twitter-960939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='¿Respetará Elon Musk los resultados de la encuesta que publicó en Twitter?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-400wh-120000-mah-apagon-oferta-959741'>Esta batería de 288Wh capaz de cargarse con panel solar es el producto definitivo para ahorrar energía o para grandes apagones, ahora por menos de 400€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-400wh-120000-mah-apagon-oferta-959741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ecoflow-river-600-2525277.jpg' alt='Esta batería de 288Wh capaz de cargarse con panel solar es el producto definitivo para ahorrar energía o para grandes apagones, ahora por menos de 400€' />
     </a>
 </div>
 
