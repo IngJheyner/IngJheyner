@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133'>Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-pro-2526215.jpg' alt='Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215'>El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mesa-viaje-lidl-2526413.jpg' alt='El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931'>Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-qled-4k-2021-43q60a-2483503.jpg' alt='Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151'>Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado</a></h4>
     <a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chocolate-mercadona-2071795.jpg' alt='Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075'>Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157073.jpg' alt='Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123'>La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad' />
     </a>
 </div>
 
