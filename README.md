@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-960735'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-960735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/noticias-tecnologicas-2525811.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-960969'>Las nuevas tarjetas gráficas de Nvidia serán el doble de potentes que la serie RTX 3000</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-960969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='Las nuevas tarjetas gráficas de Nvidia serán el doble de potentes que la serie RTX 3000' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421'>Los 10 trucos para sacar todo el partido a Gmail en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gmail-2317847.jpg' alt='Los 10 trucos para sacar todo el partido a Gmail en tu ordenador' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuando-empiezan-ofertas-black-friday-amazon-otras-tiendas-960715'>¿Cuándo empiezan las ofertas del Black Friday en Amazon y otras tiendas?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cuando-empiezan-ofertas-black-friday-amazon-otras-tiendas-960715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-2525799.jpg' alt='¿Cuándo empiezan las ofertas del Black Friday en Amazon y otras tiendas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721'>Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nintendo-revela-edad-jugadores-nintendo-switch-41-anos-superan-menores-edad-otras-curiosidades-2525807.jpg' alt='Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-960965'>Netflix sigue avanzando en sus videojuegos para iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/netflix-960965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juegos-netflix-2521189.jpg' alt='Netflix sigue avanzando en sus videojuegos para iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717'>Cómo resetear de fábrica Windows 11 en 30 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/resetear-fabrica-windows-11-960717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo resetear de fábrica Windows 11 en 30 segundos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-molestas-barras-negras-viendo-peliculas-vengadores-television-960941'>Adiós a las molestas barras negras viendo las películas de Los Vengadores en la televisión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-molestas-barras-negras-viendo-peliculas-vengadores-television-960941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vengadores-2525995.jpg' alt='Adiós a las molestas barras negras viendo las películas de Los Vengadores en la televisión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713'>Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bmw-lanzara-coches-pantalla-tactil-crisis-semiconductores-2525769.jpg' alt='Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores' />
+    <h4><a href='https://computerhoy.com/noticias/industria/respetara-elon-musk-resultados-encuesta-publico-twitter-960939'>¿Respetará Elon Musk los resultados de la encuesta que publicó en Twitter?</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/respetara-elon-musk-resultados-encuesta-publico-twitter-960939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='¿Respetará Elon Musk los resultados de la encuesta que publicó en Twitter?' />
     </a>
 </div>
 
