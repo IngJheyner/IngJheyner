@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075'>Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157073.jpg' alt='Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123'>La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975'>Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/9-mitos-internet-no-son-todo-ciertos-parecen-961073'>Los 7 mitos de Internet que no son todo lo ciertos que parecen</a></h4>
+    <a href='https://computerhoy.com/noticias/9-mitos-internet-no-son-todo-ciertos-parecen-961073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/quien-controla-internet-2444629.jpg' alt='Los 7 mitos de Internet que no son todo lo ciertos que parecen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027'>Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kindle-paperwhite-2315763.jpg' alt='Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-conclusiones-ocu-comparar-precios-ultimos-black-friday-961067'>Las sorprendentes conclusiones de la OCU al comparar los precios de los últimos Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-conclusiones-ocu-comparar-precios-ultimos-black-friday-961067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2143737.jpg' alt='Las sorprendentes conclusiones de la OCU al comparar los precios de los últimos Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-interior-estacion-espacial-internacional-4k-impresionante-960993'>Vemos por primera vez el interior de la Estación Espacial Internacional en 4K y es impresionante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-interior-estacion-espacial-internacional-4k-impresionante-960993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estacion-espacial-internacional-2526055.jpg' alt='Vemos por primera vez el interior de la Estación Espacial Internacional en 4K y es impresionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/xiaomi-mesh-system-ax3000-review-opinion-960397'>Xiaomi Mesh System AX3000, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/xiaomi-mesh-system-ax3000-review-opinion-960397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg' alt='Xiaomi Mesh System AX3000, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-400wh-120000-mah-apagon-oferta-959741'>Esta batería de 288Wh capaz de cargarse con panel solar es el producto definitivo para ahorrar energía o para grandes apagones, ahora por menos de 400€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-400wh-120000-mah-apagon-oferta-959741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ecoflow-river-600-2525277.jpg' alt='Esta batería de 288Wh capaz de cargarse con panel solar es el producto definitivo para ahorrar energía o para grandes apagones, ahora por menos de 400€' />
     </a>
 </div>
 
