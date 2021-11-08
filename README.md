@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-960735'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-960735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/noticias-tecnologicas-2525811.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421'>Los 10 trucos para sacar todo el partido a Gmail en tu ordenador</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gmail-2317847.jpg' alt='Los 10 trucos para sacar todo el partido a Gmail en tu ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713'>Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bmw-sin-pantalla-tactil-crisis-semiconductores-960713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bmw-lanzara-coches-pantalla-tactil-crisis-semiconductores-2525769.jpg' alt='Regreso al pasado: BMW lanzará algunos modelos sin pantalla táctil, por la crisis de los semiconductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637'>Estos paneles solares son portátiles y perfectos para generar tu propia electricidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-2525685.jpg' alt='Estos paneles solares son portátiles y perfectos para generar tu propia electricidad' />
     </a>
 </div>
 
