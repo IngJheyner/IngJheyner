@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421'>Los 10 trucos para sacar todo el partido a Gmail en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-sacar-todo-partido-gmail-ordenador-940421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gmail-2317847.jpg' alt='Los 10 trucos para sacar todo el partido a Gmail en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721'>Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-edad-jugadores-curiosidades-960721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nintendo-revela-edad-jugadores-nintendo-switch-41-anos-superan-menores-edad-otras-curiosidades-2525807.jpg' alt='Nintendo revela la edad de los jugadores de Nintendo Switch, y los de 41 años superan a los menores de edad, entre otras curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637'>Estos paneles solares son portátiles y perfectos para generar tu propia electricidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-paneles-solares-portatiles-generar-electricidad-barata-960637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-2525685.jpg' alt='Estos paneles solares son portátiles y perfectos para generar tu propia electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-trailer-espanol-fecha-lanzamiento-titulos-episodios-960707'>Stranger Things 4 estrena tráiler en español, fecha de lanzamiento y títulos de los episodios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-trailer-espanol-fecha-lanzamiento-titulos-episodios-960707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Stranger Things 4 estrena tráiler en español, fecha de lanzamiento y títulos de los episodios' />
     </a>
 </div>
 
