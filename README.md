@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381'>Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estas-son-13-peliculas-marvel-pierden-bandas-negras-disney-gracias-magia-imax-2526805.jpg' alt='Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-ransomware-961377'>MediaMarkt sufre un ataque de ransomware que ha encriptado todos sus servidores, a pocos días del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-ransomware-961377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/media-markt.jpg' alt='MediaMarkt sufre un ataque de ransomware que ha encriptado todos sus servidores, a pocos días del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271'>Cómo arreglar el email según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/consejos_redactar_email.jpg' alt='Cómo arreglar el email según la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369'>El busto más alto del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/busto-grande-mundo-2526795.jpg' alt='El busto más alto del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-chips-apple-llevaran-nombres-islas-espanolas-961361'>Los nuevos chips de Apple llevarán nombres de islas españolas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-chips-apple-llevaran-nombres-islas-espanolas-961361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mac-chip-m1-apple-2504961.jpg' alt='Los nuevos chips de Apple llevarán nombres de islas españolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/opina-productor-eternos-posible-secuela-961077'>Lo que opina el productor de Los Eternos sobre una posible secuela</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/opina-productor-eternos-posible-secuela-961077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/eternos-marvel-studios-2365159.jpg' alt='Lo que opina el productor de Los Eternos sobre una posible secuela' />
     </a>
 </div>
 
