@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931'>Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-qled-4k-2021-43q60a-2483503.jpg' alt='Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185'>Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151'>Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-top-mercadona-no-encontraras-lidl-carrefour-aldi-ni-ningun-otro-supermercado-961151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chocolate-mercadona-2071795.jpg' alt='Productos TOP de Mercadona que no encontrarás en Lidl, Carrefour, Aldi ni en ningún otro supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075'>Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-ultraligeros-huawei-pesa-solo-15-kg-amazon-vende-699-euros-961075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157073.jpg' alt='Uno de los mejores portátiles ultraligeros es de Huawei, pesa solo 1,5 kg y Amazon lo vende por 699 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123'>La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad</a></h4>
     <a href='https://computerhoy.com/noticias/life/dgt-preparara-cambio-muy-radical-ciclistas-circulen-ciudad-961123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La DGT preparara un cambio muy radical para los ciclistas que circulen por ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975'>Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/9-mitos-internet-no-son-todo-ciertos-parecen-961073'>Los 7 mitos de Internet que no son todo lo ciertos que parecen</a></h4>
-    <a href='https://computerhoy.com/noticias/9-mitos-internet-no-son-todo-ciertos-parecen-961073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/quien-controla-internet-2444629.jpg' alt='Los 7 mitos de Internet que no son todo lo ciertos que parecen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027'>Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kindle-paperwhite-modelo-anterior-oferta-black-friday-amazon-961027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kindle-paperwhite-2315763.jpg' alt='Una de las ofertas clásicas del Black Friday ya está disponible: el Kindle Paperwhite está prácticamente a mitad de precio' />
     </a>
 </div>
 
