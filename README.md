@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-escasez-stock-oferta-black-friday-961169'>Estos productos tienen escasez de stock y están en oferta ya por el Black Friday, así que date prisa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-escasez-stock-oferta-black-friday-961169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/portatil-gaming-2441951.jpg' alt='Estos productos tienen escasez de stock y están en oferta ya por el Black Friday, así que date prisa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271'>Cómo arreglar el email según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/consejos_redactar_email.jpg' alt='Cómo arreglar el email según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/construye-maquina-capaz-convertir-bolsas-plastico-combustible-961303'>Construye una máquina capaz de convertir las bolsas de plástico en combustible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/construye-maquina-capaz-convertir-bolsas-plastico-combustible-961303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bolsas-plastico-2526697.jpg' alt='Construye una máquina capaz de convertir las bolsas de plástico en combustible' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295'>Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-celebra-semana-grande-ahora-solo-te-costara-199eu-darte-alta-2526657.jpg' alt='Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199'>Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi' />
+    <h4><a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369'>El busto más alto del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/busto-grande-mundo-2526795.jpg' alt='El busto más alto del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133'>Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-carga-inalambrica-oferta-60eu-descuento-amazon-961133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-pro-2526215.jpg' alt='Los AirPods Pro con carga inalámbrica, en oferta con 60€ de descuento en Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-chips-apple-llevaran-nombres-islas-espanolas-961361'>Los nuevos chips de Apple llevarán nombres de islas españolas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-chips-apple-llevaran-nombres-islas-espanolas-961361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mac-chip-m1-apple-2504961.jpg' alt='Los nuevos chips de Apple llevarán nombres de islas españolas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215'>El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mesa-viaje-lidl-2526413.jpg' alt='El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/opina-productor-eternos-posible-secuela-961077'>Lo que opina el productor de Los Eternos sobre una posible secuela</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/opina-productor-eternos-posible-secuela-961077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/eternos-marvel-studios-2365159.jpg' alt='Lo que opina el productor de Los Eternos sobre una posible secuela' />
     </a>
 </div>
 
