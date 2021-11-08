@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-escasez-stock-oferta-black-friday-961169'>Estos productos tienen escasez de stock y están en oferta ya por el Black Friday, así que date prisa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-escasez-stock-oferta-black-friday-961169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/portatil-gaming-2441951.jpg' alt='Estos productos tienen escasez de stock y están en oferta ya por el Black Friday, así que date prisa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/construye-maquina-capaz-convertir-bolsas-plastico-combustible-961303'>Construye una máquina capaz de convertir las bolsas de plástico en combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/construye-maquina-capaz-convertir-bolsas-plastico-combustible-961303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bolsas-plastico-2526697.jpg' alt='Construye una máquina capaz de convertir las bolsas de plástico en combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199'>Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-acaba-robar-millones-dolares-criptomonedas-plataforma-defi-961199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Un grupo de piratas acaba de robar millones de dólares en criptomonedas de una plataforma DeFi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215'>El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-invento-lidl-ninos-entretengan-viajes-largos-coche-961215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mesa-viaje-lidl-2526413.jpg' alt='El genial invento de LIDL para que los niños se entretengan en los viajes largos en coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931'>Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasate-televisor-samsung-qled-mucho-menos-gracias-oferta-amazon-alexa-integrada-960931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-qled-4k-2021-43q60a-2483503.jpg' alt='Pásate a un televisor Samsung QLED por mucho menos gracias a esta oferta de Amazon, y con Alexa integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185'>Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/baterias-sodio-podrian-ser-solucion-escasez-baterias-coches-electricos-961185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Las baterías de sodio podrían ser la solución a la escasez de baterías para coches eléctricos' />
     </a>
 </div>
 
