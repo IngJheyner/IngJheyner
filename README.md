@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-tiktok-limpiar-ventilador-techo-961933'>El genial truco viral de TikTok para limpiar los ventiladores de techo en segundos, y sin manchar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-tiktok-limpiar-ventilador-techo-961933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ventilador-techo-2393601.jpg' alt='El genial truco viral de TikTok para limpiar los ventiladores de techo en segundos, y sin manchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edificio-plegable-sinagoga-babyn-yar-961929'>Este edificio no necesita puertas: se pliega como un libro por las noches, sin necesidad de motores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edificio-plegable-sinagoga-babyn-yar-961929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/edificio-pliega-como-libro-noches-2527471.jpg' alt='Este edificio no necesita puertas: se pliega como un libro por las noches, sin necesidad de motores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anuncia-windows-11-se-surface-laptop-se-chromebook-961925'>Microsoft anuncia Windows 11 SE y el portátil barato Surface Laptop SE, para competir con Chromebook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anuncia-windows-11-se-surface-laptop-se-chromebook-961925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anuncia-windows-11-portatil-barato-surface-laptop-competir-chromebook-2527465.jpg' alt='Microsoft anuncia Windows 11 SE y el portátil barato Surface Laptop SE, para competir con Chromebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919'>Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-tv-box-s-2429725.jpg' alt='Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097'>En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/new-super-mario-bros-deluxe-2520683.jpg' alt='En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913'>Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/python-desbancado-como-lenguaje-programacion-mejor-pagado-2021-961911'>Python, desbancado como lenguaje de programación mejor pagado en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/python-desbancado-como-lenguaje-programacion-mejor-pagado-2021-961911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lenguajes-programacion-2527435.jpg' alt='Python, desbancado como lenguaje de programación mejor pagado en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095'>Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/interior-tesla-model-s-model-x_0.jpeg' alt='Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot' />
     </a>
 </div>
 
