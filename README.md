@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-fitbit-te-dira-hoy-dia-gimnasio-descanso-961859'>La nueva característica de Fitbit que te dirá si hoy es día de gimnasio o de descanso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-fitbit-te-dira-hoy-dia-gimnasio-descanso-961859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fitbit-charge-4-2439069.jpg' alt='La nueva característica de Fitbit que te dirá si hoy es día de gimnasio o de descanso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913'>Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843'>La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/python-desbancado-como-lenguaje-programacion-mejor-pagado-2021-961911'>Python, desbancado como lenguaje de programación mejor pagado en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/python-desbancado-como-lenguaje-programacion-mejor-pagado-2021-961911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lenguajes-programacion-2527435.jpg' alt='Python, desbancado como lenguaje de programación mejor pagado en 2021' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sandisk-ixpand-go-pendrive-iphone-oferta-amazon-961277'>Si tienes un iPhone con poca capacidad deberías tener este pendrive a mano siempre: añade 128 GB por menos de 35€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sandisk-ixpand-go-pendrive-iphone-oferta-amazon-961277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sandisk-ixpand-go-2526641.jpg' alt='Si tienes un iPhone con poca capacidad deberías tener este pendrive a mano siempre: añade 128 GB por menos de 35€' />
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095'>Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/interior-tesla-model-s-model-x_0.jpeg' alt='Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-windows-mejorar-rendimiento-juegos-947397'>Cómo optimizar Windows para mejorar el rendimiento en juegos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-windows-mejorar-rendimiento-juegos-947397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/como-optimizar-windows-mejorar-rendimiento-juegos-2500437.jpg' alt='Cómo optimizar Windows para mejorar el rendimiento en juegos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/indemnizacion-coche-comprado-2006-2013-961893'>Si has comprado un coche entre 2006 y 2013 podrías recibir una indemnización de hasta 3.000 euros, esto es lo que debes hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/indemnizacion-coche-comprado-2006-2013-961893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/han-entrado-forzadas-marcas-coches-venta-online-concesionario-digital-ya-realidad-1970345.jpg' alt='Si has comprado un coche entre 2006 y 2013 podrías recibir una indemnización de hasta 3.000 euros, esto es lo que debes hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329'>¿Qué es Mini LED? ¿Es mejor que OLED?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/panasonic-oled-jz2000-analisis-opinion-2458913.jpg' alt='¿Qué es Mini LED? ¿Es mejor que OLED?' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697'>Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2129893.jpg' alt='Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles' />
     </a>
 </div>
 
