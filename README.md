@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919'>Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-tv-box-s-2429725.jpg' alt='Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097'>En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/new-super-mario-bros-deluxe-2520683.jpg' alt='En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913'>Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apps-populares-android-millones-descargas-era-realidad-troyano-bancario-961913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Una de las apps más populares para Android con millones de descargas era en realidad un troyano bancario' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095'>Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-antiguos-necesitaran-camaras-nuevas-usar-autopilot-961095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/interior-tesla-model-s-model-x_0.jpeg' alt='Los Tesla antiguos necesitarán cámaras nuevas para usar el Autopilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/indemnizacion-coche-comprado-2006-2013-961893'>Si has comprado un coche entre 2006 y 2013 podrías recibir una indemnización de hasta 3.000 euros, esto es lo que debes hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/indemnizacion-coche-comprado-2006-2013-961893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/han-entrado-forzadas-marcas-coches-venta-online-concesionario-digital-ya-realidad-1970345.jpg' alt='Si has comprado un coche entre 2006 y 2013 podrías recibir una indemnización de hasta 3.000 euros, esto es lo que debes hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697'>Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2129893.jpg' alt='Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles' />
     </a>
 </div>
 
