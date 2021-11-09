@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-podria-encontrar-nuevo-rival-amazon-permitira-pagar-aplicacion-pertenece-paypal-961623'>Bizum podría encontrar un nuevo rival: Amazon permitirá pagar con una aplicación que pertenece a PayPal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bizum-podria-encontrar-nuevo-rival-amazon-permitira-pagar-aplicacion-pertenece-paypal-961623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/venmo-2527037.jpg' alt='Bizum podría encontrar un nuevo rival: Amazon permitirá pagar con una aplicación que pertenece a PayPal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-integrando-beta-funciones-pagos-particulares-puro-estilo-bizum-961691'>WhatsApp está integrando en la beta funciones para pagos entre particulares al más puro estilo Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-integrando-beta-funciones-pagos-particulares-puro-estilo-bizum-961691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp está integrando en la beta funciones para pagos entre particulares al más puro estilo Bizum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cambia-avatar-twitter-surge-nuevo-memecoin-lord-edge-961607'>Elon Musk se cambia el avatar en Twitter y surge un nuevo memecoin: así es el Lord Edge</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cambia-avatar-twitter-surge-nuevo-memecoin-lord-edge-961607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/edgelon-criptomoneda-elon-musk-2527029.jpg' alt='Elon Musk se cambia el avatar en Twitter y surge un nuevo memecoin: así es el Lord Edge' />
+    <h4><a href='https://computerhoy.com/noticias/motor/donde-estan-radares-dgt-multan-espana-133-multas-dia-961647'>Dónde están los radares de la DGT que más multan en España: hasta 133 multas al día</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/donde-estan-radares-dgt-multan-espana-133-multas-dia-961647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Dónde están los radares de la DGT que más multan en España: hasta 133 multas al día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robinhood-comunica-datos-7-millones-clientes-han-sido-robados-961609'>Robinhood comunica que los datos de 7 millones de clientes han sido robados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robinhood-comunica-datos-7-millones-clientes-han-sido-robados-961609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robinhood-2527025.jpg' alt='Robinhood comunica que los datos de 7 millones de clientes han sido robados' />
+    <h4><a href='https://computerhoy.com/guia-compra/monociclo-electrico-943703'>Guía para comprar un monociclo eléctrico: la alternativa compacta al patinete</a></h4>
+    <a href='https://computerhoy.com/guia-compra/monociclo-electrico-943703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/monociclo-2493955.jpg' alt='Guía para comprar un monociclo eléctrico: la alternativa compacta al patinete' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-soluciona-todos-problemas-wifi-mitad-precio-amazon-961115'>El pack que soluciona todos tus problemas con el WiFi está a mitad de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pack-soluciona-todos-problemas-wifi-mitad-precio-amazon-961115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tenda-nova-mw5s-2526197.jpg' alt='El pack que soluciona todos tus problemas con el WiFi está a mitad de precio en Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-autoridades-criptomonedas-moja-futuro-shiba-inu-dogecoin-961631'>Una de las grandes autoridades en criptomonedas se moja sobre el futuro de Shiba Inu y Dogecoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-autoridades-criptomonedas-moja-futuro-shiba-inu-dogecoin-961631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='Una de las grandes autoridades en criptomonedas se moja sobre el futuro de Shiba Inu y Dogecoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-descuento-rebaja-precio-79-euros-960729'>El Huawei Watch Fit está de oferta con un descuento que rebaja su precio hasta los 79 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-descuento-rebaja-precio-79-euros-960729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2067951.jpg' alt='El Huawei Watch Fit está de oferta con un descuento que rebaja su precio hasta los 79 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-aspiradores-potentes-mundo-tiene-100-euros-descuento-amazon-roborock-s5-max-960945'>Uno de los robots aspiradores más potentes del mundo tiene 100 euros de descuento en Amazon, el Roborock S5 MAX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-aspiradores-potentes-mundo-tiene-100-euros-descuento-amazon-roborock-s5-max-960945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg' alt='Uno de los robots aspiradores más potentes del mundo tiene 100 euros de descuento en Amazon, el Roborock S5 MAX' />
     </a>
 </div>
 
