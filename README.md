@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-fitbit-te-dira-hoy-dia-gimnasio-descanso-961859'>La nueva característica de Fitbit que te dirá si hoy es día de gimnasio o de descanso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-fitbit-te-dira-hoy-dia-gimnasio-descanso-961859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fitbit-charge-4-2439069.jpg' alt='La nueva característica de Fitbit que te dirá si hoy es día de gimnasio o de descanso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843'>La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329'>¿Qué es Mini LED? ¿Es mejor que OLED?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/panasonic-oled-jz2000-analisis-opinion-2458913.jpg' alt='¿Qué es Mini LED? ¿Es mejor que OLED?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/camara-te-entrena-casa-gracias-inteligencia-artificial-evita-te-hagas-dano-961837'>Una cámara que te entrena en casa gracias a la inteligencia artificial y evita que te hagas daño</a></h4>
-    <a href='https://computerhoy.com/noticias/camara-te-entrena-casa-gracias-inteligencia-artificial-evita-te-hagas-dano-961837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/camara-inteligencia-artificial-peloton-2527331.jpg' alt='Una cámara que te entrena en casa gracias a la inteligencia artificial y evita que te hagas daño' />
     </a>
 </div>
 
