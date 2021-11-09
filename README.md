@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-copia-tiktok-videos-cortos-atraer-publico-joven-961825'>Netflix copia a TikTok con vídeos cortos para atraer al público más joven</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-copia-tiktok-videos-cortos-atraer-publico-joven-961825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix copia a TikTok con vídeos cortos para atraer al público más joven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711'>Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807'>Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435737.jpg' alt='Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787'>LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-lidl-2527245.jpg' alt='LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas' />
     </a>
 </div>
 
