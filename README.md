@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-961595'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-961595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2527011.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111'>5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524229.jpg' alt='5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259'>La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
     <a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-televisor-2526569.jpg' alt='La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381'>Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estas-son-13-peliculas-marvel-pierden-bandas-negras-disney-gracias-magia-imax-2526805.jpg' alt='Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-ransomware-961377'>MediaMarkt sufre un ataque de ransomware que ha encriptado todos sus servidores, a pocos días del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-ransomware-961377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/media-markt.jpg' alt='MediaMarkt sufre un ataque de ransomware que ha encriptado todos sus servidores, a pocos días del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271'>Cómo arreglar el email según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/consejos_redactar_email.jpg' alt='Cómo arreglar el email según la ciencia' />
     </a>
 </div>
 
