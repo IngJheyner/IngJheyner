@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-961595'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-961595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2527011.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-podria-encontrar-nuevo-rival-amazon-permitira-pagar-aplicacion-pertenece-paypal-961623'>Bizum podría encontrar un nuevo rival: Amazon permitirá pagar con una aplicación que pertenece a PayPal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-podria-encontrar-nuevo-rival-amazon-permitira-pagar-aplicacion-pertenece-paypal-961623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/venmo-2527037.jpg' alt='Bizum podría encontrar un nuevo rival: Amazon permitirá pagar con una aplicación que pertenece a PayPal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111'>5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524229.jpg' alt='5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cambia-avatar-twitter-surge-nuevo-memecoin-lord-edge-961607'>Elon Musk se cambia el avatar en Twitter y surge un nuevo memecoin: así es el Lord Edge</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cambia-avatar-twitter-surge-nuevo-memecoin-lord-edge-961607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/edgelon-criptomoneda-elon-musk-2527029.jpg' alt='Elon Musk se cambia el avatar en Twitter y surge un nuevo memecoin: así es el Lord Edge' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259'>La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-televisor-2526569.jpg' alt='La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robinhood-comunica-datos-7-millones-clientes-han-sido-robados-961609'>Robinhood comunica que los datos de 7 millones de clientes han sido robados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robinhood-comunica-datos-7-millones-clientes-han-sido-robados-961609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robinhood-2527025.jpg' alt='Robinhood comunica que los datos de 7 millones de clientes han sido robados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383'>¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mejor-salud-ser-pajaro-madrugador-buho-nocturno-2526807.jpg' alt='¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-soluciona-todos-problemas-wifi-mitad-precio-amazon-961115'>El pack que soluciona todos tus problemas con el WiFi está a mitad de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-soluciona-todos-problemas-wifi-mitad-precio-amazon-961115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tenda-nova-mw5s-2526197.jpg' alt='El pack que soluciona todos tus problemas con el WiFi está a mitad de precio en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381'>Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estas-son-13-peliculas-marvel-pierden-bandas-negras-disney-gracias-magia-imax-2526805.jpg' alt='Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-descuento-rebaja-precio-79-euros-960729'>El Huawei Watch Fit está de oferta con un descuento que rebaja su precio hasta los 79 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-descuento-rebaja-precio-79-euros-960729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2067951.jpg' alt='El Huawei Watch Fit está de oferta con un descuento que rebaja su precio hasta los 79 euros' />
     </a>
 </div>
 
