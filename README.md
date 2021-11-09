@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383'>¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mejor-salud-ser-pajaro-madrugador-buho-nocturno-2526807.jpg' alt='¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381'>Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-imax-disney-plus-961381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estas-son-13-peliculas-marvel-pierden-bandas-negras-disney-gracias-magia-imax-2526805.jpg' alt='Estas 13 películas de Marvel reciben la versión IMAX en Disney+, y pierden las bandas negras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295'>Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-celebra-semana-grande-ahora-solo-te-costara-199eu-darte-alta-2526657.jpg' alt='Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369'>El busto más alto del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/adiyogi-busto-mas-grande-mundo-961369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/busto-grande-mundo-2526795.jpg' alt='El busto más alto del mundo' />
     </a>
 </div>
 
