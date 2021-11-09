@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259'>La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pocima-definitiva-limpiar-pantalla-televisor-dejar-sola-marca-961259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-televisor-2526569.jpg' alt='La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383'>¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?</a></h4>
     <a href='https://computerhoy.com/noticias/life/salud-madrugar-trasnochar-961383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mejor-salud-ser-pajaro-madrugador-buho-nocturno-2526807.jpg' alt='¿Qué es mejor para la salud, ser un pájaro madrugador o un búho nocturno?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271'>Cómo arreglar el email según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-arreglar-email-ciencia-961271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/consejos_redactar_email.jpg' alt='Cómo arreglar el email según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295'>Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-oferta-suscripcion-961295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-celebra-semana-grande-ahora-solo-te-costara-199eu-darte-alta-2526657.jpg' alt='Disney+ celebra su semana grande y ahora solo te costará 1,99€ darte de alta' />
     </a>
 </div>
 
