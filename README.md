@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-integrando-beta-funciones-pagos-particulares-puro-estilo-bizum-961691'>WhatsApp está integrando en la beta funciones para pagos entre particulares al más puro estilo Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-integrando-beta-funciones-pagos-particulares-puro-estilo-bizum-961691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp está integrando en la beta funciones para pagos entre particulares al más puro estilo Bizum' />
+    <h4><a href='https://computerhoy.com/noticias/life/errores-muy-comunes-cocinar-freidora-aire-estan-arruinando-platos-961737'>Errores muy comunes al cocinar con una freidora de aire que están arruinando tus platos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/errores-muy-comunes-cocinar-freidora-aire-estan-arruinando-platos-961737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507907.jpg' alt='Errores muy comunes al cocinar con una freidora de aire que están arruinando tus platos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/donde-estan-radares-dgt-multan-espana-133-multas-dia-961647'>Dónde están los radares de la DGT que más multan en España: hasta 133 multas al día</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/donde-estan-radares-dgt-multan-espana-133-multas-dia-961647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Dónde están los radares de la DGT que más multan en España: hasta 133 multas al día' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-xiaomi-presume-bateria-10-dias-precio-muy-debajo-100-euros-961099'>Este reloj inteligente de Xiaomi presume de batería de 10 días y de precio, muy por debajo de los 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-xiaomi-presume-bateria-10-dias-precio-muy-debajo-100-euros-961099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232483.jpg' alt='Este reloj inteligente de Xiaomi presume de batería de 10 días y de precio, muy por debajo de los 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/monociclo-electrico-943703'>Guía para comprar un monociclo eléctrico: la alternativa compacta al patinete</a></h4>
-    <a href='https://computerhoy.com/guia-compra/monociclo-electrico-943703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/monociclo-2493955.jpg' alt='Guía para comprar un monociclo eléctrico: la alternativa compacta al patinete' />
+    <h4><a href='https://computerhoy.com/noticias/life/senal-ayuda-viral-tiktok-ayuda-rescatar-adolescente-desaparecida-961751'>La señal de ayuda viral de TikTok ayuda a rescatar a una adolescente desaparecida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/senal-ayuda-viral-tiktok-ayuda-rescatar-adolescente-desaparecida-961751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/signo-violencia-domestica-2527183.jpg' alt='La señal de ayuda viral de TikTok ayuda a rescatar a una adolescente desaparecida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-autoridades-criptomonedas-moja-futuro-shiba-inu-dogecoin-961631'>Una de las grandes autoridades en criptomonedas se moja sobre el futuro de Shiba Inu y Dogecoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-autoridades-criptomonedas-moja-futuro-shiba-inu-dogecoin-961631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='Una de las grandes autoridades en criptomonedas se moja sobre el futuro de Shiba Inu y Dogecoin' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975'>Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-aspiradores-potentes-mundo-tiene-100-euros-descuento-amazon-roborock-s5-max-960945'>Uno de los robots aspiradores más potentes del mundo tiene 100 euros de descuento en Amazon, el Roborock S5 MAX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-aspiradores-potentes-mundo-tiene-100-euros-descuento-amazon-roborock-s5-max-960945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg' alt='Uno de los robots aspiradores más potentes del mundo tiene 100 euros de descuento en Amazon, el Roborock S5 MAX' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/comprar-televisor-nuevo-claves-acertar-eleccion-635899'>10 claves para acertar si quieres cambiar de televisor y comprar una TV nueva</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/comprar-televisor-nuevo-claves-acertar-eleccion-635899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/television-nueva-2526113.jpg' alt='10 claves para acertar si quieres cambiar de televisor y comprar una TV nueva' />
     </a>
 </div>
 
