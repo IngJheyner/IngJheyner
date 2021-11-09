@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/errores-muy-comunes-cocinar-freidora-aire-estan-arruinando-platos-961737'>Errores muy comunes al cocinar con una freidora de aire que están arruinando tus platos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/errores-muy-comunes-cocinar-freidora-aire-estan-arruinando-platos-961737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507907.jpg' alt='Errores muy comunes al cocinar con una freidora de aire que están arruinando tus platos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711'>Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-xiaomi-presume-bateria-10-dias-precio-muy-debajo-100-euros-961099'>Este reloj inteligente de Xiaomi presume de batería de 10 días y de precio, muy por debajo de los 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-xiaomi-presume-bateria-10-dias-precio-muy-debajo-100-euros-961099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232483.jpg' alt='Este reloj inteligente de Xiaomi presume de batería de 10 días y de precio, muy por debajo de los 100 euros' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-te-regala-tres-assassins-creed-chronicles-como-tienes-canjearlos-961809'>Ubisoft te regala los tres Assassin's Creed Chronicles y es así como tienes que canjearlos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ubisoft-te-regala-tres-assassins-creed-chronicles-como-tienes-canjearlos-961809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/assassins-creed-chronicles-2527279.jpg' alt='Ubisoft te regala los tres Assassin's Creed Chronicles y es así como tienes que canjearlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/senal-ayuda-viral-tiktok-ayuda-rescatar-adolescente-desaparecida-961751'>La señal de ayuda viral de TikTok ayuda a rescatar a una adolescente desaparecida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/senal-ayuda-viral-tiktok-ayuda-rescatar-adolescente-desaparecida-961751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/signo-violencia-domestica-2527183.jpg' alt='La señal de ayuda viral de TikTok ayuda a rescatar a una adolescente desaparecida' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mas-barata-cecotec-oferta-amazon-961741'>Corre, que vuelan: vuelve a Amazon la freidora sin aceite más barata, por solo 39 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mas-barata-cecotec-oferta-amazon-961741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-cecofry-compact-rapid-color-blanco-2527177.jpg' alt='Corre, que vuelan: vuelve a Amazon la freidora sin aceite más barata, por solo 39 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975'>Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-mes-black-friday-amazon-960975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Mes del Black Friday en Amazon: estas son las mejores ofertas ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807'>Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435737.jpg' alt='Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/comprar-televisor-nuevo-claves-acertar-eleccion-635899'>10 claves para acertar si quieres cambiar de televisor y comprar una TV nueva</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/comprar-televisor-nuevo-claves-acertar-eleccion-635899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/television-nueva-2526113.jpg' alt='10 claves para acertar si quieres cambiar de televisor y comprar una TV nueva' />
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787'>LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-lidl-2527245.jpg' alt='LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas' />
     </a>
 </div>
 
