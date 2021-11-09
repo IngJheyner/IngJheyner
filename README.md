@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711'>Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-procesador-dimensity-810-pantalla-90-hz-carga-rapida-33-w-mucho-961711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='Así es el POCO M4 Pro 5G: Procesador Dimensity 810, pantalla de 90 Hz, carga rápida de 33 W y mucho más' />
+    <h4><a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843'>La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-inteligencia-artificial-nvidia-podria-ayudarte-encontrar-ps5-stock-961843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='La nueva inteligencia artificial de Nvidia que podría ayudarte a encontrar una PS5 en stock' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-te-regala-tres-assassins-creed-chronicles-como-tienes-canjearlos-961809'>Ubisoft te regala los tres Assassin's Creed Chronicles y es así como tienes que canjearlos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ubisoft-te-regala-tres-assassins-creed-chronicles-como-tienes-canjearlos-961809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/assassins-creed-chronicles-2527279.jpg' alt='Ubisoft te regala los tres Assassin's Creed Chronicles y es así como tienes que canjearlos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sandisk-ixpand-go-pendrive-iphone-oferta-amazon-961277'>Si tienes un iPhone con poca capacidad deberías tener este pendrive a mano siempre: añade 128 GB por menos de 35€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sandisk-ixpand-go-pendrive-iphone-oferta-amazon-961277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sandisk-ixpand-go-2526641.jpg' alt='Si tienes un iPhone con poca capacidad deberías tener este pendrive a mano siempre: añade 128 GB por menos de 35€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mas-barata-cecotec-oferta-amazon-961741'>Corre, que vuelan: vuelve a Amazon la freidora sin aceite más barata, por solo 39 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mas-barata-cecotec-oferta-amazon-961741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-cecofry-compact-rapid-color-blanco-2527177.jpg' alt='Corre, que vuelan: vuelve a Amazon la freidora sin aceite más barata, por solo 39 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-windows-mejorar-rendimiento-juegos-947397'>Cómo optimizar Windows para mejorar el rendimiento en juegos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-windows-mejorar-rendimiento-juegos-947397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/como-optimizar-windows-mejorar-rendimiento-juegos-2500437.jpg' alt='Cómo optimizar Windows para mejorar el rendimiento en juegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807'>Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-apunta-mercado-plegables-fin-competencia-real-fold-samsung-961807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435737.jpg' alt='Honor apunta al mercado de los plegables, por fin competencia real para los Fold de Samsung' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329'>¿Qué es Mini LED? ¿Es mejor que OLED?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mini-led-mejor-oled-942329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/panasonic-oled-jz2000-analisis-opinion-2458913.jpg' alt='¿Qué es Mini LED? ¿Es mejor que OLED?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787'>LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-lanza-proximo-electrodomestico-olla-conservas-guisos-sopas-961787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-lidl-2527245.jpg' alt='LIDL lanza su próximo electrodoméstico: la olla para conservas, guisos y sopas' />
+    <h4><a href='https://computerhoy.com/noticias/camara-te-entrena-casa-gracias-inteligencia-artificial-evita-te-hagas-dano-961837'>Una cámara que te entrena en casa gracias a la inteligencia artificial y evita que te hagas daño</a></h4>
+    <a href='https://computerhoy.com/noticias/camara-te-entrena-casa-gracias-inteligencia-artificial-evita-te-hagas-dano-961837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/camara-inteligencia-artificial-peloton-2527331.jpg' alt='Una cámara que te entrena en casa gracias a la inteligencia artificial y evita que te hagas daño' />
     </a>
 </div>
 
