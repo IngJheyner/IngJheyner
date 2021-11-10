@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547'>Netflix se actualiza para verse mejor y reducir los molestos parones de imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/netflix-2445431.jpg' alt='Netflix se actualiza para verse mejor y reducir los molestos parones de imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-itrapo-apple-50-grande-25-euros-barato-962543'>Samsung se burla del iTrapo de Apple: 50% más grande y 25 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-itrapo-apple-50-grande-25-euros-barato-962543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pano-limpieza-samsung-2528505.jpg' alt='Samsung se burla del iTrapo de Apple: 50% más grande y 25 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/2022-sera-ano-volkswagen-id5-sabe-961757'>2022 será el año el Volkswagen ID.5: esto es lo que se sabe</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/2022-sera-ano-volkswagen-id5-sabe-961757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-id5-2022-tg-2521257.jpg' alt='2022 será el año el Volkswagen ID.5: esto es lo que se sabe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/crisis-adblue-paro-produccion-962515'>Primero los chips, y ahora la crisis del Adblue: se para la producción</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/crisis-adblue-paro-produccion-962515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nuevo-sistema-dieseltapon-adblue-2057819.jpg' alt='Primero los chips, y ahora la crisis del Adblue: se para la producción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2131703.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/quinta-generacion-ssds-llegara-14-gbs-doble-velocidad-generacion-actual-962481'>La quinta generación de SSDs llegará a los 14 GB/s, el doble de velocidad que la generación actual</a></h4>
-    <a href='https://computerhoy.com/noticias/quinta-generacion-ssds-llegara-14-gbs-doble-velocidad-generacion-actual-962481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/crucial-p1-ssd-nvme-2194945.jpg' alt='La quinta generación de SSDs llegará a los 14 GB/s, el doble de velocidad que la generación actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111'>5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524229.jpg' alt='5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espanol-inventa-sistema-generar-energia-gratis-depender-electricas-quiere-donarlo-forma-altruista-962429'>Un español inventa un sistema para generar energía gratis sin depender de las eléctricas y quiere donarlo de forma altruista</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espanol-inventa-sistema-generar-energia-gratis-depender-electricas-quiere-donarlo-forma-altruista-962429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/nadie-te-habia-contado-precio-electricidad_2.jpg' alt='Un español inventa un sistema para generar energía gratis sin depender de las eléctricas y quiere donarlo de forma altruista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249'>Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg' alt='Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido' />
     </a>
 </div>
 
