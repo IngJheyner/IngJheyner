@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2021: guía de compra para encontrar el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/apple-ipad-pro-129-2021-2357913.jpg' alt='Comprar una tablet en 2021: guía de compra para encontrar el mejor modelo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407'>WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-meta-2518769.jpg' alt='WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985'>Amazon Fire TV Stick 4K Max, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='Amazon Fire TV Stick 4K Max, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/motor/radio-inteligente--sony-apple-carplay-oferta-amazon-962217'>Una radio inteligente para tu coche a precio de ganga, por 210 euros en Amazon ¡y con Apple Carplay! </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/radio-inteligente--sony-apple-carplay-oferta-amazon-962217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radio-carplay-android-auto-coche-2198625.jpg' alt='Una radio inteligente para tu coche a precio de ganga, por 210 euros en Amazon ¡y con Apple Carplay! ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329'>El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/exynos-samsung-2184061.jpg' alt='El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365'>Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/review-iphone-13-2492601.jpg' alt='Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205'>Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mjcmy01dy-aspiradora-acaros-2527715.jpg' alt='Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa' />
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-electrodomestico-lidl-crear-propios-snacks-saludables-casa-solo-2499-euros-962349'>El nuevo electrodoméstico de Lidl para crear tus propios snacks saludables en casa por solo 24,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-electrodomestico-lidl-crear-propios-snacks-saludables-casa-solo-2499-euros-962349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/electrodomestico-lidl-2527983.jpg' alt='El nuevo electrodoméstico de Lidl para crear tus propios snacks saludables en casa por solo 24,99 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271'>Radiografía del Bizum perfecto para evitar ser estafado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Radiografía del Bizum perfecto para evitar ser estafado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demostracion-grafica-como-rapida-velocidad-luz-962305'>Demostración gráfica de cómo de rápida es la velocidad de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demostracion-grafica-como-rapida-velocidad-luz-962305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/velocidad-luz-2527981.jpg' alt='Demostración gráfica de cómo de rápida es la velocidad de la luz' />
     </a>
 </div>
 
