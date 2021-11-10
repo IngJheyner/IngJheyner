@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2021: guía de compra para encontrar el mejor modelo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/apple-ipad-pro-129-2021-2357913.jpg' alt='Comprar una tablet en 2021: guía de compra para encontrar el mejor modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985'>Amazon Fire TV Stick 4K Max, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='Amazon Fire TV Stick 4K Max, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329'>El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/exynos-samsung-2184061.jpg' alt='El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205'>Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mjcmy01dy-aspiradora-acaros-2527715.jpg' alt='Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271'>Radiografía del Bizum perfecto para evitar ser estafado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Radiografía del Bizum perfecto para evitar ser estafado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/dgt-advierte-no-hacemos-caso-pero-causante-muchas-averias-coche-962243'>La DGT advierte: no le hacemos caso pero es la causante de muchas averías de nuestro coche</a></h4>
-    <a href='https://computerhoy.com/noticias/dgt-advierte-no-hacemos-caso-pero-causante-muchas-averias-coche-962243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/averia-coche.jpg' alt='La DGT advierte: no le hacemos caso pero es la causante de muchas averías de nuestro coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/convierte-millonario-seis-meses-gracias-shiba-inu-retira-solo-35-anos-962239'>Se convierte en millonario en seis meses gracias a Shiba Inu y se retira con solo 35 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/convierte-millonario-seis-meses-gracias-shiba-inu-retira-solo-35-anos-962239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Se convierte en millonario en seis meses gracias a Shiba Inu y se retira con solo 35 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-entra-razon-no-desactivara-face-id-moviles-reparados-962215'>Apple entra en razón: no desactivará el Face ID de los móviles reparados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-entra-razon-no-desactivara-face-id-moviles-reparados-962215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/chip-iphone-13-2523933.jpg' alt='Apple entra en razón: no desactivará el Face ID de los móviles reparados' />
     </a>
 </div>
 
