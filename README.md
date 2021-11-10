@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415'>Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos.jpg' alt='Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419'>DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407'>WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-meta-2518769.jpg' alt='WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365'>Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/review-iphone-13-2492601.jpg' alt='Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-electrodomestico-lidl-crear-propios-snacks-saludables-casa-solo-2499-euros-962349'>El nuevo electrodoméstico de Lidl para crear tus propios snacks saludables en casa por solo 24,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-electrodomestico-lidl-crear-propios-snacks-saludables-casa-solo-2499-euros-962349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/electrodomestico-lidl-2527983.jpg' alt='El nuevo electrodoméstico de Lidl para crear tus propios snacks saludables en casa por solo 24,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demostracion-grafica-como-rapida-velocidad-luz-962305'>Demostración gráfica de cómo de rápida es la velocidad de la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demostracion-grafica-como-rapida-velocidad-luz-962305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/velocidad-luz-2527981.jpg' alt='Demostración gráfica de cómo de rápida es la velocidad de la luz' />
     </a>
 </div>
 
