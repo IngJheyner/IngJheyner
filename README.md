@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111'>5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524229.jpg' alt='5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espanol-inventa-sistema-generar-energia-gratis-depender-electricas-quiere-donarlo-forma-altruista-962429'>Un español inventa un sistema para generar energía gratis sin depender de las eléctricas y quiere donarlo de forma altruista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espanol-inventa-sistema-generar-energia-gratis-depender-electricas-quiere-donarlo-forma-altruista-962429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/nadie-te-habia-contado-precio-electricidad_2.jpg' alt='Un español inventa un sistema para generar energía gratis sin depender de las eléctricas y quiere donarlo de forma altruista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249'>Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg' alt='Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415'>Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos.jpg' alt='Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419'>DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407'>WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-nueva-informacion-contacto-opciones-borrado-mensajes-mayor-compatibilidad-962407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-meta-2518769.jpg' alt='WhatsApp se actualiza con nueva información de contacto, opciones de borrado de mensajes y mayor compatibilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/radio-inteligente--sony-apple-carplay-oferta-amazon-962217'>Una radio inteligente para tu coche a precio de ganga, por 210 euros en Amazon ¡y con Apple Carplay! </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/radio-inteligente--sony-apple-carplay-oferta-amazon-962217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radio-carplay-android-auto-coche-2198625.jpg' alt='Una radio inteligente para tu coche a precio de ganga, por 210 euros en Amazon ¡y con Apple Carplay! ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365'>Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-quedarse-suministro-iphone-13-febrero-2022-962365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/review-iphone-13-2492601.jpg' alt='Apple podría quedarse sin suministro de IPhone 13 hasta febrero de 2022' />
     </a>
 </div>
 
