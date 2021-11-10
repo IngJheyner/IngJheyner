@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-oneplus-10-pro-menos-camaras-predecesor-snapdragon-898-962193'>Así sería el OnePlus 10 Pro: menos cámaras que su predecesor y un Snapdragon 898</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-oneplus-10-pro-menos-camaras-predecesor-snapdragon-898-962193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-10-pro-renders-2527707.jpg' alt='Así sería el OnePlus 10 Pro: menos cámaras que su predecesor y un Snapdragon 898' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985'>Amazon Fire TV Stick 4K Max, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/amazon-fire-tv-stick-4k-max-review-opinion-960985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='Amazon Fire TV Stick 4K Max, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-oferta-80-euros-descuento-huawei-freebuds-4i-regalo-960727'>El Huawei Watch GT 2 está de oferta con 80 euros de descuento y los Huawei FreeBuds 4i de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-oferta-80-euros-descuento-huawei-freebuds-4i-regalo-960727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/huawei-watch-gt-2-pro-2481029.jpg' alt='El Huawei Watch GT 2 está de oferta con 80 euros de descuento y los Huawei FreeBuds 4i de regalo' />
+    <h4><a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329'>El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-procesador-samsung-exynos-2200-vence-problemas-snapdragon-888-962329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/exynos-samsung-2184061.jpg' alt='El nuevo procesador Samsung Exynos 2200 vence sin problemas al Snapdragon 888' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-pay-962181'>Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-pay-962181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205'>Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curioso-aparato-xiaomi-perfecto-te-obsesiona-limpieza-casa-962205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mjcmy01dy-aspiradora-acaros-2527715.jpg' alt='Este curioso aparato de Xiaomi es perfecto si te obsesiona la limpieza en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-13-amazon-modelo-128gb-50-euros-descuento-962189'>Primera oferta en el iPhone 13 en Amazon: el modelo de 128GB tiene 50€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-13-amazon-modelo-128gb-50-euros-descuento-962189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Primera oferta en el iPhone 13 en Amazon: el modelo de 128GB tiene 50€ de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271'>Radiografía del Bizum perfecto para evitar ser estafado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/radiografia-bizum-perfecto-evitar-ser-estafado-962271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Radiografía del Bizum perfecto para evitar ser estafado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989'>Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xbox-series-x-diseno-2120851.jpg' alt='Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft' />
+    <h4><a href='https://computerhoy.com/noticias/dgt-advierte-no-hacemos-caso-pero-causante-muchas-averias-coche-962243'>La DGT advierte: no le hacemos caso pero es la causante de muchas averías de nuestro coche</a></h4>
+    <a href='https://computerhoy.com/noticias/dgt-advierte-no-hacemos-caso-pero-causante-muchas-averias-coche-962243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/averia-coche.jpg' alt='La DGT advierte: no le hacemos caso pero es la causante de muchas averías de nuestro coche' />
     </a>
 </div>
 
