@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-962181'>Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-962181' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-oneplus-10-pro-menos-camaras-predecesor-snapdragon-898-962193'>Así sería el OnePlus 10 Pro: menos cámaras que su predecesor y un Snapdragon 898</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-oneplus-10-pro-menos-camaras-predecesor-snapdragon-898-962193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-10-pro-renders-2527707.jpg' alt='Así sería el OnePlus 10 Pro: menos cámaras que su predecesor y un Snapdragon 898' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-oferta-80-euros-descuento-huawei-freebuds-4i-regalo-960727'>El Huawei Watch GT 2 está de oferta con 80 euros de descuento y los Huawei FreeBuds 4i de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-oferta-80-euros-descuento-huawei-freebuds-4i-regalo-960727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/huawei-watch-gt-2-pro-2481029.jpg' alt='El Huawei Watch GT 2 está de oferta con 80 euros de descuento y los Huawei FreeBuds 4i de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-pay-962181'>Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-pay-962181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989'>Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xbox-series-x-diseno-2120851.jpg' alt='Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697'>Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2129893.jpg' alt='Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dos-medicamentos-presion-arterial-no-cumplian-estandares-calidad-961753'>Dos medicamentos para la presión arterial no cumplían con los estándares de calidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dos-medicamentos-presion-arterial-no-cumplian-estandares-calidad-961753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/presion-arterial.jpg' alt='Dos medicamentos para la presión arterial no cumplían con los estándares de calidad' />
     </a>
 </div>
 
