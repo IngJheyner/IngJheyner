@@ -50,30 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiador-cecotec-autovaciado-oferta-962555'>El nuevo robot limpiador de Cecotec con autovaciado, vale 200 euros menos que la competencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiador-cecotec-autovaciado-oferta-962555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevo-robot-limpiador-cecotec-autovaciado-vale-200-euros-menos-competencia-2528519.jpg' alt='El nuevo robot limpiador de Cecotec con autovaciado, vale 200 euros menos que la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-podria-convertirse-peliculas-largas-marvel-961763'>Spider-Man No Way Home podría convertirse en una de las películas más largas de Marvel</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-podria-convertirse-peliculas-largas-marvel-961763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spider-man-no-way-home-2522035.jpg' alt='Spider-Man No Way Home podría convertirse en una de las películas más largas de Marvel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-sin-combustible-962549'>SpinLaunch completa el primer lanzamiento de un cohete sin combustible, ¿cómo lo hace?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-sin-combustible-962549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spinlaunch-completa-primer-lanzamiento-cohete-combustible-como-hace-2528513.jpg' alt='SpinLaunch completa el primer lanzamiento de un cohete sin combustible, ¿cómo lo hace?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547'>Netflix se actualiza para verse mejor y reducir los molestos parones de imagen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/netflix-2445431.jpg' alt='Netflix se actualiza para verse mejor y reducir los molestos parones de imagen' />
@@ -85,6 +61,30 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-itrapo-apple-50-grande-25-euros-barato-962543'>Samsung se burla del iTrapo de Apple: 50% más grande y 25 euros más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-itrapo-apple-50-grande-25-euros-barato-962543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pano-limpieza-samsung-2528505.jpg' alt='Samsung se burla del iTrapo de Apple: 50% más grande y 25 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/2022-sera-ano-volkswagen-id5-sabe-961757'>2022 será el año el Volkswagen ID.5: esto es lo que se sabe</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/2022-sera-ano-volkswagen-id5-sabe-961757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-id5-2022-tg-2521257.jpg' alt='2022 será el año el Volkswagen ID.5: esto es lo que se sabe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/crisis-adblue-paro-produccion-962515'>Primero los chips, y ahora la crisis del Adblue: se para la producción</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/crisis-adblue-paro-produccion-962515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nuevo-sistema-dieseltapon-adblue-2057819.jpg' alt='Primero los chips, y ahora la crisis del Adblue: se para la producción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2131703.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
     </a>
 </div>
 
