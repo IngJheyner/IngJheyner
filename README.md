@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-tiktok-limpiar-ventilador-techo-961933'>El genial truco viral de TikTok para limpiar los ventiladores de techo en segundos, y sin manchar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-tiktok-limpiar-ventilador-techo-961933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ventilador-techo-2393601.jpg' alt='El genial truco viral de TikTok para limpiar los ventiladores de techo en segundos, y sin manchar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-962181'>Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-dice-no-criptomonedas-momento-aleja-apple-962181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook dice No a las criptomonedas por el momento y las aleja de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edificio-plegable-sinagoga-babyn-yar-961929'>Este edificio no necesita puertas: se pliega como un libro por las noches, sin necesidad de motores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edificio-plegable-sinagoga-babyn-yar-961929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/edificio-pliega-como-libro-noches-2527471.jpg' alt='Este edificio no necesita puertas: se pliega como un libro por las noches, sin necesidad de motores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-13-amazon-modelo-128gb-50-euros-descuento-962189'>Primera oferta en el iPhone 13 en Amazon: el modelo de 128GB tiene 50€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-13-amazon-modelo-128gb-50-euros-descuento-962189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Primera oferta en el iPhone 13 en Amazon: el modelo de 128GB tiene 50€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anuncia-windows-11-se-surface-laptop-se-chromebook-961925'>Microsoft anuncia Windows 11 SE y el portátil barato Surface Laptop SE, para competir con Chromebook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anuncia-windows-11-se-surface-laptop-se-chromebook-961925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anuncia-windows-11-portatil-barato-surface-laptop-competir-chromebook-2527465.jpg' alt='Microsoft anuncia Windows 11 SE y el portátil barato Surface Laptop SE, para competir con Chromebook' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989'>Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/xbox-series-x-opinion-analisis-primer-ano-bestia-microsoft-960989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xbox-series-x-diseno-2120851.jpg' alt='Xbox Series X, opinión y análisis del primer año de la bestia de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919'>Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-box-s-android-chromecast-oferta-961919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-tv-box-s-2429725.jpg' alt='Xiaomi Mi TV Box S, añade Android y Chromecast a cualquier pantalla, por solo 44 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697'>Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-11-11-aliexpress-961697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2129893.jpg' alt='Cupones del 11.11 en AliExpress: estos son los mejores que hay disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097'>En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-han-bloqueado-proyecto-no-oficial-mario-como-juego-apuestas-nft-961097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/new-super-mario-bros-deluxe-2520683.jpg' alt='En Nintendo han bloqueado un proyecto no oficial de Mario como juego de apuestas NFT' />
+    <h4><a href='https://computerhoy.com/noticias/life/dos-medicamentos-presion-arterial-no-cumplian-estandares-calidad-961753'>Dos medicamentos para la presión arterial no cumplían con los estándares de calidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dos-medicamentos-presion-arterial-no-cumplian-estandares-calidad-961753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/presion-arterial.jpg' alt='Dos medicamentos para la presión arterial no cumplían con los estándares de calidad' />
     </a>
 </div>
 
