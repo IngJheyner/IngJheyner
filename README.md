@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-1111-2131703.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/quinta-generacion-ssds-llegara-14-gbs-doble-velocidad-generacion-actual-962481'>La quinta generación de SSDs llegará a los 14 GB/s, el doble de velocidad que la generación actual</a></h4>
+    <a href='https://computerhoy.com/noticias/quinta-generacion-ssds-llegara-14-gbs-doble-velocidad-generacion-actual-962481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/crucial-p1-ssd-nvme-2194945.jpg' alt='La quinta generación de SSDs llegará a los 14 GB/s, el doble de velocidad que la generación actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111'>5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-oferta-amazon-mes-black-friday-961111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524229.jpg' alt='5 móviles Xiaomi que ya están en oferta en Amazon por el mes del Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249'>Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cepillo-dientes-electrico-xiaomi-solo-1eu-chollo-tiene-ademas-envio-rapido-962249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg' alt='Un cepillo de dientes eléctrico de Xiaomi ¡por solo 1€! Este chollo tiene además envío rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415'>Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-paises-fabricantes-dejaran-vender-coches-combustion-antes-2035-962415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos.jpg' alt='Estos son los países y fabricantes que dejarán de vender coches de combustión antes de 2035' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419'>DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dram-5x-nueva-memoria-samsung-podria-mejorar-eficiencia-moviles-962419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='DRAM 5X, la nueva memoria de Samsung que podría mejorar la eficiencia de los móviles' />
     </a>
 </div>
 
