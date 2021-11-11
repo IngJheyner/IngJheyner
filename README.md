@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-mejores-pulseras-inteligentes-ahora-menos-50-euros-960731'>La Huawei Band 6 es una de las mejores pulseras inteligentes y ahora está por menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-mejores-pulseras-inteligentes-ahora-menos-50-euros-960731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351987.jpg' alt='La Huawei Band 6 es una de las mejores pulseras inteligentes y ahora está por menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773'>La crisis de los semiconductores no reduce los beneficios de Lenovo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-tab-p12-pro-2463655.jpg' alt='La crisis de los semiconductores no reduce los beneficios de Lenovo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381'>Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-1111-2528019.jpg' alt='Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-manchas-blancas-provocadas-lavar-vasos-lavavajillas-962369'>Cómo eliminar las manchas blancas provocadas por lavar los vasos en el lavavajillas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-eliminar-manchas-blancas-provocadas-lavar-vasos-lavavajillas-962369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vasos-dentro-lavavajillas-2528015.jpg' alt='Cómo eliminar las manchas blancas provocadas por lavar los vasos en el lavavajillas' />
     </a>
 </div>
 
