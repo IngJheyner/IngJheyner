@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133'>Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tecnologia-seagate-rompera-records-hdd-2480285.jpg' alt='Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tocadiscos-portatil-bluetooth-grabacion-usb-mp3-lidl-menos-90-euros-963129'>Tocadiscos portátil con bluetooth, grabación USB y MP3 de LIDL por menos de 90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tocadiscos-portatil-bluetooth-grabacion-usb-mp3-lidl-menos-90-euros-963129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/bang-olufsen-restaura-95-tocadiscos-anos-70-vende-11000-euros-2097833.jpg' alt='Tocadiscos portátil con bluetooth, grabación USB y MP3 de LIDL por menos de 90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087'>La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063'>Acostarte a estas horas evita que tengas problemas de corazón</a></h4>
     <a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dormir-2140069.jpg' alt='Acostarte a estas horas evita que tengas problemas de corazón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985'>Los móviles chinos más baratos que puedes comprar durante el 11.11</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523285.jpg' alt='Los móviles chinos más baratos que puedes comprar durante el 11.11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039'>Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/video-dgt-2296249.jpg' alt='Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT' />
     </a>
 </div>
 
