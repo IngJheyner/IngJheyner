@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127'>El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/taurus-mycook-one-2417553.jpg' alt='El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303'>Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-switch-oled-2397419.jpg' alt='Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199'>Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195'>Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radio-coche-2529671.jpg' alt='Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche' />
     </a>
 </div>
 
