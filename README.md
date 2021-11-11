@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169'>Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-idbuzz-2523159.jpg' alt='Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199'>Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195'>Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radio-coche-2529671.jpg' alt='Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/metaverso-facebook-consejos-entrevista-trabajo-963191'>El Metaverso de Facebook se va a construir en España: 5 consejos para conseguir uno de los 10.000 puestos de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/metaverso-facebook-consejos-entrevista-trabajo-963191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metaverso-facebook-va-construir-espana-5-consejos-conseguir-10000-puestos-trabajo-2529665.jpg' alt='El Metaverso de Facebook se va a construir en España: 5 consejos para conseguir uno de los 10.000 puestos de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033'>10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133'>Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tecnologia-seagate-rompera-records-hdd-2480285.jpg' alt='Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tocadiscos-portatil-bluetooth-grabacion-usb-mp3-lidl-menos-90-euros-963129'>Tocadiscos portátil con bluetooth, grabación USB y MP3 de LIDL por menos de 90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tocadiscos-portatil-bluetooth-grabacion-usb-mp3-lidl-menos-90-euros-963129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/bang-olufsen-restaura-95-tocadiscos-anos-70-vende-11000-euros-2097833.jpg' alt='Tocadiscos portátil con bluetooth, grabación USB y MP3 de LIDL por menos de 90 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087'>La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007'>Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/snapdragon-spaces-2529207.jpg' alt='Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada' />
     </a>
 </div>
 
