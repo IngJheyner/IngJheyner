@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-mejores-pulseras-inteligentes-ahora-menos-50-euros-960731'>La Huawei Band 6 es una de las mejores pulseras inteligentes y ahora está por menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-mejores-pulseras-inteligentes-ahora-menos-50-euros-960731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351987.jpg' alt='La Huawei Band 6 es una de las mejores pulseras inteligentes y ahora está por menos de 50 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-realme-precio-ganga-1111-snapdragon-888-como-procesador-962525'>El móvil más potente de realme, a precio de ganga por el 11.11, y con Snapdragon 888 como procesador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-realme-precio-ganga-1111-snapdragon-888-como-procesador-962525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446989.jpg' alt='El móvil más potente de realme, a precio de ganga por el 11.11, y con Snapdragon 888 como procesador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773'>La crisis de los semiconductores no reduce los beneficios de Lenovo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-tab-p12-pro-2463655.jpg' alt='La crisis de los semiconductores no reduce los beneficios de Lenovo' />
+    <h4><a href='https://computerhoy.com/noticias/sencillo-truco-hacer-android-auto-vea-mucho-mejor-pantalla-coche-962933'>El sencillo truco para hacer que Android Auto se vea mucho mejor en la pantalla de tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/sencillo-truco-hacer-android-auto-vea-mucho-mejor-pantalla-coche-962933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='El sencillo truco para hacer que Android Auto se vea mucho mejor en la pantalla de tu coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-pasa-millas-kilometros-cual-conversion-961765'>Cómo se pasa de millas a kilómetros, cuál es su conversión</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-pasa-millas-kilometros-cual-conversion-961765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/millas-km-2523241.jpg' alt='Cómo se pasa de millas a kilómetros, cuál es su conversión' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-curiosos-xiaomi-1111-estan-precio-ganga-aliexpress-962913'>Productos curiosos de Xiaomi que en el 11.11 están a precio de ganga en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-curiosos-xiaomi-1111-estan-precio-ganga-aliexpress-962913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/logo-xiaomi-2375983.jpg' alt='Productos curiosos de Xiaomi que en el 11.11 están a precio de ganga en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-962803'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-962803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2528779.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/corte-ingles-no-celebrando-80-aniversario-sorteo-500-euros-phishing-962927'>El Corte Inglés no está celebrando su 80 aniversario con un sorteo de 500 euros: es phishing</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/corte-ingles-no-celebrando-80-aniversario-sorteo-500-euros-phishing-962927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/whatsapp-phishing-2339799.jpg' alt='El Corte Inglés no está celebrando su 80 aniversario con un sorteo de 500 euros: es phishing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381'>Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-1111-2528019.jpg' alt='Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compleja-estafa-bizum-consiguieron-robar-24000-euros-sola-persona-962917'>La compleja estafa por Bizum con la que consiguieron robar hasta 240.00 euros a una sola persona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compleja-estafa-bizum-consiguieron-robar-24000-euros-sola-persona-962917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La compleja estafa por Bizum con la que consiguieron robar hasta 240.00 euros a una sola persona' />
     </a>
 </div>
 
