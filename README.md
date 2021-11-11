@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033'>10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133'>Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seagate-acaba-desarrollar-primer-disco-duro-nvme-no-ssd-963133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tecnologia-seagate-rompera-records-hdd-2480285.jpg' alt='Seagate acaba de desarrollar el primer disco duro NVMe que no es un SSD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007'>Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/snapdragon-spaces-2529207.jpg' alt='Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063'>Acostarte a estas horas evita que tengas problemas de corazón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dormir-2140069.jpg' alt='Acostarte a estas horas evita que tengas problemas de corazón' />
     </a>
 </div>
 
