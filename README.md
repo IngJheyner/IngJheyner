@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773'>La crisis de los semiconductores no reduce los beneficios de Lenovo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-no-reduce-beneficios-lenovo-961773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-tab-p12-pro-2463655.jpg' alt='La crisis de los semiconductores no reduce los beneficios de Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-pasa-millas-kilometros-cual-conversion-961765'>Cómo se pasa de millas a kilómetros, cuál es su conversión</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-pasa-millas-kilometros-cual-conversion-961765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/millas-km-2523241.jpg' alt='Cómo se pasa de millas a kilómetros, cuál es su conversión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-962803'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-962803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2528779.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381'>Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/directo-ofertas-1111-aliexpress-vivo-962381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-1111-2528019.jpg' alt='Ofertas del 11.11 de AliExpress en directo: última hora con cupones actualizados en vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-manchas-blancas-provocadas-lavar-vasos-lavavajillas-962369'>Cómo eliminar las manchas blancas provocadas por lavar los vasos en el lavavajillas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-eliminar-manchas-blancas-provocadas-lavar-vasos-lavavajillas-962369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vasos-dentro-lavavajillas-2528015.jpg' alt='Cómo eliminar las manchas blancas provocadas por lavar los vasos en el lavavajillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-causas-no-adelgazas-962569'>7 causas por las que no bajas kilos pese a seguir una dieta y hacer ejercicio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-causas-no-adelgazas-962569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-causas-no-bajas-kilos-pese-seguir-dieta-2528541.jpg' alt='7 causas por las que no bajas kilos pese a seguir una dieta y hacer ejercicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-boton-no-me-gusta-acoso-962565'>YouTube hace un importante cambio en las votaciones de los vídeos, para luchar contra el acoso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-boton-no-me-gusta-acoso-962565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-subtitulos-linus-2496001.jpg' alt='YouTube hace un importante cambio en las votaciones de los vídeos, para luchar contra el acoso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiador-cecotec-autovaciado-oferta-962555'>El nuevo robot limpiador de Cecotec con autovaciado, vale 200 euros menos que la competencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiador-cecotec-autovaciado-oferta-962555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevo-robot-limpiador-cecotec-autovaciado-vale-200-euros-menos-competencia-2528519.jpg' alt='El nuevo robot limpiador de Cecotec con autovaciado, vale 200 euros menos que la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-podria-convertirse-peliculas-largas-marvel-961763'>Spider-Man No Way Home podría convertirse en una de las películas más largas de Marvel</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-podria-convertirse-peliculas-largas-marvel-961763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spider-man-no-way-home-2522035.jpg' alt='Spider-Man No Way Home podría convertirse en una de las películas más largas de Marvel' />
     </a>
 </div>
 
