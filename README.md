@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303'>Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-switch-oled-2397419.jpg' alt='Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217'>La bicicleta estática más avanzada se inclina como las de carretera (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/simulador-ciclismo-avanzado-montar-casa-2529697.jpg' alt='La bicicleta estática más avanzada se inclina como las de carretera (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169'>Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-idbuzz-2523159.jpg' alt='Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195'>Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ni-android-auto-carplay-funcion-todo-mundo-quiere-tener-coche-963195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radio-coche-2529671.jpg' alt='Ni Android Auto o CarPlay, esta es la función que todo el mundo quiere tener en su coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/metaverso-facebook-consejos-entrevista-trabajo-963191'>El Metaverso de Facebook se va a construir en España: 5 consejos para conseguir uno de los 10.000 puestos de trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/metaverso-facebook-consejos-entrevista-trabajo-963191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metaverso-facebook-va-construir-espana-5-consejos-conseguir-10000-puestos-trabajo-2529665.jpg' alt='El Metaverso de Facebook se va a construir en España: 5 consejos para conseguir uno de los 10.000 puestos de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033'>10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-ultima-hora-11-11-aliexpress-963033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='10 ofertas de última hora del 11.11 que tienen stock y quizás te habías perdido' />
     </a>
 </div>
 
