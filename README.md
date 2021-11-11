@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223'>Apple lo quiere dejar todo bien atado para cuando te mueras</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492379.jpg' alt='Apple lo quiere dejar todo bien atado para cuando te mueras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127'>El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/taurus-mycook-one-2417553.jpg' alt='El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169'>Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-idbuzz-2523159.jpg' alt='Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199'>Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bizum-prepara-nueva-funcionalidad-cara-fiestas-navidad-963199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Bizum prepara una nueva funcionalidad de cara a las fiestas de Navidad' />
     </a>
 </div>
 
