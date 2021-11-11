@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087'>La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-nos-trae-forma-especifica-proteger-privacidad-963087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='La nueva actualización de WhatsApp nos trae una forma más especifica de proteger nuestra privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007'>Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-lanza-snapdragon-spaces-adelantando-mundo-lleno-gafas-realidad-aumentada-963007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/snapdragon-spaces-2529207.jpg' alt='Qualcomm lanza Snapdragon Spaces, adelantando un mundo lleno de gafas de realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063'>Acostarte a estas horas evita que tengas problemas de corazón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/acostarte-estas-horas-evita-tengas-problemas-corazon-963063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dormir-2140069.jpg' alt='Acostarte a estas horas evita que tengas problemas de corazón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985'>Los móviles chinos más baratos que puedes comprar durante el 11.11</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523285.jpg' alt='Los móviles chinos más baratos que puedes comprar durante el 11.11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039'>Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/video-dgt-2296249.jpg' alt='Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-critpomoneda-hace-procesadores-ryzen-sean-maquina-hacer-dinero-962999'>Esta nueva criptomoneda hace que los procesadores Ryzen sean una máquina de hacer dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-critpomoneda-hace-procesadores-ryzen-sean-maquina-hacer-dinero-962999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Esta nueva criptomoneda hace que los procesadores Ryzen sean una máquina de hacer dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965'>Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/windows%207.jpg' alt='Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941'>La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-coccion-lenta-lidl-2529007.jpg' alt='La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga' />
     </a>
 </div>
 
