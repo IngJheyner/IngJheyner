@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-realme-precio-ganga-1111-snapdragon-888-como-procesador-962525'>El móvil más potente de realme, a precio de ganga por el 11.11, y con Snapdragon 888 como procesador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-realme-precio-ganga-1111-snapdragon-888-como-procesador-962525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446989.jpg' alt='El móvil más potente de realme, a precio de ganga por el 11.11, y con Snapdragon 888 como procesador' />
+    <h4><a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965'>Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/windows%207.jpg' alt='Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/sencillo-truco-hacer-android-auto-vea-mucho-mejor-pantalla-coche-962933'>El sencillo truco para hacer que Android Auto se vea mucho mejor en la pantalla de tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/sencillo-truco-hacer-android-auto-vea-mucho-mejor-pantalla-coche-962933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='El sencillo truco para hacer que Android Auto se vea mucho mejor en la pantalla de tu coche' />
+    <h4><a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941'>La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-coccion-lenta-lidl-2529007.jpg' alt='La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-curiosos-xiaomi-1111-estan-precio-ganga-aliexpress-962913'>Productos curiosos de Xiaomi que en el 11.11 están a precio de ganga en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-curiosos-xiaomi-1111-estan-precio-ganga-aliexpress-962913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/logo-xiaomi-2375983.jpg' alt='Productos curiosos de Xiaomi que en el 11.11 están a precio de ganga en AliExpress' />
+    <h4><a href='https://computerhoy.com/noticias/motor/chollo-patinete-xiaomi-roza-200-euros-cupones-1111-aliexpress-envio-espana-962539'>Chollo en el patinete de Xiaomi, que roza los 200 euros con los cupones del 11.11 de AliExpress, y con envío desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/chollo-patinete-xiaomi-roza-200-euros-cupones-1111-aliexpress-envio-espana-962539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/xiaomi-mi-electric-scooter-essential-2024615.jpg' alt='Chollo en el patinete de Xiaomi, que roza los 200 euros con los cupones del 11.11 de AliExpress, y con envío desde España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/corte-ingles-no-celebrando-80-aniversario-sorteo-500-euros-phishing-962927'>El Corte Inglés no está celebrando su 80 aniversario con un sorteo de 500 euros: es phishing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/corte-ingles-no-celebrando-80-aniversario-sorteo-500-euros-phishing-962927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/whatsapp-phishing-2339799.jpg' alt='El Corte Inglés no está celebrando su 80 aniversario con un sorteo de 500 euros: es phishing' />
+    <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549'>Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compleja-estafa-bizum-consiguieron-robar-24000-euros-sola-persona-962917'>La compleja estafa por Bizum con la que consiguieron robar hasta 240.00 euros a una sola persona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compleja-estafa-bizum-consiguieron-robar-24000-euros-sola-persona-962917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La compleja estafa por Bizum con la que consiguieron robar hasta 240.00 euros a una sola persona' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/curiosidades-11-11-menos-20-euros-962937'>Curiosidades del 11.11 que puedes comprar por menos de 20€ y que son sorprendentemente útiles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/curiosidades-11-11-menos-20-euros-962937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/1111-2125255.jpg' alt='Curiosidades del 11.11 que puedes comprar por menos de 20€ y que son sorprendentemente útiles' />
     </a>
 </div>
 
