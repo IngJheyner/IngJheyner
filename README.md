@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-causas-no-adelgazas-962569'>7 causas por las que no bajas kilos pese a seguir una dieta y hacer ejercicio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-causas-no-adelgazas-962569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-causas-no-bajas-kilos-pese-seguir-dieta-2528541.jpg' alt='7 causas por las que no bajas kilos pese a seguir una dieta y hacer ejercicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-boton-no-me-gusta-acoso-962565'>YouTube hace un importante cambio en las votaciones de los vídeos, para luchar contra el acoso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-boton-no-me-gusta-acoso-962565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-subtitulos-linus-2496001.jpg' alt='YouTube hace un importante cambio en las votaciones de los vídeos, para luchar contra el acoso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-sin-combustible-962549'>SpinLaunch completa el primer lanzamiento de un cohete sin combustible, ¿cómo lo hace?</a></h4>
     <a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-sin-combustible-962549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spinlaunch-completa-primer-lanzamiento-cohete-combustible-como-hace-2528513.jpg' alt='SpinLaunch completa el primer lanzamiento de un cohete sin combustible, ¿cómo lo hace?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547'>Netflix se actualiza para verse mejor y reducir los molestos parones de imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-actualiza-verse-mejor-reducir-molestos-parones-imagen-962547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/netflix-2445431.jpg' alt='Netflix se actualiza para verse mejor y reducir los molestos parones de imagen' />
     </a>
 </div>
 
