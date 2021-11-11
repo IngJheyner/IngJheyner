@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985'>Los móviles chinos más baratos que puedes comprar durante el 11.11</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-chinos-baratos-11-11-962985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523285.jpg' alt='Los móviles chinos más baratos que puedes comprar durante el 11.11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039'>Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuidado-efecto-miron-grandes-culpables-distracciones-dgt-963039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/video-dgt-2296249.jpg' alt='Cuidado con el efecto mirón, uno de los grandes culpables de las distracciones según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-critpomoneda-hace-procesadores-ryzen-sean-maquina-hacer-dinero-962999'>Esta nueva criptomoneda hace que los procesadores Ryzen sean una máquina de hacer dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-critpomoneda-hace-procesadores-ryzen-sean-maquina-hacer-dinero-962999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Esta nueva criptomoneda hace que los procesadores Ryzen sean una máquina de hacer dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965'>Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/microsoft-dice-adios-windows-7-10-enero-2022-dejara-tener-actualizaciones-seguridad-962965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/windows%207.jpg' alt='Microsoft dice adiós a Windows 7, el 10 de enero de 2022 dejará de tener actualizaciones de seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941'>La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga</a></h4>
     <a href='https://computerhoy.com/noticias/life/crockpot-6-litros-lidl-coccion-lenta-precio-ganga-962941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/olla-coccion-lenta-lidl-2529007.jpg' alt='La crockpot de 6 litros de LIDL para cocción lenta a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/chollo-patinete-xiaomi-roza-200-euros-cupones-1111-aliexpress-envio-espana-962539'>Chollo en el patinete de Xiaomi, que roza los 200 euros con los cupones del 11.11 de AliExpress, y con envío desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/chollo-patinete-xiaomi-roza-200-euros-cupones-1111-aliexpress-envio-espana-962539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/xiaomi-mi-electric-scooter-essential-2024615.jpg' alt='Chollo en el patinete de Xiaomi, que roza los 200 euros con los cupones del 11.11 de AliExpress, y con envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549'>Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/curiosidades-11-11-menos-20-euros-962937'>Curiosidades del 11.11 que puedes comprar por menos de 20€ y que son sorprendentemente útiles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/curiosidades-11-11-menos-20-euros-962937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/1111-2125255.jpg' alt='Curiosidades del 11.11 que puedes comprar por menos de 20€ y que son sorprendentemente útiles' />
     </a>
 </div>
 
