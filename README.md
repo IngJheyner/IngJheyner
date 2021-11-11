@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229'>Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-mugre-cepillos-pelo-dejarlos-como-nuevos-minuto-frotar-2529763.jpg' alt='Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223'>Apple lo quiere dejar todo bien atado para cuando te mueras</a></h4>
     <a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492379.jpg' alt='Apple lo quiere dejar todo bien atado para cuando te mueras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217'>La bicicleta estática más avanzada se inclina como las de carretera (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/simulador-ciclismo-avanzado-montar-casa-2529697.jpg' alt='La bicicleta estática más avanzada se inclina como las de carretera (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169'>Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primera-furgoneta-electrica-volkswagen-idbuzz-962169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/volkswagen-idbuzz-2523159.jpg' alt='Así es la primera furgoneta eléctrica de Volkswagen: ID.Buzz' />
     </a>
 </div>
 
