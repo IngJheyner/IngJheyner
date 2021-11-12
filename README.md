@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-vuelta-atras-huawei-baneada-siempre-estados-unidos-963527'>No hay vuelta atrás: Huawei es baneada para siempre en Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-hay-vuelta-atras-huawei-baneada-siempre-estados-unidos-963527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-2530133.jpg' alt='No hay vuelta atrás: Huawei es baneada para siempre en Estados Unidos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/gasolina-nubes-poner-practica-estos-trucos-ahorrar-combustible-963613'>La gasolina por las nubes y tú sin poner en práctica estos trucos para ahorrar combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gasolina-nubes-poner-practica-estos-trucos-ahorrar-combustible-963613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/indicador-gasolina-1864253.jpg' alt='La gasolina por las nubes y tú sin poner en práctica estos trucos para ahorrar combustible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-gafas-anticotillas-evitar-nos-espien-mientras-usamos-iphone-963499'>Apple estaría trabajando en una gafas anticotillas para evitar que nos espíen mientras usamos nuestro iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-gafas-anticotillas-evitar-nos-espien-mientras-usamos-iphone-963499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/accesorio-convierte-unas-gafas-convencionales-gafas-altavoces-2191471.jpg' alt='Apple estaría trabajando en una gafas anticotillas para evitar que nos espíen mientras usamos nuestro iPhone' />
+    <h4><a href='https://computerhoy.com/noticias/gmail-no-te-funciona-google-teniendo-problemas-europa-varios-servicios-963609'>¿Gmail no te funciona? Google está teniendo problemas en Europa con varios de sus servicios</a></h4>
+    <a href='https://computerhoy.com/noticias/gmail-no-te-funciona-google-teniendo-problemas-europa-varios-servicios-963609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-chrome-gmail-drive-2161537.jpg' alt='¿Gmail no te funciona? Google está teniendo problemas en Europa con varios de sus servicios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/acabo-ir-acera-nueva-tecnologia-patinetes-electricos-bird-impedira-963507'>Se acabó el ir por la acera, una nueva tecnología en los patinetes eléctricos Bird lo impedirá</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/acabo-ir-acera-nueva-tecnologia-patinetes-electricos-bird-impedira-963507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patinete-electrico-acera-2530051.jpg' alt='Se acabó el ir por la acera, una nueva tecnología en los patinetes eléctricos Bird lo impedirá' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/calefactor-programable-bajo-consumo-taurus-tallin-rebaja-amazon-960987'>Este calefactor programable te ayudará a ahorrar en la factura de la luz sin pasar frío este invierno, y Amazon lo ha rebajado bastante de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/calefactor-programable-bajo-consumo-taurus-tallin-rebaja-amazon-960987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/taurus-tallin-900-2526023.jpg' alt='Este calefactor programable te ayudará a ahorrar en la factura de la luz sin pasar frío este invierno, y Amazon lo ha rebajado bastante de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-conga-1790-ultra-oferta-mes-black-friday-962961'>Este robot aspirador es perfecto si tienes mascotas, y barato: cuesta 169 euros en varias tiendas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-conga-1790-ultra-oferta-mes-black-friday-962961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cecotec-conga-1790-titanium-2220019.jpg' alt='Este robot aspirador es perfecto si tienes mascotas, y barato: cuesta 169 euros en varias tiendas' />
+    <h4><a href='https://computerhoy.com/noticias/industria/5-criptomonedas-futuro-prometedor-shiba-inu-963577'>5 criptomonedas con un futuro más prometedor que el de Shiba Inu</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/5-criptomonedas-futuro-prometedor-shiba-inu-963577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='5 criptomonedas con un futuro más prometedor que el de Shiba Inu' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-aerotaxi-funcional-mundo-ha-sido-primera-carrera-personas-verdad-963497'>Este es el primer aerotaxi funcional del mundo y así ha sido su primera carrera con personas de verdad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-aerotaxi-funcional-mundo-ha-sido-primera-carrera-personas-verdad-963497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/taxi-volador-2530047.jpg' alt='Este es el primer aerotaxi funcional del mundo y así ha sido su primera carrera con personas de verdad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-error-22-android-auto-estan-recibiendo-muchos-conductores-como-solucionarlo-963587'>Qué significa el error 22 de Android Auto que están recibiendo muchos conductores y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-error-22-android-auto-estan-recibiendo-muchos-conductores-como-solucionarlo-963587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Qué significa el error 22 de Android Auto que están recibiendo muchos conductores y cómo solucionarlo' />
     </a>
 </div>
 
