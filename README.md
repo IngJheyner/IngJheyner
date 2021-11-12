@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803'>Si tu teléfono está cargando lentamente estas pueden ser las razones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509571.jpg' alt='Si tu teléfono está cargando lentamente estas pueden ser las razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889'>Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reduce-hachazo-factura-luz-enchufe-medidor-consumo-rebajado-10-euros-2531387.jpg' alt='Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319'>Cómo va a invertir Nintendo la fortuna que está ganando con Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/luigi-2524351.jpg' alt='Cómo va a invertir Nintendo la fortuna que está ganando con Switch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801'>El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-2531341.jpg' alt='El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315'>Ford transforma una F-100 en un vehículo eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-f-100-electrico-2521859.jpg' alt='Ford transforma una F-100 en un vehículo eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871'>El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros' />
     </a>
 </div>
 
