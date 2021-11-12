@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319'>Cómo va a invertir Nintendo la fortuna que está ganando con Switch</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/luigi-2524351.jpg' alt='Cómo va a invertir Nintendo la fortuna que está ganando con Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879'>Mopet, la moto eléctrica para llevar a tu mascota de paseo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mopet-moto-electrica-llevar-mascota-paseo-2531347.jpg' alt='Mopet, la moto eléctrica para llevar a tu mascota de paseo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801'>El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-2531341.jpg' alt='El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315'>Ford transforma una F-100 en un vehículo eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-f-100-electrico-2521859.jpg' alt='Ford transforma una F-100 en un vehículo eléctrico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871'>El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-actualizar-raspberry-pi-funcione-rapido-963867'>Ya puedes actualizar tu Raspberry Pi para que funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-actualizar-raspberry-pi-funcione-rapido-963867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='Ya puedes actualizar tu Raspberry Pi para que funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863'>La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601'>Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisor-disney-plus-2524425.jpg' alt='Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores' />
     </a>
 </div>
 
