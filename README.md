@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575'>No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nathome-i-flame-diffuser-2530187.jpg' alt='No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517'>Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-cecofry-advance-inoxdark-2530065.jpg' alt='Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669'>Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels</a></h4>
     <a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635'>Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/instagram-ordenador-2384625.jpg' alt='Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels' />
     </a>
 </div>
 
