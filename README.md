@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-963451'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-963451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2529995.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229'>Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-mugre-cepillos-pelo-dejarlos-como-nuevos-minuto-frotar-2529763.jpg' alt='Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303'>Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-switch-oled-2397419.jpg' alt='Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217'>La bicicleta estática más avanzada se inclina como las de carretera (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tiltbike-bicicleta-estatica-simulador-ciclismo-muoverti-963217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/simulador-ciclismo-avanzado-montar-casa-2529697.jpg' alt='La bicicleta estática más avanzada se inclina como las de carretera (vídeo)' />
     </a>
 </div>
 
