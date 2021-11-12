@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893'>Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-anuncia-12-nuevas-series-marvel-star-wars-series-disney-locura-2531403.jpg' alt='Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803'>Si tu teléfono está cargando lentamente estas pueden ser las razones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509571.jpg' alt='Si tu teléfono está cargando lentamente estas pueden ser las razones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879'>Mopet, la moto eléctrica para llevar a tu mascota de paseo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mopet-moto-electrica-llevar-mascota-paseo-2531347.jpg' alt='Mopet, la moto eléctrica para llevar a tu mascota de paseo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801'>El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-963801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-s21-fe-cada-vez-cerca-filtran-imagenes-promocionales-especificaciones-2531341.jpg' alt='El Samsung Galaxy S21 FE está cada vez más cerca, se filtran imágenes promocionales y sus especificaciones' />
     </a>
 </div>
 
