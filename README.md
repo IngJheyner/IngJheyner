@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-fin-semana-ver-2530867.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-te-gusta-accion-963463'>Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video si te gusta la acción</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-te-gusta-accion-963463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-recomendadas-2530015.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video si te gusta la acción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575'>No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nathome-i-flame-diffuser-2530187.jpg' alt='No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717'>Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad</a></h4>
     <a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/obras-arte-microsoft-paint-windows-7-91-anos-edad-2530677.jpg' alt='Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/40-ninos-estadounidenses-piensa-bacon-origen-vegetal-luchar-ayudaria-terminar-cambio-climatico-963687'>El 40% de los niños estadounidenses piensa que el bacon es de origen vegetal: luchar contra esto ayudaría a terminar con el cambio climático</a></h4>
-    <a href='https://computerhoy.com/noticias/40-ninos-estadounidenses-piensa-bacon-origen-vegetal-luchar-ayudaria-terminar-cambio-climatico-963687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nino-ordenador-2016909.jpg' alt='El 40% de los niños estadounidenses piensa que el bacon es de origen vegetal: luchar contra esto ayudaría a terminar con el cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669'>Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels' />
     </a>
 </div>
 
