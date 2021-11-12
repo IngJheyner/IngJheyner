@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gasolina-nubes-poner-practica-estos-trucos-ahorrar-combustible-963613'>La gasolina por las nubes y tú sin poner en práctica estos trucos para ahorrar combustible</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gasolina-nubes-poner-practica-estos-trucos-ahorrar-combustible-963613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/indicador-gasolina-1864253.jpg' alt='La gasolina por las nubes y tú sin poner en práctica estos trucos para ahorrar combustible' />
+    <h4><a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669'>Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels</a></h4>
+    <a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gmail-no-te-funciona-google-teniendo-problemas-europa-varios-servicios-963609'>¿Gmail no te funciona? Google está teniendo problemas en Europa con varios de sus servicios</a></h4>
-    <a href='https://computerhoy.com/noticias/gmail-no-te-funciona-google-teniendo-problemas-europa-varios-servicios-963609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-chrome-gmail-drive-2161537.jpg' alt='¿Gmail no te funciona? Google está teniendo problemas en Europa con varios de sus servicios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635'>Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/instagram-ordenador-2384625.jpg' alt='Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/calefactor-programable-bajo-consumo-taurus-tallin-rebaja-amazon-960987'>Este calefactor programable te ayudará a ahorrar en la factura de la luz sin pasar frío este invierno, y Amazon lo ha rebajado bastante de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/calefactor-programable-bajo-consumo-taurus-tallin-rebaja-amazon-960987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/taurus-tallin-900-2526023.jpg' alt='Este calefactor programable te ayudará a ahorrar en la factura de la luz sin pasar frío este invierno, y Amazon lo ha rebajado bastante de precio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-pro-snapdragon-888-oferta-963481'>El nuevo 11T Pro con Snapdragon 888 tiene su primera gran rebaja de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-pro-snapdragon-888-oferta-963481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-11t-pro-2471921.jpg' alt='El nuevo 11T Pro con Snapdragon 888 tiene su primera gran rebaja de precio en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/5-criptomonedas-futuro-prometedor-shiba-inu-963577'>5 criptomonedas con un futuro más prometedor que el de Shiba Inu</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/5-criptomonedas-futuro-prometedor-shiba-inu-963577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='5 criptomonedas con un futuro más prometedor que el de Shiba Inu' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-nuevas-tarifas-disney-tiran-casa-ventana-cara-navidad-963597'>Estas serán las nuevas tarifas de Disney+: tiran la casa por la ventana de cara a Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-nuevas-tarifas-disney-tiran-casa-ventana-cara-navidad-963597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/disney-2349493.jpg' alt='Estas serán las nuevas tarifas de Disney+: tiran la casa por la ventana de cara a Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-error-22-android-auto-estan-recibiendo-muchos-conductores-como-solucionarlo-963587'>Qué significa el error 22 de Android Auto que están recibiendo muchos conductores y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-error-22-android-auto-estan-recibiendo-muchos-conductores-como-solucionarlo-963587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Qué significa el error 22 de Android Auto que están recibiendo muchos conductores y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/guia-compra/auriculares-true-wireless'>Consejos y guía de compra de auriculares inalámbricos Bluetooh True Wireless</a></h4>
+    <a href='https://computerhoy.com/guia-compra/auriculares-true-wireless' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/auriculares-bluetooth-2193149.jpg' alt='Consejos y guía de compra de auriculares inalámbricos Bluetooh True Wireless' />
     </a>
 </div>
 
