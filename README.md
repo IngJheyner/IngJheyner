@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863'>La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601'>Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisor-disney-plus-2524425.jpg' alt='Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-fin-semana-ver-2530867.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575'>No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nathome-i-flame-diffuser-2530187.jpg' alt='No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517'>Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-cecofry-advance-inoxdark-2530065.jpg' alt='Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717'>Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/obras-arte-microsoft-paint-windows-7-91-anos-edad-2530677.jpg' alt='Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad' />
     </a>
 </div>
 
