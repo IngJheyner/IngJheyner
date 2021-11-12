@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517'>Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-35l-sorprendentemente-barata-cecotec-cuesta-solo-6990eu-963517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-cecofry-advance-inoxdark-2530065.jpg' alt='Esta freidora sin aceite de 3,5L es sorprendentemente barata: es de Cecotec y cuesta solo 69,90€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717'>Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/obras-arte-microsoft-paint-windows-7-91-anos-edad-963717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/obras-arte-microsoft-paint-windows-7-91-anos-edad-2530677.jpg' alt='Obras de arte con Microsoft Paint, Windows 7 y 91 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/40-ninos-estadounidenses-piensa-bacon-origen-vegetal-luchar-ayudaria-terminar-cambio-climatico-963687'>El 40% de los niños estadounidenses piensa que el bacon es de origen vegetal: luchar contra esto ayudaría a terminar con el cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/40-ninos-estadounidenses-piensa-bacon-origen-vegetal-luchar-ayudaria-terminar-cambio-climatico-963687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nino-ordenador-2016909.jpg' alt='El 40% de los niños estadounidenses piensa que el bacon es de origen vegetal: luchar contra esto ayudaría a terminar con el cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669'>Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels</a></h4>
     <a href='https://computerhoy.com/noticias/instagram-sigue-copiando-funciones-tiktok-ahora-text-speech-reel-963669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram sigue copiando funciones a TikTok, ahora text-to-speech en Reels' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635'>Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofreciendo-mucho-dinero-creadores-contenido-hacer-reels-963635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/instagram-ordenador-2384625.jpg' alt='Instagram está ofreciendo mucho dinero a los creadores de contenido por hacer Reels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-pro-snapdragon-888-oferta-963481'>El nuevo 11T Pro con Snapdragon 888 tiene su primera gran rebaja de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-pro-snapdragon-888-oferta-963481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-11t-pro-2471921.jpg' alt='El nuevo 11T Pro con Snapdragon 888 tiene su primera gran rebaja de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-nuevas-tarifas-disney-tiran-casa-ventana-cara-navidad-963597'>Estas serán las nuevas tarifas de Disney+: tiran la casa por la ventana de cara a Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-nuevas-tarifas-disney-tiran-casa-ventana-cara-navidad-963597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/disney-2349493.jpg' alt='Estas serán las nuevas tarifas de Disney+: tiran la casa por la ventana de cara a Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/auriculares-true-wireless'>Consejos y guía de compra de auriculares inalámbricos Bluetooh True Wireless</a></h4>
-    <a href='https://computerhoy.com/guia-compra/auriculares-true-wireless' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/auriculares-bluetooth-2193149.jpg' alt='Consejos y guía de compra de auriculares inalámbricos Bluetooh True Wireless' />
     </a>
 </div>
 
