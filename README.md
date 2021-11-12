@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-963451'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-963451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2529995.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/ps5-2021-analisis-opinion-primer-ano-nueva-generacion-sony-962971'>PS5 en 2021, análisis y opinión del primer año de la nueva generación de Sony</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/ps5-2021-analisis-opinion-primer-ano-nueva-generacion-sony-962971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140421.jpg' alt='PS5 en 2021, análisis y opinión del primer año de la nueva generación de Sony' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229'>Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-cepillos-pelo-963229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-mugre-cepillos-pelo-dejarlos-como-nuevos-minuto-frotar-2529763.jpg' alt='Cómo quitar la mugre de los cepillos de pelo y dejarlos como nuevos, en dos minutos y sin frotar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-44mm-oferta-amazon-precio-mas-bajo-962855'>El Samsung Galaxy Watch 4 cae a su precio más bajo en Amazon: está en oferta por 239 euros en varios colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-44mm-oferta-amazon-precio-mas-bajo-962855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515787.jpg' alt='El Samsung Galaxy Watch 4 cae a su precio más bajo en Amazon: está en oferta por 239 euros en varios colores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223'>Apple lo quiere dejar todo bien atado para cuando te mueras</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/apple-usuario-fallecido-legado-digital-963223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492379.jpg' alt='Apple lo quiere dejar todo bien atado para cuando te mueras' />
+    <h4><a href='https://computerhoy.com/noticias/motor/hertz-tendra-esperar-recibir-100000-vehiculos-ha-encargado-tesla-962313'>Hertz tendrá que esperar para recibir los 100.000 vehículos que ha encargado a Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hertz-tendra-esperar-recibir-100000-vehiculos-ha-encargado-tesla-962313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tesla-model-3-manhart-2462507.jpg' alt='Hertz tendrá que esperar para recibir los 100.000 vehículos que ha encargado a Tesla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127'>El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/robot-cocina-taurus-mycook-one-chollo-963127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/taurus-mycook-one-2417553.jpg' alt='El robot de cocina Taurus Mycook One es más completo que el de Lidl, y tiene un 53% de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-hoy-gran-apuesta-temporada-cinematografica-963009'>Netflix estrena hoy su gran apuesta de la temporada cinematográfica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-hoy-gran-apuesta-temporada-cinematografica-963009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/alerta-roja-2523261.jpeg' alt='Netflix estrena hoy su gran apuesta de la temporada cinematográfica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303'>Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-avisa-no-podran-satisfacer-toda-demanda-switch-oled-navidad-962303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-switch-oled-2397419.jpg' alt='Nintendo avisa: no podrán satisfacer toda la demanda de Switch OLED esta Navidad' />
+    <h4><a href='https://computerhoy.com/noticias/motor/5-grandes-preguntas-luz-v16-dgt-962309'>Las 5 grandes preguntas sobre la luz V16 DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-grandes-preguntas-luz-v16-dgt-962309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/luz-emergencia-v16-osram-2215693.jpg' alt='Las 5 grandes preguntas sobre la luz V16 DGT' />
     </a>
 </div>
 
