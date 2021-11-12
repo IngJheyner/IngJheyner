@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315'>Ford transforma una F-100 en un vehículo eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ford-transforma-f-100-vehiculo-electrico-962315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-f-100-electrico-2521859.jpg' alt='Ford transforma una F-100 en un vehículo eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871'>El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/familiar-necesitado-nueva-estafa-whatsapp-puede-dejarte-ahorros-963871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El familiar necesitado, la nueva estafa de WhatsApp que puede dejarte sin ahorros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-actualizar-raspberry-pi-funcione-rapido-963867'>Ya puedes actualizar tu Raspberry Pi para que funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-actualizar-raspberry-pi-funcione-rapido-963867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='Ya puedes actualizar tu Raspberry Pi para que funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863'>La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-sistema-infalible-cuentakilometros-trucado-coche-segunda-mano-963863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='La DGT explica el sistema infalible para saber si el cuentakilómetros de un coche de segunda mano está trucado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601'>Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/disney-day-rebaja-precio-mejores-estrenos-963601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisor-disney-plus-2524425.jpg' alt='Disney+ celebra el Disney Day con una rebaja de precio a solo 1,99€ y estrenos: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-lista-negra-muneco-nieve-pau-gasol-963755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-fin-semana-ver-2530867.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una lista negra, un muñeco de nieve y Pau Gasol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-te-gusta-accion-963463'>Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video si te gusta la acción</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-te-gusta-accion-963463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-recomendadas-2530015.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video si te gusta la acción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575'>No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-son-llamas-humidificador-nathome-i-flame-diffuser-dara-hogar-diseno-olor-diferente-963575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nathome-i-flame-diffuser-2530187.jpg' alt='No son llamas, es el humidificador NatHome I-Flame Diffuser que dará a tu hogar un diseño y olor diferente' />
     </a>
 </div>
 
