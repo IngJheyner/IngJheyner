@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-vuelta-atras-huawei-baneada-siempre-estados-unidos-963527'>No hay vuelta atrás: Huawei es baneada para siempre en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-hay-vuelta-atras-huawei-baneada-siempre-estados-unidos-963527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-2530133.jpg' alt='No hay vuelta atrás: Huawei es baneada para siempre en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-gafas-anticotillas-evitar-nos-espien-mientras-usamos-iphone-963499'>Apple estaría trabajando en una gafas anticotillas para evitar que nos espíen mientras usamos nuestro iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-gafas-anticotillas-evitar-nos-espien-mientras-usamos-iphone-963499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/accesorio-convierte-unas-gafas-convencionales-gafas-altavoces-2191471.jpg' alt='Apple estaría trabajando en una gafas anticotillas para evitar que nos espíen mientras usamos nuestro iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/acabo-ir-acera-nueva-tecnologia-patinetes-electricos-bird-impedira-963507'>Se acabó el ir por la acera, una nueva tecnología en los patinetes eléctricos Bird lo impedirá</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/acabo-ir-acera-nueva-tecnologia-patinetes-electricos-bird-impedira-963507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patinete-electrico-acera-2530051.jpg' alt='Se acabó el ir por la acera, una nueva tecnología en los patinetes eléctricos Bird lo impedirá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-conga-1790-ultra-oferta-mes-black-friday-962961'>Este robot aspirador es perfecto si tienes mascotas, y barato: cuesta 169 euros en varias tiendas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-conga-1790-ultra-oferta-mes-black-friday-962961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cecotec-conga-1790-titanium-2220019.jpg' alt='Este robot aspirador es perfecto si tienes mascotas, y barato: cuesta 169 euros en varias tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-aerotaxi-funcional-mundo-ha-sido-primera-carrera-personas-verdad-963497'>Este es el primer aerotaxi funcional del mundo y así ha sido su primera carrera con personas de verdad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-aerotaxi-funcional-mundo-ha-sido-primera-carrera-personas-verdad-963497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/taxi-volador-2530047.jpg' alt='Este es el primer aerotaxi funcional del mundo y así ha sido su primera carrera con personas de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-amazon-fin-semana-963151'>10 chollos de Amazon para el fin de semana que son dignos del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/chollos-amazon-fin-semana-963151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='10 chollos de Amazon para el fin de semana que son dignos del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-personas-no-podran-utilizar-bizum-espana-domingo-963487'>Millones de personas no podrán utilizar Bizum en España hasta el domingo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/millones-personas-no-podran-utilizar-bizum-espana-domingo-963487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/movil-mesa-2530025.jpg' alt='Millones de personas no podrán utilizar Bizum en España hasta el domingo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/ps5-2021-analisis-opinion-primer-ano-nueva-generacion-sony-962971'>PS5 en 2021, análisis y opinión del primer año de la nueva generación de Sony</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/ps5-2021-analisis-opinion-primer-ano-nueva-generacion-sony-962971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140421.jpg' alt='PS5 en 2021, análisis y opinión del primer año de la nueva generación de Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-44mm-oferta-amazon-precio-mas-bajo-962855'>El Samsung Galaxy Watch 4 cae a su precio más bajo en Amazon: está en oferta por 239 euros en varios colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-44mm-oferta-amazon-precio-mas-bajo-962855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515787.jpg' alt='El Samsung Galaxy Watch 4 cae a su precio más bajo en Amazon: está en oferta por 239 euros en varios colores' />
     </a>
 </div>
 
