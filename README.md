@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145'>Movistar sufre una brecha de seguridad que afecta a miles de sus clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Movistar sufre una brecha de seguridad que afecta a miles de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703'>Cómo unirse a llamadas FaceTime desde dispositivos no Apple</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/facetime-grupo.jpg' alt='Cómo unirse a llamadas FaceTime desde dispositivos no Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623'>¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plancha-vapor-xiaomi-mjgtj01lf-2530343.jpg' alt='¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673'>Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-2021-2527031.jpg' alt='Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/fitbit-charge-5-review-opinion-963619'>Fitbit Charge 5, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/fitbit-charge-5-review-opinion-963619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530341.jpg' alt='Fitbit Charge 5, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541'>Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-aspirador-lefant-2530125.jpg' alt='Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas' />
     </a>
 </div>
 
