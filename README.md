@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179'>Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169'>Estos son los nuevos emoji que llegan a Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/emojis-windows-11-2531867.jpg' alt='Estos son los nuevos emoji que llegan a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877'>El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145'>Movistar sufre una brecha de seguridad que afecta a miles de sus clientes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Movistar sufre una brecha de seguridad que afecta a miles de sus clientes' />
     </a>
 </div>
 
