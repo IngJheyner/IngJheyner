@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193'>Windows 11 trae de vuelta la temible pantalla azul de la muerte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Windows 11 trae de vuelta la temible pantalla azul de la muerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177'>Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/polar-vantage-m-2531871.jpg' alt='Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169'>Estos son los nuevos emoji que llegan a Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/emojis-windows-11-2531867.jpg' alt='Estos son los nuevos emoji que llegan a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153'>La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ataques-cebo-2531801.jpg' alt='La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail' />
     </a>
 </div>
 
