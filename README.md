@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231'>Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/singapur-prohibido-vender-chicles-multas-2000-euros-penas-carcel-importadores-2526463.jpg' alt='Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789'>10 productos Xiaomi que puede que no conocieras y que son muy baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-smart-clock-2497603.jpg' alt='10 productos Xiaomi que puede que no conocieras y que son muy baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895'>Miura 1, el primer cohete español que viajará al espacio, el año que viene</a></h4>
     <a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='Miura 1, el primer cohete español que viajará al espacio, el año que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893'>Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-anuncia-12-nuevas-series-marvel-star-wars-series-disney-locura-2531403.jpg' alt='Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!' />
     </a>
 </div>
 
