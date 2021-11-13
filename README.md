@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177'>Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/polar-vantage-m-2531871.jpg' alt='Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191'>Descubren una campaña de software espía peligroso en Android y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Descubren una campaña de software espía peligroso en Android y que debes evitar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153'>La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ataques-cebo-2531801.jpg' alt='La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343'>Loewe Bild i.55 DR+, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loewe-bild-i55-dr-analisis-opinion-2528107.jpg' alt='Loewe Bild i.55 DR+, análisis y opinión' />
     </a>
 </div>
 
