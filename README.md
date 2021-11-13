@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897'>Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tres-trucos-freir-cocer-patatas-mitad-tiempo-te-dejan-boca-abierta-2531435.jpg' alt='Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895'>Miura 1, el primer cohete español que viajará al espacio, el año que viene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='Miura 1, el primer cohete español que viajará al espacio, el año que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893'>Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-anuncia-12-nuevas-series-marvel-star-wars-series-disney-locura-2531403.jpg' alt='Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889'>Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reduce-hachazo-factura-luz-enchufe-medidor-consumo-rebajado-10-euros-2531387.jpg' alt='Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319'>Cómo va a invertir Nintendo la fortuna que está ganando con Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/como-va-invertir-nintendo-fortuna-ganando-switch-962319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/luigi-2524351.jpg' alt='Cómo va a invertir Nintendo la fortuna que está ganando con Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879'>Mopet, la moto eléctrica para llevar a tu mascota de paseo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mopet-scooter-electrica-mascota-963879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mopet-moto-electrica-llevar-mascota-paseo-2531347.jpg' alt='Mopet, la moto eléctrica para llevar a tu mascota de paseo' />
     </a>
 </div>
 
