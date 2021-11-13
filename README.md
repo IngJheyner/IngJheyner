@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789'>10 productos Xiaomi que puede que no conocieras y que son muy baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-smart-clock-2497603.jpg' alt='10 productos Xiaomi que puede que no conocieras y que son muy baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105'>Este es el primer parque público impreso en 3D</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/primer-parque-publico-impreso-3d-2529419.jpg' alt='Este es el primer parque público impreso en 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897'>Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tres-trucos-freir-cocer-patatas-mitad-tiempo-te-dejan-boca-abierta-2531435.jpg' alt='Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893'>Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-nuevas-series-2022-marvel-star-wars-disney-pixar-963893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-anuncia-12-nuevas-series-marvel-star-wars-series-disney-locura-2531403.jpg' alt='Disney+ anuncia 12 nuevas series de Marvel, más Star Wars, más series Disney... ¡una locura!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803'>Si tu teléfono está cargando lentamente estas pueden ser las razones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-cargando-lentamente-estas-pueden-ser-razones-963803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509571.jpg' alt='Si tu teléfono está cargando lentamente estas pueden ser las razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889'>Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-medidor-consumo-tenda-descuento-963889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reduce-hachazo-factura-luz-enchufe-medidor-consumo-rebajado-10-euros-2531387.jpg' alt='Reduce el hachazo de la factura de la luz con este enchufe con medidor de consumo, rebajado a 10 euros' />
     </a>
 </div>
 
