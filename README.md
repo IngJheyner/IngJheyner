@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169'>Estos son los nuevos emoji que llegan a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/emojis-windows-11-2531867.jpg' alt='Estos son los nuevos emoji que llegan a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153'>La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ataques-cebo-2531801.jpg' alt='La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145'>Movistar sufre una brecha de seguridad que afecta a miles de sus clientes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Movistar sufre una brecha de seguridad que afecta a miles de sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703'>Cómo unirse a llamadas FaceTime desde dispositivos no Apple</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/facetime-grupo.jpg' alt='Cómo unirse a llamadas FaceTime desde dispositivos no Apple' />
     </a>
 </div>
 
