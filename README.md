@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consigue-trabajo-nasa-casualidad-964195'>Así se consigue un trabajo en la NASA por casualidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consigue-trabajo-nasa-casualidad-964195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satelite-landsat-9-2531905.jpg' alt='Así se consigue un trabajo en la NASA por casualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823'>5 relojes para runners con GPS más baratos que el de Decatlón</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hombre-atandose-cordones-correr-runner-2531741.jpg' alt='5 relojes para runners con GPS más baratos que el de Decatlón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191'>Descubren una campaña de software espía peligroso en Android y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Descubren una campaña de software espía peligroso en Android y que debes evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179'>Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento' />
     </a>
 </div>
 
