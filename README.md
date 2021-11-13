@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541'>Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-aspirador-lefant-2530125.jpg' alt='Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-surface-precision-9600-smart-healthy-2064575.jpg' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231'>Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores</a></h4>
     <a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/singapur-prohibido-vender-chicles-multas-2000-euros-penas-carcel-importadores-2526463.jpg' alt='Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105'>Este es el primer parque público impreso en 3D</a></h4>
     <a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/primer-parque-publico-impreso-3d-2529419.jpg' alt='Este es el primer parque público impreso en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897'>Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-trucos-freir-cocer-patatas-mitad-tiempo-963897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tres-trucos-freir-cocer-patatas-mitad-tiempo-te-dejan-boca-abierta-2531435.jpg' alt='Tres trucos para freír o cocer patatas en la mitad de tiempo que te dejan con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895'>Miura 1, el primer cohete español que viajará al espacio, el año que viene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espanol-espacio-963895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='Miura 1, el primer cohete español que viajará al espacio, el año que viene' />
     </a>
 </div>
 
