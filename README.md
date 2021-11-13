@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153'>La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-mayoria-ataques-baiting-cebo-realizan-traves-gmail-964153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ataques-cebo-2531801.jpg' alt='La gran mayoría de los ataques baiting o de cebo se realizan a través de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343'>Loewe Bild i.55 DR+, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loewe-bild-i55-dr-analisis-opinion-2528107.jpg' alt='Loewe Bild i.55 DR+, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877'>El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145'>Movistar sufre una brecha de seguridad que afecta a miles de sus clientes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movistar-sufre-brecha-seguridad-afecta-miles-clientes-964145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Movistar sufre una brecha de seguridad que afecta a miles de sus clientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703'>Cómo unirse a llamadas FaceTime desde dispositivos no Apple</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-unirse-llamadas-facetime-dispositivos-no-apple-946703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/facetime-grupo.jpg' alt='Cómo unirse a llamadas FaceTime desde dispositivos no Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623'>¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plancha-vapor-xiaomi-mjgtj01lf-2530343.jpg' alt='¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-snap-layouts-windows-11-aprovechar-mejor-escritorio-939917'>Cómo usar Snap Layouts en Windows 11 para aprovechar mejor el escritorio </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-snap-layouts-windows-11-aprovechar-mejor-escritorio-939917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-11-2403077.jpg' alt='Cómo usar Snap Layouts en Windows 11 para aprovechar mejor el escritorio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673'>Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-2021-2527031.jpg' alt='Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%' />
     </a>
 </div>
 
