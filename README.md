@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623'>¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-lidl-xiaomi-tambien-tiene-propia-plancha-vapor-cuesta-solo-32-euros-963623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plancha-vapor-xiaomi-mjgtj01lf-2530343.jpg' alt='¿Tiembla Lidl? Xiaomi también tiene su propia plancha de vapor, y cuesta solo 32 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-snap-layouts-windows-11-aprovechar-mejor-escritorio-939917'>Cómo usar Snap Layouts en Windows 11 para aprovechar mejor el escritorio </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-snap-layouts-windows-11-aprovechar-mejor-escritorio-939917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-11-2403077.jpg' alt='Cómo usar Snap Layouts en Windows 11 para aprovechar mejor el escritorio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673'>Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-2021-2527031.jpg' alt='Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541'>Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-aspirador-lefant-2530125.jpg' alt='Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-surface-precision-9600-smart-healthy-2064575.jpg' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231'>Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/singapur-prohibido-vender-chicles-multas-2000-euros-penas-carcel-importadores-2526463.jpg' alt='Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores' />
     </a>
 </div>
 
