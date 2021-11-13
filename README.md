@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823'>5 relojes para runners con GPS más baratos que el de Decatlón</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hombre-atandose-cordones-correr-runner-2531741.jpg' alt='5 relojes para runners con GPS más baratos que el de Decatlón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193'>Windows 11 trae de vuelta la temible pantalla azul de la muerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Windows 11 trae de vuelta la temible pantalla azul de la muerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179'>Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169'>Estos son los nuevos emoji que llegan a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emoji-llegan-windows-11-964169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/emojis-windows-11-2531867.jpg' alt='Estos son los nuevos emoji que llegan a Windows 11' />
     </a>
 </div>
 
