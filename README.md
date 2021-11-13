@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191'>Descubren una campaña de software espía peligroso en Android y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Descubren una campaña de software espía peligroso en Android y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179'>Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-camaras-fotos-sony-alpha-7-iii-rebajada-precio-amazon-cupon-descuento-964179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras de fotos, la Sony Alpha 7 III, rebajada a su precio más bajo en Amazon con un cupón descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343'>Loewe Bild i.55 DR+, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/loewe-bild-i55-dr-review-opinion-961343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loewe-bild-i55-dr-analisis-opinion-2528107.jpg' alt='Loewe Bild i.55 DR+, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877'>El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-ya-oferta-50eu-descuento-amazon-963877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='El iPhone 13 Mini ya está en oferta con 50€ de descuento en Amazon' />
     </a>
 </div>
 
