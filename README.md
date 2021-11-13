@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673'>Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cine-casa-televisor-lg-82-pulgadas-amazon-ha-rebajado-28-963673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-2021-2527031.jpg' alt='Cine en casa con este televisor LG de 82 pulgadas que Amazon ha rebajado en un 28%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/fitbit-charge-5-review-opinion-963619'>Fitbit Charge 5, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/fitbit-charge-5-review-opinion-963619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530341.jpg' alt='Fitbit Charge 5, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541'>Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelve-chollos-amazon-siempre-arrasan-robot-aspirador-79eu-acumula-ya-miles-resenas-positivas-963541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-aspirador-lefant-2530125.jpg' alt='Vuelve uno de los chollos de Amazon que siempre arrasan: el robot aspirador de 79€ que acumula ya miles de reseñas positivas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231'>Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores</a></h4>
     <a href='https://computerhoy.com/noticias/life/singapur-prohibido-vender-chicles-961231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/singapur-prohibido-vender-chicles-multas-2000-euros-penas-carcel-importadores-2526463.jpg' alt='Por qué en Singapur está prohibido vender chicles, con multas de 2.000 euros y penas de cárcel a los importadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789'>10 productos Xiaomi que puede que no conocieras y que son muy baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-puede-no-conocieras-muy-baratos-963789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-smart-clock-2497603.jpg' alt='10 productos Xiaomi que puede que no conocieras y que son muy baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105'>Este es el primer parque público impreso en 3D</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primer-parque-publico-impreso-3d-963105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/primer-parque-publico-impreso-3d-2529419.jpg' alt='Este es el primer parque público impreso en 3D' />
     </a>
 </div>
 
