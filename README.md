@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557'>Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gucci-xbox-series-x-consola-moda-pero-precio-llama-atencion-diseno-2532649.jpg' alt='Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681'>Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aspiradora-mano-xiaomi-2498299.jpg' alt='Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493'>Apple estaría trabajando en un dron según esta patente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patente-dron-apple-2532405.jpg' alt='Apple estaría trabajando en un dron según esta patente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155'>Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355613.jpg' alt='Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento' />
     </a>
 </div>
 
