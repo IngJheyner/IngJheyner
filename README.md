@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575'>Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-samsung-galaxy-a33-confirma-adios-samsung-conector-auriculares-2532757.jpg' alt='Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567'>Los 8 motivos por los que pueden borrar una app de Play Store en Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 8 motivos por los que pueden borrar una app de Play Store en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681'>Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aspiradora-mano-xiaomi-2498299.jpg' alt='Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525'>Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-2532529.jpg' alt='Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones' />
     </a>
 </div>
 
