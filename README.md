@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181'>El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-2531877.jpg' alt='El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557'>Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gucci-xbox-series-x-consola-moda-pero-precio-llama-atencion-diseno-2532649.jpg' alt='Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517'>Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493'>Apple estaría trabajando en un dron según esta patente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patente-dron-apple-2532405.jpg' alt='Apple estaría trabajando en un dron según esta patente' />
     </a>
 </div>
 
