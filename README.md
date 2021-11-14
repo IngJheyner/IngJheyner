@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567'>Los 8 motivos por los que pueden borrar una app de Play Store en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 8 motivos por los que pueden borrar una app de Play Store en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181'>El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-2531877.jpg' alt='El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525'>Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-2532529.jpg' alt='Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517'>Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros' />
     </a>
 </div>
 
