@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consigue-trabajo-nasa-casualidad-964195'>Así se consigue un trabajo en la NASA por casualidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consigue-trabajo-nasa-casualidad-964195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satelite-landsat-9-2531905.jpg' alt='Así se consigue un trabajo en la NASA por casualidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517'>Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823'>5 relojes para runners con GPS más baratos que el de Decatlón</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-runners-gps-baratos-decathlon-963823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hombre-atandose-cordones-correr-runner-2531741.jpg' alt='5 relojes para runners con GPS más baratos que el de Decatlón' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493'>Apple estaría trabajando en un dron según esta patente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-dron-patente-964493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patente-dron-apple-2532405.jpg' alt='Apple estaría trabajando en un dron según esta patente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193'>Windows 11 trae de vuelta la temible pantalla azul de la muerte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-trae-vuelta-temible-pantalla-azul-muerte-964193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Windows 11 trae de vuelta la temible pantalla azul de la muerte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155'>Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355613.jpg' alt='Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177'>Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eres-runner-triatleta-reloj-polar-todo-chollo-cuesta-159-euros-te-ofrece-entrenamientos-personalizados-964177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/polar-vantage-m-2531871.jpg' alt='Si eres runner o triatleta, este reloj de Polar es todo un chollo: cuesta 159 euros y te ofrece entrenamientos personalizados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481'>Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/chrome-2490195.jpg' alt='Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191'>Descubren una campaña de software espía peligroso en Android y que debes evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-campana-software-espia-peligroso-android-debes-evitar-964191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Descubren una campaña de software espía peligroso en Android y que debes evitar' />
+    <h4><a href='https://computerhoy.com/noticias/motor/algunos-coches-tesla-estan-entregando-puertos-usb-debido-escasez-chips-964477'>Algunos coches Tesla se están entregando sin puertos USB debido a la escasez de chips</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/algunos-coches-tesla-estan-entregando-puertos-usb-debido-escasez-chips-964477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Algunos coches Tesla se están entregando sin puertos USB debido a la escasez de chips' />
     </a>
 </div>
 
