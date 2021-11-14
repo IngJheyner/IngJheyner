@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525'>Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-2532529.jpg' alt='Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517'>Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-plegable-electrica-sera-mejor-aliado-salud-oferta-19499-euros-964517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Esta cinta de correr plegable y eléctrica será el mejor aliado para tu salud y está en oferta a 194,99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481'>Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/chrome-2490195.jpg' alt='Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/algunos-coches-tesla-estan-entregando-puertos-usb-debido-escasez-chips-964477'>Algunos coches Tesla se están entregando sin puertos USB debido a la escasez de chips</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/algunos-coches-tesla-estan-entregando-puertos-usb-debido-escasez-chips-964477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Algunos coches Tesla se están entregando sin puertos USB debido a la escasez de chips' />
     </a>
 </div>
 
