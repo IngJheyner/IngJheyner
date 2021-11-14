@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681'>Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aspiradora-mano-xiaomi-2498299.jpg' alt='Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525'>Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-primeros-renders-moto-watch-100-algunas-especificaciones-964525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-2532529.jpg' alt='Estos son los primeros renders del Moto Watch 100 con algunas de sus especificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155'>Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-4-oferta-amazon-964155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355613.jpg' alt='Si quieres disfrutar de Windows 11 al 100%, este portátil de Microsoft es la mejor opción, y ahora tiene casi 200€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481'>Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-te-permitira-leer-articulos-panel-lateral-mientras-navegas-otros-sitios-964481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/chrome-2490195.jpg' alt='Chrome te permitirá leer artículos en su panel lateral mientras navegas por otros sitios' />
     </a>
 </div>
 
