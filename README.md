@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579'>Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazfit-stratos-reloj-deportivo-gps-medidor-oxigeno-sangre-mucho-solo-68-euros-2532761.jpg' alt='Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575'>Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-samsung-galaxy-a33-confirma-adios-samsung-conector-auriculares-2532757.jpg' alt='Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557'>Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gucci-xbox-series-x-consola-moda-pero-precio-llama-atencion-diseno-2532649.jpg' alt='Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681'>Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/aspiradora-xiaomi-perfecta-tener-coche-siempre-punto-guantera-963681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aspiradora-mano-xiaomi-2498299.jpg' alt='Esta aspiradora de Xiaomi es perfecta para tener tu coche siempre a punto, y cabe en la guantera' />
     </a>
 </div>
 
