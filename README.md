@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525'>Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xbox-original-2532895.jpg' alt='Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/uber-tanque-taxi-963233'>Cuando pides un Uber, y te viene un tanque a buscar a casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/uber-tanque-taxi-963233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuando-pides-uber-te-viene-tanque-buscar-casa-2529775.jpg' alt='Cuando pides un Uber, y te viene un tanque a buscar a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579'>Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazfit-stratos-reloj-deportivo-gps-medidor-oxigeno-sangre-mucho-solo-68-euros-2532761.jpg' alt='Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567'>Los 8 motivos por los que pueden borrar una app de Play Store en Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 8 motivos por los que pueden borrar una app de Play Store en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181'>El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-tiene-nada-menos-195-euros-descuento-amazon-964181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-2531877.jpg' alt='El MacBook Pro con M1 tiene nada menos que 195 euros de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557'>Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-gucci-consola-xbox-series-x-moda-964557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gucci-xbox-series-x-consola-moda-pero-precio-llama-atencion-diseno-2532649.jpg' alt='Xbox by Gucci es la consola más a la moda, pero su precio llama aún más la atención que su diseño' />
     </a>
 </div>
 
