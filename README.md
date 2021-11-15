@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171'>The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí</a></h4>
+    <a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/rig-plataforma-petrolifera-convertida-parque-atracciones-extremo-arabia-saudi-2533991.jpg' alt='The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159'>Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147'>Google podría haber cancelado su terminal plegable Pixel Fold</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Google podría haber cancelado su terminal plegable Pixel Fold' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081'>Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado' />
     </a>
 </div>
 
