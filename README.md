@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-teaser-she-hulk-proxima-apuesta-marvel-disney-plus-964897'>Primer teaser de She Hulk, la próxima apuesta de Marvel y Disney Plus</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primer-teaser-she-hulk-proxima-apuesta-marvel-disney-plus-964897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/she-hulk-2398105.jpg' alt='Primer teaser de She Hulk, la próxima apuesta de Marvel y Disney Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-reloj-deportivo-barato-smartwatch-huawei-cuesta-solo-79-euros-964519'>Si buscas un reloj deportivo barato, este smartwatch de Huawei cuesta solo 79 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-reloj-deportivo-barato-smartwatch-huawei-cuesta-solo-79-euros-964519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-watch-gt-2e-2532521.jpg' alt='Si buscas un reloj deportivo barato, este smartwatch de Huawei cuesta solo 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-mejor-lugar-llevar-equipaje-quieres-ahorrar-combustible-dgt-964861'>Cuál es el mejor lugar para llevar el equipaje si quieres ahorrar combustible según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-mejor-lugar-llevar-equipaje-quieres-ahorrar-combustible-dgt-964861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/coche-equipaje-2187483.jpg' alt='Cuál es el mejor lugar para llevar el equipaje si quieres ahorrar combustible según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/no-esperes-ultima-hora-compras-black-friday-pueden-sufrir-retrasos-causa-nuevo-problema-964843'>No esperes a última hora, tus compras del Black Friday pueden sufrir retrasos a causa de un nuevo problema</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/no-esperes-ultima-hora-compras-black-friday-pueden-sufrir-retrasos-causa-nuevo-problema-964843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/caja-amazon-2099189.jpg' alt='No esperes a última hora, tus compras del Black Friday pueden sufrir retrasos a causa de un nuevo problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875'>La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogebonk-2533273.jpg' alt='La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/compraste-coche-2006-2013-podrias-tener-derecho-indemnizacion-2500-euros-964823'>Si compraste un coche entre 2006 y 2013 podrías tener derecho a una indemnización de hasta 2.500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/compraste-coche-2006-2013-podrias-tener-derecho-indemnizacion-2500-euros-964823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/impuesto-co2-pagan-coches-cataluna-podria-llegar-otras-comunidades-2493179.jpg' alt='Si compraste un coche entre 2006 y 2013 podrías tener derecho a una indemnización de hasta 2.500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-une-tecnologias-implementando-conexion-starlink-supercargadores-964811'>Tesla une tecnologías y está implementando la conexión Starlink a los Supercargadores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-une-tecnologias-implementando-conexion-starlink-supercargadores-964811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/supercargadores-v3-tesla.jpg' alt='Tesla une tecnologías y está implementando la conexión Starlink a los Supercargadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807'>Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503'>Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acer-aspire-5-2532413.jpg' alt='Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday' />
     </a>
 </div>
 
