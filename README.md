@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125'>Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ocio-trabajo-donde-quieras-portatil-asus-chromebook-solo-cuesta-259-euros-2533921.jpg' alt='Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/eternals-obtuvo-160-millones-recaudacion-primer-fin-semana-962973'>Eternals obtuvo más 160 millones de recaudación en su primer fin de semana</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/eternals-obtuvo-160-millones-recaudacion-primer-fin-semana-962973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525555.jpg' alt='Eternals obtuvo más 160 millones de recaudación en su primer fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143'>Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/renault-reacondicionara-10000-coches-usados-ano-fabrica-sevilla-2533955.jpg' alt='Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969'>Toyota ha ampliado su museo, pero con un Honda NSX</a></h4>
     <a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honda-nsx-1991-museo-toyota-2526061.jpg' alt='Toyota ha ampliado su museo, pero con un Honda NSX' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083'>Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-s21-5g-2497275.jpg' alt='Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-inteligentes-amazon-echo-ahora-son-capaces-detectar-cuando-entras-habitacion-965129'>Los altavoces inteligentes Amazon Echo ahora son capaces de detectar cuando entras a una habitación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoces-inteligentes-amazon-echo-ahora-son-capaces-detectar-cuando-entras-habitacion-965129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-echo-2020-2240341.jpg' alt='Los altavoces inteligentes Amazon Echo ahora son capaces de detectar cuando entras a una habitación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-situaciones-dgt-puede-multarte-200-euros-utilizar-mal-luces-coche-965123'>Estas son las situaciones en las que la DGT puede multarte con 200 euros por utilizar mal las luces del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-situaciones-dgt-puede-multarte-200-euros-utilizar-mal-luces-coche-965123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/luces-coche-2533917.jpg' alt='Estas son las situaciones en las que la DGT puede multarte con 200 euros por utilizar mal las luces del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831'>Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/philips-55oled804-12-2533223.jpg' alt='Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight' />
     </a>
 </div>
 
