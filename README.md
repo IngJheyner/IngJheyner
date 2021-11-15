@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987'>Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-edge-2286921.jpg' alt='Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979'>Ya puedes instalar apps en tu Android TV desde tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Ya puedes instalar apps en tu Android TV desde tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961'>Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-12-mini-2533551.jpg' alt='Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935'>Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-2530133.jpg' alt='Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.' />
     </a>
 </div>
 
