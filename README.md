@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-964587'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-964587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2532897.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/radiador-electrico.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525'>Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xbox-original-2532895.jpg' alt='Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579'>Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazfit-stratos-reloj-deportivo-gps-medidor-oxigeno-sangre-mucho-solo-68-euros-2532761.jpg' alt='Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575'>Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-adios-conector-auriculares-964575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-samsung-galaxy-a33-confirma-adios-samsung-conector-auriculares-2532757.jpg' alt='Se filtra el Samsung Galaxy A33 5G, y se confirma  el adiós de Samsung al conector de auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567'>Los 8 motivos por los que pueden borrar una app de Play Store en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-motivos-pueden-borrar-app-play-store-android-964567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 8 motivos por los que pueden borrar una app de Play Store en Android' />
     </a>
 </div>
 
