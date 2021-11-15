@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-volvemos-zoologico-excentrico-964563'>Todos los estrenos de la semana en Netflix: volvemos al zoológico más excéntrico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-volvemos-zoologico-excentrico-964563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tiger-king-2481855.jpg' alt='Todos los estrenos de la semana en Netflix: volvemos al zoológico más excéntrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cerveza-mercadona-mejores-mercado-962963'>La cerveza de Mercadona es una de las mejores del mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cerveza-mercadona-mejores-mercado-962963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='La cerveza de Mercadona es una de las mejores del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-errores-demasiado-comunes-todos-cometemos-microondas-964233'>7 errores demasiado comunes que todos cometemos con el microondas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-errores-demasiado-comunes-todos-cometemos-microondas-964233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cocinar-pollo-microondas-2104045.jpg' alt='7 errores demasiado comunes que todos cometemos con el microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/gobierno-descarta-subir-momento-impuestos-diesel-962959'>El Gobierno descarta subir por el momento los impuestos al diésel</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gobierno-descarta-subir-momento-impuestos-diesel-962959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/diesel-2526265.jpg' alt='El Gobierno descarta subir por el momento los impuestos al diésel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-964587'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-964587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2532897.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/radiador-electrico.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525'>Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/historia-xbox-original-20-anos-tornado-microsoft-videojuegos-vivimos-2001-963525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xbox-original-2532895.jpg' alt='Historia de la Xbox original: 20 años del tornado de Microsoft en los videojuegos y así lo vivimos en 2001' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/uber-tanque-taxi-963233'>Cuando pides un Uber, y te viene un tanque a buscar a casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/uber-tanque-taxi-963233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuando-pides-uber-te-viene-tanque-buscar-casa-2529775.jpg' alt='Cuando pides un Uber, y te viene un tanque a buscar a casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579'>Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-stratos-reloj-deportivo-gps-chollo-964579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazfit-stratos-reloj-deportivo-gps-medidor-oxigeno-sangre-mucho-solo-68-euros-2532761.jpg' alt='Amazfit Stratos, el reloj deportivo con GPS, medidor de oxígeno en sangre y mucho más, solo 68 euros' />
     </a>
 </div>
 
