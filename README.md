@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147'>Google podría haber cancelado su terminal plegable Pixel Fold</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Google podría haber cancelado su terminal plegable Pixel Fold' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081'>Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125'>Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ocio-trabajo-donde-quieras-portatil-asus-chromebook-solo-cuesta-259-euros-2533921.jpg' alt='Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143'>Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/renault-reacondicionara-10000-coches-usados-ano-fabrica-sevilla-2533955.jpg' alt='Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969'>Toyota ha ampliado su museo, pero con un Honda NSX</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honda-nsx-1991-museo-toyota-2526061.jpg' alt='Toyota ha ampliado su museo, pero con un Honda NSX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083'>Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-s21-5g-2497275.jpg' alt='Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4' />
     </a>
 </div>
 
