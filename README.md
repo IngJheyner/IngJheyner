@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-teaser-she-hulk-proxima-apuesta-marvel-disney-plus-964897'>Primer teaser de She Hulk, la próxima apuesta de Marvel y Disney Plus</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primer-teaser-she-hulk-proxima-apuesta-marvel-disney-plus-964897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/she-hulk-2398105.jpg' alt='Primer teaser de She Hulk, la próxima apuesta de Marvel y Disney Plus' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935'>Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-2530133.jpg' alt='Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-reloj-deportivo-barato-smartwatch-huawei-cuesta-solo-79-euros-964519'>Si buscas un reloj deportivo barato, este smartwatch de Huawei cuesta solo 79 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-reloj-deportivo-barato-smartwatch-huawei-cuesta-solo-79-euros-964519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-watch-gt-2e-2532521.jpg' alt='Si buscas un reloj deportivo barato, este smartwatch de Huawei cuesta solo 79 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-pro-11-pulgadas-1-tb-oferta-especial-mediamarkt-964565'>Este iPad Pro es uno de los mayores chollos del día: tiene 490 euros de descuento y cuenta con 1 TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-pro-11-pulgadas-1-tb-oferta-especial-mediamarkt-964565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Este iPad Pro es uno de los mayores chollos del día: tiene 490 euros de descuento y cuenta con 1 TB de almacenamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-mejor-lugar-llevar-equipaje-quieres-ahorrar-combustible-dgt-964861'>Cuál es el mejor lugar para llevar el equipaje si quieres ahorrar combustible según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-mejor-lugar-llevar-equipaje-quieres-ahorrar-combustible-dgt-964861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/coche-equipaje-2187483.jpg' alt='Cuál es el mejor lugar para llevar el equipaje si quieres ahorrar combustible según la DGT' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cuales-son-moviles-potentes-xiaomi-418183'>¿Cuáles son actualmente los móviles más potentes de Xiaomi?</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cuales-son-moviles-potentes-xiaomi-418183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='¿Cuáles son actualmente los móviles más potentes de Xiaomi?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/no-esperes-ultima-hora-compras-black-friday-pueden-sufrir-retrasos-causa-nuevo-problema-964843'>No esperes a última hora, tus compras del Black Friday pueden sufrir retrasos a causa de un nuevo problema</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/no-esperes-ultima-hora-compras-black-friday-pueden-sufrir-retrasos-causa-nuevo-problema-964843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/caja-amazon-2099189.jpg' alt='No esperes a última hora, tus compras del Black Friday pueden sufrir retrasos a causa de un nuevo problema' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-grabo-juego-calamar-detras-camaras-divertido-perturbador-mismo-tiempo-964917'>¿Cómo se grabó El Juego del Calamar? Detrás de las cámaras divertido y perturbador al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-grabo-juego-calamar-detras-camaras-divertido-perturbador-mismo-tiempo-964917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/personajes-juego-calamar-2501095.jpg' alt='¿Cómo se grabó El Juego del Calamar? Detrás de las cámaras divertido y perturbador al mismo tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875'>La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogebonk-2533273.jpg' alt='La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-convierte-android-mejor-amigo-windows-11-964925'>Microsoft convierte a Android en el mejor amigo de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-convierte-android-mejor-amigo-windows-11-964925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/android-windows-11-2533375.jpg' alt='Microsoft convierte a Android en el mejor amigo de Windows 11' />
     </a>
 </div>
 
