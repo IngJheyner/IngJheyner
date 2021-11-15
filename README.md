@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875'>La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-criptomoneda-meme-amenaza-shiba-inu-ya-ha-aumentado-21000-veces-valor-964875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogebonk-2533273.jpg' alt='La nueva criptomoneda meme que amenaza a Shiba Inu y que ya ha aumentado 21.000 veces su valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/compraste-coche-2006-2013-podrias-tener-derecho-indemnizacion-2500-euros-964823'>Si compraste un coche entre 2006 y 2013 podrías tener derecho a una indemnización de hasta 2.500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/compraste-coche-2006-2013-podrias-tener-derecho-indemnizacion-2500-euros-964823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/impuesto-co2-pagan-coches-cataluna-podria-llegar-otras-comunidades-2493179.jpg' alt='Si compraste un coche entre 2006 y 2013 podrías tener derecho a una indemnización de hasta 2.500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-une-tecnologias-implementando-conexion-starlink-supercargadores-964811'>Tesla une tecnologías y está implementando la conexión Starlink a los Supercargadores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-une-tecnologias-implementando-conexion-starlink-supercargadores-964811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/supercargadores-v3-tesla.jpg' alt='Tesla une tecnologías y está implementando la conexión Starlink a los Supercargadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807'>Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503'>Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acer-aspire-5-2532413.jpg' alt='Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-lanza-primer-procesador-cuantico-imposible-imitar-ni-todos-superordenadores-juntos-964789'>IBM lanza el primer procesador cuántico imposible de imitar: ni con todos los superordenadores juntos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ibm-lanza-primer-procesador-cuantico-imposible-imitar-ni-todos-superordenadores-juntos-964789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teletransporte-hara-eficiente-procesadores-cuanticos-amd-2457783.jpg' alt='IBM lanza el primer procesador cuántico imposible de imitar: ni con todos los superordenadores juntos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-ha-actualizado-mejoras-afectan-uso-cotidiano-964787'>El Bitcoin se ha actualizado con mejoras que afectan a su uso cotidiano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-ha-actualizado-mejoras-afectan-uso-cotidiano-964787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bitcoin-2225103.jpg' alt='El Bitcoin se ha actualizado con mejoras que afectan a su uso cotidiano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-adn-myheritage-barata-oferta-amazon-964485'>Si quieres un regalo original, esta prueba de ADN está casi a mitad de precio y te permitirá conocer a fondo tus orígenes, y puedes hacerla en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-adn-myheritage-barata-oferta-amazon-964485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bastoncillo-laboratorio-cientifico-2532385.jpg' alt='Si quieres un regalo original, esta prueba de ADN está casi a mitad de precio y te permitirá conocer a fondo tus orígenes, y puedes hacerla en casa' />
     </a>
 </div>
 
