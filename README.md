@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085'>Estos auriculares de Samsung están provocando algunas infecciones de oído</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475009.jpg' alt='Estos auriculares de Samsung están provocando algunas infecciones de oído' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759'>imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/imoo-z6-2533055.jpg' alt='imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953'>realme GT Neo 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533469.jpg' alt='realme GT Neo 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971'>Trust rebaja de forma permanente los precios de sus webcam para oficina</a></h4>
-    <a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/webcam-trust-2530911.jpg' alt='Trust rebaja de forma permanente los precios de sus webcam para oficina' />
     </a>
 </div>
 
