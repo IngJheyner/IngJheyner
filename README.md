@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831'>Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/philips-55oled804-12-2533223.jpg' alt='Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085'>Estos auriculares de Samsung están provocando algunas infecciones de oído</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475009.jpg' alt='Estos auriculares de Samsung están provocando algunas infecciones de oído' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979'>Ya puedes instalar apps en tu Android TV desde tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Ya puedes instalar apps en tu Android TV desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953'>realme GT Neo 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533469.jpg' alt='realme GT Neo 2, análisis y opinión' />
     </a>
 </div>
 
