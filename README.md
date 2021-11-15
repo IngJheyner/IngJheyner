@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807'>Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/rumbo-estrellas-nubes-fue-despegue-ultimo-cohete-spacex-fotografia-video-964807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='Rumbo a las estrellas desde las nubes, así fue el despegue del último cohete de SpaceX (fotografías y vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503'>Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-pesa-solo-15-kg-amazon-ha-rebajado-100-euros-previa-black-friday-964503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acer-aspire-5-2532413.jpg' alt='Este portátil de Acer pesa solo 1,5 kg y Amazon lo ha rebajado en 100 euros en la previa del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-lanza-primer-procesador-cuantico-imposible-imitar-ni-todos-superordenadores-juntos-964789'>IBM lanza el primer procesador cuántico imposible de imitar: ni con todos los superordenadores juntos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ibm-lanza-primer-procesador-cuantico-imposible-imitar-ni-todos-superordenadores-juntos-964789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teletransporte-hara-eficiente-procesadores-cuanticos-amd-2457783.jpg' alt='IBM lanza el primer procesador cuántico imposible de imitar: ni con todos los superordenadores juntos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/prueba-adn-myheritage-barata-oferta-amazon-964485'>Si quieres un regalo original, esta prueba de ADN está casi a mitad de precio y te permitirá conocer a fondo tus orígenes, y puedes hacerla en casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/prueba-adn-myheritage-barata-oferta-amazon-964485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bastoncillo-laboratorio-cientifico-2532385.jpg' alt='Si quieres un regalo original, esta prueba de ADN está casi a mitad de precio y te permitirá conocer a fondo tus orígenes, y puedes hacerla en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-volvemos-zoologico-excentrico-964563'>Todos los estrenos de la semana en Netflix: volvemos al zoológico más excéntrico</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-volvemos-zoologico-excentrico-964563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tiger-king-2481855.jpg' alt='Todos los estrenos de la semana en Netflix: volvemos al zoológico más excéntrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cerveza-mercadona-mejores-mercado-962963'>La cerveza de Mercadona es una de las mejores del mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cerveza-mercadona-mejores-mercado-962963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='La cerveza de Mercadona es una de las mejores del mercado' />
     </a>
 </div>
 
