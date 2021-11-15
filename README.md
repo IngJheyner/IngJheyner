@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759'>imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/imoo-z6-2533055.jpg' alt='imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987'>Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-edge-2286921.jpg' alt='Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971'>Trust rebaja de forma permanente los precios de sus webcam para oficina</a></h4>
     <a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/webcam-trust-2530911.jpg' alt='Trust rebaja de forma permanente los precios de sus webcam para oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961'>Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-12-mini-2533551.jpg' alt='Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W' />
     </a>
 </div>
 
