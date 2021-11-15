@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969'>Toyota ha ampliado su museo, pero con un Honda NSX</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/toyota-ha-ampliado-museo-pero-honda-nsx-962969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honda-nsx-1991-museo-toyota-2526061.jpg' alt='Toyota ha ampliado su museo, pero con un Honda NSX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083'>Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-empezarian-recibir-android-12-hoy-mismo-one-ui-4-965083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-s21-5g-2497275.jpg' alt='Los Samsung Galaxy S21 empezarían a recibir Android 12 desde hoy mismo con One UI 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-inteligentes-amazon-echo-ahora-son-capaces-detectar-cuando-entras-habitacion-965129'>Los altavoces inteligentes Amazon Echo ahora son capaces de detectar cuando entras a una habitación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoces-inteligentes-amazon-echo-ahora-son-capaces-detectar-cuando-entras-habitacion-965129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-echo-2020-2240341.jpg' alt='Los altavoces inteligentes Amazon Echo ahora son capaces de detectar cuando entras a una habitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-situaciones-dgt-puede-multarte-200-euros-utilizar-mal-luces-coche-965123'>Estas son las situaciones en las que la DGT puede multarte con 200 euros por utilizar mal las luces del coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-situaciones-dgt-puede-multarte-200-euros-utilizar-mal-luces-coche-965123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/luces-coche-2533917.jpg' alt='Estas son las situaciones en las que la DGT puede multarte con 200 euros por utilizar mal las luces del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831'>Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-philips-55-pulgadas-oled-4k-android-tv-oferta-amazon-964831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/philips-55oled804-12-2533223.jpg' alt='Amazon acaba de rebajar más de 700 euros esta Smart TV OLED de 55" de Philips que además tiene Ambilight' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085'>Estos auriculares de Samsung están provocando algunas infecciones de oído</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-samsung-estan-provocando-algunas-infecciones-oido-965085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475009.jpg' alt='Estos auriculares de Samsung están provocando algunas infecciones de oído' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759'>imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imoo-z6-reloj-inteligente-ninos-gps-oferta-amazon-964759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/imoo-z6-2533055.jpg' alt='imoo Z6, un reloj inteligente para tus hijos que puedes localizar con GPS y realizar llamadas baja de precio a 185€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987'>Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-mete-lio-obliga-usuarios-usar-edge-windows-11-964987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-edge-2286921.jpg' alt='Microsoft se mete en un lío: obliga a los usuarios a usar Edge en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979'>Ya puedes instalar apps en tu Android TV desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Ya puedes instalar apps en tu Android TV desde tu móvil' />
     </a>
 </div>
 
