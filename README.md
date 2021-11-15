@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159'>Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-4004-primer-microprocesador-historia-cumple-50-anos-965163'>Intel 4004, el primer microprocesador de la historia, cumple 50 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-4004-primer-microprocesador-historia-cumple-50-anos-965163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/intel-4004-primer-microprocesador-historia-cumple-50-anos-2533983.jpg' alt='Intel 4004, el primer microprocesador de la historia, cumple 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149'>La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/portatil-macbook-pro-mesa-escritorio-2354643.jpg' alt='La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147'>Google podría haber cancelado su terminal plegable Pixel Fold</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Google podría haber cancelado su terminal plegable Pixel Fold' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081'>Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-965081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Aparecen las primeras imágenes del OnePlus 10 Pro y el módulo de cámaras tendría un tamaño desproporcionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125'>Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-8-gb-ram-259-euros-965125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ocio-trabajo-donde-quieras-portatil-asus-chromebook-solo-cuesta-259-euros-2533921.jpg' alt='Tu ocio o trabajo donde quieras: este portátil Asus Chromebook con 8 GB de RAM solo cuesta 259 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/eternals-obtuvo-160-millones-recaudacion-primer-fin-semana-962973'>Eternals obtuvo más 160 millones de recaudación en su primer fin de semana</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/eternals-obtuvo-160-millones-recaudacion-primer-fin-semana-962973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525555.jpg' alt='Eternals obtuvo más 160 millones de recaudación en su primer fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143'>Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renault-refactory-fabrica-sevilla-965143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/renault-reacondicionara-10000-coches-usados-ano-fabrica-sevilla-2533955.jpg' alt='Renault reacondicionará 10.000 coches usados al año y miles de baterías en su fábrica de Sevilla' />
     </a>
 </div>
 
