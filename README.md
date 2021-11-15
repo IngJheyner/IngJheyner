@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979'>Ya puedes instalar apps en tu Android TV desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-apps-android-tv-movil-964979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Ya puedes instalar apps en tu Android TV desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953'>realme GT Neo 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-2-analisis-opinion-964953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533469.jpg' alt='realme GT Neo 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971'>Trust rebaja de forma permanente los precios de sus webcam para oficina</a></h4>
+    <a href='https://computerhoy.com/patrocinado/industria/trust-rebaja-forma-permanente-precios-webcam-oficina-964971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/webcam-trust-2530911.jpg' alt='Trust rebaja de forma permanente los precios de sus webcam para oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961'>Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-xioami-12-mini-semanas-antes-presentacion-snapdragon-870-pantalla-628-carga-rapida-67-w-964961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-12-mini-2533551.jpg' alt='Habrá Xiaomi 12 Mini en unas semanas: Snapdragon 870, 6,28 pulgadas y carga de 67 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935'>Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-tiene-nuevo-plan-marcha-esquivar-sanciones-eeuu-964935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-2530133.jpg' alt='Huawei tiene un nuevo plan en marcha para esquivar las sanciones de EE.UU.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-pro-11-pulgadas-1-tb-oferta-especial-mediamarkt-964565'>Este iPad Pro es uno de los mayores chollos del día: tiene 490 euros de descuento y cuenta con 1 TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-pro-11-pulgadas-1-tb-oferta-especial-mediamarkt-964565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Este iPad Pro es uno de los mayores chollos del día: tiene 490 euros de descuento y cuenta con 1 TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cuales-son-moviles-potentes-xiaomi-418183'>¿Cuáles son actualmente los móviles más potentes de Xiaomi?</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cuales-son-moviles-potentes-xiaomi-418183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='¿Cuáles son actualmente los móviles más potentes de Xiaomi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-grabo-juego-calamar-detras-camaras-divertido-perturbador-mismo-tiempo-964917'>¿Cómo se grabó El Juego del Calamar? Detrás de las cámaras divertido y perturbador al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-grabo-juego-calamar-detras-camaras-divertido-perturbador-mismo-tiempo-964917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/personajes-juego-calamar-2501095.jpg' alt='¿Cómo se grabó El Juego del Calamar? Detrás de las cámaras divertido y perturbador al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-convierte-android-mejor-amigo-windows-11-964925'>Microsoft convierte a Android en el mejor amigo de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-convierte-android-mejor-amigo-windows-11-964925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/android-windows-11-2533375.jpg' alt='Microsoft convierte a Android en el mejor amigo de Windows 11' />
     </a>
 </div>
 
