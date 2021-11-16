@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473'>Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-acaba-destruir-viejo-satelite-estacion-espacial-internacional-peligro-965469'>Rusia acaba de destruir un viejo satélite: la Estación Espacial Internacional en peligro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusia-acaba-destruir-viejo-satelite-estacion-espacial-internacional-peligro-965469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Rusia acaba de destruir un viejo satélite: la Estación Espacial Internacional en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029'>Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-huawei-matepad-11-2417343.jpg' alt='Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429'>Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/cargador-rapido-europa-permite-viajar-madrid-toledo-4-minutos-recarga-1875195.jpg' alt='Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531'>Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351975.jpg' alt='Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tiene-10000-pa-potencia-reconoce-objetos-aunque-precio-no-precisamente-barato-964541'>Este robot aspirador tiene 10.000 Pa de potencia y reconoce objetos, aunque su precio no es precisamente barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tiene-10000-pa-potencia-reconoce-objetos-aunque-precio-no-precisamente-barato-964541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-conga-9090-ia-2532563.jpg' alt='Este robot aspirador tiene 10.000 Pa de potencia y reconoce objetos, aunque su precio no es precisamente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-podras-pagar-algunos-impuestos-bizum-965439'>En 2022 podrás pagar algunos impuestos con Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/2022-podras-pagar-algunos-impuestos-bizum-965439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/bizum-2196051.jpg' alt='En 2022 podrás pagar algunos impuestos con Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2534189.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
