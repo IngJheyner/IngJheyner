@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621'>7 consejos para llevar el teletrabajo lo mejor posible</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='7 consejos para llevar el teletrabajo lo mejor posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179'>Las mejores películas nuevas de Netflix estrenadas en 2021</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/alerta-roja-2523255.jpeg' alt='Las mejores películas nuevas de Netflix estrenadas en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625'>Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek</a></h4>
     <a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/qualcomm-snapdragon-888-2388011.jpg' alt='Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627'>¿Pixel Fold cancelado? Oportunidad perdida para Android y Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-apunta-personalizacion-telefonos-plegables-galaxy-z-flip-3-bespoke-edition-2507079.jpg' alt='¿Pixel Fold cancelado? Oportunidad perdida para Android y Google' />
     </a>
 </div>
 
