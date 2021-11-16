@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173'>Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-etiquetas-olores-tarros-1-minuto-dejarlos-como-nuevos-2533993.jpg' alt='Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171'>The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/rig-plataforma-petrolifera-convertida-parque-atracciones-extremo-arabia-saudi-2533991.jpg' alt='The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149'>La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/portatil-macbook-pro-mesa-escritorio-2354643.jpg' alt='La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147'>Google podría haber cancelado su terminal plegable Pixel Fold</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-podria-haber-cancelado-terminal-plegable-pixel-fold-965147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Google podría haber cancelado su terminal plegable Pixel Fold' />
     </a>
 </div>
 
