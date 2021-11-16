@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasate-bombillas-inteligentes-solo-9-euros-gracias-chollo-amazon-964825'>Pásate a las bombillas inteligentes por solo 9 euros gracias a este chollo de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasate-bombillas-inteligentes-solo-9-euros-gracias-chollo-amazon-964825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tp-link-tapo-l510e-2533201.jpg' alt='Pásate a las bombillas inteligentes por solo 9 euros gracias a este chollo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-reglas-oro-debes-conocer-tienes-freidora-aire-965513'>Las 6 reglas de oro que debes conocer si tienes una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-reglas-oro-debes-conocer-tienes-freidora-aire-965513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507927.jpg' alt='Las 6 reglas de oro que debes conocer si tienes una freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473'>Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029'>Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-huawei-matepad-11-2417343.jpg' alt='Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429'>Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/cargador-rapido-europa-permite-viajar-madrid-toledo-4-minutos-recarga-1875195.jpg' alt='Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531'>Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351975.jpg' alt='Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores' />
     </a>
 </div>
 
