@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429'>Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usada-tarjeta-graficas-podria-ser-solucion-tiempos-carga-coches-electricos-965429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/cargador-rapido-europa-permite-viajar-madrid-toledo-4-minutos-recarga-1875195.jpg' alt='Una tecnología usada en tarjeta gráficas podría ser la solución a los tiempos de carga de los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531'>Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-oferta-amazon-mejor-alternativa-xiaomi-mi-band-964531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351975.jpg' alt='Esta pulsera inteligente Huawei de solo 39 euros tiene poco que envidiar a un smartwatch, y está en oferta en cuatro colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tiene-10000-pa-potencia-reconoce-objetos-aunque-precio-no-precisamente-barato-964541'>Este robot aspirador tiene 10.000 Pa de potencia y reconoce objetos, aunque su precio no es precisamente barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tiene-10000-pa-potencia-reconoce-objetos-aunque-precio-no-precisamente-barato-964541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-conga-9090-ia-2532563.jpg' alt='Este robot aspirador tiene 10.000 Pa de potencia y reconoce objetos, aunque su precio no es precisamente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-podras-pagar-algunos-impuestos-bizum-965439'>En 2022 podrás pagar algunos impuestos con Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2022-podras-pagar-algunos-impuestos-bizum-965439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/bizum-2196051.jpg' alt='En 2022 podrás pagar algunos impuestos con Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2534189.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-productos-huawei-baratos-ofertas-964867'>10 productos Huawei que no son móviles y que superan en precio a la competencia</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-productos-huawei-baratos-ofertas-964867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-huawei-matepad-11-2417351.jpg' alt='10 productos Huawei que no son móviles y que superan en precio a la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173'>Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-etiquetas-olores-tarros-1-minuto-dejarlos-como-nuevos-2533993.jpg' alt='Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171'>The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí</a></h4>
-    <a href='https://computerhoy.com/noticias/life/the-rig-plataforma-petrolifera-parque-atracciones-extremo-arabia-saudi-965171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/rig-plataforma-petrolifera-convertida-parque-atracciones-extremo-arabia-saudi-2533991.jpg' alt='The Rig, la plataforma petrolífera convertida en un parque de atracciones extremo, en Arabia Saudí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159'>Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google' />
     </a>
 </div>
 
