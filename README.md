@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721'>Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-top-qualcomm-podria-ser-snapdragon-8-gen-1-estas-serian-specs-965711'>El próximo chip top de Qualcomm podría ser el Snapdragon 8 gen 1 y estas serían sus specs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-top-qualcomm-podria-ser-snapdragon-8-gen-1-estas-serian-specs-965711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/qualcomm-snapdragon-888-5g-2330943.jpg' alt='El próximo chip top de Qualcomm podría ser el Snapdragon 8 gen 1 y estas serían sus specs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621'>7 consejos para llevar el teletrabajo lo mejor posible</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='7 consejos para llevar el teletrabajo lo mejor posible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199'>Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/modo-dios-windows-11-2507111.jpg' alt='Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655'>Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/astronauta-2534787.jpg' alt='Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625'>Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek</a></h4>
-    <a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/qualcomm-snapdragon-888-2388011.jpg' alt='Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek' />
     </a>
 </div>
 
