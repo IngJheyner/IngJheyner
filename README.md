@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasate-bombillas-inteligentes-solo-9-euros-gracias-chollo-amazon-964825'>Pásate a las bombillas inteligentes por solo 9 euros gracias a este chollo de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasate-bombillas-inteligentes-solo-9-euros-gracias-chollo-amazon-964825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tp-link-tapo-l510e-2533201.jpg' alt='Pásate a las bombillas inteligentes por solo 9 euros gracias a este chollo de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575'>Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-nord-n20-5g-2534643.jpg' alt='Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-reglas-oro-debes-conocer-tienes-freidora-aire-965513'>Las 6 reglas de oro que debes conocer si tienes una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-reglas-oro-debes-conocer-tienes-freidora-aire-965513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507927.jpg' alt='Las 6 reglas de oro que debes conocer si tienes una freidora de aire' />
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-caseros-ahorrar-calefaccion-pasar-frio-965519'>Consejos y trucos caseros para ahorrar en calefacción sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-trucos-caseros-ahorrar-calefaccion-pasar-frio-965519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/termostato-2534547.jpg' alt='Consejos y trucos caseros para ahorrar en calefacción sin pasar frío' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473'>Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-cae-40-dos-semanas-donde-puede-bajar-965473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='Shiba Inu cae más de un 40% en dos semanas: ¿hasta dónde puede bajar?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937'>Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/amazon-echo-show-8-1886677.jpg' alt='Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-acaba-destruir-viejo-satelite-estacion-espacial-internacional-peligro-965469'>Rusia acaba de destruir un viejo satélite: la Estación Espacial Internacional en peligro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusia-acaba-destruir-viejo-satelite-estacion-espacial-internacional-peligro-965469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Rusia acaba de destruir un viejo satélite: la Estación Espacial Internacional en peligro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-i7-12o-generacion-intel-pondria-fin-dominacion-amd-anos-reinado-965563'>El nuevo i7 de 12º generación de Intel pondría fin a la dominación de AMD tras años de reinado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-i7-12o-generacion-intel-pondria-fin-dominacion-amd-anos-reinado-965563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='El nuevo i7 de 12º generación de Intel pondría fin a la dominación de AMD tras años de reinado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029'>Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-barata-compacta-hacer-todo-huawei-matepad-11-tiene-50-euros-ahorro-tiempo-limitado-965029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-huawei-matepad-11-2417343.jpg' alt='Si buscas una tablet barata y compacta para hacer de todo esta Huawei MatePad 11 tiene 50 euros de ahorro por tiempo limitado' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mujer-musica-auriculares-2525703.jpg' alt='Las mejores páginas para descargar música gratis de forma totalmente legal' />
     </a>
 </div>
 
