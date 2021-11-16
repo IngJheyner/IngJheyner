@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655'>Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/astronauta-2534787.jpg' alt='Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625'>Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek</a></h4>
+    <a href='https://computerhoy.com/noticias/motivo-moviles-snapdragon-reciben-actualizaciones-antes-chip-mediatek-965625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/qualcomm-snapdragon-888-2388011.jpg' alt='Este es el motivo por el que los móviles con Snapdragon reciben las actualizaciones antes que con chip Mediatek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627'>¿Pixel Fold cancelado? Oportunidad perdida para Android y Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-apunta-personalizacion-telefonos-plegables-galaxy-z-flip-3-bespoke-edition-2507079.jpg' alt='¿Pixel Fold cancelado? Oportunidad perdida para Android y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027'>Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-hu70ls-2533755.jpg' alt='Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597'>Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575'>Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-nord-n20-5g-2534643.jpg' alt='Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-caseros-ahorrar-calefaccion-pasar-frio-965519'>Consejos y trucos caseros para ahorrar en calefacción sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-trucos-caseros-ahorrar-calefaccion-pasar-frio-965519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/termostato-2534547.jpg' alt='Consejos y trucos caseros para ahorrar en calefacción sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937'>Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/amazon-echo-show-8-1886677.jpg' alt='Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas' />
     </a>
 </div>
 
