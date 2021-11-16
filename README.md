@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075'>Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-nest-mini-2275441.jpg' alt='Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721'>Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179'>Las mejores películas nuevas de Netflix estrenadas en 2021</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/alerta-roja-2523255.jpeg' alt='Las mejores películas nuevas de Netflix estrenadas en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199'>Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/modo-dios-windows-11-2507111.jpg' alt='Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí' />
     </a>
 </div>
 
