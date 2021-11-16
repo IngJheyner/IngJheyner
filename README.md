@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-965393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2534189.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-productos-huawei-baratos-ofertas-964867'>10 productos Huawei que no son móviles y que superan en precio a la competencia</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-productos-huawei-baratos-ofertas-964867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-huawei-matepad-11-2417351.jpg' alt='10 productos Huawei que no son móviles y que superan en precio a la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173'>Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-como-quitar-etiquetas-olores-tarros-965173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-etiquetas-olores-tarros-1-minuto-dejarlos-como-nuevos-2533993.jpg' alt='Cómo quitar las etiquetas y los olores de los tarros en 1 minuto, y dejarlos como nuevos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159'>Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/han-conseguido-traduccion-instantanea-exclusiva-pixel-6-funcione-otros-moviles-google-965159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Han conseguido que la traducción instantánea exclusiva de los Pixel 6 funcione en otros móviles de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-4004-primer-microprocesador-historia-cumple-50-anos-965163'>Intel 4004, el primer microprocesador de la historia, cumple 50 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-4004-primer-microprocesador-historia-cumple-50-anos-965163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/intel-4004-primer-microprocesador-historia-cumple-50-anos-2533983.jpg' alt='Intel 4004, el primer microprocesador de la historia, cumple 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149'>La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-amazon-prime-video-fin-disponible-mac-llega-compatibilidad-airplay-965149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/portatil-macbook-pro-mesa-escritorio-2354643.jpg' alt='La aplicación de Amazon Prime Video por fin está disponible para Mac y llega con compatibilidad con AirPlay' />
     </a>
 </div>
 
