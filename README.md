@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027'>Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-hu70ls-2533755.jpg' alt='Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597'>Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575'>Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-oneplus-nord-n20-5g-junto-algunas-especificaciones-965575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-nord-n20-5g-2534643.jpg' alt='Se filtran imágenes del OnePlus Nord N20 5G junto a algunas especificaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937'>Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-8-primera-gen-descuento-964937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/amazon-echo-show-8-1886677.jpg' alt='Este Echo Show con 30 euros de descuento tiene una pantalla de 8 pulgadas, puedes hacer videollamadas y cuenta con Alexa para responder todas tus dudas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-i7-12o-generacion-intel-pondria-fin-dominacion-amd-anos-reinado-965563'>El nuevo i7 de 12º generación de Intel pondría fin a la dominación de AMD tras años de reinado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-i7-12o-generacion-intel-pondria-fin-dominacion-amd-anos-reinado-965563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='El nuevo i7 de 12º generación de Intel pondría fin a la dominación de AMD tras años de reinado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mujer-musica-auriculares-2525703.jpg' alt='Las mejores páginas para descargar música gratis de forma totalmente legal' />
     </a>
 </div>
 
