@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estrategia-t-dgt-como-te-afecta-965769'>Qué es la Estrategia-T de la DGT y cómo te afecta</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estrategia-t-dgt-como-te-afecta-965769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/travesias-2535087.jpg' alt='Qué es la Estrategia-T de la DGT y cómo te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-soluciona-problemas-demandados-muchos-usuarios-965763'>Android Auto soluciona uno de los problemas más demandados por muchos de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-soluciona-problemas-demandados-muchos-usuarios-965763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Android Auto soluciona uno de los problemas más demandados por muchos de sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-e30-motor-honda-s2000-963047'>Así es el BMW E30 con un motor de Honda S2000</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-e30-motor-honda-s2000-963047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bmw-e30-motor-honda-s2000-2527771.jpg' alt='Así es el BMW E30 con un motor de Honda S2000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075'>Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-nest-mini-2275441.jpg' alt='Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721'>Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-top-qualcomm-podria-ser-snapdragon-8-gen-1-estas-serian-specs-965711'>El próximo chip top de Qualcomm podría ser el Snapdragon 8 gen 1 y estas serían sus specs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-top-qualcomm-podria-ser-snapdragon-8-gen-1-estas-serian-specs-965711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/qualcomm-snapdragon-888-5g-2330943.jpg' alt='El próximo chip top de Qualcomm podría ser el Snapdragon 8 gen 1 y estas serían sus specs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621'>7 consejos para llevar el teletrabajo lo mejor posible</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-consejos-llevar-teletrabajo-mejor-posible-965621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='7 consejos para llevar el teletrabajo lo mejor posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179'>Las mejores películas nuevas de Netflix estrenadas en 2021</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/alerta-roja-2523255.jpeg' alt='Las mejores películas nuevas de Netflix estrenadas en 2021' />
     </a>
 </div>
 
