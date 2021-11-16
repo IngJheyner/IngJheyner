@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655'>Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655' target='_blank'>
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179'>Las mejores películas nuevas de Netflix estrenadas en 2021</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-nuevas-netflix-estrenadas-2021-961179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/alerta-roja-2523255.jpeg' alt='Las mejores películas nuevas de Netflix estrenadas en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199'>Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-activar-modo-dios-windows-11-todo-puedes-hacer-alli-951199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/modo-dios-windows-11-2507111.jpg' alt='Cómo activar el Modo dios de Windows 11 y todo lo que puedes hacer allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655'>Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/como-acostumbra-astronauta-nuevo-gravedad-volver-tierra-965655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/astronauta-2534787.jpg' alt='Así es cómo se acostumbra un astronauta de nuevo a la gravedad al volver a la Tierra' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627'>¿Pixel Fold cancelado? Oportunidad perdida para Android y Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-cancelado-oportunidad-perdida-android-google-965627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-apunta-personalizacion-telefonos-plegables-galaxy-z-flip-3-bespoke-edition-2507079.jpg' alt='¿Pixel Fold cancelado? Oportunidad perdida para Android y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027'>Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todas-smart-tv-te-quedan-pequenas-puedes-montarte-cine-casa-proyector-lg-mismo-vale-tv-965027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-hu70ls-2533755.jpg' alt='Si todas las Smart TV se te quedan pequeñas puedes montarte un cine en casa con este proyector LG por lo mismo que vale una TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597'>Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-material-baterias-electricas-permitira-cargas-10-veces-rapidas-actuales-965597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-futuro-ev-2483763.jpg' alt='Este nuevo material para baterías eléctricas permitirá cargas hasta 10 veces más rápidas que las actuales' />
     </a>
 </div>
 
