@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com-965797'>Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 </a></h4>
+    <a href='https://computerhoy.com-965797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-2535125.jpg' alt='Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793'>Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-watch-os-2535121.jpg' alt='Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785'>Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-ahora-permitira-recuperar-paginas-cerradas-error-rapido-965787'>Google Chrome se actualiza y ahora permitirá recuperar las páginas cerradas por error más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-ahora-permitira-recuperar-paginas-cerradas-error-rapido-965787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-chrome-2261053.jpg' alt='Google Chrome se actualiza y ahora permitirá recuperar las páginas cerradas por error más rápido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-descuento-80-euros-965789'>Sí buscas un móvil para ver series o jugar el realme GT Neo 2 acaba de salir, pero ya tiene un descuento de 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-descuento-80-euros-965789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2529453.jpg' alt='Sí buscas un móvil para ver series o jugar el realme GT Neo 2 acaba de salir, pero ya tiene un descuento de 80 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-anilla-latas-refresco-cerveza-962981'>Para qué sirve la anilla de las latas de refresco o cerveza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-anilla-latas-refresco-cerveza-962981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/latas-anilla-2529119.jpg' alt='Para qué sirve la anilla de las latas de refresco o cerveza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-buscando-componentes-alternativos-nintendo-switch-963053'>Nintendo está buscando 'componentes alternativos' para la Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-buscando-componentes-alternativos-nintendo-switch-963053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2493999.jpg' alt='Nintendo está buscando 'componentes alternativos' para la Nintendo Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/14-consejos-geniales-supervivencia-965775'>14 consejos geniales de supervivencia extraídos de los foros de Reddit, que pueden salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/14-consejos-geniales-supervivencia-965775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/14-consejos-geniales-supervivencia-extraidos-foros-reddit-pueden-salvarte-vida-2535113.jpg' alt='14 consejos geniales de supervivencia extraídos de los foros de Reddit, que pueden salvarte la vida' />
     </a>
 </div>
 
