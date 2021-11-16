@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/14-consejos-geniales-supervivencia-965775'>14 consejos geniales de supervivencia extraídos de los foros de Reddit, que pueden salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/14-consejos-geniales-supervivencia-965775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/14-consejos-geniales-supervivencia-extraidos-foros-reddit-pueden-salvarte-vida-2535097.jpg' alt='14 consejos geniales de supervivencia extraídos de los foros de Reddit, que pueden salvarte la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estrategia-t-dgt-como-te-afecta-965769'>Qué es la Estrategia-T de la DGT y cómo te afecta</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estrategia-t-dgt-como-te-afecta-965769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/travesias-2535087.jpg' alt='Qué es la Estrategia-T de la DGT y cómo te afecta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075'>Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inteligente-google-nest-mini-oferta-17-euros-965075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-nest-mini-2275441.jpg' alt='Tener un asistente virtual en casa es casi más barato que un par de cafés: el altavoz Google Nest Mini ya solo cuesta 17,99€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721'>Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-facilitar-experiencia-compra-google-maps-estas-nuevas-funcionalidades-965721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google quiere facilitar la experiencia de compra en Google Maps con estas nuevas funcionalidades' />
     </a>
 </div>
 
