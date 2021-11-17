@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/luz-v16-emergencia-barata-momento-vende-amazon-cuesta-solo-15-euros-964857'>Esta es la luz V16 de emergencia más barata del momento: la vende Amazon y cuesta solo 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/luz-v16-emergencia-barata-momento-vende-amazon-cuesta-solo-15-euros-964857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iwotto-v16-2241629.jpg' alt='Esta es la luz V16 de emergencia más barata del momento: la vende Amazon y cuesta solo 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-transmisores-bluetooth-radio-viejo-coche-966029'>Mejores transmisores Bluetooth para la radio de tu viejo coche</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-transmisores-bluetooth-radio-viejo-coche-966029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autoradio-coche-2535413.jpg' alt='Mejores transmisores Bluetooth para la radio de tu viejo coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cafe-manana-ayuda-prevenir-todas-estas-enfermedades-nuevos-estudios-966077'>El café de la mañana ayuda a prevenir todas estas enfermedades, según nuevos estudios</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cafe-manana-ayuda-prevenir-todas-estas-enfermedades-nuevos-estudios-966077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/servir-cafe-2520197.jpg' alt='El café de la mañana ayuda a prevenir todas estas enfermedades, según nuevos estudios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-plataforma-streaming-ha-empezado-robarle-series-netflix-966065'>Una nueva plataforma de streaming ha empezado a robarle series a Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-plataforma-streaming-ha-empezado-robarle-series-netflix-966065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/paramount-2116271.jpeg' alt='Una nueva plataforma de streaming ha empezado a robarle series a Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841'>Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2067947.jpg' alt='Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073'>Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tiger-king-regresa-dispuesto-dejarte-boquiabierto-nuevo-965595'>Tiger King regresa dispuesto a dejarte boquiabierto de nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tiger-king-regresa-dispuesto-dejarte-boquiabierto-nuevo-965595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiger-king-1911297.jpg' alt='Tiger King regresa dispuesto a dejarte boquiabierto de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-model-2-podria-ser-mini-coche-electrico-963069'>Tesla Model 2: así podría ser el 'mini-coche' eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-model-2-podria-ser-mini-coche-electrico-963069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-2-2528431.jpg' alt='Tesla Model 2: así podría ser el 'mini-coche' eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2535351.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
