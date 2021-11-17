@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441'>Los emojis llegan a los estados de Instagram en su nueva actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Los emojis llegan a los estados de Instagram en su nueva actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-966439'>Moto Watch 100, así es el nuevo smartwatch de Motorola que renuncia a Wear OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-966439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-2536231.jpg' alt='Moto Watch 100, así es el nuevo smartwatch de Motorola que renuncia a Wear OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449'>Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lg-gram-14-2483131.jpg' alt='Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397'>La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443'>La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea</a></h4>
     <a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-2536229.jpg' alt='La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/convierten-silo-misiles-resort-lujo-puedes-estar-5-anos-encerrado-966437'>Convierten un silo de misiles en un resort de lujo en el que puedes estar hasta 5 años encerrado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/convierten-silo-misiles-resort-lujo-puedes-estar-5-anos-encerrado-966437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/silo-misiles-reconvertido-bunker-lujo-2536221.jpg' alt='Convierten un silo de misiles en un resort de lujo en el que puedes estar hasta 5 años encerrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/senales-dgt-indican-deberias-dejar-conducir-966433'>Señales que según la DGT indican que deberías dejar de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/senales-dgt-indican-deberias-dejar-conducir-966433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conductor-mayor-2536211.jpg' alt='Señales que según la DGT indican que deberías dejar de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuando-empieza-black-friday-2021-amazon-fechas-clave-966095'>¿Cuándo empieza el Black Friday 2021 en Amazon? Estas son las fechas clave</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cuando-empieza-black-friday-2021-amazon-fechas-clave-966095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2147833.jpg' alt='¿Cuándo empieza el Black Friday 2021 en Amazon? Estas son las fechas clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-966399'>Samsung podría lanzar un móvil plegable que combine los formatos del Galaxy Z Fold y Z Flip</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-966399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-2536203.jpg' alt='Samsung podría lanzar un móvil plegable que combine los formatos del Galaxy Z Fold y Z Flip' />
     </a>
 </div>
 
