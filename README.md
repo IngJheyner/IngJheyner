@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237'>4 alimentos que tienes en tu dieta y que afectan al cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/granos-arroz-2274209.jpg' alt='4 alimentos que tienes en tu dieta y que afectan al cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801'>El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-tortilla-francesa-sarten-minuto-manchar-2535139.jpg' alt='El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793'>Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-watch-os-2535121.jpg' alt='Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785'>Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio' />
     </a>
 </div>
 
