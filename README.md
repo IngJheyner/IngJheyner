@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-huawei-watch-fit-new-renovacion-smartwatch-economico-966191'>Huawei lanza el Huawei Watch Fit New, la renovación de su smartwatch más económico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-huawei-watch-fit-new-renovacion-smartwatch-economico-966191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2061671.jpg' alt='Huawei lanza el Huawei Watch Fit New, la renovación de su smartwatch más económico' />
+    <h4><a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273'>Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL</a></h4>
+    <a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiacristales-vibracion-silvercrest-2535857.jpg' alt='Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/pc-gaming'>Guía para comprar un PC gaming: consejos y todo lo que debes saber para no equivocarte</a></h4>
-    <a href='https://computerhoy.com/guia-compra/pc-gaming' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pc-gaming-2523335.jpg' alt='Guía para comprar un PC gaming: consejos y todo lo que debes saber para no equivocarte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguro-bizum-transferencia-966279'>Qué es más seguro: ¿Bizum o transferencia?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguro-bizum-transferencia-966279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2341121.jpg' alt='Qué es más seguro: ¿Bizum o transferencia?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-pro-type-ultra-review-opinion-963653'>Razer Pro Type Ultra, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-pro-type-ultra-review-opinion-963653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/razer-pro-type-ultra-analisis-2532499.jpg' alt='Razer Pro Type Ultra, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203'>Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163'>El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/investigadores-australianos-baten-record-velocidad-internet-1000-peliculas-descargadas-segundo-1950043.jpg' alt='El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica' />
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-vende-extrano-practico-calendario-adviento-seguramente-no-has-visto-nunca-966227'>Lidl vende un extraño y práctico calendario de adviento que seguramente no has visto nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-vende-extrano-practico-calendario-adviento-seguramente-no-has-visto-nunca-966227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calendario-adviento-lidl-2535747.jpg' alt='Lidl vende un extraño y práctico calendario de adviento que seguramente no has visto nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177'>Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/peajes-autovias-espanolas-razon-003eu-cada-kilometro-recorras.jpg' alt='Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-128-gb-oferta-aliexpress-plaza-965425'>Este OnePlus 9 de 128 GB es un chollo: ahora cuesta menos de 490 euros y tiene envío desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-128-gb-oferta-aliexpress-plaza-965425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2284583.jpg' alt='Este OnePlus 9 de 128 GB es un chollo: ahora cuesta menos de 490 euros y tiene envío desde España' />
     </a>
 </div>
 
