@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-llegara-disney-finales-2022-963075'>Ms. Marvel llegará a Disney+ a finales de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-llegara-disney-finales-2022-963075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ms-marvel-2464051.jpg' alt='Ms. Marvel llegará a Disney+ a finales de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443'>La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-2536229.jpg' alt='La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385'>Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487721.jpg' alt='Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa' />
+    <h4><a href='https://computerhoy.com/noticias/life/convierten-silo-misiles-resort-lujo-puedes-estar-5-anos-encerrado-966437'>Convierten un silo de misiles en un resort de lujo en el que puedes estar hasta 5 años encerrado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/convierten-silo-misiles-resort-lujo-puedes-estar-5-anos-encerrado-966437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/silo-misiles-reconvertido-bunker-lujo-2536221.jpg' alt='Convierten un silo de misiles en un resort de lujo en el que puedes estar hasta 5 años encerrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717'>Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento' />
+    <h4><a href='https://computerhoy.com/noticias/motor/senales-dgt-indican-deberias-dejar-conducir-966433'>Señales que según la DGT indican que deberías dejar de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/senales-dgt-indican-deberias-dejar-conducir-966433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conductor-mayor-2536211.jpg' alt='Señales que según la DGT indican que deberías dejar de conducir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-aceites-oliva-hacen-pasar-virgen-extra-puedes-comprar-super-966345'>La OCU denuncia la estafa de aceites de oliva que se hacen pasar por virgen extra y puedes comprar en el súper</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-aceites-oliva-hacen-pasar-virgen-extra-puedes-comprar-super-966345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/echar-aceite-2455911.jpg' alt='La OCU denuncia la estafa de aceites de oliva que se hacen pasar por virgen extra y puedes comprar en el súper' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuando-empieza-black-friday-2021-amazon-fechas-clave-966095'>¿Cuándo empieza el Black Friday 2021 en Amazon? Estas son las fechas clave</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cuando-empieza-black-friday-2021-amazon-fechas-clave-966095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2147833.jpg' alt='¿Cuándo empieza el Black Friday 2021 en Amazon? Estas son las fechas clave' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343'>Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-966399'>Samsung podría lanzar un móvil plegable que combine los formatos del Galaxy Z Fold y Z Flip</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-966399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-2536203.jpg' alt='Samsung podría lanzar un móvil plegable que combine los formatos del Galaxy Z Fold y Z Flip' />
     </a>
 </div>
 
