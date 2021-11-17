@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2535351.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023'>NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/docomo-crea-dron-autonomo-helices-funciona-propulsion-ultrasonica-2535345.jpg' alt='NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/7-coches-no-podras-comprar-espana-distintos-motivos-962977'>7 coches que no podrás comprar en España por distintos motivos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/7-coches-no-podras-comprar-espana-distintos-motivos-962977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-coches-nunca-podras-comprar-espana-2527149.jpg' alt='7 coches que no podrás comprar en España por distintos motivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237'>4 alimentos que tienes en tu dieta y que afectan al cambio climático</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/granos-arroz-2274209.jpg' alt='4 alimentos que tienes en tu dieta y que afectan al cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801'>El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-tortilla-francesa-sarten-minuto-manchar-2535139.jpg' alt='El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/11-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-965641'>11 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/11-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-965641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/mejores-juegos-play-store-2020-2153105.jpg' alt='11 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
     </a>
 </div>
 
