@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455'>El juego en la nube se estrena hoy en todas las consolas Xbox</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-nube-estrena-hoy-todas-consolas-xbox-2536243.jpg' alt='El juego en la nube se estrena hoy en todas las consolas Xbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441'>Los emojis llegan a los estados de Instagram en su nueva actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Los emojis llegan a los estados de Instagram en su nueva actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397'>La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443'>La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-966443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/resina-nuevo-petroleo-biodegradable-espana-primera-potencia-europea-2536229.jpg' alt='La resina es el nuevo petróleo biodegradable, y España es la primera potencia europea' />
     </a>
 </div>
 
