@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-huawei-watch-fit-new-renovacion-smartwatch-economico-966191'>Huawei lanza el Huawei Watch Fit New, la renovación de su smartwatch más económico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-huawei-watch-fit-new-renovacion-smartwatch-economico-966191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2061671.jpg' alt='Huawei lanza el Huawei Watch Fit New, la renovación de su smartwatch más económico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/pc-gaming'>Guía para comprar un PC gaming: consejos y todo lo que debes saber para no equivocarte</a></h4>
+    <a href='https://computerhoy.com/guia-compra/pc-gaming' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pc-gaming-2523335.jpg' alt='Guía para comprar un PC gaming: consejos y todo lo que debes saber para no equivocarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-pro-type-ultra-review-opinion-963653'>Razer Pro Type Ultra, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-pro-type-ultra-review-opinion-963653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/razer-pro-type-ultra-analisis-2532499.jpg' alt='Razer Pro Type Ultra, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163'>El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/investigadores-australianos-baten-record-velocidad-internet-1000-peliculas-descargadas-segundo-1950043.jpg' alt='El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177'>Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno</a></h4>
     <a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/peajes-autovias-espanolas-razon-003eu-cada-kilometro-recorras.jpg' alt='Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-suscripcion-podcasts-destinara-fondos-forma-integra-creadores-966173'>Spotify lanza una suscripción para podcasts que destinará los fondos de forma integra a los creadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-suscripcion-podcasts-destinara-fondos-forma-integra-creadores-966173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-2318979.jpg' alt='Spotify lanza una suscripción para podcasts que destinará los fondos de forma integra a los creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-cecotec-oferta-amazon-tienda-oficial-965479'>Este robot limpiacristales te ahorra dolores de espalda y está rebajado por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-cecotec-oferta-amazon-tienda-oficial-965479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-windroid-870-connected-2534381.jpg' alt='Este robot limpiacristales te ahorra dolores de espalda y está rebajado por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121'>Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/minado-bitcoins-2261305.jpg' alt='Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas' />
     </a>
 </div>
 
