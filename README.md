@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/luz-v16-emergencia-barata-momento-vende-amazon-cuesta-solo-15-euros-964857'>Esta es la luz V16 de emergencia más barata del momento: la vende Amazon y cuesta solo 15 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/luz-v16-emergencia-barata-momento-vende-amazon-cuesta-solo-15-euros-964857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iwotto-v16-2241629.jpg' alt='Esta es la luz V16 de emergencia más barata del momento: la vende Amazon y cuesta solo 15 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121'>Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/minado-bitcoins-2261305.jpg' alt='Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-transmisores-bluetooth-radio-viejo-coche-966029'>Mejores transmisores Bluetooth para la radio de tu viejo coche</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-transmisores-bluetooth-radio-viejo-coche-966029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autoradio-coche-2535413.jpg' alt='Mejores transmisores Bluetooth para la radio de tu viejo coche' />
+    <h4><a href='https://computerhoy.com/noticias/life/producto-casero-perfecto-desinfectar-limpiar-lavadora-esfuerzo-evitar-malos-olores-966123'>El producto casero perfecto para desinfectar y limpiar tu lavadora sin esfuerzo y evitar malos olores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/producto-casero-perfecto-desinfectar-limpiar-lavadora-esfuerzo-evitar-malos-olores-966123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/trucos-caseros-limpiar-goma-lavadora-quitar-moho-malos-olores-2443997.jpg' alt='El producto casero perfecto para desinfectar y limpiar tu lavadora sin esfuerzo y evitar malos olores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cafe-manana-ayuda-prevenir-todas-estas-enfermedades-nuevos-estudios-966077'>El café de la mañana ayuda a prevenir todas estas enfermedades, según nuevos estudios</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cafe-manana-ayuda-prevenir-todas-estas-enfermedades-nuevos-estudios-966077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/servir-cafe-2520197.jpg' alt='El café de la mañana ayuda a prevenir todas estas enfermedades, según nuevos estudios' />
+    <h4><a href='https://computerhoy.com/noticias/life/aldi-pide-clientes-devuelvan-producto-criterios-microbiologicos-966119'>Aldi pide a los clientes que devuelvan un producto por criterios microbiológicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aldi-pide-clientes-devuelvan-producto-criterios-microbiologicos-966119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aldi-2535471.jpg' alt='Aldi pide a los clientes que devuelvan un producto por criterios microbiológicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-plataforma-streaming-ha-empezado-robarle-series-netflix-966065'>Una nueva plataforma de streaming ha empezado a robarle series a Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-plataforma-streaming-ha-empezado-robarle-series-netflix-966065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/paramount-2116271.jpeg' alt='Una nueva plataforma de streaming ha empezado a robarle series a Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-nasa-te-permite-observar-tierra-espacio-descubrir-hacen-principales-satelites-966117'>Esta web de la NASA te permite observar la Tierra desde el espacio y descubrir qué hacen nuestros satélites</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/web-nasa-te-permite-observar-tierra-espacio-descubrir-hacen-principales-satelites-966117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/web-nasa-2535467.jpg' alt='Esta web de la NASA te permite observar la Tierra desde el espacio y descubrir qué hacen nuestros satélites' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841'>Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2067947.jpg' alt='Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-lanzado-web-visitaras-cuando-no-sepas-ver-966089'>Netflix ha lanzado la web que visitarás cuando no sepas qué ver</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-lanzado-web-visitaras-cuando-no-sepas-ver-966089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-movil-2535399.jpg' alt='Netflix ha lanzado la web que visitarás cuando no sepas qué ver' />
     </a>
 </div>
 
