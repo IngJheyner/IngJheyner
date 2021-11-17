@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343'>Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281'>Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spider-man-2535873.jpg' alt='Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273'>Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL</a></h4>
     <a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiacristales-vibracion-silvercrest-2535857.jpg' alt='Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguro-bizum-transferencia-966279'>Qué es más seguro: ¿Bizum o transferencia?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguro-bizum-transferencia-966279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2341121.jpg' alt='Qué es más seguro: ¿Bizum o transferencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203'>Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite' />
     </a>
 </div>
 
