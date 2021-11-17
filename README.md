@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073'>Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tiger-king-regresa-dispuesto-dejarte-boquiabierto-nuevo-965595'>Tiger King regresa dispuesto a dejarte boquiabierto de nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tiger-king-regresa-dispuesto-dejarte-boquiabierto-nuevo-965595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiger-king-1911297.jpg' alt='Tiger King regresa dispuesto a dejarte boquiabierto de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-model-2-podria-ser-mini-coche-electrico-963069'>Tesla Model 2: así podría ser el 'mini-coche' eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-model-2-podria-ser-mini-coche-electrico-963069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-2-2528431.jpg' alt='Tesla Model 2: así podría ser el 'mini-coche' eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2535351.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023'>NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/docomo-crea-dron-autonomo-helices-funciona-propulsion-ultrasonica-2535345.jpg' alt='NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/7-coches-no-podras-comprar-espana-distintos-motivos-962977'>7 coches que no podrás comprar en España por distintos motivos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/7-coches-no-podras-comprar-espana-distintos-motivos-962977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-coches-nunca-podras-comprar-espana-2527149.jpg' alt='7 coches que no podrás comprar en España por distintos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-exterior-sarten-quemada-mover-solo-dedo-965063'>Cómo limpiar el exterior de una sartén quemada sin mover un solo dedo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-exterior-sarten-quemada-mover-solo-dedo-965063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-sarten-2533811.jpg' alt='Cómo limpiar el exterior de una sartén quemada sin mover un solo dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237'>4 alimentos que tienes en tu dieta y que afectan al cambio climático</a></h4>
-    <a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/granos-arroz-2274209.jpg' alt='4 alimentos que tienes en tu dieta y que afectan al cambio climático' />
     </a>
 </div>
 
