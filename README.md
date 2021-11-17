@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-exterior-sarten-quemada-mover-solo-dedo-965063'>Cómo limpiar el exterior de una sartén quemada sin mover un solo dedo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-exterior-sarten-quemada-mover-solo-dedo-965063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-sarten-2533811.jpg' alt='Cómo limpiar el exterior de una sartén quemada sin mover un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237'>4 alimentos que tienes en tu dieta y que afectan al cambio climático</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-alimentos-tienes-dieta-afectan-cambio-climatico-964237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/granos-arroz-2274209.jpg' alt='4 alimentos que tienes en tu dieta y que afectan al cambio climático' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-965797'>Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-965797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-2535125.jpg' alt='Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793'>Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-wear-os-965793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/motorola-moto-watch-100-seria-smartwatch-motorola-huiria-watch-os-2535121.jpg' alt='Motorola Moto Watch 100, así sería el smartwatch de Motorola que huiría de Wear OS' />
     </a>
 </div>
 
