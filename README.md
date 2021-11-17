@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801'>El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-cocinar-tortilla-francesa-sin-sarten-ni-aceite-sin-manchar-965801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-tortilla-francesa-sarten-minuto-manchar-2535139.jpg' alt='El truco genial para hacer una tortilla a la francesa sin sartén ni aceite, sencillísimo y sin manchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/11-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-965641'>11 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/11-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-965641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/mejores-juegos-play-store-2020-2153105.jpg' alt='11 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-965797'>Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-965797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/atari-pone-venta-cartuchos-juegos-atari-2600-consola-1977-2535125.jpg' alt='Atari pone a la venta cartuchos de juegos de Atari 2600, una consola de 1977 ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785'>Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeros-datos-acerca-nuevos-samsung-galaxy-s22-posible-precio-965785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran los primeros datos acerca de los nuevos Samsung Galaxy S22 y su posible precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-ahora-permitira-recuperar-paginas-cerradas-error-rapido-965787'>Google Chrome se actualiza y ahora permitirá recuperar las páginas cerradas por error más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-ahora-permitira-recuperar-paginas-cerradas-error-rapido-965787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-chrome-2261053.jpg' alt='Google Chrome se actualiza y ahora permitirá recuperar las páginas cerradas por error más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-descuento-80-euros-965789'>Sí buscas un móvil para ver series o jugar el realme GT Neo 2 acaba de salir, pero ya tiene un descuento de 80 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-descuento-80-euros-965789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2529453.jpg' alt='Sí buscas un móvil para ver series o jugar el realme GT Neo 2 acaba de salir, pero ya tiene un descuento de 80 euros' />
     </a>
 </div>
 
