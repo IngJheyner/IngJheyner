@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-llegara-disney-finales-2022-963075'>Ms. Marvel llegará a Disney+ a finales de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-llegara-disney-finales-2022-963075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ms-marvel-2464051.jpg' alt='Ms. Marvel llegará a Disney+ a finales de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385'>Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487721.jpg' alt='Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343'>Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281'>Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spider-man-2535873.jpg' alt='Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos' />
     </a>
 </div>
 
