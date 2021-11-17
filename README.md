@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-importante-aviso-robots-cocina-monsieur-cuisine-966291'>Lidl lanza un importante aviso sobre sus robots de cocina Monsieur Cuisine</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-lanza-importante-aviso-robots-cocina-monsieur-cuisine-966291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dos-modelos-monsieur-cuisine-lidl-2167147.jpg' alt='Lidl lanza un importante aviso sobre sus robots de cocina Monsieur Cuisine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273'>Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL</a></h4>
     <a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiacristales-vibracion-silvercrest-2535857.jpg' alt='Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203'>Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-cosas-evitar-conseguir-sacar-todo-partido-freidora-aceite-966203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Trucos (y cosas a evitar) para conseguir sacar todo el partido a tu freidora sin aceite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-vende-extrano-practico-calendario-adviento-seguramente-no-has-visto-nunca-966227'>Lidl vende un extraño y práctico calendario de adviento que seguramente no has visto nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-vende-extrano-practico-calendario-adviento-seguramente-no-has-visto-nunca-966227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calendario-adviento-lidl-2535747.jpg' alt='Lidl vende un extraño y práctico calendario de adviento que seguramente no has visto nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-128-gb-oferta-aliexpress-plaza-965425'>Este OnePlus 9 de 128 GB es un chollo: ahora cuesta menos de 490 euros y tiene envío desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-128-gb-oferta-aliexpress-plaza-965425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2284583.jpg' alt='Este OnePlus 9 de 128 GB es un chollo: ahora cuesta menos de 490 euros y tiene envío desde España' />
     </a>
 </div>
 
