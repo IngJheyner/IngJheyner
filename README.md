@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385'>Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-da-volantazo-politica-reparacion-ahora-permitira-usuarios-reparen-equipos-casa-966385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487721.jpg' alt='Apple da un volantazo a su política de su reparación y ahora permitirá que los usuarios reparen sus equipos en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717'>Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281'>Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-hay-trailer-spider-man-no-way-home-todo-espectacular-queriamos-966281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spider-man-2535873.jpg' alt='Ya hay tráiler de Spider-Man: No Way Home y es todo lo espectacular que queríamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
     </a>
 </div>
 
