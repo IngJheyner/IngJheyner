@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717'>Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-black-friday-965717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Huawei ha rebajado sus auriculares FreeBuds Pro con cancelación de ruido activa 80 euros, el precio mínimo desde su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-aceites-oliva-hacen-pasar-virgen-extra-puedes-comprar-super-966345'>La OCU denuncia la estafa de aceites de oliva que se hacen pasar por virgen extra y puedes comprar en el súper</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-aceites-oliva-hacen-pasar-virgen-extra-puedes-comprar-super-966345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/echar-aceite-2455911.jpg' alt='La OCU denuncia la estafa de aceites de oliva que se hacen pasar por virgen extra y puedes comprar en el súper' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343'>Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/olvidate-rehacer-mensaje-voz-whatsapp-ya-puedes-pausar-retomar-grabacion-ios-966343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Olvídate de rehacer un mensaje de voz en WhatsApp: ya puedes pausar y retomar la grabación en iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-importante-aviso-robots-cocina-monsieur-cuisine-966291'>Lidl lanza un importante aviso sobre sus robots de cocina Monsieur Cuisine</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-lanza-importante-aviso-robots-cocina-monsieur-cuisine-966291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dos-modelos-monsieur-cuisine-lidl-2167147.jpg' alt='Lidl lanza un importante aviso sobre sus robots de cocina Monsieur Cuisine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273'>Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL</a></h4>
-    <a href='https://computerhoy.com/noticias/life/limpieza-vibracion-ultimo-limpiar-cristales-vitroceramica-superficies-lisas-llega-lidl-966273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiacristales-vibracion-silvercrest-2535857.jpg' alt='Limpieza por vibración: lo último para limpiar cristales, vitrocerámica y superficies lisas llega a LIDL' />
     </a>
 </div>
 
