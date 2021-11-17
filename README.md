@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163'>El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-australiano-quiere-dejar-depender-tecnologicamente-china-apuesta-millonaria-tecnologia-cuantica-966163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/investigadores-australianos-baten-record-velocidad-internet-1000-peliculas-descargadas-segundo-1950043.jpg' alt='El gobierno australiano quiere dejar de depender tecnológicamente de China con una apuesta millonaria por la tecnología cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177'>Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/prepara-cartera-dgt-favor-medidas-polemicas-gobierno-966177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/peajes-autovias-espanolas-razon-003eu-cada-kilometro-recorras.jpg' alt='Prepara la cartera: la DGT a favor de una de las medidas más polémicas del gobierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-suscripcion-podcasts-destinara-fondos-forma-integra-creadores-966173'>Spotify lanza una suscripción para podcasts que destinará los fondos de forma integra a los creadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-suscripcion-podcasts-destinara-fondos-forma-integra-creadores-966173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-2318979.jpg' alt='Spotify lanza una suscripción para podcasts que destinará los fondos de forma integra a los creadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-cecotec-oferta-amazon-tienda-oficial-965479'>Este robot limpiacristales te ahorra dolores de espalda y está rebajado por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-cecotec-oferta-amazon-tienda-oficial-965479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-windroid-870-connected-2534381.jpg' alt='Este robot limpiacristales te ahorra dolores de espalda y está rebajado por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121'>Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-minar-shiba-inu-gastar-euro-portatil-viejo-ya-no-utilizas-966121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/minado-bitcoins-2261305.jpg' alt='Cómo minar Shiba Inu sin gastar un euro con un portátil viejo que ya no utilizas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/producto-casero-perfecto-desinfectar-limpiar-lavadora-esfuerzo-evitar-malos-olores-966123'>El producto casero perfecto para desinfectar y limpiar tu lavadora sin esfuerzo y evitar malos olores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/producto-casero-perfecto-desinfectar-limpiar-lavadora-esfuerzo-evitar-malos-olores-966123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/trucos-caseros-limpiar-goma-lavadora-quitar-moho-malos-olores-2443997.jpg' alt='El producto casero perfecto para desinfectar y limpiar tu lavadora sin esfuerzo y evitar malos olores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aldi-pide-clientes-devuelvan-producto-criterios-microbiologicos-966119'>Aldi pide a los clientes que devuelvan un producto por criterios microbiológicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aldi-pide-clientes-devuelvan-producto-criterios-microbiologicos-966119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aldi-2535471.jpg' alt='Aldi pide a los clientes que devuelvan un producto por criterios microbiológicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-nasa-te-permite-observar-tierra-espacio-descubrir-hacen-principales-satelites-966117'>Esta web de la NASA te permite observar la Tierra desde el espacio y descubrir qué hacen nuestros satélites</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/web-nasa-te-permite-observar-tierra-espacio-descubrir-hacen-principales-satelites-966117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/web-nasa-2535467.jpg' alt='Esta web de la NASA te permite observar la Tierra desde el espacio y descubrir qué hacen nuestros satélites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-lanzado-web-visitaras-cuando-no-sepas-ver-966089'>Netflix ha lanzado la web que visitarás cuando no sepas qué ver</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-lanzado-web-visitaras-cuando-no-sepas-ver-966089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-movil-2535399.jpg' alt='Netflix ha lanzado la web que visitarás cuando no sepas qué ver' />
     </a>
 </div>
 
