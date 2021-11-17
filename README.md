@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841'>Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-cuesta-solo-59-euros-tiene-10-dias-bateria-964841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-fit-2067947.jpg' alt='Este reloj inteligente de Huawei cuesta solo 59 euros y tiene más de 10 días de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073'>Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-ofrece-30000-euros-influencers-publiquen-reels-963073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram ofrece hasta 30.000 euros a los influencers para que publiquen Reels' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-966025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2535351.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023'>NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ntt-docomo-dron-autonomo-sin-helices-ni-motores-propulsion-ultrasonica-966023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/docomo-crea-dron-autonomo-helices-funciona-propulsion-ultrasonica-2535345.jpg' alt='NTT Docomo crea un dron autónomo sin hélices ni motores, que funciona con propulsión ultrasónica' />
     </a>
 </div>
 
