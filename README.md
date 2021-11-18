@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859'>Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/problemas-produccion-procesadores-harian-samsung-galaxy-s21-fe-llegase-chips-diferentes-dependiendo-mercado-2393073.jpg' alt='Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869'>Una estafa de internet utilizaba un producto estrella de LIDL como gancho</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dos-modelos-monsieur-cuisine-lidl-2167147.jpg' alt='Una estafa de internet utilizaba un producto estrella de LIDL como gancho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-espanola-acaba-conseguir-crear-motor-cohetes-espaciales-objetivo-marte-966827'>Esta empresa española acaba de conseguir crear un motor para cohetes espaciales: objetivo Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresa-espanola-acaba-conseguir-crear-motor-cohetes-espaciales-objetivo-marte-966827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='Esta empresa española acaba de conseguir crear un motor para cohetes espaciales: objetivo Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podrian-prescindir-procesadores-exynos-llegar-solo-snapdragon-966839'>Los Samsung Galaxy S22 podrían prescindir de sus procesadores Exynos y llegar solo con Snapdragon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podrian-prescindir-procesadores-exynos-llegar-solo-snapdragon-966839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-galaxy-s21ultra-2216221.jpg' alt='Los Samsung Galaxy S22 podrían prescindir de sus procesadores Exynos y llegar solo con Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223'>16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-rog-2535719.jpg' alt='16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/drastica-decision-mercadona-ha-enfadado-muchos-clientes-pocos-entienden-966795'>La drástica decisión de Mercadona que ha enfadado a muchos clientes y pocos entienden</a></h4>
-    <a href='https://computerhoy.com/noticias/life/drastica-decision-mercadona-ha-enfadado-muchos-clientes-pocos-entienden-966795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='La drástica decisión de Mercadona que ha enfadado a muchos clientes y pocos entienden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725'>Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-obligada-devolver-puntos-carnet-retirados-miles-conductores-966741'>La DGT obligada a devolver los puntos del carnet retirados a miles de conductores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-obligada-devolver-puntos-carnet-retirados-miles-conductores-966741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/multa-trafico-2144103.jpg' alt='La DGT obligada a devolver los puntos del carnet retirados a miles de conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745'>Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-bsod-2536601.jpg' alt='Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows' />
     </a>
 </div>
 
