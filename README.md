@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2536515.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-scale-3-pro-mejor-bascula-inteligente-965567'>Por qué la nueva Huawei Scale 3 Pro es la mejor báscula inteligente del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-scale-3-pro-mejor-bascula-inteligente-965567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2534595.jpg' alt='Por qué la nueva Huawei Scale 3 Pro es la mejor báscula inteligente del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/author-clock-reloj-citas-literarias-966679'>Author Clock, el reloj que da la hora usando citas literarias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/author-clock-reloj-citas-literarias-966679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/author-clock-reloj-da-hora-usando-citas-literarias-2536513.jpg' alt='Author Clock, el reloj que da la hora usando citas literarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461'>Cuidado, estos hábitos cotidianos están dañando tu cerebro</a></h4>
     <a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuidado-estos-habitos-cotidianos-estan-danando-cerebro-2536297.jpg' alt='Cuidado, estos hábitos cotidianos están dañando tu cerebro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455'>El juego en la nube se estrena hoy en todas las consolas Xbox</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-nube-estrena-hoy-todas-consolas-xbox-2536243.jpg' alt='El juego en la nube se estrena hoy en todas las consolas Xbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441'>Los emojis llegan a los estados de Instagram en su nueva actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/emojis-llegan-estados-instagram-nueva-actualizacion-966441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Los emojis llegan a los estados de Instagram en su nueva actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-966439'>Moto Watch 100, así es el nuevo smartwatch de Motorola que renuncia a Wear OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-966439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-watch-100-nuevo-smartwatch-motorola-renuncia-wear-os-2536231.jpg' alt='Moto Watch 100, así es el nuevo smartwatch de Motorola que renuncia a Wear OS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449'>Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lg-gram-14-2483131.jpg' alt='Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros' />
     </a>
 </div>
 
