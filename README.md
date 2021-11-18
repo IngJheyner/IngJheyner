@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461'>Cuidado, estos hábitos cotidianos están dañando tu cerebro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuidado-estos-habitos-cotidianos-estan-danando-cerebro-2536297.jpg' alt='Cuidado, estos hábitos cotidianos están dañando tu cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455'>El juego en la nube se estrena hoy en todas las consolas Xbox</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-nube-estrena-hoy-todas-consolas-xbox-2536243.jpg' alt='El juego en la nube se estrena hoy en todas las consolas Xbox' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449'>Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-lg-gram-procesador-i5-16-gb-ram-descuento-966449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lg-gram-14-2483131.jpg' alt='Este potente portátil de LG con procesador i5 y 16 GB de RAM pesa menos de 1 Kilo, y tiene un descuento de 180 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397'>La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-tiene-nuevos-competidores-oppo-realme-oneplus-preparan-moviles-capaces-cargar-100w-966397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La carrera por la carga rápida tiene nuevos competidores: OPPO, realme y OnePlus preparan móviles capaces de cargar a más 100W' />
     </a>
 </div>
 
