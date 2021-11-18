@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885'>Moto G200 llega como nuevo smartphone tope de gama Android de Motorola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-g200-2536935.jpg' alt='Moto G200 llega como nuevo smartphone tope de gama Android de Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-tab-s8-podria-retrasarse-ocasion-no-falta-componentes-966893'>Galaxy Tab S8 podría retrasarse y en esta ocasión no es por la falta de componentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-tab-s8-podria-retrasarse-ocasion-no-falta-componentes-966893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galaxy-tab-s8-2536887.jpg' alt='Galaxy Tab S8 podría retrasarse y en esta ocasión no es por la falta de componentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-precio-minimo-historico-amazon-966153'>Esta tablet de Samsung de 8,7 pulgadas está su precio mínimo en Amazon por solo 139 euros, pero no aguantará mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-precio-minimo-historico-amazon-966153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-analisis-samsung-galaxy-tab-a7-lite-2440123.jpg' alt='Esta tablet de Samsung de 8,7 pulgadas está su precio mínimo en Amazon por solo 139 euros, pero no aguantará mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859'>Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/problemas-produccion-procesadores-harian-samsung-galaxy-s21-fe-llegase-chips-diferentes-dependiendo-mercado-2393073.jpg' alt='Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869'>Una estafa de internet utilizaba un producto estrella de LIDL como gancho</a></h4>
     <a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dos-modelos-monsieur-cuisine-lidl-2167147.jpg' alt='Una estafa de internet utilizaba un producto estrella de LIDL como gancho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-espanola-acaba-conseguir-crear-motor-cohetes-espaciales-objetivo-marte-966827'>Esta empresa española acaba de conseguir crear un motor para cohetes espaciales: objetivo Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-espanola-acaba-conseguir-crear-motor-cohetes-espaciales-objetivo-marte-966827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='Esta empresa española acaba de conseguir crear un motor para cohetes espaciales: objetivo Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podrian-prescindir-procesadores-exynos-llegar-solo-snapdragon-966839'>Los Samsung Galaxy S22 podrían prescindir de sus procesadores Exynos y llegar solo con Snapdragon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podrian-prescindir-procesadores-exynos-llegar-solo-snapdragon-966839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-galaxy-s21ultra-2216221.jpg' alt='Los Samsung Galaxy S22 podrían prescindir de sus procesadores Exynos y llegar solo con Snapdragon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223'>16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-rog-2535719.jpg' alt='16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon' />
     </a>
 </div>
 
