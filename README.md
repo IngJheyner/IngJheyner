@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-mesh-2-pack-oferta-black-friday-965041'>Estos routers en malla de Huawei solucionarán de una vez por todas tus problemas de WiFi en casa, ahora con un descuento espectacular</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-mesh-2-pack-oferta-black-friday-965041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-wifi-mesh-2-pack-2533783.jpg' alt='Estos routers en malla de Huawei solucionarán de una vez por todas tus problemas de WiFi en casa, ahora con un descuento espectacular' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725'>Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2536515.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-obligada-devolver-puntos-carnet-retirados-miles-conductores-966741'>La DGT obligada a devolver los puntos del carnet retirados a miles de conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-obligada-devolver-puntos-carnet-retirados-miles-conductores-966741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/multa-trafico-2144103.jpg' alt='La DGT obligada a devolver los puntos del carnet retirados a miles de conductores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-scale-3-pro-mejor-bascula-inteligente-965567'>Por qué la nueva Huawei Scale 3 Pro es la mejor báscula inteligente del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-scale-3-pro-mejor-bascula-inteligente-965567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2534595.jpg' alt='Por qué la nueva Huawei Scale 3 Pro es la mejor báscula inteligente del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745'>Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-bsod-2536601.jpg' alt='Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/author-clock-reloj-citas-literarias-966679'>Author Clock, el reloj que da la hora usando citas literarias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/author-clock-reloj-citas-literarias-966679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/author-clock-reloj-da-hora-usando-citas-literarias-2536513.jpg' alt='Author Clock, el reloj que da la hora usando citas literarias' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-microbots-forma-pez-nadan-cuerpo-podrian-acabar-cancer-966715'>Así son los microbots con forma de pez que nadan por tu cuerpo y podrían acabar con el cáncer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-microbots-forma-pez-nadan-cuerpo-podrian-acabar-cancer-966715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microrrobot-2536583.jpg' alt='Así son los microbots con forma de pez que nadan por tu cuerpo y podrían acabar con el cáncer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461'>Cuidado, estos hábitos cotidianos están dañando tu cerebro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuidado-estos-habitos-cotidianos-estan-danando-cerebro-2536297.jpg' alt='Cuidado, estos hábitos cotidianos están dañando tu cerebro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-molestos-problemas-llamada-iphone-12-iphone-13-nueva-actualizacion-966719'>Adiós a las molestos problemas de llamada en iPhone 12 y iPhone 13 con la nueva actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-molestos-problemas-llamada-iphone-12-iphone-13-nueva-actualizacion-966719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487685.jpg' alt='Adiós a las molestos problemas de llamada en iPhone 12 y iPhone 13 con la nueva actualización' />
     </a>
 </div>
 
