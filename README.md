@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223'>16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-rtx-3050-precio-chollo-asus-rog-portatil-gaming-top-solo-899-euros-amazon-966223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-rog-2535719.jpg' alt='16GB de RAM y RTX 3050 a precio de chollo: este ASUS ROG es un portátil gaming top por solo 899 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/drastica-decision-mercadona-ha-enfadado-muchos-clientes-pocos-entienden-966795'>La drástica decisión de Mercadona que ha enfadado a muchos clientes y pocos entienden</a></h4>
+    <a href='https://computerhoy.com/noticias/life/drastica-decision-mercadona-ha-enfadado-muchos-clientes-pocos-entienden-966795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='La drástica decisión de Mercadona que ha enfadado a muchos clientes y pocos entienden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725'>Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/olvidate-shiba-inu-estas-criptomonedas-tienen-mucho-potencial-largo-plazo-966725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Olvídate de Shiba Inu, estas criptomonedas tienen mucho más potencial a largo plazo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745'>Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-recupera-sorpresa-mayores-pesadillas-historicas-usuarios-windows-966745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-bsod-2536601.jpg' alt='Windows 11 recupera por sorpresa una de las mayores pesadillas históricas de los usuarios de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-microbots-forma-pez-nadan-cuerpo-podrian-acabar-cancer-966715'>Así son los microbots con forma de pez que nadan por tu cuerpo y podrían acabar con el cáncer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-microbots-forma-pez-nadan-cuerpo-podrian-acabar-cancer-966715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microrrobot-2536583.jpg' alt='Así son los microbots con forma de pez que nadan por tu cuerpo y podrían acabar con el cáncer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-molestos-problemas-llamada-iphone-12-iphone-13-nueva-actualizacion-966719'>Adiós a las molestos problemas de llamada en iPhone 12 y iPhone 13 con la nueva actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-molestos-problemas-llamada-iphone-12-iphone-13-nueva-actualizacion-966719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487685.jpg' alt='Adiós a las molestos problemas de llamada en iPhone 12 y iPhone 13 con la nueva actualización' />
     </a>
 </div>
 
