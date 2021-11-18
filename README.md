@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127'>Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cambia-iluminacion-casa-estas-bombillas-led-16-millones-colores-43-descuento-2537335.jpg' alt='Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123'>Phantom, el ajedrez que juega solo y se mueve con la voz</a></h4>
     <a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/phantom-ajedrez-juega-solo-mueve-voz-2537325.jpg' alt='Phantom, el ajedrez que juega solo y se mueve con la voz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095'>Lidl admite no poder asumir la gran demanda de uno de sus productos estrella</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl admite no poder asumir la gran demanda de uno de sus productos estrella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035'>Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-xiaomi-mi-11i-2396997.jpg' alt='Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado' />
     </a>
 </div>
 
