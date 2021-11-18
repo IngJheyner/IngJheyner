@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953'>Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spotify-2537023.jpg' alt='Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765'>El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guias-cabinas-telefonicas-pasan-mejor-vida-nueva-ley-telecomunicaciones-966957'>Las guías y cabinas telefónicas pasan a mejor vida según la nueva Ley de Telecomunicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guias-cabinas-telefonicas-pasan-mejor-vida-nueva-ley-telecomunicaciones-966957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/gobierno-obliga-telefonica-mantener-cabinas-telefonicas-2019.jpg' alt='Las guías y cabinas telefónicas pasan a mejor vida según la nueva Ley de Telecomunicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosos-emojis-podrian-llegar-2022-como-decide-emojis-anadir-android-ios-966933'>Los curiosos emojis que podrían llegar en 2022: ¿cómo se decide qué emojis añadir en Android e iOS?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curiosos-emojis-podrian-llegar-2022-como-decide-emojis-anadir-android-ios-966933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevos-emojis-android-12l-2524557.jpg' alt='Los curiosos emojis que podrían llegar en 2022: ¿cómo se decide qué emojis añadir en Android e iOS?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885'>Moto G200 llega como nuevo smartphone tope de gama Android de Motorola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-g200-2536935.jpg' alt='Moto G200 llega como nuevo smartphone tope de gama Android de Motorola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-tab-s8-podria-retrasarse-ocasion-no-falta-componentes-966893'>Galaxy Tab S8 podría retrasarse y en esta ocasión no es por la falta de componentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-tab-s8-podria-retrasarse-ocasion-no-falta-componentes-966893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galaxy-tab-s8-2536887.jpg' alt='Galaxy Tab S8 podría retrasarse y en esta ocasión no es por la falta de componentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-precio-minimo-historico-amazon-966153'>Esta tablet de Samsung de 8,7 pulgadas está su precio mínimo en Amazon por solo 139 euros, pero no aguantará mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-precio-minimo-historico-amazon-966153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-analisis-samsung-galaxy-tab-a7-lite-2440123.jpg' alt='Esta tablet de Samsung de 8,7 pulgadas está su precio mínimo en Amazon por solo 139 euros, pero no aguantará mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859'>Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/primera-vez-filtran-fotos-reales-esperado-galaxy-s21-fe-samsung-966859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/problemas-produccion-procesadores-harian-samsung-galaxy-s21-fe-llegase-chips-diferentes-dependiendo-mercado-2393073.jpg' alt='Por primera vez se filtran fotos reales del esperado Galaxy S21 FE de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869'>Una estafa de internet utilizaba un producto estrella de LIDL como gancho</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estafa-internet-utilizaba-producto-estrella-lidl-como-gancho-966869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dos-modelos-monsieur-cuisine-lidl-2167147.jpg' alt='Una estafa de internet utilizaba un producto estrella de LIDL como gancho' />
     </a>
 </div>
 
