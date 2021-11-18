@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089'>Chromecast comienza a recibir la función que todos estábamos esperando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Chromecast comienza a recibir la función que todos estábamos esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-967081'>La empresa pionera del reparto a domicilio Deliveroo cierra en España el 29 de noviembre, y despide a 3.800 trabajadores</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-967081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/empresa-pionera-reparto-domicilio-deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-2537245.jpg' alt='La empresa pionera del reparto a domicilio Deliveroo cierra en España el 29 de noviembre, y despide a 3.800 trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041'>Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043'>Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/volante-coche-chrysler.jpg' alt='Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019'>Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto</a></h4>
     <a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953'>Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spotify-2537023.jpg' alt='Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765'>El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores' />
     </a>
 </div>
 
