@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123'>Phantom, el ajedrez que juega solo y se mueve con la voz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/phantom-ajedrez-juega-solo-mueve-voz-2537325.jpg' alt='Phantom, el ajedrez que juega solo y se mueve con la voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079'>Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tcl-quiere-poner-dificil-samsung-lg-nuevos-televisores-x925-x925-pro-resolucion-8k-hdmi-20-panel-qled-2464543.jpg' alt='Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-pedir-videos-cuentas-parezcan-sospechosas-967077'>Instagram empezará a pedir vídeos a cuentas que parezcan sospechosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-pedir-videos-cuentas-parezcan-sospechosas-967077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Instagram empezará a pedir vídeos a cuentas que parezcan sospechosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095'>Lidl admite no poder asumir la gran demanda de uno de sus productos estrella</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl admite no poder asumir la gran demanda de uno de sus productos estrella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035'>Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-xiaomi-mi-11i-2396997.jpg' alt='Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089'>Chromecast comienza a recibir la función que todos estábamos esperando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Chromecast comienza a recibir la función que todos estábamos esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-967081'>La empresa pionera del reparto a domicilio Deliveroo cierra en España el 29 de noviembre, y despide a 3.800 trabajadores</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-967081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/empresa-pionera-reparto-domicilio-deliveroo-cierra-espana-29-noviembre-despide-3800-trabajadores-2537245.jpg' alt='La empresa pionera del reparto a domicilio Deliveroo cierra en España el 29 de noviembre, y despide a 3.800 trabajadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041'>Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6' />
     </a>
 </div>
 
