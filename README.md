@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-mesh-2-pack-oferta-black-friday-965041'>Estos routers en malla de Huawei solucionarán de una vez por todas tus problemas de WiFi en casa, ahora con un descuento espectacular</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-mesh-2-pack-oferta-black-friday-965041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-wifi-mesh-2-pack-2533783.jpg' alt='Estos routers en malla de Huawei solucionarán de una vez por todas tus problemas de WiFi en casa, ahora con un descuento espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-966681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2536515.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461'>Cuidado, estos hábitos cotidianos están dañando tu cerebro</a></h4>
     <a href='https://computerhoy.com/noticias/life/habitos-cotidianos-danan-cerebro-966461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuidado-estos-habitos-cotidianos-estan-danando-cerebro-2536297.jpg' alt='Cuidado, estos hábitos cotidianos están dañando tu cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455'>El juego en la nube se estrena hoy en todas las consolas Xbox</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-cloud-estreno-consolas-xbox-966455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-nube-estrena-hoy-todas-consolas-xbox-2536243.jpg' alt='El juego en la nube se estrena hoy en todas las consolas Xbox' />
     </a>
 </div>
 
