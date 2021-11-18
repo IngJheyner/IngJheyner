@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043'>Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/volante-coche-chrysler.jpg' alt='Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019'>Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451'>Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-paneles-solares-bateria-perfecta-independizarte-red-electrica-genera-2000wh-todas-necesidades-965451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-furgoneta-2534481.jpg' alt='Este kit de paneles solares y batería es perfecta para independizarte de la red eléctrica: genera hasta 2000Wh para todas tus necesidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953'>Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/anos-pidiendolo-spotify-anade-modo-karaoke-aplicacion-funciona-966953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/spotify-2537023.jpg' alt='Tras años pidiéndolo, Spotify añade modo karaoke en su aplicación y así funciona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765'>El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-tiene-50-euros-descuento-oferta-varios-colores-965765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 tiene 50 euros de descuento en esta oferta, y en varios colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guias-cabinas-telefonicas-pasan-mejor-vida-nueva-ley-telecomunicaciones-966957'>Las guías y cabinas telefónicas pasan a mejor vida según la nueva Ley de Telecomunicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guias-cabinas-telefonicas-pasan-mejor-vida-nueva-ley-telecomunicaciones-966957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/gobierno-obliga-telefonica-mantener-cabinas-telefonicas-2019.jpg' alt='Las guías y cabinas telefónicas pasan a mejor vida según la nueva Ley de Telecomunicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosos-emojis-podrian-llegar-2022-como-decide-emojis-anadir-android-ios-966933'>Los curiosos emojis que podrían llegar en 2022: ¿cómo se decide qué emojis añadir en Android e iOS?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curiosos-emojis-podrian-llegar-2022-como-decide-emojis-anadir-android-ios-966933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevos-emojis-android-12l-2524557.jpg' alt='Los curiosos emojis que podrían llegar en 2022: ¿cómo se decide qué emojis añadir en Android e iOS?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885'>Moto G200 llega como nuevo smartphone tope de gama Android de Motorola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moto-g200-llega-como-nuevo-smartphone-tope-gama-android-motorola-966885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/moto-g200-2536935.jpg' alt='Moto G200 llega como nuevo smartphone tope de gama Android de Motorola' />
     </a>
 </div>
 
