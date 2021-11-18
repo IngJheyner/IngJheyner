@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095'>Lidl admite no poder asumir la gran demanda de uno de sus productos estrella</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-admite-no-poder-asumir-gran-demanda-productos-estrella-967095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl admite no poder asumir la gran demanda de uno de sus productos estrella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035'>Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-produccion-xiaomi-12-habria-empezado-967035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-xiaomi-mi-11i-2396997.jpg' alt='Los últimos rumores apuntan a que la producción del Xiaomi 12 habría empezado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089'>Chromecast comienza a recibir la función que todos estábamos esperando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-comienza-recibir-funcion-todos-estabamos-esperando-967089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Chromecast comienza a recibir la función que todos estábamos esperando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041'>Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-responde-polemica-velocidad-carga-pixel-6-pro-pixel-6-967041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Google responde a la polémica de la velocidad de carga de sus Pixel 6 Pro y Pixel 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043'>Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/personalidad-tienes-dependiendo-como-coges-volante-te-reconoces-967043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/volante-coche-chrysler.jpg' alt='Qué personalidad tienes dependiendo de cómo coges el volante, ¿te reconoces?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019'>Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-sabemos-consecuencias-hackeo-robinhood-mayor-plataforma-inversion-cripto-967019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Ya sabemos las consecuencias del hackeo a Robinhood, la mayor plataforma de inversión cripto' />
     </a>
 </div>
 
