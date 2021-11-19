@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587'>Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141'>El truco infalible para separar la clara de la yema, sin cargarte el huevo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='El truco infalible para separar la clara de la yema, sin cargarte el huevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139'>¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huele-sonic-sega-lanza-tres-colonias-inspiradas-videojuegos-famosos-2537351.jpg' alt='¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos' />
     </a>
 </div>
 
