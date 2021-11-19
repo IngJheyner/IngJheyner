@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587'>Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/boda-esperada-apple-iphone-usb-c-2022-iphone-14-967383'>La boda más esperada de Apple: iPhone y USB-C en 2022 con los iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/boda-esperada-apple-iphone-usb-c-2022-iphone-14-967383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-pone-fecha-nuevo-evento-podriamos-ver-nuevos-mac-2499329.jpg' alt='La boda más esperada de Apple: iPhone y USB-C en 2022 con los iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mediatek-sube-carro-4nm-dimensity-9000-va-hacer-sombra-qualcomm-967381'>Mediatek se sube al carro de los 4nm con su Dimensity 9000 y va a hacer sombra a Qualcomm</a></h4>
+    <a href='https://computerhoy.com/noticias/mediatek-sube-carro-4nm-dimensity-9000-va-hacer-sombra-qualcomm-967381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Mediatek se sube al carro de los 4nm con su Dimensity 9000 y va a hacer sombra a Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-3-oferta-semana-black-friday-amazon-967371'>Este puede ser el chollo del Black Friday: el nuevo patinete Xiaomi Mi Electric Scooter 3, rebajado en 50 euros ¡corre, que se acaban!</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-3-oferta-semana-black-friday-amazon-967371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Este puede ser el chollo del Black Friday: el nuevo patinete Xiaomi Mi Electric Scooter 3, rebajado en 50 euros ¡corre, que se acaban!' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2537561.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939'>Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suavizante-cajon-lavadora-2536957.jpg' alt='Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141'>El truco infalible para separar la clara de la yema, sin cargarte el huevo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='El truco infalible para separar la clara de la yema, sin cargarte el huevo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587'>Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday' />
     </a>
 </div>
 
