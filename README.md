@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/boda-esperada-apple-iphone-usb-c-2022-iphone-14-967383'>La boda más esperada de Apple: iPhone y USB-C en 2022 con los iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/boda-esperada-apple-iphone-usb-c-2022-iphone-14-967383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-pone-fecha-nuevo-evento-podriamos-ver-nuevos-mac-2499329.jpg' alt='La boda más esperada de Apple: iPhone y USB-C en 2022 con los iPhone 14' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147'>El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mediatek-sube-carro-4nm-dimensity-9000-va-hacer-sombra-qualcomm-967381'>Mediatek se sube al carro de los 4nm con su Dimensity 9000 y va a hacer sombra a Qualcomm</a></h4>
-    <a href='https://computerhoy.com/noticias/mediatek-sube-carro-4nm-dimensity-9000-va-hacer-sombra-qualcomm-967381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Mediatek se sube al carro de los 4nm con su Dimensity 9000 y va a hacer sombra a Qualcomm' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-perderia-popularidad-cambiar-sistema-valoracion-creadores-967415'>Youtube perdería popularidad al cambiar el sistema de valoración según uno de sus creadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-perderia-popularidad-cambiar-sistema-valoracion-creadores-967415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='Youtube perdería popularidad al cambiar el sistema de valoración según uno de sus creadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-3-oferta-semana-black-friday-amazon-967371'>Este puede ser el chollo del Black Friday: el nuevo patinete Xiaomi Mi Electric Scooter 3, rebajado en 50 euros ¡corre, que se acaban!</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-3-oferta-semana-black-friday-amazon-967371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Este puede ser el chollo del Black Friday: el nuevo patinete Xiaomi Mi Electric Scooter 3, rebajado en 50 euros ¡corre, que se acaban!' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465'>Trucos para crear una contraseña indescifrable que no olvidarás nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/contrasena-2196143.jpg' alt='Trucos para crear una contraseña indescifrable que no olvidarás nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-barato-amazon-black-friday-week-966743'>Este reloj inteligente de Amazfit sí que es barato: Amazon lo deja en 37 euros antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-barato-amazon-black-friday-week-966743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/amazfit-bip-2156809.jpg' alt='Este reloj inteligente de Amazfit sí que es barato: Amazon lo deja en 37 euros antes del Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587'>Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-productos-marca-amazon-semana-previa-black-friday-965587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Liquidación en productos de marca Amazon: estos son los mejores chollos de la previa del Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llevar-smartband-smartwatch-podria-salvarte-vida-asegura-nuevo-estudio-967443'>Llevar una smartband o un smartwatch podría salvarte la vida, asegura un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llevar-smartband-smartwatch-podria-salvarte-vida-asegura-nuevo-estudio-967443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111423.jpg' alt='Llevar una smartband o un smartwatch podría salvarte la vida, asegura un nuevo estudio' />
     </a>
 </div>
 
