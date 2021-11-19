@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/axel-springer-espana-entrega-premios-motor-2021-coches-destacados-ano-967511'>Axel Springer España entrega sus Premios de Motor 2021 a los coches más destacados del año</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/axel-springer-espana-entrega-premios-motor-2021-coches-destacados-ano-967511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axel-springer-espana-entrega-premios-motor-2021-2537887.jpg' alt='Axel Springer España entrega sus Premios de Motor 2021 a los coches más destacados del año' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537'>Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vodafone-2538097.jpg' alt='Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/volvera-shiba-inu-dicen-expertos-967471'>¿Volverá Shiba Inu? Esto es lo que dicen los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/volvera-shiba-inu-dicen-expertos-967471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Volverá Shiba Inu? Esto es lo que dicen los expertos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-enchufe-wifi-amazon-mitad-precio-agotar-unidades-antes-black-friday-966037'>Ganga en el enchufe WiFi de Amazon, que está a mitad de precio hasta agotar unidades antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-enchufe-wifi-amazon-mitad-precio-agotar-unidades-antes-black-friday-966037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-smart-plug-2535363.jpg' alt='Ganga en el enchufe WiFi de Amazon, que está a mitad de precio hasta agotar unidades antes del Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147'>El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509'>Google confirma los primeros problemas de Android Auto en la última versión de Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google confirma los primeros problemas de Android Auto en la última versión de Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-perderia-popularidad-cambiar-sistema-valoracion-creadores-967415'>Youtube perdería popularidad al cambiar el sistema de valoración según uno de sus creadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-perderia-popularidad-cambiar-sistema-valoracion-creadores-967415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='Youtube perdería popularidad al cambiar el sistema de valoración según uno de sus creadores' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465'>Trucos para crear una contraseña indescifrable que no olvidarás nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/contrasena-2196143.jpg' alt='Trucos para crear una contraseña indescifrable que no olvidarás nunca' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-anuncia-novedades-importantes-futuro-etiquetas-medioambientales-coche-967485'>La DGT anuncia novedades importantes sobre el futuro de las etiquetas medioambientales de tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-anuncia-novedades-importantes-futuro-etiquetas-medioambientales-coche-967485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg' alt='La DGT anuncia novedades importantes sobre el futuro de las etiquetas medioambientales de tu coche' />
     </a>
 </div>
 
