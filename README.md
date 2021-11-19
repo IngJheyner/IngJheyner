@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2537561.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939'>Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suavizante-cajon-lavadora-2536957.jpg' alt='Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127'>Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cambia-iluminacion-casa-estas-bombillas-led-16-millones-colores-43-descuento-2537335.jpg' alt='Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123'>Phantom, el ajedrez que juega solo y se mueve con la voz</a></h4>
-    <a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/phantom-ajedrez-juega-solo-mueve-voz-2537325.jpg' alt='Phantom, el ajedrez que juega solo y se mueve con la voz' />
     </a>
 </div>
 
