@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519'>La sorprendente nuevo uso de Bizum que deberías evitar a toda costa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='La sorprendente nuevo uso de Bizum que deberías evitar a toda costa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-apple-estan-casi-listas-ver-luz-967611'>Las gafas de realidad aumentada de Apple están casi listas para ver la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-apple-estan-casi-listas-ver-luz-967611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las gafas de realidad aumentada de Apple están casi listas para ver la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-airfryer-oferta-amazon-black-friday-966209'>Amazon rebaja esta freidora sin aceite de Philips hasta 55 euros durante el Black Friday para que cocines más sano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-airfryer-oferta-amazon-black-friday-966209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/philips-airfryer-hd9216-80-2535661.jpg' alt='Amazon rebaja esta freidora sin aceite de Philips hasta 55 euros durante el Black Friday para que cocines más sano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591'>200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-2538175.jpg' alt='200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577'>Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%</a></h4>
     <a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/blackfriday-lidl-2538107.jpg' alt='Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-logitech-mx-master-mitad-precio-black-friday-966195'>El ratón preferido por profesionales, Logitech MX Master, a mitad de precio durante el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raton-logitech-mx-master-mitad-precio-black-friday-966195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/logitech-mx-master-2535637.jpg' alt='El ratón preferido por profesionales, Logitech MX Master, a mitad de precio durante el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537'>Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vodafone-2538097.jpg' alt='Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-enchufe-wifi-amazon-mitad-precio-agotar-unidades-antes-black-friday-966037'>Ganga en el enchufe WiFi de Amazon, que está a mitad de precio hasta agotar unidades antes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-enchufe-wifi-amazon-mitad-precio-agotar-unidades-antes-black-friday-966037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-smart-plug-2535363.jpg' alt='Ganga en el enchufe WiFi de Amazon, que está a mitad de precio hasta agotar unidades antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509'>Google confirma los primeros problemas de Android Auto en la última versión de Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google confirma los primeros problemas de Android Auto en la última versión de Android' />
     </a>
 </div>
 
