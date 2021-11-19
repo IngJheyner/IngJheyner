@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-disponibles-pueden-agotarse-967475'>Ofertas del Black Friday que ya están disponibles y pueden agotarse antes del próximo viernes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-disponibles-pueden-agotarse-967475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2135623.jpg' alt='Ofertas del Black Friday que ya están disponibles y pueden agotarse antes del próximo viernes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x3-chollo-semana-black-friday-baja-199eu-966105'>El POCO X3 es un chollo del Black Friday: baja a 199€ con 256GB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-x3-chollo-semana-black-friday-baja-199eu-966105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/poco-x3-pro-claro-ejemplo-potencia-no-tiene-estar-renida-precio-2442771.jpg' alt='El POCO X3 es un chollo del Black Friday: baja a 199€ con 256GB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2537333.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079'>Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/asus-chromebook-z1400cn-2078897.jpg' alt='Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/gaming/mejores-ofertas-trust-black-friday-vive-mejor-viernes-historia-967665'>Las mejores ofertas de Trust para el Black Friday. ¡Vive el mejor viernes de la historia!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/gaming/mejores-ofertas-trust-black-friday-vive-mejor-viernes-historia-967665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-trust-2538315.jpg' alt='Las mejores ofertas de Trust para el Black Friday. ¡Vive el mejor viernes de la historia!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067'>Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515807.jpg' alt='Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday' />
     </a>
 </div>
 
