@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577'>Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%</a></h4>
+    <a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/blackfriday-lidl-2538107.jpg' alt='Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-logitech-mx-master-mitad-precio-black-friday-966195'>El ratón preferido por profesionales, Logitech MX Master, a mitad de precio durante el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/raton-logitech-mx-master-mitad-precio-black-friday-966195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/logitech-mx-master-2535637.jpg' alt='El ratón preferido por profesionales, Logitech MX Master, a mitad de precio durante el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537'>Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/internet-cable-3-gbps-vodafone-ya-disponible-gracias-docsis-31-high-split-967537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vodafone-2538097.jpg' alt='Internet por cable a 3 Gbps de Vodafone ya disponible gracias a DOCSIS 3.1 High Split' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509'>Google confirma los primeros problemas de Android Auto en la última versión de Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-confirma-primeros-problemas-android-auto-ultima-version-android-967509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google confirma los primeros problemas de Android Auto en la última versión de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-anuncia-novedades-importantes-futuro-etiquetas-medioambientales-coche-967485'>La DGT anuncia novedades importantes sobre el futuro de las etiquetas medioambientales de tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-anuncia-novedades-importantes-futuro-etiquetas-medioambientales-coche-967485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg' alt='La DGT anuncia novedades importantes sobre el futuro de las etiquetas medioambientales de tu coche' />
     </a>
 </div>
 
