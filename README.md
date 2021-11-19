@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/axel-springer-espana-entrega-premios-motor-2021-coches-destacados-ano-967511'>Axel Springer España entrega sus Premios de Motor 2021 a los coches más destacados del año</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/axel-springer-espana-entrega-premios-motor-2021-coches-destacados-ano-967511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axel-springer-espana-entrega-premios-motor-2021-2537887.jpg' alt='Axel Springer España entrega sus Premios de Motor 2021 a los coches más destacados del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/volvera-shiba-inu-dicen-expertos-967471'>¿Volverá Shiba Inu? Esto es lo que dicen los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/volvera-shiba-inu-dicen-expertos-967471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Volverá Shiba Inu? Esto es lo que dicen los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147'>El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-top-ventas-xiaomi-suma-black-friday-amazon-966147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='El nuevo móvil barato top ventas de Xiaomi se suma al Black Friday de Amazon: está en oferta por solo 149 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465'>Trucos para crear una contraseña indescifrable que no olvidarás nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-crear-contrasena-indescifrable-no-olvidaras-nunca-967465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/contrasena-2196143.jpg' alt='Trucos para crear una contraseña indescifrable que no olvidarás nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-barato-amazon-black-friday-week-966743'>Este reloj inteligente de Amazfit sí que es barato: Amazon lo deja en 37 euros antes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-barato-amazon-black-friday-week-966743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/amazfit-bip-2156809.jpg' alt='Este reloj inteligente de Amazfit sí que es barato: Amazon lo deja en 37 euros antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llevar-smartband-smartwatch-podria-salvarte-vida-asegura-nuevo-estudio-967443'>Llevar una smartband o un smartwatch podría salvarte la vida, asegura un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llevar-smartband-smartwatch-podria-salvarte-vida-asegura-nuevo-estudio-967443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111423.jpg' alt='Llevar una smartband o un smartwatch podría salvarte la vida, asegura un nuevo estudio' />
     </a>
 </div>
 
