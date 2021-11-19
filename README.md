@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2537333.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-rueda-cazarrecompensas-medico-967101'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una rueda, un cazarrecompensas y un médico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-rueda-cazarrecompensas-medico-967101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-ver-netflix-2537321.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una rueda, un cazarrecompensas y un médico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079'>Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/asus-chromebook-z1400cn-2078897.jpg' alt='Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067'>Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515807.jpg' alt='Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637'>Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/winamp-2538251.jpg' alt='Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519'>El sorprendente nuevo uso de Bizum que deberías evitar a toda costa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El sorprendente nuevo uso de Bizum que deberías evitar a toda costa' />
     </a>
 </div>
 
