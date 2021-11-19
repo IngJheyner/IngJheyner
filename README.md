@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743'>5 formas de calentar la casa sin gas ni electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='5 formas de calentar la casa sin gas ni electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781'>El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-watch-active-2-2535105.jpg' alt='El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735'>La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-portatil-oferta-black-friday-2021-966131'>Este portátil Huawei de solo 1,5 kg está a precio de saldo, por 459 euros y con actualización a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-portatil-oferta-black-friday-2021-966131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/huawei-matebook-d15-2491001.jpg' alt='Este portátil Huawei de solo 1,5 kg está a precio de saldo, por 459 euros y con actualización a Windows 11' />
     </a>
 </div>
 
