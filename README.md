@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079'>Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/asus-chromebook-z1400cn-2078897.jpg' alt='Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/gaming/mejores-ofertas-trust-black-friday-vive-mejor-viernes-historia-967665'>Las mejores ofertas de Trust para el Black Friday. ¡Vive el mejor viernes de la historia!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/gaming/mejores-ofertas-trust-black-friday-vive-mejor-viernes-historia-967665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-trust-2538315.jpg' alt='Las mejores ofertas de Trust para el Black Friday. ¡Vive el mejor viernes de la historia!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067'>Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-amazon-black-friday-966067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515807.jpg' alt='Samsung tira la casa por la ventana: el Galaxy Watch 4 cae a menos de 200 euros en Amazon por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637'>Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/winamp-2538251.jpg' alt='Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519'>El sorprendente nuevo uso de Bizum que deberías evitar a toda costa</a></h4>
     <a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El sorprendente nuevo uso de Bizum que deberías evitar a toda costa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-apple-estan-casi-listas-ver-luz-967611'>Las gafas de realidad aumentada de Apple están casi listas para ver la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-apple-estan-casi-listas-ver-luz-967611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las gafas de realidad aumentada de Apple están casi listas para ver la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-airfryer-oferta-amazon-black-friday-966209'>Amazon rebaja esta freidora sin aceite de Philips hasta 55 euros durante el Black Friday para que cocines más sano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-airfryer-oferta-amazon-black-friday-966209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/philips-airfryer-hd9216-80-2535661.jpg' alt='Amazon rebaja esta freidora sin aceite de Philips hasta 55 euros durante el Black Friday para que cocines más sano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591'>200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-2538175.jpg' alt='200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9' />
     </a>
 </div>
 
