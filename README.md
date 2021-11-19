@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939'>Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-cajon-detergente-lavadora-trucos-no-vuelva-ensuciarse-966939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suavizante-cajon-lavadora-2536957.jpg' alt='Cómo limpiar el cajón del detergente de la lavadora y trucos para que no vuelva a ensuciarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141'>El truco infalible para separar la clara de la yema, sin cargarte el huevo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='El truco infalible para separar la clara de la yema, sin cargarte el huevo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123'>Phantom, el ajedrez que juega solo y se mueve con la voz</a></h4>
     <a href='https://computerhoy.com/noticias/life/phantom-ajedrez-juega-solo-mueve-voz-967123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/phantom-ajedrez-juega-solo-mueve-voz-2537325.jpg' alt='Phantom, el ajedrez que juega solo y se mueve con la voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079'>Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tcl-quiere-poner-dificil-samsung-lg-nuevos-televisores-x925-x925-pro-resolucion-8k-hdmi-20-panel-qled-2464543.jpg' alt='Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud' />
     </a>
 </div>
 
