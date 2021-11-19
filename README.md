@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519'>La sorprendente nuevo uso de Bizum que deberías evitar a toda costa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637'>Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-winamp-reproductor-musica-nos-acompano-adolescencia-punto-resucitar-967637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/winamp-2538251.jpg' alt='Vuelve Winamp: el reproductor de música que nos acompañó en la adolescencia está a punto de resucitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519'>El sorprendente nuevo uso de Bizum que deberías evitar a toda costa</a></h4>
     <a href='https://computerhoy.com/noticias/life/sorprendente-nuevo-uso-bizum-deberias-evitar-toda-costa-967519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='La sorprendente nuevo uso de Bizum que deberías evitar a toda costa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El sorprendente nuevo uso de Bizum que deberías evitar a toda costa' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591'>200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/200-kilometros-5-minutos-futuro-carga-coches-electricos-xpeng-g9-967591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-2538175.jpg' alt='200 kilómetros en 5 minutos: el futuro de la carga de coches eléctricos en el XPeng G9' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577'>Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comienza-black-week-lidl-suculentos-descuentos-electrodomesticos-50-967577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/blackfriday-lidl-2538107.jpg' alt='Comienza la Black Week de Lidl con suculentos descuentos en electrodomésticos de más del 50%' />
     </a>
 </div>
 
