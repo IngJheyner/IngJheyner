@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141'>El truco infalible para separar la clara de la yema, sin cargarte el huevo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-infalible-separar-clara-yema-huevo-967141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='El truco infalible para separar la clara de la yema, sin cargarte el huevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139'>¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huele-sonic-sega-lanza-tres-colonias-inspiradas-videojuegos-famosos-2537351.jpg' alt='¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079'>Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-televisor-lg-podras-jugar-gracias-nvidia-geforce-now-cloud-967079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tcl-quiere-poner-dificil-samsung-lg-nuevos-televisores-x925-x925-pro-resolucion-8k-hdmi-20-panel-qled-2464543.jpg' alt='Si tienes un televisor de LG podrás jugar gracias a Nvidia GeForce Now Cloud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-pedir-videos-cuentas-parezcan-sospechosas-967077'>Instagram empezará a pedir vídeos a cuentas que parezcan sospechosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-pedir-videos-cuentas-parezcan-sospechosas-967077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Instagram empezará a pedir vídeos a cuentas que parezcan sospechosas' />
     </a>
 </div>
 
