@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-967353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2537561.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139'>¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/colonia-sega-sonic-yakuza-shenmue-967139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huele-sonic-sega-lanza-tres-colonias-inspiradas-videojuegos-famosos-2537351.jpg' alt='¿A qué huele Sonic? Sega lanza tres colonias inspiradas en sus videojuegos más famosos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127'>Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombillas-led-16-millones-colores-descuento-967127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cambia-iluminacion-casa-estas-bombillas-led-16-millones-colores-43-descuento-2537335.jpg' alt='Cambia la iluminación de tu casa con estas bombillas LED con 16 millones de colores, y un 43% de descuento' />
     </a>
 </div>
 
