@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759'>Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-mi-electric-scooter-precio-minimo-oferta-967751'>El patinete más vendido de Xiaomi ya tiene precio de Black Friday, llévatelo a precio mínimo en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-mi-electric-scooter-precio-minimo-oferta-967751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patinete-vendido-xiaomi-ya-tiene-precio-black-friday-llevatelo-precio-minimo-amazon-2538559.jpg' alt='El patinete más vendido de Xiaomi ya tiene precio de Black Friday, llévatelo a precio mínimo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743'>5 formas de calentar la casa sin gas ni electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='5 formas de calentar la casa sin gas ni electricidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731'>Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/movil-app-twitter-2458655.jpg' alt='Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/multiplican-estafas-relacionadas-netflix-estas-son-habituales-967739'>Se multiplican las estafas relacionadas con Netflix: estas son las más habituales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/multiplican-estafas-relacionadas-netflix-estas-son-habituales-967739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estafa-netflix-2538525.jpg' alt='Se multiplican las estafas relacionadas con Netflix: estas son las más habituales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735'>La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas' />
     </a>
 </div>
 
