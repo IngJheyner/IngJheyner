@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-disponibles-pueden-agotarse-967475'>Ofertas del Black Friday que ya están disponibles y pueden agotarse antes del próximo viernes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-disponibles-pueden-agotarse-967475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2135623.jpg' alt='Ofertas del Black Friday que ya están disponibles y pueden agotarse antes del próximo viernes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781'>El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-watch-active-2-2535105.jpg' alt='El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x3-chollo-semana-black-friday-baja-199eu-966105'>El POCO X3 es un chollo del Black Friday: baja a 199€ con 256GB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-x3-chollo-semana-black-friday-baja-199eu-966105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/poco-x3-pro-claro-ejemplo-potencia-no-tiene-estar-renida-precio-2442771.jpg' alt='El POCO X3 es un chollo del Black Friday: baja a 199€ con 256GB de almacenamiento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731'>Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/movil-app-twitter-2458655.jpg' alt='Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-artista-batalla-sexos-unas-aves-967121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2537333.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un artista, una batalla de sexos y unas aves' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/multiplican-estafas-relacionadas-netflix-estas-son-habituales-967739'>Se multiplican las estafas relacionadas con Netflix: estas son las más habituales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/multiplican-estafas-relacionadas-netflix-estas-son-habituales-967739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estafa-netflix-2538525.jpg' alt='Se multiplican las estafas relacionadas con Netflix: estas son las más habituales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-rueda-cazarrecompensas-medico-967101'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una rueda, un cazarrecompensas y un médico</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-rueda-cazarrecompensas-medico-967101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-ver-netflix-2537321.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una rueda, un cazarrecompensas y un médico' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735'>La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-podria-obligarte-cambiar-coche-mucho-antes-piensas-967735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La DGT podría ‘obligarte’ a cambiar de coche mucho antes de lo que piensas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079'>Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-precio-derribo-amazon-199eu-asus-chrome-os-966079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/asus-chromebook-z1400cn-2078897.jpg' alt='Un portátil a precio de derribo en Amazon: por 199€, de ASUS y con Chrome OS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-portatil-oferta-black-friday-2021-966131'>Este portátil Huawei de solo 1,5 kg está a precio de saldo, por 459 euros y con actualización a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-portatil-oferta-black-friday-2021-966131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/huawei-matebook-d15-2491001.jpg' alt='Este portátil Huawei de solo 1,5 kg está a precio de saldo, por 459 euros y con actualización a Windows 11' />
     </a>
 </div>
 
