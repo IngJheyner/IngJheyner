@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711'>Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131'>Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/carpetas-menu-inicio-windows-11-2430881.jpg' alt='Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191'>5 herramientas con las que ahorrar tiempo en reuniones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reunion-ejecutivos-2272145.jpg' alt='5 herramientas con las que ahorrar tiempo en reuniones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ps5-chollo-te-interesa-mucho-exprimir-conexion-fibra-maximo-966411'>Si tienes un iPhone o una PS5, este chollo te interesa y mucho para exprimir tu conexión de fibra al máximo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ps5-chollo-te-interesa-mucho-exprimir-conexion-fibra-maximo-966411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-huawei-ax3-2256851.jpg' alt='Si tienes un iPhone o una PS5, este chollo te interesa y mucho para exprimir tu conexión de fibra al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407'>Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-vs-mediatek-2500433.jpg' alt='Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?' />
     </a>
 </div>
 
