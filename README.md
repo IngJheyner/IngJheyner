@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105'>El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-11-lite-5g-2320351.jpg' alt='El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093'>Inventan una cámara capaz de ver a través de casi cualquier cosa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sensores-ver-traves-paredes-2539005.jpg' alt='Inventan una cámara capaz de ver a través de casi cualquier cosa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825'>Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-watch-gt-2-2383023.jpg' alt='Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-rtx-3050-i7-mas-barato-nunca-967633'>Este portátil gaming es una bestia con RTX 3050 y el último i7 del mercado, y ahora está más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-rtx-3050-i7-mas-barato-nunca-967633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/msi-katana-gf66-2456153.jpg' alt='Este portátil gaming es una bestia con RTX 3050 y el último i7 del mercado, y ahora está más barato que nunca' />
     </a>
 </div>
 
