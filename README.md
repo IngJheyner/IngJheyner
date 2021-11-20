@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019'>Así son los robots que limpian las mesas del campus en Google Bay Area</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/everyday-robot-2538843.jpg' alt='Así son los robots que limpian las mesas del campus en Google Bay Area' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721'>Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-fit-2-2233537.jpg' alt='Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
     <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783'>Las 10 mejores apps para animar fotos desde el móvil </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apps-animar-fotos-2527241.jpg' alt='Las 10 mejores apps para animar fotos desde el móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711'>Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131'>Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/carpetas-menu-inicio-windows-11-2430881.jpg' alt='Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar' />
     </a>
 </div>
 
