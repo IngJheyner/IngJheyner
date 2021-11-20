@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067'>Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/logo-chrome-2304211.jpg' alt='Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825'>Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-watch-gt-2-2383023.jpg' alt='Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059'>El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/macbook-air-2020-1895861.jpg' alt='El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039'>Inventan un juguete que actúa como un teléfono para perros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogphone-2538909.jpg' alt='Inventan un juguete que actúa como un teléfono para perros' />
     </a>
 </div>
 
