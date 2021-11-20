@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423'>La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/triste-historia-frank-hayes-unica-persona-ha-ganado-competicion-despues-morir-2537657.jpg' alt='La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595'>10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-portada-2538423.jpg' alt='10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607'>Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica</a></h4>
     <a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regleta-corriente-2538179.jpg' alt='Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763'>Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hologramas-robots-exoesqueletos-vistazo-tecnologia-futuro-aliexpress-2538565.jpg' alt='Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761'>Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-olores-desinfectar-cama-huela-como-hotel-lujo-2538561.jpg' alt='Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759'>Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros' />
     </a>
 </div>
 
