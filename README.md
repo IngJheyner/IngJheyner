@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
+    <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cientos-propietarios-coches-tesla-no-pueden-acceder-vehiculos-debido-error-servidor-968011'>Cientos de propietarios de coches Tesla no pueden acceder a sus vehículos debido a un error de servidor</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cientos-propietarios-coches-tesla-no-pueden-acceder-vehiculos-debido-error-servidor-968011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acceso-tesla-2538815.jpg' alt='Cientos de propietarios de coches Tesla no pueden acceder a sus vehículos debido a un error de servidor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783'>Las 10 mejores apps para animar fotos desde el móvil </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apps-animar-fotos-2527241.jpg' alt='Las 10 mejores apps para animar fotos desde el móvil ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711'>Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-pcie-oferta-amazon-semana-black-friday-966711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Este SSD pondrá tu ordenador a 3600 MB por segundo, y ahora es mucho más barato en Amazon ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131'>Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-volver-colocar-menu-inicio-windows-11-donde-deberia-estar-945131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/carpetas-menu-inicio-windows-11-2430881.jpg' alt='Cómo volver a colocar el menú de inicio de Windows 11 donde debería estar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/macbook-pro-14-m1-pro-analisis-opinion-967351'>MacBook Pro 14” con M1 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/macbook-pro-14-m1-pro-analisis-opinion-967351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='MacBook Pro 14” con M1 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191'>5 herramientas con las que ahorrar tiempo en reuniones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reunion-ejecutivos-2272145.jpg' alt='5 herramientas con las que ahorrar tiempo en reuniones' />
     </a>
 </div>
 
