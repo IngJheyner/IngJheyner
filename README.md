@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763'>Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hologramas-robots-exoesqueletos-vistazo-tecnologia-futuro-aliexpress-2538565.jpg' alt='Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761'>Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-olores-desinfectar-cama-huela-como-hotel-lujo-2538561.jpg' alt='Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743'>5 formas de calentar la casa sin gas ni electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='5 formas de calentar la casa sin gas ni electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781'>El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-watch-active-2-2535105.jpg' alt='El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€' />
     </a>
 </div>
 
