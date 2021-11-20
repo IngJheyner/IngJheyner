@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-primer-render-apple-watch-series-8-hay-importante-cambio-968063'>Este sería el primer render del Apple Watch Series 8, y hay un importante cambio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-primer-render-apple-watch-series-8-hay-importante-cambio-968063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Este sería el primer render del Apple Watch Series 8, y hay un importante cambio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059'>El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/macbook-air-2020-1895861.jpg' alt='El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019'>Así son los robots que limpian las mesas del campus en Google Bay Area</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/everyday-robot-2538843.jpg' alt='Así son los robots que limpian las mesas del campus en Google Bay Area' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721'>Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-fit-2-2233537.jpg' alt='Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band' />
     </a>
 </div>
 
