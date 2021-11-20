@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039'>Inventan un juguete que actúa como un teléfono para perros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogphone-2538909.jpg' alt='Inventan un juguete que actúa como un teléfono para perros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-garmin-fenix-6x-pro-descuento-amazon-semana-black-friday-967479'>El mejor reloj de Garmin para runners y triatletas tiene 210 euros de descuento en Amazon por la Semana del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-garmin-fenix-6x-pro-descuento-amazon-semana-black-friday-967479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/garmin-fenix-6x-pro-2503237.jpg' alt='El mejor reloj de Garmin para runners y triatletas tiene 210 euros de descuento en Amazon por la Semana del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019'>Así son los robots que limpian las mesas del campus en Google Bay Area</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-robots-limpian-mesas-campus-google-bay-area-968019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/everyday-robot-2538843.jpg' alt='Así son los robots que limpian las mesas del campus en Google Bay Area' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
     <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cientos-propietarios-coches-tesla-no-pueden-acceder-vehiculos-debido-error-servidor-968011'>Cientos de propietarios de coches Tesla no pueden acceder a sus vehículos debido a un error de servidor</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cientos-propietarios-coches-tesla-no-pueden-acceder-vehiculos-debido-error-servidor-968011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acceso-tesla-2538815.jpg' alt='Cientos de propietarios de coches Tesla no pueden acceder a sus vehículos debido a un error de servidor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783'>Las 10 mejores apps para animar fotos desde el móvil </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-apps-animar-fotos-movil-961783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apps-animar-fotos-2527241.jpg' alt='Las 10 mejores apps para animar fotos desde el móvil ' />
     </a>
 </div>
 
