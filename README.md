@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407'>Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-vs-mediatek-2500433.jpg' alt='Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423'>La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto</a></h4>
     <a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/triste-historia-frank-hayes-unica-persona-ha-ganado-competicion-despues-morir-2537657.jpg' alt='La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535'>La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fda-aprueba-oficialmente-uso-medico-realidad-virtual-tratar-dolor-cronico-2538015.jpg' alt='La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763'>Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hologramas-robots-exoesqueletos-vistazo-tecnologia-futuro-aliexpress-2538565.jpg' alt='Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba' />
     </a>
 </div>
 
