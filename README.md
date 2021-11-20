@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607'>Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regleta-corriente-2538179.jpg' alt='Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535'>La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fda-aprueba-oficialmente-uso-medico-realidad-virtual-tratar-dolor-cronico-2538015.jpg' alt='La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763'>Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hologramas-robots-exoesqueletos-tecnologia-futuro-alibaba-967763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hologramas-robots-exoesqueletos-vistazo-tecnologia-futuro-aliexpress-2538565.jpg' alt='Hologramas, robots y exoesqueletos: un vistazo a la tecnología del futuro de Alibaba' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759'>Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros</a></h4>
     <a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-mi-electric-scooter-precio-minimo-oferta-967751'>El patinete más vendido de Xiaomi ya tiene precio de Black Friday, llévatelo a precio mínimo en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-mi-electric-scooter-precio-minimo-oferta-967751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/patinete-vendido-xiaomi-ya-tiene-precio-black-friday-llevatelo-precio-minimo-amazon-2538559.jpg' alt='El patinete más vendido de Xiaomi ya tiene precio de Black Friday, llévatelo a precio mínimo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743'>5 formas de calentar la casa sin gas ni electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-formas-calentar-casa-sin-gas-ni-electricidad-967743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='5 formas de calentar la casa sin gas ni electricidad' />
     </a>
 </div>
 
