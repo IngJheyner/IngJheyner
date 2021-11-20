@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191'>5 herramientas con las que ahorrar tiempo en reuniones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reunion-ejecutivos-2272145.jpg' alt='5 herramientas con las que ahorrar tiempo en reuniones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ps5-chollo-te-interesa-mucho-exprimir-conexion-fibra-maximo-966411'>Si tienes un iPhone o una PS5, este chollo te interesa y mucho para exprimir tu conexión de fibra al máximo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ps5-chollo-te-interesa-mucho-exprimir-conexion-fibra-maximo-966411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-huawei-ax3-2256851.jpg' alt='Si tienes un iPhone o una PS5, este chollo te interesa y mucho para exprimir tu conexión de fibra al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407'>Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-vs-mediatek-2500433.jpg' alt='Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595'>10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-portada-2538423.jpg' alt='10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607'>Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dispositivos-electrodomesticos-nunca-deberias-conectar-regleta-electrica-967607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regleta-corriente-2538179.jpg' alt='Dispositivos y electrodomésticos que nunca deberías conectar a una regleta eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535'>La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/uso-medico-realidad-virtual-dolor-cronico-easevrx-appliedvr-967535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fda-aprueba-oficialmente-uso-medico-realidad-virtual-tratar-dolor-cronico-2538015.jpg' alt='La FDA aprueba oficialmente el uso médico de la realidad virtual para tratar el dolor crónico' />
     </a>
 </div>
 
