@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/macbook-pro-14-m1-pro-analisis-opinion-967351'>MacBook Pro 14” con M1 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/macbook-pro-14-m1-pro-analisis-opinion-967351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='MacBook Pro 14” con M1 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191'>5 herramientas con las que ahorrar tiempo en reuniones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-ahorrar-tiempo-reuniones-941191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reunion-ejecutivos-2272145.jpg' alt='5 herramientas con las que ahorrar tiempo en reuniones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407'>Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-vs-mediatek-diferencian-estos-socs-947407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-vs-mediatek-2500433.jpg' alt='Snapdragon vs Mediatek, ¿en qué se diferencian estos SoCs?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423'>La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frank-hayes-gano-carrera-caballos-estando-muerto-967423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/triste-historia-frank-hayes-unica-persona-ha-ganado-competicion-despues-morir-2537657.jpg' alt='La triste historia de Frank Hayes, la única persona que ha ganado una competición estando muerto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595'>10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-black-friday-amazon-menos-20-euros-967595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-portada-2538423.jpg' alt='10 chollos del Black Friday que cuesta menos de 20€ y ya están en Amazon' />
     </a>
 </div>
 
