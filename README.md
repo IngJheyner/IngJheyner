@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093'>Inventan una cámara capaz de ver a través de casi cualquier cosa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sensores-ver-traves-paredes-2539005.jpg' alt='Inventan una cámara capaz de ver a través de casi cualquier cosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679'>Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-auto-2538369.jpg' alt='Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067'>Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/logo-chrome-2304211.jpg' alt='Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-rtx-3050-i7-mas-barato-nunca-967633'>Este portátil gaming es una bestia con RTX 3050 y el último i7 del mercado, y ahora está más barato que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-rtx-3050-i7-mas-barato-nunca-967633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/msi-katana-gf66-2456153.jpg' alt='Este portátil gaming es una bestia con RTX 3050 y el último i7 del mercado, y ahora está más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-primer-render-apple-watch-series-8-hay-importante-cambio-968063'>Este sería el primer render del Apple Watch Series 8, y hay un importante cambio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-primer-render-apple-watch-series-8-hay-importante-cambio-968063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Este sería el primer render del Apple Watch Series 8, y hay un importante cambio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059'>El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/macbook-air-2020-1895861.jpg' alt='El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon' />
     </a>
 </div>
 
