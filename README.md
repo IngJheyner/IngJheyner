@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059'>El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-baja-poco-precio-roza-minimo-historico-amazon-968059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/macbook-air-2020-1895861.jpg' alt='El Macbook Air baja un poco más de precio y roza su mínimo histórico en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039'>Inventan un juguete que actúa como un teléfono para perros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-juguete-actua-como-telefono-perros-968039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dogphone-2538909.jpg' alt='Inventan un juguete que actúa como un teléfono para perros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721'>Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-xiaomi-galaxy-fit2-baja-menos-20-euros-pone-apuros-mi-band-966721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-fit-2-2233537.jpg' alt='Samsung contra Xiaomi: la Galaxy Fit2 baja a menos de 20 euros y pone en apuros a las Mi Band' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
-    <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
     </a>
 </div>
 
