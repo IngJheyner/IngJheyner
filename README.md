@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761'>Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-quitar-olores-desinfectar-cama-como-hotel-lujo-967761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-quitar-olores-desinfectar-cama-huela-como-hotel-lujo-2538561.jpg' alt='Cómo quitar los olores y desinfectar una cama para que huela como en un hotel de lujo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759'>Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros</a></h4>
     <a href='https://computerhoy.com/noticias/google-stadia-cumple-2-anos-oferta-chromecast-ultra-gamepad-stadia-967759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Google Stadia cumple 2 años y lo celebra con una oferta brutal: Chromecast Ultra y gamepad Stadia por solo 22 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781'>El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-active-2-rebajado-precio-amazon-965781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-watch-active-2-2535105.jpg' alt='El Black Friday deja mucho más barato el Samsung Galaxy Watch Active 2, que baja a 129€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731'>Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-android-ya-pueden-enviar-propinas-creadores-favoritos-967731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/movil-app-twitter-2458655.jpg' alt='Los usuarios de Twitter en Android ya pueden enviar propinas a sus creadores favoritos' />
     </a>
 </div>
 
