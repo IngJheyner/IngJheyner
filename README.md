@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-estan-ensenando-robots-abrir-puertas-incluso-recargarse-mismos-968097'>Ahora están enseñando a los robots a abrir puertas e incluso a recargarse por sí mismos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-estan-ensenando-robots-abrir-puertas-incluso-recargarse-mismos-968097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-autonomo-abre-puertas-2539011.jpg' alt='Ahora están enseñando a los robots a abrir puertas e incluso a recargarse por sí mismos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/imaginan-nuevo-rascacielos-capaz-eliminar-1000-toneladas-carbono-atmosfera-968101'>Imaginan un nuevo rascacielos capaz de eliminar 1000 toneladas de carbono de la atmósfera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/imaginan-nuevo-rascacielos-capaz-eliminar-1000-toneladas-carbono-atmosfera-968101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/urban-sequoia-2539021.jpg' alt='Imaginan un nuevo rascacielos capaz de eliminar 1000 toneladas de carbono de la atmósfera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/calefactor-965141'>Guía y consejos para comprar un calefactor</a></h4>
+    <a href='https://computerhoy.com/guia-compra/calefactor-965141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calenfactor-2533947.jpg' alt='Guía y consejos para comprar un calefactor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495'>Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estatua-charles-trobe-australia-plantada-boca-abajo-2537881.jpg' alt='Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065'>Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estan-instalado-rayos-laser-mitad-desierto-nafud-arabia-saudi-2537207.jpg' alt='Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105'>El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-11-lite-5g-2320351.jpg' alt='El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093'>Inventan una cámara capaz de ver a través de casi cualquier cosa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-camara-capaz-ver-traves-casi-cualquier-cosa-968093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sensores-ver-traves-paredes-2539005.jpg' alt='Inventan una cámara capaz de ver a través de casi cualquier cosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679'>Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-auto-2538369.jpg' alt='Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%' />
     </a>
 </div>
 
