@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383'>Apple patenta su propia Surface Neo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/surface-neo-2539381.jpg' alt='Apple patenta su propia Surface Neo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609'>Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-samsung-galaxy-note-20-2033095.jpg' alt='Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047'>Las 20 mejores películas actuales que puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amazon-prime-video-2095397.jpg' alt='Las 20 mejores películas actuales que puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355'>Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg' alt='Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889'>Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/update-windows-2510467.jpg' alt='Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-16gb-ram-portatil-tiene-todo-plantar-cara-mejores-967999'>Menos de 1 kg de peso y 16GB de RAM en un portátil que lo tiene todo para plantar cara a los mejores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-16gb-ram-portatil-tiene-todo-plantar-cara-mejores-967999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/lg-gram-2141833.jpg' alt='Menos de 1 kg de peso y 16GB de RAM en un portátil que lo tiene todo para plantar cara a los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/usa-smartphone-como-teclado-raton-ordenador-961845'>Usa tu smartphone como teclado y ratón de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/usa-smartphone-como-teclado-raton-ordenador-961845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/teclado-google-android-2259781.jpg' alt='Usa tu smartphone como teclado y ratón de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555'>Trucos ocultos de Google Maps para Android que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Trucos ocultos de Google Maps para Android que te harán la vida más fácil' />
     </a>
 </div>
 
