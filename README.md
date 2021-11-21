@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355'>Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg' alt='Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889'>Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/update-windows-2510467.jpg' alt='Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555'>Trucos ocultos de Google Maps para Android que te harán la vida más fácil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Trucos ocultos de Google Maps para Android que te harán la vida más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737'>El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/garmin-forerunner-245-2466673.jpg' alt='El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros' />
     </a>
 </div>
 
