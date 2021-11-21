@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737'>El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/garmin-forerunner-245-2466673.jpg' alt='El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ataque-navegacion-forzada-como-funciona-967087'>Qué es un ataque de navegación forzada y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ataque-navegacion-forzada-como-funciona-967087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ordenador-candado-2537255.jpg' alt='Qué es un ataque de navegación forzada y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-estan-ensenando-robots-abrir-puertas-incluso-recargarse-mismos-968097'>Ahora están enseñando a los robots a abrir puertas e incluso a recargarse por sí mismos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-estan-ensenando-robots-abrir-puertas-incluso-recargarse-mismos-968097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/robot-autonomo-abre-puertas-2539011.jpg' alt='Ahora están enseñando a los robots a abrir puertas e incluso a recargarse por sí mismos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/calefactor-965141'>Guía y consejos para comprar un calefactor</a></h4>
     <a href='https://computerhoy.com/guia-compra/calefactor-965141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calenfactor-2533947.jpg' alt='Guía y consejos para comprar un calefactor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495'>Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estatua-charles-trobe-australia-plantada-boca-abajo-2537881.jpg' alt='Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065'>Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estan-instalado-rayos-laser-mitad-desierto-nafud-arabia-saudi-2537207.jpg' alt='Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí' />
     </a>
 </div>
 
