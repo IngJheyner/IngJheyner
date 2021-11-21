@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455'>La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-plegable-xiaomi-recibe-descuento-500-euros-queda-precio-bici-estandar-2539503.jpg' alt='La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449'>Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-pixel-6a-algunos-cambios-importantes-2539495.jpg' alt='Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-4k-55-pulgadas-rebaja-amazon-967539'>Ok, Google, pon Netflix: este televisor 4K de Xiaomi mide 50 pulgadas y se vende a precio de ganga en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-4k-55-pulgadas-rebaja-amazon-967539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/xiaomi-mi-tv-p1-2330603.jpg' alt='Ok, Google, pon Netflix: este televisor 4K de Xiaomi mide 50 pulgadas y se vende a precio de ganga en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413'>Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/actualizacion-edge-2539455.jpg' alt='Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades' />
     </a>
 </div>
 
