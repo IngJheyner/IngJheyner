@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391'>Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tcl-55c722-2539385.jpg' alt='Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-pro-oferta-estore-968003'>Este smartwatch deportivo de Huawei está a precio de derribo, por 169 euros y con todo lo que se puede pedir a un reloj de este tipo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-pro-oferta-estore-968003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-watch-gt-2-pro-2328405.jpg' alt='Este smartwatch deportivo de Huawei está a precio de derribo, por 169 euros y con todo lo que se puede pedir a un reloj de este tipo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383'>Apple patenta su propia Surface Neo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/surface-neo-2539381.jpg' alt='Apple patenta su propia Surface Neo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047'>Las 20 mejores películas actuales que puedes ver en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amazon-prime-video-2095397.jpg' alt='Las 20 mejores películas actuales que puedes ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355'>Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-gestionar-todas-notificaciones-recibas-reacciones-whatsapp-968355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg' alt='Así vas a poder gestionar todas las notificaciones que recibas sobre reacciones en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889'>Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-windows-10-nos-avise-constantemente-actualizar-windows-11-959889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/update-windows-2510467.jpg' alt='Cómo evitar que Windows 10 nos avise constantemente para actualizar a Windows 11' />
     </a>
 </div>
 
