@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555'>Trucos ocultos de Google Maps para Android que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/trucos-ocultos-google-maps-android-963555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Trucos ocultos de Google Maps para Android que te harán la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737'>El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-black-friday-967737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/garmin-forerunner-245-2466673.jpg' alt='El Garmin Forerunner 245 es el reloj de running que buscabas este Black Friday, y por menos de 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/imaginan-nuevo-rascacielos-capaz-eliminar-1000-toneladas-carbono-atmosfera-968101'>Imaginan un nuevo rascacielos capaz de eliminar 1000 toneladas de carbono de la atmósfera</a></h4>
     <a href='https://computerhoy.com/noticias/life/imaginan-nuevo-rascacielos-capaz-eliminar-1000-toneladas-carbono-atmosfera-968101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/urban-sequoia-2539021.jpg' alt='Imaginan un nuevo rascacielos capaz de eliminar 1000 toneladas de carbono de la atmósfera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/calefactor-965141'>Guía y consejos para comprar un calefactor</a></h4>
-    <a href='https://computerhoy.com/guia-compra/calefactor-965141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calenfactor-2533947.jpg' alt='Guía y consejos para comprar un calefactor' />
     </a>
 </div>
 
