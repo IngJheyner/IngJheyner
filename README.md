@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065'>Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estan-instalado-rayos-laser-mitad-desierto-nafud-arabia-saudi-2537207.jpg' alt='Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105'>El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-11-lite-ahora-oferta-escandalo-solo-299-euros-ocasion-black-friday-968105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-11-lite-5g-2320351.jpg' alt='El popular Xiaomi 11 Lite ahora en una oferta de escándalo a solo 299 euros en ocasión del Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067'>Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/logo-chrome-2304211.jpg' alt='Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825'>Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-huawei-baja-solo-99-euros-amazon-966825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-watch-gt-2-2383023.jpg' alt='Uno de los mejores smartwatch de Huawei baja a solo 99 euros en Amazon' />
     </a>
 </div>
 
