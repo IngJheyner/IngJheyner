@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495'>Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estatua-charles-trobe-australia-plantada-boca-abajo-967495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estatua-charles-trobe-australia-plantada-boca-abajo-2537881.jpg' alt='Por qué la estatua de Charles La Trobe, en Australia, está plantada boca abajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065'>Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rayos-laser-desierto-nafud-arabia-saudi-967065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estan-instalado-rayos-laser-mitad-desierto-nafud-arabia-saudi-2537207.jpg' alt='Por qué están instalado rayos láser en mitad del desierto de Nafud, en Arabia Saudí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679'>Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahorra-multas-volante-gadget-multiusos-amazon-rebajado-33-967679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-auto-2538369.jpg' alt='Ahorra multas al volante con este gadget multiusos de Amazon que está rebajado en un 33%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067'>Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podremos-eliminar-facil-datos-almacenados-sitios-google-chrome-968067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/logo-chrome-2304211.jpg' alt='Ahora podremos eliminar más fácil los datos almacenados por los sitios en Google Chrome' />
     </a>
 </div>
 
