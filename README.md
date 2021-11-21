@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449'>Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-pixel-6a-algunos-cambios-importantes-2539495.jpg' alt='Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119'>Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/wd-sn550-2175819.jpg' alt='Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-wifi-7-ces-2022-968443'>Mediatek presentará WiFi 7 en CES 2022, y asegura que será más rápido que el cable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-wifi-7-ces-2022-968443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-presentara-wifi-7-ces-2022-asegura-sera-rapido-cable-2539475.jpg' alt='Mediatek presentará WiFi 7 en CES 2022, y asegura que será más rápido que el cable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413'>Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/actualizacion-edge-2539455.jpg' alt='Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409'>Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plush-pie-smart-pet-2539437.jpg' alt='Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391'>Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tcl-55c722-2539385.jpg' alt='Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV' />
     </a>
 </div>
 
