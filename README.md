@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-4k-55-pulgadas-rebaja-amazon-967539'>Ok, Google, pon Netflix: este televisor 4K de Xiaomi mide 50 pulgadas y se vende a precio de ganga en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-4k-55-pulgadas-rebaja-amazon-967539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/xiaomi-mi-tv-p1-2330603.jpg' alt='Ok, Google, pon Netflix: este televisor 4K de Xiaomi mide 50 pulgadas y se vende a precio de ganga en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413'>Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gracias-microsoft-edge-no-te-escapara-ninguna-oferta-estas-navidades-968413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/actualizacion-edge-2539455.jpg' alt='Gracias a Microsoft Edge no se te escapará ninguna oferta estas Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409'>Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plush-pie-smart-pet-2539437.jpg' alt='Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-pro-oferta-estore-968003'>Este smartwatch deportivo de Huawei está a precio de derribo, por 169 euros y con todo lo que se puede pedir a un reloj de este tipo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-pro-oferta-estore-968003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-watch-gt-2-pro-2328405.jpg' alt='Este smartwatch deportivo de Huawei está a precio de derribo, por 169 euros y con todo lo que se puede pedir a un reloj de este tipo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383'>Apple patenta su propia Surface Neo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-patenta-propia-surface-neo-968383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/surface-neo-2539381.jpg' alt='Apple patenta su propia Surface Neo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609'>Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-samsung-galaxy-note-20-2033095.jpg' alt='Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday' />
     </a>
 </div>
 
