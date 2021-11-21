@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409'>Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acaba-lanzar-juguete-inteligente-perfecto-gato-968409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/plush-pie-smart-pet-2539437.jpg' alt='Xiaomi acaba de lanzar el juguete inteligente perfecto para tu gato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391'>Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-50-tiene-precio-record-cuesta-solo-549-euros-tiene-android-tv-968391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tcl-55c722-2539385.jpg' alt='Este televisor QLED de 50" tiene precio de récord: cuesta solo 549 euros y tiene Android TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609'>Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferton-samsung-galaxy-note-20-5g-mitad-precio-amazon-black-friday-965609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-samsung-galaxy-note-20-2033095.jpg' alt='Ofertón en el Samsung Galaxy Note 20 5G, que está a mitad de precio en Amazon para calentar el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047'>Las 20 mejores películas actuales que puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-peliculas-actuales-puedes-ver-amazon-prime-video-965047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amazon-prime-video-2095397.jpg' alt='Las 20 mejores películas actuales que puedes ver en Amazon Prime Video' />
     </a>
 </div>
 
