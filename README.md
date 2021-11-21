@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747'>Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-i-perfecto-estado-vende-500000-dolares-expertos-escandalizan-ganga-2533043.jpg' alt='Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459'>La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sonda-solar-parker-bate-record-velocidad-objeto-creado-ser-humano-madrid-barcelona-3-segundos-2539513.jpg' alt='La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119'>Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/wd-sn550-2175819.jpg' alt='Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-wifi-7-ces-2022-968443'>Mediatek presentará WiFi 7 en CES 2022, y asegura que será más rápido que el cable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-wifi-7-ces-2022-968443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-presentara-wifi-7-ces-2022-asegura-sera-rapido-cable-2539475.jpg' alt='Mediatek presentará WiFi 7 en CES 2022, y asegura que será más rápido que el cable' />
     </a>
 </div>
 
