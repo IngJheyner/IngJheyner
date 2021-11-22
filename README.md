@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965'>El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-2540439.jpg' alt='El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791'>El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973'>La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/caja-rural-2540379.jpg' alt='La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779'>Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-vivobook-15-oled-2539967.jpg' alt='Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€' />
     </a>
 </div>
 
