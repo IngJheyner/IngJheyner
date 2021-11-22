@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791'>El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-televisores-anade-caracteristica-muy-molesta-968963'>La nueva actualización de YouTube para televisores añade una característica muy molesta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-televisores-anade-caracteristica-muy-molesta-968963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='La nueva actualización de YouTube para televisores añade una característica muy molesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/querias-cambiar-aspecto-ps5-ve-olvidandote-porque-sony-ha-patentado-carcasa-968985'>Si querías cambiar el aspecto de tu PS5 ve olvidándote porque Sony ha patentado su carcasa</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/querias-cambiar-aspecto-ps5-ve-olvidandote-porque-sony-ha-patentado-carcasa-968985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Si querías cambiar el aspecto de tu PS5 ve olvidándote porque Sony ha patentado su carcasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973'>La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/caja-rural-2540379.jpg' alt='La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779'>Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-vivobook-15-oled-2539967.jpg' alt='Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-deja-entrever-smartphone-pantalla-enrollable-web-968905'>Samsung deja entrever un smartphone con pantalla enrollable en su web</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-deja-entrever-smartphone-pantalla-enrollable-web-968905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/pantalla-enrollable.jpg' alt='Samsung deja entrever un smartphone con pantalla enrollable en su web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883'>Lidl revoluciona algo tan sencillo como su ticket de compra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lidl-noche-2180819.jpg' alt='Lidl revoluciona algo tan sencillo como su ticket de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799'>Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-amazon-fire-hd-10-2451775.jpg' alt='Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday' />
     </a>
 </div>
 
