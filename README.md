@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973'>La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/caja-rural-2540379.jpg' alt='La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779'>Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-vivobook-15-oled-2539967.jpg' alt='Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799'>Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-amazon-fire-hd-10-2451775.jpg' alt='Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687'>Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica' />
     </a>
 </div>
 
