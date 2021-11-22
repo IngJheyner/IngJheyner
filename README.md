@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-funcion-justifica-sola-actualizar-miles-usuarios-windows-10-968767'>Windows 11 tiene una función que justifica por sí sola actualizar para miles de usuarios de Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-funcion-justifica-sola-actualizar-miles-usuarios-windows-10-968767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-portatil-windows-11-2493987.jpg' alt='Windows 11 tiene una función que justifica por sí sola actualizar para miles de usuarios de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/salvador-quiere-crear-primera-ciudad-mundo-basada-bitcoin-encima-volcan-968719'>El Salvador quiere crear la primera ciudad del mundo basada en Bitcoin encima de un volcán</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/salvador-quiere-crear-primera-ciudad-mundo-basada-bitcoin-encima-volcan-968719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/minado-bitcoin-salvador-volcan-2490179.jpg' alt='El Salvador quiere crear la primera ciudad del mundo basada en Bitcoin encima de un volcán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-boton-reproduccion-aleatoria-spotify-no-culpa-pregunta-adele-968677'>Si no encuentras el botón de reproducción aleatoria en Spotify, no es tu culpa, pregunta a Adele</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-boton-reproduccion-aleatoria-spotify-no-culpa-pregunta-adele-968677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adele-spotify-2539751.jpg' alt='Si no encuentras el botón de reproducción aleatoria en Spotify, no es tu culpa, pregunta a Adele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009'>Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD</a></h4>
     <a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/battlefield-2042-2485071.jpg' alt='Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653'>Así es el avión eléctrico más rápido del mercado según Rolls-Royce</a></h4>
     <a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/avion-electrico-rolls-royce-2539727.jpg' alt='Así es el avión eléctrico más rápido del mercado según Rolls-Royce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/activa-modo-experimental-chrome-ver-menus-como-windows-11-968661'>Activa el modo experimental de Chrome para ver los menús como en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/activa-modo-experimental-chrome-ver-menus-como-windows-11-968661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/chrome-2490195.jpg' alt='Activa el modo experimental de Chrome para ver los menús como en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017'>Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/microsoft-surface-laptop-go-2219113.jpg' alt='Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2539529.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
