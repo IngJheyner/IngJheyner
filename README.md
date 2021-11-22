@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669'>Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tv-lg-oled-2511113.jpg' alt='Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trampa-monedas-como-shiba-inu-dogecoin-consiguen-hacerse-tan-populares-968753'>La trampa con la que monedas como Shiba Inu y Dogecoin consiguen hacerse tan populares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trampa-monedas-como-shiba-inu-dogecoin-consiguen-hacerse-tan-populares-968753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='La trampa con la que monedas como Shiba Inu y Dogecoin consiguen hacerse tan populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-friday-aliexpress-aliexpress-plaza-968671'>Estas son las mejores ofertas de Black Friday en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-friday-aliexpress-aliexpress-plaza-968671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aliexpress-black-friday-2539863.jpg' alt='Estas son las mejores ofertas de Black Friday en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-funcion-justifica-sola-actualizar-miles-usuarios-windows-10-968767'>Windows 11 tiene una función que justifica por sí sola actualizar para miles de usuarios de Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-funcion-justifica-sola-actualizar-miles-usuarios-windows-10-968767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-portatil-windows-11-2493987.jpg' alt='Windows 11 tiene una función que justifica por sí sola actualizar para miles de usuarios de Windows 10' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/salvador-quiere-crear-primera-ciudad-mundo-basada-bitcoin-encima-volcan-968719'>El Salvador quiere crear la primera ciudad del mundo basada en Bitcoin encima de un volcán</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/salvador-quiere-crear-primera-ciudad-mundo-basada-bitcoin-encima-volcan-968719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/minado-bitcoin-salvador-volcan-2490179.jpg' alt='El Salvador quiere crear la primera ciudad del mundo basada en Bitcoin encima de un volcán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-boton-reproduccion-aleatoria-spotify-no-culpa-pregunta-adele-968677'>Si no encuentras el botón de reproducción aleatoria en Spotify, no es tu culpa, pregunta a Adele</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-boton-reproduccion-aleatoria-spotify-no-culpa-pregunta-adele-968677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adele-spotify-2539751.jpg' alt='Si no encuentras el botón de reproducción aleatoria en Spotify, no es tu culpa, pregunta a Adele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009'>Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/battlefield-2042-2485071.jpg' alt='Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653'>Así es el avión eléctrico más rápido del mercado según Rolls-Royce</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/avion-electrico-rolls-royce-2539727.jpg' alt='Así es el avión eléctrico más rápido del mercado según Rolls-Royce' />
     </a>
 </div>
 
