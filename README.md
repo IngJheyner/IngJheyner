@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869'>La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-60-2540193.jpg' alt='La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817'>Haz un logo vectorial desde cualquier imagen en esta web gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/codigo-vectorial-2540143.jpg' alt='Haz un logo vectorial desde cualquier imagen en esta web gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-oppo-reno-7-sorprende-diseno-968827'>Así será la nueva familia Oppo Reno 7: sorprende su diseño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-oppo-reno-7-sorprende-diseno-968827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Así será la nueva familia Oppo Reno 7: sorprende su diseño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669'>Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tv-lg-oled-2511113.jpg' alt='Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trampa-monedas-como-shiba-inu-dogecoin-consiguen-hacerse-tan-populares-968753'>La trampa con la que monedas como Shiba Inu y Dogecoin consiguen hacerse tan populares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trampa-monedas-como-shiba-inu-dogecoin-consiguen-hacerse-tan-populares-968753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='La trampa con la que monedas como Shiba Inu y Dogecoin consiguen hacerse tan populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-friday-aliexpress-aliexpress-plaza-968671'>Estas son las mejores ofertas de Black Friday en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-friday-aliexpress-aliexpress-plaza-968671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aliexpress-black-friday-2539863.jpg' alt='Estas son las mejores ofertas de Black Friday en AliExpress' />
     </a>
 </div>
 
