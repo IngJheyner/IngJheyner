@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061'>Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adios-numeros-qualcomm-anuncia-cambio-importante-procesadores-snapdragon-2540535.jpg' alt='Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053'>El truco más efectivo para ahorrar es también el más sencillo, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-efectivo-ahorrar-tambien-sencillo-expertos-2540525.jpg' alt='El truco más efectivo para ahorrar es también el más sencillo, según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003'>Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037'>Así es el nuevo permiso de conducir B1 que quiere crear la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='Así es el nuevo permiso de conducir B1 que quiere crear la DGT' />
     </a>
 </div>
 
