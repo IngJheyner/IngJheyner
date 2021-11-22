@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049'>Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-ve-todos-dias-reloj-garmin-carga-solar-100-euros-descuento-2540511.jpg' alt='Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025'>OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-2540497.jpg' alt='OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003'>Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035'>Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-dos-nuevas-caracteristicas-destinadas-mejorar-seguridad-usuarios-969005'>WhatsApp se actualiza con dos nuevas características destinadas a mejorar la seguridad de los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-dos-nuevas-caracteristicas-destinadas-mejorar-seguridad-usuarios-969005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp se actualiza con dos nuevas características destinadas a mejorar la seguridad de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965'>El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-2540439.jpg' alt='El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos' />
     </a>
 </div>
 
