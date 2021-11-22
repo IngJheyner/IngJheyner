@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017'>Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/microsoft-surface-laptop-go-2219113.jpg' alt='Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2539529.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459'>La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sonda-solar-parker-bate-record-velocidad-objeto-creado-ser-humano-madrid-barcelona-3-segundos-2539513.jpg' alt='La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455'>La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-plegable-xiaomi-recibe-descuento-500-euros-queda-precio-bici-estandar-2539503.jpg' alt='La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar ' />
     </a>
 </div>
 
