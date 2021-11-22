@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053'>El truco más efectivo para ahorrar es también el más sencillo, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-efectivo-ahorrar-tambien-sencillo-expertos-2540525.jpg' alt='El truco más efectivo para ahorrar es también el más sencillo, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049'>Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-ve-todos-dias-reloj-garmin-carga-solar-100-euros-descuento-2540511.jpg' alt='Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037'>Así es el nuevo permiso de conducir B1 que quiere crear la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='Así es el nuevo permiso de conducir B1 que quiere crear la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035'>Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago' />
     </a>
 </div>
 
