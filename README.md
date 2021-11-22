@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883'>Lidl revoluciona algo tan sencillo como su ticket de compra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lidl-noche-2180819.jpg' alt='Lidl revoluciona algo tan sencillo como su ticket de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799'>Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/productos-ambiciosos-amazon-baja-precio-primera-vez-justo-antes-black-friday-966799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-amazon-fire-hd-10-2451775.jpg' alt='Uno de los productos más ambiciosos de Amazon baja de precio por primera vez justo antes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687'>Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869'>La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-60-2540193.jpg' alt='La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817'>Haz un logo vectorial desde cualquier imagen en esta web gratis</a></h4>
     <a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/codigo-vectorial-2540143.jpg' alt='Haz un logo vectorial desde cualquier imagen en esta web gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-oppo-reno-7-sorprende-diseno-968827'>Así será la nueva familia Oppo Reno 7: sorprende su diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-oppo-reno-7-sorprende-diseno-968827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Así será la nueva familia Oppo Reno 7: sorprende su diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tres-unicas-circunstancias-puedes-utilizar-claxon-riesgo-ser-multado-dgt-968765'>Las tres únicas circunstancias en las que puedes utilizar el claxon sin riesgo a ser multado según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tres-unicas-circunstancias-puedes-utilizar-claxon-riesgo-ser-multado-dgt-968765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-volante-2073487.jpg' alt='Las tres únicas circunstancias en las que puedes utilizar el claxon sin riesgo a ser multado según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669'>Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-televisor-oled-lg-ahora-barato-baja-733-euros-tiene-envio-gratis-espana-968669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tv-lg-oled-2511113.jpg' alt='Chollo en un televisor OLED de LG que ahora sí que es barato: baja a 733 euros y tiene envío gratis desde España' />
     </a>
 </div>
 
