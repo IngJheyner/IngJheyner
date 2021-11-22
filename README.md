@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779'>Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espectacular-portatil-asus-pantalla-oled-core-i7-12-gb-ram-ahora-cuesta-menos-800eu-968779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-vivobook-15-oled-2539967.jpg' alt='Este espectacular portátil Asus con pantalla OLED, Core i7 y 12 GB de RAM ahora cuesta menos de 800€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-deja-entrever-smartphone-pantalla-enrollable-web-968905'>Samsung deja entrever un smartphone con pantalla enrollable en su web</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-deja-entrever-smartphone-pantalla-enrollable-web-968905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/pantalla-enrollable.jpg' alt='Samsung deja entrever un smartphone con pantalla enrollable en su web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883'>Lidl revoluciona algo tan sencillo como su ticket de compra</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-algo-tan-sencillo-como-ticket-compra-968883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lidl-noche-2180819.jpg' alt='Lidl revoluciona algo tan sencillo como su ticket de compra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687'>Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/aunque-sigue-haber-stock-ps5-ya-podemos-ver-como-diseno-como-fabrica-968687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Aunque sigue sin haber stock de PS5 ya podemos ver cómo se diseñó y cómo se fabrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869'>La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/familia-honor-60-anunciara-1-diciembre-tres-modelos-todos-publicos-968869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-60-2540193.jpg' alt='La familia Honor 60 se anunciará el 1 de diciembre con tres modelos para todos los públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817'>Haz un logo vectorial desde cualquier imagen en esta web gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/haz-logo-vectorial-cualquier-imagen-web-gratis-968817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/codigo-vectorial-2540143.jpg' alt='Haz un logo vectorial desde cualquier imagen en esta web gratis' />
     </a>
 </div>
 
