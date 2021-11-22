@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003'>Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037'>Así es el nuevo permiso de conducir B1 que quiere crear la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-permiso-conducir-b1-quiere-crear-dgt-969037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='Así es el nuevo permiso de conducir B1 que quiere crear la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035'>Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traga-airpod-error-graba-ocurre-interior-estomago-969035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Se traga un AirPod por error y graba lo que ocurre en el interior de su estómago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-dos-nuevas-caracteristicas-destinadas-mejorar-seguridad-usuarios-969005'>WhatsApp se actualiza con dos nuevas características destinadas a mejorar la seguridad de los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualiza-dos-nuevas-caracteristicas-destinadas-mejorar-seguridad-usuarios-969005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp se actualiza con dos nuevas características destinadas a mejorar la seguridad de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965'>El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-968965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-f4-gt-estaria-cada-vez-cerca-llegaria-pantalla-disfrutar-videojuegos-2540439.jpg' alt='El Poco F4 GT estaría cada vez más cerca y llegaría con una pantalla para disfrutar de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791'>El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-satisfyer-pro-2-next-generation-oferta-amazon-968791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El nuevo Satisfyer Pro 2 Next Generation ya está disponible en Amazon a precio de chollo, solo 18,99€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-televisores-anade-caracteristica-muy-molesta-968963'>La nueva actualización de YouTube para televisores añade una característica muy molesta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-televisores-anade-caracteristica-muy-molesta-968963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='La nueva actualización de YouTube para televisores añade una característica muy molesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/querias-cambiar-aspecto-ps5-ve-olvidandote-porque-sony-ha-patentado-carcasa-968985'>Si querías cambiar el aspecto de tu PS5 ve olvidándote porque Sony ha patentado su carcasa</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/querias-cambiar-aspecto-ps5-ve-olvidandote-porque-sony-ha-patentado-carcasa-968985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Si querías cambiar el aspecto de tu PS5 ve olvidándote porque Sony ha patentado su carcasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973'>La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-nueva-estafa-donde-piratas-hacen-pasar-caja-rural-968973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/caja-rural-2540379.jpg' alt='La Policía Nacional alerta de una nueva estafa donde los piratas se hacen pasar por Caja Rural' />
     </a>
 </div>
 
