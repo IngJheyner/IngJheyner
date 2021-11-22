@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009'>Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/consigue-gratis-mejores-juegos-2021-oferta-amazon-ssd-968009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/battlefield-2042-2485071.jpg' alt='Consigue gratis uno de los mejores juegos de 2021 con esta oferta de Amazon en un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653'>Así es el avión eléctrico más rápido del mercado según Rolls-Royce</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/avion-electrico-rapido-mercado-rolls-royce-968653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/avion-electrico-rolls-royce-2539727.jpg' alt='Así es el avión eléctrico más rápido del mercado según Rolls-Royce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/activa-modo-experimental-chrome-ver-menus-como-windows-11-968661'>Activa el modo experimental de Chrome para ver los menús como en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/activa-modo-experimental-chrome-ver-menus-como-windows-11-968661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/chrome-2490195.jpg' alt='Activa el modo experimental de Chrome para ver los menús como en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017'>Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surface-go-oferta-amazon-968017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/microsoft-surface-laptop-go-2219113.jpg' alt='Actualízate a Windows 11 ya con este portátil barato de Microsoft que Amazon tiene en oferta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2539529.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/5-motivos-disney-plus-merece-mucho-pena-ademas-ser-plataforma-barata-968007'>5 motivos por los que Disney Plus merece mucho la pena (además de por ser la plataforma más barata)</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/5-motivos-disney-plus-merece-mucho-pena-ademas-ser-plataforma-barata-968007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/disney-plus-computerhoy-1900265.jpg' alt='5 motivos por los que Disney Plus merece mucho la pena (además de por ser la plataforma más barata)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747'>Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-i-perfecto-estado-vende-500000-dolares-expertos-escandalizan-ganga-2533043.jpg' alt='Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459'>La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sonda-solar-parker-record-velocidad-968459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sonda-solar-parker-bate-record-velocidad-objeto-creado-ser-humano-madrid-barcelona-3-segundos-2539513.jpg' alt='La sonda solar Parker bate el récord de velocidad de un objeto creado por el ser humano: de Madrid a Barcelona en 3 segundos' />
     </a>
 </div>
 
