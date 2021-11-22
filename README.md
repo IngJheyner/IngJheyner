@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-968465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2539529.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/5-motivos-disney-plus-merece-mucho-pena-ademas-ser-plataforma-barata-968007'>5 motivos por los que Disney Plus merece mucho la pena (además de por ser la plataforma más barata)</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/5-motivos-disney-plus-merece-mucho-pena-ademas-ser-plataforma-barata-968007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/disney-plus-computerhoy-1900265.jpg' alt='5 motivos por los que Disney Plus merece mucho la pena (además de por ser la plataforma más barata)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747'>Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-i-perfecto-estado-500000-dolares-964747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-i-perfecto-estado-vende-500000-dolares-expertos-escandalizan-ganga-2533043.jpg' alt='Un Apple I en perfecto estado se vende por 500.000 dólares, y los expertos se escandalizan: es una ganga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455'>La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar </a></h4>
     <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-xiaomi-descuento-500-euros-chollo-968455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-plegable-xiaomi-recibe-descuento-500-euros-queda-precio-bici-estandar-2539503.jpg' alt='La bicicleta eléctrica plegable de Xiaomi recibe un descuento de 500 euros y se queda a precio de bici estándar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449'>Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-video-360-grados-968449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-pixel-6a-algunos-cambios-importantes-2539495.jpg' alt='Se filtra el Pixel 6a en todo su esplendor, con un vídeo de 360 grados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119'>Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-ultrarrapido-amazon-ha-dejado-casi-mitad-precio-967119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/wd-sn550-2175819.jpg' alt='Revive tu viejo ordenador con este SSD ultrarrápido que Amazon ha dejado casi a mitad de precio' />
     </a>
 </div>
 
