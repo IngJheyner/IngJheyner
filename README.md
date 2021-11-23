@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339'>Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301579.jpg' alt='Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585'>No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-sugerencias-mantenerte-concentrado-mientras-trabajas-969333'>Consejos y sugerencias para mantenerte concentrado mientras trabajas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejos-sugerencias-mantenerte-concentrado-mientras-trabajas-969333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-teletrabajo-2175241.jpg' alt='Consejos y sugerencias para mantenerte concentrado mientras trabajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573'>Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/game-boy-advance-2541401.jpg' alt='Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343'>9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/aplicaciones-android-2301997.jpg' alt='9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/liquidacion-huawei-freebuds-pro-amazon-bajan-99-euros-tres-colores-966873'>Liquidación en los Huawei FreeBuds Pro en Amazon: bajan a 99 euros en sus tres colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/liquidacion-huawei-freebuds-pro-amazon-bajan-99-euros-tres-colores-966873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233865.jpeg' alt='Liquidación en los Huawei FreeBuds Pro en Amazon: bajan a 99 euros en sus tres colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425'>Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-2467719.jpg' alt='Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515'>La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/dni-40-2426187.jpg' alt='La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho' />
     </a>
 </div>
 
