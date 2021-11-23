@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063'>El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-viral-definitivo-desinfectar-lavavajillas-productos-especializados-2540537.jpg' alt='El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061'>Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adios-numeros-qualcomm-anuncia-cambio-importante-procesadores-snapdragon-2540535.jpg' alt='Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025'>OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-2540497.jpg' alt='OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003'>Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-oppo-podrian-presentar-coches-electricos-mucho-antes-esperado-969003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='Xiaomi y OPPO podrían presentar coches eléctricos mucho antes de lo esperado' />
     </a>
 </div>
 
