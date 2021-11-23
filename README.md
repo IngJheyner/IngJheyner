@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2540723.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-week-ebay-968983'>Freidora Xiaomi a precio de ganga y otros grandes chollos de la Black Week de eBay</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-week-ebay-968983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-smart-air-fryer-2540421.jpg' alt='Freidora Xiaomi a precio de ganga y otros grandes chollos de la Black Week de eBay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pazzi-pizzeria-autonoma-robot-pizzero-969261'>La primera pizzería autónoma con robots pizzeros triunfa y abre su segundo local en París</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pazzi-pizzeria-autonoma-robot-pizzero-969261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/primera-pizzeria-autonoma-robots-pizzeros-triunfa-abre-segundo-local-paris-2540721.jpg' alt='La primera pizzería autónoma con robots pizzeros triunfa y abre su segundo local en París' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837'>El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cocina-gas-2540121.jpg' alt='El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063'>El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-viral-definitivo-desinfectar-lavavajillas-productos-especializados-2540537.jpg' alt='El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061'>Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-cambios-importantes-snapdragon-nomenclatura-969061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adios-numeros-qualcomm-anuncia-cambio-importante-procesadores-snapdragon-2540535.jpg' alt='Adiós a los números: Qualcomm anuncia dos cambios importantes en sus procesadores Snapdragon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053'>El truco más efectivo para ahorrar es también el más sencillo, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-efectivo-sencillo-ahorrar-dinero-969053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-efectivo-ahorrar-tambien-sencillo-expertos-2540525.jpg' alt='El truco más efectivo para ahorrar es también el más sencillo, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049'>Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-ve-todos-dias-reloj-garmin-carga-solar-100-euros-descuento-2540511.jpg' alt='Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento' />
     </a>
 </div>
 
