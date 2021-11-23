@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/influencia-youtube-espana-aportacion-313-millones-pib-969357'>Así es la influencia de YouTube en España: una aportación de 313 millones de euros al PIB</a></h4>
+    <a href='https://computerhoy.com/noticias/influencia-youtube-espana-aportacion-313-millones-pib-969357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tv-youtube-2149873.jpg' alt='Así es la influencia de YouTube en España: una aportación de 313 millones de euros al PIB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hace-viral-busqueda-nombres-urban-dictionary-inyeccion-moral-cualquiera-969321'>Se hace viral la búsqueda de nombres en Urban Dictionary: una inyección de moral para cualquiera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hace-viral-busqueda-nombres-urban-dictionary-inyeccion-moral-cualquiera-969321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/diccionario-2145215.jpg' alt='Se hace viral la búsqueda de nombres en Urban Dictionary: una inyección de moral para cualquiera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-solo-169-euros-windows-quieres-ordenador-barato-chollo-necesitas-968041'>Un Mini PC de solo 169 euros, y con Windows: si quieres un ordenador barato, este es el chollo que necesitas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-solo-169-euros-windows-quieres-ordenador-barato-chollo-necesitas-968041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chuwi-herobox-pro-mini-2446843.jpg' alt='Un Mini PC de solo 169 euros, y con Windows: si quieres un ordenador barato, este es el chollo que necesitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375'>La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sillas-ninos-2540923.jpg' alt='La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329'>Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce</a></h4>
     <a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/deberias-tomar-espirulina-alimento-astronautas-2263245.jpg' alt='Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311'>Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lector-huellas-2540805.jpg' alt='Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fragmentacion-ecosistema-android-version-popular-10-aunque-ya-ha-salido-android-12-969301'>La fragmentación del ecosistema Android: la versión más popular es la 10 aunque ya ha salido Android 12 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fragmentacion-ecosistema-android-version-popular-10-aunque-ya-ha-salido-android-12-969301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/android-q-queda-postre-llamara-android-10-secas.jpg' alt='La fragmentación del ecosistema Android: la versión más popular es la 10 aunque ya ha salido Android 12 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297'>La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas' />
     </a>
 </div>
 
