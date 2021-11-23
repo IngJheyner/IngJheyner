@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663'>Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-10-pro-2527717.jpg' alt='Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-prepara-pixel-6a-llegaria-version-algo-inferior-procesador-google-tensor-969665'>Google prepara el Pixel 6a y llegaría con una versión algo inferior de su procesador Google Tensor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-prepara-pixel-6a-llegaria-version-algo-inferior-procesador-google-tensor-969665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Google prepara el Pixel 6a y llegaría con una versión algo inferior de su procesador Google Tensor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-969681'>Los auriculares Huawei FreeBuds Studio con audio profesional y cancelación de ruido premium, solo cuestan 139 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-969681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Los auriculares Huawei FreeBuds Studio con audio profesional y cancelación de ruido premium, solo cuestan 139 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-congela-millones-televisores-inteligentes-969657'>YouTube se congela en millones de televisores inteligentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-congela-millones-televisores-inteligentes-969657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/ver-television-2273531.jpg' alt='YouTube se congela en millones de televisores inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643'>Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/detenidos-infectar-22-ordenadores-expuestos-media-markt-corte-ingles-minar-criptomonedas-2541721.jpg' alt='Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339'>Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301579.jpg' alt='Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€' />
     </a>
 </div>
 
