@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643'>Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/detenidos-infectar-22-ordenadores-expuestos-media-markt-corte-ingles-minar-criptomonedas-2541721.jpg' alt='Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339'>Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301579.jpg' alt='Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573'>Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/game-boy-advance-2541401.jpg' alt='Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343'>9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/aplicaciones-android-2301997.jpg' alt='9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone' />
     </a>
 </div>
 
