@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425'>Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-2467719.jpg' alt='Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515'>La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/dni-40-2426187.jpg' alt='La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aldi-sorprende-smartwatch-monitor-frecuencia-cardiaca-oxigeno-solo-1499-euros-969533'>Aldi sorprende con su smartwatch con monitor de frecuencia cardíaca y oxígeno por solo 14,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aldi-sorprende-smartwatch-monitor-frecuencia-cardiaca-oxigeno-solo-1499-euros-969533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reloj-deportivo-aldi-2541315.jpg' alt='Aldi sorprende con su smartwatch con monitor de frecuencia cardíaca y oxígeno por solo 14,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-motivos-comprarlo-837441'>5 motivos por el que POCO X3 Pro es uno de los mejores móviles baratos de Xiaomi en estos momentos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-motivos-comprarlo-837441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2278545.jpg' alt='5 motivos por el que POCO X3 Pro es uno de los mejores móviles baratos de Xiaomi en estos momentos' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-ha-presentado-nuevo-vivo-y76-5g-mediatek-dimensity-700-8-gb-ram-carga-44-w-969511'>Vivo ha presentado su nuevo vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-ha-presentado-nuevo-vivo-y76-5g-mediatek-dimensity-700-8-gb-ram-carga-44-w-969511'>Vivo ha presentado su nuevo Vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-ha-presentado-nuevo-vivo-y76-5g-mediatek-dimensity-700-8-gb-ram-carga-44-w-969511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/smartphone-vivo-y76-5g-2541255.jpg' alt='Vivo ha presentado su nuevo vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/matebook-2022-llega-como-tablet-windows-11-hacer-frente-ipad-pro-surface-969451'>MateBook E 2022 llega como tablet Windows 11 para hacer frente al iPad Pro y al Surface</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/matebook-2022-llega-como-tablet-windows-11-hacer-frente-ipad-pro-surface-969451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/matebook-2022-2541117.jpg' alt='MateBook E 2022 llega como tablet Windows 11 para hacer frente al iPad Pro y al Surface' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-tiene-bateria-igual-55-km-autonomia-ahora-muy-rebajado-precio-amazon-968359'>Este patinete tiene una batería sin igual: 55 km de autonomía, y ahora está muy rebajado de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-tiene-bateria-igual-55-km-autonomia-ahora-muy-rebajado-precio-amazon-968359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/smartgyro-xtreme-baggio_5.jpg' alt='Este patinete tiene una batería sin igual: 55 km de autonomía, y ahora está muy rebajado de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-doble-usb-coche-lidl-menos-5-euros-soporte-quick-charge-969427'>Cargador doble USB para coche de LIDL por menos de 5 euros y soporte Quick Charge</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cargador-doble-usb-coche-lidl-menos-5-euros-soporte-quick-charge-969427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-coche-2541057.jpg' alt='Cargador doble USB para coche de LIDL por menos de 5 euros y soporte Quick Charge' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/smartphone-vivo-y76-5g-2541255.jpg' alt='Vivo ha presentado su nuevo Vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W' />
     </a>
 </div>
 
