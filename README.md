@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-969681'>Los auriculares Huawei FreeBuds Studio con audio profesional y cancelación de ruido premium, solo cuestan 139 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-969681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Los auriculares Huawei FreeBuds Studio con audio profesional y cancelación de ruido premium, solo cuestan 139 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-llevar-funciones-aplaudidas-mensajes-audio-969661'>WhatsApp quiere llevar una de sus funciones más aplaudidas a los mensajes de audio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-llevar-funciones-aplaudidas-mensajes-audio-969661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp quiere llevar una de sus funciones más aplaudidas a los mensajes de audio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339'>Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-oferta-black-friday-amazon-969339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301579.jpg' alt='Uno de los móviles más potentes de POCO con Snapdraon 870 y pantalla de 120Hz ya se puede comprar por tan solo 299€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585'>No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas' />
     </a>
 </div>
 
