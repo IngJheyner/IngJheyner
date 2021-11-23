@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375'>La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sillas-ninos-2540923.jpg' alt='La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329'>Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/deberias-tomar-espirulina-alimento-astronautas-2263245.jpg' alt='Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311'>Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lector-huellas-2540805.jpg' alt='Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297'>La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-solo-300-euros-vacia-deposito-automaticamente-968387'>Este robot aspirador de solo 300 euros vacía su depósito automáticamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-solo-300-euros-vacia-deposito-automaticamente-968387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-2290-ultra-home-2539383.jpg' alt='Este robot aspirador de solo 300 euros vacía su depósito automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2540723.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
