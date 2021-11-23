@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311'>Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demuestran-facil-hackear-sensor-huellas-photoshop-pegamento-969311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lector-huellas-2540805.jpg' alt='Demuestran lo fácil que es hackear un sensor de huellas con Photoshop y pegamento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fragmentacion-ecosistema-android-version-popular-10-aunque-ya-ha-salido-android-12-969301'>La fragmentación del ecosistema Android: la versión más popular es la 10 aunque ya ha salido Android 12 </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fragmentacion-ecosistema-android-version-popular-10-aunque-ya-ha-salido-android-12-969301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/android-q-queda-postre-llamara-android-10-secas.jpg' alt='La fragmentación del ecosistema Android: la versión más popular es la 10 aunque ya ha salido Android 12 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297'>La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-spacex-han-aliado-evitar-armagedon-hoy-comienzan-pruebas-969297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='La NASA y SpaceX se han aliado para evitar el Armagedón: hoy comienzan las pruebas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-solo-300-euros-vacia-deposito-automaticamente-968387'>Este robot aspirador de solo 300 euros vacía su depósito automáticamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-solo-300-euros-vacia-deposito-automaticamente-968387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-2290-ultra-home-2539383.jpg' alt='Este robot aspirador de solo 300 euros vacía su depósito automáticamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-969263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2540723.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-week-ebay-968983'>Freidora Xiaomi a precio de ganga y otros grandes chollos de la Black Week de eBay</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-black-week-ebay-968983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-smart-air-fryer-2540421.jpg' alt='Freidora Xiaomi a precio de ganga y otros grandes chollos de la Black Week de eBay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pazzi-pizzeria-autonoma-robot-pizzero-969261'>La primera pizzería autónoma con robots pizzeros triunfa y abre su segundo local en París</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pazzi-pizzeria-autonoma-robot-pizzero-969261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/primera-pizzeria-autonoma-robots-pizzeros-triunfa-abre-segundo-local-paris-2540721.jpg' alt='La primera pizzería autónoma con robots pizzeros triunfa y abre su segundo local en París' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837'>El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cocina-gas-2540121.jpg' alt='El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo' />
     </a>
 </div>
 
