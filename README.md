@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573'>Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/game-boy-advance-2541401.jpg' alt='Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343'>9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-juegos-gratis-tienes-instalar-ya-mismo-smartphone-969343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/aplicaciones-android-2301997.jpg' alt='9 aplicaciones y juegos gratis que tienes que instalar ya mismo en tu smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/liquidacion-huawei-freebuds-pro-amazon-bajan-99-euros-tres-colores-966873'>Liquidación en los Huawei FreeBuds Pro en Amazon: bajan a 99 euros en sus tres colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/liquidacion-huawei-freebuds-pro-amazon-bajan-99-euros-tres-colores-966873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233865.jpeg' alt='Liquidación en los Huawei FreeBuds Pro en Amazon: bajan a 99 euros en sus tres colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425'>Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diferencias-bitcoin-altcoins-cual-mejor-opcion-invertir-969425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-2467719.jpg' alt='Diferencias entre Bitcoin y Altcoins: ¿cuál es la mejor opción para invertir?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515'>La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-advierte-peligrosisimo-mandar-dni-wallapop-similares-pasos-dar-evitar-riesgos-ya-has-hecho-969515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/dni-40-2426187.jpg' alt='La Guardia Civil advierte lo peligrosísimo de mandar el DNI por Wallapop y similares, y qué pasos dar para evitar riesgos si ya lo has hecho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aldi-sorprende-smartwatch-monitor-frecuencia-cardiaca-oxigeno-solo-1499-euros-969533'>Aldi sorprende con su smartwatch con monitor de frecuencia cardíaca y oxígeno por solo 14,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aldi-sorprende-smartwatch-monitor-frecuencia-cardiaca-oxigeno-solo-1499-euros-969533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reloj-deportivo-aldi-2541315.jpg' alt='Aldi sorprende con su smartwatch con monitor de frecuencia cardíaca y oxígeno por solo 14,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-motivos-comprarlo-837441'>5 motivos por el que POCO X3 Pro es uno de los mejores móviles baratos de Xiaomi en estos momentos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-motivos-comprarlo-837441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2278545.jpg' alt='5 motivos por el que POCO X3 Pro es uno de los mejores móviles baratos de Xiaomi en estos momentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-ha-presentado-nuevo-vivo-y76-5g-mediatek-dimensity-700-8-gb-ram-carga-44-w-969511'>Vivo ha presentado su nuevo Vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-ha-presentado-nuevo-vivo-y76-5g-mediatek-dimensity-700-8-gb-ram-carga-44-w-969511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/smartphone-vivo-y76-5g-2541255.jpg' alt='Vivo ha presentado su nuevo Vivo Y76 5G: Mediatek  Dimensity 700, 8 GB de RAM y carga de 44 W' />
     </a>
 </div>
 
