@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-tiene-bateria-igual-55-km-autonomia-ahora-muy-rebajado-precio-amazon-968359'>Este patinete tiene una batería sin igual: 55 km de autonomía, y ahora está muy rebajado de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-tiene-bateria-igual-55-km-autonomia-ahora-muy-rebajado-precio-amazon-968359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/smartgyro-xtreme-baggio_5.jpg' alt='Este patinete tiene una batería sin igual: 55 km de autonomía, y ahora está muy rebajado de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-doble-usb-coche-lidl-menos-5-euros-soporte-quick-charge-969427'>Cargador doble USB para coche de LIDL por menos de 5 euros y soporte Quick Charge</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cargador-doble-usb-coche-lidl-menos-5-euros-soporte-quick-charge-969427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-coche-2541057.jpg' alt='Cargador doble USB para coche de LIDL por menos de 5 euros y soporte Quick Charge' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/influencia-youtube-espana-aportacion-313-millones-pib-969357'>Así es la influencia de YouTube en España: una aportación de 313 millones de euros al PIB</a></h4>
     <a href='https://computerhoy.com/noticias/influencia-youtube-espana-aportacion-313-millones-pib-969357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tv-youtube-2149873.jpg' alt='Así es la influencia de YouTube en España: una aportación de 313 millones de euros al PIB' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-solo-169-euros-windows-quieres-ordenador-barato-chollo-necesitas-968041'>Un Mini PC de solo 169 euros, y con Windows: si quieres un ordenador barato, este es el chollo que necesitas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-solo-169-euros-windows-quieres-ordenador-barato-chollo-necesitas-968041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chuwi-herobox-pro-mini-2446843.jpg' alt='Un Mini PC de solo 169 euros, y con Windows: si quieres un ordenador barato, este es el chollo que necesitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375'>La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-tienes-estas-sillas-retencion-infantil-mejor-cambiala-son-peligrosas-969375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sillas-ninos-2540923.jpg' alt='La DGT avisa: si tienes una de estas sillas de retención infantil mejor cámbiala, son peligrosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329'>Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aprobado-europa-nuevo-alimento-convierte-sabor-acido-dulce-969329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/deberias-tomar-espirulina-alimento-astronautas-2263245.jpg' alt='Aprobado en Europa un nuevo alimento que convierte el sabor ácido en dulce' />
     </a>
 </div>
 
