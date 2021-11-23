@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837'>El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-infalible-limpiar-rejillas-cocina-mover-solo-dedo-968837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cocina-gas-2540121.jpg' alt='El truco infalible para limpiar las rejillas de la cocina sin mover un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063'>El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-definitivo-desinfectar-lavavajillas-eliminar-malos-olores-969063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-viral-definitivo-desinfectar-lavavajillas-productos-especializados-2540537.jpg' alt='El truco viral definitivo para desinfectar el lavavajillas y eliminar los malos olores, sin productos especializados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049'>Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-garmin-instinct-solar-carga-solar-descuento-969049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-ve-todos-dias-reloj-garmin-carga-solar-100-euros-descuento-2540511.jpg' alt='Esto no se ve todos los días: un reloj de Garmin con carga solar, y 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025'>OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-969025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-podria-estar-preparando-smartphone-sistema-plegado-totalmente-innovador-2540497.jpg' alt='OnePlus podría estar preparando un smartphone con un sistema de plegado totalmente innovador' />
     </a>
 </div>
 
