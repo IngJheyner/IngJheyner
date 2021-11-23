@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-llevar-funciones-aplaudidas-mensajes-audio-969661'>WhatsApp quiere llevar una de sus funciones más aplaudidas a los mensajes de audio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-llevar-funciones-aplaudidas-mensajes-audio-969661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp quiere llevar una de sus funciones más aplaudidas a los mensajes de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-congela-millones-televisores-inteligentes-969657'>YouTube se congela en millones de televisores inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-congela-millones-televisores-inteligentes-969657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/ver-television-2273531.jpg' alt='YouTube se congela en millones de televisores inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643'>Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detenidos-infectar-22-ordenadores-mediamarkt-corte-ingles-minar-criptomonedas-969643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/detenidos-infectar-22-ordenadores-expuestos-media-markt-corte-ingles-minar-criptomonedas-2541721.jpg' alt='Detenidos por infectar 22 ordenadores expuestos en MediaMarkt y El Corte Inglés, para minar criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585'>No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-era-impresion-tercer-trimestre-2021-fue-peor-tarjetas-graficas-969585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='No era impresión tuya: el tercer trimestre de 2021 fue el peor para las tarjetas gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-sugerencias-mantenerte-concentrado-mientras-trabajas-969333'>Consejos y sugerencias para mantenerte concentrado mientras trabajas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejos-sugerencias-mantenerte-concentrado-mientras-trabajas-969333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-teletrabajo-2175241.jpg' alt='Consejos y sugerencias para mantenerte concentrado mientras trabajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573'>Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/han-personalizado-game-boy-advance-mueva-juegos-playstation-969573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/game-boy-advance-2541401.jpg' alt='Así han personalizado la Game Boy Advance para que mueva juegos de PlayStation' />
     </a>
 </div>
 
