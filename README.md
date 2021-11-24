@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129'>Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gracias-ia-puedes-hablar-einstein-2301525.jpg' alt='Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/utilizas-android-auto-apple-carplay-no-te-olvides-detalle-piensas-vender-coche-970087'>Si utilizas Android Auto o Apple CarPlay no te olvides de este detalle si piensas vender tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/utilizas-android-auto-apple-carplay-no-te-olvides-detalle-piensas-vender-coche-970087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-carplay.jpg' alt='Si utilizas Android Auto o Apple CarPlay no te olvides de este detalle si piensas vender tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281'>La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657'>Razer Pro Click Mini, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-razer-pro-click-mini-2542601.jpg' alt='Razer Pro Click Mini, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081'>¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993'>La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/cadenas-coche-nieve.jpg' alt='La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calendarios-adviento-led-lidl-madera-reutilizables-podras-rellenarlos-quieras-970055'>Calendarios de adviento LED de LIDL: de madera, reutilizables y podrás rellenarlos con lo que quieras</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calendarios-adviento-led-lidl-madera-reutilizables-podras-rellenarlos-quieras-970055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calendario-adviento-2542303.jpg' alt='Calendarios de adviento LED de LIDL: de madera, reutilizables y podrás rellenarlos con lo que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/costumbre-muchos-conductores-tienen-coche-cuando-llega-frio-deberias-evitar-969989'>La costumbre que muchos conductores tienen con su coche cuando llega el frío y que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/costumbre-muchos-conductores-tienen-coche-cuando-llega-frio-deberias-evitar-969989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-nieve-2542283.jpg' alt='La costumbre que muchos conductores tienen con su coche cuando llega el frío y que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981'>Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asteroids-recharged-2542215.jpg' alt='Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento' />
     </a>
 </div>
 
