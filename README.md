@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981'>Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asteroids-recharged-2542215.jpg' alt='Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963'>Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216007.jpg' alt='Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrias-ganar-200000-dolares-cedes-imagen-voz-compania-robots-969937'>Podrías ganar 200.000 dólares si cedes tu imagen y voz para una compañía de robots</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podrias-ganar-200000-dolares-cedes-imagen-voz-compania-robots-969937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/promobot-robot-cara-terminator-2542167.jpg' alt='Podrías ganar 200.000 dólares si cedes tu imagen y voz para una compañía de robots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-plugplay-instalacion-reduce-consumo-casa-600w-969947'>Kit solar plug&play sin instalación que reduce el consumo de tu casa en hasta 600W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-plugplay-instalacion-reduce-consumo-casa-600w-969947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/placa-solar-2542195.jpg' alt='Kit solar plug&play sin instalación que reduce el consumo de tu casa en hasta 600W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931'>¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejor-usar-tarjeta-credito-debito-2409243.jpg' alt='¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-estrena-nueva-serie-marvel-personajes-queridos-ucm-969417'>Disney+ estrena nueva serie de Marvel sobre uno de los personajes más queridos del UCM</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-estrena-nueva-serie-marvel-personajes-queridos-ucm-969417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ojo-halcon-2541113.jpg' alt='Disney+ estrena nueva serie de Marvel sobre uno de los personajes más queridos del UCM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/documentales-imprescindibles-disney-plus-debes-ver-968361'>Documentales imprescindibles de Disney Plus que debes ver sí o sí</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/documentales-imprescindibles-disney-plus-debes-ver-968361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/free-solo-2496239.jpg' alt='Documentales imprescindibles de Disney Plus que debes ver sí o sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-969903'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-969903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2542073.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
