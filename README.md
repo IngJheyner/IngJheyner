@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313'>El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2506907.jpg' alt='El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309'>Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307'>Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-rebaja-500-euros-precio-televisores-qled-premium-anuncia-barra-sonido-2543103.jpg' alt='Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-nueva-vulnerabilidad-critica-presente-todas-versiones-windows-970305'>Descubren una nueva vulnerabilidad crítica presente en todas las versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-nueva-vulnerabilidad-critica-presente-todas-versiones-windows-970305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-2288843.jpg' alt='Descubren una nueva vulnerabilidad crítica presente en todas las versiones de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273'>Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-parece-acaban-ideas-nuevo-quiere-implementar-son-canciones-publicaciones-970275'>A Instagram parece que se le acaban las ideas y lo nuevo que quiere implementar son canciones en las publicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-parece-acaban-ideas-nuevo-quiere-implementar-son-canciones-publicaciones-970275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='A Instagram parece que se le acaban las ideas y lo nuevo que quiere implementar son canciones en las publicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549'>Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-4-couples-2541363.jpg' alt='Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235'>WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231'>Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pasteles-capsulas-2542943.jpg' alt='Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería' />
     </a>
 </div>
 
