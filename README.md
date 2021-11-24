@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081'>¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993'>La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/cadenas-coche-nieve.jpg' alt='La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981'>Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asteroids-recharged-2542215.jpg' alt='Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963'>Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216007.jpg' alt='Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra' />
     </a>
 </div>
 
