@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235'>WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231'>Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pasteles-capsulas-2542943.jpg' alt='Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169'>Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg' alt='Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129'>Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gracias-ia-puedes-hablar-einstein-2301525.jpg' alt='Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros' />
     </a>
 </div>
 
