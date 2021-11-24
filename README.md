@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931'>¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejor-usar-tarjeta-credito-debito-2409243.jpg' alt='¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-estrena-nueva-serie-marvel-personajes-queridos-ucm-969417'>Disney+ estrena nueva serie de Marvel sobre uno de los personajes más queridos del UCM</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-estrena-nueva-serie-marvel-personajes-queridos-ucm-969417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ojo-halcon-2541113.jpg' alt='Disney+ estrena nueva serie de Marvel sobre uno de los personajes más queridos del UCM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/documentales-imprescindibles-disney-plus-debes-ver-968361'>Documentales imprescindibles de Disney Plus que debes ver sí o sí</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/documentales-imprescindibles-disney-plus-debes-ver-968361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/free-solo-2496239.jpg' alt='Documentales imprescindibles de Disney Plus que debes ver sí o sí' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-969903'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-969903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2542073.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497'>La técnica infalible para limpiar espejos sin dejar una sola marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-espejo-2541213.jpg' alt='La técnica infalible para limpiar espejos sin dejar una sola marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695'>Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-comprar-llave-usb-destruye-todos-datos-moviles-pcs-2541881.jpg' alt='Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/turron-coulant-chocolate-lidl-969693'>El turrón de estas navidades es de LIDL y se sirve caliente: 30 segundos de microondas cual coulant</a></h4>
-    <a href='https://computerhoy.com/noticias/life/turron-coulant-chocolate-lidl-969693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/turron-estas-navidades-lidl-sirve-caliente-30-segundos-microondas-cual-coulant-2541863.jpg' alt='El turrón de estas navidades es de LIDL y se sirve caliente: 30 segundos de microondas cual coulant' />
     </a>
 </div>
 
