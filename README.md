@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189'>Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/procesador-mediatek-1883305.jpg' alt='Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169'>Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg' alt='Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281'>La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657'>Razer Pro Click Mini, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-razer-pro-click-mini-2542601.jpg' alt='Razer Pro Click Mini, análisis y opinión' />
     </a>
 </div>
 
