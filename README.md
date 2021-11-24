@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549'>Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-4-couples-2541363.jpg' alt='Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235'>WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-acabar-aplicaciones-destinadas-crear-stickers-nueva-caracteristica-970235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='WhatsApp quiere acabar con las aplicaciones destinadas a crear stickers con su nueva característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189'>Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/procesador-mediatek-1883305.jpg' alt='Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169'>Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg' alt='Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería' />
     </a>
 </div>
 
