@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169'>Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-bitcoin-suecia-pide-ilegalizacion-mineria-970169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg' alt='Malas noticias para el bitcoin: Suecia pide la ilegalización de la minería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129'>Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alguien-acaba-comprar-teoria-relatividad-11-millones-euros-970129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gracias-ia-puedes-hablar-einstein-2301525.jpg' alt='Alguien acaba de comprar la Teoría de la Relatividad por unos 11 millones de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657'>Razer Pro Click Mini, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/razer-pro-click-mini-review-opinion-963657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-razer-pro-click-mini-2542601.jpg' alt='Razer Pro Click Mini, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081'>¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hay-motivos-seguir-creyendo-shiba-inu-momento-abandonar-970081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='¿Hay motivos para seguir creyendo en Shiba Inu o es momento de abandonar?' />
     </a>
 </div>
 
