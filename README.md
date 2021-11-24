@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695'>Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-comprar-llave-usb-destruye-todos-datos-moviles-pcs-2541881.jpg' alt='Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/turron-coulant-chocolate-lidl-969693'>El turrón de estas navidades es de LIDL y se sirve caliente: 30 segundos de microondas cual coulant</a></h4>
     <a href='https://computerhoy.com/noticias/life/turron-coulant-chocolate-lidl-969693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/turron-estas-navidades-lidl-sirve-caliente-30-segundos-microondas-cual-coulant-2541863.jpg' alt='El turrón de estas navidades es de LIDL y se sirve caliente: 30 segundos de microondas cual coulant' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663'>Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-10-pro-2527717.jpg' alt='Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-prepara-pixel-6a-llegaria-version-algo-inferior-procesador-google-tensor-969665'>Google prepara el Pixel 6a y llegaría con una versión algo inferior de su procesador Google Tensor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-prepara-pixel-6a-llegaria-version-algo-inferior-procesador-google-tensor-969665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Google prepara el Pixel 6a y llegaría con una versión algo inferior de su procesador Google Tensor' />
     </a>
 </div>
 
