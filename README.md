@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497'>La técnica infalible para limpiar espejos sin dejar una sola marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-espejo-2541213.jpg' alt='La técnica infalible para limpiar espejos sin dejar una sola marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695'>Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redkey-usb-v4-llave-usb-destruye-datos-moviles-pc-969695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-comprar-llave-usb-destruye-todos-datos-moviles-pcs-2541881.jpg' alt='Ya puedes comprar la llave USB que destruye todos los datos de móviles y PCs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-metaverso-museo-20-aniversario-xbox-969689'>Microsoft anticipa su metaverso con el Museo del 20 Aniversario de Xbox, en donde hay una sala dedicada a tí</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/microsoft-metaverso-museo-20-aniversario-xbox-969689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anticipa-metaverso-museo-20-aniversario-xbox-donde-hay-sala-dedicada-ti-2541857.jpg' alt='Microsoft anticipa su metaverso con el Museo del 20 Aniversario de Xbox, en donde hay una sala dedicada a tí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663'>Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-oneplus-10-pro-han-filtrado-apuntan-ser-bestia-rendimiento-969663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oneplus-10-pro-2527717.jpg' alt='Las especificaciones del OnePlus 10 Pro se han filtrado y apuntan a ser una bestia en rendimiento' />
     </a>
 </div>
 
