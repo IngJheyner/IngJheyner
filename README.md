@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333'>El truco para desatascar el fregadero con productos caseros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-desatascar-fregadero-productos-caseros-2543153.jpg' alt='El truco para desatascar el fregadero con productos caseros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325'>Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias</a></h4>
     <a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sanidad-retira-estos-tres-productos-debes-evitar-eres-alergico-tienes-intolerancias-2543145.jpg' alt='Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313'>El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2506907.jpg' alt='El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309'>Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch' />
     </a>
 </div>
 
