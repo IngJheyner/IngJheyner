@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993'>La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-recuerda-importancia-colores-trafico-como-debes-actuar-cada-caso-969993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/cadenas-coche-nieve.jpg' alt='La DGT recuerda la importancia de los colores del tráfico y cómo debes actuar en cada caso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calendarios-adviento-led-lidl-madera-reutilizables-podras-rellenarlos-quieras-970055'>Calendarios de adviento LED de LIDL: de madera, reutilizables y podrás rellenarlos con lo que quieras</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calendarios-adviento-led-lidl-madera-reutilizables-podras-rellenarlos-quieras-970055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/calendario-adviento-2542303.jpg' alt='Calendarios de adviento LED de LIDL: de madera, reutilizables y podrás rellenarlos con lo que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/costumbre-muchos-conductores-tienen-coche-cuando-llega-frio-deberias-evitar-969989'>La costumbre que muchos conductores tienen con su coche cuando llega el frío y que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/costumbre-muchos-conductores-tienen-coche-cuando-llega-frio-deberias-evitar-969989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-nieve-2542283.jpg' alt='La costumbre que muchos conductores tienen con su coche cuando llega el frío y que deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981'>Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/atari-revive-asteroids-todas-consolas-actuales-43-anos-despues-lanzamiento-969981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asteroids-recharged-2542215.jpg' alt='Atari revive Asteroids para todas las consolas actuales 43 años después de su lanzamiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963'>Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-lanza-raw-camera-sacar-todo-partido-sensor-s21-ultra-969963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216007.jpg' alt='Samsung lanza la RAW Camera para sacar todo el partido al sensor del S21 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrias-ganar-200000-dolares-cedes-imagen-voz-compania-robots-969937'>Podrías ganar 200.000 dólares si cedes tu imagen y voz para una compañía de robots</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podrias-ganar-200000-dolares-cedes-imagen-voz-compania-robots-969937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/promobot-robot-cara-terminator-2542167.jpg' alt='Podrías ganar 200.000 dólares si cedes tu imagen y voz para una compañía de robots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-plugplay-instalacion-reduce-consumo-casa-600w-969947'>Kit solar plug&play sin instalación que reduce el consumo de tu casa en hasta 600W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-plugplay-instalacion-reduce-consumo-casa-600w-969947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/placa-solar-2542195.jpg' alt='Kit solar plug&play sin instalación que reduce el consumo de tu casa en hasta 600W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931'>¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ten-cuidado-black-friday-momento-ideal-estafas-ciberneticas-969931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejor-usar-tarjeta-credito-debito-2409243.jpg' alt='¡Ten cuidado! El Black Friday es el momento ideal para las estafas cibernéticas' />
     </a>
 </div>
 
