@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325'>Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sanidad-retira-estos-tres-productos-debes-evitar-eres-alergico-tienes-intolerancias-2543145.jpg' alt='Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317'>Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309'>Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/persona-mayor-consigue-salvar-vida-gracias-aviso-apple-watch-970309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Una persona mayor consigue salvar su vida gracias a un aviso de su Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307'>Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543083.jpg' alt='Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido' />
     </a>
 </div>
 
