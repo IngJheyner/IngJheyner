@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273'>Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-parece-acaban-ideas-nuevo-quiere-implementar-son-canciones-publicaciones-970275'>A Instagram parece que se le acaban las ideas y lo nuevo que quiere implementar son canciones en las publicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-parece-acaban-ideas-nuevo-quiere-implementar-son-canciones-publicaciones-970275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='A Instagram parece que se le acaban las ideas y lo nuevo que quiere implementar son canciones en las publicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549'>Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/life/satisfyer-pro-4-couples-nuevo-vibrador-parejas-oferta-amazon-969549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-4-couples-2541363.jpg' alt='Satisfyer Pro 4 Couples, el nuevo vibrador para parejas, ya está en oferta por solo 20€ en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231'>Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-pasteles-capsula-tigout-nespresso-pasteleria-970231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pasteles-capsulas-2542943.jpg' alt='Llegan a España los pasteles en cápsula Tigoût, la Nespresso de la pastelería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tile-mate-alternativa-airtag-mas-barata-969295'>Si quieres un AirTag pero tienes un móvil Android, esta alternativa es mucho más barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tile-mate-alternativa-airtag-mas-barata-969295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg' alt='Si quieres un AirTag pero tienes un móvil Android, esta alternativa es mucho más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189'>Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/procesador-mediatek-1883305.jpg' alt='Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios' />
     </a>
 </div>
 
