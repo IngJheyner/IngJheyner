@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317'>Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301'>El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313'>El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2506907.jpg' alt='El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307'>Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-q1e-75-descuento-barra-sonido-970307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-rebaja-500-euros-precio-televisores-qled-premium-anuncia-barra-sonido-2543103.jpg' alt='Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-nueva-vulnerabilidad-critica-presente-todas-versiones-windows-970305'>Descubren una nueva vulnerabilidad crítica presente en todas las versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-nueva-vulnerabilidad-critica-presente-todas-versiones-windows-970305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-2288843.jpg' alt='Descubren una nueva vulnerabilidad crítica presente en todas las versiones de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273'>Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-camaras-samsung-galaxy-s22-ultra-no-habria-salto-sustancial-970273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtran-imagenes-supuesto-samsung-galaxy-s22-ultra-puede-estemos-heredero-espiritual-galaxy-note-2524583.jpg' alt='Se filtran todos los detalles de las cámaras del Samsung Galaxy S22 Ultra y no habría un salto sustancial' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543083.jpg' alt='Xiaomi rebaja hasta 500 euros sus nuevos televisores QLED premium, y anuncia una barra de sonido' />
     </a>
 </div>
 
