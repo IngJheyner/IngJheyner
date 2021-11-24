@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tile-mate-alternativa-airtag-mas-barata-969295'>Si quieres un AirTag pero tienes un móvil Android, esta alternativa es mucho más barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tile-mate-alternativa-airtag-mas-barata-969295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg' alt='Si quieres un AirTag pero tienes un móvil Android, esta alternativa es mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189'>Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-seguridad-mediatek-podria-haber-expuesto-conversaciones-millones-usuarios-970189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/procesador-mediatek-1883305.jpg' alt='Un fallo de seguridad en MediaTek podría haber expuesto las conversaciones de millones de usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/utilizas-android-auto-apple-carplay-no-te-olvides-detalle-piensas-vender-coche-970087'>Si utilizas Android Auto o Apple CarPlay no te olvides de este detalle si piensas vender tu coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/utilizas-android-auto-apple-carplay-no-te-olvides-detalle-piensas-vender-coche-970087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-carplay.jpg' alt='Si utilizas Android Auto o Apple CarPlay no te olvides de este detalle si piensas vender tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281'>La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alternativa-samsung-ipad-pro-tiene-90eu-descuento-black-friday-969281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='La alternativa de Samsung al iPad Pro tiene 90€ de descuento por el Black Friday' />
     </a>
 </div>
 
