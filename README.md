@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/semana-negra-bitcoin-india-posiciona-intento-prohibicion-suecia-970611'>La semana negra del bitcoin: India se posiciona en contra tras el intento de prohibición de Suecia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/semana-negra-bitcoin-india-posiciona-intento-prohibicion-suecia-970611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-crash-2463899.jpg' alt='La semana negra del bitcoin: India se posiciona en contra tras el intento de prohibición de Suecia' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ojo-halcon-seria-muy-mal-arquero-vida-real-ciencia-experiencia-vs-marvel-970729'>Ojo de Halcón sería muy mal arquero en la vida real: la Ciencia y la experiencia vs Marvel</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ojo-halcon-seria-muy-mal-arquero-vida-real-ciencia-experiencia-vs-marvel-970729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ojo-halcon-2543827.jpg' alt='Ojo de Halcón sería muy mal arquero en la vida real: la Ciencia y la experiencia vs Marvel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-numeros-subnormales-son-importantes-ordenador-970655'>¿Qué son los números subnormales y por qué son importantes en un ordenador?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-numeros-subnormales-son-importantes-ordenador-970655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nuevo-records-decimales-numero-pi-gracias-superordenador-628-billones-2444203.jpg' alt='¿Qué son los números subnormales y por qué son importantes en un ordenador?' />
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-derechos-tienes-cancelar-viaje-repuntes-covid-19-ocu-970731'>Estos son tus derechos si tienes que cancelar un viaje por repuntes del COVID-19 según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-derechos-tienes-cancelar-viaje-repuntes-covid-19-ocu-970731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/vuelo-avion-1971993.jpg' alt='Estos son tus derechos si tienes que cancelar un viaje por repuntes del COVID-19 según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-portatiles-oferta-969955'>Portátiles desde 159 euros en oferta por el Black Friday 2021: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-portatiles-oferta-969955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-surface-laptop-go-2542187.jpg' alt='Portátiles desde 159 euros en oferta por el Black Friday 2021: estos son los mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-crypto-hunter-como-pueden-ayudarte-tienes-problemas-criptomonedas-970697'>Qué son los Crypto-Hunter y cómo pueden ayudarte si tienes problemas con tus criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-crypto-hunter-como-pueden-ayudarte-tienes-problemas-criptomonedas-970697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Qué son los Crypto-Hunter y cómo pueden ayudarte si tienes problemas con tus criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140435.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acaban-recrear-juego-calamar-vida-real-premio-medio-millon-dolares-siguelo-youtube-970641'>Acaban de recrear El Juego del Calamar en la vida real y el premio es de medio millón de dólares: síguelo en Youtube</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acaban-recrear-juego-calamar-vida-real-premio-medio-millon-dolares-siguelo-youtube-970641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/personajes-juego-calamar-2501095.jpg' alt='Acaban de recrear El Juego del Calamar en la vida real y el premio es de medio millón de dólares: síguelo en Youtube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127'>Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoins-monedero-fisico-oferta-black-friday-970105'>Si tienes Bitcoins y otras criptomonedas, este monedero físico las pondrá a salvo, y está en oferta por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoins-monedero-fisico-oferta-black-friday-970105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ledger-nano-s-2506341.jpg' alt='Si tienes Bitcoins y otras criptomonedas, este monedero físico las pondrá a salvo, y está en oferta por el Black Friday' />
     </a>
 </div>
 
