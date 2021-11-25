@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943'>Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-vecinos-ruidosos-crean-material-capaz-bloquear-94-ruido-970939'>La solución a los vecinos ruidosos: crean un material capaz de bloquear el 94% del ruido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solucion-vecinos-ruidosos-crean-material-capaz-bloquear-94-ruido-970939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metamaterial-aisla-ruido-2544347.jpg' alt='La solución a los vecinos ruidosos: crean un material capaz de bloquear el 94% del ruido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931'>Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/autovia-2234423.jpg' alt='Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285'>10 chollos del Black Friday que están rebajados en un 50% o más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/irobot-roomba-i3552-2399615.jpg' alt='10 chollos del Black Friday que están rebajados en un 50% o más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331'>7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877'>La última moda de los mineros es robar cuentas de la nube para minar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/almacenamiento-nube.jpg' alt='La última moda de los mineros es robar cuentas de la nube para minar criptomonedas' />
     </a>
 </div>
 
