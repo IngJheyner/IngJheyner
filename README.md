@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573'>Malware Tardígrado: La nueva amenaza de la bioingeniería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bastoncillo-laboratorio-cientifico-2532385.jpg' alt='Malware Tardígrado: La nueva amenaza de la bioingeniería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/evita-multas-dgt-estos-chollos-black-friday-968689'>Evita multas de la DGT con estos chollos del Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/evita-multas-dgt-estos-chollos-black-friday-968689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-2539757.jpg' alt='Evita multas de la DGT con estos chollos del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-604-computer-hoy-966371'>¡Ya está en tu quiosco el número 604 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-604-computer-hoy-966371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/computer-hoy-604-2537875.jpg' alt='¡Ya está en tu quiosco el número 604 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579'>Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevos-stickers-animados-gratis-whatsapp-2411363.jpg' alt='Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140435.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2543359.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mini-pc-oferta-black-friday-2021-merecen-mucho-pena-969415'>5 mini PC en oferta por el Black Friday que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-mini-pc-oferta-black-friday-2021-merecen-mucho-pena-969415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/beelink-u55-2496221.jpg' alt='5 mini PC en oferta por el Black Friday que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335'>ZEVA Zero, el platillo volante unipersonal</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zeva-zero-platillo-volante-unipersonal-2543161.jpg' alt='ZEVA Zero, el platillo volante unipersonal' />
     </a>
 </div>
 
