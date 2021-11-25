@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335'>ZEVA Zero, el platillo volante unipersonal</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zeva-zero-platillo-volante-unipersonal-2543161.jpg' alt='ZEVA Zero, el platillo volante unipersonal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333'>El truco para desatascar el fregadero con productos caseros</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-desatascar-fregadero-productos-caseros-2543153.jpg' alt='El truco para desatascar el fregadero con productos caseros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301'>El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313'>El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11t-tendria-carga-mucho-rapida-google-pixel-6-pro-970313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2506907.jpg' alt='El Redmi Note 11T tendría una carga mucho más rápida que la del Google Pixel 6 Pro' />
     </a>
 </div>
 
