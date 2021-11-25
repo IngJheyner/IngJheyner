@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931'>Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/autovia-2234423.jpg' alt='Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913'>Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523317.jpg' alt='Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285'>10 chollos del Black Friday que están rebajados en un 50% o más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/irobot-roomba-i3552-2399615.jpg' alt='10 chollos del Black Friday que están rebajados en un 50% o más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877'>La última moda de los mineros es robar cuentas de la nube para minar criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/almacenamiento-nube.jpg' alt='La última moda de los mineros es robar cuentas de la nube para minar criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-debes-tener-cuenta-antes-comprar-freidora-aire-black-friday-970763'>Cosas que debes tener en cuenta antes de comprar una freidora de aire en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-debes-tener-cuenta-antes-comprar-freidora-aire-black-friday-970763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/freidora-aire-air-fry-digital-2531711.jpg' alt='Cosas que debes tener en cuenta antes de comprar una freidora de aire en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167'>Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kindle-oasis-2542677.jpg' alt='Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca' />
     </a>
 </div>
 
