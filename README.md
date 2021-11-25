@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/semana-negra-bitcoin-india-posiciona-intento-prohibicion-suecia-970611'>La semana negra del bitcoin: India se posiciona en contra tras el intento de prohibición de Suecia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/semana-negra-bitcoin-india-posiciona-intento-prohibicion-suecia-970611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-crash-2463899.jpg' alt='La semana negra del bitcoin: India se posiciona en contra tras el intento de prohibición de Suecia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-numeros-subnormales-son-importantes-ordenador-970655'>¿Qué son los números subnormales y por qué son importantes en un ordenador?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-numeros-subnormales-son-importantes-ordenador-970655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nuevo-records-decimales-numero-pi-gracias-superordenador-628-billones-2444203.jpg' alt='¿Qué son los números subnormales y por qué son importantes en un ordenador?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-portatiles-oferta-969955'>Portátiles desde 159 euros en oferta por el Black Friday 2021: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-portatiles-oferta-969955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-surface-laptop-go-2542187.jpg' alt='Portátiles desde 159 euros en oferta por el Black Friday 2021: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140435.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127'>Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/movil-puede-ser-nintendo-switch-mando-razer-ahora-rebajado-39-968363'>Tu móvil puede ser una Nintendo Switch con este mando Razer que ahora está rebajado en un 39%</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/movil-puede-ser-nintendo-switch-mando-razer-ahora-rebajado-39-968363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-razer-kishi-2240593.jpg' alt='Tu móvil puede ser una Nintendo Switch con este mando Razer que ahora está rebajado en un 39%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/condenado-muerte-introducir-copia-juego-calamar-corea-norte-970595'>Condenado a muerte por introducir una copia de El juego del calamar en Corea del Norte</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/condenado-muerte-introducir-copia-juego-calamar-corea-norte-970595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2504081.jpg' alt='Condenado a muerte por introducir una copia de El juego del calamar en Corea del Norte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573'>Malware Tardígrado: La nueva amenaza de la bioingeniería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bastoncillo-laboratorio-cientifico-2532385.jpg' alt='Malware Tardígrado: La nueva amenaza de la bioingeniería' />
     </a>
 </div>
 
