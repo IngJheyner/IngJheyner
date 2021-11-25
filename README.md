@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167'>Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kindle-oasis-2542677.jpg' alt='Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873'>Apple te avisará cuando te hackeen: así lo hará</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2541843.jpg' alt='Apple te avisará cuando te hackeen: así lo hará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejorando-fotografia-movil-reglas-composicion-intermedias-970329'>Mejorando tu fotografía móvil: reglas de composición intermedias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejorando-fotografia-movil-reglas-composicion-intermedias-970329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mejorando-fotografia-movil-reglas-composicion-intermedias-2543961.jpg' alt='Mejorando tu fotografía móvil: reglas de composición intermedias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679'>Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-120-w-eco-worthy-2543607.jpg' alt='Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671'>¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-rosetta-aldi-cargar-todos-dispositivos-puerto-usb-menos-5-euros-970785'>El cable Rosetta de Aldi para cargar todos tus dispositivos desde un puerto USB por menos de 5 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cable-rosetta-aldi-cargar-todos-dispositivos-puerto-usb-menos-5-euros-970785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-aldi-2543945.jpg' alt='El cable Rosetta de Aldi para cargar todos tus dispositivos desde un puerto USB por menos de 5 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-relojes-inteligentes-oferta-969673'>Apple Watch desde 189 euros y otros relojes inteligentes que en el Black Friday están a precio de chollo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-relojes-inteligentes-oferta-969673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2541843.jpg' alt='Apple Watch desde 189 euros y otros relojes inteligentes que en el Black Friday están a precio de chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797'>TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lg-cx-oled-48-analisis-opinion-2165889.jpg' alt='TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung' />
     </a>
 </div>
 
