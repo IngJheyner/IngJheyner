@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797'>TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lg-cx-oled-48-analisis-opinion-2165889.jpg' alt='TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apuesta-ionity-tesla-beneficia-usuarios-coche-electrico-700-millones-euros-crear-nuevos-supercargadores-970757'>La apuesta de Ionity contra Tesla que beneficia a los usuarios de coche eléctrico: 700 millones de euros para crear nuevos supercargadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apuesta-ionity-tesla-beneficia-usuarios-coche-electrico-700-millones-euros-crear-nuevos-supercargadores-970757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ionity-2543883.jpg' alt='La apuesta de Ionity contra Tesla que beneficia a los usuarios de coche eléctrico: 700 millones de euros para crear nuevos supercargadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ahorrar-black-friday-2542535.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ojo-halcon-seria-muy-mal-arquero-vida-real-ciencia-experiencia-vs-marvel-970729'>Ojo de Halcón sería muy mal arquero en la vida real: la Ciencia y la experiencia vs Marvel</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ojo-halcon-seria-muy-mal-arquero-vida-real-ciencia-experiencia-vs-marvel-970729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ojo-halcon-2543827.jpg' alt='Ojo de Halcón sería muy mal arquero en la vida real: la Ciencia y la experiencia vs Marvel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-son-derechos-tienes-cancelar-viaje-repuntes-covid-19-ocu-970731'>Estos son tus derechos si tienes que cancelar un viaje por repuntes del COVID-19 según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-son-derechos-tienes-cancelar-viaje-repuntes-covid-19-ocu-970731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/vuelo-avion-1971993.jpg' alt='Estos son tus derechos si tienes que cancelar un viaje por repuntes del COVID-19 según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-crypto-hunter-como-pueden-ayudarte-tienes-problemas-criptomonedas-970697'>Qué son los Crypto-Hunter y cómo pueden ayudarte si tienes problemas con tus criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-crypto-hunter-como-pueden-ayudarte-tienes-problemas-criptomonedas-970697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Qué son los Crypto-Hunter y cómo pueden ayudarte si tienes problemas con tus criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acaban-recrear-juego-calamar-vida-real-premio-medio-millon-dolares-siguelo-youtube-970641'>Acaban de recrear El Juego del Calamar en la vida real y el premio es de medio millón de dólares: síguelo en Youtube</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/acaban-recrear-juego-calamar-vida-real-premio-medio-millon-dolares-siguelo-youtube-970641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/personajes-juego-calamar-2501095.jpg' alt='Acaban de recrear El Juego del Calamar en la vida real y el premio es de medio millón de dólares: síguelo en Youtube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoins-monedero-fisico-oferta-black-friday-970105'>Si tienes Bitcoins y otras criptomonedas, este monedero físico las pondrá a salvo, y está en oferta por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoins-monedero-fisico-oferta-black-friday-970105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ledger-nano-s-2506341.jpg' alt='Si tienes Bitcoins y otras criptomonedas, este monedero físico las pondrá a salvo, y está en oferta por el Black Friday' />
     </a>
 </div>
 
