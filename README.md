@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955'>El curioso método que usan en Japón para evitar que los compradores especulen con la consola PS5</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novabot-cortacesped-autonomo-vigila-casa-noche-970957'>Adiós al perro guardián: este cortacésped autónomo vigila la casa por la noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novabot-cortacesped-autonomo-vigila-casa-noche-970957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adios-perro-guardian-cortacesped-autonomo-vigila-casa-noche-2544365.jpg' alt='Adiós al perro guardián: este cortacésped autónomo vigila la casa por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-descuento-black-friday-amazon-aliexpress-otras-tiendas-970259'>Mejores cupones descuento Black Friday en Amazon, AliExpress y otras tiendas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-descuento-black-friday-amazon-aliexpress-otras-tiendas-970259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cupones-black-friday-2543035.jpg' alt='Mejores cupones descuento Black Friday en Amazon, AliExpress y otras tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955'>El curioso método que usan en Japón para evitar que los especuladores se queden con todas las consolas PS5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/curioso-metodo-usan-japon-evitar-compradores-especulen-consola-ps5-2544361.jpg' alt='El curioso método que usan en Japón para evitar que los compradores especulen con la consola PS5' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/curioso-metodo-usan-japon-evitar-compradores-especulen-consola-ps5-2544361.jpg' alt='El curioso método que usan en Japón para evitar que los especuladores se queden con todas las consolas PS5' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943'>Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-vecinos-ruidosos-crean-material-capaz-bloquear-94-ruido-970939'>La solución a los vecinos ruidosos: crean un material capaz de bloquear el 94% del ruido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solucion-vecinos-ruidosos-crean-material-capaz-bloquear-94-ruido-970939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metamaterial-aisla-ruido-2544347.jpg' alt='La solución a los vecinos ruidosos: crean un material capaz de bloquear el 94% del ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931'>Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/autovia-2234423.jpg' alt='Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros' />
     </a>
 </div>
 
