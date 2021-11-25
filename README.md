@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679'>Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-120-w-eco-worthy-2543607.jpg' alt='Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671'>¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-rosetta-aldi-cargar-todos-dispositivos-puerto-usb-menos-5-euros-970785'>El cable Rosetta de Aldi para cargar todos tus dispositivos desde un puerto USB por menos de 5 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cable-rosetta-aldi-cargar-todos-dispositivos-puerto-usb-menos-5-euros-970785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-aldi-2543945.jpg' alt='El cable Rosetta de Aldi para cargar todos tus dispositivos desde un puerto USB por menos de 5 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797'>TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tvs-oled-todos-bolsillos-2022-llegan-tamanos-menores-48-lg-samsung-970797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lg-cx-oled-48-analisis-opinion-2165889.jpg' alt='TVs OLED para todos los bolsillos en 2022, llegan tamaños menores de 48" de LG y Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apuesta-ionity-tesla-beneficia-usuarios-coche-electrico-700-millones-euros-crear-nuevos-supercargadores-970757'>La apuesta de Ionity contra Tesla que beneficia a los usuarios de coche eléctrico: 700 millones de euros para crear nuevos supercargadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apuesta-ionity-tesla-beneficia-usuarios-coche-electrico-700-millones-euros-crear-nuevos-supercargadores-970757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ionity-2543883.jpg' alt='La apuesta de Ionity contra Tesla que beneficia a los usuarios de coche eléctrico: 700 millones de euros para crear nuevos supercargadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ahorrar-black-friday-2542535.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
     </a>
 </div>
 
