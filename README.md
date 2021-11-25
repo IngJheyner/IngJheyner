@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2543359.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mini-pc-oferta-black-friday-2021-merecen-mucho-pena-969415'>5 mini PC en oferta por el Black Friday que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-mini-pc-oferta-black-friday-2021-merecen-mucho-pena-969415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/beelink-u55-2496221.jpg' alt='5 mini PC en oferta por el Black Friday que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335'>ZEVA Zero, el platillo volante unipersonal</a></h4>
     <a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zeva-zero-platillo-volante-unipersonal-2543161.jpg' alt='ZEVA Zero, el platillo volante unipersonal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325'>Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias</a></h4>
     <a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sanidad-retira-estos-tres-productos-debes-evitar-eres-alergico-tienes-intolerancias-2543145.jpg' alt='Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317'>Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-fotografica-sony-alpha-7-iii-oferta-970317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-alpha-7-iii-2531875.jpg' alt='Una de las mejores cámaras fotográficas del mercado, la Sony Alpha 7 III, con 529 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301'>El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-pro-5g-reno-7-filtran-antes-lanzamiento-oficial-970301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='El OPPO Reno 7 Pro 5G y Reno 7 se filtran antes de su lanzamiento oficial' />
     </a>
 </div>
 
