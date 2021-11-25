@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955'>El curioso método que usan en Japón para evitar que los compradores especulen con la consola PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/curioso-metodo-usan-japon-evitar-compradores-especulen-consola-ps5-2544361.jpg' alt='El curioso método que usan en Japón para evitar que los compradores especulen con la consola PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949'>Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492381.jpg' alt='Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931'>Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autovias-mas-caras-peajes-2024-970931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/autovia-2234423.jpg' alt='Estas serán las autovías más caras de España, con los nuevos peajes: de Madrid a Barcelona costará más de 5 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913'>Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523317.jpg' alt='Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles' />
     </a>
 </div>
 
