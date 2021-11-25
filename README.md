@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140435.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-970545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2543359.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333'>El truco para desatascar el fregadero con productos caseros</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-desatascar-fregadero-productos-caseros-2543153.jpg' alt='El truco para desatascar el fregadero con productos caseros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325'>Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sanidad-retira-cuatro-productos-alergenos-970325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sanidad-retira-estos-tres-productos-debes-evitar-eres-alergico-tienes-intolerancias-2543145.jpg' alt='Sanidad retira estos cuatro productos que debes evitar si eres alérgico o tienes intolerancias' />
     </a>
 </div>
 
