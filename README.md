@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579'>Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevos-stickers-animados-gratis-whatsapp-2411363.jpg' alt='Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140435.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335'>ZEVA Zero, el platillo volante unipersonal</a></h4>
     <a href='https://computerhoy.com/noticias/motor/zeva-zero-platillo-volante-unipersonal-970335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zeva-zero-platillo-volante-unipersonal-2543161.jpg' alt='ZEVA Zero, el platillo volante unipersonal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333'>El truco para desatascar el fregadero con productos caseros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-desatascar-fregadero-productos-caseros-970333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-desatascar-fregadero-productos-caseros-2543153.jpg' alt='El truco para desatascar el fregadero con productos caseros' />
     </a>
 </div>
 
