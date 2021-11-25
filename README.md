@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127'>Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-liquidacion-productos-reacondicionados-amazon-970127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446947.jpg' alt='Liquidación de productos reacondicionados en Amazon: estos son los mejores chollos de su almacén' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/movil-puede-ser-nintendo-switch-mando-razer-ahora-rebajado-39-968363'>Tu móvil puede ser una Nintendo Switch con este mando Razer que ahora está rebajado en un 39%</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/movil-puede-ser-nintendo-switch-mando-razer-ahora-rebajado-39-968363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-razer-kishi-2240593.jpg' alt='Tu móvil puede ser una Nintendo Switch con este mando Razer que ahora está rebajado en un 39%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/condenado-muerte-introducir-copia-juego-calamar-corea-norte-970595'>Condenado a muerte por introducir una copia de El juego del calamar en Corea del Norte</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/condenado-muerte-introducir-copia-juego-calamar-corea-norte-970595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2504081.jpg' alt='Condenado a muerte por introducir una copia de El juego del calamar en Corea del Norte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701'>Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-mejores-ofertas-amazon-mediamarkt-pccomponentes-directo-966701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portada-amazon-durante-black-friday-2021-2537013.jpg' alt='Miles de ofertas del Black Friday en directo: Amazon, MediaMarkt, PcComponentes, AliExpress y muchas más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573'>Malware Tardígrado: La nueva amenaza de la bioingeniería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-tardigrado-nueva-amenaza-bioingenieria-970573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bastoncillo-laboratorio-cientifico-2532385.jpg' alt='Malware Tardígrado: La nueva amenaza de la bioingeniería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/evita-multas-dgt-estos-chollos-black-friday-968689'>Evita multas de la DGT con estos chollos del Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/evita-multas-dgt-estos-chollos-black-friday-968689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-2539757.jpg' alt='Evita multas de la DGT con estos chollos del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-604-computer-hoy-966371'>¡Ya está en tu quiosco el número 604 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-604-computer-hoy-966371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/computer-hoy-604-2537875.jpg' alt='¡Ya está en tu quiosco el número 604 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579'>Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usas-whatsapp-web-estas-suerte-acaba-llegar-herramientas-demandada-970579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevos-stickers-animados-gratis-whatsapp-2411363.jpg' alt='Si usas WhatsApp Web estas de suerte: acaba de llegar la herramientas más demandada' />
     </a>
 </div>
 
