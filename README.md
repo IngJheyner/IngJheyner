@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285'>10 chollos del Black Friday que están rebajados en un 50% o más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/irobot-roomba-i3552-2399615.jpg' alt='10 chollos del Black Friday que están rebajados en un 50% o más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331'>7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167'>Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kindle-oasis-2542677.jpg' alt='Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873'>Apple te avisará cuando te hackeen: así lo hará</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2541843.jpg' alt='Apple te avisará cuando te hackeen: así lo hará' />
     </a>
 </div>
 
