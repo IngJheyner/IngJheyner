@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331'>7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-aplicaciones-utiles-dia-dia-tienes-instalar-ya-mismo-telefono-android-970331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='7 aplicaciones útiles en el día a día y que tienes que instalar ya mismo en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877'>La última moda de los mineros es robar cuentas de la nube para minar criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-moda-mineros-robar-cuentas-nube-minar-criptomonedas-970877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/almacenamiento-nube.jpg' alt='La última moda de los mineros es robar cuentas de la nube para minar criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cosas-debes-tener-cuenta-antes-comprar-freidora-aire-black-friday-970763'>Cosas que debes tener en cuenta antes de comprar una freidora de aire en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cosas-debes-tener-cuenta-antes-comprar-freidora-aire-black-friday-970763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/freidora-aire-air-fry-digital-2531711.jpg' alt='Cosas que debes tener en cuenta antes de comprar una freidora de aire en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167'>Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kindle-oasis-precio-minimo-amazon-black-friday-2021-970167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kindle-oasis-2542677.jpg' alt='Si eres lector empedernido y te gustan los ebooks, el Kindle Oasis es el lector que buscas, y ahora está más barato que nunca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873'>Apple te avisará cuando te hackeen: así lo hará</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-te-avisara-cuando-te-hackeen-hara-970873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2541843.jpg' alt='Apple te avisará cuando te hackeen: así lo hará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejorando-fotografia-movil-reglas-composicion-intermedias-970329'>Mejorando tu fotografía móvil: reglas de composición intermedias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejorando-fotografia-movil-reglas-composicion-intermedias-970329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mejorando-fotografia-movil-reglas-composicion-intermedias-2543961.jpg' alt='Mejorando tu fotografía móvil: reglas de composición intermedias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679'>Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panel-solar-plegable-120w-oferta-amazon-970679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/paneles-solares-120-w-eco-worthy-2543607.jpg' alt='Este panel solar de 120W es plegable, muy ligera y la puedes instalar donde quieras: con este cupón te costará 179€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671'>¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-oferta-amazon-970671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='¡Chollo en el nuevo MacBook Pro de 2021! Tiene 225 euros de descuento en Amazon apenas unas semanas tras su lanzamiento' />
     </a>
 </div>
 
