@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949'>Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492381.jpg' alt='Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943'>Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913'>Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-motorola-podrian-adelantar-samsung-hora-lanzar-camaras-200-megapixeles-970913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523317.jpg' alt='Xiaomi y Motorola podrían adelantar a Samsung a la hora de lanzar cámaras con 200 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285'>10 chollos del Black Friday que están rebajados en un 50% o más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/chollos-black-friday-rebajados-50-mas-970285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/irobot-roomba-i3552-2399615.jpg' alt='10 chollos del Black Friday que están rebajados en un 50% o más' />
     </a>
 </div>
 
