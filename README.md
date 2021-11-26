@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-smart-tv-samsung-xiaomi-black-friday-2021-970691'>Estas son las mejores Smart TV que puedes comprar durante el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-smart-tv-samsung-xiaomi-black-friday-2021-970691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lg-smart-tv-2186519.jpg' alt='Estas son las mejores Smart TV que puedes comprar durante el Black Friday' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-freidoras-aceite-969319'>El Black Friday de las freidoras sin aceite: estas son las mejores que puedes comprar hoy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-freidoras-aceite-969319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/philips-essential-airfryer-2261793.jpg' alt='El Black Friday de las freidoras sin aceite: estas son las mejores que puedes comprar hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789'>Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reloj-deportivo-running-2539999.jpg' alt='Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-lg-pone-tiro-baja-779-euros-precio-historico-970899'>Este televisor OLED de LG se pone a tiro: baja a 779 euros, su precio histórico más bajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-lg-pone-tiro-baja-779-euros-precio-historico-970899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lg-oled-2511117.jpg' alt='Este televisor OLED de LG se pone a tiro: baja a 779 euros, su precio histórico más bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-971115'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-971115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2544543.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gangas-black-friday-10-chollos-menos-20-euros-970713'>Las gangas del Black Friday: 10 chollos de menos de 20 euros que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gangas-black-friday-10-chollos-menos-20-euros-970713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2143737.jpg' alt='Las gangas del Black Friday: 10 chollos de menos de 20 euros que merecen mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-xiaomi-black-friday-2021-968747'>Mejores chollos de Xiaomi en el Black Friday 2021: productos en oferta desde 19 euros </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-xiaomi-black-friday-2021-968747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-mi-band-5-2026507.jpg' alt='Mejores chollos de Xiaomi en el Black Friday 2021: productos en oferta desde 19 euros ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241'>Estos son los mejores chollos de Apple durante el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Estos son los mejores chollos de Apple durante el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861'>Estos son los 10 mejores móviles en oferta en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-11t-pro-2471921.jpg' alt='Estos son los 10 mejores móviles en oferta en el Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-black-friday-oferta-971125'>El Samsung Galaxy S21+ es el móvil TOP del Black Friday ahora que está en oferta con más de 300€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-black-friday-oferta-971125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-2240051.jpg' alt='El Samsung Galaxy S21+ es el móvil TOP del Black Friday ahora que está en oferta con más de 300€ de descuento' />
     </a>
 </div>
 
