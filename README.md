@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cocteles-navidad-fiestas-970959'>4 cócteles con y sin alcohol para sorprender esta Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cocteles-navidad-fiestas-970959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-cocteles-alcohol-sorprender-navidad-2544367.jpg' alt='4 cócteles con y sin alcohol para sorprender esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241'>Estos son los mejores chollos de Apple durante el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Estos son los mejores chollos de Apple durante el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741'>AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aliexpress-2543763.jpg' alt='AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-mejores-ofertas-black-friday-2021-970183'>Estas son las 10 mejores ofertas del Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-mejores-ofertas-black-friday-2021-970183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/top-ofertas-black-friday-2542963.jpg' alt='Estas son las 10 mejores ofertas del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novabot-cortacesped-autonomo-vigila-casa-noche-970957'>Adiós al perro guardián: este cortacésped autónomo vigila la casa por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novabot-cortacesped-autonomo-vigila-casa-noche-970957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/adios-perro-guardian-cortacesped-autonomo-vigila-casa-noche-2544365.jpg' alt='Adiós al perro guardián: este cortacésped autónomo vigila la casa por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-descuento-black-friday-amazon-aliexpress-otras-tiendas-970259'>Mejores cupones descuento Black Friday en Amazon, AliExpress y otras tiendas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cupones-descuento-black-friday-amazon-aliexpress-otras-tiendas-970259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cupones-black-friday-2543035.jpg' alt='Mejores cupones descuento Black Friday en Amazon, AliExpress y otras tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955'>El curioso método que usan en Japón para evitar que los especuladores se queden con todas las consolas PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/curioso-metodo-japon-especuladores-consola-ps5-970955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/curioso-metodo-usan-japon-evitar-compradores-especulen-consola-ps5-2544361.jpg' alt='El curioso método que usan en Japón para evitar que los especuladores se queden con todas las consolas PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949'>Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-black-friday-970949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492381.jpg' alt='Hasta el iPhone 13 baja de precio en el Black Friday, ¡aprovecha que hay poco stock! ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943'>Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-190-juegos-moviles-huawei-millones-descargas-970943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Detectan un peligroso troyano en 190 juegos para móviles Huawei con millones de descargas' />
     </a>
 </div>
 
