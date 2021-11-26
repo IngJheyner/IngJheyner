@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869'>Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/retrovisor-inteligente-chortau-2544181.jpg' alt='Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/internet-resuelve-gran-misterio-como-doblan-sabanas-ajustables-970707'>Internet resuelve el gran misterio: ¿cómo se doblan las sábanas ajustables?</a></h4>
     <a href='https://computerhoy.com/noticias/life/internet-resuelve-gran-misterio-como-doblan-sabanas-ajustables-970707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sabanas-dobladas-2543733.jpg' alt='Internet resuelve el gran misterio: ¿cómo se doblan las sábanas ajustables?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741'>AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aliexpress-2543763.jpg' alt='AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-mejores-ofertas-black-friday-2021-970183'>Estas son las 10 mejores ofertas del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-mejores-ofertas-black-friday-2021-970183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/top-ofertas-black-friday-2542963.jpg' alt='Estas son las 10 mejores ofertas del Black Friday' />
     </a>
 </div>
 
