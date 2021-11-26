@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399'>10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-amazon-2545153.jpg' alt='10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407'>Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2545065.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403'>Estos son los límites de Bizum que te interesa conocer</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Estos son los límites de Bizum que te interesa conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301'>Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861'>Móntate una Smart Home con estos productos en oferta durante Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/interior-casa-moderna-2544161.jpg' alt='Móntate una Smart Home con estos productos en oferta durante Black Friday' />
     </a>
 </div>
 
