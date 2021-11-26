@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315'>Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-oferta-baratos-black-friday-2021-969913'>Pon tu ordenador a volar con estos SSD que el Black Friday deja mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-oferta-baratos-black-friday-2021-969913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Pon tu ordenador a volar con estos SSD que el Black Friday deja mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169'>Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-analisis-samsung-galaxy-a52s-2523721.jpg' alt='Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-poco-x4-cuatro-nuevos-moviles-971311'>Así será la nueva familia Poco X4: cuatro nuevos móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-poco-x4-cuatro-nuevos-moviles-971311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2278545.jpg' alt='Así será la nueva familia Poco X4: cuatro nuevos móviles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/10-gadgets-cocina-no-sabias-querias-971235'>10 gadgets para la cocina que no sabías que querías</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-gadgets-cocina-no-sabias-querias-971235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/arroz-perfecto-nuevo-gadget-lidl-cuesta-menos-20-euros-2198833.jpg' alt='10 gadgets para la cocina que no sabías que querías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cafeteras-capsulas-baratas-black-friday-2021-969363'>Cafeteras de cápsulas baratas por el Black Friday 2021: modelos de hasta 24 euros, en oferta y con envío gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cafeteras-capsulas-baratas-black-friday-2021-969363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capsulas-cafe-2540907.jpg' alt='Cafeteras de cápsulas baratas por el Black Friday 2021: modelos de hasta 24 euros, en oferta y con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-quiere-paguemos-compras-tres-veces-funcionara-nuevo-servicio-971289'>PayPal quiere que paguemos las compras en tres veces: así funcionará su nuevo servicio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paypal-quiere-paguemos-compras-tres-veces-funcionara-nuevo-servicio-971289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/paypal-ya-permite-comprar-vender-criptomonedas-2133699.jpg' alt='PayPal quiere que paguemos las compras en tres veces: así funcionará su nuevo servicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-productos-xiaomi-son-curiosos-estan-oferta-durante-black-friday-970881'>Estos productos de Xiaomi son curiosos y están en oferta durante el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-productos-xiaomi-son-curiosos-estan-oferta-durante-black-friday-970881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg' alt='Estos productos de Xiaomi son curiosos y están en oferta durante el Black Friday' />
     </a>
 </div>
 
