@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245'>Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326973.jpg' alt='Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089'>¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2542335.jpg' alt='¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313'>Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315'>Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-oferta-baratos-black-friday-2021-969913'>Pon tu ordenador a volar con estos SSD que el Black Friday deja mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-oferta-baratos-black-friday-2021-969913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Pon tu ordenador a volar con estos SSD que el Black Friday deja mucho más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169'>Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-analisis-samsung-galaxy-a52s-2523721.jpg' alt='Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday' />
     </a>
 </div>
 
