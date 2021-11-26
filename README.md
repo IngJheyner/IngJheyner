@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409'>Desaparece una de las características más útiles de Spotify en los móviles Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Desaparece una de las características más útiles de Spotify en los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457'>Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra</a></h4>
     <a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacer-compra-tiempos-covid-19-2545249.jpg' alt='Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399'>10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-amazon-2545153.jpg' alt='10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407'>Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus' />
     </a>
 </div>
 
