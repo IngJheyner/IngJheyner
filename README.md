@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2545065.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-arquero-tigre-politico-971343'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: un arquero, un tigre y un político</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-arquero-tigre-politico-971343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-netflix-2545043.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: un arquero, un tigre y un político' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403'>Estos son los límites de Bizum que te interesa conocer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Estos son los límites de Bizum que te interesa conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301'>Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861'>Móntate una Smart Home con estos productos en oferta durante Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/interior-casa-moderna-2544161.jpg' alt='Móntate una Smart Home con estos productos en oferta durante Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-ordenadores-menos-300-euros-comprar-black-friday-2021-970043'>7 ordenadores de menos de 300 euros para comprar en el Black Friday 2021</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-ordenadores-menos-300-euros-comprar-black-friday-2021-970043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/acer-chromebook-2027853.jpg' alt='7 ordenadores de menos de 300 euros para comprar en el Black Friday 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245'>Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326973.jpg' alt='Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089'>¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2542335.jpg' alt='¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros' />
     </a>
 </div>
 
