@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473'>Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-black-friday-puedes-haber-pasado-alto-son-bastante-buenas-2545341.jpg' alt='Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409'>Desaparece una de las características más útiles de Spotify en los móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Desaparece una de las características más útiles de Spotify en los móviles Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451'>La DGT actualiza sus radares para pillarte aunque frenes antes</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='La DGT actualiza sus radares para pillarte aunque frenes antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399'>10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-amazon-2545153.jpg' alt='10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon' />
     </a>
 </div>
 
