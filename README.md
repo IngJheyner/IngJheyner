@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-smart-tv-samsung-xiaomi-black-friday-2021-970691'>Estas son las mejores Smart TV que puedes comprar durante el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-smart-tv-samsung-xiaomi-black-friday-2021-970691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lg-smart-tv-2186519.jpg' alt='Estas son las mejores Smart TV que puedes comprar durante el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789'>Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reloj-deportivo-running-2539999.jpg' alt='Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861'>Estos son los 10 mejores móviles en oferta en el Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-11t-pro-2471921.jpg' alt='Estos son los 10 mejores móviles en oferta en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869'>Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/retrovisor-inteligente-chortau-2544181.jpg' alt='Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo' />
     </a>
 </div>
 
