@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457'>Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacer-compra-tiempos-covid-19-2545249.jpg' alt='Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carrefour-flash-supermercado-sin-cajeros-ni-empleados-971453'>Abre Carrefour Flash, el supermercado sin cajeros ni app, pero con 60 cámaras y 2.000 sensores para saber lo que compras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carrefour-flash-supermercado-sin-cajeros-ni-empleados-971453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carrefour-flash-nuevos-supermercados-cajeros-ni-app-pero-60-camaras-2000-sensores-saber-compras-2545245.jpg' alt='Abre Carrefour Flash, el supermercado sin cajeros ni app, pero con 60 cámaras y 2.000 sensores para saber lo que compras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451'>La DGT actualiza sus radares para pillarte aunque frenes antes</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='La DGT actualiza sus radares para pillarte aunque frenes antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399'>10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-ultima-hora-arrasan-black-friday-2021-amazon-971399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-friday-amazon-2545153.jpg' alt='10 ofertas de última hora que arrasan en el Black Friday 2021 en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407'>Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usas-tinder-te-interesa-como-conseguir-6-meses-gratis-tinder-plus-971407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Si usas Tinder, esto te interesa: cómo conseguir 6 meses gratis de Tinder Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-mejor-cantante-fugado-superheroe-971363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/peliculas-fin-semana-2545065.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: el mejor cantante, un fugado y un superhéroe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-arquero-tigre-politico-971343'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: un arquero, un tigre y un político</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-arquero-tigre-politico-971343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/series-netflix-2545043.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: un arquero, un tigre y un político' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403'>Estos son los límites de Bizum que te interesa conocer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-limites-bizum-te-interesa-conocer-971403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Estos son los límites de Bizum que te interesa conocer' />
     </a>
 </div>
 
