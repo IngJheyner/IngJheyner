@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479'>Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces</a></h4>
+    <a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/asus-chromebook-z1500cn-2403901.jpg' alt='Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439'>Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-estaria-preparando-portatiles-verian-luz-antes-esperado-971411'>POCO estaría preparando portátiles que verían la luz antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-estaria-preparando-portatiles-verian-luz-antes-esperado-971411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portatil-enfriamiento-2533393.jpg' alt='POCO estaría preparando portátiles que verían la luz antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473'>Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-black-friday-puedes-haber-pasado-alto-son-bastante-buenas-2545341.jpg' alt='Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409'>Desaparece una de las características más útiles de Spotify en los móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Desaparece una de las características más útiles de Spotify en los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457'>Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alquilan-horas-supermercado-todas-semanas-poder-hacer-solos-compra-971457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacer-compra-tiempos-covid-19-2545249.jpg' alt='Alquilan por horas un supermercado todas las semanas para poder hacer solos la compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carrefour-flash-supermercado-sin-cajeros-ni-empleados-971453'>Abre Carrefour Flash, el supermercado sin cajeros ni app, pero con 60 cámaras y 2.000 sensores para saber lo que compras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carrefour-flash-supermercado-sin-cajeros-ni-empleados-971453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carrefour-flash-nuevos-supermercados-cajeros-ni-app-pero-60-camaras-2000-sensores-saber-compras-2545245.jpg' alt='Abre Carrefour Flash, el supermercado sin cajeros ni app, pero con 60 cámaras y 2.000 sensores para saber lo que compras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451'>La DGT actualiza sus radares para pillarte aunque frenes antes</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-actualiza-radares-pillarte-aunque-frenes-antes-971451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='La DGT actualiza sus radares para pillarte aunque frenes antes' />
     </a>
 </div>
 
