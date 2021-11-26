@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-productos-xiaomi-son-curiosos-estan-oferta-durante-black-friday-970881'>Estos productos de Xiaomi son curiosos y están en oferta durante el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-productos-xiaomi-son-curiosos-estan-oferta-durante-black-friday-970881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg' alt='Estos productos de Xiaomi son curiosos y están en oferta durante el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-968751'>Huawei Nova 9, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-968751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-huawei-nova-9-2542911.jpg' alt='Huawei Nova 9, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-robots-aspiradores-baratos-black-friday-2021-969659'>Robots aspiradores desde 79 euros en las ofertas del Black Friday: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-robots-aspiradores-baratos-black-friday-2021-969659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-conga-9090-ia-2532563.jpg' alt='Robots aspiradores desde 79 euros en las ofertas del Black Friday: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/renovar-ps-plus-mejor-precio-black-friday-2021-969447'>Renovar PS Plus al mejor precio en el Black Friday 2021: qué tiendas tienen las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/renovar-ps-plus-mejor-precio-black-friday-2021-969447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-plus-ps-plus-2541109.jpg' alt='Renovar PS Plus al mejor precio en el Black Friday 2021: qué tiendas tienen las mejores ofertas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-vuelve-sorprender-criterios-tomar-rotonda-forma-correcta-971261'>La DGT vuelve a sorprender con los criterios para tomar una rotonda de forma correcta</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-vuelve-sorprender-criterios-tomar-rotonda-forma-correcta-971261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/rotonda-2224161.jpg' alt='La DGT vuelve a sorprender con los criterios para tomar una rotonda de forma correcta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-black-friday-970841'>Estos son los mejores portátiles que puedes comprar en Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-black-friday-970841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-asus-vivobook-pro-14x-2500169.jpg' alt='Estos son los mejores portátiles que puedes comprar en Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gafas-realidad-aumentada-apple-llegaran-primer-trimestre-2022-seran-tan-potentes-como-macbook-pro-971207'>Las gafas de realidad aumentada de Apple llegarán el cuarto trimestre de 2022 y serán tan potentes como un MacBook Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/gafas-realidad-aumentada-apple-llegaran-primer-trimestre-2022-seran-tan-potentes-como-macbook-pro-971207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las gafas de realidad aumentada de Apple llegarán el cuarto trimestre de 2022 y serán tan potentes como un MacBook Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consigue-radio-android-carplay-estas-ofertas-black-friday-970759'>Consigue una radio con Android o CarPlay entre estas ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consigue-radio-android-carplay-estas-ofertas-black-friday-970759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autoradio-coche-2535413.jpg' alt='Consigue una radio con Android o CarPlay entre estas ofertas de Black Friday' />
     </a>
 </div>
 
