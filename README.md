@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301'>Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aprovecha-black-friday-hacer-compras-navidad-estos-son-mejores-productos-971301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Aprovecha el Black Friday para hacer tus compras de navidad: estos son los mejores productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861'>Móntate una Smart Home con estos productos en oferta durante Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/montate-smart-home-estos-productos-oferta-durante-black-friday-970861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/interior-casa-moderna-2544161.jpg' alt='Móntate una Smart Home con estos productos en oferta durante Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-ordenadores-menos-300-euros-comprar-black-friday-2021-970043'>7 ordenadores de menos de 300 euros para comprar en el Black Friday 2021</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-ordenadores-menos-300-euros-comprar-black-friday-2021-970043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/acer-chromebook-2027853.jpg' alt='7 ordenadores de menos de 300 euros para comprar en el Black Friday 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245'>Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pulseras-actividad-oferta-black-friday-971245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326973.jpg' alt='Xiaomi, Amazfit, Huawei… estas son las mejores pulseras de actividad en oferta durante el Black Friday 2021' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089'>¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-ofertas-estufas-radiadores-970089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2542335.jpg' alt='¿Pasas frío en casa? El Black Friday deja varios radiadores y estufas en oferta desde 28 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313'>Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-te-puede-ayudar-rebajar-factura-luz-estos-dispositivos-hoy-son-bastante-baratos-969929'>El Black Friday te puede ayudar a rebajar la factura de la luz con estos dispositivos que hoy son bastante más baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-te-puede-ayudar-rebajar-factura-luz-estos-dispositivos-hoy-son-bastante-baratos-969929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/factura-luz-2542117.jpg' alt='El Black Friday te puede ayudar a rebajar la factura de la luz con estos dispositivos que hoy son bastante más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315'>Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere' />
     </a>
 </div>
 
