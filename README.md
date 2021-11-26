@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313'>Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nadie-te-ha-contado-decision-apple-dejarte-reparar-pantalla-iphone-971313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Lo que nadie te ha contado de la decisión de Apple de dejarte reparar la pantalla de tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-te-puede-ayudar-rebajar-factura-luz-estos-dispositivos-hoy-son-bastante-baratos-969929'>El Black Friday te puede ayudar a rebajar la factura de la luz con estos dispositivos que hoy son bastante más baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-te-puede-ayudar-rebajar-factura-luz-estos-dispositivos-hoy-son-bastante-baratos-969929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/factura-luz-2542117.jpg' alt='El Black Friday te puede ayudar a rebajar la factura de la luz con estos dispositivos que hoy son bastante más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315'>Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-invisible-whatsapp-leer-conversaciones-nadie-entere-971315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Cómo activar el modo invisible de WhatsApp para leer conversaciones sin que nadie se entere' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169'>Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-samsung-oferta-black-friday-971169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-analisis-samsung-galaxy-a52s-2523721.jpg' alt='Los mejores productos de Samsung y en oferta que puedes encontrar en Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-poco-x4-cuatro-nuevos-moviles-971311'>Así será la nueva familia Poco X4: cuatro nuevos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-familia-poco-x4-cuatro-nuevos-moviles-971311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2278545.jpg' alt='Así será la nueva familia Poco X4: cuatro nuevos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-gadgets-cocina-no-sabias-querias-971235'>10 gadgets para la cocina que no sabías que querías</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-gadgets-cocina-no-sabias-querias-971235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/arroz-perfecto-nuevo-gadget-lidl-cuesta-menos-20-euros-2198833.jpg' alt='10 gadgets para la cocina que no sabías que querías' />
     </a>
 </div>
 
