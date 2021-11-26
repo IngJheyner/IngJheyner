@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-freidoras-aceite-969319'>El Black Friday de las freidoras sin aceite: estas son las mejores que puedes comprar hoy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-freidoras-aceite-969319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/philips-essential-airfryer-2261793.jpg' alt='El Black Friday de las freidoras sin aceite: estas son las mejores que puedes comprar hoy' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consigue-radio-android-carplay-estas-ofertas-black-friday-970759'>Consigue una radio con Android o CarPlay entre estas ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consigue-radio-android-carplay-estas-ofertas-black-friday-970759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autoradio-coche-2535413.jpg' alt='Consigue una radio con Android o CarPlay entre estas ofertas de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-lg-pone-tiro-baja-779-euros-precio-historico-970899'>Este televisor OLED de LG se pone a tiro: baja a 779 euros, su precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-lg-pone-tiro-baja-779-euros-precio-historico-970899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lg-oled-2511117.jpg' alt='Este televisor OLED de LG se pone a tiro: baja a 779 euros, su precio histórico más bajo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-xiaomi-baja-poco-arrasa-black-friday-2021-970907'>Uno de los móviles más baratos de Xiaomi baja un poco más y arrasa en el Black Friday 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-xiaomi-baja-poco-arrasa-black-friday-2021-970907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Uno de los móviles más baratos de Xiaomi baja un poco más y arrasa en el Black Friday 2021' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gangas-black-friday-10-chollos-menos-20-euros-970713'>Las gangas del Black Friday: 10 chollos de menos de 20 euros que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gangas-black-friday-10-chollos-menos-20-euros-970713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2143737.jpg' alt='Las gangas del Black Friday: 10 chollos de menos de 20 euros que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionara-nueva-opcion-reacciones-whatsapp-971181'>Así funcionará la nueva opción de reacciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionara-nueva-opcion-reacciones-whatsapp-971181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/whatsapp-2462755.jpg' alt='Así funcionará la nueva opción de reacciones de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241'>Estos son los mejores chollos de Apple durante el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Estos son los mejores chollos de Apple durante el Black Friday' />
+    <h4><a href='https://computerhoy.com/reportajes/motor/mejores-patinetes-electricos-black-friday-2021-969399'>Hoy es el día perfecto para comprar un patinete eléctrico (también de Xiaomi) con hasta un 25% de descuento</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/mejores-patinetes-electricos-black-friday-2021-969399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ninebot-kickscooter-max-g30le-ii-powered-segway-2502605.jpg' alt='Hoy es el día perfecto para comprar un patinete eléctrico (también de Xiaomi) con hasta un 25% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-black-friday-oferta-971125'>El Samsung Galaxy S21+ es el móvil TOP del Black Friday ahora que está en oferta con más de 300€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-black-friday-oferta-971125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-2240051.jpg' alt='El Samsung Galaxy S21+ es el móvil TOP del Black Friday ahora que está en oferta con más de 300€ de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inminente-snapdragon-8-gen-1-pasa-millon-puntos-antutu-971153'>El inminente Snapdragon 8 gen 1 pasa el millón de puntos en Antutu</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inminente-snapdragon-8-gen-1-pasa-millon-puntos-antutu-971153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/qualcomm-snapdragon-888-2388011.jpg' alt='El inminente Snapdragon 8 gen 1 pasa el millón de puntos en Antutu' />
     </a>
 </div>
 
