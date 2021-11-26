@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789'>Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-running-black-friday-2021-garmin-polar-marcas-968789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reloj-deportivo-running-2539999.jpg' alt='Mejores relojes running para comprar en oferta en el Black Friday 2021: Garmin, Polar y más marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-971115'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-971115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2544543.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-xiaomi-black-friday-2021-968747'>Mejores chollos de Xiaomi en el Black Friday 2021: productos en oferta desde 19 euros </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-xiaomi-black-friday-2021-968747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-mi-band-5-2026507.jpg' alt='Mejores chollos de Xiaomi en el Black Friday 2021: productos en oferta desde 19 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861'>Estos son los 10 mejores móviles en oferta en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-oferta-black-friday-2021-968861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-11t-pro-2471921.jpg' alt='Estos son los 10 mejores móviles en oferta en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869'>Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-da-mal-aparcar-retrovisor-inteligente-te-ayudara-bastante-independientemente-coche-antiguo-970869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/retrovisor-inteligente-chortau-2544181.jpg' alt='Si se te da mal aparcar, este retrovisor inteligente te ayudará bastante independientemente de si tu coche es antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/internet-resuelve-gran-misterio-como-doblan-sabanas-ajustables-970707'>Internet resuelve el gran misterio: ¿cómo se doblan las sábanas ajustables?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/internet-resuelve-gran-misterio-como-doblan-sabanas-ajustables-970707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sabanas-dobladas-2543733.jpg' alt='Internet resuelve el gran misterio: ¿cómo se doblan las sábanas ajustables?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cocteles-navidad-fiestas-970959'>4 cócteles con y sin alcohol para sorprender esta Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cocteles-navidad-fiestas-970959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-cocteles-alcohol-sorprender-navidad-2544367.jpg' alt='4 cócteles con y sin alcohol para sorprender esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241'>Estos son los mejores chollos de Apple durante el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-apple-black-friday-970241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Estos son los mejores chollos de Apple durante el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741'>AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/black-friday-2021-aliexpress-mejores-ofertas-chollos-970741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aliexpress-2543763.jpg' alt='AliExpress va a por Amazon en el Black Friday: estos son sus mejores chollos del Viernes Negro' />
     </a>
 </div>
 
