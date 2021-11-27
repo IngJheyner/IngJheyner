@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763'>Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753'>Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-aspiradora-dyson-ahora-momento-v8-animal-barata-nunca-menos-300-euros-971725'>Si quieres una aspiradora Dyson, ahora es el momento: la V8 Animal+ está más barata que nunca, por menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quieres-aspiradora-dyson-ahora-momento-v8-animal-barata-nunca-menos-300-euros-971725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/dyson-v8-animal-plus-2322729.jpg' alt='Si quieres una aspiradora Dyson, ahora es el momento: la V8 Animal+ está más barata que nunca, por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/fossil-gen-6-review-opinion-971267'>Fossil Gen 6, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/fossil-gen-6-review-opinion-971267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-2544965.jpg' alt='Fossil Gen 6, análisis y opinión' />
     </a>
 </div>
 
