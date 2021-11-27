@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695'>Este es el iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695'>iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-pro-electro-fabricado-coche-tesla-fundido-busto-elon-musk-incluido-2545633.jpg' alt='Este es el iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-pro-electro-fabricado-coche-tesla-fundido-busto-elon-musk-incluido-2545633.jpg' alt='iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros' />
     </a>
 </div>
 
