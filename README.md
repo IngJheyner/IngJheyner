@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483'>8 señales de que eres hipocondríaco</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-senales-eres-hipocondriaco-2545423.jpg' alt='8 señales de que eres hipocondríaco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479'>Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces</a></h4>
     <a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/asus-chromebook-z1500cn-2403901.jpg' alt='Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473'>Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-black-friday-puedes-haber-pasado-alto-son-bastante-buenas-2545341.jpg' alt='Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409'>Desaparece una de las características más útiles de Spotify en los móviles Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desaparece-caracteristicas-utiles-spotify-moviles-android-971409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Desaparece una de las características más útiles de Spotify en los móviles Android' />
     </a>
 </div>
 
