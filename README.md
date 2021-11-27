@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697'>El vehículo autónomo de trabajo de Honda ya carga materiales en México</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vehiculo-autonomo-trabajo-honda-ya-carga-materiales-mexico-2545637.jpg' alt='El vehículo autónomo de trabajo de Honda ya carga materiales en México' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631'>Cómo hacer turrón casero en 5 minutos en el microondas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-turron-casero-5-minutos-microondas-2543491.jpg' alt='Cómo hacer turrón casero en 5 minutos en el microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375'>10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/guia-regalos-reyes-magos.jpg' alt='10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295'>El grave error que casi todos cometemos al guardar los huevos en el frigorífico</a></h4>
     <a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huevos-puerta-frigorifico-2544847.jpg' alt='El grave error que casi todos cometemos al guardar los huevos en el frigorífico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695'>iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-pro-electro-fabricado-coche-tesla-fundido-busto-elon-musk-incluido-2545633.jpg' alt='iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483'>8 señales de que eres hipocondríaco</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-senales-eres-hipocondriaco-2545423.jpg' alt='8 señales de que eres hipocondríaco' />
     </a>
 </div>
 
