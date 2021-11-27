@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-elegido-mejores-antivirus-windows-971717'>Microsoft Defender es elegido uno de los mejores antivirus para Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-elegido-mejores-antivirus-windows-971717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Microsoft Defender es elegido uno de los mejores antivirus para Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-cuando-copiar-pegar-windows-10-no-funciona-943679'>Qué hacer cuando copiar/pegar en Windows 10 no funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-cuando-copiar-pegar-windows-10-no-funciona-943679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/windows-10-actualizacion-2339297.jpg' alt='Qué hacer cuando copiar/pegar en Windows 10 no funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/luz-auxiliar-led-inalambrica-951783'>Luces auxiliares LED inalámbricas: modelos, diferencias y consejos de compra</a></h4>
     <a href='https://computerhoy.com/guia-compra/luz-auxiliar-led-inalambrica-951783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/luces-led-1862675.jpg' alt='Luces auxiliares LED inalámbricas: modelos, diferencias y consejos de compra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-vs-huawei-monitores-empatan-precio-ahora-estan-oferta-971459'>Xiaomi vs Huawei: sus monitores empatan en precio ahora que están en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-vs-huawei-monitores-empatan-precio-ahora-estan-oferta-971459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-monitor-1c-2545253.jpg' alt='Xiaomi vs Huawei: sus monitores empatan en precio ahora que están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-viejo-movil-android-como-camara-seguridad-959997'>Cómo usar tu viejo móvil Android como cámara de seguridad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-viejo-movil-android-como-camara-seguridad-959997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/lente-camara-movil.jpg' alt='Cómo usar tu viejo móvil Android como cámara de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697'>El vehículo autónomo de trabajo de Honda ya carga materiales en México</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vehiculo-autonomo-trabajo-honda-ya-carga-materiales-mexico-2545637.jpg' alt='El vehículo autónomo de trabajo de Honda ya carga materiales en México' />
     </a>
 </div>
 
