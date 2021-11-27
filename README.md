@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769'>Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-cloud-ciberdelincuentes-2545741.jpg' alt='Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763'>Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729'>Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stickers-whatsapp-2545695.jpg' alt='Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-aspiradora-dyson-ahora-momento-v8-animal-barata-nunca-menos-300-euros-971725'>Si quieres una aspiradora Dyson, ahora es el momento: la V8 Animal+ está más barata que nunca, por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-aspiradora-dyson-ahora-momento-v8-animal-barata-nunca-menos-300-euros-971725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/dyson-v8-animal-plus-2322729.jpg' alt='Si quieres una aspiradora Dyson, ahora es el momento: la V8 Animal+ está más barata que nunca, por menos de 300 euros' />
     </a>
 </div>
 
