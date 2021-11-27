@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/hp-victus-review-opinion-970753'>HP Victus 16, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/hp-victus-review-opinion-970753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-hp-victus-16-2545033.jpg' alt='HP Victus 16, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-vs-huawei-monitores-empatan-precio-ahora-estan-oferta-971459'>Xiaomi vs Huawei: sus monitores empatan en precio ahora que están en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-vs-huawei-monitores-empatan-precio-ahora-estan-oferta-971459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-monitor-1c-2545253.jpg' alt='Xiaomi vs Huawei: sus monitores empatan en precio ahora que están en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631'>Cómo hacer turrón casero en 5 minutos en el microondas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-turron-casero-5-minutos-microondas-2543491.jpg' alt='Cómo hacer turrón casero en 5 minutos en el microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375'>10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/guia-regalos-reyes-magos.jpg' alt='10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo' />
     </a>
 </div>
 
