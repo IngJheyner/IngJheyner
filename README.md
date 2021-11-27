@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803'>Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532635.jpg' alt='Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-siguen-disponibles-black-friday-han-triunfado-ventas-971701'>10 ofertas que siguen disponibles tras el Black Friday que han triunfado en ventas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-siguen-disponibles-black-friday-han-triunfado-ventas-971701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='10 ofertas que siguen disponibles tras el Black Friday que han triunfado en ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769'>Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-cloud-ciberdelincuentes-2545741.jpg' alt='Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753'>Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-menos-300-euros-supera-lidl-thermomix-todos-competidores-971735'>Este robot de cocina de menos de 300 euros supera al de Lidl, al Thermomix y a todos sus competidores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-menos-300-euros-supera-lidl-thermomix-todos-competidores-971735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-mambo-10090-2545703.jpg' alt='Este robot de cocina de menos de 300 euros supera al de Lidl, al Thermomix y a todos sus competidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729'>Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stickers-whatsapp-2545695.jpg' alt='Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos' />
     </a>
 </div>
 
