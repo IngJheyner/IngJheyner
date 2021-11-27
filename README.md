@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375'>10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-reyes-deberias-comprar-ya-quieres-tenerlos-tiempo-971375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/guia-regalos-reyes-magos.jpg' alt='10 regalos de Reyes que deberías comprar ya si quieres tenerlos a tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cubitos-hidrogel-enfriar-alimentos-bebidas-sin-aguarlos-971187'>Cubitos de hidrogel para enfriar alimentos y bebidas sin aguarlos</a></h4>
     <a href='https://computerhoy.com/noticias/life/cubitos-hidrogel-enfriar-alimentos-bebidas-sin-aguarlos-971187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cubitos-hidrogel-enfriar-alimentos-bebidas-aguarlos-2544645.jpg' alt='Cubitos de hidrogel para enfriar alimentos y bebidas sin aguarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483'>8 señales de que eres hipocondríaco</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-senales-eres-hipocondriaco-2545423.jpg' alt='8 señales de que eres hipocondríaco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479'>Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces</a></h4>
-    <a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/asus-chromebook-z1500cn-2403901.jpg' alt='Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces' />
     </a>
 </div>
 
