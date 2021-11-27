@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753'>Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-menos-300-euros-supera-lidl-thermomix-todos-competidores-971735'>Este robot de cocina de menos de 300 euros supera al de Lidl, al Thermomix y a todos sus competidores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-menos-300-euros-supera-lidl-thermomix-todos-competidores-971735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-mambo-10090-2545703.jpg' alt='Este robot de cocina de menos de 300 euros supera al de Lidl, al Thermomix y a todos sus competidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729'>Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vamos-poder-compartir-stickers-whatsapp-descargarlos-971729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stickers-whatsapp-2545695.jpg' alt='Ahora vamos a poder compartir stickers en WhatsApp sin descargarlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/fossil-gen-6-review-opinion-971267'>Fossil Gen 6, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/fossil-gen-6-review-opinion-971267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-2544965.jpg' alt='Fossil Gen 6, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-elegido-mejores-antivirus-windows-971717'>Microsoft Defender es elegido uno de los mejores antivirus para Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-elegido-mejores-antivirus-windows-971717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Microsoft Defender es elegido uno de los mejores antivirus para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-cuando-copiar-pegar-windows-10-no-funciona-943679'>Qué hacer cuando copiar/pegar en Windows 10 no funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-cuando-copiar-pegar-windows-10-no-funciona-943679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/windows-10-actualizacion-2339297.jpg' alt='Qué hacer cuando copiar/pegar en Windows 10 no funciona' />
     </a>
 </div>
 
