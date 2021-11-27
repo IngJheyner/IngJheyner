@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295'>El grave error que casi todos cometemos al guardar los huevos en el frigorífico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huevos-puerta-frigorifico-2544847.jpg' alt='El grave error que casi todos cometemos al guardar los huevos en el frigorífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695'>Este es el iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-tesla-electro-busto-elon-musk-971695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-pro-electro-fabricado-coche-tesla-fundido-busto-elon-musk-incluido-2545633.jpg' alt='Este es el iPhone 13 Pro Tesla Electro, fabricado con un coche Tesla fundido y con busto de Elon Musk incluido, vale 6.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483'>8 señales de que eres hipocondríaco</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-senales-eres-hipocondriaco-971483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-senales-eres-hipocondriaco-2545423.jpg' alt='8 señales de que eres hipocondríaco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439'>Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-estaria-preparando-portatiles-verian-luz-antes-esperado-971411'>POCO estaría preparando portátiles que verían la luz antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-estaria-preparando-portatiles-verian-luz-antes-esperado-971411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portatil-enfriamiento-2533393.jpg' alt='POCO estaría preparando portátiles que verían la luz antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473'>Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ofertas-black-friday-amazon-971473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ofertas-black-friday-puedes-haber-pasado-alto-son-bastante-buenas-2545341.jpg' alt='Ofertas del Black Friday que puedes haber pasado por alto y que son bastante buenas' />
     </a>
 </div>
 
