@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/luz-auxiliar-led-inalambrica-951783'>Luces auxiliares LED inalámbricas: modelos, diferencias y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/luz-auxiliar-led-inalambrica-951783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/luces-led-1862675.jpg' alt='Luces auxiliares LED inalámbricas: modelos, diferencias y consejos de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/hp-victus-review-opinion-970753'>HP Victus 16, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/hp-victus-review-opinion-970753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-hp-victus-16-2545033.jpg' alt='HP Victus 16, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697'>El vehículo autónomo de trabajo de Honda ya carga materiales en México</a></h4>
     <a href='https://computerhoy.com/noticias/motor/vehiculo-autonomo-trabajo-honda-awv-971697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vehiculo-autonomo-trabajo-honda-ya-carga-materiales-mexico-2545637.jpg' alt='El vehículo autónomo de trabajo de Honda ya carga materiales en México' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631'>Cómo hacer turrón casero en 5 minutos en el microondas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-hacer-turron-casero-5-minutos-microondas-970631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/como-hacer-turron-casero-5-minutos-microondas-2543491.jpg' alt='Cómo hacer turrón casero en 5 minutos en el microondas' />
     </a>
 </div>
 
