@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971'>Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-tiene-soporte-portatil-teletrabajar-donde-aparques-2542205.jpg' alt='Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-559-euros-acer-aspire-3-arrasa-pccomponentes-971815'>Un portátil con Ryzen 7 por 559 euros: el Acer Aspire 3 arrasa en PcComponentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-559-euros-acer-aspire-3-arrasa-pccomponentes-971815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acer-aspire-3-2545783.jpg' alt='Un portátil con Ryzen 7 por 559 euros: el Acer Aspire 3 arrasa en PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803'>Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532635.jpg' alt='Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769'>Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-cloud-nuevo-objetivo-ciberdelincuentes-mineria-criptomonedas-971769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-cloud-ciberdelincuentes-2545741.jpg' alt='Google Cloud: nuevo objetivo de los ciberdelincuentes para la minería de criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763'>Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-habria-comenzado-produccion-nuevos-telefonos-plegables-serian-baratos-971763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='Huawei habría comenzado la producción de nuevos teléfonos plegables, y serían más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753'>Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/habra-antenas-5g-cubrir-misma-zona-4g-pero-veremos-menos-mimetizan-971753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Habrá más antenas 5G para cubrir la misma zona que en 4G, pero las veremos menos: así las mimetizan' />
     </a>
 </div>
 
