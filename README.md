@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cubitos-hidrogel-enfriar-alimentos-bebidas-sin-aguarlos-971187'>Cubitos de hidrogel para enfriar alimentos y bebidas sin aguarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cubitos-hidrogel-enfriar-alimentos-bebidas-sin-aguarlos-971187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cubitos-hidrogel-enfriar-alimentos-bebidas-aguarlos-2544645.jpg' alt='Cubitos de hidrogel para enfriar alimentos y bebidas sin aguarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295'>El grave error que casi todos cometemos al guardar los huevos en el frigorífico</a></h4>
     <a href='https://computerhoy.com/noticias/life/grave-error-casi-todos-cometemos-guardar-huevos-frigorifico-971295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huevos-puerta-frigorifico-2544847.jpg' alt='El grave error que casi todos cometemos al guardar los huevos en el frigorífico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479'>Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces</a></h4>
     <a href='https://computerhoy.com/noticias/chromebook-sensor-presencia-humana-971479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/asus-chromebook-z1500cn-2403901.jpg' alt='Los Chromebook te avisarán si hay un mirón cerca cotilleando lo que haces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439'>Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-quedas-blanco-conversacion-whatsapp-ahora-podras-reaccionar-mensaje-emoji-971439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Si te quedas en blanco en una conversación de WhatsApp ahora podrás reaccionar al mensaje con un emoji' />
     </a>
 </div>
 
