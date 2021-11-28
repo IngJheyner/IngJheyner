@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/radiador-electrico-968015'>Guía y consejos para comprar un radiador eléctrico de bajo consumo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/radiador-electrico-968015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2538837.jpg' alt='Guía y consejos para comprar un radiador eléctrico de bajo consumo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755'>Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538033.jpg' alt='Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805'>Estos uniformes militares con fibra programable pueden almacenar y transmitir datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fibra-programable-2545773.jpg' alt='Estos uniformes militares con fibra programable pueden almacenar y transmitir datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403'>Los 11 usos creativos que puedes darle a tu viejo ordenador</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/09/197444-15-cosas-que-puedes-hacer-ordenador-viejo.jpg' alt='Los 11 usos creativos que puedes darle a tu viejo ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/casa-andante-mobile-home-encho-enchev-969591'>Esta casa con patas está pensada para vivir en lugares extremos, del Himalaya a Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/casa-andante-mobile-home-encho-enchev-969591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/casa-patas-pensada-vivir-lugares-extremos-himalaya-marte-2541459.jpg' alt='Esta casa con patas está pensada para vivir en lugares extremos, del Himalaya a Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971'>Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-tiene-soporte-portatil-teletrabajar-donde-aparques-2542205.jpg' alt='Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques' />
     </a>
 </div>
 
