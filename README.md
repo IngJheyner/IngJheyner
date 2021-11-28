@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049'>5 señales de que tu móvil está a punto de morir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-senales-movil-punto-morir-2546107.jpg' alt='5 señales de que tu móvil está a punto de morir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041'>El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mitico-cuatro-latas-cumple-60-anos-renault-convierte-coche-volador-2546103.jpg' alt='El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989'>El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/kindle-amazon-2431239.jpg' alt='El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979'>Samsung apostará por el mercado de las tabletas en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Samsung apostará por el mercado de las tabletas en 2022' />
     </a>
 </div>
 
