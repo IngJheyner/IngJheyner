@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009'>Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989'>El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/kindle-amazon-2431239.jpg' alt='El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979'>Samsung apostará por el mercado de las tabletas en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Samsung apostará por el mercado de las tabletas en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969'>Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524271.jpg' alt='Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/powertoys-windows-11-guia-de-uso-trucos-968701'>La Gran Biblia de las PowerToys de Windows 11 y todo lo que puedes hacer con ellas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/powertoys-windows-11-guia-de-uso-trucos-968701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/herramientas-powertoys-microsoft-actualizan-windows-11-algunas-mejoras-muy-interesantes-2517863.jpg' alt='La Gran Biblia de las PowerToys de Windows 11 y todo lo que puedes hacer con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771'>¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad' />
     </a>
 </div>
 
