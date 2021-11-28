@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041'>El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mitico-cuatro-latas-cumple-60-anos-renault-convierte-coche-volador-2546103.jpg' alt='El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013'>Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dispositivo-elastico-convierte-movimiento-electricidad-2546025.jpg' alt='Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979'>Samsung apostará por el mercado de las tabletas en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Samsung apostará por el mercado de las tabletas en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799'>La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531805.jpg' alt='La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses' />
     </a>
 </div>
 
