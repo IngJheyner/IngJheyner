@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013'>Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dispositivo-elastico-convierte-movimiento-electricidad-2546025.jpg' alt='Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009'>Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799'>La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531805.jpg' alt='La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969'>Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524271.jpg' alt='Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon' />
     </a>
 </div>
 
