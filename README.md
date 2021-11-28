@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969'>Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524271.jpg' alt='Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/powertoys-windows-11-guia-de-uso-trucos-968701'>La Gran Biblia de las PowerToys de Windows 11 y todo lo que puedes hacer con ellas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/powertoys-windows-11-guia-de-uso-trucos-968701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/herramientas-powertoys-microsoft-actualizan-windows-11-algunas-mejoras-muy-interesantes-2517863.jpg' alt='La Gran Biblia de las PowerToys de Windows 11 y todo lo que puedes hacer con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771'>¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603'>Honor 50 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545333.jpg' alt='Honor 50 5G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/radiador-electrico-968015'>Guía y consejos para comprar un radiador eléctrico de bajo consumo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/radiador-electrico-968015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2538837.jpg' alt='Guía y consejos para comprar un radiador eléctrico de bajo consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755'>Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538033.jpg' alt='Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo' />
     </a>
 </div>
 
