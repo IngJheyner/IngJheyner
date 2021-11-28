@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059'>Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/chromebook-asus-ideal-estudiantes-baja-precio-solo-229-euros-2482647.jpg' alt='Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049'>5 señales de que tu móvil está a punto de morir</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-senales-movil-punto-morir-2546107.jpg' alt='5 señales de que tu móvil está a punto de morir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009'>Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989'>El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kindle-amazon-oferta-pero-hay-otra-tienda-vende-incluso-barato-971989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/kindle-amazon-2431239.jpg' alt='El Kindle de Amazon está en oferta, pero hay otra tienda que lo vende incluso más barato' />
     </a>
 </div>
 
