@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061'>Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carreras-coches-planetas-salvajes-futbol-monos-tres-cabezas-juegazos-gratis-prime-gaming-diciembre-2546137.jpg' alt='Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059'>Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/chromebook-asus-ideal-estudiantes-baja-precio-solo-229-euros-2482647.jpg' alt='Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013'>Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dispositivo-elastico-convierte-movimiento-electricidad-2546025.jpg' alt='Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009'>Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-basica-aun-no-tiene-nueva-microsoft-store-windows-11-pero-llegara-muy-pronto-972009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Esta es la característica básica que aún no tiene la nueva Microsoft Store de Windows 11 pero que llegará muy pronto' />
     </a>
 </div>
 
