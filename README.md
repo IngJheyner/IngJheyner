@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771'>¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719'>Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dolby-vision-wifi-6-mucha-potencia-nuevo-amazon-fire-tv-stick-4k-max-2465817.jpg' alt='Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755'>Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/oferta-macbook-pro-m1-pro-noviembre-2021-motivos-comprar-971755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538033.jpg' alt='Por qué esta oferta en el MacBook Pro (2021) hace que sea el momento de comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805'>Estos uniformes militares con fibra programable pueden almacenar y transmitir datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fibra-programable-2545773.jpg' alt='Estos uniformes militares con fibra programable pueden almacenar y transmitir datos' />
     </a>
 </div>
 
