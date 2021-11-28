@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805'>Estos uniformes militares con fibra programable pueden almacenar y transmitir datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fibra-programable-2545773.jpg' alt='Estos uniformes militares con fibra programable pueden almacenar y transmitir datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fabrican-tesla-model-x-mucho-cafe-dos-ametralladoras-incorporadas-suerte-no-vas-poder-comprar-971809'>Fabrican un Tesla Model X con mucho café y dos ametralladoras incorporadas, y por suerte no lo vas a poder comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fabrican-tesla-model-x-mucho-cafe-dos-ametralladoras-incorporadas-suerte-no-vas-poder-comprar-971809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-x-black-rifle-coffee-2545781.jpg' alt='Fabrican un Tesla Model X con mucho café y dos ametralladoras incorporadas, y por suerte no lo vas a poder comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403'>Los 11 usos creativos que puedes darle a tu viejo ordenador</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/09/197444-15-cosas-que-puedes-hacer-ordenador-viejo.jpg' alt='Los 11 usos creativos que puedes darle a tu viejo ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-andante-mobile-home-encho-enchev-969591'>Esta casa con patas está pensada para vivir en lugares extremos, del Himalaya a Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-andante-mobile-home-encho-enchev-969591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/casa-patas-pensada-vivir-lugares-extremos-himalaya-marte-2541459.jpg' alt='Esta casa con patas está pensada para vivir en lugares extremos, del Himalaya a Marte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971'>Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-buck-soporte-portatil-teletrabajo-969971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bicicleta-electrica-tiene-soporte-portatil-teletrabajar-donde-aparques-2542205.jpg' alt='Esta bicicleta eléctrica tiene un soporte de portátil, para teletrabajar donde aparques' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-559-euros-acer-aspire-3-arrasa-pccomponentes-971815'>Un portátil con Ryzen 7 por 559 euros: el Acer Aspire 3 arrasa en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-559-euros-acer-aspire-3-arrasa-pccomponentes-971815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/acer-aspire-3-2545783.jpg' alt='Un portátil con Ryzen 7 por 559 euros: el Acer Aspire 3 arrasa en PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803'>Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ingres-podria-conocerse-mercado-como-poco-f4-pro-estas-serian-caracteristicas-971803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532635.jpg' alt='Xiaomi Ingres podría conocerse en nuestro mercado como POCO F4 Pro, y estas serían sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-siguen-disponibles-black-friday-han-triunfado-ventas-971701'>10 ofertas que siguen disponibles tras el Black Friday que han triunfado en ventas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-ofertas-siguen-disponibles-black-friday-han-triunfado-ventas-971701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='10 ofertas que siguen disponibles tras el Black Friday que han triunfado en ventas' />
     </a>
 </div>
 
