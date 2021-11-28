@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979'>Samsung apostará por el mercado de las tabletas en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apostara-mercado-tabletas-2022-971979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Samsung apostará por el mercado de las tabletas en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799'>La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-xiaomi-pad-5-oferta-amazon-primera-vez-meses-971799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531805.jpg' alt='La nueva Xiaomi Pad 5 está en oferta en Amazon por primera vez en meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969'>Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-seria-oficial-antes-final-ano-no-seria-primer-telefono-nuevo-snapdragon-971969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524271.jpg' alt='Xiaomi 12 sería oficial antes de final de año: no sería el primer teléfono con el nuevo Snapdragon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771'>¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-alternativa-barata-ps5-971771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='¿No encuentras una PlayStation 5? Xbox ha rebajado su Series S, una de las únicas opciones para la Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719'>Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dolby-vision-wifi-6-mucha-potencia-nuevo-amazon-fire-tv-stick-4k-max-2465817.jpg' alt='Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603'>Honor 50 5G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545333.jpg' alt='Honor 50 5G, análisis y opinión' />
     </a>
 </div>
 
