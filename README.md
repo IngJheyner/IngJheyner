@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249'>Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reino-unido-declara-pulpo-cangrejo-langosta-son-animales-sensibles-como-afecta-pesca-consumo-marisco-2544735.jpg' alt='Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061'>Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carreras-coches-planetas-salvajes-futbol-monos-tres-cabezas-juegazos-gratis-prime-gaming-diciembre-2546137.jpg' alt='Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041'>El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mitico-cuatro-latas-cumple-60-anos-renault-convierte-coche-volador-2546103.jpg' alt='El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013'>Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-dispositivo-elastico-convierte-movimiento-electricidad-incluso-agua-972013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dispositivo-elastico-convierte-movimiento-electricidad-2546025.jpg' alt='Crean un dispositivo elástico que convierte el movimiento en electricidad, incluso bajo el agua' />
     </a>
 </div>
 
