@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719'>Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-aplicaciones-amazon-fire-tv-no-estan-tienda-967719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dolby-vision-wifi-6-mucha-potencia-nuevo-amazon-fire-tv-stick-4k-max-2465817.jpg' alt='Cómo instalar aplicaciones en un Amazon Fire TV que no están en la tienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603'>Honor 50 5G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/honor-50-5g-review-opinion-970603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545333.jpg' alt='Honor 50 5G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/radiador-electrico-968015'>Guía y consejos para comprar un radiador eléctrico de bajo consumo</a></h4>
     <a href='https://computerhoy.com/guia-compra/radiador-electrico-968015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radiador-2538837.jpg' alt='Guía y consejos para comprar un radiador eléctrico de bajo consumo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805'>Estos uniformes militares con fibra programable pueden almacenar y transmitir datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-uniformes-militares-fibra-programable-pueden-almacenar-transmitir-datos-971805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fibra-programable-2545773.jpg' alt='Estos uniformes militares con fibra programable pueden almacenar y transmitir datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fabrican-tesla-model-x-mucho-cafe-dos-ametralladoras-incorporadas-suerte-no-vas-poder-comprar-971809'>Fabrican un Tesla Model X con mucho café y dos ametralladoras incorporadas, y por suerte no lo vas a poder comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fabrican-tesla-model-x-mucho-cafe-dos-ametralladoras-incorporadas-suerte-no-vas-poder-comprar-971809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-x-black-rifle-coffee-2545781.jpg' alt='Fabrican un Tesla Model X con mucho café y dos ametralladoras incorporadas, y por suerte no lo vas a poder comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403'>Los 11 usos creativos que puedes darle a tu viejo ordenador</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/11-usos-creativos-puedes-darle-viejo-ordenador-968403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/09/197444-15-cosas-que-puedes-hacer-ordenador-viejo.jpg' alt='Los 11 usos creativos que puedes darle a tu viejo ordenador' />
     </a>
 </div>
 
