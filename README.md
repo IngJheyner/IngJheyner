@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203'>5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311189.jpg' alt='5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/omicron-punto-puede-producir-otra-pandemia-ciencia-972311'>Qué es Omicron y hasta qué punto puede producir otra pandemia según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/omicron-punto-puede-producir-otra-pandemia-ciencia-972311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/omicron-covid-2546417.jpg' alt='Qué es Omicron y hasta qué punto puede producir otra pandemia según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimas-horas-conseguir-smart-tv-lg-panel-oled-55-descuento-550eu-972197'>Últimas horas para conseguir este Smart TV de LG con panel OLED de 55" y un descuento de 550€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimas-horas-conseguir-smart-tv-lg-panel-oled-55-descuento-550eu-972197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled55cx6la-2546277.jpg' alt='Últimas horas para conseguir este Smart TV de LG con panel OLED de 55" y un descuento de 550€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-multinacional-abandona-redes-sociales-porque-son-peligrosas-jovenes-primera-muchas-972265'>Primera multinacional que abandona las redes sociales porque son peligrosas para los jóvenes: ¿la primera de muchas?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-multinacional-abandona-redes-sociales-porque-son-peligrosas-jovenes-primera-muchas-972265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/redes-sociales-1866207.jpg' alt='Primera multinacional que abandona las redes sociales porque son peligrosas para los jóvenes: ¿la primera de muchas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revienta-guerra-precios-amazon-altavoz-inteligente-aun-barato-alexa-972051'>Google revienta la guerra de precios con Amazon: su altavoz inteligente es aún más barato que Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-revienta-guerra-precios-amazon-altavoz-inteligente-aun-barato-alexa-972051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-nest-mini-2546109.jpg' alt='Google revienta la guerra de precios con Amazon: su altavoz inteligente es aún más barato que Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-trucos-sacarle-maximo-rendimiento-bateria-portatil-windows-11-972247'>6 trucos para sacarle el máximo rendimiento a la batería de tu portátil en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-trucos-sacarle-maximo-rendimiento-bateria-portatil-windows-11-972247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='6 trucos para sacarle el máximo rendimiento a la batería de tu portátil en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-16gb-ram-todo-pantalla-incluida-perfecto-tienes-poco-espacio-casa-972035'>Este ordenador con 16GB de RAM es un todo en uno con pantalla incluida perfecto si tienes poco espacio en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-16gb-ram-todo-pantalla-incluida-perfecto-tienes-poco-espacio-casa-972035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lenovo-ideacentre-3-22ada05-2490165.jpg' alt='Este ordenador con 16GB de RAM es un todo en uno con pantalla incluida perfecto si tienes poco espacio en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineria-criptomonedas-colapsando-centrales-electricas-todo-pais-972223'>La minería de criptomonedas está colapsando las centrales eléctricas de todo un país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mineria-criptomonedas-colapsando-centrales-electricas-todo-pais-972223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/central-nuclear.jpg' alt='La minería de criptomonedas está colapsando las centrales eléctricas de todo un país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/fire-tv-stick-mejor-chollo-cyber-monday-2021-971983'>Por qué el Fire TV Stick desde 18,99€ es el mejor chollo del Cyber Monday 2021</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/fire-tv-stick-mejor-chollo-cyber-monday-2021-971983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Por qué el Fire TV Stick desde 18,99€ es el mejor chollo del Cyber Monday 2021' />
     </a>
 </div>
 
