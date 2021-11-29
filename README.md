@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499'>La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529'>Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519'>China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuantico-qbits-2180917.jpg' alt='China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437'>Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287007.jpg' alt='Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021' />
     </a>
 </div>
 
