@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203'>5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311189.jpg' alt='5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil' />
+    <h4><a href='https://computerhoy.com/noticias/life/chimenea-electrica-lidl-1950-w-da-calor-tiene-efecto-fuego-puedes-comprar-menos-40-euros-972333'>La chimenea eléctrica de LIDL de 1.950 W que da calor, tiene efecto fuego y puedes comprar por menos de 40 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/chimenea-electrica-lidl-1950-w-da-calor-tiene-efecto-fuego-puedes-comprar-menos-40-euros-972333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/chimenea-electrica-newlux-classic-2542331.jpg' alt='La chimenea eléctrica de LIDL de 1.950 W que da calor, tiene efecto fuego y puedes comprar por menos de 40 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/omicron-punto-puede-producir-otra-pandemia-ciencia-972311'>Qué es Omicron y hasta qué punto puede producir otra pandemia según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/omicron-punto-puede-producir-otra-pandemia-ciencia-972311' target='_blank'>
+    <h4><a href='https://computerhoy.com/listas/life/satisfyer-mas-vendidos-mejores-ofertas-972235'>Los Satisfyer más vendidos siguen en oferta: estos modelos tienen hasta un 65% de descuento</a></h4>
+    <a href='https://computerhoy.com/listas/life/satisfyer-mas-vendidos-mejores-ofertas-972235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2539995.jpg' alt='Los Satisfyer más vendidos siguen en oferta: estos modelos tienen hasta un 65% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aterradores-numeros-ocu-analizar-black-friday-2021-972351'>Los aterradores números de la OCU tras analizar el Black Friday 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aterradores-numeros-ocu-analizar-black-friday-2021-972351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ahorrar-black-friday-2542535.jpg' alt='Los aterradores números de la OCU tras analizar el Black Friday 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/omicron-punto-puede-producir-otra-pandemia-ciencia-972311'>Qué es Omicron y hasta qué punto puede producir otra pandemia según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/omicron-punto-puede-producir-otra-pandemia-ciencia-972311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/omicron-covid-2546417.jpg' alt='Qué es Omicron y hasta qué punto puede producir otra pandemia según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimas-horas-conseguir-smart-tv-lg-panel-oled-55-descuento-550eu-972197'>Últimas horas para conseguir este Smart TV de LG con panel OLED de 55" y un descuento de 550€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimas-horas-conseguir-smart-tv-lg-panel-oled-55-descuento-550eu-972197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled55cx6la-2546277.jpg' alt='Últimas horas para conseguir este Smart TV de LG con panel OLED de 55" y un descuento de 550€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-multinacional-abandona-redes-sociales-porque-son-peligrosas-jovenes-primera-muchas-972265'>Primera multinacional que abandona las redes sociales porque son peligrosas para los jóvenes: ¿la primera de muchas?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-multinacional-abandona-redes-sociales-porque-son-peligrosas-jovenes-primera-muchas-972265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/redes-sociales-1866207.jpg' alt='Primera multinacional que abandona las redes sociales porque son peligrosas para los jóvenes: ¿la primera de muchas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revienta-guerra-precios-amazon-altavoz-inteligente-aun-barato-alexa-972051'>Google revienta la guerra de precios con Amazon: su altavoz inteligente es aún más barato que Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-revienta-guerra-precios-amazon-altavoz-inteligente-aun-barato-alexa-972051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-nest-mini-2546109.jpg' alt='Google revienta la guerra de precios con Amazon: su altavoz inteligente es aún más barato que Alexa' />
+    <h4><a href='https://computerhoy.com/noticias/life/tener-hijos-te-cambia-vida-particular-cerebro-madre-nuevo-estudio-cientifico-972321'>"Tener hijos te cambia la vida” y, en particular, el cerebro de la madre según un nuevo estudio científico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tener-hijos-te-cambia-vida-particular-cerebro-madre-nuevo-estudio-cientifico-972321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/madre-hijos-2546427.jpg' alt='"Tener hijos te cambia la vida” y, en particular, el cerebro de la madre según un nuevo estudio científico' />
     </a>
 </div>
 
