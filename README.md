@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249'>Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249'>Reino Unido cataloga al pulpo, el cangrejo y la langosta como animales sensibles... ¿en qué afecta a la pesca y consumo de marisco?</a></h4>
     <a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reino-unido-declara-pulpo-cangrejo-langosta-son-animales-sensibles-como-afecta-pesca-consumo-marisco-2544735.jpg' alt='Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reino-unido-declara-pulpo-cangrejo-langosta-son-animales-sensibles-como-afecta-pesca-consumo-marisco-2544735.jpg' alt='Reino Unido cataloga al pulpo, el cangrejo y la langosta como animales sensibles... ¿en qué afecta a la pesca y consumo de marisco?' />
     </a>
 </div>
 
