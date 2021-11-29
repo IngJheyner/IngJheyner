@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617'>Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español</a></h4>
+    <a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estrena-primer-estadio-futbol-desmontable-caben-40000-personas-ha-sido-disenado-estudio-espanol-2546871.jpg' alt='Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605'>Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217025.jpg' alt='Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567'>Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/jack-dorsey-2229953.jpg' alt='Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591'>Autobuses sin destino, la última moda en Hong Kong</a></h4>
-    <a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autobuses-destino-ultima-moda-hong-kong-2546805.jpg' alt='Autobuses sin destino, la última moda en Hong Kong' />
     </a>
 </div>
 
