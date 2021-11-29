@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529'>Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-windows-11-menos-1-kg-peso-portatil-lg-arrasa-amazon-bajar-600-euros-precio-971463'>16 GB de RAM, Windows 11 y menos de 1 kg de peso: este portátil de LG arrasa en Amazon tras bajar 600 euros de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-windows-11-menos-1-kg-peso-portatil-lg-arrasa-amazon-bajar-600-euros-precio-971463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/lg-gram-2308575.jpg' alt='16 GB de RAM, Windows 11 y menos de 1 kg de peso: este portátil de LG arrasa en Amazon tras bajar 600 euros de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-10-recibe-parche-seguridad-critico-no-ha-sido-parte-microsoft-972535'>Windows 10 recibe un parche de seguridad crítico... y no ha sido por parte de Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-10-recibe-parche-seguridad-critico-no-ha-sido-parte-microsoft-972535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-solucionar-todos-problemas-windows-10-tan-solo-30-minutos-2408513.jpg' alt='Windows 10 recibe un parche de seguridad crítico... y no ha sido por parte de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519'>China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuantico-qbits-2180917.jpg' alt='China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437'>Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287007.jpg' alt='Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281'>Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled48a16la-2546387.jpg' alt='Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-3090-ti-modelo-premium-doble-memoria-gddr6x-21-gb-s-ancho-banda-972443'>NVIDIA RTX 3090 Ti, el modelo premium con una mejor memoria GDDR6X y hasta 21 GB/s de ancho de banda</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-rtx-3090-ti-modelo-premium-doble-memoria-gddr6x-21-gb-s-ancho-banda-972443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='NVIDIA RTX 3090 Ti, el modelo premium con una mejor memoria GDDR6X y hasta 21 GB/s de ancho de banda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355'>Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tp-link-tapo-c200-2413695.jpg' alt='Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento' />
     </a>
 </div>
 
