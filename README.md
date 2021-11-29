@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355'>Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tp-link-tapo-c200-2413695.jpg' alt='Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasara-shiba-inu-dogecoin-2022-972439'>¿Qué pasará con Shiba Inu y Dogecoin en 2022?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasara-shiba-inu-dogecoin-2022-972439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='¿Qué pasará con Shiba Inu y Dogecoin en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425'>Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ventajas-neumaticos-invierno-coches-deberiamos-usarlos-972329'>Ventajas de los neumáticos de invierno para coches y por qué deberíamos usarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ventajas-neumaticos-invierno-coches-deberiamos-usarlos-972329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/neumatico-invierno-2546439.jpg' alt='Ventajas de los neumáticos de invierno para coches y por qué deberíamos usarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/funciones-ya-tiene-competencia-whatsapp-deberia-incluir-inmediatamente-972361'>Funciones que ya tiene su competencia y que WhatsApp debería incluir inmediatamente</a></h4>
     <a href='https://computerhoy.com/noticias/funciones-ya-tiene-competencia-whatsapp-deberia-incluir-inmediatamente-972361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-funcionara-cifrado-extremo-extremo-copias-seguridad-whatsapp-2428229.jpg' alt='Funciones que ya tiene su competencia y que WhatsApp debería incluir inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-xiaomi-oferta-amazon-50eu-descuento-972301'>El móvil más potente de Xiaomi está en oferta en Amazon con 50€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-xiaomi-oferta-amazon-50eu-descuento-972301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-xiaomi-11t-pro-2495815.jpg' alt='El móvil más potente de Xiaomi está en oferta en Amazon con 50€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/motivos-aprovechar-oferta-microsoft-surface-laptop-cyber-monday-2021-972217'>5 motivos para aprovechar la oferta en el Microsoft Surface Laptop GO que lo deja en solo 529€ durante el Cyber Monday 2021</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/motivos-aprovechar-oferta-microsoft-surface-laptop-cyber-monday-2021-972217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/microsoft-surface-laptop-go-2219113.jpg' alt='5 motivos para aprovechar la oferta en el Microsoft Surface Laptop GO que lo deja en solo 529€ durante el Cyber Monday 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/chimenea-electrica-lidl-1950-w-da-calor-tiene-efecto-fuego-puedes-comprar-menos-40-euros-972333'>La chimenea eléctrica de LIDL de 1.950 W que da calor, tiene efecto fuego y puedes comprar por menos de 40 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/chimenea-electrica-lidl-1950-w-da-calor-tiene-efecto-fuego-puedes-comprar-menos-40-euros-972333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/chimenea-electrica-newlux-classic-2542331.jpg' alt='La chimenea eléctrica de LIDL de 1.950 W que da calor, tiene efecto fuego y puedes comprar por menos de 40 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/satisfyer-mas-vendidos-mejores-ofertas-972235'>Los Satisfyer más vendidos siguen en oferta: estos modelos tienen hasta un 65% de descuento</a></h4>
-    <a href='https://computerhoy.com/listas/life/satisfyer-mas-vendidos-mejores-ofertas-972235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2539995.jpg' alt='Los Satisfyer más vendidos siguen en oferta: estos modelos tienen hasta un 65% de descuento' />
     </a>
 </div>
 
