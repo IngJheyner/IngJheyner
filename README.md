@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605'>Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217025.jpg' alt='Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609'>Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565'>Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567'>Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/jack-dorsey-2229953.jpg' alt='Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591'>Autobuses sin destino, la última moda en Hong Kong</a></h4>
     <a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autobuses-destino-ultima-moda-hong-kong-2546805.jpg' alt='Autobuses sin destino, la última moda en Hong Kong' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lepht-anonym-biohacker-972577'>Quién es Lepht Anonym, la biohacker que se ha implantado más de 50 chips y antenas en el cuerpo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lepht-anonym-biohacker-972577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/quien-lepht-anonym-biohacker-ha-implantado-50-chips-antenas-cuerpo-2546777.jpg' alt='Quién es Lepht Anonym, la biohacker que se ha implantado más de 50 chips y antenas en el cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-vuelve-andadas-windows-11-recupera-malas-practicas-internet-explorer-972583'>Microsoft vuelve a las andadas en Windows 11 y recupera las malas prácticas de Internet Explorer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-vuelve-andadas-windows-11-recupera-malas-practicas-internet-explorer-972583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Microsoft vuelve a las andadas en Windows 11 y recupera las malas prácticas de Internet Explorer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499'>La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis' />
     </a>
 </div>
 
