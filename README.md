@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437'>Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solo-59-euros-reloj-inteligente-huawei-gangas-cyber-monday-2021-972437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287007.jpg' alt='Por solo 59 euros, este reloj inteligente de Huawei es una de las gangas del Cyber Monday 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281'>Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled48a16la-2546387.jpg' alt='Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasara-shiba-inu-dogecoin-2022-972439'>¿Qué pasará con Shiba Inu y Dogecoin en 2022?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasara-shiba-inu-dogecoin-2022-972439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='¿Qué pasará con Shiba Inu y Dogecoin en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425'>Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas' />
     </a>
 </div>
 
