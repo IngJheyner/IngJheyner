@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047'>Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991'>30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cyber-monday-2545985.jpg' alt='30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059'>Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/chromebook-asus-ideal-estudiantes-baja-precio-solo-229-euros-2482647.jpg' alt='Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049'>5 señales de que tu móvil está a punto de morir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-senales-movil-punto-morir-2546107.jpg' alt='5 señales de que tu móvil está a punto de morir' />
     </a>
 </div>
 
