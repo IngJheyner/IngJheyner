@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-solo-529-euros-precio-portatil-lenovo-mejores-gangas-cyber-monday-971813'>Ryzen 7 y solo 529 euros de precio: este portátil de Lenovo es una de las mejores gangas del Cyber Monday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-solo-529-euros-precio-portatil-lenovo-mejores-gangas-cyber-monday-971813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lenovo-ideapad-3-2028221.jpg' alt='Ryzen 7 y solo 529 euros de precio: este portátil de Lenovo es una de las mejores gangas del Cyber Monday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-972191'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-972191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2546269.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultima-oportunidad-conseguir-hbo-max-descuento-50-siempre-972045'>Esta es tu última oportunidad para conseguir HBO Max con un descuento del 50% para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ultima-oportunidad-conseguir-hbo-max-descuento-50-siempre-972045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hbo-max-espana-2512835.jpg' alt='Esta es tu última oportunidad para conseguir HBO Max con un descuento del 50% para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047'>Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991'>30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cyber-monday-2545985.jpg' alt='30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249'>Reino Unido cataloga al pulpo, el cangrejo y la langosta como animales sensibles... ¿en qué afecta a la pesca y consumo de marisco?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reino-unido-declara-pulpo-cangrejo-langosta-son-animales-sensibles-como-afecta-pesca-consumo-marisco-2544735.jpg' alt='Reino Unido cataloga al pulpo, el cangrejo y la langosta como animales sensibles... ¿en qué afecta a la pesca y consumo de marisco?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061'>Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juegos-gratis-prime-gaming-diciembre-972061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carreras-coches-planetas-salvajes-futbol-monos-tres-cabezas-juegazos-gratis-prime-gaming-diciembre-2546137.jpg' alt='Carreras de coches, planetas salvajes, fútbol, y monos de tres cabezas entre los juegazos gratis de Prime Gaming en diciembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059'>Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-chromebook-precio-minimo-972059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/chromebook-asus-ideal-estudiantes-baja-precio-solo-229-euros-2482647.jpg' alt='Si buscas un portátil para niños, este Asus Chromebook cae a su precio mínimo, solo 179 euros' />
     </a>
 </div>
 
