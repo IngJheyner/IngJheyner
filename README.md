@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deja-contar-largos-reloj-garmin-pensado-nadadores-amazon-tiene-muy-rebajado-precio-971973'>Deja de contar largos con este reloj Garmin pensado para nadadores que Amazon tiene muy rebajado de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deja-contar-largos-reloj-garmin-pensado-nadadores-amazon-tiene-muy-rebajado-precio-971973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/garmin-swim-2-2545955.jpg' alt='Deja de contar largos con este reloj Garmin pensado para nadadores que Amazon tiene muy rebajado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-solo-529-euros-precio-portatil-lenovo-mejores-gangas-cyber-monday-971813'>Ryzen 7 y solo 529 euros de precio: este portátil de Lenovo es una de las mejores gangas del Cyber Monday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-solo-529-euros-precio-portatil-lenovo-mejores-gangas-cyber-monday-971813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lenovo-ideapad-3-2028221.jpg' alt='Ryzen 7 y solo 529 euros de precio: este portátil de Lenovo es una de las mejores gangas del Cyber Monday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047'>Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cyber-monday-2021-mejores-ofertas-tecnologia-972047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='Cyber Monday 2021: 10 ofertas en tecnología que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991'>30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cyber-monday-2545985.jpg' alt='30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday' />
     </a>
 </div>
 
