@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567'>Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/jack-dorsey-2229953.jpg' alt='Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591'>Autobuses sin destino, la última moda en Hong Kong</a></h4>
+    <a href='https://computerhoy.com/noticias/life/autobuses-destino-ultima-moda-hong-kong-972591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/autobuses-destino-ultima-moda-hong-kong-2546805.jpg' alt='Autobuses sin destino, la última moda en Hong Kong' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lepht-anonym-biohacker-972577'>Quién es Lepht Anonym, la biohacker que se ha implantado más de 50 chips y antenas en el cuerpo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lepht-anonym-biohacker-972577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/quien-lepht-anonym-biohacker-ha-implantado-50-chips-antenas-cuerpo-2546777.jpg' alt='Quién es Lepht Anonym, la biohacker que se ha implantado más de 50 chips y antenas en el cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-vuelve-andadas-windows-11-recupera-malas-practicas-internet-explorer-972583'>Microsoft vuelve a las andadas en Windows 11 y recupera las malas prácticas de Internet Explorer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-vuelve-andadas-windows-11-recupera-malas-practicas-internet-explorer-972583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Microsoft vuelve a las andadas en Windows 11 y recupera las malas prácticas de Internet Explorer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499'>La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-fondos-animados-windows-aterriza-hoy-android-gratis-972499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='La mejor aplicación de fondos animados de Windows aterriza hoy en Android y es gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529'>Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-972529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Se filtra el diseño del realme GT 2 Pro y es un golpe de nostalgia para los fans del Nexus 6P' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-windows-11-menos-1-kg-peso-portatil-lg-arrasa-amazon-bajar-600-euros-precio-971463'>16 GB de RAM, Windows 11 y menos de 1 kg de peso: este portátil de LG arrasa en Amazon tras bajar 600 euros de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-windows-11-menos-1-kg-peso-portatil-lg-arrasa-amazon-bajar-600-euros-precio-971463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/lg-gram-2308575.jpg' alt='16 GB de RAM, Windows 11 y menos de 1 kg de peso: este portátil de LG arrasa en Amazon tras bajar 600 euros de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-10-recibe-parche-seguridad-critico-no-ha-sido-parte-microsoft-972535'>Windows 10 recibe un parche de seguridad crítico... y no ha sido por parte de Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-10-recibe-parche-seguridad-critico-no-ha-sido-parte-microsoft-972535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-solucionar-todos-problemas-windows-10-tan-solo-30-minutos-2408513.jpg' alt='Windows 10 recibe un parche de seguridad crítico... y no ha sido por parte de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519'>China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-ha-encontrado-solucion-descifrar-datos-robados-piratas-favor-972519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuantico-qbits-2180917.jpg' alt='China ha encontrado la solución para descifrar los datos robados de los piratas... a su favor' />
     </a>
 </div>
 
