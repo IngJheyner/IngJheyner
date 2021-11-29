@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281'>Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-lg-oled-43-pulgadas-oferta-pccomponentes-972281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled48a16la-2546387.jpg' alt='Sí, ya es hora de cambiar tu Smart TV: hazlo con esta LG OLED de 48" con 4K y Dolby Vision por 699€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-3090-ti-modelo-premium-doble-memoria-gddr6x-21-gb-s-ancho-banda-972443'>NVIDIA RTX 3090 Ti, el modelo premium con una mejor memoria GDDR6X y hasta 21 GB/s de ancho de banda</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-rtx-3090-ti-modelo-premium-doble-memoria-gddr6x-21-gb-s-ancho-banda-972443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='NVIDIA RTX 3090 Ti, el modelo premium con una mejor memoria GDDR6X y hasta 21 GB/s de ancho de banda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355'>Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-vigilancia-menos-20eu-tiene-vision-nocturna-deteccion-movimiento-972355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tp-link-tapo-c200-2413695.jpg' alt='Está cámara de vigilancia de menos de 20€ tiene visión nocturna y detección de movimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425'>Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/principales-riesgos-deberias-conocer-antes-invertir-bitcoin-otras-criptomonedas-972425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Los principales riesgos que deberías conocer antes de invertir en Bitcoin y otras criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ventajas-neumaticos-invierno-coches-deberiamos-usarlos-972329'>Ventajas de los neumáticos de invierno para coches y por qué deberíamos usarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ventajas-neumaticos-invierno-coches-deberiamos-usarlos-972329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/neumatico-invierno-2546439.jpg' alt='Ventajas de los neumáticos de invierno para coches y por qué deberíamos usarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funciones-ya-tiene-competencia-whatsapp-deberia-incluir-inmediatamente-972361'>Funciones que ya tiene su competencia y que WhatsApp debería incluir inmediatamente</a></h4>
-    <a href='https://computerhoy.com/noticias/funciones-ya-tiene-competencia-whatsapp-deberia-incluir-inmediatamente-972361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-funcionara-cifrado-extremo-extremo-copias-seguridad-whatsapp-2428229.jpg' alt='Funciones que ya tiene su competencia y que WhatsApp debería incluir inmediatamente' />
     </a>
 </div>
 
