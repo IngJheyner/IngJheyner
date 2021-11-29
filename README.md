@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991'>30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/1ofertas-arrasaron-black-friday-siguen-disponibles-cyber-monday-2021-971991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cyber-monday-2545985.jpg' alt='30 ofertas que arrasaron en el Black Friday que siguen disponibles en el Cyber Monday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249'>Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?</a></h4>
     <a href='https://computerhoy.com/noticias/life/reino-unido-pulpo-cangrejo-langosta-animales-sensibles-971249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reino-unido-declara-pulpo-cangrejo-langosta-son-animales-sensibles-como-afecta-pesca-consumo-marisco-2544735.jpg' alt='Reino Unido declara que el pulpo, el cangrejo y la langosta son animales sensibles... ¿cómo afecta a la pesca y consumo de marisco?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049'>5 señales de que tu móvil está a punto de morir</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-senales-movil-punto-morir-972049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/5-senales-movil-punto-morir-2546107.jpg' alt='5 señales de que tu móvil está a punto de morir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041'>El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renault-4l-cuatro-latas-coche-volador-972041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mitico-cuatro-latas-cumple-60-anos-renault-convierte-coche-volador-2546103.jpg' alt='El mítico Cuatro Latas cumple 60 años y Renault lo convierte en coche volador' />
     </a>
 </div>
 
