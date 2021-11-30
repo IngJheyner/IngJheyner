@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909'>16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-s425mc-r5240g0110-2547225.jpg' alt='16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-4000-ya-serian-realidad-fecha-lanzamiento-tamano-chip-972871'>Las Nvidia RTX 4000 ya serían una realidad: fecha de lanzamiento y tamaño del chip</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-rtx-4000-ya-serian-realidad-fecha-lanzamiento-tamano-chip-972871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='Las Nvidia RTX 4000 ya serían una realidad: fecha de lanzamiento y tamaño del chip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologiaxiaomi-walkingpad-r1-pro-cinta-andar-correr-oferta-972341'>Para andar o para correr: mantente activo con la cinta de correr Xiaomi WalkingPad R1 Pro que ahora está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologiaxiaomi-walkingpad-r1-pro-cinta-andar-correr-oferta-972341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-walkingpad-r1-pro-2546517.jpg' alt='Para andar o para correr: mantente activo con la cinta de correr Xiaomi WalkingPad R1 Pro que ahora está en oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
     <a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623'>Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zumo-antiinflamatorio-previene-multitud-enfermedades-doctor-muy-facil-preparar-2546877.jpg' alt='Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617'>Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español</a></h4>
-    <a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estrena-primer-estadio-futbol-desmontable-caben-40000-personas-ha-sido-disenado-estudio-espanol-2546871.jpg' alt='Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español' />
     </a>
 </div>
 
