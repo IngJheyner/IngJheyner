@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977'>Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989'>Android Auto comienza a implementar el soporte para doble SIM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='Android Auto comienza a implementar el soporte para doble SIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nanochips-reprograman-celulas-futuro-tecnologico-medicina-972925'>Nanochips que reprograman nuestras células: así es el futuro tecnológico de la medicina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nanochips-reprograman-celulas-futuro-tecnologico-medicina-972925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nanochips-2547337.jpg' alt='Nanochips que reprograman nuestras células: así es el futuro tecnológico de la medicina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/extension-permite-recuperar-contador-no-me-gusta-perdido-videos-youtube-972907'>Esta extensión permite recuperar el contador de ‘No me gusta’ perdido en los vídeos de YouTube</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/extension-permite-recuperar-contador-no-me-gusta-perdido-videos-youtube-972907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dislike-youtube-2537793.jpg' alt='Esta extensión permite recuperar el contador de ‘No me gusta’ perdido en los vídeos de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909'>16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-s425mc-r5240g0110-2547225.jpg' alt='16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-4000-ya-serian-realidad-fecha-lanzamiento-tamano-chip-972871'>Las Nvidia RTX 4000 ya serían una realidad: fecha de lanzamiento y tamaño del chip</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-rtx-4000-ya-serian-realidad-fecha-lanzamiento-tamano-chip-972871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='Las Nvidia RTX 4000 ya serían una realidad: fecha de lanzamiento y tamaño del chip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologiaxiaomi-walkingpad-r1-pro-cinta-andar-correr-oferta-972341'>Para andar o para correr: mantente activo con la cinta de correr Xiaomi WalkingPad R1 Pro que ahora está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologiaxiaomi-walkingpad-r1-pro-cinta-andar-correr-oferta-972341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-walkingpad-r1-pro-2546517.jpg' alt='Para andar o para correr: mantente activo con la cinta de correr Xiaomi WalkingPad R1 Pro que ahora está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-972843'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-972843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2547103.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
-    <a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
     </a>
 </div>
 
