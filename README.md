@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177'>Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125'>Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/movil-gaming-qualcomm-2095395.jpg' alt='Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103'>El sorprendente hito que Bizum conseguirá por primera vez este 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='El sorprendente hito que Bizum conseguirá por primera vez este 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969'>Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-bongo-serie-z-road-dark-green-2547339.jpg' alt='Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros' />
     </a>
 </div>
 
