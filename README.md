@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011'>Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mcdonalds.jpg' alt='Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605'>Huawei Mateview de 28", análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-huawei-mateview-2543823.jpg' alt='Huawei Mateview de 28", análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuatro-criptomonedas-hay-seguir-muy-cerca-2022-expertos-972999'>Cuatro criptomonedas que hay que seguir muy de cerca en 2022 según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuatro-criptomonedas-hay-seguir-muy-cerca-2022-expertos-972999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/criptomonedas-2321849.jpg' alt='Cuatro criptomonedas que hay que seguir muy de cerca en 2022 según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977'>Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989'>Android Auto comienza a implementar el soporte para doble SIM</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='Android Auto comienza a implementar el soporte para doble SIM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nanochips-reprograman-celulas-futuro-tecnologico-medicina-972925'>Nanochips que reprograman nuestras células: así es el futuro tecnológico de la medicina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nanochips-reprograman-celulas-futuro-tecnologico-medicina-972925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nanochips-2547337.jpg' alt='Nanochips que reprograman nuestras células: así es el futuro tecnológico de la medicina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/extension-permite-recuperar-contador-no-me-gusta-perdido-videos-youtube-972907'>Esta extensión permite recuperar el contador de ‘No me gusta’ perdido en los vídeos de YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/extension-permite-recuperar-contador-no-me-gusta-perdido-videos-youtube-972907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dislike-youtube-2537793.jpg' alt='Esta extensión permite recuperar el contador de ‘No me gusta’ perdido en los vídeos de YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909'>16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-procesador-ryzen-5-menos-500-euros-pc-sobremesa-bestia-sale-muy-barata-972909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-s425mc-r5240g0110-2547225.jpg' alt='16GB de RAM y procesador Ryzen 5 por menos de 500 euros: este PC de sobremesa es una bestia que sale muy barata' />
     </a>
 </div>
 
