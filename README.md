@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257'>Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/elon-musk-2516619.jpg' alt='Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207'>Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/rocket-league-sideswipe-2276383.jpg' alt='Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245'>Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... </a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-presumir-lamborghini-menos-500-euros-eso-patinete-no-coche-2547873.jpg' alt='Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163'>YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos' />
     </a>
 </div>
 
