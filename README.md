@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos soprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
+    <a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos soprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623'>Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar</a></h4>
     <a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zumo-antiinflamatorio-previene-multitud-enfermedades-doctor-muy-facil-preparar-2546877.jpg' alt='Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609'>Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año</a></h4>
     <a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565'>Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga' />
     </a>
 </div>
 
