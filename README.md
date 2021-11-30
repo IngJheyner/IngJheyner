@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163'>YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229'>Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/malware-movil-2256283.jpg' alt='Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225'>Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-desarrollando-cable-cargar-coches-electricos-5-minutos-2547775.jpg' alt='Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161'>Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-2547757.jpg' alt='Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/16-chollos-xiaomi-menos-30eu-tienen-envio-espana-973087'>16 chollos Xiaomi de menos de 30€ que tienen envío desde España</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/16-chollos-xiaomi-menos-30eu-tienen-envio-espana-973087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/logo-xiaomi-2126367.jpg' alt='16 chollos Xiaomi de menos de 30€ que tienen envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177'>Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10' />
     </a>
 </div>
 
