@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207'>Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/rocket-league-sideswipe-2276383.jpg' alt='Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209'>Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163'>YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229'>Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/malware-movil-2256283.jpg' alt='Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario' />
     </a>
 </div>
 
