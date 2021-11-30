@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209'>Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239'>Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245'>Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-presumir-lamborghini-menos-500-euros-eso-patinete-no-coche-2547873.jpg' alt='Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163'>YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-android-tv-mejorando-fin-interfaz-reproduccion-lista-videos-973163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='YouTube se actualiza en Android TV mejorando, por fin, la interfaz de reproducción de una lista de vídeos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229'>Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/escaner-qr-visor-pdf-descubren-varias-apps-google-play-infectadas-troyano-bancario-973229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/malware-movil-2256283.jpg' alt='Escáner QR, visor de PDF y más: descubren varias apps en Google Play infectadas con un troyano bancario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225'>Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-desarrollando-cable-cargar-coches-electricos-5-minutos-2547775.jpg' alt='Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-descubre-cierto-tipo-carro-supermercado-te-hace-gastar-973223'>Un estudio descubre que cierto tipo de carro de supermercado te hace gastar más</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-descubre-cierto-tipo-carro-supermercado-te-hace-gastar-973223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacer-compra-supermercado-2547773.jpg' alt='Un estudio descubre que cierto tipo de carro de supermercado te hace gastar más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161'>Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-2547757.jpg' alt='Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial' />
     </a>
 </div>
 
