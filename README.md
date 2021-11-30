@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125'>Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/movil-gaming-qualcomm-2095395.jpg' alt='Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155'>Tu router, el corazón de tu hogar inteligente</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/familia-salon-consultando-tablet-2547677.jpg' alt='Tu router, el corazón de tu hogar inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085'>Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-movil-2535399.jpg' alt='Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969'>Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-bongo-serie-z-road-dark-green-2547339.jpg' alt='Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065'>Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013'>Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/11-mitos-electrodomesticos-hora-dejes-creerte-2157733.jpg' alt='Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU' />
     </a>
 </div>
 
