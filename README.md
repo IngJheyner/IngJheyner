@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003'>Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg' alt='Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011'>Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mcdonalds.jpg' alt='Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977'>Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989'>Android Auto comienza a implementar el soporte para doble SIM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-comienza-implementar-soporte-doble-sim-972989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='Android Auto comienza a implementar el soporte para doble SIM' />
     </a>
 </div>
 
