@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065'>Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013'>Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/11-mitos-electrodomesticos-hora-dejes-creerte-2157733.jpg' alt='Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003'>Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg' alt='Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605'>Huawei Mateview de 28", análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-huawei-mateview-2543823.jpg' alt='Huawei Mateview de 28", análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuatro-criptomonedas-hay-seguir-muy-cerca-2022-expertos-972999'>Cuatro criptomonedas que hay que seguir muy de cerca en 2022 según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuatro-criptomonedas-hay-seguir-muy-cerca-2022-expertos-972999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/criptomonedas-2321849.jpg' alt='Cuatro criptomonedas que hay que seguir muy de cerca en 2022 según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977'>Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-va-dyson-aspiradoras-baratas-vacuum-cleaner-ligh-pesa-solo-12-kg-casi-mitad-precio-972977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='Xiaomi va a por Dyson con sus aspiradoras baratas: la Vacuum Cleaner Ligh pesa sólo 1,2 kg y está casi a mitad de precio' />
     </a>
 </div>
 
