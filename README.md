@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos soprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
     <a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos soprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
     </a>
 </div>
 
