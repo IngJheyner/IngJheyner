@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623'>Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/zumo-antiinflamatorio-972623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/zumo-antiinflamatorio-previene-multitud-enfermedades-doctor-muy-facil-preparar-2546877.jpg' alt='Este zumo antiinflamatorio previene multitud de enfermedades, según un doctor, y es muy fácil de preparar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617'>Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español</a></h4>
     <a href='https://computerhoy.com/noticias/life/stadium-974-primer-estadio-futbol-desmontable-972617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estrena-primer-estadio-futbol-desmontable-caben-40000-personas-ha-sido-disenado-estudio-espanol-2546871.jpg' alt='Se estrena el primer estadio de fútbol desmontable, caben 40.000 personas y ha sido diseñado por un estudio español' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565'>Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/problemas-carga-google-pixel-6-continuan-no-usas-cable-telefono-no-carga-972565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Los problemas de carga en los Google Pixel 6 continúan: si no usas su cable, el teléfono no carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567'>Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-abandona-twitter-hace-cumpliendo-palabra-acerca-tweets-editables-972567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/jack-dorsey-2229953.jpg' alt='Jack Dorsey abandona Twitter y lo hace cumpliendo su palabra acerca de los tweets editables' />
     </a>
 </div>
 
