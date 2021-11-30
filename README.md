@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085'>Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-movil-2535399.jpg' alt='Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103'>El sorprendente hito que Bizum conseguirá por primera vez este 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='El sorprendente hito que Bizum conseguirá por primera vez este 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969'>Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-cecotec-tiene-40km-autonomia-puedes-usarlo-road-649-euros-972969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cecotec-bongo-serie-z-road-dark-green-2547339.jpg' alt='Este patinete eléctrico de Cecotec tiene 40km de autonomía y puedes usarlo 'off road' por 649 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065'>Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prestigioso-analista-desvela-fecha-apple-dejara-iphone-obsoleto-973065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='Prestigioso analista desvela la fecha en la que Apple dejará el iPhone obsoleto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013'>Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-duraderas-ocu-973013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/11-mitos-electrodomesticos-hora-dejes-creerte-2157733.jpg' alt='Estas son las marcas de electrodomésticos más fiables y duraderas según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003'>Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/codigo-descuento-amazon-prime-student-diciembre-2021-973003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg' alt='Si eres estudiante, Amazon te regala 5 euros: así puedes conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011'>Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/te-quitaran-ganas-comer-hamburguesas-populares-mcdonalds-despues-ver-video-973011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mcdonalds.jpg' alt='Se te quitarán las ganas de comer una de las hamburguesas más populares de McDonald’s después de ver este vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605'>Huawei Mateview de 28", análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-mateview-28-review-opinion-970605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-huawei-mateview-2543823.jpg' alt='Huawei Mateview de 28", análisis y opinión' />
     </a>
 </div>
 
