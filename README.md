@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161'>Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-2547757.jpg' alt='Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/16-chollos-xiaomi-menos-30eu-tienen-envio-espana-973087'>16 chollos Xiaomi de menos de 30€ que tienen envío desde España</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/16-chollos-xiaomi-menos-30eu-tienen-envio-espana-973087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/logo-xiaomi-2126367.jpg' alt='16 chollos Xiaomi de menos de 30€ que tienen envío desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177'>Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155'>Tu router, el corazón de tu hogar inteligente</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/familia-salon-consultando-tablet-2547677.jpg' alt='Tu router, el corazón de tu hogar inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085'>Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-asegures-cuenta-eso-te-pide-numero-telefono-973085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-movil-2535399.jpg' alt='Netflix quiere que asegures tu cuenta y para eso te pide el número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103'>El sorprendente hito que Bizum conseguirá por primera vez este 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-hito-bizum-conseguira-primera-vez-2021-973103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='El sorprendente hito que Bizum conseguirá por primera vez este 2021' />
     </a>
 </div>
 
