@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-972843'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-972843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2547103.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449'>Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe</a></h4>
     <a href='https://computerhoy.com/noticias/life/usos-soprendentes-arroz-alla-secar-movil-caso-catastrofe-972449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/vacuna-colera-base-arroz-2387783.jpg' alt='Usos sorprendentes del arroz más allá de secar tu móvil en caso de catástrofe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605'>Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-camaras-samsung-galaxy-s22-s22-cambiarian-muy-poco-972605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217025.jpg' alt='Los últimos rumores apuntan a que las cámaras de los Samsung Galaxy S22 y S22+ cambiarían muy poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609'>Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/xiaomi-abre-primera-fabrica-automoviles-300000-coches-electricos-972609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Xiaomi anuncia su primera fábrica de automóviles, fabricará 300.000 coches eléctricos al año' />
     </a>
 </div>
 
