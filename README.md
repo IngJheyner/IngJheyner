@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225'>Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ford-cable-cargar-coches-electricos-5-minutos-973225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ford-desarrollando-cable-cargar-coches-electricos-5-minutos-2547775.jpg' alt='Ford está desarrollando un cable para cargar los coches eléctricos en 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-descubre-cierto-tipo-carro-supermercado-te-hace-gastar-973223'>Un estudio descubre que cierto tipo de carro de supermercado te hace gastar más</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-descubre-cierto-tipo-carro-supermercado-te-hace-gastar-973223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacer-compra-supermercado-2547773.jpg' alt='Un estudio descubre que cierto tipo de carro de supermercado te hace gastar más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161'>Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-973161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-estaria-preparando-smartwatch-podras-medir-presion-arterial-2547757.jpg' alt='Huawei estaría preparando un smartwatch con el que podrás medir tu presión arterial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177'>Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-no-quiere-te-eches-windows-11-como-evita-vuelvas-windows-10-973177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft no quiere que te eches con Windows 11: así es como evita que vuelvas a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125'>Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-vuelve-colocarse-cima-rinde-snapdragon-8-gen-1-973125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/movil-gaming-qualcomm-2095395.jpg' alt='Qualcomm vuelve a colocarse en la cima, así rinde el Snapdragon 8 gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155'>Tu router, el corazón de tu hogar inteligente</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/router-corazon-hogar-inteligente-973155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/familia-salon-consultando-tablet-2547677.jpg' alt='Tu router, el corazón de tu hogar inteligente' />
     </a>
 </div>
 
