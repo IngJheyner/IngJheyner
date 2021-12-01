@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857'>Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg' alt='Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853'>Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049'>Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-oppo-reno-4z-2192083.jpg' alt='Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773'>Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jersey-navideno-2548733.jpg' alt='Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-altavoz-sony-srs-ra3000-973635'>Amazon ha rebajado más de 100 euros este altavoz doméstico e inteligente de Sony que además es compatible con Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-altavoz-sony-srs-ra3000-973635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-srs-ra3000-2548451.jpg' alt='Amazon ha rebajado más de 100 euros este altavoz doméstico e inteligente de Sony que además es compatible con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713'>La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-cyberwhistle-silbato-2548603.jpg' alt='La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!' />
     </a>
 </div>
 
