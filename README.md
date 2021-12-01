@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797'>El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-2548887.jpg' alt='El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867'>Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-expertos-2548857.jpg' alt='Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049'>Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-oppo-reno-4z-2192083.jpg' alt='Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789'>La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/turrones-2162141.jpg' alt='La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour' />
     </a>
 </div>
 
