@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/snapdragon-studios-plan-qualcomm-convertir-moviles-consolas-portatiles-nueva-generacion-973489'>Snapdragon Studios es el plan de Qualcomm para convertir los móviles en consolas portátiles de nueva generación</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/snapdragon-studios-plan-qualcomm-convertir-moviles-consolas-portatiles-nueva-generacion-973489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juego-snapdragon-2548207.jpg' alt='Snapdragon Studios es el plan de Qualcomm para convertir los móviles en consolas portátiles de nueva generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035'>En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gopro-hero10-black-2547437.jpg' alt='En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495'>Este dispositivo convierte tus fotos en aromas </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispositivo-convierte-fotos-aromas-2548139.jpg' alt='Este dispositivo convierte tus fotos en aromas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487'>Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022' />
     </a>
 </div>
 
