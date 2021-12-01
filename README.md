@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655'>Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669'>Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-series-2548489.jpg' alt='Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623'>Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar</a></h4>
     <a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg' alt='Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/shiba-inu-cripto-peligrosa-puedes-tener-cartera-973583'>¿Es Shiba Inu la cripto más peligrosa que puedes tener en tu cartera?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/shiba-inu-cripto-peligrosa-puedes-tener-cartera-973583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='¿Es Shiba Inu la cripto más peligrosa que puedes tener en tu cartera?' />
     </a>
 </div>
 
