@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261'>10 usos sorprendentes del secador de pelo en la cocina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/10-usos-sorprendentes-secador-pelo-cocina-2547921.jpg' alt='10 usos sorprendentes del secador de pelo en la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257'>Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"</a></h4>
     <a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/elon-musk-2516619.jpg' alt='Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239'>Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245'>Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-lamborghini-al-1-oferta-973245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ya-puedes-presumir-lamborghini-menos-500-euros-eso-patinete-no-coche-2547873.jpg' alt='Ya puedes presumir de Lamborghini por menos de 500 euros... eso sí, es un patinete, no un coche... ' />
     </a>
 </div>
 
