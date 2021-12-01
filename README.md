@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901'>Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-60-ya-oficial-gama-media-control-gestos-enfocado-redes-sociales-2548927.jpg' alt='Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881'>Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797'>El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-2548887.jpg' alt='El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867'>Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain en 3 o 4 años, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-expertos-2548857.jpg' alt='Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain en 3 o 4 años, según los expertos' />
     </a>
 </div>
 
