@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035'>En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gopro-hero10-black-2547437.jpg' alt='En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2548147.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487'>Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261'>10 usos sorprendentes del secador de pelo en la cocina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/10-usos-sorprendentes-secador-pelo-cocina-2547921.jpg' alt='10 usos sorprendentes del secador de pelo en la cocina' />
     </a>
 </div>
 
