@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049'>Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-oppo-reno-4z-2192083.jpg' alt='Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789'>La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/turrones-2162141.jpg' alt='La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773'>Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jersey-navideno-2548733.jpg' alt='Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713'>La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!</a></h4>
     <a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-cyberwhistle-silbato-2548603.jpg' alt='La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ley-frenar-bots-compras-automaticas-ultimo-esfuerzo-salvar-regalos-navidad-973725'>Una ley para frenar los bots de compras automáticas: el último esfuerzo para salvar los regalos de navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ley-frenar-bots-compras-automaticas-ultimo-esfuerzo-salvar-regalos-navidad-973725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/dice-ley-devoluciones-regalos-plazos-ticket-regalo-devolucion-dinero_3.jpg' alt='Una ley para frenar los bots de compras automáticas: el último esfuerzo para salvar los regalos de navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043'>Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/asus-tuf-gaming-f15-fx506lh-hn042-2380871.jpg' alt='Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA' />
     </a>
 </div>
 
