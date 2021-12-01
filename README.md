@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2548147.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-tienen-stock-iphone-13-entrega-antes-navidad-reyes-magos-972887'>Qué tiendas tienen stock del iPhone 13 con entrega antes de Navidad y Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-tienen-stock-iphone-13-entrega-antes-navidad-reyes-magos-972887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='Qué tiendas tienen stock del iPhone 13 con entrega antes de Navidad y Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495'>Este dispositivo convierte tus fotos en aromas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispositivo-convierte-fotos-aromas-2548139.jpg' alt='Este dispositivo convierte tus fotos en aromas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487'>Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261'>10 usos sorprendentes del secador de pelo en la cocina</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/10-usos-sorprendentes-secador-pelo-cocina-2547921.jpg' alt='10 usos sorprendentes del secador de pelo en la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257'>Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/elon-musk-email-spacex-riesgo-bancarrota-973257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/elon-musk-2516619.jpg' alt='Elon Musk envía un email desesperado a los empleados y avisa que SpaceX está "en riesgo de bancarrota"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207'>Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/acabaron-esperas-rocket-league-sideswipe-aterriza-ios-android-973207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/rocket-league-sideswipe-2276383.jpg' alt='Se acabaron las esperas: Rocket League Sideswipe aterriza en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209'>Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares' />
     </a>
 </div>
 
