@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867'>Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-expertos-2548857.jpg' alt='Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857'>Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg' alt='Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789'>La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-elige-mejores-turrones-clasicos-puedes-comprar-mercadona-lidl-carrefour-973789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/turrones-2162141.jpg' alt='La OCU elige los mejores turrones clásicos que puedes comprar en Mercadona, Lidl o Carrefour' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773'>Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jersey-navideno-2548733.jpg' alt='Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca' />
     </a>
 </div>
 
