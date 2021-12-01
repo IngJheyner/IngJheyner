@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883'>Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/atentos-pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-solo-269-euros-te-ahorras-150-euros-2548893.jpg' alt='Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797'>El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-2548887.jpg' alt='El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853'>Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049'>Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-128gb-camara-48-mpx-oppo-reno-4z-5g-ahora-cuesta-270eu-amazon-973049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-oppo-reno-4z-2192083.jpg' alt='Pantalla de 120 Hz, 128GB y cámara de 48 Mpx: Oppo Reno 4Z 5G ahora cuesta 270€ en Amazon' />
     </a>
 </div>
 
