@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669'>Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-series-2548489.jpg' alt='Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/android-auto-comienza-recibir-nueva-funcion-muchos-llevaban-tiempo-esperando-973633'>Android Auto comienza a recibir una nueva función que muchos llevaban tiempo esperando</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/android-auto-comienza-recibir-nueva-funcion-muchos-llevaban-tiempo-esperando-973633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='Android Auto comienza a recibir una nueva función que muchos llevaban tiempo esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/molestas-familia-sonido-tele-sony-tiene-solucion-auriculares-televisor-faciles-configurar-cables-973051'>Si molestas a tu familia con el sonido de la tele, Sony tiene la solución: unos auriculares para el televisor fáciles de configurar y sin cables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/molestas-familia-sonido-tele-sony-tiene-solucion-auriculares-televisor-faciles-configurar-cables-973051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-rf-mdr-rf855rk-2547451.jpg' alt='Si molestas a tu familia con el sonido de la tele, Sony tiene la solución: unos auriculares para el televisor fáciles de configurar y sin cables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623'>Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg' alt='Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/shiba-inu-cripto-peligrosa-puedes-tener-cartera-973583'>¿Es Shiba Inu la cripto más peligrosa que puedes tener en tu cartera?</a></h4>
     <a href='https://computerhoy.com/noticias/life/shiba-inu-cripto-peligrosa-puedes-tener-cartera-973583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='¿Es Shiba Inu la cripto más peligrosa que puedes tener en tu cartera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/terrorifico-futuro-metaverso-dibuja-presidente-telefonica-alvarez-pallete-973597'>El terrorífico futuro del Metaverso que dibuja el presidente de Telefónica Álvarez-Pallete</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/terrorifico-futuro-metaverso-dibuja-presidente-telefonica-alvarez-pallete-973597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El terrorífico futuro del Metaverso que dibuja el presidente de Telefónica Álvarez-Pallete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tienes-suv-monovolumen-vives-ciudad-dgt-tiene-malas-noticias-ti-973571'>Si tienes un SUV o un monovolumen y vives en una ciudad la DGT tiene malas noticias para ti</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tienes-suv-monovolumen-vives-ciudad-dgt-tiene-malas-noticias-ti-973571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/coche-aparcado-aparcamiento-subterraneo-2453167.jpg' alt='Si tienes un SUV o un monovolumen y vives en una ciudad la DGT tiene malas noticias para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lavadora-cecotec-bolero-dresscode-7200-oferta-972599'>Esta lavadora de menos de 300 euros es programable e incluye la retirada de la que ya tienes, y de una marca española</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lavadora-cecotec-bolero-dresscode-7200-oferta-972599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lavadora-cecotec-vale-menos-300-euros-te-instalan-llevan-vieja-gratis-2546813.jpg' alt='Esta lavadora de menos de 300 euros es programable e incluye la retirada de la que ya tienes, y de una marca española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-sera-primer-smartphone-mundo-llevar-snapdragon-8-gen-1-973547'>El Xiaomi 12 será el primer smartphone del mundo en llevar el Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-sera-primer-smartphone-mundo-llevar-snapdragon-8-gen-1-973547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-12-mini-2533551.jpg' alt='El Xiaomi 12 será el primer smartphone del mundo en llevar el Snapdragon 8 Gen 1' />
     </a>
 </div>
 
