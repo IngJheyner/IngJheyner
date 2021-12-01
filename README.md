@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lavadora-cecotec-bolero-dresscode-7200-oferta-972599'>Esta lavadora de menos de 300 euros es programable e incluye la retirada de la que ya tienes, y de una marca española</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lavadora-cecotec-bolero-dresscode-7200-oferta-972599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lavadora-cecotec-vale-menos-300-euros-te-instalan-llevan-vieja-gratis-2546813.jpg' alt='Esta lavadora de menos de 300 euros es programable e incluye la retirada de la que ya tienes, y de una marca española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-sera-primer-smartphone-mundo-llevar-snapdragon-8-gen-1-973547'>El Xiaomi 12 será el primer smartphone del mundo en llevar el Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-sera-primer-smartphone-mundo-llevar-snapdragon-8-gen-1-973547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-12-mini-2533551.jpg' alt='El Xiaomi 12 será el primer smartphone del mundo en llevar el Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-taxi-electrico-volador-viene-china-ves-creeras-nave-espacial-973531'>Este proyecto de taxi eléctrico volador viene de China y si lo ves creerás que es una nave espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proyecto-taxi-electrico-volador-viene-china-ves-creeras-nave-espacial-973531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/taxi-electrico-volador-2548225.jpg' alt='Este proyecto de taxi eléctrico volador viene de China y si lo ves creerás que es una nave espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/snapdragon-studios-plan-qualcomm-convertir-moviles-consolas-portatiles-nueva-generacion-973489'>Snapdragon Studios es el plan de Qualcomm para convertir los móviles en consolas portátiles de nueva generación</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/snapdragon-studios-plan-qualcomm-convertir-moviles-consolas-portatiles-nueva-generacion-973489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juego-snapdragon-2548207.jpg' alt='Snapdragon Studios es el plan de Qualcomm para convertir los móviles en consolas portátiles de nueva generación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035'>En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-gopro-hero10-black-mejor-camara-accion-2021-baja-50eu-convierte-perfecto-regalo-navidad-973035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gopro-hero10-black-2547437.jpg' alt='En oferta la GoPro Hero10 Black, la mejor cámara de acción de 2021: baja 50€ y se convierte en un perfecto regalo para Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-973497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2548147.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-tienen-stock-iphone-13-entrega-antes-navidad-reyes-magos-972887'>Qué tiendas tienen stock del iPhone 13 con entrega antes de Navidad y Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-tienen-stock-iphone-13-entrega-antes-navidad-reyes-magos-972887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='Qué tiendas tienen stock del iPhone 13 con entrega antes de Navidad y Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495'>Este dispositivo convierte tus fotos en aromas </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/transcent-dispositivo-convierte-fotos-aromas-973495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispositivo-convierte-fotos-aromas-2548139.jpg' alt='Este dispositivo convierte tus fotos en aromas ' />
     </a>
 </div>
 
