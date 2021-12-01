@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773'>Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-puedes-comprar-jersey-navideno-microsoft-ano-feo-nunca-973773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jersey-navideno-2548733.jpg' alt='Ya puedes comprar el jersey navideño de Microsoft que este año es más feo que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-altavoz-sony-srs-ra3000-973635'>Amazon ha rebajado más de 100 euros este altavoz doméstico e inteligente de Sony que además es compatible con Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-altavoz-sony-srs-ra3000-973635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-srs-ra3000-2548451.jpg' alt='Amazon ha rebajado más de 100 euros este altavoz doméstico e inteligente de Sony que además es compatible con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713'>La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!</a></h4>
     <a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-cyberwhistle-silbato-2548603.jpg' alt='La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043'>Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/asus-tuf-gaming-f15-fx506lh-hn042-2380871.jpg' alt='Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-1-construido-jobs-wozniak-1976-ha-vendido-400000-dolares-973693'>Así es el Apple-1 construido por Jobs y Wozniak en 1976 que se ha vendido por 400.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-1-construido-jobs-wozniak-1976-ha-vendido-400000-dolares-973693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-1-construido-jobs-wozniak-1976-2548551.jpg' alt='Así es el Apple-1 construido por Jobs y Wozniak en 1976 que se ha vendido por 400.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655'>Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?' />
     </a>
 </div>
 
