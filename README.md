@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487'>Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-snapdragon-8-gen-1-corazon-moviles-top-2022-973487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='Todo sobre el Snapdragon 8 Gen 1, el corazón de los móviles TOP de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261'>10 usos sorprendentes del secador de pelo en la cocina</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-usos-sorprendentes-secador-pelo-cocina-973261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/10-usos-sorprendentes-secador-pelo-cocina-2547921.jpg' alt='10 usos sorprendentes del secador de pelo en la cocina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209'>Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-cambia-politicas-privacidad-ahora-podra-borrar-fotografias-considera-no-cumplen-estandares-973209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter cambia sus políticas de privacidad y ahora podrá borrar fotografías que considera que no cumplen sus estándares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239'>Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-estaria-preparando-telefono-plegable-rivalizaria-samsung-galaxy-z-flip-973239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Huawei estaría preparando un teléfono plegable que rivalizaría con el Samsung Galaxy Z Flip' />
     </a>
 </div>
 
