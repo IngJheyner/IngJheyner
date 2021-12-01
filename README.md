@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713'>La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ultima-creacion-tesla-vale-50-dolares-superventas-silbato-973713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-cyberwhistle-silbato-2548603.jpg' alt='La última creación de Tesla vale 50 dólares y  es superventas: ¡un silbato!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ley-frenar-bots-compras-automaticas-ultimo-esfuerzo-salvar-regalos-navidad-973725'>Una ley para frenar los bots de compras automáticas: el último esfuerzo para salvar los regalos de navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ley-frenar-bots-compras-automaticas-ultimo-esfuerzo-salvar-regalos-navidad-973725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/dice-ley-devoluciones-regalos-plazos-ticket-regalo-devolucion-dinero_3.jpg' alt='Una ley para frenar los bots de compras automáticas: el último esfuerzo para salvar los regalos de navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043'>Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-150eu-portatil-asus-16gb-ram-ssd-512gb-grafica-dedicada-nvidia-973043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/asus-tuf-gaming-f15-fx506lh-hn042-2380871.jpg' alt='Amazon rebaja 150€ este portátil de Asus con 16GB de RAM, SSD de 512GB y gráfica dedicada NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-1-construido-jobs-wozniak-1976-ha-vendido-400000-dolares-973693'>Así es el Apple-1 construido por Jobs y Wozniak en 1976 que se ha vendido por 400.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-1-construido-jobs-wozniak-1976-ha-vendido-400000-dolares-973693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-1-construido-jobs-wozniak-1976-2548551.jpg' alt='Así es el Apple-1 construido por Jobs y Wozniak en 1976 que se ha vendido por 400.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655'>Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bizum-punto-lanzar-propia-app-alegria-todo-clientes-como-funcionara-973655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='Bizum a punto de lanzar su propia app para alegría de todo sus clientes: ¿Cómo funcionará?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669'>Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-novedades-huawei-watch-gt-3-series-freebuds-lipstick-watch-fit-mini-973669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-series-2548489.jpg' alt='Estas son las grandes novedades de Huawei: Watch GT 3 Series, FreeBuds Lipstick y Watch Fit mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/android-auto-comienza-recibir-nueva-funcion-muchos-llevaban-tiempo-esperando-973633'>Android Auto comienza a recibir una nueva función que muchos llevaban tiempo esperando</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/android-auto-comienza-recibir-nueva-funcion-muchos-llevaban-tiempo-esperando-973633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg' alt='Android Auto comienza a recibir una nueva función que muchos llevaban tiempo esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/molestas-familia-sonido-tele-sony-tiene-solucion-auriculares-televisor-faciles-configurar-cables-973051'>Si molestas a tu familia con el sonido de la tele, Sony tiene la solución: unos auriculares para el televisor fáciles de configurar y sin cables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/molestas-familia-sonido-tele-sony-tiene-solucion-auriculares-televisor-faciles-configurar-cables-973051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sony-rf-mdr-rf855rk-2547451.jpg' alt='Si molestas a tu familia con el sonido de la tele, Sony tiene la solución: unos auriculares para el televisor fáciles de configurar y sin cables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623'>Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/numeros-telefono-peligrosos-bolsillo-ocu-debes-evitar-llamar-973623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg' alt='Los números de teléfono más peligrosos para tu bolsillo según la OCU a los que debes evitar llamar' />
     </a>
 </div>
 
