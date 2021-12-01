@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881'>Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-preparando-google-android-auto-espada-doble-filo-973879'>La nueva característica que está preparando Google para Android Auto es una espada de doble filo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-preparando-google-android-auto-espada-doble-filo-973879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/radio-android-auto-2387865.jpg' alt='La nueva característica que está preparando Google para Android Auto es una espada de doble filo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883'>Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/atentos-pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-solo-269-euros-te-ahorras-150-euros-2548893.jpg' alt='Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867'>Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867'>Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain en 3 o 4 años, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-973867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-expertos-2548857.jpg' alt='Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857'>Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/millones-impresoras-hp-necesitan-actualizacion-urgente-todos-modelos-afectados-973857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg' alt='Millones de impresoras de HP necesitan una actualización urgente: todos los modelos afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853'>Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-12-android-tv-google-tv-ya-oficial-todas-novedades-mejoras-973853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android 12 para Android TV y Google TV ya es oficial: todas sus novedades y mejoras' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenadores-cuanticos-acabaran-criptomonedas-blockchain-expertos-2548857.jpg' alt='Los ordenadores cuánticos acabarán con las criptomonedas y el blockchain en 3 o 4 años, según los expertos' />
     </a>
 </div>
 
