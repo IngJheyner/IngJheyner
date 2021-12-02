@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/chimenea-electrica-firstline-descuento-oferta-974589'>Esta chimenea eléctrica que calienta y decora tu casa tiene un 48% de descuento, baja a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/chimenea-electrica-firstline-descuento-oferta-974589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chimenea-electrica-calienta-decora-casa-tiene-48-descuento-baja-menos-100-euros-2550391.jpg' alt='Esta chimenea eléctrica que calienta y decora tu casa tiene un 48% de descuento, baja a menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573'>WhatsApp está probando un nuevo botón para poder dar marcha atrás</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp está probando un nuevo botón para poder dar marcha atrás' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533'>Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/opinion-razer-snapdragon-g3x-2550163.jpg' alt='Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643'>Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-xiaomi-mi-10t-lite-2173873.jpg' alt='Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon' />
     </a>
 </div>
 
