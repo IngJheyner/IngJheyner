@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533'>Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/opinion-razer-snapdragon-g3x-2550163.jpg' alt='Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643'>Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-xiaomi-mi-10t-lite-2173873.jpg' alt='Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485'>Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas</a></h4>
     <a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489'>El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cyberquad-2549965.jpg' alt='El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-x-playstation-5-cual-ahorrarias-factura-luz-jugando-mismo-974465'>Xbox Series X o PlayStation 5: con cuál ahorrarías más en la factura de la luz jugando lo mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-series-x-playstation-5-cual-ahorrarias-factura-luz-jugando-mismo-974465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ps5-xbox-series-x-2303543.jpg' alt='Xbox Series X o PlayStation 5: con cuál ahorrarías más en la factura de la luz jugando lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-juegos-moviles-android-tienes-descargar-ya-mismo-974329'>7 juegos para móviles Android que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-juegos-moviles-android-tienes-descargar-ya-mismo-974329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/league-legends-wild-rift-2139765.png' alt='7 juegos para móviles Android que tienes que descargar ya mismo' />
     </a>
 </div>
 
