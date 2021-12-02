@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173'>Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chuwi-herobox-pro-mini-2446843.jpg' alt='Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201'>Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bmw-ix-suv-electrico-600-km-autonomia-500-cv-potencia-conexion-5g-2137397.jpg' alt='Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-harvard-aclara-vacuna-nrna-efectiva-pfizer-vs-moderna-974165'>Un estudio de Harvard aclara qué vacuna nRNA es más efectiva: Pfizer VS Moderna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estudio-harvard-aclara-vacuna-nrna-efectiva-pfizer-vs-moderna-974165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/frasco-vacuna-2148463.jpg' alt='Un estudio de Harvard aclara qué vacuna nRNA es más efectiva: Pfizer VS Moderna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709'>¿Qué router elegir?</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/router-avm-2548613.jpg' alt='¿Qué router elegir?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627'>Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chromecast-3-2548449.jpg' alt='Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2549205.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055'>10 series originales de Prime Video que puedes ver durante el mes de prueba gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='10 series originales de Prime Video que puedes ver durante el mes de prueba gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147'>Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-g3x-2549203.jpg' alt='Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar' />
     </a>
 </div>
 
