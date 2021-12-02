@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269'>Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrección</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/matrix.jpg' alt='Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejores-peliculas-2021-acaba-llegar-netflix-nadie-ha-dado-cuenta-974283'>Una de las mejores películas de 2021 acaba de llegar a Netflix y nadie se ha dado cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mejores-peliculas-2021-acaba-llegar-netflix-nadie-ha-dado-cuenta-974283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tic-tic-boom-andrew-garfield-2549469.jpg' alt='Una de las mejores películas de 2021 acaba de llegar a Netflix y nadie se ha dado cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277'>Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam</a></h4>
     <a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iris-webcam-2545155.jpg' alt='Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201'>Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bmw-ix-suv-electrico-600-km-autonomia-500-cv-potencia-conexion-5g-2137397.jpg' alt='Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-harvard-aclara-vacuna-nrna-efectiva-pfizer-vs-moderna-974165'>Un estudio de Harvard aclara qué vacuna nRNA es más efectiva: Pfizer VS Moderna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estudio-harvard-aclara-vacuna-nrna-efectiva-pfizer-vs-moderna-974165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/frasco-vacuna-2148463.jpg' alt='Un estudio de Harvard aclara qué vacuna nRNA es más efectiva: Pfizer VS Moderna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709'>¿Qué router elegir?</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/router-avm-2548613.jpg' alt='¿Qué router elegir?' />
     </a>
 </div>
 
