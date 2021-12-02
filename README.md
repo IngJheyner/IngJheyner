@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573'>WhatsApp está probando un nuevo botón para poder dar marcha atrás</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp está probando un nuevo botón para poder dar marcha atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567'>Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromebook-2369045.jpg' alt='Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565'>Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores</a></h4>
     <a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/funcionaba-navegador-ford-1964-cuando-no-existia-gps-2550243.jpg' alt='Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643'>Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-10t-lite-5g-oferta-amazon-973643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-xiaomi-mi-10t-lite-2173873.jpg' alt='Todo el mundo ama este Xiaomi Mi 10T Lite 5G y es que ahora solo cuesta 275 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485'>Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799'>El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta' />
     </a>
 </div>
 
