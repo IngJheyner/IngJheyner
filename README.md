@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709'>¿Qué router elegir?</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/router-avm-2548613.jpg' alt='¿Qué router elegir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627'>Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chromecast-3-2548449.jpg' alt='Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2549205.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147'>Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-g3x-2549203.jpg' alt='Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497'>La técnica infalible para limpiar espejos sin dejar una sola marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-espejo-2541213.jpg' alt='La técnica infalible para limpiar espejos sin dejar una sola marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911'>El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel' />
     </a>
 </div>
 
