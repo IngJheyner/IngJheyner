@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277'>Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam</a></h4>
+    <a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iris-webcam-2545155.jpg' alt='Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173'>Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chuwi-herobox-pro-mini-2446843.jpg' alt='Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709'>¿Qué router elegir?</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/router-elegir-973709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/router-avm-2548613.jpg' alt='¿Qué router elegir?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627'>Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-productos-utiles-google-ver-videos-tv-ahora-oferta-amazon-menos-29eu-973627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chromecast-3-2548449.jpg' alt='Chromecast es uno de los productos más útiles de Google para ver vídeos en tu TV y ahora está en oferta en Amazon por menos de 29€' />
     </a>
 </div>
 
