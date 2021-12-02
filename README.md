@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055'>10 series originales de Prime Video que puedes ver durante el mes de prueba gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='10 series originales de Prime Video que puedes ver durante el mes de prueba gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147'>Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-g3x-2549203.jpg' alt='Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909'>Orion dobla el tamaño de la pantalla de la Nintendo Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/orion-multiplica-dobla-tamano-pantalla-nintendo-switch-2548973.jpg' alt='Orion dobla el tamaño de la pantalla de la Nintendo Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903'>El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-camara-2548967.jpg' alt='El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad' />
     </a>
 </div>
 
