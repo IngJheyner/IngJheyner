@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911'>El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909'>Orion dobla el tamaño de la pantalla de la Nintendo Switch</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/orion-multiplica-dobla-tamano-pantalla-nintendo-switch-2548973.jpg' alt='Orion dobla el tamaño de la pantalla de la Nintendo Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903'>El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-camara-2548967.jpg' alt='El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897'>Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-2548931.jpg' alt='Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901'>Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-60-ya-oficial-gama-media-control-gestos-enfocado-redes-sociales-2548927.jpg' alt='Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881'>Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas' />
     </a>
 </div>
 
