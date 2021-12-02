@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565'>Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/funcionaba-navegador-ford-1964-cuando-no-existia-gps-2550243.jpg' alt='Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533'>Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/snapdragon-g3x-impresiones-toma-contacto-portatil-razer-android-5g-xbox-cloud-gaming-974533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/opinion-razer-snapdragon-g3x-2550163.jpg' alt='Snapdragon G3x: impresiones y toma de contacto de la portátil de Razer con Android, 5G y Xbox Cloud Gaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799'>El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489'>El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cyberquad-2549965.jpg' alt='El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€' />
     </a>
 </div>
 
