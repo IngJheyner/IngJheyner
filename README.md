@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147'>Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/razer-qualcomm-crean-consola-parece-xbox-portatil-pero-no-podras-comprar-974147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-g3x-2549203.jpg' alt='Razer y Qualcomm crean una consola que parece una Xbox portátil, pero que no podrás comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497'>La técnica infalible para limpiar espejos sin dejar una sola marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tecnica-infalible-limpiar-espejos-dejar-sola-marca-969497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-espejo-2541213.jpg' alt='La técnica infalible para limpiar espejos sin dejar una sola marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911'>El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903'>El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-camara-2548967.jpg' alt='El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/noche-fiesta-mejor-dormir-1-2-horas-nada-973905'>Tras una noche en vela o de fiesta... ¿es mejor dormir 1 o 2 horas, o nada?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/noche-fiesta-mejor-dormir-1-2-horas-nada-973905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noche-vela-fiesta-mejor-dormir-1-2-horas-nada-2548933.jpg' alt='Tras una noche en vela o de fiesta... ¿es mejor dormir 1 o 2 horas, o nada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897'>Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-2548931.jpg' alt='Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi' />
     </a>
 </div>
 
