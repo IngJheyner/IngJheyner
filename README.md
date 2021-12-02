@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alexa-ya-puede-detectar-avisarte-te-has-dejado-grifo-abierto-ha-acabado-lavadora-974383'>Alexa ya puede detectar y avisarte si te has dejado un grifo abierto o ha acabado la lavadora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alexa-ya-puede-detectar-avisarte-te-has-dejado-grifo-abierto-ha-acabado-lavadora-974383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Alexa ya puede detectar y avisarte si te has dejado un grifo abierto o ha acabado la lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-porcentaje-usuarios-ha-instalado-windows-11-microsoft-no-deben-estar-muy-contentos-974357'>Ya sabemos el porcentaje de usuarios que ha instalado Windows 11 y en Microsoft no deben estar muy contentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-porcentaje-usuarios-ha-instalado-windows-11-microsoft-no-deben-estar-muy-contentos-974357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Ya sabemos el porcentaje de usuarios que ha instalado Windows 11 y en Microsoft no deben estar muy contentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323'>¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bitcoin-2225103.jpg' alt='¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291'>¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/avecina-comunidad-vecinos-rusa-viven-20000-personas-974287'>¡La que se avecina! En esta comunidad de vecinos rusa viven 20.000 personas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/avecina-comunidad-vecinos-rusa-viven-20000-personas-974287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/edificio-2549549.jpg' alt='¡La que se avecina! En esta comunidad de vecinos rusa viven 20.000 personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269'>Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrections</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/matrix.jpg' alt='Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrections' />
     </a>
 </div>
 
