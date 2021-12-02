@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485'>Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gran-asteroide-potente-bomba-nuclear-pasara-muy-cerca-tierra-unas-semanas-974485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='Un gran asteroide, más potente que una bomba nuclear, pasará muy cerca de la Tierra en unas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799'>El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-ya-realidad-estos-son-todos-smartphones-integraran-procesador-gama-alta-973799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El Snapdragon 8 Gen 1 ya es una realidad y estos son todos los smartphones que integrarán este procesador de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489'>El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cyberquad-tesla-quad-electrico-ninos-solo-cuesta-casi-2000eu-974489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cyberquad-2549965.jpg' alt='El Cyberquad de Tesla es un quad eléctrico para niños que sólo cuesta casi 2.000€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-juegos-moviles-android-tienes-descargar-ya-mismo-974329'>7 juegos para móviles Android que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-juegos-moviles-android-tienes-descargar-ya-mismo-974329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/league-legends-wild-rift-2139765.png' alt='7 juegos para móviles Android que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-entrada-intel-enfrentaria-cara-cara-superventas-nvidia-974407'>La tarjeta gráfica de entrada de Intel se enfrentaría cara a cara con la superventas de Nvidia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-entrada-intel-enfrentaria-cara-cara-superventas-nvidia-974407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nvidia-lanza-tarjeta-grafica-barata-ideal-video-4k-emuladores-2202285.jpg' alt='La tarjeta gráfica de entrada de Intel se enfrentaría cara a cara con la superventas de Nvidia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-doble-huawei-nuevo-watch-gt-3-oferta-incluye-gratis-auriculares-cancelacion-974187'>Chollo doble en Huawei: su nuevo Watch GT 3 está en oferta e incluye gratis unos auriculares con cancelación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-doble-huawei-nuevo-watch-gt-3-oferta-incluye-gratis-auriculares-cancelacion-974187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='Chollo doble en Huawei: su nuevo Watch GT 3 está en oferta e incluye gratis unos auriculares con cancelación' />
     </a>
 </div>
 
