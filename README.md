@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269'>Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrección</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323'>¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bitcoin-2225103.jpg' alt='¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-2-semanas-seguimiento-70-deportes-smartwatch-amazfit-gts-2-mini-ahora-solo-cuesta-76eu-974189'>Batería de 2 semanas y seguimiento de 70 deportes: este smartwatch Amazfit GTS 2 Mini ahora solo cuesta 76€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-2-semanas-seguimiento-70-deportes-smartwatch-amazfit-gts-2-mini-ahora-solo-cuesta-76eu-974189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-gts-2-mini-2549265.jpg' alt='Batería de 2 semanas y seguimiento de 70 deportes: este smartwatch Amazfit GTS 2 Mini ahora solo cuesta 76€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291'>¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/avecina-comunidad-vecinos-rusa-viven-20000-personas-974287'>¡La que se avecina! En esta comunidad de vecinos rusa viven 20.000 personas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/avecina-comunidad-vecinos-rusa-viven-20000-personas-974287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/edificio-2549549.jpg' alt='¡La que se avecina! En esta comunidad de vecinos rusa viven 20.000 personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269'>Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrections</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/deja-vu-nuevo-trailer-matrix-deja-entrever-trama-resurreccion-974269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/matrix.jpg' alt='Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejores-peliculas-2021-acaba-llegar-netflix-nadie-ha-dado-cuenta-974283'>Una de las mejores películas de 2021 acaba de llegar a Netflix y nadie se ha dado cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mejores-peliculas-2021-acaba-llegar-netflix-nadie-ha-dado-cuenta-974283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tic-tic-boom-andrew-garfield-2549469.jpg' alt='Una de las mejores películas de 2021 acaba de llegar a Netflix y nadie se ha dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277'>Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam</a></h4>
-    <a href='https://computerhoy.com/patrocinado/trust-presenta-ultimos-accesorios-disfrutar-toda-experiencia-iris-webcam-974277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iris-webcam-2545155.jpg' alt='Trust presenta sus últimos accesorios para disfrutar de toda la experiencia de IRIS Webcam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173'>Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-164-euros-oferta-amazon-hace-posible-974173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chuwi-herobox-pro-mini-2446843.jpg' alt='Un PC con Windows por solo 164 euros: esta oferta de Amazon lo hace posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201'>Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-llevar-llave-coche-moviles-android-bmw-pixel-6-galaxy-s21-como-pioneros-974201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bmw-ix-suv-electrico-600-km-autonomia-500-cv-potencia-conexion-5g-2137397.jpg' alt='Ya puedes llevar la llave de tu coche en móviles Android: BMW, Pixel 6 y Galaxy S21 como pioneros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/matrix.jpg' alt='Dèjá Vu, el nuevo tráiler de Matrix que deja entrever la trama de Resurrections' />
     </a>
 </div>
 
