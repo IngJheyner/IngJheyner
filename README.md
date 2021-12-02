@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-entrada-intel-enfrentaria-cara-cara-superventas-nvidia-974407'>La tarjeta gráfica de entrada de Intel se enfrentaría cara a cara con la superventas de Nvidia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-entrada-intel-enfrentaria-cara-cara-superventas-nvidia-974407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nvidia-lanza-tarjeta-grafica-barata-ideal-video-4k-emuladores-2202285.jpg' alt='La tarjeta gráfica de entrada de Intel se enfrentaría cara a cara con la superventas de Nvidia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-doble-huawei-nuevo-watch-gt-3-oferta-incluye-gratis-auriculares-cancelacion-974187'>Chollo doble en Huawei: su nuevo Watch GT 3 está en oferta e incluye gratis unos auriculares con cancelación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-doble-huawei-nuevo-watch-gt-3-oferta-incluye-gratis-auriculares-cancelacion-974187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='Chollo doble en Huawei: su nuevo Watch GT 3 está en oferta e incluye gratis unos auriculares con cancelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alexa-ya-puede-detectar-avisarte-te-has-dejado-grifo-abierto-ha-acabado-lavadora-974383'>Alexa ya puede detectar y avisarte si te has dejado un grifo abierto o ha acabado la lavadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/alexa-ya-puede-detectar-avisarte-te-has-dejado-grifo-abierto-ha-acabado-lavadora-974383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Alexa ya puede detectar y avisarte si te has dejado un grifo abierto o ha acabado la lavadora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323'>¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podra-bitcoin-superar-barrera-100000-dolares-2022-974323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bitcoin-2225103.jpg' alt='¿Podrá Bitcoin superar la barrera de los 100.000 dólares en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-2-semanas-seguimiento-70-deportes-smartwatch-amazfit-gts-2-mini-ahora-solo-cuesta-76eu-974189'>Batería de 2 semanas y seguimiento de 70 deportes: este smartwatch Amazfit GTS 2 Mini ahora solo cuesta 76€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-2-semanas-seguimiento-70-deportes-smartwatch-amazfit-gts-2-mini-ahora-solo-cuesta-76eu-974189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-gts-2-mini-2549265.jpg' alt='Batería de 2 semanas y seguimiento de 70 deportes: este smartwatch Amazfit GTS 2 Mini ahora solo cuesta 76€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291'>¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuidado-ellos-estos-son-10-radares-dgt-multan-espana-974291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='¡Cuidado con ellos! Estos son los 10 radares de la DGT que más multan en España' />
     </a>
 </div>
 
