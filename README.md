@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-974149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2549205.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055'>10 series originales de Prime Video que puedes ver durante el mes de prueba gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/10-series-originales-prime-video-puedes-ver-durante-mes-prueba-gratis-973055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='10 series originales de Prime Video que puedes ver durante el mes de prueba gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911'>El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8cx-gen-3-windows-11-va-caza-m1-apple-intel-973911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='El Snapdragon 8cx Gen 3 para Windows 11 va a la caza de los M1 de Apple... y de Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909'>Orion dobla el tamaño de la pantalla de la Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/orion-dobla-pantalla-nintendo-switch-973909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/orion-multiplica-dobla-tamano-pantalla-nintendo-switch-2548973.jpg' alt='Orion dobla el tamaño de la pantalla de la Nintendo Switch' />
     </a>
 </div>
 
