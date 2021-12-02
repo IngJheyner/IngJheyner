@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903'>El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/snapdragon-8-gen-1-promete-revolucionar-fotografia-video-moviles-hemos-probado-ver-verdad-973903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-camara-2548967.jpg' alt='El Snapdragon 8 Gen 1 promete revolucionar la fotografía y vídeo en móviles, y lo hemos probado para ver si es verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/noche-fiesta-mejor-dormir-1-2-horas-nada-973905'>Tras una noche en vela o de fiesta... ¿es mejor dormir 1 o 2 horas, o nada?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/noche-fiesta-mejor-dormir-1-2-horas-nada-973905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noche-vela-fiesta-mejor-dormir-1-2-horas-nada-2548933.jpg' alt='Tras una noche en vela o de fiesta... ¿es mejor dormir 1 o 2 horas, o nada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897'>Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-973897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-2548931.jpg' alt='Samsung Galaxy A13 5G, así es el nuevo smartphone que rivalizará con la gama media de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901'>Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-60-oficial-caracteristicas-precio-lanzamiento-973901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-60-ya-oficial-gama-media-control-gestos-enfocado-redes-sociales-2548927.jpg' alt='Honor 60 y Honor 60 Pro ya son oficiales, gama media con control por gestos enfocados a los jóvenes y las redes sociales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881'>Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-habria-escuchado-usuarios-mejoraria-dos-caracteristicas-windows-11-han-recibido-muchas-quejas-973881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='Microsoft habría escuchado a los usuarios y mejoraría dos características de Windows 11 que han recibido muchas quejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-preparando-google-android-auto-espada-doble-filo-973879'>La nueva característica que está preparando Google para Android Auto es una espada de doble filo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-preparando-google-android-auto-espada-doble-filo-973879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/radio-android-auto-2387865.jpg' alt='La nueva característica que está preparando Google para Android Auto es una espada de doble filo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883'>Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-oferta-973883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/atentos-pack-reloj-samsung-galaxy-watch-4-auriculares-galaxy-buds-2-solo-269-euros-te-ahorras-150-euros-2548893.jpg' alt='Atentos a este pack con reloj Samsung Galaxy Watch 4 y auriculares Galaxy Buds 2 por solo 269 euros, te ahorras 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797'>El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-973797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-wrapped-ya-aqui-puedes-descubrir-canciones-has-escuchado-ano-2548887.jpg' alt='El Spotify Wrapped ya está aquí, así puedes descubrir las canciones que más has escuchado este año' />
     </a>
 </div>
 
