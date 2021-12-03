@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-fin-semana-2550325.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-casa-papel-visitantes-misterio-974555'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una casa de papel, unos visitantes y un misterio</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-casa-papel-visitantes-misterio-974555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-diciembre-2550245.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una casa de papel, unos visitantes y un misterio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10s-menos-200eu-oferta-974505'>Redmi Note 10S es uno de los mejores móviles baratos de Xiaomi y ahora te lo puedes llevar en oferta por menos de 200€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10s-menos-200eu-oferta-974505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-redmi-note-10s-2327875.jpg' alt='Redmi Note 10S es uno de los mejores móviles baratos de Xiaomi y ahora te lo puedes llevar en oferta por menos de 200€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055'>Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/multa-trafico-2144103.jpg' alt='Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967'>Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg' alt='Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-patas-aterrizar-arboles-como-fuera-pajaro-975071'>El dron con patas para aterrizar en los árboles como si fuera un pájaro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-patas-aterrizar-arboles-como-fuera-pajaro-975071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dron-2551347.jpg' alt='El dron con patas para aterrizar en los árboles como si fuera un pájaro' />
     </a>
 </div>
 
