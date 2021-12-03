@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317'>Amigo invisible: mejores ideas de regalo por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-amigo-invisible-2550013.jpg' alt='Amigo invisible: mejores ideas de regalo por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-fin-semana-2550325.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/united-airlanes-realiza-primer-vuelo-comercial-historia-combustible-100-sostenible-975153'>Así ha sido el primer vuelo comercial de la historia con combustible 100% sostenible: contamina la mitad</a></h4>
     <a href='https://computerhoy.com/noticias/motor/united-airlanes-realiza-primer-vuelo-comercial-historia-combustible-100-sostenible-975153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='Así ha sido el primer vuelo comercial de la historia con combustible 100% sostenible: contamina la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055'>Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/multa-trafico-2144103.jpg' alt='Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes' />
     </a>
 </div>
 
