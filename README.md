@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605'>8 consejos de dos psicólogos para no estresarte estas fiestas navideñas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/8-consejos-doctor-no-estresarte-estas-fiestas-navidenas-2550503.jpg' alt='8 consejos de dos psicólogos para no estresarte estas fiestas navideñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599'>La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-interfaz-office-basada-window-11-comienza-llegar-hoy-usuarios-tambien-windows-10-2550497.jpg' alt='La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567'>Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromebook-2369045.jpg' alt='Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565'>Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/navegador-ford-aurora-1964-974565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/funcionaba-navegador-ford-1964-cuando-no-existia-gps-2550243.jpg' alt='Así funcionaba el navegador de Ford en 1964, cuando no existían el GPS, los móviles o los ordenadores' />
     </a>
 </div>
 
