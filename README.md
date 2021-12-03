@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249'>Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245'>El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-2532643.jpg' alt='El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233'>Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cesta-compra-2551721.jpg' alt='Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227'>Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/camion-electrico-mercadona-2551715.jpg' alt='Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles' />
     </a>
 </div>
 
