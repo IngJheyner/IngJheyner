@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967'>Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg' alt='Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-patas-aterrizar-arboles-como-fuera-pajaro-975071'>El dron con patas para aterrizar en los árboles como si fuera un pájaro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-patas-aterrizar-arboles-como-fuera-pajaro-975071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dron-2551347.jpg' alt='El dron con patas para aterrizar en los árboles como si fuera un pájaro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mundo-discos-duros-sigue-vivo-seagate-lanza-modelos-20-tb-capacidad-975043'>El mundo de los discos duros sigue vivo, Seagate lanza modelos de 20 TB de capacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mundo-discos-duros-sigue-vivo-seagate-lanza-modelos-20-tb-capacidad-975043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/seagate-lanzara-disco-duro-grande-mundo-20-tb-adelantandose-wd.jpg' alt='El mundo de los discos duros sigue vivo, Seagate lanza modelos de 20 TB de capacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jordan-belfort-lobo-wall-street-afirma-creadores-shiba-inu-dogecoin-deberian-estar-carcel-975053'>Jordan Belfort (El Lobo de Wall Street) afirma que los creadores de Shiba Inu o Dogecoin deberían estar en la cárcel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jordan-belfort-lobo-wall-street-afirma-creadores-shiba-inu-dogecoin-deberian-estar-carcel-975053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dogecoin-2216937.jpg' alt='Jordan Belfort (El Lobo de Wall Street) afirma que los creadores de Shiba Inu o Dogecoin deberían estar en la cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-rival-huawei-band-6-barata-supera-prestaciones-974457'>Xiaomi tiene rival: la Huawei Band 6 es más barata y la supera en prestaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-rival-huawei-band-6-barata-supera-prestaciones-974457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351975.jpg' alt='Xiaomi tiene rival: la Huawei Band 6 es más barata y la supera en prestaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-atreveria-lanzar-smartwatch-propio-llegaria-antes-esperado-975021'>Google se atrevería a lanzar un smartwatch propio que llegaría antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-atreveria-lanzar-smartwatch-propio-llegaria-antes-esperado-975021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/rumores-han-confirmado-samsung-fitbit-alian-google-mejorar-relojes-wear-os-2339979.jpg' alt='Google se atrevería a lanzar un smartwatch propio que llegaría antes de lo esperado' />
     </a>
 </div>
 
