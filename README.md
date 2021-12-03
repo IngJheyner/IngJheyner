@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245'>El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-2532643.jpg' alt='El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231'>HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/harmonyos.png' alt='HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227'>Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/camion-electrico-mercadona-2551715.jpg' alt='Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183'>La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android' />
     </a>
 </div>
 
