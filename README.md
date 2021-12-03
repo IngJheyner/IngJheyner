@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255'>Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-da-marcha-atras-dejara-elegir-navegador-windows-11-2551749.jpg' alt='Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249'>Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237'>Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-rellenar-correctamente-liquido-limpiaparabrisas-ni-te-ocurra-usar-solo-agua-2551725.jpg' alt='Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233'>Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cesta-compra-2551721.jpg' alt='Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía' />
     </a>
 </div>
 
