@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429'>Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358011.jpg' alt='Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2550715.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605'>8 consejos de dos psicólogos para no estresarte estas fiestas navideñas</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/8-consejos-doctor-no-estresarte-estas-fiestas-navidenas-2550503.jpg' alt='8 consejos de dos psicólogos para no estresarte estas fiestas navideñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599'>La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-interfaz-office-basada-window-11-comienza-llegar-hoy-usuarios-tambien-windows-10-2550497.jpg' alt='La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10' />
     </a>
 </div>
 
