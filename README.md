@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2550715.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-baratos-apple-watch-tiene-poco-envidiarle-974195'>20 relojes inteligentes más baratos que el Apple Watch y que tiene poco que envidiarle</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-baratos-apple-watch-tiene-poco-envidiarle-974195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483555.jpg' alt='20 relojes inteligentes más baratos que el Apple Watch y que tiene poco que envidiarle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831'>EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/easymile-ez10-primer-vehiculo-autonomo-nadie-volante-autorizado-circular-carreteras-publicas-europa-2550711.jpg' alt='EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605'>8 consejos de dos psicólogos para no estresarte estas fiestas navideñas</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/8-consejos-doctor-no-estresarte-estas-fiestas-navidenas-2550503.jpg' alt='8 consejos de dos psicólogos para no estresarte estas fiestas navideñas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599'>La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-interfaz-office-basada-window-11-974599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-interfaz-office-basada-window-11-comienza-llegar-hoy-usuarios-tambien-windows-10-2550497.jpg' alt='La nueva interfaz de Office basada en Window 11 comienza a llegar hoy a los usuarios, también en Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/chimenea-electrica-firstline-descuento-oferta-974589'>Esta chimenea eléctrica que calienta y decora tu casa tiene un 48% de descuento, baja a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/chimenea-electrica-firstline-descuento-oferta-974589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chimenea-electrica-calienta-decora-casa-tiene-48-descuento-baja-menos-100-euros-2550391.jpg' alt='Esta chimenea eléctrica que calienta y decora tu casa tiene un 48% de descuento, baja a menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573'>WhatsApp está probando un nuevo botón para poder dar marcha atrás</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-nuevo-boton-poder-dar-marcha-atras-974573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp está probando un nuevo botón para poder dar marcha atrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567'>Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-intenta-hacernos-lio-no-instalemos-chrome-windows-974567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromebook-2369045.jpg' alt='Microsoft intenta ‘hacernos el lío’ para que no instalemos Chrome en Windows' />
     </a>
 </div>
 
