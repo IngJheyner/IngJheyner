@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-rival-huawei-band-6-barata-supera-prestaciones-974457'>Xiaomi tiene rival: la Huawei Band 6 es más barata y la supera en prestaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-rival-huawei-band-6-barata-supera-prestaciones-974457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351975.jpg' alt='Xiaomi tiene rival: la Huawei Band 6 es más barata y la supera en prestaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-atreveria-lanzar-smartwatch-propio-llegaria-antes-esperado-975021'>Google se atrevería a lanzar un smartwatch propio que llegaría antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-atreveria-lanzar-smartwatch-propio-llegaria-antes-esperado-975021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/rumores-han-confirmado-samsung-fitbit-alian-google-mejorar-relojes-wear-os-2339979.jpg' alt='Google se atrevería a lanzar un smartwatch propio que llegaría antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-recibe-gran-actualizacion-cuatro-importantes-novedades-974989'>Android Auto recibe una gran actualización con hasta cuatro importantes novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-recibe-gran-actualizacion-cuatro-importantes-novedades-974989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg' alt='Android Auto recibe una gran actualización con hasta cuatro importantes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-icono-bateria-iphone-ponga-amarillo-975001'>¿Qué significa que el icono de la batería del iPhone se ponga amarillo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-icono-bateria-iphone-ponga-amarillo-975001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-bateria-amarilla-2550993.jpg' alt='¿Qué significa que el icono de la batería del iPhone se ponga amarillo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-creo-airpods-transparentes-2016-pero-no-vieron-luz-era-prototipo-974965'>Apple creó unos AirPods transparentes en 2016 pero no vieron la luz: así era el prototipo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-creo-airpods-transparentes-2016-pero-no-vieron-luz-era-prototipo-974965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Apple creó unos AirPods transparentes en 2016 pero no vieron la luz: así era el prototipo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-multas-chanclas-dgt-mira-ahora-abrigos-974897'>Cuidado con las multas: tras las chanclas la DGT mira ahora a los abrigos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuidado-multas-chanclas-dgt-mira-ahora-abrigos-974897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/me-pueden-multar-conducir-abrigo-llevo-guantes-bufanda-2187177.jpg' alt='Cuidado con las multas: tras las chanclas la DGT mira ahora a los abrigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-pide-gritos-memoria-microsd-hoy-ganga-amazon-menos-15-euros-974449'>Si tu móvil pide a gritos más memoria, esta microSD es hoy una ganga en Amazon por menos de 15 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-pide-gritos-memoria-microsd-hoy-ganga-amazon-menos-15-euros-974449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/sandisk-ultra-128gb-2040931.jpg' alt='Si tu móvil pide a gritos más memoria, esta microSD es hoy una ganga en Amazon por menos de 15 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-encuentra-otro-enemigo-mision-imposible-comprar-arm-974881'>Nvidia se encuentra a otro enemigo en su misión imposible de comprar ARM</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-encuentra-otro-enemigo-mision-imposible-comprar-arm-974881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2064569.jpg' alt='Nvidia se encuentra a otro enemigo en su misión imposible de comprar ARM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857'>Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues' />
     </a>
 </div>
 
