@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-creo-airpods-transparentes-2016-pero-no-vieron-luz-era-prototipo-974965'>Apple creó unos AirPods transparentes en 2016 pero no vieron la luz: así era el prototipo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-creo-airpods-transparentes-2016-pero-no-vieron-luz-era-prototipo-974965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Apple creó unos AirPods transparentes en 2016 pero no vieron la luz: así era el prototipo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-multas-chanclas-dgt-mira-ahora-abrigos-974897'>Cuidado con las multas: tras las chanclas la DGT mira ahora a los abrigos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuidado-multas-chanclas-dgt-mira-ahora-abrigos-974897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/me-pueden-multar-conducir-abrigo-llevo-guantes-bufanda-2187177.jpg' alt='Cuidado con las multas: tras las chanclas la DGT mira ahora a los abrigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-pide-gritos-memoria-microsd-hoy-ganga-amazon-menos-15-euros-974449'>Si tu móvil pide a gritos más memoria, esta microSD es hoy una ganga en Amazon por menos de 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-pide-gritos-memoria-microsd-hoy-ganga-amazon-menos-15-euros-974449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/sandisk-ultra-128gb-2040931.jpg' alt='Si tu móvil pide a gritos más memoria, esta microSD es hoy una ganga en Amazon por menos de 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-encuentra-otro-enemigo-mision-imposible-comprar-arm-974881'>Nvidia se encuentra a otro enemigo en su misión imposible de comprar ARM</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-encuentra-otro-enemigo-mision-imposible-comprar-arm-974881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2064569.jpg' alt='Nvidia se encuentra a otro enemigo en su misión imposible de comprar ARM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857'>Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429'>Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358011.jpg' alt='Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-974833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2550715.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-baratos-apple-watch-tiene-poco-envidiarle-974195'>20 relojes inteligentes más baratos que el Apple Watch y que tiene poco que envidiarle</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-baratos-apple-watch-tiene-poco-envidiarle-974195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483555.jpg' alt='20 relojes inteligentes más baratos que el Apple Watch y que tiene poco que envidiarle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831'>EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/easymile-ez10-primer-vehiculo-autonomo-nadie-volante-autorizado-circular-carreteras-publicas-europa-2550711.jpg' alt='EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa' />
     </a>
 </div>
 
