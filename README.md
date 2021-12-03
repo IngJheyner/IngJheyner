@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227'>Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/camion-electrico-mercadona-2551715.jpg' alt='Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183'>La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-vivo-estaria-preparando-telefono-pantalla-extensible-975181'>Los últimos rumores apuntan a que Vivo estaría preparando un teléfono con pantalla extensible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-vivo-estaria-preparando-telefono-pantalla-extensible-975181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/oppo-x-2021-2293535.jpg' alt='Los últimos rumores apuntan a que Vivo estaría preparando un teléfono con pantalla extensible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-comprar-ciencia-gusto-musical-975189'>Qué auriculares comprar según la ciencia y tu gusto musical</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-comprar-ciencia-gusto-musical-975189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-auriculares-true-wireless-2485529.jpg' alt='Qué auriculares comprar según la ciencia y tu gusto musical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317'>Amigo invisible: mejores ideas de regalo por menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-amigo-invisible-2550013.jpg' alt='Amigo invisible: mejores ideas de regalo por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-oeste-espacio-tributo-974571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-fin-semana-2550325.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: una del oeste, una del espacio y un tributo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-casa-papel-visitantes-misterio-974555'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una casa de papel, unos visitantes y un misterio</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-casa-papel-visitantes-misterio-974555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-diciembre-2550245.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una casa de papel, unos visitantes y un misterio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10s-menos-200eu-oferta-974505'>Redmi Note 10S es uno de los mejores móviles baratos de Xiaomi y ahora te lo puedes llevar en oferta por menos de 200€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10s-menos-200eu-oferta-974505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-redmi-note-10s-2327875.jpg' alt='Redmi Note 10S es uno de los mejores móviles baratos de Xiaomi y ahora te lo puedes llevar en oferta por menos de 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/united-airlanes-realiza-primer-vuelo-comercial-historia-combustible-100-sostenible-975153'>Así ha sido el primer vuelo comercial de la historia con combustible 100% sostenible: contamina la mitad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/united-airlanes-realiza-primer-vuelo-comercial-historia-combustible-100-sostenible-975153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='Así ha sido el primer vuelo comercial de la historia con combustible 100% sostenible: contamina la mitad' />
     </a>
 </div>
 
