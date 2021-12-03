@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231'>HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/harmonyos.png' alt='HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237'>Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-rellenar-correctamente-liquido-limpiaparabrisas-ni-te-ocurra-usar-solo-agua-2551725.jpg' alt='Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233'>Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahora-te-resultara-mucho-caro-hacer-compra-culpa-tiene-precio-energia-975233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cesta-compra-2551721.jpg' alt='Ahora te resultará mucho más caro hacer la compra, y la culpa la tiene el precio de la energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227'>Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-camion-100-electrico-mercadona-vas-ver-circular-calles-975227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/camion-electrico-mercadona-2551715.jpg' alt='Este es el nuevo camión 100% eléctrico de Mercadona que vas a ver circular por tus calles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183'>La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carpeta-segura-google-fotos-dejaria-ser-exclusiva-pixel-llegaria-otros-telefonos-android-975183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='La carpeta segura de Google Fotos dejaría de ser exclusiva de los Pixel y llegaría a otros teléfonos Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-vivo-estaria-preparando-telefono-pantalla-extensible-975181'>Los últimos rumores apuntan a que Vivo estaría preparando un teléfono con pantalla extensible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-vivo-estaria-preparando-telefono-pantalla-extensible-975181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/oppo-x-2021-2293535.jpg' alt='Los últimos rumores apuntan a que Vivo estaría preparando un teléfono con pantalla extensible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-comprar-ciencia-gusto-musical-975189'>Qué auriculares comprar según la ciencia y tu gusto musical</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-comprar-ciencia-gusto-musical-975189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-auriculares-true-wireless-2485529.jpg' alt='Qué auriculares comprar según la ciencia y tu gusto musical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317'>Amigo invisible: mejores ideas de regalo por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amigo-invisible-mejores-ideas-regalo-menos-20-euros-974317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-amigo-invisible-2550013.jpg' alt='Amigo invisible: mejores ideas de regalo por menos de 20 euros' />
     </a>
 </div>
 
