@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055'>Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aprobacion-ley-trafico-2022-llegan-multas-contundentes-conductores-coches-motos-patinetes-975055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/multa-trafico-2144103.jpg' alt='Con la aprobación de la Ley de Tráfico 2022 llegan multas más contundentes para conductores de coches, motos y patinetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967'>Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/-escuchar-musica-gratis-amazon-music-unlimited-oferta-echo-dot-974967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg' alt='Música gratis en Amazon con esta oferta que deja el Echo Dot en solo 18,99 euros y que incluye seis meses de Amazon Music Unlimited' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/netflix-anade-biblioteca-gaming-tres-nuevas-opciones-incluye-candy-crush-gatitos-975019'>Netflix añade a su biblioteca gaming tres nuevas opciones entre las que se incluye un Candy Crush de gatitos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/netflix-anade-biblioteca-gaming-tres-nuevas-opciones-incluye-candy-crush-gatitos-975019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-android-2521107.jpg' alt='Netflix añade a su biblioteca gaming tres nuevas opciones entre las que se incluye un Candy Crush de gatitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jordan-belfort-lobo-wall-street-afirma-creadores-shiba-inu-dogecoin-deberian-estar-carcel-975053'>Jordan Belfort (El Lobo de Wall Street) afirma que los creadores de Shiba Inu o Dogecoin deberían estar en la cárcel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/jordan-belfort-lobo-wall-street-afirma-creadores-shiba-inu-dogecoin-deberian-estar-carcel-975053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dogecoin-2216937.jpg' alt='Jordan Belfort (El Lobo de Wall Street) afirma que los creadores de Shiba Inu o Dogecoin deberían estar en la cárcel' />
     </a>
 </div>
 
