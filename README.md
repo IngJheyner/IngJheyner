@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857'>Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-mensaje-privado-twitter-banco-tranquilo-solo-quieren-pagues-974857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='Si tienes un mensaje privado en Twitter de tu banco, tranquilo, sólo quieren que les pagues' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429'>Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-huawei-cancelacion-son-mucho-baratos-airpods-cuestan-99eu-incluyen-funda-regalo-974429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358011.jpg' alt='Estos auriculares Huawei con cancelación son mucho más baratos que los AirPods: cuestan 99€ e incluyen funda de regalo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831'>EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/easymile-ez10-primer-vehiculo-autonomo-autorizado-europa-974831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/easymile-ez10-primer-vehiculo-autonomo-nadie-volante-autorizado-circular-carreteras-publicas-europa-2550711.jpg' alt='EasyMile EZ10, el primer vehículo autónomo sin nadie al volante autorizado a circular por carreteras públicas en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605'>8 consejos de dos psicólogos para no estresarte estas fiestas navideñas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-psicologos-estres-ansiedad-fiestas-navidenas-974605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/8-consejos-doctor-no-estresarte-estas-fiestas-navidenas-2550503.jpg' alt='8 consejos de dos psicólogos para no estresarte estas fiestas navideñas' />
     </a>
 </div>
 
