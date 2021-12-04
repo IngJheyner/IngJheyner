@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bombilla-inteligente-wifi-2550799.jpg' alt='11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/ano-despues-seguimos-stock-ps5-merece-pena-comprarla-2021-965097'>Un año después seguimos sin stock de PS5, ¿merece la pena comprarla en 2021?</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/ano-despues-seguimos-stock-ps5-merece-pena-comprarla-2021-965097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg' alt='Un año después seguimos sin stock de PS5, ¿merece la pena comprarla en 2021?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271'>Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/botto-inteligencia-artificial-desafia-mundo-arte-ha-ganado-millon-dolares-vendiendo-primeros-cuadros-nft-2549399.jpg' alt='Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871'>Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero</a></h4>
     <a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trucos-conductores-rusos-arrancar-coche-conducir-50-grados-cero-2550763.jpg' alt='Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069'>Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías</a></h4>
-    <a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-buscando-comida-frigorifico-2551113.jpg' alt='Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257'>Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/calculadora-sueno-como-descubrir-hora-tienes-irte-dormir-descansar-bien-2551751.jpg' alt='Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien' />
     </a>
 </div>
 
