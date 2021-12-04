@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257'>Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/calculadora-sueno-como-descubrir-hora-tienes-irte-dormir-descansar-bien-2551751.jpg' alt='Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255'>Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-da-marcha-atras-dejara-elegir-navegador-windows-11-2551749.jpg' alt='Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231'>HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/harmonyos.png' alt='HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237'>Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-rellenar-liquido-limpiaparabrisas-975237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-rellenar-correctamente-liquido-limpiaparabrisas-ni-te-ocurra-usar-solo-agua-2551725.jpg' alt='Cómo rellenar correctamente el líquido del limpiaparabrisas, ni se te ocurra usar solo agua' />
     </a>
 </div>
 
