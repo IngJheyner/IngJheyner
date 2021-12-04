@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025'>Navidad 2021: 10 ideas de regalos para niños</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reganos-navidenos-2551263.jpg' alt='Navidad 2021: 10 ideas de regalos para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871'>Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trucos-conductores-rusos-arrancar-coche-conducir-50-grados-cero-2550763.jpg' alt='Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069'>Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías</a></h4>
     <a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-buscando-comida-frigorifico-2551113.jpg' alt='Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255'>Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-da-marcha-atras-dejara-elegir-navegador-windows-11-2551749.jpg' alt='Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249'>Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/playstation-game-pass-spartacus-975249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Las consolas PlayStation pronto tendrán su propio Game Pass, llamado Spartacus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245'>El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-2532643.jpg' alt='El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros' />
     </a>
 </div>
 
