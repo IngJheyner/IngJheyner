@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891'>Lenovo Yoga Tab 13, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-yoga-tab-13-analisis-opinion-2551215.jpg' alt='Lenovo Yoga Tab 13, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bombilla-inteligente-wifi-2550799.jpg' alt='11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025'>Navidad 2021: 10 ideas de regalos para niños</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reganos-navidenos-2551263.jpg' alt='Navidad 2021: 10 ideas de regalos para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871'>Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/trucos-conductores-rusos-coche-50-grados-bajo-cero-974871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trucos-conductores-rusos-arrancar-coche-conducir-50-grados-cero-2550763.jpg' alt='Los trucos de los conductores rusos para arrancar el coche y conducir a 50 grados bajo cero' />
     </a>
 </div>
 
