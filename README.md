@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vanguardista-tecnologia-ha-logrado-reducir-radiacion-suelo-aire-chernobil-975535'>Esta vanguardista tecnología ha logrado reducir la radiación del suelo y del aire en Chernóbil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vanguardista-tecnologia-ha-logrado-reducir-radiacion-suelo-aire-chernobil-975535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/central-electrica-chernobil-2552099.jpg' alt='Esta vanguardista tecnología ha logrado reducir la radiación del suelo y del aire en Chernóbil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-nueva-tablet-barata-oferta-974973'>realme Pad, la nueva tablet que compite contra Xiaomi Pad 5, ahora solo cuesta 189€ con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-nueva-tablet-barata-oferta-974973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='realme Pad, la nueva tablet que compite contra Xiaomi Pad 5, ahora solo cuesta 189€ con este cupón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515'>Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matepad-104-new-edition-2552061.jpg' alt='Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505'>Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtag-camuflado-coche-2552029.jpg' alt='Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta' />
     </a>
 </div>
 
