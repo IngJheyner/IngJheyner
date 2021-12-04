@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493'>Se retrasa una de las características más esperadas de Google TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chromecast-google-tv-2072339.jpg' alt='Se retrasa una de las características más esperadas de Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667'>Cómo utilizar la pantalla de un portátil viejo como segundo monitor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/portatil-segunda-pantalla-ordenador-2502835.jpg' alt='Cómo utilizar la pantalla de un portátil viejo como segundo monitor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497'>El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/amazon-echo-dot-3a-generacion-2019_0.jpg' alt='El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bombilla-inteligente-wifi-2550799.jpg' alt='11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/ano-despues-seguimos-stock-ps5-merece-pena-comprarla-2021-965097'>Un año después seguimos sin stock de PS5, ¿merece la pena comprarla en 2021?</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/ano-despues-seguimos-stock-ps5-merece-pena-comprarla-2021-965097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg' alt='Un año después seguimos sin stock de PS5, ¿merece la pena comprarla en 2021?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271'>Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/botto-inteligencia-artificial-desafia-mundo-arte-ha-ganado-millon-dolares-vendiendo-primeros-cuadros-nft-2549399.jpg' alt='Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT' />
     </a>
 </div>
 
