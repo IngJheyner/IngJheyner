@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271'>Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/botto-inteligencia-artificial-desafia-mundo-arte-ha-ganado-millon-dolares-vendiendo-primeros-cuadros-nft-2549399.jpg' alt='Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025'>Navidad 2021: 10 ideas de regalos para niños</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reganos-navidenos-2551263.jpg' alt='Navidad 2021: 10 ideas de regalos para niños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257'>Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien</a></h4>
     <a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/calculadora-sueno-como-descubrir-hora-tienes-irte-dormir-descansar-bien-2551751.jpg' alt='Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255'>Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-marcha-atras-navegador-predeterminado-windows-11-975255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-da-marcha-atras-dejara-elegir-navegador-windows-11-2551749.jpg' alt='Microsoft da marcha atrás y dejará elegir navegador fácilmente en Windows 11' />
     </a>
 </div>
 
