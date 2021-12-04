@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497'>El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/amazon-echo-dot-3a-generacion-2019_0.jpg' alt='El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891'>Lenovo Yoga Tab 13, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-yoga-tab-13-analisis-opinion-2551215.jpg' alt='Lenovo Yoga Tab 13, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271'>Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/botto-inteligencia-artificial-pinta-cuadros-nft-974271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/botto-inteligencia-artificial-desafia-mundo-arte-ha-ganado-millon-dolares-vendiendo-primeros-cuadros-nft-2549399.jpg' alt='Botto, la inteligencia artificial que desafía al mundo del arte: ha ganado un millón de dólares vendiendo sus primeros cuadros en NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025'>Navidad 2021: 10 ideas de regalos para niños</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-ninos-975025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reganos-navidenos-2551263.jpg' alt='Navidad 2021: 10 ideas de regalos para niños' />
     </a>
 </div>
 
