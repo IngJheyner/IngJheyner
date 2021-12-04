@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-te-congeles-manos-manejar-movil-estos-son-guantes-tactiles-arrasan-amazon-975589'>No te congeles las manos por manejar el móvil: estos son los guantes táctiles que arrasan en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-te-congeles-manos-manejar-movil-estos-son-guantes-tactiles-arrasan-amazon-975589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/guantes-tactiles-2552157.jpg' alt='No te congeles las manos por manejar el móvil: estos son los guantes táctiles que arrasan en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577'>Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emojis-populares-2021-2552135.jpg' alt='Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533'>El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531'>Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera' />
     </a>
 </div>
 
