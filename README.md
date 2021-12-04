@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577'>Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emojis-populares-2021-2552135.jpg' alt='Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vanguardista-tecnologia-ha-logrado-reducir-radiacion-suelo-aire-chernobil-975535'>Esta vanguardista tecnología ha logrado reducir la radiación del suelo y del aire en Chernóbil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vanguardista-tecnologia-ha-logrado-reducir-radiacion-suelo-aire-chernobil-975535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/central-electrica-chernobil-2552099.jpg' alt='Esta vanguardista tecnología ha logrado reducir la radiación del suelo y del aire en Chernóbil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531'>Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515'>Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matepad-104-new-edition-2552061.jpg' alt='Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad' />
     </a>
 </div>
 
