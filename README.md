@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531'>Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515'>Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-tiene-wifi-6-pantalla-2k-mucho-barata-ipad-975515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matepad-104-new-edition-2552061.jpg' alt='Esta tablet Huawei tiene WiFi 6 y pantalla 2K, y es mucho más barata que el iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505'>Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtag-camuflado-coche-2552029.jpg' alt='Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067'>¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vorwerk-kobold-vb100-2542499.jpg' alt='¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493'>Se retrasa una de las características más esperadas de Google TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chromecast-google-tv-2072339.jpg' alt='Se retrasa una de las características más esperadas de Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667'>Cómo utilizar la pantalla de un portátil viejo como segundo monitor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/portatil-segunda-pantalla-ordenador-2502835.jpg' alt='Cómo utilizar la pantalla de un portátil viejo como segundo monitor' />
     </a>
 </div>
 
