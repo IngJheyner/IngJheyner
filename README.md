@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533'>El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531'>Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aviso-guardia-civil-dos-elementos-deberias-comprobar-coche-antes-salir-carretera-975531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Este es el aviso de la Guardia Civil sobre dos elementos que deberías comprobar en tu coche antes de salir a carretera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005'>Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soundpeats-frame-s-2551013.jpg' alt='Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067'>¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vorwerk-kobold-vb100-2542499.jpg' alt='¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold ' />
     </a>
 </div>
 
