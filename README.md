@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-nueva-tablet-barata-oferta-974973'>realme Pad, la nueva tablet que compite contra Xiaomi Pad 5, ahora solo cuesta 189€ con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-nueva-tablet-barata-oferta-974973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='realme Pad, la nueva tablet que compite contra Xiaomi Pad 5, ahora solo cuesta 189€ con este cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533'>El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-v-estaria-dias-presentarse-competiria-galaxy-z-flip-975533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='El Huawei Mate V estaría a unos días de presentarse, y competiría con el Galaxy Z Flip' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505'>Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtag-camuflado-coche-2552029.jpg' alt='Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005'>Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soundpeats-frame-s-2551013.jpg' alt='Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€' />
     </a>
 </div>
 
