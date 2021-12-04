@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505'>Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ladrones-estan-utilizando-airtags-robar-coches-debes-estar-alerta-975505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtag-camuflado-coche-2552029.jpg' alt='Los ladrones están utilizando los AirTags para robar coches, y debes estar alerta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005'>Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soundpeats-frame-s-gafas-oferta-975005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soundpeats-frame-s-2551013.jpg' alt='Libérate de cables y de auriculares para escuchar música con estas gafas de sol SoundPEATS Frame S, ahora en oferta por solo 41€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067'>¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/vorwerk-vb100-kobold-analisis-opinion-965067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vorwerk-kobold-vb100-2542499.jpg' alt='¿La Thermomix de las aspiradoras sin cable? Probamos la VB100 de Kobold ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493'>Se retrasa una de las características más esperadas de Google TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/retrasa-caracteristicas-esperadas-google-tv-975493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chromecast-google-tv-2072339.jpg' alt='Se retrasa una de las características más esperadas de Google TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667'>Cómo utilizar la pantalla de un portátil viejo como segundo monitor</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-pantalla-portatil-viejo-como-segundo-monitor-948667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/portatil-segunda-pantalla-ordenador-2502835.jpg' alt='Cómo utilizar la pantalla de un portátil viejo como segundo monitor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497'>El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-amazon-echo-dot-3a-generacion-barato-mediamarkt-974497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/amazon-echo-dot-3a-generacion-2019_0.jpg' alt='El altavoz Echo Dot de 3ª generación está más barato que nunca por 18,99€, pero en Amazon no te llegará para Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891'>Lenovo Yoga Tab 13, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-yoga-tab-13-review-opinion-973891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-yoga-tab-13-analisis-opinion-2551215.jpg' alt='Lenovo Yoga Tab 13, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bombilla-inteligente-wifi-2550799.jpg' alt='11 bombillas inteligentes baratas desde 2 euros (y sí, tambien hay de Xiaomi)' />
     </a>
 </div>
 
