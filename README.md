@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069'>Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llevas-toda-vida-usando-mal-frigorifico-seguramente-no-sabias-975069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-buscando-comida-frigorifico-2551113.jpg' alt='Llevas toda la vida usando mal el frigorífico y seguramente no lo sabías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257'>Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien</a></h4>
     <a href='https://computerhoy.com/noticias/life/calculadora-sueno-hora-irte-dormir-descansar-bien-975257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/calculadora-sueno-como-descubrir-hora-tienes-irte-dormir-descansar-bien-2551751.jpg' alt='Calculadora de sueño: cómo descubrir a qué hora tienes que irte a dormir para descansar bien' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245'>El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-975245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-2532643.jpg' alt='El móvil top Poco M4 Pro 5G se lanzó hace unos días, pero ya está a solo 244 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231'>HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/harmonyos-20-expande-fronteras-aterrizara-forma-oficial-europa-junto-huawei-mate-mate-x-975231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/harmonyos.png' alt='HarmonyOS 2.0 expande sus fronteras y aterrizará de forma oficial en Europa junto con los Huawei Mate y Mate X' />
     </a>
 </div>
 
