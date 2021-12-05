@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/15-usos-linea-comandos-cmd-windows-debes-conocer-972455'>15 usos de la línea de comandos (CMD) de Windows que debes conocer</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/15-usos-linea-comandos-cmd-windows-debes-conocer-972455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg' alt='15 usos de la línea de comandos (CMD) de Windows que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-100-euros-portatil-dell-inspiron-15-ryzen-7-16-gb-ram-actualizable-windows-11-975193'>Amazon ha rebajado 100 euros el portátil Dell Inspiron 15 con Ryzen 7, 16 GB de RAM y actualizable a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-100-euros-portatil-dell-inspiron-15-ryzen-7-16-gb-ram-actualizable-windows-11-975193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dell-inspiron-15-2551601.jpg' alt='Amazon ha rebajado 100 euros el portátil Dell Inspiron 15 con Ryzen 7, 16 GB de RAM y actualizable a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/hp-spectre-x360-2021-review-opinion-973493'>HP Spectre x360 2021, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/hp-spectre-x360-2021-review-opinion-973493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-hp-spectre-x360-2550387.jpg' alt='HP Spectre x360 2021, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-maneras-baratas-calentar-casa-manera-eficiente-965771'>Las 6 maneras más baratas calentar la casa de manera eficiente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-maneras-baratas-calentar-casa-manera-eficiente-965771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ahorrar-calefaccion-2194877.jpg' alt='Las 6 maneras más baratas calentar la casa de manera eficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581'>Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-ameca-2552141.jpg' alt='Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099'>Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica' />
     </a>
 </div>
 
