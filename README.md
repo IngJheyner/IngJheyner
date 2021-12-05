@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925'>El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rover-chino-lunar-cambiara-ruta-investigar-misterioso-objeto-cubico-han-llamado-casa-misteriosa-luna-2552727.jpg' alt='El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919'>Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/fairphone-4-2488313.jpg' alt='Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871'>Estas serían las primeras imágenes promocionales reales del Google Pixel Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Estas serían las primeras imágenes promocionales reales del Google Pixel Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859'>16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oferta-nitropc-2552641.jpg' alt='16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon' />
     </a>
 </div>
 
