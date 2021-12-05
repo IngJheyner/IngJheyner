@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871'>Estas serían las primeras imágenes promocionales reales del Google Pixel Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Estas serían las primeras imágenes promocionales reales del Google Pixel Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859'>16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oferta-nitropc-2552641.jpg' alt='16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895'>Logitech Mx Keys Mini, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/logitech-mx-keys-mini-2551703.jpg' alt='Logitech Mx Keys Mini, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-advierte-ciberdelincuentes-intensifican-campanas-usuarios-caixabank-robarles-datos-975835'>La Policía Nacional advierte que los ciberdelincuentes intensifican sus campañas contra los usuarios de CaixaBank para robarles los datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-advierte-ciberdelincuentes-intensifican-campanas-usuarios-caixabank-robarles-datos-975835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/caixabank-2552521.jpg' alt='La Policía Nacional advierte que los ciberdelincuentes intensifican sus campañas contra los usuarios de CaixaBank para robarles los datos' />
     </a>
 </div>
 
