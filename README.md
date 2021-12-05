@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581'>Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-ameca-2552141.jpg' alt='Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099'>Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583'>Imaginan un yate transparente que podrías ver surcar los océanos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/capitolo-2552147.jpg' alt='Imaginan un yate transparente que podrías ver surcar los océanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-personas-mayores-975093'>Navidad 2021: 10 ideas de regalos para personas mayores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-personas-mayores-975093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-personas-mayores-sentadas-abuelos-2551539.jpg' alt='Navidad 2021: 10 ideas de regalos para personas mayores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lego-home-madera-974183'>LEGO cambia el plástico por la madera en su nueva colección LEGO Home</a></h4>
     <a href='https://computerhoy.com/noticias/life/lego-home-madera-974183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lego-cambia-plastico-madera-nueva-coleccion-lego-home-2549253.jpg' alt='LEGO cambia el plástico por la madera en su nueva colección LEGO Home' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puente-giratorio-grande-mundo-pone-marcha-canal-suez-973159'>El puente giratorio más grande del mundo se pone en marcha en el Canal de Suez</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puente-giratorio-grande-mundo-pone-marcha-canal-suez-973159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/puente-giratorio-grande-mundo-pone-marcha-canal-suez-2547685.jpg' alt='El puente giratorio más grande del mundo se pone en marcha en el Canal de Suez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-te-congeles-manos-manejar-movil-estos-son-guantes-tactiles-arrasan-amazon-975589'>No te congeles las manos por manejar el móvil: estos son los guantes táctiles que arrasan en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-te-congeles-manos-manejar-movil-estos-son-guantes-tactiles-arrasan-amazon-975589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/guantes-tactiles-2552157.jpg' alt='No te congeles las manos por manejar el móvil: estos son los guantes táctiles que arrasan en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577'>Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-han-sido-emojis-utilizados-2021-seguro-has-usado-todos-975577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emojis-populares-2021-2552135.jpg' alt='Estos han sido los emojis más utilizados en 2021, y seguro que has usado todos' />
     </a>
 </div>
 
