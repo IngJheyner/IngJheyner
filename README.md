@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845'>Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2552623.jpg' alt='Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203'>Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-plano-mujer-2551631.jpg' alt='Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895'>Logitech Mx Keys Mini, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/logitech-mx-keys-mini-2551703.jpg' alt='Logitech Mx Keys Mini, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cosas-puedes-hacer-conexion-datos-movil-funcione-rapido-970587'>Cosas que puedes hacer para que la conexión de datos de tu móvil funcione más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/cosas-puedes-hacer-conexion-datos-movil-funcione-rapido-970587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/cobertura-movil.jpg' alt='Cosas que puedes hacer para que la conexión de datos de tu móvil funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/15-usos-linea-comandos-cmd-windows-debes-conocer-972455'>15 usos de la línea de comandos (CMD) de Windows que debes conocer</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/15-usos-linea-comandos-cmd-windows-debes-conocer-972455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg' alt='15 usos de la línea de comandos (CMD) de Windows que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-100-euros-portatil-dell-inspiron-15-ryzen-7-16-gb-ram-actualizable-windows-11-975193'>Amazon ha rebajado 100 euros el portátil Dell Inspiron 15 con Ryzen 7, 16 GB de RAM y actualizable a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-100-euros-portatil-dell-inspiron-15-ryzen-7-16-gb-ram-actualizable-windows-11-975193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dell-inspiron-15-2551601.jpg' alt='Amazon ha rebajado 100 euros el portátil Dell Inspiron 15 con Ryzen 7, 16 GB de RAM y actualizable a Windows 11' />
     </a>
 </div>
 
