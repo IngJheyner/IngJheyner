@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919'>Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/fairphone-4-2488313.jpg' alt='Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915'>La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg' alt='La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859'>16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oferta-nitropc-2552641.jpg' alt='16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845'>Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2552623.jpg' alt='Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación' />
     </a>
 </div>
 
