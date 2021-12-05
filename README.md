@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859'>16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-grafica-gtx-1050-pc-sobremesa-precio-ganga-amazon-975859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oferta-nitropc-2552641.jpg' alt='16GB de RAM y gráfica GTX 1050: este PC de sobremesa está a precio de ganga en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845'>Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2552623.jpg' alt='Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-advierte-ciberdelincuentes-intensifican-campanas-usuarios-caixabank-robarles-datos-975835'>La Policía Nacional advierte que los ciberdelincuentes intensifican sus campañas contra los usuarios de CaixaBank para robarles los datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-advierte-ciberdelincuentes-intensifican-campanas-usuarios-caixabank-robarles-datos-975835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/caixabank-2552521.jpg' alt='La Policía Nacional advierte que los ciberdelincuentes intensifican sus campañas contra los usuarios de CaixaBank para robarles los datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cosas-puedes-hacer-conexion-datos-movil-funcione-rapido-970587'>Cosas que puedes hacer para que la conexión de datos de tu móvil funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/cosas-puedes-hacer-conexion-datos-movil-funcione-rapido-970587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/cobertura-movil.jpg' alt='Cosas que puedes hacer para que la conexión de datos de tu móvil funcione más rápido' />
     </a>
 </div>
 
