@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875'>Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871'>Estas serían las primeras imágenes promocionales reales del Google Pixel Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Estas serían las primeras imágenes promocionales reales del Google Pixel Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203'>Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-plano-mujer-2551631.jpg' alt='Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895'>Logitech Mx Keys Mini, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mini-review-opinion-973895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/logitech-mx-keys-mini-2551703.jpg' alt='Logitech Mx Keys Mini, análisis y opinión' />
     </a>
 </div>
 
