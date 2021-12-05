@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915'>La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg' alt='La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875'>Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845'>Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-imagen-oficial-moto-edge-x30-escasos-dias-presentacion-975845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2552623.jpg' alt='Esta es la primera imagen oficial del Moto Edge X30 a escasos días de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203'>Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/te-quieres-hacer-peeling-casa-xiaomi-me-tiene-propia-maquina-ultrasonica-menos-14-euros-975203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-plano-mujer-2551631.jpg' alt='Si te quieres hacer un 'peeling' en casa Xiaomi me tiene su propia máquina ultrasónica por menos de 14 euros' />
     </a>
 </div>
 
