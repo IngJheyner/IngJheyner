@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/hp-spectre-x360-2021-review-opinion-973493'>HP Spectre x360 2021, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/hp-spectre-x360-2021-review-opinion-973493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-hp-spectre-x360-2550387.jpg' alt='HP Spectre x360 2021, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/16-gadgets-muy-utiles-menos-20-euros-te-pueden-sacar-apuro-975073'>16 gadgets muy útiles de menos de 20 euros que te pueden sacar de más de un apuro</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/16-gadgets-muy-utiles-menos-20-euros-te-pueden-sacar-apuro-975073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/billete-20-euros-2551137.jpg' alt='16 gadgets muy útiles de menos de 20 euros que te pueden sacar de más de un apuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099'>Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/que-son-juegos-nft-play-to-earn-jugar-para-ganar-dinero-polemica-975099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué son los juegos NFT o Play-to-earn, jugar para ganar dinero, y por qué generan tanta polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583'>Imaginan un yate transparente que podrías ver surcar los océanos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/capitolo-2552147.jpg' alt='Imaginan un yate transparente que podrías ver surcar los océanos' />
     </a>
 </div>
 
