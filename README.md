@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/16-gadgets-muy-utiles-menos-20-euros-te-pueden-sacar-apuro-975073'>16 gadgets muy útiles de menos de 20 euros que te pueden sacar de más de un apuro</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/16-gadgets-muy-utiles-menos-20-euros-te-pueden-sacar-apuro-975073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/billete-20-euros-2551137.jpg' alt='16 gadgets muy útiles de menos de 20 euros que te pueden sacar de más de un apuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-maneras-baratas-calentar-casa-manera-eficiente-965771'>Las 6 maneras más baratas calentar la casa de manera eficiente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-maneras-baratas-calentar-casa-manera-eficiente-965771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ahorrar-calefaccion-2194877.jpg' alt='Las 6 maneras más baratas calentar la casa de manera eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581'>Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realistas-son-expresiones-faciales-humanoide-parece-ser-humano-975581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-ameca-2552141.jpg' alt='Así de realistas son las expresiones faciales de este humanoide, y parece un ser humano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583'>Imaginan un yate transparente que podrías ver surcar los océanos</a></h4>
     <a href='https://computerhoy.com/noticias/life/imaginan-yate-transparente-podrias-ver-surcar-oceanos-975583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/capitolo-2552147.jpg' alt='Imaginan un yate transparente que podrías ver surcar los océanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-personas-mayores-975093'>Navidad 2021: 10 ideas de regalos para personas mayores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-personas-mayores-975093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-personas-mayores-sentadas-abuelos-2551539.jpg' alt='Navidad 2021: 10 ideas de regalos para personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lego-home-madera-974183'>LEGO cambia el plástico por la madera en su nueva colección LEGO Home</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lego-home-madera-974183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lego-cambia-plastico-madera-nueva-coleccion-lego-home-2549253.jpg' alt='LEGO cambia el plástico por la madera en su nueva colección LEGO Home' />
     </a>
 </div>
 
