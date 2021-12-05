@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931'>Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/razer-lanza-unas-gafas-sol-auriculares-microfono-tambien-protegen-vista-cuando-usas-monitor-2256953.jpg' alt='Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925'>El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rover-chino-lunar-cambiara-ruta-investigar-misterioso-objeto-cubico-han-llamado-casa-misteriosa-luna-2552727.jpg' alt='El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875'>Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871'>Estas serían las primeras imágenes promocionales reales del Google Pixel Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-primeras-imagenes-promocionales-reales-google-pixel-watch-975871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Estas serían las primeras imágenes promocionales reales del Google Pixel Watch' />
     </a>
 </div>
 
