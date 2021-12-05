@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ikea-micro-casa-10-metros-cuadrados-973803'>IKEA ofrece en alquiler una micro casa de 10 metros cuadrados por 1 euro al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ikea-micro-casa-10-metros-cuadrados-973803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ikea-alquila-casa-10-metros-cuadrados-tokio-1-euro-mes-2548775.jpg' alt='IKEA ofrece en alquiler una micro casa de 10 metros cuadrados por 1 euro al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931'>Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/razer-lanza-unas-gafas-sol-auriculares-microfono-tambien-protegen-vista-cuando-usas-monitor-2256953.jpg' alt='Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915'>La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg' alt='La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875'>Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-lanzar-mercado-inesperado-redmi-10-2022-dominar-gama-entrada-975875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Xiaomi podría lanzar al mercado un inesperado Redmi 10 2022 para dominar la gama de entrada' />
     </a>
 </div>
 
