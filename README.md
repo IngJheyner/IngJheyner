@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229'>WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-estrena-novedades-mensajes-temporales-archivos-voz-2553181.jpg' alt='WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883'>Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-huawei-ax3-2256853.jpg' alt='Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-wikipedia-vende-primera-entrada-como-nft-976195'>El fundador de la Wikipedia vende la primera entrada como un NFT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fundador-wikipedia-vende-primera-entrada-como-nft-976195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fundador-wikipedia-vende-primera-entrada-como-nft-2553141.jpg' alt='El fundador de la Wikipedia vende la primera entrada como un NFT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177'>El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157'>El primer vídeo musical que te enseña a programar mientras lo escuchas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-video-musical-te-ensena-programar-mientras-escuchas-2553079.jpg' alt='El primer vídeo musical que te enseña a programar mientras lo escuchas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133'>Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/600-millones-dolares-ethereum-2435261.jpg' alt='Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares ' />
     </a>
 </div>
 
