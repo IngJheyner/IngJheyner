@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157'>El primer vídeo musical que te enseña a programar mientras lo escuchas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-video-musical-te-ensena-programar-mientras-escuchas-2553079.jpg' alt='El primer vídeo musical que te enseña a programar mientras lo escuchas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133'>Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/600-millones-dolares-ethereum-2435261.jpg' alt='Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/msi-prestige-14-evo-review-opinion-973491'>MSI Prestige 14 EVO, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/msi-prestige-14-evo-review-opinion-973491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-msi-prestige-14-evo-2550487.jpg' alt='MSI Prestige 14 EVO, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/secadora-de-ropa-953109'>Guía y todo lo que debes saber antes de comprar una secadora de ropa para casa</a></h4>
-    <a href='https://computerhoy.com/guia-compra/secadora-de-ropa-953109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/secadora-2511047.jpg' alt='Guía y todo lo que debes saber antes de comprar una secadora de ropa para casa' />
     </a>
 </div>
 
