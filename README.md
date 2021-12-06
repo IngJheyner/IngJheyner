@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853'>Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209'>Cómo escribir por voz en Windows 11 sin necesidad de teclear nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microfono-ordenador-2522921.jpg' alt='Cómo escribir por voz en Windows 11 sin necesidad de teclear nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-apple-975825'>Navidad 2021: 10 ideas de regalos para fans de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-apple-975825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airpods-iphone-11-macbook-pro-apple-2552617.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/criptomonedas-vs-acciones-diferencias-incovenientes-959061'>Criptomonedas vs Acciones: diferencias, inconvenientes y cuál es la mejor opción para tu dinero</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/criptomonedas-vs-acciones-diferencias-incovenientes-959061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Criptomonedas vs Acciones: diferencias, inconvenientes y cuál es la mejor opción para tu dinero' />
     </a>
 </div>
 
