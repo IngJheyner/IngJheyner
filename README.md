@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-cecotec-6090-oferta-976181'>Este robot de cocina de Cecotec tiene 23 funciones diferentes y solo cuesta 169 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/robot-cocina-cecotec-6090-oferta-976181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cecotec-mambo-7090-2395233.jpg' alt='Este robot de cocina de Cecotec tiene 23 funciones diferentes y solo cuesta 169 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177'>El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861'>Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293'>Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-5-falta-stock-2543143.jpg' alt='Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie' />
     </a>
 </div>
 
