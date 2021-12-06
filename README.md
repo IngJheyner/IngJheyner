@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265'>Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/superalimentos-2553239.jpg' alt='Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263'>Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían</a></h4>
     <a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg' alt='Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229'>WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-estrena-novedades-mensajes-temporales-archivos-voz-2553181.jpg' alt='WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883'>Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-huawei-ax3-2256853.jpg' alt='Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon' />
     </a>
 </div>
 
