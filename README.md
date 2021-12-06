@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833'>Vaporizador de alimentos: ventajas, cómo funciona y guía de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/vaporera-electrica-2450973.jpg' alt='Vaporizador de alimentos: ventajas, cómo funciona y guía de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273'>Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias</a></h4>
     <a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secadora-ropa-aire-caliente-rozamiento-tambien-mata-virus-bacterias-2553247.jpg' alt='Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-renovaria-linea-ipad-apple-watch-2022-estos-serian-nuevos-modelos-976261'>Apple renovaría su línea de iPad y Apple Watch en 2022, y estos serían los nuevos modelos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-renovaria-linea-ipad-apple-watch-2022-estos-serian-nuevos-modelos-976261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-2021-2375649.jpg' alt='Apple renovaría su línea de iPad y Apple Watch en 2022, y estos serían los nuevos modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243'>Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-puedes-descargar-matrix-awaken-demo-tecnica-unreal-5-te-reta-descubrir-keanu-reeves-real-cgi-2553201.jpg' alt='Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI' />
     </a>
 </div>
 
