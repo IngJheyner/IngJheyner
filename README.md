@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263'>Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg' alt='Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-renovaria-linea-ipad-apple-watch-2022-estos-serian-nuevos-modelos-976261'>Apple renovaría su línea de iPad y Apple Watch en 2022, y estos serían los nuevos modelos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-renovaria-linea-ipad-apple-watch-2022-estos-serian-nuevos-modelos-976261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-2021-2375649.jpg' alt='Apple renovaría su línea de iPad y Apple Watch en 2022, y estos serían los nuevos modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243'>Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-puedes-descargar-matrix-awaken-demo-tecnica-unreal-5-te-reta-descubrir-keanu-reeves-real-cgi-2553201.jpg' alt='Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883'>Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solucion-problemas-wifi-casa-solo-34-euros-amazon-975883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-huawei-ax3-2256853.jpg' alt='Esta es la solución a tus problemas con el WiFi en casa, y por solo 34 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-wikipedia-vende-primera-entrada-como-nft-976195'>El fundador de la Wikipedia vende la primera entrada como un NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fundador-wikipedia-vende-primera-entrada-como-nft-976195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fundador-wikipedia-vende-primera-entrada-como-nft-2553141.jpg' alt='El fundador de la Wikipedia vende la primera entrada como un NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-cecotec-6090-oferta-976181'>Este robot de cocina de Cecotec tiene 23 funciones diferentes y solo cuesta 169 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/robot-cocina-cecotec-6090-oferta-976181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cecotec-mambo-7090-2395233.jpg' alt='Este robot de cocina de Cecotec tiene 23 funciones diferentes y solo cuesta 169 euros' />
     </a>
 </div>
 
