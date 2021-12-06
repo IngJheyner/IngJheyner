@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861'>Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293'>Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-5-falta-stock-2543143.jpg' alt='Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853'>Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209'>Cómo escribir por voz en Windows 11 sin necesidad de teclear nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microfono-ordenador-2522921.jpg' alt='Cómo escribir por voz en Windows 11 sin necesidad de teclear nada' />
     </a>
 </div>
 
