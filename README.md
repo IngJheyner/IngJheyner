@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273'>Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias</a></h4>
+    <a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secadora-ropa-aire-caliente-rozamiento-tambien-mata-virus-bacterias-2553247.jpg' alt='Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265'>Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/superalimentos-2553239.jpg' alt='Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243'>Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/matrix-awaken-unreal-5-976243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-puedes-descargar-matrix-awaken-demo-tecnica-unreal-5-te-reta-descubrir-keanu-reeves-real-cgi-2553201.jpg' alt='Ya puedes descargar The Matrix Awaken, la demo técnica de Unreal 5 que te reta a descubrir si Keanu Reeves es real o un CGI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229'>WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-novedades-mensajes-temporales-archivos-voz-976229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-estrena-novedades-mensajes-temporales-archivos-voz-2553181.jpg' alt='WhatsApp estrena importantes novedades en los mensajes que se autodestruyen, y en los archivos de voz' />
     </a>
 </div>
 
