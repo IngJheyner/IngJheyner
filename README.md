@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177'>El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-procesador-snapdragon-8-gen-1-oficial-976177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El CEO de la compañía confirma que el OnePlus 10 usará el procesador Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157'>El primer vídeo musical que te enseña a programar mientras lo escuchas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-video-musical-aprender-programacion-doja-cat-976157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/primer-video-musical-te-ensena-programar-mientras-escuchas-2553079.jpg' alt='El primer vídeo musical que te enseña a programar mientras lo escuchas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293'>Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/metodo-conseguiras-comprar-ps5-cuando-haya-stock-antes-nadie-970293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-5-falta-stock-2543143.jpg' alt='Con este método conseguirás comprar una PS5 cuando haya stock antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/msi-prestige-14-evo-review-opinion-973491'>MSI Prestige 14 EVO, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/msi-prestige-14-evo-review-opinion-973491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-msi-prestige-14-evo-2550487.jpg' alt='MSI Prestige 14 EVO, análisis y opinión' />
     </a>
 </div>
 
