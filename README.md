@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-976083'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-976083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2552957.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-apple-975825'>Navidad 2021: 10 ideas de regalos para fans de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-apple-975825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airpods-iphone-11-macbook-pro-apple-2552617.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/criptomonedas-vs-acciones-diferencias-incovenientes-959061'>Criptomonedas vs Acciones: diferencias, inconvenientes y cuál es la mejor opción para tu dinero</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/criptomonedas-vs-acciones-diferencias-incovenientes-959061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Criptomonedas vs Acciones: diferencias, inconvenientes y cuál es la mejor opción para tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ikea-micro-casa-10-metros-cuadrados-973803'>IKEA ofrece en alquiler una micro casa de 10 metros cuadrados por 1 euro al mes</a></h4>
     <a href='https://computerhoy.com/noticias/life/ikea-micro-casa-10-metros-cuadrados-973803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ikea-alquila-casa-10-metros-cuadrados-tokio-1-euro-mes-2548775.jpg' alt='IKEA ofrece en alquiler una micro casa de 10 metros cuadrados por 1 euro al mes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931'>Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-razer-anzu-descuento-975931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/razer-lanza-unas-gafas-sol-auriculares-microfono-tambien-protegen-vista-cuando-usas-monitor-2256953.jpg' alt='Las gafas Razer Anzu, que protegen la vista del sol y las pantallas y tienen auriculares y micrófono, con un 38% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925'>El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/rover-chino-luna-misterioso-objeto-cubico-casa-misteriosa-975925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rover-chino-lunar-cambiara-ruta-investigar-misterioso-objeto-cubico-han-llamado-casa-misteriosa-luna-2552727.jpg' alt='El rover chino lunar cambia su ruta para investigar un misterioso objeto cúbico que han llamado la Casa Misteriosa de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919'>Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fairphone-4--puntuacion-10-reparacion-ifixit-975919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/fairphone-4-2488313.jpg' alt='Lo nunca visto: este móvil alcanza una puntuación de 10 en reparación, según iFixit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915'>La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-encriptada-google-fotos-videos-privados-ya-disponible-975915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg' alt='La carpeta encriptada de Google para guardar fotos y vídeos 'privados', ya disponible en todos los móviles Android' />
     </a>
 </div>
 
