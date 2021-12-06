@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133'>Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackean-mercado-cambio-criptomonedas-bitmart-196-millones-dolares-976133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/600-millones-dolares-ethereum-2435261.jpg' alt='Hackean el mercado de cambio de criptomonedas BitMart, se llevan 196 millones de dólares ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861'>Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-airpods-3-oferta-20eu-descuento-cupon-975861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Los nuevos AirPods 3, en oferta con 20€ de descuento con este cupón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/secadora-de-ropa-953109'>Guía y todo lo que debes saber antes de comprar una secadora de ropa para casa</a></h4>
     <a href='https://computerhoy.com/guia-compra/secadora-de-ropa-953109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/secadora-2511047.jpg' alt='Guía y todo lo que debes saber antes de comprar una secadora de ropa para casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853'>Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/servicio-amazon-google-no-puede-igualar-usuarios-desconocen-975853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Este es el servicio de Amazon que Google no puede igualar y que sus usuarios desconocen' />
     </a>
 </div>
 
