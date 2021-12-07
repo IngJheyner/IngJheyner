@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme pad ya se vende en España, y se estrena con un importante descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme pad ya se vende en España, y se estrena con un importante descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855'>TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-2554301.jpg' alt='TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867'>Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ubisoft-presenta-quartz-plataforma-nft-quiere-construir-propio-metaverso-2554307.jpg' alt='Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863'>Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538051.jpg' alt='Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-976797'>Tu próximo smartphone podría tener una cámara retráctil, así es la tecnología que ha enseñado OPPO</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-976797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-2554223.jpg' alt='Tu próximo smartphone podría tener una cámara retráctil, así es la tecnología que ha enseñado OPPO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823'>Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-2554219.jpg' alt='Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido' />
     </a>
 </div>
 
