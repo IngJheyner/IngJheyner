@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565'>Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtx-2060-2553593.jpg' alt='Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-casa-navidad-quieres-inmortalizarlo-xiaomi-tiene-impresora-portatil-puedes-manejar-movil-976515'>Si vas a casa por Navidad y quieres inmortalizarlo, Xiaomi tiene una impresora portátil que puedes manejar desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vas-casa-navidad-quieres-inmortalizarlo-xiaomi-tiene-impresora-portatil-puedes-manejar-movil-976515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-portable-photo-printer-2544283.jpg' alt='Si vas a casa por Navidad y quieres inmortalizarlo, Xiaomi tiene una impresora portátil que puedes manejar desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543'>La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921'>Navidad 2021: 10 ideas de regalos para fans de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/18-noticias-tecnologia-comenzar-manana-informado-ultimo-976279'>18 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/18-noticias-tecnologia-comenzar-manana-informado-ultimo-976279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/18-noticias-tecnologia-comenzar-manana-informado-ultimo-2553267.jpg' alt='18 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833'>Vaporizador de alimentos: ventajas, cómo funciona y guía de compra</a></h4>
-    <a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/vaporera-electrica-2450973.jpg' alt='Vaporizador de alimentos: ventajas, cómo funciona y guía de compra' />
     </a>
 </div>
 
