@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619'>La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603'>Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2553661.jpg' alt='Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565'>Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtx-2060-2553593.jpg' alt='Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543'>La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-robotica-llama-ameca-tan-avanzado-como-terrorifico-976525'>El futuro de la robótica se llama Ameca y es tan avanzado como terrorífico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-robotica-llama-ameca-tan-avanzado-como-terrorifico-976525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-2553507.jpg' alt='El futuro de la robótica se llama Ameca y es tan avanzado como terrorífico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921'>Navidad 2021: 10 ideas de regalos para fans de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Xiaomi' />
     </a>
 </div>
 
