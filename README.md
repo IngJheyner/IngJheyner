@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543'>La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-robotica-llama-ameca-tan-avanzado-como-terrorifico-976525'>El futuro de la robótica se llama Ameca y es tan avanzado como terrorífico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-robotica-llama-ameca-tan-avanzado-como-terrorifico-976525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-2553507.jpg' alt='El futuro de la robótica se llama Ameca y es tan avanzado como terrorífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921'>Navidad 2021: 10 ideas de regalos para fans de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833'>Vaporizador de alimentos: ventajas, cómo funciona y guía de compra</a></h4>
     <a href='https://computerhoy.com/guia-compra/vaporizador-de-alimentos-932833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/vaporera-electrica-2450973.jpg' alt='Vaporizador de alimentos: ventajas, cómo funciona y guía de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273'>Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias</a></h4>
-    <a href='https://computerhoy.com/noticias/life/secadora-ropa-aire-caliente-mata-virus-bacterias-976273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secadora-ropa-aire-caliente-rozamiento-tambien-mata-virus-bacterias-2553247.jpg' alt='Esta secadora de ropa por aire caliente sin rozamiento también mata virus y bacterias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265'>Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/superalimentos-2553239.jpg' alt='Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona' />
     </a>
 </div>
 
