@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adicto-instagram-propia-app-ofrece-solucion-todos-usuarios-976687'>¿Adicto a Instagram? La propia app ofrece una solución para todos sus usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adicto-instagram-propia-app-ofrece-solucion-todos-usuarios-976687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='¿Adicto a Instagram? La propia app ofrece una solución para todos sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/samsung-unifica-unidades-negocio-moviles-tvs-resto-electronica-consumo-consecuencias-tiene-976701'>Samsung unifica sus unidades de negocio de móviles, TVs y resto de electrónica de consumo, ¿qué consecuencias tiene?</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-unifica-unidades-negocio-moviles-tvs-resto-electronica-consumo-consecuencias-tiene-976701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sede-samsung-2553963.jpg' alt='Samsung unifica sus unidades de negocio de móviles, TVs y resto de electrónica de consumo, ¿qué consecuencias tiene?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-compacto-rapido-limpiar-casa-puedes-controlar-movil-ademas-solo-cuesta-89eu-amazon-976581'>Este robot aspirador es compacto, rápido para limpiar tu casa y lo puedes controlar con el móvil, además sólo cuesta 89€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-compacto-rapido-limpiar-casa-puedes-controlar-movil-ademas-solo-cuesta-89eu-amazon-976581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-aspirador-okp-k2-2553659.jpg' alt='Este robot aspirador es compacto, rápido para limpiar tu casa y lo puedes controlar con el móvil, además sólo cuesta 89€ en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661'>LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/lg-k42-2108443.jpg' alt='LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-flowspace-completa-cabina-podamos-teletrabajar-casa-comodamente-976631'>Microsoft Flowspace es una completa cabina para que podamos teletrabajar desde casa cómodamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-flowspace-completa-cabina-podamos-teletrabajar-casa-comodamente-976631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-flowspace-2553745.jpg' alt='Microsoft Flowspace es una completa cabina para que podamos teletrabajar desde casa cómodamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527'>Trucos y productos para acabar con las humedades en el baño y prevenir el moho</a></h4>
-    <a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moho-cuarto-bano-humedad-2553495.jpg' alt='Trucos y productos para acabar con las humedades en el baño y prevenir el moho' />
     </a>
 </div>
 
