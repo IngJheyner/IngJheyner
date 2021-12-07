@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713'>Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas </a></h4>
+    <a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-lipstick-auriculares-cancelacion-ruido-976629'>No es una barra de labios, son los auriculares Huawei FreeBuds Lipstick y tienen cancelación de ruido activa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-lipstick-auriculares-cancelacion-ruido-976629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-freebuds-lipstick-2553677.jpg' alt='No es una barra de labios, son los auriculares Huawei FreeBuds Lipstick y tienen cancelación de ruido activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-mediatek-tendran-nuevo-viejo-competidor-procesadores-risc-v-catapult-imagination-976749'>Qualcomm y Mediatek tendrán un nuevo (viejo) competidor en procesadores: RISC-V Catapult de Imagination</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-mediatek-tendran-nuevo-viejo-competidor-procesadores-risc-v-catapult-imagination-976749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tsmc-construira-chips-2-nm-2024-2421999.jpg' alt='Qualcomm y Mediatek tendrán un nuevo (viejo) competidor en procesadores: RISC-V Catapult de Imagination' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lampara-led-lidl-carga-movil-manera-inalambrica-976735'>La lámpara LED de LIDL que carga tu móvil de manera inalámbrica</a></h4>
     <a href='https://computerhoy.com/noticias/life/lampara-led-lidl-carga-movil-manera-inalambrica-976735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lampara-lidl-2553981.jpg' alt='La lámpara LED de LIDL que carga tu móvil de manera inalámbrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adicto-instagram-propia-app-ofrece-solucion-todos-usuarios-976687'>¿Adicto a Instagram? La propia app ofrece una solución para todos sus usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adicto-instagram-propia-app-ofrece-solucion-todos-usuarios-976687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='¿Adicto a Instagram? La propia app ofrece una solución para todos sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/samsung-unifica-unidades-negocio-moviles-tvs-resto-electronica-consumo-consecuencias-tiene-976701'>Samsung unifica sus unidades de negocio de móviles, TVs y resto de electrónica de consumo, ¿qué consecuencias tiene?</a></h4>
-    <a href='https://computerhoy.com/noticias/samsung-unifica-unidades-negocio-moviles-tvs-resto-electronica-consumo-consecuencias-tiene-976701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sede-samsung-2553963.jpg' alt='Samsung unifica sus unidades de negocio de móviles, TVs y resto de electrónica de consumo, ¿qué consecuencias tiene?' />
     </a>
 </div>
 
