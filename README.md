@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661'>LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/lg-k42-2108443.jpg' alt='LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-flowspace-completa-cabina-podamos-teletrabajar-casa-comodamente-976631'>Microsoft Flowspace es una completa cabina para que podamos teletrabajar desde casa cómodamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-flowspace-completa-cabina-podamos-teletrabajar-casa-comodamente-976631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/microsoft-flowspace-2553745.jpg' alt='Microsoft Flowspace es una completa cabina para que podamos teletrabajar desde casa cómodamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527'>Trucos y productos para acabar con las humedades en el baño y prevenir el moho</a></h4>
+    <a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moho-cuarto-bano-humedad-2553495.jpg' alt='Trucos y productos para acabar con las humedades en el baño y prevenir el moho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619'>La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603'>Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2553661.jpg' alt='Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565'>Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/falta-chips-nvidia-relanza-grafica-hace-tres-anos-precio-desorbitado-976565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtx-2060-2553593.jpg' alt='Ante la falta de chips, Nvidia relanza una gráfica de hace tres años a un precio desorbitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-casa-navidad-quieres-inmortalizarlo-xiaomi-tiene-impresora-portatil-puedes-manejar-movil-976515'>Si vas a casa por Navidad y quieres inmortalizarlo, Xiaomi tiene una impresora portátil que puedes manejar desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vas-casa-navidad-quieres-inmortalizarlo-xiaomi-tiene-impresora-portatil-puedes-manejar-movil-976515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-portable-photo-printer-2544283.jpg' alt='Si vas a casa por Navidad y quieres inmortalizarlo, Xiaomi tiene una impresora portátil que puedes manejar desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543'>La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/arquitectura-nuevas-cpus-intel-tan-novedosa-videojuegos-creen-son-dos-procesadores-976543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='La arquitectura de las nuevas CPUs de Intel es tan novedosa que los videojuegos creen que son dos procesadores' />
     </a>
 </div>
 
