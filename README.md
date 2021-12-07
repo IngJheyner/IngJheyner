@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-compacto-rapido-limpiar-casa-puedes-controlar-movil-ademas-solo-cuesta-89eu-amazon-976581'>Este robot aspirador es compacto, rápido para limpiar tu casa y lo puedes controlar con el móvil, además sólo cuesta 89€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-compacto-rapido-limpiar-casa-puedes-controlar-movil-ademas-solo-cuesta-89eu-amazon-976581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-aspirador-okp-k2-2553659.jpg' alt='Este robot aspirador es compacto, rápido para limpiar tu casa y lo puedes controlar con el móvil, además sólo cuesta 89€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/debe-circular-glorietas-no-son-glorietas-dgt-976693'>Así se debe circular en las glorietas que no son glorietas según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/debe-circular-glorietas-no-son-glorietas-dgt-976693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/donde-estan-todos-radares-espana-dgt-2182761.jpg' alt='Así se debe circular en las glorietas que no son glorietas según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661'>LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-cierra-puerta-usuarios-seguian-manteniendo-vivos-moviles-actualizaciones-976661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/lg-k42-2108443.jpg' alt='LG cierra la puerta a los usuarios que seguían manteniendo vivos sus móviles con actualizaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527'>Trucos y productos para acabar con las humedades en el baño y prevenir el moho</a></h4>
     <a href='https://computerhoy.com/listas/life/trucos-productos-acabar-humedades-bano-prevenir-moho-976527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moho-cuarto-bano-humedad-2553495.jpg' alt='Trucos y productos para acabar con las humedades en el baño y prevenir el moho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619'>La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-whatsapp-permite-tengas-bien-limpia-bandeja-entrada-976619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='La nueva funcionalidad de WhatsApp permite que tengas bien limpia la bandeja de entrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603'>Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moto-edge-x30-movil-flagship-ultimo-snapdragon-camara-pantalla-976603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-edge-x30-2553661.jpg' alt='Moto Edge X30, móvil flagship con lo último de Snapdragon y cámara bajo la pantalla' />
     </a>
 </div>
 
