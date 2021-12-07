@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921'>Navidad 2021: 10 ideas de regalos para fans de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-fans-xiaomi-975921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Navidad 2021: 10 ideas de regalos para fans de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/18-noticias-tecnologia-comenzar-manana-informado-ultimo-976279'>18 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/18-noticias-tecnologia-comenzar-manana-informado-ultimo-976279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/18-noticias-tecnologia-comenzar-manana-informado-ultimo-2553267.jpg' alt='18 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265'>Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-superalimento-adelgazar-puedes-encontrar-mercadona-976265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/superalimentos-2553239.jpg' alt='Este es el mejor superalimento para adelgazar que puedes encontrar en Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263'>Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/estafan-20-millones-youtube-derechos-musicales-50000-canciones-espanol-976263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg' alt='Estafan 20 millones de dólares a YouTube cobrando por derechos musicales de 50.000 canciones en español que no poseían' />
     </a>
 </div>
 
