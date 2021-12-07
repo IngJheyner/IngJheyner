@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823'>Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-2554219.jpg' alt='Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713'>Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas </a></h4>
     <a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-problemas-rendimiento-pesadilla-continua-ssds-nvme-976723'>Windows 11 y los problemas de rendimiento: la pesadilla continúa con los SSDs NVMe</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-problemas-rendimiento-pesadilla-continua-ssds-nvme-976723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fin-ssd-nvme-m2-wd-1-tb-baja-100-euros-2511301.jpg' alt='Windows 11 y los problemas de rendimiento: la pesadilla continúa con los SSDs NVMe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lampara-led-lidl-carga-movil-manera-inalambrica-976735'>La lámpara LED de LIDL que carga tu móvil de manera inalámbrica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lampara-led-lidl-carga-movil-manera-inalambrica-976735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lampara-lidl-2553981.jpg' alt='La lámpara LED de LIDL que carga tu móvil de manera inalámbrica' />
     </a>
 </div>
 
