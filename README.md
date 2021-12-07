@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887'>Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-hacer-llamadas-videollamadas-gmail-976873'>Ya puedes hacer llamadas y videollamadas desde Gmail</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-hacer-llamadas-videollamadas-gmail-976873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Ya puedes hacer llamadas y videollamadas desde Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857'>Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/twitter-2394883.jpg' alt='Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme pad ya se vende en España, y se estrena con un importante descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme pad ya se vende en España, y se estrena con un importante descuento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855'>TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-2554301.jpg' alt='TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867'>Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ubisoft-presenta-quartz-plataforma-nft-quiere-construir-propio-metaverso-2554307.jpg' alt='Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-logra-modificar-clima-celebracion-politica-funciona-tecnologia-976865'>China logra modificar el clima para una celebración política, y así funciona su tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-logra-modificar-clima-celebracion-politica-funciona-tecnologia-976865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/relampagos-ciudad-2554303.jpg' alt='China logra modificar el clima para una celebración política, y así funciona su tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863'>Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538051.jpg' alt='Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD' />
     </a>
 </div>
 
