@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867'>Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ubisoft-quartz-plataforma-nft-976867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ubisoft-presenta-quartz-plataforma-nft-quiere-construir-propio-metaverso-2554307.jpg' alt='Ubisoft presenta Quartz, su plataforma NFT en la que los jugadores podrán ganar dinero jugando a videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-logra-modificar-clima-celebracion-politica-funciona-tecnologia-976865'>China logra modificar el clima para una celebración política, y así funciona su tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-logra-modificar-clima-celebracion-politica-funciona-tecnologia-976865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/relampagos-ciudad-2554303.jpg' alt='China logra modificar el clima para una celebración política, y así funciona su tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863'>Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-pro-2021-parece-tienen-problemas-lector-tarjetas-sd-976863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538051.jpg' alt='Los nuevos MacBook Pro 2021 parece que tienen problemas con el lector de tarjetas SD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-976797'>Tu próximo smartphone podría tener una cámara retráctil, así es la tecnología que ha enseñado OPPO</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-976797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/proximo-smartphone-podria-tener-camara-retractil-tecnologia-ha-ensenado-oppo-2554223.jpg' alt='Tu próximo smartphone podría tener una cámara retráctil, así es la tecnología que ha enseñado OPPO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823'>Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-976823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-2554219.jpg' alt='Telegram se actualiza con mejoras destinadas a la privacidad como el contenido protegido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713'>Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas </a></h4>
-    <a href='https://computerhoy.com/noticias/life/evita-empane-parabrisas-coche-trucos-caseros-patata-lavavajillas-976713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiaparabrisas-2552083.jpg' alt='Evita que se empañe el parabrisas del coche con trucos caseros: desde patata a lavavajillas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-lipstick-auriculares-cancelacion-ruido-976629'>No es una barra de labios, son los auriculares Huawei FreeBuds Lipstick y tienen cancelación de ruido activa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-lipstick-auriculares-cancelacion-ruido-976629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-freebuds-lipstick-2553677.jpg' alt='No es una barra de labios, son los auriculares Huawei FreeBuds Lipstick y tienen cancelación de ruido activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-mediatek-tendran-nuevo-viejo-competidor-procesadores-risc-v-catapult-imagination-976749'>Qualcomm y Mediatek tendrán un nuevo (viejo) competidor en procesadores: RISC-V Catapult de Imagination</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-mediatek-tendran-nuevo-viejo-competidor-procesadores-risc-v-catapult-imagination-976749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tsmc-construira-chips-2-nm-2024-2421999.jpg' alt='Qualcomm y Mediatek tendrán un nuevo (viejo) competidor en procesadores: RISC-V Catapult de Imagination' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-problemas-rendimiento-pesadilla-continua-ssds-nvme-976723'>Windows 11 y los problemas de rendimiento: la pesadilla continúa con los SSDs NVMe</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-problemas-rendimiento-pesadilla-continua-ssds-nvme-976723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fin-ssd-nvme-m2-wd-1-tb-baja-100-euros-2511301.jpg' alt='Windows 11 y los problemas de rendimiento: la pesadilla continúa con los SSDs NVMe' />
     </a>
 </div>
 
