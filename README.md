@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277'>El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747'>Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747'>Wifi: Pasado, presente y futuro de una tecnología que nos cambió</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nina-movil-ordenador-conectados-red-wifi-2548727.jpg' alt='Wifi: Pasado, presente y futuro de una tecnología que nos cambió' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-siempre-deberias-pedir-copia-cuando-pagues-tarjeta-977227'>Esta es la razón por la que siempre deberías pedir copia cuando pagues con tarjeta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-siempre-deberias-pedir-copia-cuando-pagues-tarjeta-977227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pago-contactless-2554691.jpg' alt='Esta es la razón por la que siempre deberías pedir copia cuando pagues con tarjeta' />
     </a>
 </div>
 
