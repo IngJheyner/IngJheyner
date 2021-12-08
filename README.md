@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169'>Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/chip-neuralink.jpg' alt='Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-perfecto-runners-mejores-relojes-huawei-auriculares-cancelacion-regalo-229eu-976591'>Este pack es perfecto para runners: uno de los mejores relojes de Huawei y auriculares con cancelación de regalo por 229€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-perfecto-runners-mejores-relojes-huawei-auriculares-cancelacion-regalo-229eu-976591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='Este pack es perfecto para runners: uno de los mejores relojes de Huawei y auriculares con cancelación de regalo por 229€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141'>Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/asteroide-2256521.jpg' alt='Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597'>Cómo elegir qué apps autoarrancan al iniciar Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/carpeta-inicio-windows-2502699.jpg' alt='Cómo elegir qué apps autoarrancan al iniciar Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/14-portatiles-muy-potentes-buen-precio-son-acierto-seguro-976567'>14 portátiles muy potentes y a buen precio que son un acierto seguro</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/14-portatiles-muy-potentes-buen-precio-son-acierto-seguro-976567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-portatil-2553575.jpg' alt='14 portátiles muy potentes y a buen precio que son un acierto seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655'>10 trucos para que Google Chrome use menos espacio en el disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-chrome-2405299.jpg' alt='10 trucos para que Google Chrome use menos espacio en el disco duro' />
     </a>
 </div>
 
