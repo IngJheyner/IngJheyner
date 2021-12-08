@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893'>Descubren un nuevo beneficio de masticar chicle que nadie esperaba</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nueva-ventaja-masticar-chicle-nadie-esperaba-2554329.jpg' alt='Descubren un nuevo beneficio de masticar chicle que nadie esperaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887'>Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros</a></h4>
     <a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme pad ya se vende en España, y se estrena con un importante descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme pad ya se vende en España, y se estrena con un importante descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855'>TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-976855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tcl-muestra-telefono-pantalla-enrollable-tcl-fold-and-slide-2554301.jpg' alt='TCL muestra su teléfono con pantalla enrollable, así es el TCL Fold and Slide' />
     </a>
 </div>
 
