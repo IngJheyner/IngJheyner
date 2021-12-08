@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141'>Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/asteroide-2256521.jpg' alt='Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133'>Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655'>10 trucos para que Google Chrome use menos espacio en el disco duro</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-chrome-2405299.jpg' alt='10 trucos para que Google Chrome use menos espacio en el disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2554517.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
