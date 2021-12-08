@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-cierra-sesion-dispositivos-vinculados-no-te-preocupes-seguridad-977199'>Si WhatsApp te cierra la sesión de tus dispositivos vinculados no te preocupes, es por tu seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-cierra-sesion-dispositivos-vinculados-no-te-preocupes-seguridad-977199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/whatsapp-multidispositivo-2415139.jpg' alt='Si WhatsApp te cierra la sesión de tus dispositivos vinculados no te preocupes, es por tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-solo-169eu-agoto-black-friday-vuelve-estar-disponible-mismo-precio-976613'>Este móvil Samsung de solo 169€ se agotó en el Black Friday y vuelve a estar disponible al mismo precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-solo-169eu-agoto-black-friday-vuelve-estar-disponible-mismo-precio-976613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m12-2553655.jpg' alt='Este móvil Samsung de solo 169€ se agotó en el Black Friday y vuelve a estar disponible al mismo precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-futurista-jamas-construida-fibra-carbono-desbloqueo-dactilar-control-voz-977189'>Esta es la bicicleta más futurista jamás construida: fibra de carbono, desbloqueo dactilar y control por voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-futurista-jamas-construida-fibra-carbono-desbloqueo-dactilar-control-voz-977189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bicicleta-electrica-2554627.jpg' alt='Esta es la bicicleta más futurista jamás construida: fibra de carbono, desbloqueo dactilar y control por voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183'>Android 12 le ha sentado fatal a los teléfonos plegables de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445869.jpg' alt='Android 12 le ha sentado fatal a los teléfonos plegables de Samsung' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169'>Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/chip-neuralink.jpg' alt='Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-perfecto-runners-mejores-relojes-huawei-auriculares-cancelacion-regalo-229eu-976591'>Este pack es perfecto para runners: uno de los mejores relojes de Huawei y auriculares con cancelación de regalo por 229€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pack-perfecto-runners-mejores-relojes-huawei-auriculares-cancelacion-regalo-229eu-976591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='Este pack es perfecto para runners: uno de los mejores relojes de Huawei y auriculares con cancelación de regalo por 229€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141'>Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gracias-nuevo-sistema-rastreo-armagedon-cada-vez-improbable-977141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/asteroide-2256521.jpg' alt='Gracias a este nuevo sistema de rastreo el Armagedón cada vez es más improbable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133'>Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona' />
     </a>
 </div>
 
