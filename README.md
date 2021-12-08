@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2554517.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641'>Navidad 2021: 10 ideas de regalos para amantes de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-gamer-playstation-2554073.jpg' alt='Navidad 2021: 10 ideas de regalos para amantes de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/autobus-tren-japones-977107'>Este autobús tren japonés puede circular tanto por carretera como por la vía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/autobus-tren-japones-977107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/autobus-tren-japones-puede-circular-tanto-carretera-como-2554515.jpg' alt='Este autobús tren japonés puede circular tanto por carretera como por la vía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/plancha-917997'>Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/plancha-917997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/plancha-inalambrica-lidl-2418933.jpg' alt='Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893'>Descubren un nuevo beneficio de masticar chicle que nadie esperaba</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nueva-ventaja-masticar-chicle-nadie-esperaba-2554329.jpg' alt='Descubren un nuevo beneficio de masticar chicle que nadie esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887'>Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/aws-amazon-web-services-fallan-disney-plus-tinder-league-legends-coinbase-alexa-976887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Todo está conectado: se caen los servidores de Amazon y fallan Disney Plus, Tinder, League of Legends, Coinbase, y Alexa, entre otros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-hacer-llamadas-videollamadas-gmail-976873'>Ya puedes hacer llamadas y videollamadas desde Gmail</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-hacer-llamadas-videollamadas-gmail-976873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Ya puedes hacer llamadas y videollamadas desde Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857'>Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/twitter-2394883.jpg' alt='Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill' />
     </a>
 </div>
 
