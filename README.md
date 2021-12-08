@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-planeando-lanzar-tres-nuevos-apple-watch-2022-977217'>Apple estaría planeando lanzar tres nuevos Apple Watch en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-planeando-lanzar-tres-nuevos-apple-watch-2022-977217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2496061.jpg' alt='Apple estaría planeando lanzar tres nuevos Apple Watch en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-cierra-sesion-dispositivos-vinculados-no-te-preocupes-seguridad-977199'>Si WhatsApp te cierra la sesión de tus dispositivos vinculados no te preocupes, es por tu seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-cierra-sesion-dispositivos-vinculados-no-te-preocupes-seguridad-977199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/whatsapp-multidispositivo-2415139.jpg' alt='Si WhatsApp te cierra la sesión de tus dispositivos vinculados no te preocupes, es por tu seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183'>Android 12 le ha sentado fatal a los teléfonos plegables de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445869.jpg' alt='Android 12 le ha sentado fatal a los teléfonos plegables de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169'>Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/chip-neuralink.jpg' alt='Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias' />
     </a>
 </div>
 
