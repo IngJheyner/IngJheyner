@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805'>Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475021.jpg' alt='Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-podria-copiar-intel-poder-competir-ano-viene-disenaran-nuevos-chips-977219'>AMD podría copiar a Intel para poder competir el año que viene: así diseñarán sus nuevos chips</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-podria-copiar-intel-poder-competir-ano-viene-disenaran-nuevos-chips-977219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/amd-ryzen-embedded-1895267.jpg' alt='AMD podría copiar a Intel para poder competir el año que viene: así diseñarán sus nuevos chips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-planeando-lanzar-tres-nuevos-apple-watch-2022-977217'>Apple estaría planeando lanzar tres nuevos Apple Watch en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-planeando-lanzar-tres-nuevos-apple-watch-2022-977217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2496061.jpg' alt='Apple estaría planeando lanzar tres nuevos Apple Watch en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-solo-169eu-agoto-black-friday-vuelve-estar-disponible-mismo-precio-976613'>Este móvil Samsung de solo 169€ se agotó en el Black Friday y vuelve a estar disponible al mismo precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-solo-169eu-agoto-black-friday-vuelve-estar-disponible-mismo-precio-976613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m12-2553655.jpg' alt='Este móvil Samsung de solo 169€ se agotó en el Black Friday y vuelve a estar disponible al mismo precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-futurista-jamas-construida-fibra-carbono-desbloqueo-dactilar-control-voz-977189'>Esta es la bicicleta más futurista jamás construida: fibra de carbono, desbloqueo dactilar y control por voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-futurista-jamas-construida-fibra-carbono-desbloqueo-dactilar-control-voz-977189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bicicleta-electrica-2554627.jpg' alt='Esta es la bicicleta más futurista jamás construida: fibra de carbono, desbloqueo dactilar y control por voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183'>Android 12 le ha sentado fatal a los teléfonos plegables de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445869.jpg' alt='Android 12 le ha sentado fatal a los teléfonos plegables de Samsung' />
     </a>
 </div>
 
