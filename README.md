@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133'>Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597'>Cómo elegir qué apps autoarrancan al iniciar Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/carpeta-inicio-windows-2502699.jpg' alt='Cómo elegir qué apps autoarrancan al iniciar Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2554517.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641'>Navidad 2021: 10 ideas de regalos para amantes de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-gamer-playstation-2554073.jpg' alt='Navidad 2021: 10 ideas de regalos para amantes de los videojuegos' />
     </a>
 </div>
 
