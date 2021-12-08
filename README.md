@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747'>Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811'>12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327011.jpg' alt='12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235'>Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cena-navidad-2554703.jpg' alt='Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/razon-siempre-deberias-pedir-copia-cuando-pagues-tarjeta-977227'>Esta es la razón por la que siempre deberías pedir copia cuando pagues con tarjeta</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-siempre-deberias-pedir-copia-cuando-pagues-tarjeta-977227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pago-contactless-2554691.jpg' alt='Esta es la razón por la que siempre deberías pedir copia cuando pagues con tarjeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-actualiza-coches-usuarios-puedan-jugar-videojuegos-incluido-conductor-977265'>Tesla actualiza sus coches para que los usuarios puedan jugar a videojuegos, incluido el conductor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-actualiza-coches-usuarios-puedan-jugar-videojuegos-incluido-conductor-977265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla actualiza sus coches para que los usuarios puedan jugar a videojuegos, incluido el conductor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805'>Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475021.jpg' alt='Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon' />
     </a>
 </div>
 
