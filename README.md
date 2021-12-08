@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235'>Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cena-navidad-2554703.jpg' alt='Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747'>Wifi: Pasado, presente y futuro de una tecnología que nos cambió</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nina-movil-ordenador-conectados-red-wifi-2548727.jpg' alt='Wifi: Pasado, presente y futuro de una tecnología que nos cambió' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805'>Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/corre-porque-chollo-acaba-auriculares-samsung-galaxy-buds-2-estan-minimo-historico-79eu-amazon-976805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-buds-2-analisis-opinion-2475021.jpg' alt='Corre porque este chollo se acaba: los auriculares Samsung Galaxy Buds 2 están al mínimo histórico por 79€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-podria-copiar-intel-poder-competir-ano-viene-disenaran-nuevos-chips-977219'>AMD podría copiar a Intel para poder competir el año que viene: así diseñarán sus nuevos chips</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-podria-copiar-intel-poder-competir-ano-viene-disenaran-nuevos-chips-977219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/amd-ryzen-embedded-1895267.jpg' alt='AMD podría copiar a Intel para poder competir el año que viene: así diseñarán sus nuevos chips' />
     </a>
 </div>
 
