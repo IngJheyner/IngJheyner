@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183'>Android 12 le ha sentado fatal a los teléfonos plegables de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-12-ha-sentado-fatal-telefonos-plegables-samsung-977183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445869.jpg' alt='Android 12 le ha sentado fatal a los teléfonos plegables de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169'>Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/innovador-procesador-chino-ha-creado-alibaba-fusiona-procesador-memorias-977169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/chip-neuralink.jpg' alt='Así es el innovador procesador chino que ha creado Alibaba que fusiona procesador y memorias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133'>Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quejas-instagram-anuncia-aplicacion-tendra-plan-parental-funciona-977133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='Tras las quejas Instagram anuncia que la aplicación tendrá un plan parental: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597'>Cómo elegir qué apps autoarrancan al iniciar Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/carpeta-inicio-windows-2502699.jpg' alt='Cómo elegir qué apps autoarrancan al iniciar Windows' />
     </a>
 </div>
 
