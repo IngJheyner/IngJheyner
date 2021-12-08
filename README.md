@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655'>10 trucos para que Google Chrome use menos espacio en el disco duro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-chrome-2405299.jpg' alt='10 trucos para que Google Chrome use menos espacio en el disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-977109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2554517.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/plancha-917997'>Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/plancha-917997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/plancha-inalambrica-lidl-2418933.jpg' alt='Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893'>Descubren un nuevo beneficio de masticar chicle que nadie esperaba</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nueva-ventaja-masticar-chicle-nadie-esperaba-2554329.jpg' alt='Descubren un nuevo beneficio de masticar chicle que nadie esperaba' />
     </a>
 </div>
 
