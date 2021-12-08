@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme pad ya se vende en España, y se estrena con un importante descuento</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme Pad ya se vende en España, y se estrena con un importante descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme pad ya se vende en España, y se estrena con un importante descuento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme Pad ya se vende en España, y se estrena con un importante descuento' />
     </a>
 </div>
 
