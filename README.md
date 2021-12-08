@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/plancha-917997'>Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/plancha-917997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/plancha-inalambrica-lidl-2418933.jpg' alt='Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893'>Descubren un nuevo beneficio de masticar chicle que nadie esperaba</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-beneficio-masticar-chicle-andar-976893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nueva-ventaja-masticar-chicle-nadie-esperaba-2554329.jpg' alt='Descubren un nuevo beneficio de masticar chicle que nadie esperaba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857'>Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-mejorar-mensajes-directos-aplicacion-hacerlo-ha-comprado-quill-976857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/twitter-2394883.jpg' alt='Twitter quiere mejorar los mensajes directos de la aplicación y para hacerlo ha comprado Quill' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875'>La tablet realme Pad ya se vende en España, y se estrena con un importante descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-descuento-976875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-pad-2540417.jpg' alt='La tablet realme Pad ya se vende en España, y se estrena con un importante descuento' />
     </a>
 </div>
 
