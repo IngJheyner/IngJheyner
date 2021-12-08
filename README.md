@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597'>Cómo elegir qué apps autoarrancan al iniciar Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-elegir-apps-autoarrancan-iniciar-windows-948597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/carpeta-inicio-windows-2502699.jpg' alt='Cómo elegir qué apps autoarrancan al iniciar Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/14-portatiles-muy-potentes-buen-precio-son-acierto-seguro-976567'>14 portátiles muy potentes y a buen precio que son un acierto seguro</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/14-portatiles-muy-potentes-buen-precio-son-acierto-seguro-976567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-portatil-2553575.jpg' alt='14 portátiles muy potentes y a buen precio que son un acierto seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655'>10 trucos para que Google Chrome use menos espacio en el disco duro</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-google-chrome-use-menos-espacio-disco-duro-955655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-chrome-2405299.jpg' alt='10 trucos para que Google Chrome use menos espacio en el disco duro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641'>Navidad 2021: 10 ideas de regalos para amantes de los videojuegos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-10-ideas-regalos-amantes-videojuegos-976641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-gamer-playstation-2554073.jpg' alt='Navidad 2021: 10 ideas de regalos para amantes de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autobus-tren-japones-977107'>Este autobús tren japonés puede circular tanto por carretera como por la vía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/autobus-tren-japones-977107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/autobus-tren-japones-puede-circular-tanto-carretera-como-2554515.jpg' alt='Este autobús tren japonés puede circular tanto por carretera como por la vía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/plancha-917997'>Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/plancha-917997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/plancha-inalambrica-lidl-2418933.jpg' alt='Guía completa para comprar una plancha: potencia, funciones, superficie de planchado y todo lo que debes saber' />
     </a>
 </div>
 
