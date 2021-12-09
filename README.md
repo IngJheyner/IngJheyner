@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-tambien-tienen-caja-negra-edr-977737'>Los coches también tienen caja negra: así es la EDR</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coches-tambien-tienen-caja-negra-edr-977737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/accidente-coche.jpg' alt='Los coches también tienen caja negra: así es la EDR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287'>Estos auriculares de Lenovo cuestan sólo 2 euros y son muy similares a los AirPods, aunque su precio es ridículo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-lp40-2554807.jpg' alt='Estos auriculares de Lenovo cuestan sólo 2 euros y son muy similares a los AirPods, aunque su precio es ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vertedero-gales-hay-disco-duro-500-millones-euros-bitcoin-977699'>En un vertedero de Gales hay un disco duro con más de 500 millones de euros en Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vertedero-gales-hay-disco-duro-500-millones-euros-bitcoin-977699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/cajas-carton-vertedero.jpg' alt='En un vertedero de Gales hay un disco duro con más de 500 millones de euros en Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desconocida-criptomoneda-no-deja-crecer-mientras-resto-bajan-977677'>Esta es la desconocida criptomoneda que no deja de crecer mientras el resto bajan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desconocida-criptomoneda-no-deja-crecer-mientras-resto-bajan-977677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-terra-2555411.jpg' alt='Esta es la desconocida criptomoneda que no deja de crecer mientras el resto bajan' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lild-sorprende-nuevo-robot-cocina-profesional-ademas-batidora-vaso-977651'>Lild sorprende con su nuevo robot de cocina profesional que además es una batidora de vaso</a></h4>
     <a href='https://computerhoy.com/noticias/life/lild-sorprende-nuevo-robot-cocina-profesional-ademas-batidora-vaso-977651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2555405.jpg' alt='Lild sorprende con su nuevo robot de cocina profesional que además es una batidora de vaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-dejara-ofrecer-2022-servicios-longevos-25-anos-online-977675'>Amazon dejará de ofrecer en 2022 uno de sus servicios más longevos, 25 años online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-dejara-ofrecer-2022-servicios-longevos-25-anos-online-977675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/paquete-amazon-2458667.jpg' alt='Amazon dejará de ofrecer en 2022 uno de sus servicios más longevos, 25 años online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-xiaomi-enchufe-inteligente-baja-precio-amazon-solo-11-euros-corre-vuelan-977689'>Chollo Xiaomi: su enchufe inteligente baja de precio en Amazon a solo 11 euros ¡corre, que vuelan!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-xiaomi-enchufe-inteligente-baja-precio-amazon-solo-11-euros-corre-vuelan-977689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/enchufe-xiaomi-2555423.jpg' alt='Chollo Xiaomi: su enchufe inteligente baja de precio en Amazon a solo 11 euros ¡corre, que vuelan!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-m40-pro-11-pulgadas-tiene-4g-te-conectes-internet-estes-donde-estes-solo-198eu-977641'>Esta tablet Teclast M40 Pro de 11 pulgadas tiene 4G para que te conectes a internet estés donde estés por solo 198€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-m40-pro-11-pulgadas-tiene-4g-te-conectes-internet-estes-donde-estes-solo-198eu-977641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-m40-pro-2555317.jpg' alt='Esta tablet Teclast M40 Pro de 11 pulgadas tiene 4G para que te conectes a internet estés donde estés por solo 198€' />
     </a>
 </div>
 
