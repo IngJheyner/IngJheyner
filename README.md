@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869'>Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-24-dias-bateria-66-euros-chollo-semana-amazon-977295'>Un reloj inteligente y con 24 días de batería por 66 euros: este es el chollo de la semana en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-24-dias-bateria-66-euros-chollo-semana-amazon-977295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-gtr-2554865.jpg' alt='Un reloj inteligente y con 24 días de batería por 66 euros: este es el chollo de la semana en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835'>Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667'>Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/medion-akoya-e15303-2477427.jpg' alt='Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/trust-reduce-37-uso-plasticos-embalajes-gracias-politica-sostenible-977793'>Trust reduce un 37% el uso de plásticos en sus embalajes gracias a su política sostenible</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/trust-reduce-37-uso-plasticos-embalajes-gracias-politica-sostenible-977793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trust-evergreen-2551109.jpg' alt='Trust reduce un 37% el uso de plásticos en sus embalajes gracias a su política sostenible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755'>Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT' />
     </a>
 </div>
 
