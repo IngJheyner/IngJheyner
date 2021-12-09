@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107'>Cómo ver el rendimiento de tu coche en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/performance-monitor-2552979.jpg' alt='Cómo ver el rendimiento de tu coche en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811'>12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327011.jpg' alt='12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235'>Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cena-navidad-2554703.jpg' alt='Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad' />
     </a>
 </div>
 
