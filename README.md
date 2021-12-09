@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937'>OnePlus seguiría los pasos de realme y estaría preparando una tablet Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='OnePlus seguiría los pasos de realme y estaría preparando una tablet Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667'>5 auriculares Jabra que están en liquidación en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jabra-elite-7-pro-2555403.jpg' alt='5 auriculares Jabra que están en liquidación en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935'>Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-brcelona-2556081.jpg' alt='Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751'>5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/5-recomendaciones-series-similares-casa-papel-2555937.jpg' alt='5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-futuristas-capsulas-suicidio-asistido-quieren-aprobar-suiza-977925'>Así son las futuristas capsulas de suicidio asistido que quieren aprobar en Suiza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-futuristas-capsulas-suicidio-asistido-quieren-aprobar-suiza-977925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-futuristas-capsulas-suicidio-asistido-aprobadas-suiza-2555981.jpg' alt='Así son las futuristas capsulas de suicidio asistido que quieren aprobar en Suiza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869'>Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?' />
     </a>
 </div>
 
