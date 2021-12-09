@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031'>Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regresa-otro-villano-mitico-trailer-espanol-temporada-4-cobra-kai-2556357.jpg' alt='Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995'>La nueva actualización de Google Chrome en Android llega con una característica de lo más útil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-chrome-2261053.jpg' alt='La nueva actualización de Google Chrome en Android llega con una característica de lo más útil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769'>El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009'>La estafa del pago por Bizum que se está haciendo estragos en Wallapop</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comprar-vender-tecnologia-wallapop-1890299.jpg' alt='La estafa del pago por Bizum que se está haciendo estragos en Wallapop' />
     </a>
 </div>
 
