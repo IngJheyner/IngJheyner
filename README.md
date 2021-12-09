@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303'>Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/amazon-prime-day-2380521.jpg' alt='Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-vuelve-abrir-puerta-anuncios-criptomonedas-977129'>Facebook vuelve a abrir la puerta a los anuncios de criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-vuelve-abrir-puerta-anuncios-criptomonedas-977129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ethereum-tenemos-nuevo-record-mundo-criptomonedas-2516887.jpg' alt='Facebook vuelve a abrir la puerta a los anuncios de criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-va-acabar-olas-entregas-fin-trimestre-977127'>Tesla va a acabar con las olas de entregas de fin de trimestre</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-va-acabar-olas-entregas-fin-trimestre-977127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Tesla va a acabar con las olas de entregas de fin de trimestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-comenzar-manana-informado-ultimo-977305'>12 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-comenzar-manana-informado-ultimo-977305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/resumen-noticias-2554923.jpg' alt='12 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817'>Sistemas de calefacción para calentarse sin necesidad de electricidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Sistemas de calefacción para calentarse sin necesidad de electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107'>Cómo ver el rendimiento de tu coche en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/performance-monitor-2552979.jpg' alt='Cómo ver el rendimiento de tu coche en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277'>El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747'>Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar' />
     </a>
 </div>
 
