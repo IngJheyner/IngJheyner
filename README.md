@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935'>Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-brcelona-2556081.jpg' alt='Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-iphone-te-dira-telefono-usa-componentes-originales-ha-sido-reparado-977945'>La nueva actualización para iPhone te dirá si tu teléfono usa componentes originales o si ha sido reparado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-iphone-te-dira-telefono-usa-componentes-originales-ha-sido-reparado-977945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='La nueva actualización para iPhone te dirá si tu teléfono usa componentes originales o si ha sido reparado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751'>5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/5-recomendaciones-series-similares-casa-papel-2555937.jpg' alt='5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-futuristas-capsulas-suicidio-asistido-quieren-aprobar-suiza-977925'>Así son las futuristas capsulas de suicidio asistido que quieren aprobar en Suiza</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-futuristas-capsulas-suicidio-asistido-quieren-aprobar-suiza-977925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-futuristas-capsulas-suicidio-asistido-aprobadas-suiza-2555981.jpg' alt='Así son las futuristas capsulas de suicidio asistido que quieren aprobar en Suiza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869'>Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grandes-pelotazos-criptomonedas-2021-cuales-seguiran-alza-2022-977869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Los grandes pelotazos en criptomonedas de 2021: ¿Cuáles seguirán al alza en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-24-dias-bateria-66-euros-chollo-semana-amazon-977295'>Un reloj inteligente y con 24 días de batería por 66 euros: este es el chollo de la semana en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-24-dias-bateria-66-euros-chollo-semana-amazon-977295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-gtr-2554865.jpg' alt='Un reloj inteligente y con 24 días de batería por 66 euros: este es el chollo de la semana en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835'>Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mete-lleno-negocio-pagos-criptomonedas-977823'>WhatsApp se mete de lleno en el negocio de pagos con criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mete-lleno-negocio-pagos-criptomonedas-977823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-pagos-2555773.jpg' alt='WhatsApp se mete de lleno en el negocio de pagos con criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667'>Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/medion-akoya-e15303-2477427.jpg' alt='Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato' />
     </a>
 </div>
 
