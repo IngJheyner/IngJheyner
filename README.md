@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995'>La nueva actualización de Google Chrome en Android llega con una característica de lo más útil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-chrome-2261053.jpg' alt='La nueva actualización de Google Chrome en Android llega con una característica de lo más útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999'>Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galaxy-s22-2369531.jpg' alt='Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889'>Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hemos-encontrado-xiaomi-11t-5g-8-gb-ram-100-euros-barato-amazon-no-durara-mucho-2555915.jpg' alt='Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769'>El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009'>La estafa del pago por Bizum que se está haciendo estragos en Wallapop</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comprar-vender-tecnologia-wallapop-1890299.jpg' alt='La estafa del pago por Bizum que se está haciendo estragos en Wallapop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mascarilla-brilla-coronavirus-978011'>Inventan una mascarilla que brilla si ha entrado en contacto con el coronavirus</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mascarilla-brilla-coronavirus-978011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-mascarilla-brilla-ha-entrado-contacto-coronavirus-2556259.jpg' alt='Inventan una mascarilla que brilla si ha entrado en contacto con el coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revela-buscado-espana-hay-algunas-realmente-curiosas-977939'>Google revela lo más buscado en España y hay algunas realmente curiosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-revela-buscado-espana-hay-algunas-realmente-curiosas-977939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2549551.jpg' alt='Google revela lo más buscado en España y hay algunas realmente curiosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763'>Modelos de Audi que casi todo el mundo desconoce</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/audi-a7-l-sedan-2549603.jpg' alt='Modelos de Audi que casi todo el mundo desconoce' />
     </a>
 </div>
 
