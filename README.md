@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763'>Modelos de Audi que casi todo el mundo desconoce</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/audi-a7-l-sedan-2549603.jpg' alt='Modelos de Audi que casi todo el mundo desconoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sucesor-android-auto-anade-importante-cambio-impide-uso-millones-dispositivos-977997'>El sucesor de Android Auto añade un importante cambio que impide su uso en millones de dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sucesor-android-auto-anade-importante-cambio-impide-uso-millones-dispositivos-977997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El sucesor de Android Auto añade un importante cambio que impide su uso en millones de dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-controlar-windows-11-comandos-voz-funciona-977991'>Ahora puedes controlar Windows 11 con comandos de voz, y así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-controlar-windows-11-comandos-voz-funciona-977991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-comandos-voz-2556231.jpg' alt='Ahora puedes controlar Windows 11 con comandos de voz, y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937'>OnePlus seguiría los pasos de realme y estaría preparando una tablet Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='OnePlus seguiría los pasos de realme y estaría preparando una tablet Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667'>5 auriculares Jabra que están en liquidación en Amazon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jabra-elite-7-pro-2555403.jpg' alt='5 auriculares Jabra que están en liquidación en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935'>Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/barcelona-lanza-nueva-app-transporte-publico-no-tiene-nada-envidiar-madrid-977935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-brcelona-2556081.jpg' alt='Barcelona lanza su nueva app de transporte público y no tiene nada que envidiar a la de Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-iphone-te-dira-telefono-usa-componentes-originales-ha-sido-reparado-977945'>La nueva actualización para iPhone te dirá si tu teléfono usa componentes originales o si ha sido reparado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-iphone-te-dira-telefono-usa-componentes-originales-ha-sido-reparado-977945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2547317.jpg' alt='La nueva actualización para iPhone te dirá si tu teléfono usa componentes originales o si ha sido reparado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751'>5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/5-series-robos-puedes-ver-netflix-ya-echas-menos-casa-papel-977751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/5-recomendaciones-series-similares-casa-papel-2555937.jpg' alt='5 series de robos que puedes ver en Netflix si ya echas de menos La casa de papel' />
     </a>
 </div>
 
