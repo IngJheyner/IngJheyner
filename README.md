@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835'>Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revolucionarias-gafas-realidad-aumentada-apple-funcionarian-solo-gestos-977835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Las revolucionarias gafas de realidad aumentada de Apple funcionarían sólo con gestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mete-lleno-negocio-pagos-criptomonedas-977823'>WhatsApp se mete de lleno en el negocio de pagos con criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mete-lleno-negocio-pagos-criptomonedas-977823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-pagos-2555773.jpg' alt='WhatsApp se mete de lleno en el negocio de pagos con criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667'>Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-499eu-tiene-ultimo-i5-ssd-oferta-top-buscas-pc-potente-barato-976667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/medion-akoya-e15303-2477427.jpg' alt='Este portátil de solo 499€ tiene el último i5 y SSD, una oferta top si buscas un PC potente y barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755'>Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-tambien-tienen-caja-negra-edr-977737'>Los coches también tienen caja negra: así es la EDR</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coches-tambien-tienen-caja-negra-edr-977737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/accidente-coche.jpg' alt='Los coches también tienen caja negra: así es la EDR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287'>Estos auriculares de Lenovo cuestan sólo 2 euros y son muy similares a los AirPods, aunque su precio es ridículo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-lp40-2554807.jpg' alt='Estos auriculares de Lenovo cuestan sólo 2 euros y son muy similares a los AirPods, aunque su precio es ridículo' />
     </a>
 </div>
 
