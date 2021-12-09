@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='7 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277'>El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/terrorifico-futuro-coches-electricos-parche-software-cuesta-1000-euros-977277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='El terrorífico futuro de los coches eléctricos: un parche de software que cuesta 1.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235'>Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/ano-te-resultara-caro-comprar-todos-esos-alimentos-cenas-navidad-977235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cena-navidad-2554703.jpg' alt='Este año te resultará más caro comprar todos esos alimentos para las cenas de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747'>Wifi: Pasado, presente y futuro de una tecnología que nos cambió</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/wifi-pasado-presente-futuro-tecnologia-nos-cambio-973747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nina-movil-ordenador-conectados-red-wifi-2548727.jpg' alt='Wifi: Pasado, presente y futuro de una tecnología que nos cambió' />
     </a>
 </div>
 
