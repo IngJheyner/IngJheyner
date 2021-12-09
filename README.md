@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769'>El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009'>La estafa del pago por Bizum que se está haciendo estragos en Wallapop</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estafa-pago-bizum-haciendo-estragos-wallapop-978009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comprar-vender-tecnologia-wallapop-1890299.jpg' alt='La estafa del pago por Bizum que se está haciendo estragos en Wallapop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mascarilla-brilla-coronavirus-978011'>Inventan una mascarilla que brilla si ha entrado en contacto con el coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mascarilla-brilla-coronavirus-978011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-mascarilla-brilla-ha-entrado-contacto-coronavirus-2556259.jpg' alt='Inventan una mascarilla que brilla si ha entrado en contacto con el coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revela-buscado-espana-hay-algunas-realmente-curiosas-977939'>Google revela lo más buscado en España y hay algunas realmente curiosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-revela-buscado-espana-hay-algunas-realmente-curiosas-977939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2549551.jpg' alt='Google revela lo más buscado en España y hay algunas realmente curiosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763'>Modelos de Audi que casi todo el mundo desconoce</a></h4>
     <a href='https://computerhoy.com/noticias/motor/modelos-audi-casi-todo-mundo-desconoce-977763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/audi-a7-l-sedan-2549603.jpg' alt='Modelos de Audi que casi todo el mundo desconoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sucesor-android-auto-anade-importante-cambio-impide-uso-millones-dispositivos-977997'>El sucesor de Android Auto añade un importante cambio que impide su uso en millones de dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sucesor-android-auto-anade-importante-cambio-impide-uso-millones-dispositivos-977997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El sucesor de Android Auto añade un importante cambio que impide su uso en millones de dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-controlar-windows-11-comandos-voz-funciona-977991'>Ahora puedes controlar Windows 11 con comandos de voz, y así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-controlar-windows-11-comandos-voz-funciona-977991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-comandos-voz-2556231.jpg' alt='Ahora puedes controlar Windows 11 con comandos de voz, y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937'>OnePlus seguiría los pasos de realme y estaría preparando una tablet Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-seguiria-pasos-realme-estaria-preparando-tablet-android-977937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='OnePlus seguiría los pasos de realme y estaría preparando una tablet Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667'>5 auriculares Jabra que están en liquidación en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-jabra-estan-liquidacion-amazon-977667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jabra-elite-7-pro-2555403.jpg' alt='5 auriculares Jabra que están en liquidación en Amazon' />
     </a>
 </div>
 
