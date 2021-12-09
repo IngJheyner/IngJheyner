@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-m40-pro-11-pulgadas-tiene-4g-te-conectes-internet-estes-donde-estes-solo-198eu-977641'>Esta tablet Teclast M40 Pro de 11 pulgadas tiene 4G para que te conectes a internet estés donde estés por solo 198€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-m40-pro-11-pulgadas-tiene-4g-te-conectes-internet-estes-donde-estes-solo-198eu-977641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-m40-pro-2555317.jpg' alt='Esta tablet Teclast M40 Pro de 11 pulgadas tiene 4G para que te conectes a internet estés donde estés por solo 198€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscado-espana-2021-volcanes-vacunas-factura-luz-fifa-22-977639'>Esto es lo más buscado en España en 2021: volcanes, vacunas, la factura de la luz y el FIFA 22</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscado-espana-2021-volcanes-vacunas-factura-luz-fifa-22-977639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-chrome-2405299.jpg' alt='Esto es lo más buscado en España en 2021: volcanes, vacunas, la factura de la luz y el FIFA 22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-microsoft-podria-haber-977623'>Un error de Microsoft filtró datos sensibles de webs con WordPress</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-microsoft-podria-haber-977623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/servidores-microsoft-2555295.jpg' alt='Un error de Microsoft filtró datos sensibles de webs con WordPress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-605-computer-hoy-973807'>¡Ya está en tu quiosco el número 605 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-605-computer-hoy-973807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/computer-hoy-605-2549809.jpg' alt='¡Ya está en tu quiosco el número 605 de Computer Hoy!' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-esperado-cambio-no-quieren-ser-victimas-algoritmo-977601'>Instagram anuncia un esperado cambio para los que no quieren ser víctimas del algoritmo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-esperado-cambio-no-quieren-ser-victimas-algoritmo-977601' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-gran-cambio-no-quieren-ser-victimas-algoritmo-977601'>Instagram anuncia un esperado cambio para los que no quieren ser víctimas del algoritmo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-gran-cambio-no-quieren-ser-victimas-algoritmo-977601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram anuncia un esperado cambio para los que no quieren ser víctimas del algoritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-sera-anunciado-proximo-15-diciembre-977593'>Así es el teléfono plegable de OPPO que será anunciado el próximo 15 de diciembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-sera-anunciado-proximo-15-diciembre-977593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-oppo-reno-6-pro-2473543.jpg' alt='Así es el teléfono plegable de OPPO que será anunciado el próximo 15 de diciembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kickstarter-apuesta-blockchain-anuncia-grandes-cambios-2022-977579'>Kickstarter apuesta por el blockchain y anuncia grandes cambios en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kickstarter-apuesta-blockchain-anuncia-grandes-cambios-2022-977579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kickstarter-2555223.jpg' alt='Kickstarter apuesta por el blockchain y anuncia grandes cambios en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303'>Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/amazon-prime-day-2380521.jpg' alt='Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido' />
     </a>
 </div>
 
