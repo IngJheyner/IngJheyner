@@ -82,8 +82,8 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755'>Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755'>Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/como-enfrentarte-lluvia-niebla-viento-nieve-volante-dgt-977755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='Cómo enfrentarte a lluvia, niebla, viento y nieve al volante según la DGT' />
     </a>
 </div>
