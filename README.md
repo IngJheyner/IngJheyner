@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817'>Sistemas de calefacción para calentarse sin necesidad de electricidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Sistemas de calefacción para calentarse sin necesidad de electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107'>Cómo ver el rendimiento de tu coche en Android Auto</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-rendimiento-coche-android-auto-976107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/performance-monitor-2552979.jpg' alt='Cómo ver el rendimiento de tu coche en Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747'>Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/tesla-model-3-2021-performance-son-tecnologia-conduccion-autonoma-posibilidades-viajar-937747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='Tesla Model 3 (2021) Performance: así son su tecnología, conducción autónoma y posibilidades de viajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811'>12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-pulseras-inteligentes-ideales-regalar-navidad-baratas-976811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327011.jpg' alt='12 pulseras inteligentes ideales para regalar en Navidad y que son bastante baratas' />
     </a>
 </div>
 
