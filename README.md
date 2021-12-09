@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-605-computer-hoy-973807'>¡Ya está en tu quiosco el número 605 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-605-computer-hoy-973807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/computer-hoy-605-2549809.jpg' alt='¡Ya está en tu quiosco el número 605 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-esperado-cambio-no-quieren-ser-victimas-algoritmo-977601'>Instagram anuncia un esperado cambio para los que no quieren ser víctimas del algoritmo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-anuncia-esperado-cambio-no-quieren-ser-victimas-algoritmo-977601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram anuncia un esperado cambio para los que no quieren ser víctimas del algoritmo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-sera-anunciado-proximo-15-diciembre-977593'>Así es el teléfono plegable de OPPO que será anunciado el próximo 15 de diciembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-sera-anunciado-proximo-15-diciembre-977593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-oppo-reno-6-pro-2473543.jpg' alt='Así es el teléfono plegable de OPPO que será anunciado el próximo 15 de diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kickstarter-apuesta-blockchain-anuncia-grandes-cambios-2022-977579'>Kickstarter apuesta por el blockchain y anuncia grandes cambios en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kickstarter-apuesta-blockchain-anuncia-grandes-cambios-2022-977579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kickstarter-2555223.jpg' alt='Kickstarter apuesta por el blockchain y anuncia grandes cambios en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303'>Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/amazon-prime-day-2380521.jpg' alt='Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-vuelve-abrir-puerta-anuncios-criptomonedas-977129'>Facebook vuelve a abrir la puerta a los anuncios de criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-vuelve-abrir-puerta-anuncios-criptomonedas-977129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ethereum-tenemos-nuevo-record-mundo-criptomonedas-2516887.jpg' alt='Facebook vuelve a abrir la puerta a los anuncios de criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-va-acabar-olas-entregas-fin-trimestre-977127'>Tesla va a acabar con las olas de entregas de fin de trimestre</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-va-acabar-olas-entregas-fin-trimestre-977127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Tesla va a acabar con las olas de entregas de fin de trimestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-comenzar-manana-informado-ultimo-977305'>12 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-comenzar-manana-informado-ultimo-977305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/resumen-noticias-2554923.jpg' alt='12 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817'>Sistemas de calefacción para calentarse sin necesidad de electricidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-975817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/frio-2188849.jpg' alt='Sistemas de calefacción para calentarse sin necesidad de electricidad' />
     </a>
 </div>
 
