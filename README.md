@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/amazon-ha-investigado-ocurriria-tapase-sol-977781'>Amazon ha investigado qué ocurriría si se tapase el sol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/amazon-ha-investigado-ocurriria-tapase-sol-977781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/coche-sol-delante-2376603.jpg' alt='Amazon ha investigado qué ocurriría si se tapase el sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/debes-tomar-taza-cafe-30-minutos-antes-hacer-ejercicio-977719'>Por qué debes tomar una taza de café 30 minutos antes de hacer ejercicio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-tomar-taza-cafe-30-minutos-antes-hacer-ejercicio-977719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cafe-ejercicio-2555463.jpg' alt='Por qué debes tomar una taza de café 30 minutos antes de hacer ejercicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/4-motores-electricos-potentes-han-llegado-espana-977777'>Los 4 motores eléctricos más potentes que han llegado a España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/4-motores-electricos-potentes-han-llegado-espana-977777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/porsche-taycan-turbo-s-2248519.jpg' alt='Los 4 motores eléctricos más potentes que han llegado a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2556607.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731'>Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/regalo-navidad-2117865.jpg' alt='Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ninu-colonia-perfume-inteligencia-artificial-978261'>NINU, la inteligencia artificial que personaliza tu colonia para ir a trabajar, para ligar, o para hacer deporte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ninu-colonia-perfume-inteligencia-artificial-978261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-crea-perfume-personalizado-partir-100-fragancias-ir-trabajar-ligar-hacer-deporte-2556587.jpg' alt='NINU, la inteligencia artificial que personaliza tu colonia para ir a trabajar, para ligar, o para hacer deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927'>Qué significa el código de colores de los tubos de pasta de dientes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tubo-pasta-dientes-2555983.jpg' alt='Qué significa el código de colores de los tubos de pasta de dientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033'>Los mejores alimentos para reducir la grasa visceral, la más peligrosa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-alimentos-reducir-grasa-visceral-peligrosa-2556361.jpg' alt='Los mejores alimentos para reducir la grasa visceral, la más peligrosa' />
     </a>
 </div>
 
