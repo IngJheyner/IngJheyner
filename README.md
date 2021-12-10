@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379'>Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-outlook-sufre-vulnerabilidad-facilita-suplantacion-identidad-978383'>Microsoft Outlook sufre una vulnerabilidad que facilita la suplantación de identidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-outlook-sufre-vulnerabilidad-facilita-suplantacion-identidad-978383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hotmail-outlook-2218535.jpg' alt='Microsoft Outlook sufre una vulnerabilidad que facilita la suplantación de identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-multas-comidas-cenas-navidad-alcoholimetro-oferta-menos-20eu-977683'>Conduce con cabeza y evita multas tras las comidas y cenas de Navidad con este alcoholímetro en oferta por menos de 20€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-multas-comidas-cenas-navidad-alcoholimetro-oferta-menos-20eu-977683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/personas-brindando-cervezas-comida-2555421.jpg' alt='Conduce con cabeza y evita multas tras las comidas y cenas de Navidad con este alcoholímetro en oferta por menos de 20€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juego-pc-invento-genero-battle-royale-sera-gratuito-2022-978361'>El juego de PC que inventó el género Battle Royale será gratuito en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juego-pc-invento-genero-battle-royale-sera-gratuito-2022-978361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pubg-2556777.jpg' alt='El juego de PC que inventó el género Battle Royale será gratuito en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-android-llegaran-windows-11-nueva-aplicacion-978343'>Los juegos de Android llegarán a Windows 11 con una nueva aplicación</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-android-llegaran-windows-11-nueva-aplicacion-978343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Los juegos de Android llegarán a Windows 11 con una nueva aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-criptomonedas-tal-como-conocemos-fmi-pide-regularlas-ya-978315'>Adiós a las criptomonedas tal y como las conocemos: el FMI pide regularlas ya</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-criptomonedas-tal-como-conocemos-fmi-pide-regularlas-ya-978315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/adios-vida-pirata-criptomonedas-ue-va-prohibir-monederos-transacciones-anonimas-pagos-mayores-10000-euros-2414357.jpg' alt='Adiós a las criptomonedas tal y como las conocemos: el FMI pide regularlas ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-tiembla-pulso-vuelve-cancelar-serie-poco-despues-estrenarla-978313'>A Netflix no le tiembla el pulso y vuelve a cancelar una serie poco después de estrenarla</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-tiembla-pulso-vuelve-cancelar-serie-poco-despues-estrenarla-978313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cowboy-bebop-2530715.jpeg' alt='A Netflix no le tiembla el pulso y vuelve a cancelar una serie poco después de estrenarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/21-chollos-menos-20eu-amazon-tienen-envio-solo-24-horas-977749'>21 chollos de menos de 20€ de Amazon que tienen envío en solo 24 horas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/21-chollos-menos-20eu-amazon-tienen-envio-solo-24-horas-977749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-2555511.jpg' alt='21 chollos de menos de 20€ de Amazon que tienen envío en solo 24 horas' />
     </a>
 </div>
 
