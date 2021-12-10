@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499'>Llega Instagram Playback 2021, el resumen de tu año en stories</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Llega Instagram Playback 2021, el resumen de tu año en stories' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-tiene-mes-bateria-precio-rompedor-cuesta-solo-25-euros-envia-espana-977789'>Este smartwatch tiene un mes de batería y un precio rompedor: cuesta solo 25 euros y se envía desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-tiene-mes-bateria-precio-rompedor-cuesta-solo-25-euros-envia-espana-977789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-bip-s-lite-2555621.jpg' alt='Este smartwatch tiene un mes de batería y un precio rompedor: cuesta solo 25 euros y se envía desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/traductor-google-2555517.jpg' alt='Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411'>Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/taxi-volador-2556889.jpg' alt='Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-patinete-xiaomi-tiene-78eu-descuento-oferta-no-durara-mucho-corre-978389'>El nuevo patinete de Xiaomi tiene 78€ de descuento en una oferta que no durará mucho, así que ¡corre!</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-patinete-xiaomi-tiene-78eu-descuento-oferta-no-durara-mucho-corre-978389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-3-2556843.jpg' alt='El nuevo patinete de Xiaomi tiene 78€ de descuento en una oferta que no durará mucho, así que ¡corre!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379'>Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos' />
     </a>
 </div>
 
