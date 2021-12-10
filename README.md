@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/traductor-google-2555517.jpg' alt='Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguiremos-teniendo-roaming-gratuito-europa-2032-ello-implica-978429'>Seguiremos teniendo roaming gratuito en Europa hasta 2032 y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguiremos-teniendo-roaming-gratuito-europa-2032-ello-implica-978429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roaming-gratuito-2032-2556893.jpg' alt='Seguiremos teniendo roaming gratuito en Europa hasta 2032 y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411'>Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/taxi-volador-2556889.jpg' alt='Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-patinete-xiaomi-tiene-78eu-descuento-oferta-no-durara-mucho-corre-978389'>El nuevo patinete de Xiaomi tiene 78€ de descuento en una oferta que no durará mucho, así que ¡corre!</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-patinete-xiaomi-tiene-78eu-descuento-oferta-no-durara-mucho-corre-978389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-3-2556843.jpg' alt='El nuevo patinete de Xiaomi tiene 78€ de descuento en una oferta que no durará mucho, así que ¡corre!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379'>Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cual-diferencia-radar-cascada-antifrenazo-dgt-como-reconocerlos-978379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Cuál es la diferencia entre un radar en cascada y uno antifrenazo de la DGT y cómo reconocerlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-outlook-sufre-vulnerabilidad-facilita-suplantacion-identidad-978383'>Microsoft Outlook sufre una vulnerabilidad que facilita la suplantación de identidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-outlook-sufre-vulnerabilidad-facilita-suplantacion-identidad-978383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hotmail-outlook-2218535.jpg' alt='Microsoft Outlook sufre una vulnerabilidad que facilita la suplantación de identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-multas-comidas-cenas-navidad-alcoholimetro-oferta-menos-20eu-977683'>Conduce con cabeza y evita multas tras las comidas y cenas de Navidad con este alcoholímetro en oferta por menos de 20€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evita-multas-comidas-cenas-navidad-alcoholimetro-oferta-menos-20eu-977683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/personas-brindando-cervezas-comida-2555421.jpg' alt='Conduce con cabeza y evita multas tras las comidas y cenas de Navidad con este alcoholímetro en oferta por menos de 20€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juego-pc-invento-genero-battle-royale-sera-gratuito-2022-978361'>El juego de PC que inventó el género Battle Royale será gratuito en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juego-pc-invento-genero-battle-royale-sera-gratuito-2022-978361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pubg-2556777.jpg' alt='El juego de PC que inventó el género Battle Royale será gratuito en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-android-llegaran-windows-11-nueva-aplicacion-978343'>Los juegos de Android llegarán a Windows 11 con una nueva aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juegos-android-llegaran-windows-11-nueva-aplicacion-978343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Los juegos de Android llegarán a Windows 11 con una nueva aplicación' />
     </a>
 </div>
 
