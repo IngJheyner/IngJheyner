@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701'>Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-zelanda-van-prohibir-fumar-nacidos-despues-2008-2557643.jpg' alt='Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695'>Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-2557623.jpg' alt='Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679'>Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677'>Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder</a></h4>
     <a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-2557577.jpg' alt='Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693'>Dale una nueva vida a tu viejo PC con este SSD de 240 GB que solo cuesta 24 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693'>Dale una nueva vida a tu viejo PC con este SSD de 240 GB de marca que solo cuesta 24 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-nueva-vida-viejo-pc-ssd-240-gb-solo-cuesta-24-euros-2557619.jpg' alt='Dale una nueva vida a tu viejo PC con este SSD de 240 GB que solo cuesta 24 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-estaria-preparando-tecnologia-permitiria-aumentar-autonomia-telefonos-moviles-978659'>Xiaomi estaría preparando una tecnología que permitiría aumentar la autonomía de sus teléfonos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-estaria-preparando-tecnologia-permitiria-aumentar-autonomia-telefonos-moviles-978659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi estaría preparando una tecnología que permitiría aumentar la autonomía de sus teléfonos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/futuro-tiendas-movistar-vodafone-orange-conversion-cierre-978685'>Qué va a pasar con las tiendas de Movistar, Vodafone y Orange: conversión o cierre</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/futuro-tiendas-movistar-vodafone-orange-conversion-cierre-978685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Qué va a pasar con las tiendas de Movistar, Vodafone y Orange: conversión o cierre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475'>Esta ha sido la estrella número 1 de 2021 para IMDb</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elizabeth-olsen-2322363.jpg' alt='Esta ha sido la estrella número 1 de 2021 para IMDb' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-nueva-vida-viejo-pc-ssd-240-gb-solo-cuesta-24-euros-2557619.jpg' alt='Dale una nueva vida a tu viejo PC con este SSD de 240 GB de marca que solo cuesta 24 euros' />
     </a>
 </div>
 
