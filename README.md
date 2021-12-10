@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545'>Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tudum-netflix-2557151.jpg' alt='Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/premios'>Premios Computer Hoy 2021: Elige los mejores productos del año y gana fantásticos premios</a></h4>
+    <a href='https://computerhoy.com/premios' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/premios-computer-hoy-2021-2557153.jpg' alt='Premios Computer Hoy 2021: Elige los mejores productos del año y gana fantásticos premios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543'>De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-2483767.jpg' alt='De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-ya-sabe-tarjetas-graficas-intel-arc-son-reales-porque-ya-tenemos-fecha-lanzamiento-978501'>NVIDIA ya sabe que las tarjetas gráficas Intel Arc son reales porque ya tenemos fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-ya-sabe-tarjetas-graficas-intel-arc-son-reales-porque-ya-tenemos-fecha-lanzamiento-978501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='NVIDIA ya sabe que las tarjetas gráficas Intel Arc son reales porque ya tenemos fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499'>Llega Instagram Playback 2021, el resumen de tu año en stories</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Llega Instagram Playback 2021, el resumen de tu año en stories' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-tiene-mes-bateria-precio-rompedor-cuesta-solo-25-euros-envia-espana-977789'>Este smartwatch tiene un mes de batería y un precio rompedor: cuesta solo 25 euros y se envía desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-tiene-mes-bateria-precio-rompedor-cuesta-solo-25-euros-envia-espana-977789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazfit-bip-s-lite-2555621.jpg' alt='Este smartwatch tiene un mes de batería y un precio rompedor: cuesta solo 25 euros y se envía desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/traductor-google-2555517.jpg' alt='Cómo utilizar el traductor de Google y trucos para sacarle el máximo potencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguiremos-teniendo-roaming-gratuito-europa-2032-ello-implica-978429'>Seguiremos teniendo roaming gratuito en Europa hasta 2032 y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguiremos-teniendo-roaming-gratuito-europa-2032-ello-implica-978429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roaming-gratuito-2032-2556893.jpg' alt='Seguiremos teniendo roaming gratuito en Europa hasta 2032 y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411'>Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/taxi-volador-mitad-pajaro-mitad-avion-empresa-africana-quiere-hacerlo-realidad-978411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/taxi-volador-2556889.jpg' alt='Este taxi volador es mitad pájaro mitad avión y una empresa africana quiere hacerlo realidad' />
     </a>
 </div>
 
