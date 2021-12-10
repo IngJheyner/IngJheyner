@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677'>Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-2557577.jpg' alt='Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693'>Dale una nueva vida a tu viejo PC con este SSD de 240 GB que solo cuesta 24 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-nueva-vida-viejo-pc-ssd-240-gb-solo-cuesta-24-euros-2557619.jpg' alt='Dale una nueva vida a tu viejo PC con este SSD de 240 GB que solo cuesta 24 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-estaria-preparando-tecnologia-permitiria-aumentar-autonomia-telefonos-moviles-978659'>Xiaomi estaría preparando una tecnología que permitiría aumentar la autonomía de sus teléfonos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-estaria-preparando-tecnologia-permitiria-aumentar-autonomia-telefonos-moviles-978659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi estaría preparando una tecnología que permitiría aumentar la autonomía de sus teléfonos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/futuro-tiendas-movistar-vodafone-orange-conversion-cierre-978685'>Qué va a pasar con las tiendas de Movistar, Vodafone y Orange: conversión o cierre</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/futuro-tiendas-movistar-vodafone-orange-conversion-cierre-978685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg' alt='Qué va a pasar con las tiendas de Movistar, Vodafone y Orange: conversión o cierre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475'>Esta ha sido la estrella número 1 de 2021 para IMDb</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elizabeth-olsen-2322363.jpg' alt='Esta ha sido la estrella número 1 de 2021 para IMDb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469'>11 prestaciones de los BMW M3 que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/bmw-m3-gts-2010-2392359.jpg' alt='11 prestaciones de los BMW M3 que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/despues-ver-video-viral-te-quitaran-ganas-comprar-loteria-navidad-978675'>Después de ver este vídeo viral se te quitarán las ganas de comprar lotería de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/despues-ver-video-viral-te-quitaran-ganas-comprar-loteria-navidad-978675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='Después de ver este vídeo viral se te quitarán las ganas de comprar lotería de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desarrolla-ia-hara-vida-facil-programadores-todo-mundo-978671'>Microsoft desarrolla una IA que hará la vida más fácil a los programadores de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desarrolla-ia-hara-vida-facil-programadores-todo-mundo-978671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenguajes-programacion-2557559.jpg' alt='Microsoft desarrolla una IA que hará la vida más fácil a los programadores de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661'>El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-2557555.jpg' alt='El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N' />
     </a>
 </div>
 
