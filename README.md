@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033'>Los mejores alimentos para reducir la grasa visceral, la más peligrosa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-alimentos-reducir-grasa-visceral-peligrosa-2556361.jpg' alt='Los mejores alimentos para reducir la grasa visceral, la más peligrosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031'>Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regresa-otro-villano-mitico-trailer-espanol-temporada-4-cobra-kai-2556357.jpg' alt='Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regresa-otro-villano-mitico-trailer-espanol-temporada-4-cobra-kai-2556359.jpg' alt='Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889'>Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hemos-encontrado-xiaomi-11t-5g-8-gb-ram-100-euros-barato-amazon-no-durara-mucho-2555915.jpg' alt='Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769'>El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/record-spider-man-no-way-home-preventa-entradas-espana-primeras-horas-977769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='El récord de Spider-Man No Way Home: la preventa de entradas en España en sus primeras horas' />
     </a>
 </div>
 
