@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917'>Móviles con batería de dos días o más: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180331.jpg' alt='Móviles con batería de dos días o más: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-sexo-nueva-york-perdidos-espacio-will-smith-978609'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: sexo en Nueva York, perdidos en el espacio y Will Smith</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-sexo-nueva-york-perdidos-espacio-will-smith-978609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-finde-2557423.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: sexo en Nueva York, perdidos en el espacio y Will Smith' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-filmin-netflix-quieres-estar-ultima-978299'>Qué películas ver este fin de semana en HBO Max, Filmin y Netflix si quieres estar a la última</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-filmin-netflix-quieres-estar-ultima-978299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-recomendadas-2556871.jpg' alt='Qué películas ver este fin de semana en HBO Max, Filmin y Netflix si quieres estar a la última' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701'>Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-chromebook-x360-2555449.jpg' alt='Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585'>Estas son las predicciones de Bill Gates para 2022 y te van a gustar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Estas son las predicciones de Bill Gates para 2022 y te van a gustar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545'>Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tudum-netflix-2557151.jpg' alt='Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/premios'>Premios Computer Hoy 2021: Elige los mejores productos del año y gana fantásticos premios</a></h4>
-    <a href='https://computerhoy.com/premios' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/premios-computer-hoy-2021-2557153.jpg' alt='Premios Computer Hoy 2021: Elige los mejores productos del año y gana fantásticos premios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543'>De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-2483767.jpg' alt='De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto' />
     </a>
 </div>
 
