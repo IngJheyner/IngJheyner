@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-tiembla-pulso-vuelve-cancelar-serie-poco-despues-estrenarla-978313'>A Netflix no le tiembla el pulso y vuelve a cancelar una serie poco después de estrenarla</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-tiembla-pulso-vuelve-cancelar-serie-poco-despues-estrenarla-978313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cowboy-bebop-2530715.jpeg' alt='A Netflix no le tiembla el pulso y vuelve a cancelar una serie poco después de estrenarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/21-chollos-menos-20eu-amazon-tienen-envio-solo-24-horas-977749'>21 chollos de menos de 20€ de Amazon que tienen envío en solo 24 horas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/21-chollos-menos-20eu-amazon-tienen-envio-solo-24-horas-977749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-2555511.jpg' alt='21 chollos de menos de 20€ de Amazon que tienen envío en solo 24 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/amazon-ha-investigado-ocurriria-tapase-sol-977781'>Amazon ha investigado qué ocurriría si se tapase el sol</a></h4>
     <a href='https://computerhoy.com/noticias/life/amazon-ha-investigado-ocurriria-tapase-sol-977781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/coche-sol-delante-2376603.jpg' alt='Amazon ha investigado qué ocurriría si se tapase el sol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/4-motores-electricos-potentes-han-llegado-espana-977777'>Los 4 motores eléctricos más potentes que han llegado a España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/4-motores-electricos-potentes-han-llegado-espana-977777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/porsche-taycan-turbo-s-2248519.jpg' alt='Los 4 motores eléctricos más potentes que han llegado a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2556607.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731'>Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/regalo-navidad-2117865.jpg' alt='Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro' />
     </a>
 </div>
 
