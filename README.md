@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701'>Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-chromebook-x360-2555449.jpg' alt='Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585'>Estas son las predicciones de Bill Gates para 2022 y te van a gustar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Estas son las predicciones de Bill Gates para 2022 y te van a gustar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545'>Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amantes-netflix-tendran-acceso-contenido-exclusivo-gracias-lanzamiento-tudum-978545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tudum-netflix-2557151.jpg' alt='Los amantes de Netflix tendrán acceso a contenido exclusivo gracias al lanzamiento de Tudum' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543'>De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefonos-plegables-smartwaches-extensibles-samsung-estaria-trabajando-reloj-nunca-visto-978543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-2483767.jpg' alt='De los teléfonos plegables a los smartwaches extensibles, Samsung estaría trabajando en un reloj nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-ya-sabe-tarjetas-graficas-intel-arc-son-reales-porque-ya-tenemos-fecha-lanzamiento-978501'>NVIDIA ya sabe que las tarjetas gráficas Intel Arc son reales porque ya tenemos fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-ya-sabe-tarjetas-graficas-intel-arc-son-reales-porque-ya-tenemos-fecha-lanzamiento-978501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='NVIDIA ya sabe que las tarjetas gráficas Intel Arc son reales porque ya tenemos fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499'>Llega Instagram Playback 2021, el resumen de tu año en stories</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-instagram-playback-2021-resumen-ano-stories-978499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Llega Instagram Playback 2021, el resumen de tu año en stories' />
     </a>
 </div>
 
