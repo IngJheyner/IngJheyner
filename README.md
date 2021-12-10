@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927'>Qué significa el código de colores de los tubos de pasta de dientes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tubo-pasta-dientes-2555983.jpg' alt='Qué significa el código de colores de los tubos de pasta de dientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033'>Los mejores alimentos para reducir la grasa visceral, la más peligrosa</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-alimentos-reducir-grasa-visceral-peligrosa-2556361.jpg' alt='Los mejores alimentos para reducir la grasa visceral, la más peligrosa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999'>Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galaxy-s22-2369531.jpg' alt='Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889'>Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8-gb-oferta-977889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hemos-encontrado-xiaomi-11t-5g-8-gb-ram-100-euros-barato-amazon-no-durara-mucho-2555915.jpg' alt='Hemos encontrado el Xiaomi 11T 5G con 8 GB de RAM, 100 euros más barato que en Amazon... ¡no durará mucho!' />
     </a>
 </div>
 
