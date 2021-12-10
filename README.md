@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-978271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2556607.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731'>Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/navidad-2021-ideas-regalos-menos-20-euros-977731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/regalo-navidad-2117865.jpg' alt='Navidad 2021: 10 ideas de regalos de menos de 20 euros que son un éxito seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ninu-colonia-perfume-inteligencia-artificial-978261'>NINU, la inteligencia artificial que personaliza tu colonia para ir a trabajar, para ligar, o para hacer deporte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ninu-colonia-perfume-inteligencia-artificial-978261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-crea-perfume-personalizado-partir-100-fragancias-ir-trabajar-ligar-hacer-deporte-2556587.jpg' alt='NINU, la inteligencia artificial que personaliza tu colonia para ir a trabajar, para ligar, o para hacer deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927'>Qué significa el código de colores de los tubos de pasta de dientes</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-codigo-colores-tubos-pasta-dientes-977927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tubo-pasta-dientes-2555983.jpg' alt='Qué significa el código de colores de los tubos de pasta de dientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033'>Los mejores alimentos para reducir la grasa visceral, la más peligrosa</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-grasa-visceral-978033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-alimentos-reducir-grasa-visceral-peligrosa-2556361.jpg' alt='Los mejores alimentos para reducir la grasa visceral, la más peligrosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031'>Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-trailer-espanol-temporada-4-978031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regresa-otro-villano-mitico-trailer-espanol-temporada-4-cobra-kai-2556359.jpg' alt='Regresa otro villano mítico en el tráiler en español de la temporada 4 de Cobra Kai' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995'>La nueva actualización de Google Chrome en Android llega con una característica de lo más útil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-chrome-android-llega-caracteristica-util-977995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/google-chrome-2261053.jpg' alt='La nueva actualización de Google Chrome en Android llega con una característica de lo más útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999'>Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-parte-especificaciones-nuevos-samsung-galaxy-s22-977999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galaxy-s22-2369531.jpg' alt='Se filtran parte de las especificaciones de los nuevos Samsung Galaxy S22' />
     </a>
 </div>
 
