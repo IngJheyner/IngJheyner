@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475'>Esta ha sido la estrella número 1 de 2021 para IMDb</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-estrella-numero-1-2021-imdb-978475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elizabeth-olsen-2322363.jpg' alt='Esta ha sido la estrella número 1 de 2021 para IMDb' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469'>11 prestaciones de los BMW M3 que deberías conocer</a></h4>
     <a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/bmw-m3-gts-2010-2392359.jpg' alt='11 prestaciones de los BMW M3 que deberías conocer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661'>El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-2557555.jpg' alt='El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917'>Móviles con batería de dos días o más: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180331.jpg' alt='Móviles con batería de dos días o más: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
