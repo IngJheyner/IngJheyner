@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469'>11 prestaciones de los BMW M3 que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/11-prestaciones-bmw-m3-deberias-conocer-978469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/bmw-m3-gts-2010-2392359.jpg' alt='11 prestaciones de los BMW M3 que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/despues-ver-video-viral-te-quitaran-ganas-comprar-loteria-navidad-978675'>Después de ver este vídeo viral se te quitarán las ganas de comprar lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/despues-ver-video-viral-te-quitaran-ganas-comprar-loteria-navidad-978675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='Después de ver este vídeo viral se te quitarán las ganas de comprar lotería de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desarrolla-ia-hara-vida-facil-programadores-todo-mundo-978671'>Microsoft desarrolla una IA que hará la vida más fácil a los programadores de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desarrolla-ia-hara-vida-facil-programadores-todo-mundo-978671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenguajes-programacion-2557559.jpg' alt='Microsoft desarrolla una IA que hará la vida más fácil a los programadores de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661'>El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-978661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telefono-plegable-oppo-deja-ver-antes-presentacion-oppo-find-n-2557555.jpg' alt='El teléfono plegable de OPPO se deja ver antes de su presentación, así es el OPPO Find N' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917'>Móviles con batería de dos días o más: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-bateria-dos-dias-814917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180331.jpg' alt='Móviles con batería de dos días o más: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-sexo-nueva-york-perdidos-espacio-will-smith-978609'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: sexo en Nueva York, perdidos en el espacio y Will Smith</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-sexo-nueva-york-perdidos-espacio-will-smith-978609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-finde-2557423.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: sexo en Nueva York, perdidos en el espacio y Will Smith' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-filmin-netflix-quieres-estar-ultima-978299'>Qué películas ver este fin de semana en HBO Max, Filmin y Netflix si quieres estar a la última</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-filmin-netflix-quieres-estar-ultima-978299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-recomendadas-2556871.jpg' alt='Qué películas ver este fin de semana en HBO Max, Filmin y Netflix si quieres estar a la última' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701'>Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-chromebook-x360-portatil-estudiantes-oferta-navidad-977701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-chromebook-x360-2555449.jpg' alt='Este Chromebook de HP con pantalla de 14" es el mejor portátil para estudiantes y solo cuesta 299 euros con entrega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585'>Estas son las predicciones de Bill Gates para 2022 y te van a gustar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-predicciones-bill-gates-2022-te-van-gustar-978585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Estas son las predicciones de Bill Gates para 2022 y te van a gustar' />
     </a>
 </div>
 
