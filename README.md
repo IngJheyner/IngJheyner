@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551'>Mapas curiosos que te harán ver el mundo de una forma diferente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mapas-curiosos-te-haran-ver-mundo-forma-diferente-2557177.jpg' alt='Mapas curiosos que te harán ver el mundo de una forma diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037'>La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326957.jpg' alt='La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979'>¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971'>Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eternals-2511067.jpg' alt='Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero' />
     </a>
 </div>
 
