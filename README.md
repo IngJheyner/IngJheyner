@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967'>Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-almorzando-2557929.jpg' alt='Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-10-euros-ganga-interesante-amazon-ahora-mismo-978961'>Un altavoz con Alexa por 10 euros: esta es la ganga más interesante de Amazon ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-10-euros-ganga-interesante-amazon-ahora-mismo-978961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/echo-flex-2159271.jpg' alt='Un altavoz con Alexa por 10 euros: esta es la ganga más interesante de Amazon ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945'>Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503'>Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-gt-2e-sport-2072241.jpg' alt='Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/icloud-steam-vulnerabilidad-log4shell-pone-riesgo-millones-aplicaciones-servicios-mundo-978935'>Desde iCloud hasta Steam: la vulnerabilidad Log4Shell pone en riesgo a millones de aplicaciones y servicios en el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/icloud-steam-vulnerabilidad-log4shell-pone-riesgo-millones-aplicaciones-servicios-mundo-978935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/exploit-2557897.jpg' alt='Desde iCloud hasta Steam: la vulnerabilidad Log4Shell pone en riesgo a millones de aplicaciones y servicios en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779'>Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes</a></h4>
-    <a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irrigador-2453529.jpg' alt='Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes' />
     </a>
 </div>
 
