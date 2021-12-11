@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569'>Kindle Paperwhite 2021 Signature Edition, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kindle-paperwhite-2021-2557291.jpg' alt='Kindle Paperwhite 2021 Signature Edition, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503'>Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-gt-2e-sport-2072241.jpg' alt='Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/icloud-steam-vulnerabilidad-log4shell-pone-riesgo-millones-aplicaciones-servicios-mundo-978935'>Desde iCloud hasta Steam: la vulnerabilidad Log4Shell pone en riesgo a millones de aplicaciones y servicios en el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/icloud-steam-vulnerabilidad-log4shell-pone-riesgo-millones-aplicaciones-servicios-mundo-978935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/exploit-2557897.jpg' alt='Desde iCloud hasta Steam: la vulnerabilidad Log4Shell pone en riesgo a millones de aplicaciones y servicios en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779'>Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes</a></h4>
     <a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irrigador-2453529.jpg' alt='Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419'>Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-s20-fe-2556885.jpg' alt='Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-trucos-caseros-mantener-portatil-gaming-fresquito-964933'>Los mejores trucos caseros para mantener tu portátil gaming fresquito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-trucos-caseros-mantener-portatil-gaming-fresquito-964933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portatil-enfriamiento-2533393.jpg' alt='Los mejores trucos caseros para mantener tu portátil gaming fresquito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/acer-aspire-vero-review-opinion-978023'>Acer Aspire Vero, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/acer-aspire-vero-review-opinion-978023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-aspire-vero-analisis-opinion-2556353.jpg' alt='Acer Aspire Vero, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-navidad-disney-977843'>Películas Navidad 2021: estas son las mejores que puedes ver en Disney Plus</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-navidad-disney-977843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pesadilla-antes-navidad-2514455.jpg' alt='Películas Navidad 2021: estas son las mejores que puedes ver en Disney Plus' />
     </a>
 </div>
 
