@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979'>¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971'>Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eternals-2511067.jpg' alt='Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945'>Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569'>Kindle Paperwhite 2021 Signature Edition, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kindle-paperwhite-2021-2557291.jpg' alt='Kindle Paperwhite 2021 Signature Edition, análisis y opinión' />
     </a>
 </div>
 
