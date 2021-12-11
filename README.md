@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971'>Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eternals-2511067.jpg' alt='Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967'>Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-almorzando-2557929.jpg' alt='Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569'>Kindle Paperwhite 2021 Signature Edition, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kindle-paperwhite-2021-2557291.jpg' alt='Kindle Paperwhite 2021 Signature Edition, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503'>Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-huawei-amazon-relojes-inteligentes-gps-oferta-81-euros-978503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-gt-2e-sport-2072241.jpg' alt='Chollo de Huawei en Amazon: uno de sus relojes inteligentes con GPS, en oferta por 81 euros' />
     </a>
 </div>
 
