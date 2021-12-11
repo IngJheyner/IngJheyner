@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hemos-probado-gpt-3-sabrias-diferenciar-hablas-ia-972595'>Hemos probado la GPT-3: ¿sabrías diferenciar si hablas con una IA?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hemos-probado-gpt-3-sabrias-diferenciar-hablas-ia-972595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hemos-probado-gpt-3-2546809.jpg' alt='Hemos probado la GPT-3: ¿sabrías diferenciar si hablas con una IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907'>El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/william-shatner-mitico-capitan-kirk-90-anos-ya-persona-anciana-viajar-espacio-2500599.jpg' alt='El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599'>Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-comprando-ikea-2557399.jpg' alt='Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705'>Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inaugura-estadio-60000-personas-mundial-catar-tienda-nomada-2557653.jpg' alt='Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada' />
     </a>
 </div>
 
