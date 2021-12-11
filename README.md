@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037'>La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326957.jpg' alt='La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023'>Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971'>Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-quiere-recuperarse-batacazo-cine-ultima-peli-superheroes-eternals-disney-plus-enero-978971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eternals-2511067.jpg' alt='Disney quiere recuperarse del batacazo en el cine de su última peli de superhéroes: Eternals en Disney Plus en enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967'>Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-almorzando-2557929.jpg' alt='Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU' />
     </a>
 </div>
 
