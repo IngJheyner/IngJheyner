@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599'>Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-comprando-ikea-2557399.jpg' alt='Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705'>Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada</a></h4>
     <a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inaugura-estadio-60000-personas-mundial-catar-tienda-nomada-2557653.jpg' alt='Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695'>Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-2557623.jpg' alt='Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679'>Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes' />
     </a>
 </div>
 
