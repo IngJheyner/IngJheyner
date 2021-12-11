@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779'>Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes</a></h4>
+    <a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irrigador-2453529.jpg' alt='Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419'>Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-s20-fe-2556885.jpg' alt='Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-trucos-caseros-mantener-portatil-gaming-fresquito-964933'>Los mejores trucos caseros para mantener tu portátil gaming fresquito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-trucos-caseros-mantener-portatil-gaming-fresquito-964933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/portatil-enfriamiento-2533393.jpg' alt='Los mejores trucos caseros para mantener tu portátil gaming fresquito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/acer-aspire-vero-review-opinion-978023'>Acer Aspire Vero, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/acer-aspire-vero-review-opinion-978023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-aspire-vero-analisis-opinion-2556353.jpg' alt='Acer Aspire Vero, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-navidad-disney-977843'>Películas Navidad 2021: estas son las mejores que puedes ver en Disney Plus</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-navidad-disney-977843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pesadilla-antes-navidad-2514455.jpg' alt='Películas Navidad 2021: estas son las mejores que puedes ver en Disney Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-mejores-aplicaciones-seguir-envio-paquetes-android-ios-969579'>Las 9 mejores aplicaciones para seguir envío de paquetes en Android y iOS</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/9-mejores-aplicaciones-seguir-envio-paquetes-android-ios-969579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repartidor-paquetes-domicilio-2315955.jpg' alt='Las 9 mejores aplicaciones para seguir envío de paquetes en Android y iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hemos-probado-gpt-3-sabrias-diferenciar-hablas-ia-972595'>Hemos probado la GPT-3: ¿sabrías diferenciar si hablas con una IA?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hemos-probado-gpt-3-sabrias-diferenciar-hablas-ia-972595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hemos-probado-gpt-3-2546809.jpg' alt='Hemos probado la GPT-3: ¿sabrías diferenciar si hablas con una IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907'>El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/william-shatner-mitico-capitan-kirk-90-anos-ya-persona-anciana-viajar-espacio-2500599.jpg' alt='El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video' />
     </a>
 </div>
 
