@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705'>Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inaugura-estadio-60000-personas-mundial-catar-tienda-nomada-2557653.jpg' alt='Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/regla-2-minutos-truco-limpieza-limpiar-casa-978703'>La Regla de los 2 minutos, el truco de limpieza genial para tener siempre limpia la casa sin esfuerzo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/regla-2-minutos-truco-limpieza-limpiar-casa-978703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regla-2-minutos-truco-limpieza-genial-tener-siempre-limpia-casa-esfuerzo-2557645.jpg' alt='La Regla de los 2 minutos, el truco de limpieza genial para tener siempre limpia la casa sin esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701'>Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-zelanda-van-prohibir-fumar-nacidos-despues-2008-2557643.jpg' alt='Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679'>Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-estaria-probando-nueva-caracteristica-mejoraria-forma-compartir-imagenes-978679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos estaría probando una nueva característica que mejoraría la forma de compartir imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677'>Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-978677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cancion-favorita-puede-hacer-encuentres-amor-nueva-funcion-tinder-2557577.jpg' alt='Tu canción favorita puede hacer que encuentres el amor, así es la nueva función de Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693'>Dale una nueva vida a tu viejo PC con este SSD de 240 GB de marca que solo cuesta 24 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-kingston-240-gb-descuento-978693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-nueva-vida-viejo-pc-ssd-240-gb-solo-cuesta-24-euros-2557619.jpg' alt='Dale una nueva vida a tu viejo PC con este SSD de 240 GB de marca que solo cuesta 24 euros' />
     </a>
 </div>
 
