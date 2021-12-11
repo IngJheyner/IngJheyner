@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945'>Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569'>Kindle Paperwhite 2021 Signature Edition, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/kindle-paperwhite-2021-signature-edition-review-opinion-978569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kindle-paperwhite-2021-2557291.jpg' alt='Kindle Paperwhite 2021 Signature Edition, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779'>Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes</a></h4>
     <a href='https://computerhoy.com/guia-compra/irrigador-bucal-922779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irrigador-2453529.jpg' alt='Qué es y para qué sirve un irrigador bucal: el gadget de moda para mantener la salud de tus dientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419'>Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-samsung-5g-snapdragon-865-perfecto-quieres-gama-alta-pagar-fortuna-978419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-s20-fe-2556885.jpg' alt='Este móvil Samsung con 5G y Snapdragon 865 es perfecto si quieres un gama alta sin pagar una fortuna' />
     </a>
 </div>
 
