@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907'>El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/documental-shatner-in-space-amazon-prime-video-978907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/william-shatner-mitico-capitan-kirk-90-anos-ya-persona-anciana-viajar-espacio-2500599.jpg' alt='El viaje del Capitán Kirk al espacio se estrena en forma de documental en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/te-da-miedo-mar-no-veas-espectacular-video-compara-profundidad-oceanica-todos-mares-978345'>Si te da miedo el mar, no veas este espectacular vídeo que compara la profundidad oceánica de todos los mares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-da-miedo-mar-no-veas-espectacular-video-compara-profundidad-oceanica-todos-mares-978345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/te-da-miedo-mar-no-veas-espectacular-video-compara-profundidad-oceanica-todos-mares-2556763.jpg' alt='Si te da miedo el mar, no veas este espectacular vídeo que compara la profundidad oceánica de todos los mares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-fundas-iphone-13-13-mini-13-pro-13-pro-max-977797'>Estas son las mejores fundas para el iPhone 13, 13 mini, 13 Pro, y 13 Pro Max</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-fundas-iphone-13-13-mini-13-pro-13-pro-max-977797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2555709.jpg' alt='Estas son las mejores fundas para el iPhone 13, 13 mini, 13 Pro, y 13 Pro Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599'>Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ikea-decathlon-piden-codigo-postal-peligroso-darlo-978599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-comprando-ikea-2557399.jpg' alt='Por qué IKEA o Decathlon piden el código postal: ¿es peligroso darlo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705'>Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada</a></h4>
     <a href='https://computerhoy.com/noticias/life/estadio-al-bayt-60000-personas-mundial-futbol-catar-tienda-nomada-978705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inaugura-estadio-60000-personas-mundial-catar-tienda-nomada-2557653.jpg' alt='Se inaugura el estadio de 60.000 personas del Mundial de Fútbol de Catar que es una tienda nómada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-2-minutos-truco-limpieza-limpiar-casa-978703'>La Regla de los 2 minutos, el truco de limpieza genial para tener siempre limpia la casa sin esfuerzo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-2-minutos-truco-limpieza-limpiar-casa-978703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regla-2-minutos-truco-limpieza-genial-tener-siempre-limpia-casa-esfuerzo-2557645.jpg' alt='La Regla de los 2 minutos, el truco de limpieza genial para tener siempre limpia la casa sin esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701'>Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-zelanda-prohibe-tabaco-nacidos-despues-2008-978701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nueva-zelanda-van-prohibir-fumar-nacidos-despues-2008-2557643.jpg' alt='Nueva Zelanda prohíbe el tabaco de por vida a los nacidos después de 2008' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695'>Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-978695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-disenos-supuestos-xiaomi-12-modulos-camara-serian-todo-menos-normales-2557623.jpg' alt='Se filtran los diseños de los supuestos Xiaomi 12 y los módulos de cámara serían de todo menos normales' />
     </a>
 </div>
 
