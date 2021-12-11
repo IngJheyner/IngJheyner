@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023'>Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/analisis-apple-watch-series-5_18.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979'>¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967'>Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberian-cobrarte-bar-restaurante-ocu-978967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pareja-almorzando-2557929.jpg' alt='Cosas que nunca deberían cobrarte en un bar o restaurante según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-10-euros-ganga-interesante-amazon-ahora-mismo-978961'>Un altavoz con Alexa por 10 euros: esta es la ganga más interesante de Amazon ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-10-euros-ganga-interesante-amazon-ahora-mismo-978961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/echo-flex-2159271.jpg' alt='Un altavoz con Alexa por 10 euros: esta es la ganga más interesante de Amazon ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945'>Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cambios-ley-trafico-dgt-suponen-multas-retirada-puntos-debes-memorizar-978945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='Cambios en la Ley de Tráfico de la DGT que suponen multas y retirada de puntos que debes memorizar' />
     </a>
 </div>
 
