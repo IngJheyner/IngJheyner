@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301'>Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg' alt='Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291'>Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ironcub-2558383.jpg' alt='Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687'>Huawei Freebuds Lipstick, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-huawei-lipstick-2557615.jpg' alt='Huawei Freebuds Lipstick, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259'>Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato' />
     </a>
 </div>
 
