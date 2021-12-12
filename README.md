@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269'>Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/creadores-contenido-facebook-2558367.jpg' alt='Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687'>Huawei Freebuds Lipstick, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-huawei-lipstick-2557615.jpg' alt='Huawei Freebuds Lipstick, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259'>Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527'>El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-instagram-tiktok-twitter-963023'>Cómo descargar vídeos de Instagram, TikTok y Twitter</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-instagram-tiktok-twitter-963023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/instagram-bloqueara-videos-tiktok-baja-calidad-reels-2227587.jpg' alt='Cómo descargar vídeos de Instagram, TikTok y Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541'>Philips OLED 806 de 55”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557141.jpg' alt='Philips OLED 806 de 55”, análisis y opinión' />
     </a>
 </div>
 
