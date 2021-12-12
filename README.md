@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031'>Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hotel-lujo-flotante-kempinski-2558037.jpg' alt='Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/forma-sencilla-instalar-apps-android-apk-windows-976695'>La forma más sencilla de instalar apps Android (APK) en Windows </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/forma-sencilla-instalar-apps-android-apk-windows-976695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='La forma más sencilla de instalar apps Android (APK) en Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/robots-aspiradores-cecotec-liquidacion-amazon-978563'>8 robots aspiradores Cecotec en liquidación en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/robots-aspiradores-cecotec-liquidacion-amazon-978563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='8 robots aspiradores Cecotec en liquidación en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327'>Por qué en Australia ponen carteles en la carretera para jugar al trivial</a></h4>
     <a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/australia-ponen-carteles-carretera-jugar-trivial-2554989.jpg' alt='Por qué en Australia ponen carteles en la carretera para jugar al trivial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551'>Mapas curiosos que te harán ver el mundo de una forma diferente</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mapas-curiosos-te-haran-ver-mundo-forma-diferente-2557177.jpg' alt='Mapas curiosos que te harán ver el mundo de una forma diferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037'>La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-6-oferta-menos-30-euros-envio-rapido-espana-979037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-mi-band-6-2326957.jpg' alt='La Xiaomi Mi Band 6 está en oferta por menos de 30 euros, y con envío rápido desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023'>Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-cuando-precalentar-freidora-aire-conseguir-resultado-crujiente-uniforme-979023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Cómo y cuándo precalentar una freidora de aire para conseguir un resultado crujiente y uniforme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/analisis-apple-watch-series-5_18.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
     </a>
 </div>
 
