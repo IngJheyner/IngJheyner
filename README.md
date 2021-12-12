@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291'>Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ironcub-2558383.jpg' alt='Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279'>Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-2273681.jpg' alt='Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259'>Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341'>6 webs con las que compartir archivos, sin registro, ni email, ni app</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/compartir-ficheros-ordenadores-2527917.jpg' alt='6 webs con las que compartir archivos, sin registro, ni email, ni app' />
     </a>
 </div>
 
