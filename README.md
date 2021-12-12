@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355'>El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845'>Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-conga-1090-1947453.jpg' alt='Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301'>Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg' alt='Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología' />
     </a>
 </div>
 
