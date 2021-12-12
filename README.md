@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337'>Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/jeff-bezos-convierte-astronauta-te-da-gracias-pagarle-viaje-espacio-exterior-2413185.jpg' alt='Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323'>Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia</a></h4>
     <a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-unidos-aprueba-venta-unas-gotas-permiten-ver-leer-cerca-usar-gafas-2558441.jpg' alt='Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291'>Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ironcub-2558383.jpg' alt='Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279'>Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-2273681.jpg' alt='Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta' />
     </a>
 </div>
 
