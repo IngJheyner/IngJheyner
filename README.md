@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341'>6 webs con las que compartir archivos, sin registro, ni email, ni app</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/compartir-ficheros-ordenadores-2527917.jpg' alt='6 webs con las que compartir archivos, sin registro, ni email, ni app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527'>El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-instagram-tiktok-twitter-963023'>Cómo descargar vídeos de Instagram, TikTok y Twitter</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-instagram-tiktok-twitter-963023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/instagram-bloqueara-videos-tiktok-baja-calidad-reels-2227587.jpg' alt='Cómo descargar vídeos de Instagram, TikTok y Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541'>Philips OLED 806 de 55”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557141.jpg' alt='Philips OLED 806 de 55”, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497'>Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-pequeno-2557003.jpg' alt='Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-paquete-amazon-alguien-saber-direccion-968945'>Cómo mandar un paquete de Amazon a alguien sin saber su dirección</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-paquete-amazon-alguien-saber-direccion-968945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/amazon-paquete-repartidor.jpg' alt='Cómo mandar un paquete de Amazon a alguien sin saber su dirección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-crean-robot-puede-ser-humanoide-incluso-coche-979029'>Ingenieros crean un robot que puede ser humanoide o incluso coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-crean-robot-puede-ser-humanoide-incluso-coche-979029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-anymal-2558031.jpg' alt='Ingenieros crean un robot que puede ser humanoide o incluso coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031'>Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hotel-lujo-flotante-kempinski-2558037.jpg' alt='Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua' />
     </a>
 </div>
 
