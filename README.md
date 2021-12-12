@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279'>Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-oneplus-9-tiene-250-euros-descuento-oferta-979279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-2273681.jpg' alt='Uno de los mejores móviles Android, el OnePlus 9, tiene 250 euros de descuento en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269'>Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/creadores-contenido-facebook-2558367.jpg' alt='Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341'>6 webs con las que compartir archivos, sin registro, ni email, ni app</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/compartir-ficheros-ordenadores-2527917.jpg' alt='6 webs con las que compartir archivos, sin registro, ni email, ni app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527'>El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-exclusiva-nintendo-switch-12-meses-switch-online-299eu-978527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='El regalo definitivo de Navidad es esta Nintendo Switch y todo un año de servicio online por menos de 300€' />
     </a>
 </div>
 
