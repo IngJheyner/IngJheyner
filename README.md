@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327'>Por qué en Australia ponen carteles en la carretera para jugar al trivial</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/australia-ponen-carteles-carretera-jugar-trivial-2554989.jpg' alt='Por qué en Australia ponen carteles en la carretera para jugar al trivial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551'>Mapas curiosos que te harán ver el mundo de una forma diferente</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mapas-curiosos-te-haran-ver-mundo-forma-diferente-2557177.jpg' alt='Mapas curiosos que te harán ver el mundo de una forma diferente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/analisis-apple-watch-series-5_18.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979'>¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-demasiado-tarde-comenzar-invertir-shiba-inu-978979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='¿Es ya demasiado tarde para comenzar a invertir en Shiba Inu?' />
     </a>
 </div>
 
