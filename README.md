@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal' />
     </a>
 </div>
 
