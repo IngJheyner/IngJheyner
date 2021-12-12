@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845'>Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-conga-1090-1947453.jpg' alt='Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301'>Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg' alt='Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269'>Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hablar-facebook-tiempo-real-cierran-cuenta-979269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/creadores-contenido-facebook-2558367.jpg' alt='Ahora podrás hablar con Facebook en tiempo real si cierran tu cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687'>Huawei Freebuds Lipstick, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-lipstick-review-opinion-978687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-huawei-lipstick-2557615.jpg' alt='Huawei Freebuds Lipstick, análisis y opinión' />
     </a>
 </div>
 
