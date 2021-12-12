@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259'>Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/probable-pronto-puedas-comprar-telefonos-plegables-precio-mucho-barato-979259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486997.jpg' alt='Es probable que pronto puedas comprar teléfonos plegables a un precio mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341'>6 webs con las que compartir archivos, sin registro, ni email, ni app</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-compartir-archivos-registro-ni-email-ni-app-962341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/compartir-ficheros-ordenadores-2527917.jpg' alt='6 webs con las que compartir archivos, sin registro, ni email, ni app' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541'>Philips OLED 806 de 55”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/philips-oled-806-55-analisis-opinion-978541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557141.jpg' alt='Philips OLED 806 de 55”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497'>Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-pequeno-2557003.jpg' alt='Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora' />
     </a>
 </div>
 
