@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado en diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337'>Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas</a></h4>
     <a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/jeff-bezos-convierte-astronauta-te-da-gracias-pagarle-viaje-espacio-exterior-2413185.jpg' alt='Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301'>Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/toda-memoria-chrome-puede-ahorrar-windows-nueva-tecnologia-979301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg' alt='Esta es toda la memoria que Chrome puede ahorrar en Windows con su nueva tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291'>Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/terrorifico-humanoide-podria-volar-alto-cielo-gracias-propulsores-979291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ironcub-2558383.jpg' alt='Este terrorífico humanoide podría volar hasta lo más alto del cielo gracias a su propulsores' />
     </a>
 </div>
 
