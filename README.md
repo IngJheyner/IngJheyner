@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497'>Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-cheques-tarjetas-regalo-978497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalo-pequeno-2557003.jpg' alt='Cheques y tarjetas regalo para Navidad que puedes comprar como regalo de última hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-paquete-amazon-alguien-saber-direccion-968945'>Cómo mandar un paquete de Amazon a alguien sin saber su dirección</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-paquete-amazon-alguien-saber-direccion-968945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/amazon-paquete-repartidor.jpg' alt='Cómo mandar un paquete de Amazon a alguien sin saber su dirección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-crean-robot-puede-ser-humanoide-incluso-coche-979029'>Ingenieros crean un robot que puede ser humanoide o incluso coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-crean-robot-puede-ser-humanoide-incluso-coche-979029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-anymal-2558031.jpg' alt='Ingenieros crean un robot que puede ser humanoide o incluso coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031'>Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-complejo-hotelero-quieren-construir-dubai-flota-agua-979031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hotel-lujo-flotante-kempinski-2558037.jpg' alt='Este es el nuevo complejo hotelero que quieren construir en Dubái, y flota sobre el agua' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/forma-sencilla-instalar-apps-android-apk-windows-976695'>La forma más sencilla de instalar apps Android (APK) en Windows </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/forma-sencilla-instalar-apps-android-apk-windows-976695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-portatil-hp-windows-11-2498177.jpg' alt='La forma más sencilla de instalar apps Android (APK) en Windows ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/robots-aspiradores-cecotec-liquidacion-amazon-978563'>8 robots aspiradores Cecotec en liquidación en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/robots-aspiradores-cecotec-liquidacion-amazon-978563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='8 robots aspiradores Cecotec en liquidación en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327'>Por qué en Australia ponen carteles en la carretera para jugar al trivial</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/australia-carteles-carretera-jugar-trivial-977327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/australia-ponen-carteles-carretera-jugar-trivial-2554989.jpg' alt='Por qué en Australia ponen carteles en la carretera para jugar al trivial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551'>Mapas curiosos que te harán ver el mundo de una forma diferente</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mapas-curiosos-978551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mapas-curiosos-te-haran-ver-mundo-forma-diferente-2557177.jpg' alt='Mapas curiosos que te harán ver el mundo de una forma diferente' />
     </a>
 </div>
 
