@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/toyota-empezara-cobrar-suscripcion-llavero-arranque-remoto-otros-servicios-979563'>Toyota empezará a cobrar una suscripción por su llavero de arranque remoto y otros servicios</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/toyota-empezara-cobrar-suscripcion-llavero-arranque-remoto-otros-servicios-979563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/llave-toyota-2558837.jpg' alt='Toyota empezará a cobrar una suscripción por su llavero de arranque remoto y otros servicios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/motor/11-patinetes-electricos-regalar-navidad-algunos-cuestan-menos-300-euros-979331'>11 patinetes eléctricos para regalar esta Navidad (y algunos cuestan menos de 300 euros)</a></h4>
+    <a href='https://computerhoy.com/listas/motor/11-patinetes-electricos-regalar-navidad-algunos-cuestan-menos-300-euros-979331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2558447.jpg' alt='11 patinetes eléctricos para regalar esta Navidad (y algunos cuestan menos de 300 euros)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ha-llegado-momento-cinefilos-979329'>Todos los estrenos de la semana en Netflix: ha llegado el momento de los cinéfilos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ha-llegado-momento-cinefilos-979329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fue-mano-dios-2558823.jpg' alt='Todos los estrenos de la semana en Netflix: ha llegado el momento de los cinéfilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491'>Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja</a></h4>
     <a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dormir-pareja-2556965.jpg' alt='Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441'>Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/venga-juan-2556901.jpg' alt='Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/7-coches-hibridos-llegan-2022-no-deberias-perderte-978485'>7 coches híbridos que llegan en 2022 y no deberías perderte</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/7-coches-hibridos-llegan-2022-no-deberias-perderte-978485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-civic-hibrido-2552025.jpg' alt='7 coches híbridos que llegan en 2022 y no deberías perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2558601.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243'>Estos son los mejores reproductores MP3 para hacer natación</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nadador-punto-entrar-piscina-2558357.jpg' alt='Estos son los mejores reproductores MP3 para hacer natación' />
     </a>
 </div>
 
