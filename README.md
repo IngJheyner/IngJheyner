@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979'>La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977'>Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/convierte-vieja-tele-smart-tv-android-10-solo-26-euros-2559611.jpg' alt='Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973'>Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero</a></h4>
     <a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/goggo-presenta-robot-autonomo-repartidor-glovo-camion-comida-autonomo-recorreran-madrid-enero-2559589.jpg' alt='Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959'>La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam' />
     </a>
 </div>
 
