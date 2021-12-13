@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325'>Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-guarda-roca-durante-anos-creyendo-era-oro-pero-resulto-ser-mucho-valiosa-2554985.jpg' alt='Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355'>El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323'>Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia</a></h4>
     <a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-unidos-aprueba-venta-unas-gotas-permiten-ver-leer-cerca-usar-gafas-2558441.jpg' alt='Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845'>Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alexa-limpiar-robot-solo-134-euros-encarga-aspirar-te-muevas-sofa-977845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-conga-1090-1947453.jpg' alt='Alexa, a limpiar: este robot de solo 134 euros se encarga de aspirar sin que te muevas del sofá' />
     </a>
 </div>
 
