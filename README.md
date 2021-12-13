@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919'>Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-2559447.jpg' alt='Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915'>OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oneplus-nord-ce-5g-analisis-opinion-2371261.jpg' alt='OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777'>Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ine-nombres-2559115.jpg' alt='Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cabify-suscripcion-mensual-como-netflix-usar-patinetes-motos-coches-979855'>Cabify y su suscripción mensual como Netflix para usar patinetes, motos y coches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cabify-suscripcion-mensual-como-netflix-usar-patinetes-motos-coches-979855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/cabify-1913445.jpg' alt='Cabify y su suscripción mensual como Netflix para usar patinetes, motos y coches' />
     </a>
 </div>
 
