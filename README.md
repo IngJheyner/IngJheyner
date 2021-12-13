@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aparentemente-consiguen-curar-hombre-diabetes-tipo-1-gracias-nueva-terapia-979673'>Aparentemente consiguen curar a un hombre con diabetes tipo 1 gracias a una nueva terapia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aparentemente-consiguen-curar-hombre-diabetes-tipo-1-gracias-nueva-terapia-979673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2558939.jpg' alt='Aparentemente consiguen curar a un hombre con diabetes tipo 1 gracias a una nueva terapia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657'>Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829'>Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-robot-vacuum-mop-pro-2555811.jpg' alt='Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587'>No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-india-2558875.jpg' alt='No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado' />
     </a>
 </div>
 
