@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toyota-empezara-cobrar-suscripcion-llavero-arranque-remoto-otros-servicios-979563'>Toyota empezará a cobrar una suscripción por su llavero de arranque remoto y otros servicios</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toyota-empezara-cobrar-suscripcion-llavero-arranque-remoto-otros-servicios-979563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/llave-toyota-2558837.jpg' alt='Toyota empezará a cobrar una suscripción por su llavero de arranque remoto y otros servicios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829'>Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-robot-vacuum-mop-pro-2555811.jpg' alt='Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/11-patinetes-electricos-regalar-navidad-algunos-cuestan-menos-300-euros-979331'>11 patinetes eléctricos para regalar esta Navidad (y algunos cuestan menos de 300 euros)</a></h4>
-    <a href='https://computerhoy.com/listas/motor/11-patinetes-electricos-regalar-navidad-algunos-cuestan-menos-300-euros-979331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2558447.jpg' alt='11 patinetes eléctricos para regalar esta Navidad (y algunos cuestan menos de 300 euros)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587'>No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-india-2558875.jpg' alt='No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ha-llegado-momento-cinefilos-979329'>Todos los estrenos de la semana en Netflix: ha llegado el momento de los cinéfilos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ha-llegado-momento-cinefilos-979329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fue-mano-dios-2558823.jpg' alt='Todos los estrenos de la semana en Netflix: ha llegado el momento de los cinéfilos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ha-rebajado-100eu-movil-huawei-nova-9-978939'>Huawei ha rebajado 100€ este móvil Huawei nova 9 con cámara de 50 MP y te llegará antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ha-rebajado-100eu-movil-huawei-nova-9-978939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-huawei-nova-9-2542819.jpg' alt='Huawei ha rebajado 100€ este móvil Huawei nova 9 con cámara de 50 MP y te llegará antes de Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491'>Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dormir-pareja-2556965.jpg' alt='Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieren-acabar-tarjeta-embarque-aeropuertos-todo-funcionara-mediante-reconocimiento-facial-979585'>Quieren acabar con la tarjeta de embarque en los aeropuertos: todo funcionará mediante reconocimiento facial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieren-acabar-tarjeta-embarque-aeropuertos-todo-funcionara-mediante-reconocimiento-facial-979585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reconocimiento-facial-aeropuerto-2558879.jpg' alt='Quieren acabar con la tarjeta de embarque en los aeropuertos: todo funcionará mediante reconocimiento facial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441'>Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/venga-juan-2556901.jpg' alt='Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-xiaomi-permitira-smartphones-tengan-autonomia-979581'>Esta nueva tecnología de Xiaomi permitirá que nuestros smartphones tengan más autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-xiaomi-permitira-smartphones-tengan-autonomia-979581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/todo-comenzo-baterias-litio-smartphones-2432863.jpg' alt='Esta nueva tecnología de Xiaomi permitirá que nuestros smartphones tengan más autonomía' />
     </a>
 </div>
 
