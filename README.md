@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aparentemente-consiguen-curar-hombre-diabetes-tipo-1-gracias-nueva-terapia-979673'>Aparentemente consiguen curar a un hombre con diabetes tipo 1 gracias a una nueva terapia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aparentemente-consiguen-curar-hombre-diabetes-tipo-1-gracias-nueva-terapia-979673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2558939.jpg' alt='Aparentemente consiguen curar a un hombre con diabetes tipo 1 gracias a una nueva terapia' />
+    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759'>¿Te pueden multar por llevar el coche demasiado sucio?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/coche-sucio.jpg' alt='¿Te pueden multar por llevar el coche demasiado sucio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657'>Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente' />
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727'>Estas son las criptomonedas que más alegrías han dado a los inversores en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Estas son las criptomonedas que más alegrías han dado a los inversores en 2021' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/revisa-tienes-casa-retiran-tiendas-popular-especia-alergeno-declarar-979677'>Revisa si la tienes en casa: retiran de las tiendas una popular especia por un alérgeno sin declarar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/revisa-tienes-casa-retiran-tiendas-popular-especia-alergeno-declarar-979677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comino-2558949.jpg' alt='Revisa si la tienes en casa: retiran de las tiendas una popular especia por un alérgeno sin declarar' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/toque-luz-navidad-aldi-ha-empezado-vender-unas-medias-brillan-979613'>Con un toque de luz para Navidad: Aldi ha empezado a vender unas medias que brillan</a></h4>
-    <a href='https://computerhoy.com/noticias/life/toque-luz-navidad-aldi-ha-empezado-vender-unas-medias-brillan-979613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/piernas-medias-2558927.jpg' alt='Con un toque de luz para Navidad: Aldi ha empezado a vender unas medias que brillan' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353'>Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-cecofry-essential-rapid-2558529.jpg' alt='Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829'>Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-robot-vacuum-mop-pro-2555811.jpg' alt='Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-saco-dormir-nasa-podria-evitar-perdida-vista-astronautas-979725'>Este nuevo saco de dormir de la NASA podría evitar la pérdida de vista en los astronautas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-saco-dormir-nasa-podria-evitar-perdida-vista-astronautas-979725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/saco-nasa-2559047.jpg' alt='Este nuevo saco de dormir de la NASA podría evitar la pérdida de vista en los astronautas' />
     </a>
 </div>
 
