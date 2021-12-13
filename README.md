@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/carrefour-realiza-importante-cambio-yogures-podria-imitar-mercadona-otros-supermercados-979767'>Carrefour realiza un importante cambio en sus yogures que podría imitar Mercadona y otros supermercados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/carrefour-realiza-importante-cambio-yogures-podria-imitar-mercadona-otros-supermercados-979767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/yogur-1867305.jpg' alt='Carrefour realiza un importante cambio en sus yogures que podría imitar Mercadona y otros supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/exclusiva-moneda-oro-15-euros-sera-acunada-espana-979803'>La exclusiva moneda de oro de 1,5 euros que será acuñada en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/exclusiva-moneda-oro-15-euros-sera-acunada-espana-979803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moneda-oro-2559281.jpg' alt='La exclusiva moneda de oro de 1,5 euros que será acuñada en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781'>Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727'>Estas son las criptomonedas que más alegrías han dado a los inversores en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Estas son las criptomonedas que más alegrías han dado a los inversores en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353'>Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-cecofry-essential-rapid-2558529.jpg' alt='Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda' />
     </a>
 </div>
 
