@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/carrefour-realiza-importante-cambio-yogures-podria-imitar-mercadona-otros-supermercados-979767'>Carrefour realiza un importante cambio en sus yogures que podría imitar Mercadona y otros supermercados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/carrefour-realiza-importante-cambio-yogures-podria-imitar-mercadona-otros-supermercados-979767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/yogur-1867305.jpg' alt='Carrefour realiza un importante cambio en sus yogures que podría imitar Mercadona y otros supermercados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915'>OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oneplus-nord-ce-5g-analisis-opinion-2371261.jpg' alt='OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/exclusiva-moneda-oro-15-euros-sera-acunada-espana-979803'>La exclusiva moneda de oro de 1,5 euros que será acuñada en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/exclusiva-moneda-oro-15-euros-sera-acunada-espana-979803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moneda-oro-2559281.jpg' alt='La exclusiva moneda de oro de 1,5 euros que será acuñada en España' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/otra-victoria-elon-musk-persona-ano-revista-time-979891'>Otra victoria de Elon Musk: persona del año según la revista Time</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/otra-victoria-elon-musk-persona-ano-revista-time-979891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Otra victoria de Elon Musk: persona del año según la revista Time' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781'>Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889'>Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/friends-1874651.jpg' alt='Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759'>¿Te pueden multar por llevar el coche demasiado sucio?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/coche-sucio.jpg' alt='¿Te pueden multar por llevar el coche demasiado sucio?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777'>Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ine-nombres-2559115.jpg' alt='Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727'>Estas son las criptomonedas que más alegrías han dado a los inversores en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-criptomonedas-alegrias-han-dado-inversores-2021-979727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Estas son las criptomonedas que más alegrías han dado a los inversores en 2021' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cabify-suscripcion-mensual-como-netflix-usar-patinetes-motos-coches-979855'>Cabify y su suscripción mensual como Netflix para usar patinetes, motos y coches</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cabify-suscripcion-mensual-como-netflix-usar-patinetes-motos-coches-979855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/cabify-1913445.jpg' alt='Cabify y su suscripción mensual como Netflix para usar patinetes, motos y coches' />
     </a>
 </div>
 
