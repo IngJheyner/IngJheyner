@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661'>Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919'>Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-2559447.jpg' alt='Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889'>Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/friends-1874651.jpg' alt='Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777'>Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubre-cuantas-personas-compartes-nombre-cual-media-edad-llaman-como-979777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ine-nombres-2559115.jpg' alt='Descubre con cuántas personas compartes nombre y cuál es la media de edad de los que se llaman como tú' />
     </a>
 </div>
 
