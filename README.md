@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2558601.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243'>Estos son los mejores reproductores MP3 para hacer natación</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nadador-punto-entrar-piscina-2558357.jpg' alt='Estos son los mejores reproductores MP3 para hacer natación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325'>Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa</a></h4>
     <a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-guarda-roca-durante-anos-creyendo-era-oro-pero-resulto-ser-mucho-valiosa-2554985.jpg' alt='Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337'>Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jeff-bezos-oficialmente-astronauta-979337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/jeff-bezos-convierte-astronauta-te-da-gracias-pagarle-viaje-espacio-exterior-2413185.jpg' alt='Jeff Bezos ya es oficialmente un astronauta, pero será el último en recibir las alas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323'>Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia</a></h4>
-    <a href='https://computerhoy.com/noticias/gotas-vuity-ojos-presbicia-vista-cansada-sin-gafas-979323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-unidos-aprueba-venta-unas-gotas-permiten-ver-leer-cerca-usar-gafas-2558441.jpg' alt='Ya están a la venta unas gotas que permiten leer de cerca sin usar gafas, si tienes presbicia' />
     </a>
 </div>
 
