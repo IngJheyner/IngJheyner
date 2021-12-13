@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977'>Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/convierte-vieja-tele-smart-tv-android-10-solo-26-euros-2559611.jpg' alt='Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-encontrar-airtag-cercanos-android-gracias-aplicacion-acaba-lanzar-apple-979975'>Ahora podrás encontrar AirTag cercanos en Android gracias a la aplicación que acaba de lanzar Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-encontrar-airtag-cercanos-android-gracias-aplicacion-acaba-lanzar-apple-979975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Ahora podrás encontrar AirTag cercanos en Android gracias a la aplicación que acaba de lanzar Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961'>Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-2559591.jpg' alt='Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959'>La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719'>Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/shang-chi-leyenda-diez-anillos-simu-liu-2457421.jpg' alt='Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897'>Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-2559579.jpg' alt='Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold' />
     </a>
 </div>
 
