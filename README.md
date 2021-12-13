@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657'>Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/placa-base-tiene-pantalla-tan-grande-como-iphone-puedas-navegar-bios-comodamente-979657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Esta placa base tiene un pantalla tan grande como un iPhone para que puedas navegar por la BIOS cómodamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/revisa-tienes-casa-retiran-tiendas-popular-especia-alergeno-declarar-979677'>Revisa si la tienes en casa: retiran de las tiendas una popular especia por un alérgeno sin declarar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/revisa-tienes-casa-retiran-tiendas-popular-especia-alergeno-declarar-979677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comino-2558949.jpg' alt='Revisa si la tienes en casa: retiran de las tiendas una popular especia por un alérgeno sin declarar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/toque-luz-navidad-aldi-ha-empezado-vender-unas-medias-brillan-979613'>Con un toque de luz para Navidad: Aldi ha empezado a vender unas medias que brillan</a></h4>
+    <a href='https://computerhoy.com/noticias/life/toque-luz-navidad-aldi-ha-empezado-vender-unas-medias-brillan-979613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/piernas-medias-2558927.jpg' alt='Con un toque de luz para Navidad: Aldi ha empezado a vender unas medias que brillan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829'>Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quieres-olvides-escoba-fregona-robot-aspirador-mopa-menos-300-euros-977829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-robot-vacuum-mop-pro-2555811.jpg' alt='Xiaomi quieres que olvides la escoba y la fregona con este robot aspirador con mopa, y por menos de 300 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587'>No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-india-no-ha-aprobado-bitcoin-como-moneda-legal-ha-pasado-979587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-india-2558875.jpg' alt='No, la India no ha aprobado el bitcoin como moneda legal: esto ha pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ha-rebajado-100eu-movil-huawei-nova-9-978939'>Huawei ha rebajado 100€ este móvil Huawei nova 9 con cámara de 50 MP y te llegará antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ha-rebajado-100eu-movil-huawei-nova-9-978939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-huawei-nova-9-2542819.jpg' alt='Huawei ha rebajado 100€ este móvil Huawei nova 9 con cámara de 50 MP y te llegará antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieren-acabar-tarjeta-embarque-aeropuertos-todo-funcionara-mediante-reconocimiento-facial-979585'>Quieren acabar con la tarjeta de embarque en los aeropuertos: todo funcionará mediante reconocimiento facial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieren-acabar-tarjeta-embarque-aeropuertos-todo-funcionara-mediante-reconocimiento-facial-979585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reconocimiento-facial-aeropuerto-2558879.jpg' alt='Quieren acabar con la tarjeta de embarque en los aeropuertos: todo funcionará mediante reconocimiento facial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-xiaomi-permitira-smartphones-tengan-autonomia-979581'>Esta nueva tecnología de Xiaomi permitirá que nuestros smartphones tengan más autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-xiaomi-permitira-smartphones-tengan-autonomia-979581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/todo-comenzo-baterias-litio-smartphones-2432863.jpg' alt='Esta nueva tecnología de Xiaomi permitirá que nuestros smartphones tengan más autonomía' />
     </a>
 </div>
 
