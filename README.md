@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719'>Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/shang-chi-leyenda-diez-anillos-simu-liu-2457421.jpg' alt='Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897'>Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-2559579.jpg' alt='Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-ya-no-podras-espiar-contacto-whatsapp-no-conectado-979967'>Se acabó, ya no podrás espiar si un contacto de WhatsApp está o no conectado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabo-ya-no-podras-espiar-contacto-whatsapp-no-conectado-979967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Se acabó, ya no podrás espiar si un contacto de WhatsApp está o no conectado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ni-oro-ni-acciones-ni-bitcoin-estudio-demuestra-invertir-estos-juguetes-puede-ser-rentable-979965'>Ni oro, ni acciones ni Bitcoin, un estudio demuestra que invertir en estos juguetes puede ser más rentable</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ni-oro-ni-acciones-ni-bitcoin-estudio-demuestra-invertir-estos-juguetes-puede-ser-rentable-979965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juguetes-lego-2559577.jpg' alt='Ni oro, ni acciones ni Bitcoin, un estudio demuestra que invertir en estos juguetes puede ser más rentable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717'>Este es el BMW eléctrico más rápido que existe</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-bmw-i4-m50-tg-2498577.jpg' alt='Este es el BMW eléctrico más rápido que existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-vivo-v23-pro-estaria-mucho-cerca-esperado-979895'>El lanzamiento del Vivo V23 Pro estaría mucho más cerca de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-vivo-v23-pro-estaria-mucho-cerca-esperado-979895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-v21-5g-analisis-opinion-2467121.jpg' alt='El lanzamiento del Vivo V23 Pro estaría mucho más cerca de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661'>Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919'>Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-ultra-fastuoso-diseno-trasera-posible-acuerdo-leica-979919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-2559447.jpg' alt='Xiaomi 12 Ultra y su fastuoso diseño de la trasera y un posible acuerdo con Leica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915'>OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oneplus-nord-ce-5g-analisis-opinion-2371261.jpg' alt='OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900' />
     </a>
 </div>
 
