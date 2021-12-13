@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961'>Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-2559591.jpg' alt='Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973'>Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/goggo-presenta-robot-autonomo-repartidor-glovo-camion-comida-autonomo-recorreran-madrid-enero-2559589.jpg' alt='Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959'>La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegada-oxygenos-12-oneplus-9-9-pro-mala-noticia-amantes-gcam-979959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2280045.jpg' alt='La llegada de OxygenOS 12 a los OnePlus 9 y 9 Pro es una mala noticia para los amantes de la GCam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719'>Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/shang-chi-tendra-secuela-serie-disney-ya-conoce-director-979719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/shang-chi-leyenda-diez-anillos-simu-liu-2457421.jpg' alt='Shang-Chi tendrá secuela y serie en Disney+ y ya se conoce el director' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897'>Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-979897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-sumaria-samsung-lanzaria-propio-plegable-honor-magic-fold-2559579.jpg' alt='Honor se sumaría a Samsung y lanzaría su propio plegable, el Honor Magic Fold' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-ya-no-podras-espiar-contacto-whatsapp-no-conectado-979967'>Se acabó, ya no podrás espiar si un contacto de WhatsApp está o no conectado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acabo-ya-no-podras-espiar-contacto-whatsapp-no-conectado-979967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2510615.jpg' alt='Se acabó, ya no podrás espiar si un contacto de WhatsApp está o no conectado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ni-oro-ni-acciones-ni-bitcoin-estudio-demuestra-invertir-estos-juguetes-puede-ser-rentable-979965'>Ni oro, ni acciones ni Bitcoin, un estudio demuestra que invertir en estos juguetes puede ser más rentable</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ni-oro-ni-acciones-ni-bitcoin-estudio-demuestra-invertir-estos-juguetes-puede-ser-rentable-979965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juguetes-lego-2559577.jpg' alt='Ni oro, ni acciones ni Bitcoin, un estudio demuestra que invertir en estos juguetes puede ser más rentable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717'>Este es el BMW eléctrico más rápido que existe</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-bmw-i4-m50-tg-2498577.jpg' alt='Este es el BMW eléctrico más rápido que existe' />
     </a>
 </div>
 
