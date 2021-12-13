@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717'>Este es el BMW eléctrico más rápido que existe</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-electrico-rapido-existe-979717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-bmw-i4-m50-tg-2498577.jpg' alt='Este es el BMW eléctrico más rápido que existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-vivo-v23-pro-estaria-mucho-cerca-esperado-979895'>El lanzamiento del Vivo V23 Pro estaría mucho más cerca de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-vivo-v23-pro-estaria-mucho-cerca-esperado-979895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-v21-5g-analisis-opinion-2467121.jpg' alt='El lanzamiento del Vivo V23 Pro estaría mucho más cerca de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661'>Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquida-moviles-oneplus-ofertas-navidad-979661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Amazon liquida todos los móviles OnePlus desde 280€ y llegarán antes de Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915'>OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-gama-media-premium-carga-rapida-65w-chip-dimmensity-900-979915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oneplus-nord-ce-5g-analisis-opinion-2371261.jpg' alt='OnePlus Nord 2 CE, gama media premium con carga rápida de 65W y chip Dimmensity 900' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/otra-victoria-elon-musk-persona-ano-revista-time-979891'>Otra victoria de Elon Musk: persona del año según la revista Time</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/otra-victoria-elon-musk-persona-ano-revista-time-979891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Otra victoria de Elon Musk: persona del año según la revista Time' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889'>Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/descubren-curioso-error-continuidad-friends-27-anos-despues-estreno-episodio-979889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/friends-1874651.jpg' alt='Descubren un curioso error de continuidad en Friends 27 años después del estreno del episodio' />
     </a>
 </div>
 
