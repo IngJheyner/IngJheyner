@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781'>Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-musica-podcast-populares-mundo-ya-compatible-android-auto-979781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Una de las apps de música y podcast más populares del mundo ya es compatible con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759'>¿Te pueden multar por llevar el coche demasiado sucio?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-llevar-coche-demasiado-sucio-979759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/coche-sucio.jpg' alt='¿Te pueden multar por llevar el coche demasiado sucio?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353'>Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-menos-50-euros-marca-espanola-nuevo-producto-moda-979353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-cecofry-essential-rapid-2558529.jpg' alt='Una freidora sin aceite por menos de 50 euros, y de una marca española: así es el nuevo producto de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-saco-dormir-nasa-podria-evitar-perdida-vista-astronautas-979725'>Este nuevo saco de dormir de la NASA podría evitar la pérdida de vista en los astronautas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-saco-dormir-nasa-podria-evitar-perdida-vista-astronautas-979725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/saco-nasa-2559047.jpg' alt='Este nuevo saco de dormir de la NASA podría evitar la pérdida de vista en los astronautas' />
     </a>
 </div>
 
