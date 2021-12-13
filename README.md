@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491'>Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dormir-camas-cuartos-separados-puede-ser-beneficioso-salud-pareja-978491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dormir-pareja-2556965.jpg' alt='Por qué dormir en camas o cuartos separados puede ser beneficioso para la salud de la pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441'>Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-hablan-succession-pero-hay-serie-espanola-triunfa-hbo-max-978441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/venga-juan-2556901.jpg' alt='Todos hablan de Succession, pero hay una serie española que triunfa en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/7-coches-hibridos-llegan-2022-no-deberias-perderte-978485'>7 coches híbridos que llegan en 2022 y no deberías perderte</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/7-coches-hibridos-llegan-2022-no-deberias-perderte-978485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-civic-hibrido-2552025.jpg' alt='7 coches híbridos que llegan en 2022 y no deberías perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-979367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2558601.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243'>Estos son los mejores reproductores MP3 para hacer natación</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-natacion-979243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nadador-punto-entrar-piscina-2558357.jpg' alt='Estos son los mejores reproductores MP3 para hacer natación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325'>Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hombre-guarda-roca--oro-meteorito-977325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-guarda-roca-durante-anos-creyendo-era-oro-pero-resulto-ser-mucho-valiosa-2554985.jpg' alt='Un hombre guarda una roca durante años creyendo que era de oro, pero resultó ser mucho más valiosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355'>El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-ne-8-gb-ram-descuento-979355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='El nuevo Xiaomi 11 Lite 5G NE con 8 GB de RAM, para quienes prefieren los móviles ligeros, con 92 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351'>Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seis-fallecidos-60-desaparecidos-derrumbe-almacen-amazon-tornado-979351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/seis-fallecidos-derrumbarse-almacen-amazon-inusual-tornado-diciembre-2558495.jpg' alt='Seis fallecidos y 60 desaparecidos tras derrumbarse un almacén de Amazon por un inusual tornado invernal' />
     </a>
 </div>
 
