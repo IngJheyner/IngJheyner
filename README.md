@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371'>Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-spartacus-arma-secreta-sony-ganar-generacion-ps5-980287'>Qué es PlayStation Spartacus: el arma secreta de Sony para ganar la generación con PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/playstation-spartacus-arma-secreta-sony-ganar-generacion-ps5-980287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140441.jpg' alt='Qué es PlayStation Spartacus: el arma secreta de Sony para ganar la generación con PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-lidl-vuelven-menos-20-euros-son-regalo-perfecto-navidad-980363'>Los AirPods de Lidl vuelven y por menos de 20 euros son un regalo perfecto para esta Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-lidl-vuelven-menos-20-euros-son-regalo-perfecto-navidad-980363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-silvercrest-2560049.jpg' alt='Los AirPods de Lidl vuelven y por menos de 20 euros son un regalo perfecto para esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355'>MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-marisilicon-x-2560039.jpg' alt='MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343'>Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-air-glass-2560007.jpg' alt='Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-precio-black-friday-supera-muchos-xiaomi-potencia-980357'>Este móvil de realme está a precio de Black Friday y supera a muchos Xiaomi en potencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-precio-black-friday-supera-muchos-xiaomi-potencia-980357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-realme-8i-2524649.jpg' alt='Este móvil de realme está a precio de Black Friday y supera a muchos Xiaomi en potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/radares-vacios-dgt-cuantos-hay-posible-identificarlos-980289'>Radares vacíos de la DGT: ¿Cuántos hay? ¿Es posible identificarlos?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/radares-vacios-dgt-cuantos-hay-posible-identificarlos-980289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/radar-fijo-1873465.jpg' alt='Radares vacíos de la DGT: ¿Cuántos hay? ¿Es posible identificarlos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/trust-presenta-nueva-webcam-tw-350-resolucion-4k-colores-vibrantes-profesionales-980339'>Trust presenta su nueva webcam TW-350: resolución 4K y colores vibrantes para profesionales</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/trust-presenta-nueva-webcam-tw-350-resolucion-4k-colores-vibrantes-profesionales-980339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trust-tw-350-2559097.jpg' alt='Trust presenta su nueva webcam TW-350: resolución 4K y colores vibrantes para profesionales' />
     </a>
 </div>
 
