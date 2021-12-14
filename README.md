@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499'>Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-rebajado-precio-amazon-baja-solo-269-euros-llega-antes-navidad-979925'>El Apple Watch SE está rebajado de precio en Amazon: baja a solo 269 euros y llega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-rebajado-precio-amazon-baja-solo-269-euros-llega-antes-navidad-979925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='El Apple Watch SE está rebajado de precio en Amazon: baja a solo 269 euros y llega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-retrasa-lanzamiento-todas-nuevas-graficas-menos-joya-corona-anunciara-muy-pronto-980495'>NVIDIA retrasa el lanzamiento de todas su nuevas gráficas menos una: la joya de la corona se anunciará muy pronto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-retrasa-lanzamiento-todas-nuevas-graficas-menos-joya-corona-anunciara-muy-pronto-980495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='NVIDIA retrasa el lanzamiento de todas su nuevas gráficas menos una: la joya de la corona se anunciará muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453'>Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mascarilla-ffp2-2275011.jpg' alt='Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419'>Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/enhorabuena-futboleros-laliga-podra-ver-nuevo-internet-intermediarios-980455'>Enhorabuena a los futboleros, LaLiga se podrá ver de nuevo por internet sin intermediarios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/enhorabuena-futboleros-laliga-podra-ver-nuevo-internet-intermediarios-980455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/peliculas-futbol-1893969.jpg' alt='Enhorabuena a los futboleros, LaLiga se podrá ver de nuevo por internet sin intermediarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-va-permitir-administradores-borrar-mensajes-todos-grupo-980451'>WhatsApp va a permitir a administradores borrar mensajes para todos en un grupo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-va-permitir-administradores-borrar-mensajes-todos-grupo-980451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2560287.jpg' alt='WhatsApp va a permitir a administradores borrar mensajes para todos en un grupo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417'>El iPhone plegable de Apple no saldría a la venta hasta 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg' alt='El iPhone plegable de Apple no saldría a la venta hasta 2023' />
     </a>
 </div>
 
