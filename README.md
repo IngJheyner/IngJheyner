@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547'>Google consigue lo imposible: superar a Mercadona en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cliente-entra-supermercado-mercadona-2555515.jpg' alt='Google consigue lo imposible: superar a Mercadona en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383'>12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/smart-tv-pequena-salon-2362359.jpg' alt='12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515'>Las 4 mejores Apps para pagar con criptomonedas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515'>Las 4 mejores apps para pagar con criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mastercard-bitcoin-2229107.jpg' alt='Las 4 mejores Apps para pagar con criptomonedas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mastercard-bitcoin-2229107.jpg' alt='Las 4 mejores apps para pagar con criptomonedas' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-premium-2560481.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507'>El novedoso método de la ESA con el que limpiar la basura espacial en órbita</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='El novedoso método de la ESA con el que limpiar la basura espacial en órbita' />
     </a>
 </div>
 
