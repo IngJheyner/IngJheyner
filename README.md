@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-espera-implantar-chips-cerebrales-neuralink-humanos-proximo-ano-979733'>Elon Musk espera implantar sus chips cerebrales de Neuralink en humanos el próximo año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-espera-implantar-chips-cerebrales-neuralink-humanos-proximo-ano-979733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/neuralink-2219269.jpg' alt='Elon Musk espera implantar sus chips cerebrales de Neuralink en humanos el próximo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temen-efectos-secundarios-tercera-dosis-vacuna-coronavirus-pero-cuales-son-979551'>Qué efectos secundarios tiene la tercera dosis de la vacuna contra el coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temen-efectos-secundarios-tercera-dosis-vacuna-coronavirus-pero-cuales-son-979551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg' alt='Qué efectos secundarios tiene la tercera dosis de la vacuna contra el coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-sobreviviria-apocalipsis-subasta-979721'>El coche que sobreviviría al apocalipsis está en subasta</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-sobreviviria-apocalipsis-subasta-979721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gurkha-subasta-2554185.jpg' alt='El coche que sobreviviría al apocalipsis está en subasta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2559851.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203'>Ya están aquí los Holoportales, y son espectaculares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-holoportales-son-espectaculares-2559847.jpg' alt='Ya están aquí los Holoportales, y son espectaculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-casas-perros-gatos-otras-mascotas-979775'>Mejores robots aspiradores para casas con perros, gatos y otras mascotas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-casas-perros-gatos-otras-mascotas-979775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/robot-aspirador-roborock-2377525.jpg' alt='Mejores robots aspiradores para casas con perros, gatos y otras mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981'>El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-tiktok-dejar-suelo-limpio-nunca-esfuerzo-2559631.jpg' alt='El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979'>La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores' />
     </a>
 </div>
 
