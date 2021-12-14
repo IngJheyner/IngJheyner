@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-presentado-televisor-baterias-puedes-mover-toda-casa-stanbyme-980253'>LG ha presentado un televisor con baterías que puedes mover por toda la casa: StanbyME</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-presentado-televisor-baterias-puedes-mover-toda-casa-stanbyme-980253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-stanbyme-2559895.jpg' alt='LG ha presentado un televisor con baterías que puedes mover por toda la casa: StanbyME' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355'>MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-marisilicon-x-2560039.jpg' alt='MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carreras-elon-musk-recomienda-estudiar-no-ser-inutiles-futuro-980261'>Las carreras que Elon Musk recomienda estudiar para no ser unos inútiles en el futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carreras-elon-musk-recomienda-estudiar-no-ser-inutiles-futuro-980261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sola-palabra-elon-musk-hunde-criptomoneda-shiba-inu-20-demostrando-fragilidad-mayoria-divisas-digitales-2512321.jpg' alt='Las carreras que Elon Musk recomienda estudiar para no ser unos inútiles en el futuro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343'>Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-air-glass-2560007.jpg' alt='Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-sigue-apostando-moviles-plegables-p50-pocket-vera-luz-23-diciembre-980239'>Huawei sigue apostando por los móviles plegables: P50 Pocket verá la luz el 23 de diciembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-sigue-apostando-moviles-plegables-p50-pocket-vera-luz-23-diciembre-980239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422781.jpg' alt='Huawei sigue apostando por los móviles plegables: P50 Pocket verá la luz el 23 de diciembre' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-precio-black-friday-supera-muchos-xiaomi-potencia-980357'>Este móvil de realme está a precio de Black Friday y supera a muchos Xiaomi en potencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-precio-black-friday-supera-muchos-xiaomi-potencia-980357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-realme-8i-2524649.jpg' alt='Este móvil de realme está a precio de Black Friday y supera a muchos Xiaomi en potencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nike-empieza-prepara-vender-ropa-metaverso-compra-empresa-nft-980229'>Nike se prepara para vender ropa en el metaverso con la adquisición de RTFKT Studios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nike-empieza-prepara-vender-ropa-metaverso-compra-empresa-nft-980229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg' alt='Nike se prepara para vender ropa en el metaverso con la adquisición de RTFKT Studios' />
+    <h4><a href='https://computerhoy.com/noticias/motor/radares-vacios-dgt-cuantos-hay-posible-identificarlos-980289'>Radares vacíos de la DGT: ¿Cuántos hay? ¿Es posible identificarlos?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/radares-vacios-dgt-cuantos-hay-posible-identificarlos-980289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/radar-fijo-1873465.jpg' alt='Radares vacíos de la DGT: ¿Cuántos hay? ¿Es posible identificarlos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/25-regalos-navidad-baratos-menos-20-euros-979929'>25 regalos de Navidad baratos de menos de 20 euros que llegan antes del 24 de diciembre</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/25-regalos-navidad-baratos-menos-20-euros-979929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='25 regalos de Navidad baratos de menos de 20 euros que llegan antes del 24 de diciembre' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/trust-presenta-nueva-webcam-tw-350-resolucion-4k-colores-vibrantes-profesionales-980339'>Trust presenta su nueva webcam TW-350: resolución 4K y colores vibrantes para profesionales</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/trust-presenta-nueva-webcam-tw-350-resolucion-4k-colores-vibrantes-profesionales-980339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/trust-tw-350-2559097.jpg' alt='Trust presenta su nueva webcam TW-350: resolución 4K y colores vibrantes para profesionales' />
     </a>
 </div>
 
