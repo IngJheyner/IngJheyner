@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507'>El novedoso método de la ESA con el que limpiar la basura espacial en órbita</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='El novedoso método de la ESA con el que limpiar la basura espacial en órbita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499'>Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453'>Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mascarilla-ffp2-2275011.jpg' alt='Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419'>Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple' />
     </a>
 </div>
 
