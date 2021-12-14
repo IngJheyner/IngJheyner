@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2559851.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203'>Ya están aquí los Holoportales, y son espectaculares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-holoportales-son-espectaculares-2559847.jpg' alt='Ya están aquí los Holoportales, y son espectaculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-casas-perros-gatos-otras-mascotas-979775'>Mejores robots aspiradores para casas con perros, gatos y otras mascotas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-casas-perros-gatos-otras-mascotas-979775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/robot-aspirador-roborock-2377525.jpg' alt='Mejores robots aspiradores para casas con perros, gatos y otras mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981'>El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-tiktok-dejar-suelo-limpio-nunca-esfuerzo-2559631.jpg' alt='El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979'>La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977'>Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/set-top-box-smart-tv-android-10-solo-27-euros-979977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/convierte-vieja-tele-smart-tv-android-10-solo-26-euros-2559611.jpg' alt='Convierte tu vieja tele es una Smart TV con Android 10 por solo 27 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-encontrar-airtag-cercanos-android-gracias-aplicacion-acaba-lanzar-apple-979975'>Ahora podrás encontrar AirTag cercanos en Android gracias a la aplicación que acaba de lanzar Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-encontrar-airtag-cercanos-android-gracias-aplicacion-acaba-lanzar-apple-979975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Ahora podrás encontrar AirTag cercanos en Android gracias a la aplicación que acaba de lanzar Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961'>Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-2559591.jpg' alt='Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra' />
     </a>
 </div>
 
