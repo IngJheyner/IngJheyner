@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633'>Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-2560709.jpg' alt='Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-kindle-paperwhite-2021-descuento-980639'>El nuevo Kindle Paperwhite con pantalla más grande y luz cálida es un gran regalo de Navidad, y tiene descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-kindle-paperwhite-2021-descuento-980639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/kindle-paperwhite-2021-2478703.jpg' alt='El nuevo Kindle Paperwhite con pantalla más grande y luz cálida es un gran regalo de Navidad, y tiene descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583'>Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403'>La comunidad latina de Pokémon le hace una petición a Nintendo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pokemon-diamante-brillante-perla-reluciente-2541177.jpg' alt='La comunidad latina de Pokémon le hace una petición a Nintendo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627'>Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-whatsapp-2560695.jpg' alt='Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-galaxy-raspberry-pi-afectados-bug-wifi-expone-datos-contrasenas-980623'>Millones de iPhone, Galaxy y Raspberry Pi afectados por un bug en el WiFi que expone datos y contraseñas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-galaxy-raspberry-pi-afectados-bug-wifi-expone-datos-contrasenas-980623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bluetooth-2560687.jpg' alt='Millones de iPhone, Galaxy y Raspberry Pi afectados por un bug en el WiFi que expone datos y contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607'>Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399'>5 grandes curiosidades y récords de Lamborghini que son poco conocidos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lamborghini-countach-2553885.jpg' alt='5 grandes curiosidades y récords de Lamborghini que son poco conocidos' />
     </a>
 </div>
 
