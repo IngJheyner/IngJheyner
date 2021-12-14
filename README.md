@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383'>12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/smart-tv-pequena-salon-2362359.jpg' alt='12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515'>Las 4 mejores Apps para pagar con criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mastercard-bitcoin-2229107.jpg' alt='Las 4 mejores Apps para pagar con criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuidado-pelicula-infantil-tematica-navidena-netflix-podria-arruinar-magia-navidad-hijos-980537'>¡Cuidado! Esta película infantil de temática navideña de Netflix podría arruinar la magia de la Navidad a tus hijos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuidado-pelicula-infantil-tematica-navidena-netflix-podria-arruinar-magia-navidad-hijos-980537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/netflix-2560471.jpg' alt='¡Cuidado! Esta película infantil de temática navideña de Netflix podría arruinar la magia de la Navidad a tus hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-premium-2560481.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507'>El novedoso método de la ESA con el que limpiar la basura espacial en órbita</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedoso-metodo-esa-limpiar-basura-espacial-orbita-980507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='El novedoso método de la ESA con el que limpiar la basura espacial en órbita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499'>Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-ser-sistema-operativo-accesible-gracias-nueva-caracteristica-980499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 quiere ser el sistema operativo más accesible gracias a esta nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-rebajado-precio-amazon-baja-solo-269-euros-llega-antes-navidad-979925'>El Apple Watch SE está rebajado de precio en Amazon: baja a solo 269 euros y llega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-rebajado-precio-amazon-baja-solo-269-euros-llega-antes-navidad-979925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='El Apple Watch SE está rebajado de precio en Amazon: baja a solo 269 euros y llega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-retrasa-lanzamiento-todas-nuevas-graficas-menos-joya-corona-anunciara-muy-pronto-980495'>NVIDIA retrasa el lanzamiento de todas su nuevas gráficas menos una: la joya de la corona se anunciará muy pronto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-retrasa-lanzamiento-todas-nuevas-graficas-menos-joya-corona-anunciara-muy-pronto-980495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='NVIDIA retrasa el lanzamiento de todas su nuevas gráficas menos una: la joya de la corona se anunciará muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453'>Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mascarilla-ffp2-2275011.jpg' alt='Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella' />
     </a>
 </div>
 
