@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981'>El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-fregar-suelo-sin-esfuerzo-979981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-tiktok-dejar-suelo-limpio-nunca-esfuerzo-2559631.jpg' alt='El truco viral de Tiktok para dejar el suelo más limpio que nunca sin esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979'>La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ps5-cubiertas-oficiales-mandos-colores-979979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='La PS5 sigue sin stock pero al menos vas a poder comprar las nuevas cubiertas oficiales y los mandos de colores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961'>Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-979961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-imagenes-reales-supuestos-disenos-samsung-galaxy-s22-s22-plus-s22-ultra-2559591.jpg' alt='Se filtran en imágenes reales los supuestos diseños de los Samsung Galaxy S22, S22 Plus y S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973'>Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/goggo-robot-autonomo-repartidor-glovo-camion-comida-autonomo-madrid-979973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/goggo-presenta-robot-autonomo-repartidor-glovo-camion-comida-autonomo-recorreran-madrid-enero-2559589.jpg' alt='Goggo presenta el robot autónomo repartidor de Glovo y el camión de comida autónomo que recorrerán Madrid en enero' />
     </a>
 </div>
 
