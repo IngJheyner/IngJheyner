@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417'>El iPhone plegable de Apple no saldría a la venta hasta 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg' alt='El iPhone plegable de Apple no saldría a la venta hasta 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733'>¿Cómo funciona PayPal? Guía para crear tu cuenta y comprar online con seguridad</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/paypal-2414801.jpg' alt='¿Cómo funciona PayPal? Guía para crear tu cuenta y comprar online con seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-tiene-100-euros-descuento-amazon-corre-aun-llega-antes-navidad-980411'>El patinete de Xiaomi tiene 100 euros de descuento en Amazon: corre, que aún llega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-tiene-100-euros-descuento-amazon-corre-aun-llega-antes-navidad-980411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-1s-2560133.jpg' alt='El patinete de Xiaomi tiene 100 euros de descuento en Amazon: corre, que aún llega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ya-no-necesitaras-tener-instalado-paquete-adobe-poder-editar-fotos-montar-videos-980397'>Ya no necesitarás tener instalado el paquete Adobe para poder editar fotos o montar vídeos</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-no-necesitaras-tener-instalado-paquete-adobe-poder-editar-fotos-montar-videos-980397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/paquete-adobe-creative-cloud-2560165.jpg' alt='Ya no necesitarás tener instalado el paquete Adobe para poder editar fotos o montar vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371'>Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-spartacus-arma-secreta-sony-ganar-generacion-ps5-980287'>Qué es PlayStation Spartacus: el arma secreta de Sony para ganar la generación con PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/playstation-spartacus-arma-secreta-sony-ganar-generacion-ps5-980287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140441.jpg' alt='Qué es PlayStation Spartacus: el arma secreta de Sony para ganar la generación con PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-lidl-vuelven-menos-20-euros-son-regalo-perfecto-navidad-980363'>Los AirPods de Lidl vuelven y por menos de 20 euros son un regalo perfecto para esta Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-lidl-vuelven-menos-20-euros-son-regalo-perfecto-navidad-980363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-silvercrest-2560049.jpg' alt='Los AirPods de Lidl vuelven y por menos de 20 euros son un regalo perfecto para esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355'>MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marisilicon-x-arma-secreta-oppo-llevar-fotografia-movil-video-otro-nivel-2022-980355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-marisilicon-x-2560039.jpg' alt='MariSilicon X: así es el arma secreta de Oppo para llevar la fotografía móvil y el vídeo a otro nivel en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343'>Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-air-glass-monoculo-realidad-asistida-toma-relevo-google-glass-980343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-air-glass-2560007.jpg' alt='Oppo Air Glass, un monóculo de realidad asistida que toma el relevo de las Google Glass' />
     </a>
 </div>
 
