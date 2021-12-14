@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403'>La comunidad latina de Pokémon le hace una petición a Nintendo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pokemon-diamante-brillante-perla-reluciente-2541177.jpg' alt='La comunidad latina de Pokémon le hace una petición a Nintendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627'>Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-whatsapp-2560695.jpg' alt='Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-galaxy-raspberry-pi-afectados-bug-wifi-expone-datos-contrasenas-980623'>Millones de iPhone, Galaxy y Raspberry Pi afectados por un bug en el WiFi que expone datos y contraseñas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-galaxy-raspberry-pi-afectados-bug-wifi-expone-datos-contrasenas-980623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bluetooth-2560687.jpg' alt='Millones de iPhone, Galaxy y Raspberry Pi afectados por un bug en el WiFi que expone datos y contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607'>Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399'>5 grandes curiosidades y récords de Lamborghini que son poco conocidos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lamborghini-countach-2553885.jpg' alt='5 grandes curiosidades y récords de Lamborghini que son poco conocidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/turista-espacial-comida-domicilio-espacio-uber-eats-980617'>Un turista espacial realiza la primera entrega de comida a domicilio en el espacio: caballa cocida para los astronautas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/turista-espacial-comida-domicilio-espacio-uber-eats-980617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/turista-espacial-realiza-primera-entrega-comida-espacio-caballa-cocida-astronautas-2560677.jpg' alt='Un turista espacial realiza la primera entrega de comida a domicilio en el espacio: caballa cocida para los astronautas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-tablet-lapiz-digital-50-euros-descuento-978947'>Da rienda suelta a tu creatividad con esta tablet Huawei MatePad 11 con lápiz digital, ahora con 50€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-tablet-lapiz-digital-50-euros-descuento-978947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matepad-11-2557913.jpg' alt='Da rienda suelta a tu creatividad con esta tablet Huawei MatePad 11 con lápiz digital, ahora con 50€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547'>Google consigue lo imposible: superar a Mercadona en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cliente-entra-supermercado-mercadona-2555515.jpg' alt='Google consigue lo imposible: superar a Mercadona en España' />
     </a>
 </div>
 
