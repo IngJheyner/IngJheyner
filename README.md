@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453'>Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-evitar-humedezca-mascarilla-poder-respirar-mejor-invierno-ella-980453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mascarilla-ffp2-2275011.jpg' alt='Cómo evitar que se humedezca la mascarilla y poder respirar mejor en invierno con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419'>Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tendremos-esperar-2022-poder-disfrutar-control-universal-apple-980419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Tendremos que esperar hasta 2022 para poder disfrutar del Control Universal de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/enhorabuena-futboleros-laliga-podra-ver-nuevo-internet-intermediarios-980455'>Enhorabuena a los futboleros, LaLiga se podrá ver de nuevo por internet sin intermediarios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/enhorabuena-futboleros-laliga-podra-ver-nuevo-internet-intermediarios-980455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/peliculas-futbol-1893969.jpg' alt='Enhorabuena a los futboleros, LaLiga se podrá ver de nuevo por internet sin intermediarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-va-permitir-administradores-borrar-mensajes-todos-grupo-980451'>WhatsApp va a permitir a administradores borrar mensajes para todos en un grupo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-va-permitir-administradores-borrar-mensajes-todos-grupo-980451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2560287.jpg' alt='WhatsApp va a permitir a administradores borrar mensajes para todos en un grupo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417'>El iPhone plegable de Apple no saldría a la venta hasta 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-plegable-apple-no-saldria-venta-2023-980417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg' alt='El iPhone plegable de Apple no saldría a la venta hasta 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733'>¿Cómo funciona PayPal? Guía para crear tu cuenta y comprar online con seguridad</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/paypal-2414801.jpg' alt='¿Cómo funciona PayPal? Guía para crear tu cuenta y comprar online con seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-tiene-100-euros-descuento-amazon-corre-aun-llega-antes-navidad-980411'>El patinete de Xiaomi tiene 100 euros de descuento en Amazon: corre, que aún llega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-xiaomi-tiene-100-euros-descuento-amazon-corre-aun-llega-antes-navidad-980411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-1s-2560133.jpg' alt='El patinete de Xiaomi tiene 100 euros de descuento en Amazon: corre, que aún llega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-no-necesitaras-tener-instalado-paquete-adobe-poder-editar-fotos-montar-videos-980397'>Ya no necesitarás tener instalado el paquete Adobe para poder editar fotos o montar vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-no-necesitaras-tener-instalado-paquete-adobe-poder-editar-fotos-montar-videos-980397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/paquete-adobe-creative-cloud-2560165.jpg' alt='Ya no necesitarás tener instalado el paquete Adobe para poder editar fotos o montar vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371'>Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-anuncia-nuevo-dulce-navideno-solo-pocos-pudieron-disfrutar-ano-pasado-980371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona anuncia un nuevo dulce navideño que solo unos pocos pudieron disfrutar el año pasado' />
     </a>
 </div>
 
