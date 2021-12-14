@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-sigue-apostando-moviles-plegables-p50-pocket-vera-luz-23-diciembre-980239'>Huawei sigue apostando por los móviles plegables: P50 Pocket verá la luz el 23 de diciembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-sigue-apostando-moviles-plegables-p50-pocket-vera-luz-23-diciembre-980239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422781.jpg' alt='Huawei sigue apostando por los móviles plegables: P50 Pocket verá la luz el 23 de diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nike-prepara-vender-ropa-metaverso-adquisicion-rtfkt-studios-980229'>Nike se prepara para vender ropa en el metaverso con la adquisición de RTFKT Studios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nike-prepara-vender-ropa-metaverso-adquisicion-rtfkt-studios-980229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg' alt='Nike se prepara para vender ropa en el metaverso con la adquisición de RTFKT Studios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/25-regalos-navidad-baratos-menos-20-euros-979929'>25 regalos de Navidad baratos de menos de 20 euros que llegan antes del 24 de diciembre</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/25-regalos-navidad-baratos-menos-20-euros-979929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='25 regalos de Navidad baratos de menos de 20 euros que llegan antes del 24 de diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-espera-implantar-chips-cerebrales-neuralink-humanos-proximo-ano-979733'>Elon Musk espera implantar sus chips cerebrales de Neuralink en humanos el próximo año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-espera-implantar-chips-cerebrales-neuralink-humanos-proximo-ano-979733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/neuralink-2219269.jpg' alt='Elon Musk espera implantar sus chips cerebrales de Neuralink en humanos el próximo año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/temen-efectos-secundarios-tercera-dosis-vacuna-coronavirus-pero-cuales-son-979551'>Qué efectos secundarios tiene la tercera dosis de la vacuna contra el coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/life/temen-efectos-secundarios-tercera-dosis-vacuna-coronavirus-pero-cuales-son-979551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg' alt='Qué efectos secundarios tiene la tercera dosis de la vacuna contra el coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-sobreviviria-apocalipsis-subasta-979721'>El coche que sobreviviría al apocalipsis está en subasta</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-sobreviviria-apocalipsis-subasta-979721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gurkha-subasta-2554185.jpg' alt='El coche que sobreviviría al apocalipsis está en subasta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-980205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2559851.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203'>Ya están aquí los Holoportales, y son espectaculares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/holoportales-hologramas-portl-980203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-holoportales-son-espectaculares-2559847.jpg' alt='Ya están aquí los Holoportales, y son espectaculares' />
     </a>
 </div>
 
