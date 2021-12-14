@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607'>Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/salen-luz-nuevas-especificaciones-supuesto-realme-gt-2-pro-carga-rapida-no-seria-tan-rapida-980607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/filtra-diseno-realme-gt-2-pro-golpe-nostalgia-fans-nexus-6p-2546749.jpg' alt='Salen a la luz nuevas especificaciones del supuesto realme GT 2 Pro y la carga rápida no sería tan rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399'>5 grandes curiosidades y récords de Lamborghini que son poco conocidos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-grandes-curiosidades-records-lamborghini-son-poco-conocidos-980399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lamborghini-countach-2553885.jpg' alt='5 grandes curiosidades y récords de Lamborghini que son poco conocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/turista-espacial-comida-domicilio-espacio-uber-eats-980617'>Un turista espacial realiza la primera entrega de comida a domicilio en el espacio: caballa cocida para los astronautas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/turista-espacial-comida-domicilio-espacio-uber-eats-980617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/turista-espacial-realiza-primera-entrega-comida-espacio-caballa-cocida-astronautas-2560677.jpg' alt='Un turista espacial realiza la primera entrega de comida a domicilio en el espacio: caballa cocida para los astronautas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-tablet-lapiz-digital-50-euros-descuento-978947'>Da rienda suelta a tu creatividad con esta tablet Huawei MatePad 11 con lápiz digital, ahora con 50€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-tablet-lapiz-digital-50-euros-descuento-978947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matepad-11-2557913.jpg' alt='Da rienda suelta a tu creatividad con esta tablet Huawei MatePad 11 con lápiz digital, ahora con 50€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547'>Google consigue lo imposible: superar a Mercadona en España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-consigue-imposible-superar-mercadona-espana-980547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cliente-entra-supermercado-mercadona-2555515.jpg' alt='Google consigue lo imposible: superar a Mercadona en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383'>12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-smart-tv-ofertas-navidades-980383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/smart-tv-pequena-salon-2362359.jpg' alt='12 Smart TV están en oferta y pueden ser el regalo perfecto para estas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515'>Las 4 mejores apps para pagar con criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/4-mejores-apps-pagar-criptomonedas-980515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mastercard-bitcoin-2229107.jpg' alt='Las 4 mejores apps para pagar con criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuidado-pelicula-infantil-tematica-navidena-netflix-podria-arruinar-magia-navidad-hijos-980537'>¡Cuidado! Esta película infantil de temática navideña de Netflix podría arruinar la magia de la Navidad a tus hijos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuidado-pelicula-infantil-tematica-navidena-netflix-podria-arruinar-magia-navidad-hijos-980537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/netflix-2560471.jpg' alt='¡Cuidado! Esta película infantil de temática navideña de Netflix podría arruinar la magia de la Navidad a tus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/premios-computerhoy-2021-finalistas-mejores-smartphones-premium-980553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-premium-2560481.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama premium' />
     </a>
 </div>
 
