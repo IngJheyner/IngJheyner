@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643'>Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/microsoft-teams-1958443.jpeg' alt='Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641'>Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad</a></h4>
     <a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-auriculares-leen-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-2560717.jpg' alt='Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-kindle-paperwhite-2021-descuento-980639'>El nuevo Kindle Paperwhite con pantalla más grande y luz cálida es un gran regalo de Navidad, y tiene descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-kindle-paperwhite-2021-descuento-980639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/kindle-paperwhite-2021-2478703.jpg' alt='El nuevo Kindle Paperwhite con pantalla más grande y luz cálida es un gran regalo de Navidad, y tiene descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583'>Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada' />
     </a>
 </div>
 
