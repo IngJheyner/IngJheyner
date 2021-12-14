@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641'>Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-auriculares-leen-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-2560717.jpg' alt='Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631'>Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-2560713.jpg' alt='Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633'>Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-2560709.jpg' alt='Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583'>Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-nuevo-sistema-operativo-enfocado-realidad-aumentada-980583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Google estaría preparando un nuevo sistema operativo enfocado a la realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403'>La comunidad latina de Pokémon le hace una petición a Nintendo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/comunidad-latina-pokemon-hace-peticion-nintendo-980403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pokemon-diamante-brillante-perla-reluciente-2541177.jpg' alt='La comunidad latina de Pokémon le hace una petición a Nintendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627'>Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-compartir-loteria-navidad-whatsapp-evitar-problemas-malos-entendidos-980627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-whatsapp-2560695.jpg' alt='Cómo compartir la lotería de Navidad por WhatsApp para evitar problemas y malos entendidos' />
     </a>
 </div>
 
