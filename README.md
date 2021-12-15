@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117'>¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/disco-duro-externo-2337223.jpg' alt='¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-2561375.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093'>El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-2561341.jpg' alt='El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-samsung-anuncian-nuevo-chip-podria-alargar-bateria-movil-semana-981073'>IBM y Samsung anuncian un nuevo chip que podría alargar la batería de tu móvil a una semana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ibm-samsung-anuncian-nuevo-chip-podria-alargar-bateria-movil-semana-981073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-ibm-samsung-2561251.jpg' alt='IBM y Samsung anuncian un nuevo chip que podría alargar la batería de tu móvil a una semana' />
     </a>
 </div>
 
