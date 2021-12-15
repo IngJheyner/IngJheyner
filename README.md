@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243'>El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-2561729.jpg' alt='El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993'>Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/procesador-caja-amd-ryzen-5-5600-2561193.jpg' alt='Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531'>Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224095.jpg' alt='Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/opal-c1-reina-webcams-streamers-calidad-similar-camara-mirrorless-981151'>Opal C1 es la reina de las webcams para streamers con calidad similar a una cámara mirrorless</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/opal-c1-reina-webcams-streamers-calidad-similar-camara-mirrorless-981151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/opal-c1-2561421.jpg' alt='Opal C1 es la reina de las webcams para streamers con calidad similar a una cámara mirrorless' />
     </a>
 </div>
 
