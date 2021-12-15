@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/todos-cambios-debes-conocer-pasar-itv-2022-980409'>Todos los cambios que debes conocer para pasar la ITV en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/todos-cambios-debes-conocer-pasar-itv-2022-980409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/itv-2530183.jpg' alt='Todos los cambios que debes conocer para pasar la ITV en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/despues-friends-llega-hoy-hbo-max-espana-otro-reencuentro-esperado-980219'>Después de Friends llega hoy a HBO Max España el otro reencuentro más esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/despues-friends-llega-hoy-hbo-max-espana-otro-reencuentro-esperado-980219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/principe-bel-air.jpg' alt='Después de Friends llega hoy a HBO Max España el otro reencuentro más esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/electrolinera-puede-cargar-2000-vehiculos-electricos-dia-980405'>Esta electrolinera puede cargar hasta 2.000 vehículos eléctricos al día</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/electrolinera-puede-cargar-2000-vehiculos-electricos-dia-980405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiempo-recarga-bateria-coche-electrico-2421371.jpg' alt='Esta electrolinera puede cargar hasta 2.000 vehículos eléctricos al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2560939.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439'>Estos son los mejores soportes para portátiles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soporte-portatil-mesa-2560413.jpg' alt='Estos son los mejores soportes para portátiles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479'>El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/separador-plastico-forma-mesa-caja-pizza-2560315.jpg' alt='El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645'>El truco viral para cambiar el color de las bolas del árbol de Navidad sin gastarte dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-cambiar-color-decoracion-arbol-navidad-gastarte-dinero-2560719.jpg' alt='El truco viral para cambiar el color de las bolas del árbol de Navidad sin gastarte dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643'>Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/microsoft-teams-1958443.jpeg' alt='Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas' />
     </a>
 </div>
 
