@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-vuelve-andadas-comienza-vetar-empresas-chinas-empieza-dji-981165'>Estados Unidos vuelve a las andadas y comienza a vetar empresas chinas: empieza con DJI</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/estados-unidos-vuelve-andadas-comienza-vetar-empresas-chinas-empieza-dji-981165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445411.jpg' alt='Estados Unidos vuelve a las andadas y comienza a vetar empresas chinas: empieza con DJI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531'>Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224095.jpg' alt='Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-accesibilidad-anadira-subtitulos-videos-automaticamente-981147'>Twitter apuesta por la accesibilidad y añadirá subtítulos a los vídeos automáticamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-accesibilidad-anadira-subtitulos-videos-automaticamente-981147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='Twitter apuesta por la accesibilidad y añadirá subtítulos a los vídeos automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117'>¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/disco-duro-externo-2337223.jpg' alt='¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti' />
     </a>
 </div>
 
