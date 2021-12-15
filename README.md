@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479'>El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/separador-plastico-forma-mesa-caja-pizza-2560315.jpg' alt='El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645'>El truco viral para cambiar el color de la decoración del árbol de Navidad sin gastarte dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-cambiar-color-decoracion-arbol-navidad-gastarte-dinero-2560719.jpg' alt='El truco viral para cambiar el color de la decoración del árbol de Navidad sin gastarte dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631'>Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-2560713.jpg' alt='Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633'>Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-980633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-nueva-propuesta-dell-conseguir-portatiles-reparables-ecologicos-2560709.jpg' alt='Luna es la nueva propuesta de Dell para conseguir portátiles reparables y ecológicos' />
     </a>
 </div>
 
