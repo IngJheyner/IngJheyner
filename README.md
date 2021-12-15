@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645'>El truco viral para cambiar el color de la decoración del árbol de Navidad sin gastarte dinero</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645'>El truco viral para cambiar el color de las bolas del árbol de Navidad sin gastarte dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-cambiar-color-decoracion-arbol-navidad-980645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-cambiar-color-decoracion-arbol-navidad-gastarte-dinero-2560719.jpg' alt='El truco viral para cambiar el color de la decoración del árbol de Navidad sin gastarte dinero' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-viral-cambiar-color-decoracion-arbol-navidad-gastarte-dinero-2560719.jpg' alt='El truco viral para cambiar el color de las bolas del árbol de Navidad sin gastarte dinero' />
     </a>
 </div>
 
