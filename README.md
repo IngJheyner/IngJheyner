@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265'>Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271'>Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portugal-aprueba-pescado-laboratorio-lubina-espinas-microplasticos-ni-mercurio-2561775.jpg' alt='Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029'>Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/promo-horizon-west-historia-nueva-09-2545047.jpg' alt='Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257'>Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/museletter-2561745.jpg' alt='Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243'>El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-2561729.jpg' alt='El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993'>Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/procesador-caja-amd-ryzen-5-5600-2561193.jpg' alt='Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€' />
     </a>
 </div>
 
