@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241'>Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2555477.jpg' alt='Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281'>El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232505.jpg' alt='El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263'>La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265'>Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271'>Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio</a></h4>
     <a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portugal-aprueba-pescado-laboratorio-lubina-espinas-microplasticos-ni-mercurio-2561775.jpg' alt='Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029'>Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/promo-horizon-west-historia-nueva-09-2545047.jpg' alt='Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-han-minado-90-bitcoin-tardaremos-120-anos-ver-ultima-moneda-981259'>Por qué si ya se han minado el 90% de los Bitcoin tardaremos 120 años en ver la última moneda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-han-minado-90-bitcoin-tardaremos-120-anos-ver-ultima-moneda-981259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/minado-bitcoin-2561759.jpg' alt='Por qué si ya se han minado el 90% de los Bitcoin tardaremos 120 años en ver la última moneda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257'>Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/museletter-2561745.jpg' alt='Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses' />
     </a>
 </div>
 
