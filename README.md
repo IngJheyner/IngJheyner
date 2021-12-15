@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2560939.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439'>Estos son los mejores soportes para portátiles que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soporte-portatil-mesa-2560413.jpg' alt='Estos son los mejores soportes para portátiles que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479'>El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-tecnologico-hack-no-volveras-tirar-separadores-cajas-pizza-980479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/separador-plastico-forma-mesa-caja-pizza-2560315.jpg' alt='El genial (y tecnológico) hack por el que no volverás a tirar los separadores de las cajas de pizza' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643'>Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-teams-cifrado-extremo-extremo-videollamadas-980643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/microsoft-teams-1958443.jpeg' alt='Microsoft Teams estrena hoy el cifrado extremo a extremo en las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641'>Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sensai-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-980641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-auriculares-leen-ondas-cerebrales-reducir-estres-aumentar-concentracion-productividad-2560717.jpg' alt='Este dispositivo lee tus ondas cerebrales para reducir el estrés y aumentar la concentración y la productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631'>Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-980631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-estaria-preparando-lanzamiento-nueva-tablet-galaxy-tab-s8-plus-haria-snapdragon-8-gen-1-interior-2560713.jpg' alt='Samsung estaría preparando el lanzamiento de su nueva tablet, la Galaxy Tab S8 Plus y lo haría con el Snapdragon 8 Gen 1 en el interior' />
     </a>
 </div>
 
