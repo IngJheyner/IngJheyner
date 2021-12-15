@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-vuelve-hacerlo-dispara-valor-criptomoneda-anunciar-aceptaran-tesla-980923'>Elon Musk vuelve a hacerlo: dispara el valor de una criptomoneda tras anunciar que la aceptarán en Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-vuelve-hacerlo-dispara-valor-criptomoneda-anunciar-aceptaran-tesla-980923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='Elon Musk vuelve a hacerlo: dispara el valor de una criptomoneda tras anunciar que la aceptarán en Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-deja-escuchar-mensajes-voz-antes-envien-ultima-actualizacion-980897'>WhatsApp te deja escuchar los mensajes de voz antes de que se envíen tras su última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-deja-escuchar-mensajes-voz-antes-envien-ultima-actualizacion-980897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp te deja escuchar los mensajes de voz antes de que se envíen tras su última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081'>Estos cargadores para iPhone son más potentes y baratos que el de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cable-cargador-apple-2102807.jpg' alt='Estos cargadores para iPhone son más potentes y baratos que el de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/todos-cambios-debes-conocer-pasar-itv-2022-980409'>Todos los cambios que debes conocer para pasar la ITV en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/todos-cambios-debes-conocer-pasar-itv-2022-980409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/itv-2530183.jpg' alt='Todos los cambios que debes conocer para pasar la ITV en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/despues-friends-llega-hoy-hbo-max-espana-otro-reencuentro-esperado-980219'>Después de Friends llega hoy a HBO Max España el otro reencuentro más esperado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/despues-friends-llega-hoy-hbo-max-espana-otro-reencuentro-esperado-980219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/principe-bel-air.jpg' alt='Después de Friends llega hoy a HBO Max España el otro reencuentro más esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/electrolinera-puede-cargar-2000-vehiculos-electricos-dia-980405'>Esta electrolinera puede cargar hasta 2.000 vehículos eléctricos al día</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/electrolinera-puede-cargar-2000-vehiculos-electricos-dia-980405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiempo-recarga-bateria-coche-electrico-2421371.jpg' alt='Esta electrolinera puede cargar hasta 2.000 vehículos eléctricos al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-980873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2560939.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439'>Estos son los mejores soportes para portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-soportes-portatiles-puedes-comprar-980439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/soporte-portatil-mesa-2560413.jpg' alt='Estos son los mejores soportes para portátiles que puedes comprar' />
     </a>
 </div>
 
