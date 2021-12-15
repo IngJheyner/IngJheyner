@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/bitcoin-podria-no-valer-nada-futuro-advierte-importante-banco-central-981057'>El bitcoin podría no valer nada en un futuro, advierte un importante banco central</a></h4>
-    <a href='https://computerhoy.com/noticias/bitcoin-podria-no-valer-nada-futuro-advierte-importante-banco-central-981057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-crash-2463899.jpg' alt='El bitcoin podría no valer nada en un futuro, advierte un importante banco central' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-2561375.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-playstation-5-sony-te-ofrece-smart-tv-sony-bravia-xr-oled-65-exclusivamente-corte-ingles-981059'>Si quieres una PlayStation 5 Sony te la ofrece con una Smart TV Sony Bravia XR OLED de 65" exclusivamente en El Corte Inglés</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-playstation-5-sony-te-ofrece-smart-tv-sony-bravia-xr-oled-65-exclusivamente-corte-ingles-981059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-bravia-xr-65a84j-playstation-5-2561249.jpg' alt='Si quieres una PlayStation 5 Sony te la ofrece con una Smart TV Sony Bravia XR OLED de 65" exclusivamente en El Corte Inglés' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/mejores-13-juegos-consolas-portados-android-981087'>Los mejores 13 juegos de consolas portados a Android</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/mejores-13-juegos-consolas-portados-android-981087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-android-2561303.jpg' alt='Los mejores 13 juegos de consolas portados a Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-poco-ya-oferta-5g-pantallon-solo-224-euros-979879'>El nuevo superventas de POCO ya está en oferta: 5G y pantallón por solo 224 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-poco-ya-oferta-5g-pantallon-solo-224-euros-979879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527167.jpg' alt='El nuevo superventas de POCO ya está en oferta: 5G y pantallón por solo 224 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-2-lite-oficialmente-venta-espana-981065'>Bombazo de Xiaomi: pone a la venta nuevo reloj inteligente barato con SpO2 y GPS a un precio sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-2-lite-oficialmente-venta-espana-981065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-redmi-watch-2-lite-2561235.jpg' alt='Bombazo de Xiaomi: pone a la venta nuevo reloj inteligente barato con SpO2 y GPS a un precio sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093'>El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-2561341.jpg' alt='El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/6-situaciones-habituales-rotonda-como-actuar-evitar-riesgos-multas-dgt-981021'>Las 6 situaciones más habituales en una rotonda y cómo actuar para evitar riesgos y multas según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/6-situaciones-habituales-rotonda-como-actuar-evitar-riesgos-multas-dgt-981021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/donde-estan-todos-radares-espana-dgt-2182761.jpg' alt='Las 6 situaciones más habituales en una rotonda y cómo actuar para evitar riesgos y multas según la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-samsung-anuncian-nuevo-chip-podria-alargar-bateria-movil-semana-981073'>IBM y Samsung anuncian un nuevo chip que podría alargar la batería de tu móvil a una semana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ibm-samsung-anuncian-nuevo-chip-podria-alargar-bateria-movil-semana-981073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-ibm-samsung-2561251.jpg' alt='IBM y Samsung anuncian un nuevo chip que podría alargar la batería de tu móvil a una semana' />
     </a>
 </div>
 
