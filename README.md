@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029'>Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/esperan-retrasos-2022-pero-tambien-habra-juegos-exclusivos-981029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/promo-horizon-west-historia-nueva-09-2545047.jpg' alt='Se esperan más retrasos en 2022, pero también habrá más juegos exclusivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-han-minado-90-bitcoin-tardaremos-120-anos-ver-ultima-moneda-981259'>Por qué si ya se han minado el 90% de los Bitcoin tardaremos 120 años en ver la última moneda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-han-minado-90-bitcoin-tardaremos-120-anos-ver-ultima-moneda-981259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/minado-bitcoin-2561759.jpg' alt='Por qué si ya se han minado el 90% de los Bitcoin tardaremos 120 años en ver la última moneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257'>Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-establece-nuevo-record-cierra-servicios-solo-tres-meses-981257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/museletter-2561745.jpg' alt='Google establece un nuevo récord y cierra uno de sus servicios tras solo tres meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243'>El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-981243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a53-5g-podria-llegar-antes-previsto-ultimos-rumores-filtracion-especificaciones-2561729.jpg' alt='El Samsung Galaxy A53 5G podría llegar antes de lo previsto según los últimos rumores y la filtración de sus especificaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993'>Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-5-5600g-excelente-relacion-calidad-precio-solo-259eu-980993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/procesador-caja-amd-ryzen-5-5600-2561193.jpg' alt='Dale un empujón a tu PC con este procesador AMD Ryzen 5 5600G, con una excelente relación calidad precio por solo 259€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-hace-oficial-nueva-galaxy-tab-a8-pantalla-105-pulgadas-7040-mah-bateria-981185'>Samsung hace oficial su nueva Galaxy Tab A8: pantalla de 10,5 pulgadas y 7.040 mAh de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-hace-oficial-nueva-galaxy-tab-a8-pantalla-105-pulgadas-7040-mah-bateria-981185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galaxy-tab-a8-2561571.jpg' alt='Samsung hace oficial su nueva Galaxy Tab A8: pantalla de 10,5 pulgadas y 7.040 mAh de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-vuelve-andadas-comienza-vetar-empresas-chinas-empieza-dji-981165'>Estados Unidos vuelve a las andadas y comienza a vetar empresas chinas: empieza con DJI</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/estados-unidos-vuelve-andadas-comienza-vetar-empresas-chinas-empieza-dji-981165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445411.jpg' alt='Estados Unidos vuelve a las andadas y comienza a vetar empresas chinas: empieza con DJI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531'>Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224095.jpg' alt='Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros' />
     </a>
 </div>
 
