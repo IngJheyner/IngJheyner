@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531'>Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-pone-precio-liquidacion-todos-fire-tv-estas-navidades-18-euros-980531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224095.jpg' alt='Amazon pone a precio de liquidación todos sus Fire TV para estas navidades desde 18 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/opal-c1-reina-webcams-streamers-calidad-similar-camara-mirrorless-981151'>Opal C1 es la reina de las webcams para streamers con calidad similar a una cámara mirrorless</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/opal-c1-reina-webcams-streamers-calidad-similar-camara-mirrorless-981151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/opal-c1-2561421.jpg' alt='Opal C1 es la reina de las webcams para streamers con calidad similar a una cámara mirrorless' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-camaleonico-bmw-haciendo-coche-cambiara-color-boton-981155'>El coche camaleónico: BMW está haciendo un coche que cambiará de color con un botón</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-camaleonico-bmw-haciendo-coche-cambiara-color-boton-981155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/bmw-ix3-1995299.jpg' alt='El coche camaleónico: BMW está haciendo un coche que cambiará de color con un botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-accesibilidad-anadira-subtitulos-videos-automaticamente-981147'>Twitter apuesta por la accesibilidad y añadirá subtítulos a los vídeos automáticamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-accesibilidad-anadira-subtitulos-videos-automaticamente-981147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='Twitter apuesta por la accesibilidad y añadirá subtítulos a los vídeos automáticamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117'>¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diogenes-digital-toshiba-tiene-discos-duros-30-tb-mamr-perfectos-ti-981117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/disco-duro-externo-2337223.jpg' alt='¿Diógenes digital? Toshiba tiene discos duros de 30 TB (MAS-MAMR) perfectos para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-981111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-2561375.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/mejores-13-juegos-consolas-portados-android-981087'>Los mejores 13 juegos de consolas portados a Android</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/mejores-13-juegos-consolas-portados-android-981087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-android-2561303.jpg' alt='Los mejores 13 juegos de consolas portados a Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-2-lite-oficialmente-venta-espana-981065'>Bombazo de Xiaomi: pone a la venta nuevo reloj inteligente barato con SpO2 y GPS a un precio sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-2-lite-oficialmente-venta-espana-981065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-redmi-watch-2-lite-2561235.jpg' alt='Bombazo de Xiaomi: pone a la venta nuevo reloj inteligente barato con SpO2 y GPS a un precio sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093'>El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-redmi-watch-2-lite-xiaomi-llega-espana-promete-desbancar-predecesores-981093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-2561341.jpg' alt='El nuevo Redmi Watch 2 Lite de Xiaomi llega a España y promete desbancar a sus predecesores' />
     </a>
 </div>
 
