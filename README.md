@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-bitcoin-alguna-otra-criptomoneda-debes-saber-fuiste-millonario-durante-segundos-980971'>¿Tienes Bitcoin o alguna otra criptomoneda? Debes saber que fuiste millonario durante unos segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-bitcoin-alguna-otra-criptomoneda-debes-saber-fuiste-millonario-durante-segundos-980971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/moneda-bitcoins-2170441.jpg' alt='¿Tienes Bitcoin o alguna otra criptomoneda? Debes saber que fuiste millonario durante unos segundos' />
+    <h4><a href='https://computerhoy.com/noticias/bitcoin-podria-no-valer-nada-futuro-advierte-importante-banco-central-981057'>El bitcoin podría no valer nada en un futuro, advierte un importante banco central</a></h4>
+    <a href='https://computerhoy.com/noticias/bitcoin-podria-no-valer-nada-futuro-advierte-importante-banco-central-981057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoin-crash-2463899.jpg' alt='El bitcoin podría no valer nada en un futuro, advierte un importante banco central' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-cancela-cuenta-artista-miles-seguidores-llamarse-metaverse-981005'>Instagram cancela la cuenta de una artista con miles de seguidores por llamarse "Metaverse"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-cancela-cuenta-artista-miles-seguidores-llamarse-metaverse-981005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Instagram cancela la cuenta de una artista con miles de seguidores por llamarse "Metaverse"' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-playstation-5-sony-te-ofrece-smart-tv-sony-bravia-xr-oled-65-exclusivamente-corte-ingles-981059'>Si quieres una PlayStation 5 Sony te la ofrece con una Smart TV Sony Bravia XR OLED de 65" exclusivamente en El Corte Inglés</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-playstation-5-sony-te-ofrece-smart-tv-sony-bravia-xr-oled-65-exclusivamente-corte-ingles-981059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-bravia-xr-65a84j-playstation-5-2561249.jpg' alt='Si quieres una PlayStation 5 Sony te la ofrece con una Smart TV Sony Bravia XR OLED de 65" exclusivamente en El Corte Inglés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869'>Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-find-n-2560937.jpg' alt='Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-poco-ya-oferta-5g-pantallon-solo-224-euros-979879'>El nuevo superventas de POCO ya está en oferta: 5G y pantallón por solo 224 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-poco-ya-oferta-5g-pantallon-solo-224-euros-979879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527167.jpg' alt='El nuevo superventas de POCO ya está en oferta: 5G y pantallón por solo 224 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-sorprende-nuevo-electrodomestico-batidora-sopa-caliente-980981'>Lidl sorprende con un nuevo electrodoméstico: la batidora de sopa caliente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-sorprende-nuevo-electrodomestico-batidora-sopa-caliente-980981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/russell-hobbs-2561079.jpg' alt='Lidl sorprende con un nuevo electrodoméstico: la batidora de sopa caliente' />
+    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859'>El iPhone 13 Mini sí que tiene stock ¡y está en oferta!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2559321.jpg' alt='El iPhone 13 Mini sí que tiene stock ¡y está en oferta!' />
+    <h4><a href='https://computerhoy.com/noticias/motor/6-situaciones-habituales-rotonda-como-actuar-evitar-riesgos-multas-dgt-981021'>Las 6 situaciones más habituales en una rotonda y cómo actuar para evitar riesgos y multas según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/6-situaciones-habituales-rotonda-como-actuar-evitar-riesgos-multas-dgt-981021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/donde-estan-todos-radares-espana-dgt-2182761.jpg' alt='Las 6 situaciones más habituales en una rotonda y cómo actuar para evitar riesgos y multas según la DGT' />
     </a>
 </div>
 
