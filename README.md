@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-bitcoin-alguna-otra-criptomoneda-debes-saber-fuiste-millonario-durante-segundos-980971'>¿Tienes Bitcoin o alguna otra criptomoneda? Debes saber que fuiste millonario durante unos segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-bitcoin-alguna-otra-criptomoneda-debes-saber-fuiste-millonario-durante-segundos-980971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/moneda-bitcoins-2170441.jpg' alt='¿Tienes Bitcoin o alguna otra criptomoneda? Debes saber que fuiste millonario durante unos segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-cancela-cuenta-artista-miles-seguidores-llamarse-metaverse-981005'>Instagram cancela la cuenta de una artista con miles de seguidores por llamarse "Metaverse"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-cancela-cuenta-artista-miles-seguidores-llamarse-metaverse-981005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Instagram cancela la cuenta de una artista con miles de seguidores por llamarse "Metaverse"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869'>Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-find-n-2560937.jpg' alt='Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859'>El iPhone 13 Mini sí que tiene stock ¡y está en oferta!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2559321.jpg' alt='El iPhone 13 Mini sí que tiene stock ¡y está en oferta!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-model-3-pone-cuarentena-debido-fatal-accidente-paris-980947'>El Tesla Model 3 se pone en cuarentena debido a un fatal accidente en París</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-model-3-pone-cuarentena-debido-fatal-accidente-paris-980947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='El Tesla Model 3 se pone en cuarentena debido a un fatal accidente en París' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/minecraft-ya-juego-popular-historia-youtube-980953'>Minecraft ya es el juego más popular de la historia en YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/minecraft-ya-juego-popular-historia-youtube-980953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/minecraft.jpg' alt='Minecraft ya es el juego más popular de la historia en YouTube' />
     </a>
 </div>
 
