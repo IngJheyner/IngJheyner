@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869'>Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n-movil-mete-oppo-carrera-plegables-980869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oppo-find-n-2560937.jpg' alt='Oppo Find N: así es el móvil que mete a Oppo en la carrera por los plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-sorprende-nuevo-electrodomestico-batidora-sopa-caliente-980981'>Lidl sorprende con un nuevo electrodoméstico: la batidora de sopa caliente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-sorprende-nuevo-electrodomestico-batidora-sopa-caliente-980981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/russell-hobbs-2561079.jpg' alt='Lidl sorprende con un nuevo electrodoméstico: la batidora de sopa caliente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859'>El iPhone 13 Mini sí que tiene stock ¡y está en oferta!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-mini-tiene-stock-oferta-979859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2559321.jpg' alt='El iPhone 13 Mini sí que tiene stock ¡y está en oferta!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-model-3-pone-cuarentena-debido-fatal-accidente-paris-980947'>El Tesla Model 3 se pone en cuarentena debido a un fatal accidente en París</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tesla-model-3-pone-cuarentena-debido-fatal-accidente-paris-980947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2554851.jpg' alt='El Tesla Model 3 se pone en cuarentena debido a un fatal accidente en París' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/minecraft-ya-juego-popular-historia-youtube-980953'>Minecraft ya es el juego más popular de la historia en YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/minecraft-ya-juego-popular-historia-youtube-980953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/minecraft.jpg' alt='Minecraft ya es el juego más popular de la historia en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-historia-ser-humano-ha-tocado-sol-980935'>Por primera vez en la historia el ser humano ha tocado el sol</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-historia-ser-humano-ha-tocado-sol-980935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sol-2561005.jpg' alt='Por primera vez en la historia el ser humano ha tocado el sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-vuelve-hacerlo-dispara-valor-criptomoneda-anunciar-aceptaran-tesla-980923'>Elon Musk vuelve a hacerlo: dispara el valor de una criptomoneda tras anunciar que la aceptarán en Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-vuelve-hacerlo-dispara-valor-criptomoneda-anunciar-aceptaran-tesla-980923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='Elon Musk vuelve a hacerlo: dispara el valor de una criptomoneda tras anunciar que la aceptarán en Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-deja-escuchar-mensajes-voz-antes-envien-ultima-actualizacion-980897'>WhatsApp te deja escuchar los mensajes de voz antes de que se envíen tras su última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-deja-escuchar-mensajes-voz-antes-envien-ultima-actualizacion-980897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp te deja escuchar los mensajes de voz antes de que se envíen tras su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081'>Estos cargadores para iPhone son más potentes y baratos que el de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cable-cargador-apple-2102807.jpg' alt='Estos cargadores para iPhone son más potentes y baratos que el de Apple' />
     </a>
 </div>
 
