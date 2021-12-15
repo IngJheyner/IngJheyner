@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285'>NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-pcs-inspirados-matrix-pero-como-tarjetas-rtx-no-pueden-comprar-2561805.jpg' alt='NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-twitter-mil-personas-fingen-directo-estar-cola-mcdonalds-981277'>La última locura de Twitter: más de mil personas fingen en directo estar en la cola del McDonald's</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-twitter-mil-personas-fingen-directo-estar-cola-mcdonalds-981277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='La última locura de Twitter: más de mil personas fingen en directo estar en la cola del McDonald's' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241'>Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2555477.jpg' alt='Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263'>La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265'>Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-google-pixel-6-6-pro-podrian-recibir-desbloqueo-facial-981265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Los últimos rumores apuntan a que los Google Pixel 6 y 6 Pro podrían recibir desbloqueo facial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271'>Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/algae2fish-pescado-laboratorio-lubina-sin-espinas-microplasticos-ni-mercurio-981271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portugal-aprueba-pescado-laboratorio-lubina-espinas-microplasticos-ni-mercurio-2561775.jpg' alt='Portugal pone en marcha el pescado de laboratorio: lubina sin espinas, microplásticos ni mercurio' />
     </a>
 </div>
 
