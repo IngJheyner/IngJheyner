@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-robot-cocina-lidl-puedes-comprar-modelo-prohibido-981559'>Cuál es la diferencia entre el robot de cocina de Lidl que sí puedes comprar y el modelo prohibido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-diferencia-robot-cocina-lidl-puedes-comprar-modelo-prohibido-981559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2559059.jpg' alt='Cuál es la diferencia entre el robot de cocina de Lidl que sí puedes comprar y el modelo prohibido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-4-cancelacion-ruido-activa-oferta-navidad-978957'>Chollo navideño: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa han bajado de precio a 109€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-4-cancelacion-ruido-activa-oferta-navidad-978957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-freebuds-4-2532397.jpg' alt='Chollo navideño: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa han bajado de precio a 109€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/galaxy-z-flip-honor-p50-pocket-deja-entrever-teasers-apunta-maneras-ser-flexible-pequeno-981543'>El Galaxy Z Flip de Huawei, P50 Pocket, se deja entrever en teasers y apunta maneras para ser el flexible más pequeño</a></h4>
+    <a href='https://computerhoy.com/noticias/galaxy-z-flip-honor-p50-pocket-deja-entrever-teasers-apunta-maneras-ser-flexible-pequeno-981543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2562111.jpg' alt='El Galaxy Z Flip de Huawei, P50 Pocket, se deja entrever en teasers y apunta maneras para ser el flexible más pequeño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-tiene-claro-metaverso-promete-zuckerberg-lejos-necesita-mil-veces-potencia-actual-981535'>Intel tiene claro que el Metaverso que promete Zuckerberg está lejos: se necesita mil veces la potencia actual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-tiene-claro-metaverso-promete-zuckerberg-lejos-necesita-mil-veces-potencia-actual-981535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metaverso-facebook-va-construir-espana-5-consejos-conseguir-10000-puestos-trabajo-2529665.jpg' alt='Intel tiene claro que el Metaverso que promete Zuckerberg está lejos: se necesita mil veces la potencia actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomineros-ya-han-superado-niveles-actividad-anteriores-veto-china-981039'>Los criptomineros ya han superado los niveles de actividad anteriores al veto de China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomineros-ya-han-superado-niveles-actividad-anteriores-veto-china-981039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/bitcoin.jpg' alt='Los criptomineros ya han superado los niveles de actividad anteriores al veto de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/personas-estos-problemas-no-deberian-tomar-cafe-estudio-todo-partir-cierta-edad-980883'>Las personas con estos problemas no deberían tomar café según un estudio, sobre todo a partir de cierta edad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/personas-estos-problemas-no-deberian-tomar-cafe-estudio-todo-partir-cierta-edad-980883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujeres-tomando-cafe-2560949.jpg' alt='Las personas con estos problemas no deberían tomar café según un estudio, sobre todo a partir de cierta edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/puedes-cambiar-titularidad-coche-perderte-proceso-981033'>Así puedes cambiar la titularidad de un coche sin perderte en el proceso</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/puedes-cambiar-titularidad-coche-perderte-proceso-981033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cambio-titularidad-coche-2555923.jpg' alt='Así puedes cambiar la titularidad de un coche sin perderte en el proceso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2562035.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
