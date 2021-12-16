@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2562035.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/irobot-roomba-i7556-2561473.jpg' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-albanil-escala-techos-paredes-981509'>Este robot escala techos y paredes para que los trabajadores no tengan que hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-albanil-escala-techos-paredes-981509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-escala-techos-paredes-trabajadores-no-tengan-hacerlo-2562033.jpg' alt='Este robot escala techos y paredes para que los trabajadores no tengan que hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-genial-presentacion-embutidos-navidad-981289'>Con este truco genial prepararás una presentación de embutidos para esta Navidad que dará que hablar</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-genial-presentacion-embutidos-navidad-981289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-genial-prepararas-presentacion-embutidos-navidad-dara-hablar-2561809.jpg' alt='Con este truco genial prepararás una presentación de embutidos para esta Navidad que dará que hablar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285'>NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-pcs-inspirados-matrix-pero-como-tarjetas-rtx-no-pueden-comprar-2561805.jpg' alt='NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-twitter-mil-personas-fingen-directo-estar-cola-mcdonalds-981277'>La última locura de Twitter: más de mil personas fingen en directo estar en la cola del McDonald's</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-twitter-mil-personas-fingen-directo-estar-cola-mcdonalds-981277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='La última locura de Twitter: más de mil personas fingen en directo estar en la cola del McDonald's' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241'>Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/google-tiene-claro-trabajadores-no-cumplan-politica-vacunacion-perderan-trabajo-981241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2555477.jpg' alt='Google lo tiene claro: los trabajadores que no cumplan con la política de vacunación perderán su trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281'>El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232505.jpg' alt='El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento' />
     </a>
 </div>
 
