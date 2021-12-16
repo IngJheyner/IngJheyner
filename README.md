@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-competidor-intel-amd-gobierno-britanico-981695'>El nuevo competidor de Intel y AMD es... el Gobierno británico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-competidor-intel-amd-gobierno-britanico-981695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/londres_0.jpg' alt='El nuevo competidor de Intel y AMD es... el Gobierno británico' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587'>¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313137.jpg' alt='¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/test-permite-saber-instante-tienes-miopia-problemas-vista-981707'>Este test permite saber al instante si tienes miopía o problemas de vista</a></h4>
-    <a href='https://computerhoy.com/noticias/life/test-permite-saber-instante-tienes-miopia-problemas-vista-981707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mujer-ciega-recupera-vista-gracias-tecnica-crispr-edicion-genetica-2487379.jpg' alt='Este test permite saber al instante si tienes miopía o problemas de vista' />
+    <h4><a href='https://computerhoy.com/noticias/life/estudios-demuestran-noticias-falsas-expanden-tan-rapido-redes-sociales-981797'>Estudios demuestran por qué las noticias falsas se expanden tan rápido en las redes sociales </a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudios-demuestran-noticias-falsas-expanden-tan-rapido-redes-sociales-981797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_1.jpg' alt='Estudios demuestran por qué las noticias falsas se expanden tan rápido en las redes sociales ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-podrian-reemplazar-shiba-inu-2022-hacerte-ganar-dinero-981655'>Criptomonedas que podrían reemplazar a Shiba Inu en 2022 y hacerte ganar dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-podrian-reemplazar-shiba-inu-2022-hacerte-ganar-dinero-981655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='Criptomonedas que podrían reemplazar a Shiba Inu en 2022 y hacerte ganar dinero' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-oneplus-nord-2-ce-rediseno-total-981807'>Ya sabemos como será el OnePlus Nord 2 CE: rediseño total</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-oneplus-nord-2-ce-rediseno-total-981807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414881.jpg' alt='Ya sabemos como será el OnePlus Nord 2 CE: rediseño total' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-acceder-correo-antiguo-telefonica-movistar-903351'>Cómo entrar en un correo Movistar o Telefónica antiguo y recibir emails en el móvil y el PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-acceder-correo-antiguo-telefonica-movistar-903351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-acceder-mi-correo-movistar-telefonica-como-recibir-emails-movil-2415563.jpg' alt='Cómo entrar en un correo Movistar o Telefónica antiguo y recibir emails en el móvil y el PC' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751'>El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyundai-robot-2562449.jpg' alt='El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-polaroid-pesa-menos-movil-oferta-amazon-menos-100-euros-979815'>Esta cámara Polaroid pesa menos que un móvil y está en oferta en Amazon por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-polaroid-pesa-menos-movil-oferta-amazon-menos-100-euros-979815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polaroid-go-2559239.jpg' alt='Esta cámara Polaroid pesa menos que un móvil y está en oferta en Amazon por menos de 100 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tarjeta-grafica-nvidia-gama-media-llegara-dos-versiones-sera-superventas-981729'>La nueva tarjeta gráfica de NVIDIA de gama media llegará en dos versiones, así será la superventas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tarjeta-grafica-nvidia-gama-media-llegara-dos-versiones-sera-superventas-981729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='La nueva tarjeta gráfica de NVIDIA de gama media llegará en dos versiones, así será la superventas' />
     </a>
 </div>
 
