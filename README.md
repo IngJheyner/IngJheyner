@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-limite-legal-dinero-pueden-enviar-bizum-dos-particulares-981673'>¿Cuál es el límite legal de dinero que se pueden enviar por Bizum dos particulares?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cual-limite-legal-dinero-pueden-enviar-bizum-dos-particulares-981673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¿Cuál es el límite legal de dinero que se pueden enviar por Bizum dos particulares?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-competidor-intel-amd-gobierno-britanico-981695'>El nuevo competidor de Intel y AMD es... el Gobierno británico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-competidor-intel-amd-gobierno-britanico-981695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/londres_0.jpg' alt='El nuevo competidor de Intel y AMD es... el Gobierno británico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-retrasan-cuarta-vez-vuelta-oficinas-ahora-forma-indefinida-981671'>En Apple retrasan por cuarta vez la vuelta a las oficinas, ahora de forma indefinida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-retrasan-cuarta-vez-vuelta-oficinas-ahora-forma-indefinida-981671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='En Apple retrasan por cuarta vez la vuelta a las oficinas, ahora de forma indefinida' />
+    <h4><a href='https://computerhoy.com/noticias/life/test-permite-saber-instante-tienes-miopia-problemas-vista-981707'>Este test permite saber al instante si tienes miopía o problemas de vista</a></h4>
+    <a href='https://computerhoy.com/noticias/life/test-permite-saber-instante-tienes-miopia-problemas-vista-981707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mujer-ciega-recupera-vista-gracias-tecnica-crispr-edicion-genetica-2487379.jpg' alt='Este test permite saber al instante si tienes miopía o problemas de vista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dimensity-9000-procesador-movil-4nm-mediatek-competir-snapdragon-8-gen-1-981653'>Así es Dimensity 9000, el procesador móvil de 4nm de Mediatek para competir de tú a tú con Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dimensity-9000-procesador-movil-4nm-mediatek-competir-snapdragon-8-gen-1-981653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Así es Dimensity 9000, el procesador móvil de 4nm de Mediatek para competir de tú a tú con Snapdragon 8 Gen 1' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-podrian-reemplazar-shiba-inu-2022-hacerte-ganar-dinero-981655'>Criptomonedas que podrían reemplazar a Shiba Inu en 2022 y hacerte ganar dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-podrian-reemplazar-shiba-inu-2022-hacerte-ganar-dinero-981655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2534373.jpg' alt='Criptomonedas que podrían reemplazar a Shiba Inu en 2022 y hacerte ganar dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-deben-actuar-patinetes-electricos-rotondas-evitar-problemas-accidentes-981623'>Cómo deben circular los patinetes eléctricos en las rotondas para evitar problemas y accidentes</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-deben-actuar-patinetes-electricos-rotondas-evitar-problemas-accidentes-981623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Cómo deben circular los patinetes eléctricos en las rotondas para evitar problemas y accidentes' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-acceder-correo-antiguo-telefonica-movistar-903351'>Cómo entrar en un correo Movistar o Telefónica antiguo y recibir emails en el móvil y el PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-acceder-correo-antiguo-telefonica-movistar-903351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-acceder-mi-correo-movistar-telefonica-como-recibir-emails-movil-2415563.jpg' alt='Cómo entrar en un correo Movistar o Telefónica antiguo y recibir emails en el móvil y el PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-oneplus-buds-cae-picado-39-euros-mejores-auriculares-cancelacion-precio-ganga-979869'>El precio de los OnePlus Buds cae en picado hasta 39 euros: unos de los mejores auriculares con cancelación, a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-oneplus-buds-cae-picado-39-euros-mejores-auriculares-cancelacion-precio-ganga-979869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/oneplus-buds-2003121.jpg' alt='El precio de los OnePlus Buds cae en picado hasta 39 euros: unos de los mejores auriculares con cancelación, a precio de ganga' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-polaroid-pesa-menos-movil-oferta-amazon-menos-100-euros-979815'>Esta cámara Polaroid pesa menos que un móvil y está en oferta en Amazon por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-polaroid-pesa-menos-movil-oferta-amazon-menos-100-euros-979815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polaroid-go-2559239.jpg' alt='Esta cámara Polaroid pesa menos que un móvil y está en oferta en Amazon por menos de 100 euros' />
     </a>
 </div>
 
