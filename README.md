@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927'>Spotify estaría preparando una característica para puntuar los podcasts que escuchas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-2562957.jpg' alt='Spotify estaría preparando una característica para puntuar los podcasts que escuchas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-juegos-gratis-navidades-cheque-10-euros-981935'>Epic Games Store regala un juego cada día estas Navidades y un cheque de 10 euros que se renueva infinitamente con cada compra</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-juegos-gratis-navidades-cheque-10-euros-981935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/epic-games-te-regala-shenmue-iii-cheque-10-euros-renueva-infinitamente-cada-compra-rebajas-2562955.jpg' alt='Epic Games Store regala un juego cada día estas Navidades y un cheque de 10 euros que se renueva infinitamente con cada compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899'>El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-2562949.jpg' alt='El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931'>La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nintendo-switch-2503257.jpg' alt='La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685'>Sony patenta una de las tecnologías utilizadas en Death Stranding</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/death-stranding-directors-cut-2449835.jpg' alt='Sony patenta una de las tecnologías utilizadas en Death Stranding' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tres-sintomas-cambiar-amortiguadores-coche-981921'>Tres síntomas de que necesitas cambiar los amortiguadores del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tres-sintomas-cambiar-amortiguadores-coche-981921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tres-senales-necesitas-cambiar-amortiguadores-coche-2562933.jpg' alt='Tres síntomas de que necesitas cambiar los amortiguadores del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/signal-adelanta-whatsapp-nueva-funcion-puede-ayudarte-salvar-navidad-981919'>Signal se adelanta a WhatsApp con una nueva función que puede ayudarte a salvar la Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/signal-adelanta-whatsapp-nueva-funcion-puede-ayudarte-salvar-navidad-981919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/signal-vs-whatsapp-2348999.jpg' alt='Signal se adelanta a WhatsApp con una nueva función que puede ayudarte a salvar la Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917'>Microsoft quiere que utilices Edge en Windows 11 te guste o no</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Microsoft quiere que utilices Edge en Windows 11 te guste o no' />
     </a>
 </div>
 
