@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-limite-legal-dinero-pueden-enviar-bizum-dos-particulares-981673'>¿Cuál es el límite legal de dinero que se pueden enviar por Bizum dos particulares?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-limite-legal-dinero-pueden-enviar-bizum-dos-particulares-981673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¿Cuál es el límite legal de dinero que se pueden enviar por Bizum dos particulares?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-retrasan-cuarta-vez-vuelta-oficinas-ahora-forma-indefinida-981671'>En Apple retrasan por cuarta vez la vuelta a las oficinas, ahora de forma indefinida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-retrasan-cuarta-vez-vuelta-oficinas-ahora-forma-indefinida-981671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='En Apple retrasan por cuarta vez la vuelta a las oficinas, ahora de forma indefinida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dimensity-9000-procesador-movil-4nm-mediatek-competir-snapdragon-8-gen-1-981653'>Así es Dimensity 9000, el procesador móvil de 4nm de Mediatek para competir de tú a tú con Snapdragon 8 Gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dimensity-9000-procesador-movil-4nm-mediatek-competir-snapdragon-8-gen-1-981653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Así es Dimensity 9000, el procesador móvil de 4nm de Mediatek para competir de tú a tú con Snapdragon 8 Gen 1' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-deben-actuar-patinetes-electricos-rotondas-evitar-problemas-accidentes-981623'>Cómo deben actuar los patinetes eléctricos en las rotondas para evitar problemas y accidentes</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/como-deben-actuar-patinetes-electricos-rotondas-evitar-problemas-accidentes-981623'>Cómo deben circular los patinetes eléctricos en las rotondas para evitar problemas y accidentes</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-deben-actuar-patinetes-electricos-rotondas-evitar-problemas-accidentes-981623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Cómo deben actuar los patinetes eléctricos en las rotondas para evitar problemas y accidentes' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Cómo deben circular los patinetes eléctricos en las rotondas para evitar problemas y accidentes' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-oneplus-buds-cae-picado-39-euros-mejores-auriculares-cancelacion-precio-ganga-979869'>El precio de los OnePlus Buds cae en picado hasta 39 euros: unos de los mejores auriculares con cancelación, a precio de ganga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/precio-oneplus-buds-cae-picado-39-euros-mejores-auriculares-cancelacion-precio-ganga-979869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/oneplus-buds-2003121.jpg' alt='El precio de los OnePlus Buds cae en picado hasta 39 euros: unos de los mejores auriculares con cancelación, a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunas-empresa-ya-ofrecen-posibilidad-hablar-programas-simulan-ser-personas-fallecidas-981577'>No es Black Mirror: hay empresas que ya ofrecen la posibilidad de hablar con programas que simulan ser personas fallecidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algunas-empresa-ya-ofrecen-posibilidad-hablar-programas-simulan-ser-personas-fallecidas-981577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-hablando-movil-2562137.jpg' alt='No es Black Mirror: hay empresas que ya ofrecen la posibilidad de hablar con programas que simulan ser personas fallecidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-robot-cocina-lidl-puedes-comprar-modelo-prohibido-981559'>Cuál es la diferencia entre el robot de cocina de Lidl que sí puedes comprar y el modelo prohibido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-diferencia-robot-cocina-lidl-puedes-comprar-modelo-prohibido-981559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2559059.jpg' alt='Cuál es la diferencia entre el robot de cocina de Lidl que sí puedes comprar y el modelo prohibido' />
     </a>
 </div>
 
