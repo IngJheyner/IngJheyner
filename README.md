@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomineros-ya-han-superado-niveles-actividad-anteriores-veto-china-981039'>Los criptomineros ya han superado los niveles de actividad anteriores al veto de China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomineros-ya-han-superado-niveles-actividad-anteriores-veto-china-981039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/bitcoin.jpg' alt='Los criptomineros ya han superado los niveles de actividad anteriores al veto de China' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-981511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2562035.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/irobot-roomba-i7556-2561473.jpg' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
     </a>
 </div>
 
