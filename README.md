@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603'>Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-chromebook-311-2562347.jpg' alt='Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-stick-4k-potente-apuesta-xiaomi-competir-chromecast-fire-tv-981851'>Xiaomi TV Stick 4K: la potente apuesta de Xiaomi para competir con Chromecast y Fire TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-stick-4k-potente-apuesta-xiaomi-competir-chromecast-fire-tv-981851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-2562675.jpg' alt='Xiaomi TV Stick 4K: la potente apuesta de Xiaomi para competir con Chromecast y Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847'>Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oro-2562669.jpg' alt='Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833'>Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/final-fantasy-xiv-2562665.jpg' alt='Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787'>Por fin vas a poder subir Stories de más de 15 segundos a Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/instagram-2336645.jpg' alt='Por fin vas a poder subir Stories de más de 15 segundos a Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587'>¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313137.jpg' alt='¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudios-demuestran-noticias-falsas-expanden-tan-rapido-redes-sociales-981797'>Estudios demuestran por qué las noticias falsas se expanden tan rápido en las redes sociales </a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudios-demuestran-noticias-falsas-expanden-tan-rapido-redes-sociales-981797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_1.jpg' alt='Estudios demuestran por qué las noticias falsas se expanden tan rápido en las redes sociales ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-oneplus-nord-2-ce-rediseno-total-981807'>Ya sabemos como será el OnePlus Nord 2 CE: rediseño total</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-oneplus-nord-2-ce-rediseno-total-981807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414881.jpg' alt='Ya sabemos como será el OnePlus Nord 2 CE: rediseño total' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751'>El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyundai-robot-2562449.jpg' alt='El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo' />
     </a>
 </div>
 
