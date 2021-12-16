@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931'>La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nintendo-switch-2503257.jpg' alt='La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685'>Sony patenta una de las tecnologías utilizadas en Death Stranding</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/death-stranding-directors-cut-2449835.jpg' alt='Sony patenta una de las tecnologías utilizadas en Death Stranding' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917'>Microsoft quiere que utilices Edge en Windows 11 te guste o no</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Microsoft quiere que utilices Edge en Windows 11 te guste o no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-oneplus-10-pro-carga-no-seria-tan-rapida-como-ultimas-filtraciones-981901'>Se filtran las especificaciones del OnePlus 10 Pro y la carga no sería tan rápida como en las últimas filtraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-oneplus-10-pro-carga-no-seria-tan-rapida-como-ultimas-filtraciones-981901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Se filtran las especificaciones del OnePlus 10 Pro y la carga no sería tan rápida como en las últimas filtraciones' />
     </a>
 </div>
 
