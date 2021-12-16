@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/stablecoin-aprende-criptomonedas-menor-riesgo-981867'>¿Qué es una stablecoin? Aprende sobre las criptomonedas con menor riesgo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/stablecoin-aprende-criptomonedas-menor-riesgo-981867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stablecoin-2562781.jpg' alt='¿Qué es una stablecoin? Aprende sobre las criptomonedas con menor riesgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847'>Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales</a></h4>
     <a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oro-2562669.jpg' alt='Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833'>Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/final-fantasy-xiv-2562665.jpg' alt='Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito' />
     </a>
 </div>
 
