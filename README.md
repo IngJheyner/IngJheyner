@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787'>Por fin vas a poder subir Stories de más de 15 segundos a Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/instagram-2336645.jpg' alt='Por fin vas a poder subir Stories de más de 15 segundos a Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587'>¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-patinete-electrico-oferta-navidad-amazon-981587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313137.jpg' alt='¿El regalo estrella de las navidades? El patinete eléctrico Xiaomi Mi Electric Scooter Essential ha bajado a menos de 300€ en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751'>El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-hyundai-evitara-proximas-navidades-te-caigan-todas-copas-suelo-981751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyundai-robot-2562449.jpg' alt='El nuevo robot de Hyundai evitará que en las próximas navidades se te caigan todas las copas al suelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tarjeta-grafica-nvidia-gama-media-llegara-dos-versiones-sera-superventas-981729'>La nueva tarjeta gráfica de NVIDIA de gama media llegará en dos versiones, así será la superventas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tarjeta-grafica-nvidia-gama-media-llegara-dos-versiones-sera-superventas-981729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='La nueva tarjeta gráfica de NVIDIA de gama media llegará en dos versiones, así será la superventas' />
     </a>
 </div>
 
