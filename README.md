@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917'>Microsoft quiere que utilices Edge en Windows 11 te guste o no</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-utilices-edge-windows-11-te-guste-no-981917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Microsoft quiere que utilices Edge en Windows 11 te guste o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-oneplus-10-pro-carga-no-seria-tan-rapida-como-ultimas-filtraciones-981901'>Se filtran las especificaciones del OnePlus 10 Pro y la carga no sería tan rápida como en las últimas filtraciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-oneplus-10-pro-carga-no-seria-tan-rapida-como-ultimas-filtraciones-981901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Se filtran las especificaciones del OnePlus 10 Pro y la carga no sería tan rápida como en las últimas filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/audi-dejara-venderse-estados-unidos-981681'>Este Audi dejará de venderse en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/audi-dejara-venderse-estados-unidos-981681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/audi-tt-rs-heritage-edition-2022-2555889.jpg' alt='Este Audi dejará de venderse en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/stablecoin-aprende-criptomonedas-menor-riesgo-981867'>¿Qué es una stablecoin? Aprende sobre las criptomonedas con menor riesgo</a></h4>
     <a href='https://computerhoy.com/noticias/life/stablecoin-aprende-criptomonedas-menor-riesgo-981867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stablecoin-2562781.jpg' alt='¿Qué es una stablecoin? Aprende sobre las criptomonedas con menor riesgo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603'>Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-chromebook-311-2562347.jpg' alt='Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-stick-4k-potente-apuesta-xiaomi-competir-chromecast-fire-tv-981851'>Xiaomi TV Stick 4K: la potente apuesta de Xiaomi para competir con Chromecast y Fire TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-stick-4k-potente-apuesta-xiaomi-competir-chromecast-fire-tv-981851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-2562675.jpg' alt='Xiaomi TV Stick 4K: la potente apuesta de Xiaomi para competir con Chromecast y Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847'>Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/digitaliza-oro-crean-gold-token-nos-permiten-invertir-oro-traves-divisas-digitales-981847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oro-2562669.jpg' alt='Se digitaliza el oro: crean los Gold Token, que nos permiten invertir en oro a través de divisas digitales' />
     </a>
 </div>
 
