@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-presentacion-embutidos-navidad-981289'>Con este truco genial prepararás una presentación de embutidos para esta Navidad que dará que hablar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-genial-presentacion-embutidos-navidad-981289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/truco-genial-prepararas-presentacion-embutidos-navidad-dara-hablar-2561809.jpg' alt='Con este truco genial prepararás una presentación de embutidos para esta Navidad que dará que hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285'>NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nvidia-pc-matrix-resurrections-981285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-pcs-inspirados-matrix-pero-como-tarjetas-rtx-no-pueden-comprar-2561805.jpg' alt='NVIDIA presenta sus PCs inspirados en Matrix Resurrections, pero como sus tarjetas RTX, no se pueden comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281'>El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-gps-reloj-descuento-981281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232505.jpg' alt='El Xiaomi Mi Watch con GPS es el reloj ideal si eres deportista, y tiene un 31% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263'>La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-deshace-parte-interfaz-antigua-windows-981263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='La nueva actualización de Windows 11 se deshace de parte de la interfaz antigua de Windows' />
     </a>
 </div>
 
