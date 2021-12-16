@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-981905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos convertibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603'>Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-estudiantes-barato-puedes-comprar-amazon-acer-chromebook-311-solo-179eu-981603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-chromebook-311-2562347.jpg' alt='Este es el portátil para estudiantes más barato que puedes comprar en Amazon: Acer Chromebook 311 por solo 179€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833'>Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/final-fantasy-xiv-siendo-tan-popular-van-dejar-venderlo-morir-exito-981833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/final-fantasy-xiv-2562665.jpg' alt='Final Fantasy XIV está siendo tan popular que van a dejar de venderlo, así es morir de éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787'>Por fin vas a poder subir Stories de más de 15 segundos a Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-vas-poder-subir-stories-15-segundos-instagram-981787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/instagram-2336645.jpg' alt='Por fin vas a poder subir Stories de más de 15 segundos a Instagram' />
     </a>
 </div>
 
