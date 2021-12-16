@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929'>El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/donald-trump-melania-trump-llegada-aeropuerto-stansted.jpg' alt='El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927'>Spotify estaría preparando una característica para puntuar los podcasts que escuchas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-2562957.jpg' alt='Spotify estaría preparando una característica para puntuar los podcasts que escuchas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931'>La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nintendo-switch-2503257.jpg' alt='La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685'>Sony patenta una de las tecnologías utilizadas en Death Stranding</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-patenta-tecnologias-utilizadas-death-stranding-981685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/death-stranding-directors-cut-2449835.jpg' alt='Sony patenta una de las tecnologías utilizadas en Death Stranding' />
     </a>
 </div>
 
