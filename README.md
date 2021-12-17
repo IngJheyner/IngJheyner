@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-vuelve-oferta-garmin-fenix-6x-pro-black-friday-amazon-981105'>Atención, runners: vuelve la oferta en el Garmin Fenix 6X Pro del Black Friday de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-vuelve-oferta-garmin-fenix-6x-pro-black-friday-amazon-981105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/garmin-fenix-6x-pro-2148169.jpg' alt='Atención, runners: vuelve la oferta en el Garmin Fenix 6X Pro del Black Friday de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693'>5 habilidades que necesitas para conseguir trabajo de desarrollador</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/programadora-2479361.jpg' alt='5 habilidades que necesitas para conseguir trabajo de desarrollador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2563261.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165'>El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-publico-berlin-ofrece-billetes-comestibles-cannabis-relajarse-navidad-2563259.jpg' alt='El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad' />
     </a>
 </div>
 
