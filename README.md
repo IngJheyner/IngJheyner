@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937'>Cómo quitar los olores de la casa sin usar productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-quitar-olores-casa-usar-productos-quimicos-2562959.jpg' alt='Cómo quitar los olores de la casa sin usar productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929'>El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/donald-trump-melania-trump-llegada-aeropuerto-stansted.jpg' alt='El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899'>El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-2562949.jpg' alt='El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931'>La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oferta-981931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nintendo-switch-2503257.jpg' alt='La Nintendo Switch sí tiene stock, con rebaja a 279 euros, y entrega antes de Navidad' />
     </a>
 </div>
 
