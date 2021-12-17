@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413'>La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-sivercrest-2563647.jpg' alt='La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-rizando-rizo-patente-movil-pantalla-deslizante-plegable-mismo-tiempo-982377'>Samsung rizando el rizo con su patente de móvil con pantalla deslizante y plegable al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-rizando-rizo-patente-movil-pantalla-deslizante-plegable-mismo-tiempo-982377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-2536203.jpg' alt='Samsung rizando el rizo con su patente de móvil con pantalla deslizante y plegable al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309'>¿Podría Shiba Inu perder todo su valor?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='¿Podría Shiba Inu perder todo su valor?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297'>La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393'>Cómo descargar canciones de YouTube y música gratis sin programas</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/youtube_0.jpg' alt='Cómo descargar canciones de YouTube y música gratis sin programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299'>PornHub comparte los gustos y preferencias de los españoles y españolas en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-2563475.jpg' alt='PornHub comparte los gustos y preferencias de los españoles y españolas en 2021' />
     </a>
 </div>
 
