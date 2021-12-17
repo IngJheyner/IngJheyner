@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/25-portatiles-oferta-amazon-durante-fin-semana-981849'>Más de 25 portátiles en oferta en Amazon durante este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/25-portatiles-oferta-amazon-durante-fin-semana-981849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-utilizando-portatil-microsoft-surface-2562671.jpg' alt='Más de 25 portátiles en oferta en Amazon durante este fin de semana' />
+    <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-nave-espacial-brujo-pandemia-982467'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una nave espacial, un brujo y una pandemia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-nave-espacial-brujo-pandemia-982467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-fin-semana-2563819.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una nave espacial, un brujo y una pandemia' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343'>El creador de El juego del calamar habla sobre la temporada 2... y Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juego-calamar-final-temporada-1-2557431.jpg' alt='El creador de El juego del calamar habla sobre la temporada 2... y Star Wars' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183'>Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-recomendadas-2563485.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad' />
+    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537'>Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mercedes-inventa-sistema-emergencia-desinfla-ruedas-sirve-2564069.jpg' alt='Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465'>Se crea una batería que puede doblarse y lavarse sin efectos negativos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bateria-doblada-2563815.jpg' alt='Se crea una batería que puede doblarse y lavarse sin efectos negativos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419'>¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?' />
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-productos-robados-supermercados-como-mercadona-lidl-carrefour-982533'>Estos son los productos más robados en supermercados como Mercadona, Lidl o Carrefour</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-productos-robados-supermercados-como-mercadona-lidl-carrefour-982533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robo-supermercado-2564063.jpg' alt='Estos son los productos más robados en supermercados como Mercadona, Lidl o Carrefour' />
     </a>
 </div>
 
