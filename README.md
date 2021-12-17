@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693'>5 habilidades que necesitas para conseguir trabajo de desarrollador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/programadora-2479361.jpg' alt='5 habilidades que necesitas para conseguir trabajo de desarrollador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/joe-biden-planea-compra-600000-vehiculos-electricos-981687'>Joe Biden planea la compra de 600.000 vehículos eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/joe-biden-planea-compra-600000-vehiculos-electricos-981687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/recargar-coche-electrico-2497053.jpg' alt='Joe Biden planea la compra de 600.000 vehículos eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ps5-playstation-5-2497643.jpg' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2563261.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165'>El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-publico-berlin-ofrece-billetes-comestibles-cannabis-relajarse-navidad-2563259.jpg' alt='El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705'>25 chollos de Amazon para rematar las compras de regalos de navidad</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-sonriente-abriendo-regalo-navidad-2562633.jpg' alt='25 chollos de Amazon para rematar las compras de regalos de navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701'>¿Por qué hay luz en la nevera pero no en el congelador? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-delante-nevera-puerta-abierta-2562395.jpg' alt='¿Por qué hay luz en la nevera pero no en el congelador? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937'>Cómo quitar los olores de la casa sin usar productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-quitar-olores-casa-usar-productos-quimicos-2562959.jpg' alt='Cómo quitar los olores de la casa sin usar productos químicos' />
     </a>
 </div>
 
