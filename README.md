@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545'>Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/holanda-prohibe-collares-anti-5g-llevan-negacionistas-porque-han-descubierto-son-radioactivos-2564075.jpg' alt='Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-productos-robados-supermercados-como-mercadona-lidl-carrefour-982533'>Estos son los productos más robados en supermercados como Mercadona, Lidl o Carrefour</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-productos-robados-supermercados-como-mercadona-lidl-carrefour-982533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robo-supermercado-2564063.jpg' alt='Estos son los productos más robados en supermercados como Mercadona, Lidl o Carrefour' />
     </a>
 </div>
 
