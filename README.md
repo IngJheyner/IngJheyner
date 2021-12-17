@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fotos-oficiales-huawei-p50-pocket-diseno-top-982213'>Ya tenemos fotos oficiales del Huawei P50 Pocket, su diseño es top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fotos-oficiales-huawei-p50-pocket-diseno-top-982213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2563337.jpg' alt='Ya tenemos fotos oficiales del Huawei P50 Pocket, su diseño es top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/deberias-estar-comprando-comida-navidad-ocurrira-semana-viene-982199'>Deberías estar comprando la comida de Navidad ante lo que ocurrirá la semana que viene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/deberias-estar-comprando-comida-navidad-ocurrira-semana-viene-982199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pescaderia-2563301.jpg' alt='Deberías estar comprando la comida de Navidad ante lo que ocurrirá la semana que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-camara-sony-moviles-2022-promete-revolucionar-sector-982193'>La nueva tecnología de cámara Sony para móviles en 2022 que promete revolucionar el sector</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-camara-sony-moviles-2022-promete-revolucionar-sector-982193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='La nueva tecnología de cámara Sony para móviles en 2022 que promete revolucionar el sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-vuelve-oferta-garmin-fenix-6x-pro-black-friday-amazon-981105'>Atención, runners: vuelve la oferta en el Garmin Fenix 6X Pro del Black Friday de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-vuelve-oferta-garmin-fenix-6x-pro-black-friday-amazon-981105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/garmin-fenix-6x-pro-2148169.jpg' alt='Atención, runners: vuelve la oferta en el Garmin Fenix 6X Pro del Black Friday de Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693'>5 habilidades que necesitas para conseguir trabajo de desarrollador</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-habilidades-necesitas-conseguir-trabajo-desarrollador-981693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/programadora-2479361.jpg' alt='5 habilidades que necesitas para conseguir trabajo de desarrollador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/joe-biden-planea-compra-600000-vehiculos-electricos-981687'>Joe Biden planea la compra de 600.000 vehículos eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/joe-biden-planea-compra-600000-vehiculos-electricos-981687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/recargar-coche-electrico-2497053.jpg' alt='Joe Biden planea la compra de 600.000 vehículos eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ps5-playstation-5-2497643.jpg' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2563261.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
