@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309'>¿Podría Shiba Inu perder todo su valor?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='¿Podría Shiba Inu perder todo su valor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-locura-amazon-16gb-ram-ryzen-5-pc-asus-cuesta-solo-449-euros-979887'>Precio de locura en Amazon: 16GB de RAM y Ryzen 5 en este PC de ASUS que cuesta solo 449 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-locura-amazon-16gb-ram-ryzen-5-pc-asus-cuesta-solo-449-euros-979887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-s425mc-r5240g0110-2547225.jpg' alt='Precio de locura en Amazon: 16GB de RAM y Ryzen 5 en este PC de ASUS que cuesta solo 449 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297'>La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393'>Cómo descargar canciones de YouTube y música gratis sin programas</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/youtube_0.jpg' alt='Cómo descargar canciones de YouTube y música gratis sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299'>PornHub comparte los gustos y preferencias de los españoles y españolas en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-2563475.jpg' alt='PornHub comparte los gustos y preferencias de los españoles y españolas en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-ruido-son-ahora-baratos-nunca-amazon-981121'>Los auriculares Xiaomi con cancelación de ruido son ahora más baratos que nunca en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-ruido-son-ahora-baratos-nunca-amazon-981121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448173.jpg' alt='Los auriculares Xiaomi con cancelación de ruido son ahora más baratos que nunca en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pensando-comprar-coche-electrico-situacion-real-espana-ocu-982285'>¿Pensando en comprar un coche eléctrico? Esta es la situación real de España según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pensando-comprar-coche-electrico-situacion-real-espana-ocu-982285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='¿Pensando en comprar un coche eléctrico? Esta es la situación real de España según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-acusan-google-jugar-sucio-android-auto-982277'>Usuarios acusan a Google de jugar sucio con Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-acusan-google-jugar-sucio-android-auto-982277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Usuarios acusan a Google de jugar sucio con Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tantos-anos-ciencia-ficcion-convierte-realidad-china-tiene-armas-control-mental-982269'>Tras tantos años en la ciencia ficción se convierte en realidad: China tiene armas de control mental</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tantos-anos-ciencia-ficcion-convierte-realidad-china-tiene-armas-control-mental-982269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/policia-china-usa-gafas-reconocimiento-facial-vigilancia.jpg' alt='Tras tantos años en la ciencia ficción se convierte en realidad: China tiene armas de control mental' />
     </a>
 </div>
 
