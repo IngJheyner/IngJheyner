@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419'>¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982401'>¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/hombre-usando-movil-bebiendo-cerveza-2033439.jpg' alt='¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379'>Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-2563633.jpg' alt='Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207'>Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medidor-co2-2563311.jpg' alt='Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413'>La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-sivercrest-2563647.jpg' alt='La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-rizando-rizo-patente-movil-pantalla-deslizante-plegable-mismo-tiempo-982377'>Samsung rizando el rizo con su patente de móvil con pantalla deslizante y plegable al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-rizando-rizo-patente-movil-pantalla-deslizante-plegable-mismo-tiempo-982377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-podria-lanzar-movil-plegable-combine-formatos-galaxy-z-fold-z-flip-2536203.jpg' alt='Samsung rizando el rizo con su patente de móvil con pantalla deslizante y plegable al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309'>¿Podría Shiba Inu perder todo su valor?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podria-shiba-inu-perder-todo-valor-982309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='¿Podría Shiba Inu perder todo su valor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-locura-amazon-16gb-ram-ryzen-5-pc-asus-cuesta-solo-449-euros-979887'>Precio de locura en Amazon: 16GB de RAM y Ryzen 5 en este PC de ASUS que cuesta solo 449 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-locura-amazon-16gb-ram-ryzen-5-pc-asus-cuesta-solo-449-euros-979887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/asus-s425mc-r5240g0110-2547225.jpg' alt='Precio de locura en Amazon: 16GB de RAM y Ryzen 5 en este PC de ASUS que cuesta solo 449 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297'>La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-resuelve-duda-te-pueden-multar-adelantar-radar-tramo-982297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='La DGT resuelve la duda: ¿te pueden multar por adelantar en un radar de tramo?' />
     </a>
 </div>
 
