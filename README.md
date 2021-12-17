@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-982167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2563261.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165'>El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/billetes-comestibles-cannabis-transporte-publico-berlin-982165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/transporte-publico-berlin-ofrece-billetes-comestibles-cannabis-relajarse-navidad-2563259.jpg' alt='El transporte público de Berlín ofrece billetes comestibles de cannabis para 'relajarse' en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705'>25 chollos de Amazon para rematar las compras de regalos de navidad</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-sonriente-abriendo-regalo-navidad-2562633.jpg' alt='25 chollos de Amazon para rematar las compras de regalos de navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937'>Cómo quitar los olores de la casa sin usar productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-quitar-olores-casa-usar-productos-quimicos-2562959.jpg' alt='Cómo quitar los olores de la casa sin usar productos químicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929'>El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-crece-ahora-melania-trump-contara-propia-plataforma-981929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/donald-trump-melania-trump-llegada-aeropuerto-stansted.jpg' alt='El mercado de los NFT crece y ahora hasta Melania Trump contará con su propia plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927'>Spotify estaría preparando una característica para puntuar los podcasts que escuchas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-2562957.jpg' alt='Spotify estaría preparando una característica para puntuar los podcasts que escuchas' />
     </a>
 </div>
 
