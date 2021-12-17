@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299'>PornHub comparte los gustos y preferencias de los españoles y españolas en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pornhub-comparte-gustos-preferencias-espanoles-espanolas-2021-982299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-2563475.jpg' alt='PornHub comparte los gustos y preferencias de los españoles y españolas en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-ruido-son-ahora-baratos-nunca-amazon-981121'>Los auriculares Xiaomi con cancelación de ruido son ahora más baratos que nunca en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-ruido-son-ahora-baratos-nunca-amazon-981121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448173.jpg' alt='Los auriculares Xiaomi con cancelación de ruido son ahora más baratos que nunca en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/pensando-comprar-coche-electrico-situacion-real-espana-ocu-982285'>¿Pensando en comprar un coche eléctrico? Esta es la situación real de España según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pensando-comprar-coche-electrico-situacion-real-espana-ocu-982285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='¿Pensando en comprar un coche eléctrico? Esta es la situación real de España según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tantos-anos-ciencia-ficcion-convierte-realidad-china-tiene-armas-control-mental-982269'>Tras tantos años en la ciencia ficción se convierte en realidad: China tiene armas de control mental</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tantos-anos-ciencia-ficcion-convierte-realidad-china-tiene-armas-control-mental-982269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/policia-china-usa-gafas-reconocimiento-facial-vigilancia.jpg' alt='Tras tantos años en la ciencia ficción se convierte en realidad: China tiene armas de control mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-regalo-estas-navidades-ahora-descuento-kindle-luz-frontal-integrada-7499-euros-982189'>El mejor regalo para estas navidades, ahora con descuento: Kindle con luz frontal integrada por 74,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-regalo-estas-navidades-ahora-descuento-kindle-luz-frontal-integrada-7499-euros-982189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='El mejor regalo para estas navidades, ahora con descuento: Kindle con luz frontal integrada por 74,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/inteligencia-artificial-encuentra-solucion-plegado-proteinas-mayor-hito-cientifico-2021-science-982239'>La Inteligencia Artificial encuentra solución al plegado de las proteínas, el mayor hito científico de 2021 según Science</a></h4>
-    <a href='https://computerhoy.com/noticias/life/inteligencia-artificial-encuentra-solucion-plegado-proteinas-mayor-hito-cientifico-2021-science-982239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/codigo-genetico-2563395.jpg' alt='La Inteligencia Artificial encuentra solución al plegado de las proteínas, el mayor hito científico de 2021 según Science' />
     </a>
 </div>
 
