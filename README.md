@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705'>25 chollos de Amazon para rematar las compras de regalos de navidad</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/25-ofertas-chollos-fin-semana-amazon-981705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-sonriente-abriendo-regalo-navidad-2562633.jpg' alt='25 chollos de Amazon para rematar las compras de regalos de navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701'>¿Por qué hay luz en la nevera pero no en el congelador? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-delante-nevera-puerta-abierta-2562395.jpg' alt='¿Por qué hay luz en la nevera pero no en el congelador? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937'>Cómo quitar los olores de la casa sin usar productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-olores-casa-metodo-natural-981937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-quitar-olores-casa-usar-productos-quimicos-2562959.jpg' alt='Cómo quitar los olores de la casa sin usar productos químicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927'>Spotify estaría preparando una característica para puntuar los podcasts que escuchas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-981927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spotify-estaria-preparando-caracteristica-puntuar-podcasts-escuchas-2562957.jpg' alt='Spotify estaría preparando una característica para puntuar los podcasts que escuchas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-juegos-gratis-navidades-cheque-10-euros-981935'>Epic Games Store regala un juego cada día estas Navidades y un cheque de 10 euros que se renueva infinitamente con cada compra</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-juegos-gratis-navidades-cheque-10-euros-981935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/epic-games-te-regala-shenmue-iii-cheque-10-euros-renueva-infinitamente-cada-compra-rebajas-2562955.jpg' alt='Epic Games Store regala un juego cada día estas Navidades y un cheque de 10 euros que se renueva infinitamente con cada compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899'>El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-981899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-2562949.jpg' alt='El Xiaomi 12 se deja ver en todo su esplendor en imágenes reales y en un vídeo' />
     </a>
 </div>
 
