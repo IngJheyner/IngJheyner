@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183'>Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-recomendadas-2563485.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465'>Se crea una batería que puede doblarse y lavarse sin efectos negativos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bateria-doblada-2563815.jpg' alt='Se crea una batería que puede doblarse y lavarse sin efectos negativos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379'>Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-2563633.jpg' alt='Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207'>Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medidor-co2-2563311.jpg' alt='Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar' />
     </a>
 </div>
 
