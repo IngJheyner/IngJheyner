@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-nave-espacial-brujo-pandemia-982467'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una nave espacial, un brujo y una pandemia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-nave-espacial-brujo-pandemia-982467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-fin-semana-2563819.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: una nave espacial, un brujo y una pandemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183'>Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-filmin-tomar-aire-antes-navidad-982183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peliculas-recomendadas-2563485.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Filmin para tomar aire antes de la Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982401'>¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/hombre-usando-movil-bebiendo-cerveza-2033439.jpg' alt='¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379'>Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-fit-app-centralizar-todos-datos-deportivos-miden-dispositivos-ha-dejado-entrever-nuevo-982379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-2563633.jpg' alt='Realme Fit es la app para centralizar todos los datos deportivos que miden sus dispositivos y ha dejado entrever uno nuevo' />
     </a>
 </div>
 
