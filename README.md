@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465'>Se crea una batería que puede doblarse y lavarse sin efectos negativos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crea-bateria-puede-doblarse-lavarse-efectos-negativos-982465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bateria-doblada-2563815.jpg' alt='Se crea una batería que puede doblarse y lavarse sin efectos negativos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419'>¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cantidad-cerveza-ya-darias-positivo-control-alcoholemia-guardia-civil-982419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='¿Con qué cantidad de cerveza ya darías positivo en un control de alcoholemia de la Guardia Civil?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207'>Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasa-fiestas-tranquilas-familia-gracias-medidor-co2-perfecto-saber-cuando-debes-ventilar-982207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medidor-co2-2563311.jpg' alt='Pasa las fiestas tranquilas con tu familia gracias a este medidor de CO2, perfecto para saber cuándo debes ventilar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413'>La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-freidora-aire-lidl-chollo-perfecta-grandes-comidas-cenas-navidad-982413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-sivercrest-2563647.jpg' alt='La nueva freidora de aire de Lidl es un chollo y perfecta para las grandes comidas y cenas de Navidad' />
     </a>
 </div>
 
