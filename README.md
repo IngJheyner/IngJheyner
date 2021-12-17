@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23€' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros' />
     </a>
 </div>
 
