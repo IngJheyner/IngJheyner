@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/test-gato-psicopata-981581'>Científicos desarrollan un test para descubrir si tu gato es un psicópata, ¿te atreves a comprobarlo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/test-gato-psicopata-981581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cientificos-desarrollan-cuestinario-descubrir-gato-psicopata-te-atreves-comprobarlo-2562139.jpg' alt='Científicos desarrollan un test para descubrir si tu gato es un psicópata, ¿te atreves a comprobarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-flexibles-como-papel-biodegradables-982245'>Ya están aquí las baterías flexibles como el papel y biodegradables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/baterias-flexibles-como-papel-biodegradables-982245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-baterias-flexibles-como-papel-biodegradables-2563419.jpg' alt='Ya están aquí las baterías flexibles como el papel y biodegradables' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549'>Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-elegir-unas-galletas-saludables-evitar-aceite-palma-no-unico-importante-2564081.jpg' alt='Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547'>Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-cocinas-digitales-locales-fisicos-puertas-donde-puedes-comer-pero-solo-puede-pedir-online-2564079.jpg' alt='Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online' />
     </a>
 </div>
 
