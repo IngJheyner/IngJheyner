@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855'>Recupera todos sus adornos navideños gracias a los AirTags de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtags-adornos-navidenos-2564541.jpg' alt='Recupera todos sus adornos navideños gracias a los AirTags de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853'>Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-982787'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos de sobremesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-982787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos de sobremesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buskill-cable-usb-destruye-portatil-desconecta-982831'>BusKill, el cable USB que destruye tu portátil si se desconecta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buskill-cable-usb-destruye-portatil-desconecta-982831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/buskill-2564499.jpg' alt='BusKill, el cable USB que destruye tu portátil si se desconecta' />
     </a>
 </div>
 
