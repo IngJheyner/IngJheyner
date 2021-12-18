@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-flexibles-como-papel-biodegradables-982245'>Ya están aquí las baterías flexibles como el papel y biodegradables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/baterias-flexibles-como-papel-biodegradables-982245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-baterias-flexibles-como-papel-biodegradables-2563419.jpg' alt='Ya están aquí las baterías flexibles como el papel y biodegradables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-menos-50-euros-981881'>Estos son los mejores auriculares inalámbricos de menos de 50 euros que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-menos-50-euros-981881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lg-tone-free-fp8-2464527.jpg' alt='Estos son los mejores auriculares inalámbricos de menos de 50 euros que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439'>Cómo limpiar la rejilla del horno sin mover ni un solo dedo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-limpiando-horno-cocina-2563725.jpg' alt='Cómo limpiar la rejilla del horno sin mover ni un solo dedo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547'>Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online</a></h4>
     <a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-cocinas-digitales-locales-fisicos-puertas-donde-puedes-comer-pero-solo-puede-pedir-online-2564079.jpg' alt='Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545'>Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/holanda-prohibe-collares-anti-5g-llevan-negacionistas-porque-han-descubierto-son-radioactivos-2564075.jpg' alt='Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros' />
     </a>
 </div>
 
