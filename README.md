@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853'>Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849'>Mercadona sorprende con su versión barata de la polémica Nocilla saludable</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/crema-avellanas-cacao-datiles-hacendado-2564531.jpg' alt='Mercadona sorprende con su versión barata de la polémica Nocilla saludable' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buskill-cable-usb-destruye-portatil-desconecta-982831'>BusKill, el cable USB que destruye tu portátil si se desconecta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buskill-cable-usb-destruye-portatil-desconecta-982831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/buskill-2564499.jpg' alt='BusKill, el cable USB que destruye tu portátil si se desconecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/test-antigenos-como-usarlos-correctamente-hacer-sale-positivo-982817'>Test de antígenos: cómo usarlos correctamente y qué hacer si sale positivo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/test-antigenos-como-usarlos-correctamente-hacer-sale-positivo-982817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='Test de antígenos: cómo usarlos correctamente y qué hacer si sale positivo' />
     </a>
 </div>
 
