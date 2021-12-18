@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439'>Cómo limpiar la rejilla del horno sin mover ni un solo dedo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-limpiando-horno-cocina-2563725.jpg' alt='Cómo limpiar la rejilla del horno sin mover ni un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549'>Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-elegir-unas-galletas-saludables-evitar-aceite-palma-no-unico-importante-2564081.jpg' alt='Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541'>¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autorradio-bluetooth-mp3-manos-libres-chollo-982541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casi-regalan-autorradio-bluetooth-manos-libres-solo-23eu-2564071.jpg' alt='¡Casi la regalan! Una autorradio con Bluetooth, MP3 y manos libres por solo 23 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343'>El creador de El juego del calamar habla sobre la temporada 2... y Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juego-calamar-final-temporada-1-2557431.jpg' alt='El creador de El juego del calamar habla sobre la temporada 2... y Star Wars' />
     </a>
 </div>
 
