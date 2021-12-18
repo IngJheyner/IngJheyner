@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161'>Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/docenas-camellos-expulsados-concurso-belleza-arabia-saudi-porque-duenos-habian-usado-botox-embellecerlos-2563185.jpg' alt='Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895'>Esta lavadora manual no necesita electricidad y es perfecta si vives solo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-manual-portatil-2564565.jpg' alt='Esta lavadora manual no necesita electricidad y es perfecta si vives solo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853'>Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849'>Mercadona sorprende con su versión barata de la polémica Nocilla saludable</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/crema-avellanas-cacao-datiles-hacendado-2564531.jpg' alt='Mercadona sorprende con su versión barata de la polémica Nocilla saludable' />
     </a>
 </div>
 
