@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549'>Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-elegir-unas-galletas-saludables-evitar-aceite-palma-no-unico-importante-2564081.jpg' alt='Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547'>Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online</a></h4>
     <a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-cocinas-digitales-locales-fisicos-puertas-donde-puedes-comer-pero-solo-puede-pedir-online-2564079.jpg' alt='Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343'>El creador de El juego del calamar habla sobre la temporada 2... y Star Wars</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-temporada-2-star-wars-982343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juego-calamar-final-temporada-1-2557431.jpg' alt='El creador de El juego del calamar habla sobre la temporada 2... y Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537'>Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mercedes-inventa-sistema-emergencia-desinfla-ruedas-sirve-2564069.jpg' alt='Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?' />
     </a>
 </div>
 
