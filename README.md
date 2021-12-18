@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363'>Alternativas baratas al robot de Lidl que no tienen nada que envidiarle</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cecotec-mambo-10090-2288991.jpg' alt='Alternativas baratas al robot de Lidl que no tienen nada que envidiarle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855'>Recupera todos sus adornos navideños gracias a los AirTags de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtags-adornos-navidenos-2564541.jpg' alt='Recupera todos sus adornos navideños gracias a los AirTags de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-aun-barata-baja-269-euros-amazon-llega-antes-navidad-982837'>La Xbox Series S, aún más barata: baja a 269 euros en Amazon ¡y llega antes de Navidad!</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-aun-barata-baja-269-euros-amazon-llega-antes-navidad-982837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='La Xbox Series S, aún más barata: baja a 269 euros en Amazon ¡y llega antes de Navidad!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-982787'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos de sobremesa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-982787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores equipos de sobremesa' />
     </a>
 </div>
 
