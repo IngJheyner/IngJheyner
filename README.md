@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895'>Esta lavadora manual no necesita electricidad y es perfecta si vives solo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-manual-portatil-2564565.jpg' alt='Esta lavadora manual no necesita electricidad y es perfecta si vives solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363'>Alternativas baratas al robot de Lidl que no tienen nada que envidiarle</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cecotec-mambo-10090-2288991.jpg' alt='Alternativas baratas al robot de Lidl que no tienen nada que envidiarle' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849'>Mercadona sorprende con su versión barata de la polémica Nocilla saludable</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-sorprende-version-barata-polemica-nocilla-saludable-982849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/crema-avellanas-cacao-datiles-hacendado-2564531.jpg' alt='Mercadona sorprende con su versión barata de la polémica Nocilla saludable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-series-s-aun-barata-baja-269-euros-amazon-llega-antes-navidad-982837'>La Xbox Series S, aún más barata: baja a 269 euros en Amazon ¡y llega antes de Navidad!</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-series-s-aun-barata-baja-269-euros-amazon-llega-antes-navidad-982837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='La Xbox Series S, aún más barata: baja a 269 euros en Amazon ¡y llega antes de Navidad!' />
     </a>
 </div>
 
