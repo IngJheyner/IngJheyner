@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/router-wifi-6-oferta-amazon-ps5-iphone-982425'>Si tienes un iPhone o una PS5, necesitas este router sí o sí, y además ahora está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/router-wifi-6-oferta-amazon-ps5-iphone-982425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tp-link-archer-ax73-2563709.jpg' alt='Si tienes un iPhone o una PS5, necesitas este router sí o sí, y además ahora está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-9a-generacion-review-opinion-981791'>Apple iPad 9ª generación, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-9a-generacion-review-opinion-981791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562515.jpg' alt='Apple iPad 9ª generación, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ha-vuelto-lento-repente-error-microsoft-tiene-solucion-982813'>¿Windows 11 se ha vuelto lento de repente? Es un error de Microsoft y tiene solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ha-vuelto-lento-repente-error-microsoft-tiene-solucion-982813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-portatil-windows-11-2493987.jpg' alt='¿Windows 11 se ha vuelto lento de repente? Es un error de Microsoft y tiene solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/calientabiberones-939157'>Guía y consejos para comprar un calientabiberones</a></h4>
+    <a href='https://computerhoy.com/guia-compra/calientabiberones-939157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/biberones-limpios-2118701.jpg' alt='Guía y consejos para comprar un calientabiberones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-cualquier-imagen-video-android-como-contenido-flotante-truco-975117'>Usa cualquier imagen o vídeo en Android como contenido flotante con este truco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-cualquier-imagen-video-android-como-contenido-flotante-truco-975117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/venatan-flotante-2551391.jpg' alt='Usa cualquier imagen o vídeo en Android como contenido flotante con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-239eu-pesa-menos-15-kg-perfecto-estudiantes-982221'>Este portátil de solo 239€ pesa menos de 1,5 kg y es perfecto para estudiantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-solo-239eu-pesa-menos-15-kg-perfecto-estudiantes-982221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hp-chromebook-14a-na0006ns-2505445.jpg' alt='Este portátil de solo 239€ pesa menos de 1,5 kg y es perfecto para estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/msi-optix-mpg321qrf-qd-review-opinion-980273'>MSI OPTIX MPG321QRF-QD, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/msi-optix-mpg321qrf-qd-review-opinion-980273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/msi-optix-mpg321qrf-qd-review-2560581.jpg' alt='MSI OPTIX MPG321QRF-QD, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/consola-regalar-navidad-estas-son-mejores-opciones-disponibles-981869'>¿Qué consola regalar en Navidad? Estas son las mejores opciones disponibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/consola-regalar-navidad-estas-son-mejores-opciones-disponibles-981869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/comparativa-nintendo-switch-oled-2508399.jpg' alt='¿Qué consola regalar en Navidad? Estas son las mejores opciones disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-originales-familiares-amigos-techie-981037'>10 regalos originales para familiares o amigos  techie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-originales-familiares-amigos-techie-981037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalos-2561177.jpg' alt='10 regalos originales para familiares o amigos  techie' />
     </a>
 </div>
 
