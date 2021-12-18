@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/consola-regalar-navidad-estas-son-mejores-opciones-disponibles-981869'>¿Qué consola regalar en Navidad? Estas son las mejores opciones disponibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/consola-regalar-navidad-estas-son-mejores-opciones-disponibles-981869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/comparativa-nintendo-switch-oled-2508399.jpg' alt='¿Qué consola regalar en Navidad? Estas son las mejores opciones disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-originales-familiares-amigos-techie-981037'>10 regalos originales para familiares o amigos  techie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-originales-familiares-amigos-techie-981037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalos-2561177.jpg' alt='10 regalos originales para familiares o amigos  techie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/test-gato-psicopata-981581'>Científicos desarrollan un test para descubrir si tu gato es un psicópata, ¿te atreves a comprobarlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/test-gato-psicopata-981581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cientificos-desarrollan-cuestinario-descubrir-gato-psicopata-te-atreves-comprobarlo-2562139.jpg' alt='Científicos desarrollan un test para descubrir si tu gato es un psicópata, ¿te atreves a comprobarlo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-menos-50-euros-981881'>Estos son los mejores auriculares inalámbricos de menos de 50 euros que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-menos-50-euros-981881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lg-tone-free-fp8-2464527.jpg' alt='Estos son los mejores auriculares inalámbricos de menos de 50 euros que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439'>Cómo limpiar la rejilla del horno sin mover ni un solo dedo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-rejilla-horno-mover-ni-solo-dedo-982439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-limpiando-horno-cocina-2563725.jpg' alt='Cómo limpiar la rejilla del horno sin mover ni un solo dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549'>Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-elegir-galletas-supermercado-saludables-982549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/como-elegir-unas-galletas-saludables-evitar-aceite-palma-no-unico-importante-2564081.jpg' alt='Cómo elegir unas galletas de supermercado saludables, evitar el aceite de palma no es lo único importante' />
     </a>
 </div>
 
