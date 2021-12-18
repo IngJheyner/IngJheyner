@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547'>Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/cocinas-digitales-chipotle-locales-fisicos-sin-puertas-982547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ya-estan-aqui-cocinas-digitales-locales-fisicos-puertas-donde-puedes-comer-pero-solo-puede-pedir-online-2564079.jpg' alt='Ya están aquí las cocinas digitales, locales físicos sin puertas en donde puedes comer, pero solo se puede pedir online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545'>Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/holanda-prohibe-collares-anti-5g-son-radioactivos-982545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/holanda-prohibe-collares-anti-5g-llevan-negacionistas-porque-han-descubierto-son-radioactivos-2564075.jpg' alt='Holanda prohíbe los collares anti-5G que llevan los negacionistas porque han descubierto que son radioactivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537'>Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mercedes-sistema-emergencia-desinfla-ruedas-982537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mercedes-inventa-sistema-emergencia-desinfla-ruedas-sirve-2564069.jpg' alt='Mercedes inventa un sistema de emergencia que desinfla las ruedas, ¿para qué sirve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-982535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama media' />
     </a>
 </div>
 
