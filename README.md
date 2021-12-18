@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/test-antigenos-como-usarlos-correctamente-hacer-sale-positivo-982817'>Test de antígenos: cómo usarlos correctamente y qué hacer si sale positivo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/test-antigenos-como-usarlos-correctamente-hacer-sale-positivo-982817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='Test de antígenos: cómo usarlos correctamente y qué hacer si sale positivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/router-wifi-6-oferta-amazon-ps5-iphone-982425'>Si tienes un iPhone o una PS5, necesitas este router sí o sí, y además ahora está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/router-wifi-6-oferta-amazon-ps5-iphone-982425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tp-link-archer-ax73-2563709.jpg' alt='Si tienes un iPhone o una PS5, necesitas este router sí o sí, y además ahora está en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/calientabiberones-939157'>Guía y consejos para comprar un calientabiberones</a></h4>
     <a href='https://computerhoy.com/guia-compra/calientabiberones-939157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/biberones-limpios-2118701.jpg' alt='Guía y consejos para comprar un calientabiberones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-cualquier-imagen-video-android-como-contenido-flotante-truco-975117'>Usa cualquier imagen o vídeo en Android como contenido flotante con este truco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usa-cualquier-imagen-video-android-como-contenido-flotante-truco-975117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/venatan-flotante-2551391.jpg' alt='Usa cualquier imagen o vídeo en Android como contenido flotante con este truco' />
     </a>
 </div>
 
