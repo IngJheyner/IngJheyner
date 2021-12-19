@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137'>Crean una pinza robótica capaz de agarrar objetos antes impensables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pinza-robotica-2564869.jpg' alt='Crean una pinza robótica capaz de agarrar objetos antes impensables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163'>realme Book, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='realme Book, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127'>WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093'>Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/cargador-coche-electrico.jpg' alt='Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711'>Audio Technica ATH-M50x BT2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-audio-technica-ath-m50x-bt2-2563923.jpg' alt='Audio Technica ATH-M50x BT2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907'>Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/citroen-presenta-buggy-electrico-puertas-salir-aventura-fines-semana-2564575.jpg' alt='Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana' />
     </a>
 </div>
 
