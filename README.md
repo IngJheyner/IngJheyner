@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229'>Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg' alt='Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225'>Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ni-siquiera-microsoft-tiene-consolas-xbox-tiene-usar-kits-desarrollo-competicion-halo-2565153.jpg' alt='Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207'>NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-nuevos-chips-graficos-rtx-mx-portatiles-2565077.jpg' alt='NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173'>Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ottobots-2564937.jpg' alt='Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto' />
     </a>
 </div>
 
