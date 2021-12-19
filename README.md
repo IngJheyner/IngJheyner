@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225'>Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ni-siquiera-microsoft-tiene-consolas-xbox-tiene-usar-kits-desarrollo-competicion-halo-2565153.jpg' alt='Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217'>Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/elon-musk-vuelve-pedir-twitter-borremos-facebook-1864563.jpg' alt='Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173'>Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ottobots-2564937.jpg' alt='Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165'>Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-2564929.jpg' alt='Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín' />
     </a>
 </div>
 
