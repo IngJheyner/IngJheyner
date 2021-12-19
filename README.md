@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287'>Mejores Power Banks para cargar un portátil con USB Tipo C</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portatil-conectado-usb-c-2563547.jpg' alt='Mejores Power Banks para cargar un portátil con USB Tipo C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207'>NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-nuevos-chips-graficos-rtx-mx-portatiles-2565077.jpg' alt='NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173'>Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ottobots-2564937.jpg' alt='Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149'>Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled48a13la-2564883.jpg' alt='Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137'>Crean una pinza robótica capaz de agarrar objetos antes impensables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pinza-robotica-2564869.jpg' alt='Crean una pinza robótica capaz de agarrar objetos antes impensables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163'>realme Book, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='realme Book, análisis y opinión' />
     </a>
 </div>
 
