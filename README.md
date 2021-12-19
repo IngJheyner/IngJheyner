@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127'>WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-como-mando-diapositivas-ordenador-961191'>Cómo usar tu móvil como mando de diapositivas de un ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-como-mando-diapositivas-ordenador-961191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/office-remote-2526339.jpg' alt='Cómo usar tu móvil como mando de diapositivas de un ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093'>Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/cargador-coche-electrico.jpg' alt='Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907'>Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana</a></h4>
     <a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/citroen-presenta-buggy-electrico-puertas-salir-aventura-fines-semana-2564575.jpg' alt='Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-listas-reproduccion-villancicos-spotify-978997'>Las mejores listas de reproducción de villancicos en Spotify</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-listas-reproduccion-villancicos-spotify-978997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-escuchando-musica-2558019.jpg' alt='Las mejores listas de reproducción de villancicos en Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883'>Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ascento-pro-2564553.jpg' alt='Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú' />
     </a>
 </div>
 
