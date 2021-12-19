@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165'>Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín</a></h4>
+    <a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-2564929.jpg' alt='Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149'>Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled48a13la-2564883.jpg' alt='Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137'>Crean una pinza robótica capaz de agarrar objetos antes impensables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-pinza-robotica-capaz-agarrar-objetos-antes-impensables-983137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pinza-robotica-2564869.jpg' alt='Crean una pinza robótica capaz de agarrar objetos antes impensables' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127'>WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-como-mando-diapositivas-ordenador-961191'>Cómo usar tu móvil como mando de diapositivas de un ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-como-mando-diapositivas-ordenador-961191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/office-remote-2526339.jpg' alt='Cómo usar tu móvil como mando de diapositivas de un ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093'>Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/cargador-coche-electrico.jpg' alt='Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido' />
     </a>
 </div>
 
