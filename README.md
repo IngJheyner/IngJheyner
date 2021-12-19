@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867'>El sadhu indio que lleva 48 años con el brazo levantado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sadhu-indio-lleva-45-anos-brazo-levantado-2560925.jpg' alt='El sadhu indio que lleva 48 años con el brazo levantado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479'>10 regalos Xiaomi para fans de la marca china en España</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='10 regalos Xiaomi para fans de la marca china en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895'>Esta lavadora manual no necesita electricidad y es perfecta si vives solo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-manual-portatil-2564565.jpg' alt='Esta lavadora manual no necesita electricidad y es perfecta si vives solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363'>Alternativas baratas al robot de Lidl que no tienen nada que envidiarle</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cecotec-mambo-10090-2288991.jpg' alt='Alternativas baratas al robot de Lidl que no tienen nada que envidiarle' />
     </a>
 </div>
 
