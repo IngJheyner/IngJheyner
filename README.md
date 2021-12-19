@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173'>Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-robots-autonomos-te-traeran-pedido-comida-mientras-esperas-aeropuerto-983173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ottobots-2564937.jpg' alt='Estos robots autónomos te traerán tu pedido de comida mientras esperas en el aeropuerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165'>Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín</a></h4>
     <a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-2564929.jpg' alt='Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163'>realme Book, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-book-review-opinion-982163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='realme Book, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127'>WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-grupo-eliminar-cualquier-mensaje-983127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp permitirá a los administradores de grupo eliminar cualquier mensaje' />
     </a>
 </div>
 
