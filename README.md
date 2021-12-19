@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479'>10 regalos Xiaomi para fans de la marca china en España</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='10 regalos Xiaomi para fans de la marca china en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487'>¿Hay diferencias entre los formatos JPG y JPEG?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jpg-jpeg-2560329.jpg' alt='¿Hay diferencias entre los formatos JPG y JPEG?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363'>Alternativas baratas al robot de Lidl que no tienen nada que envidiarle</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/alternativas-baratas-robot-lidl-no-tienen-nada-envidiarle-982363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cecotec-mambo-10090-2288991.jpg' alt='Alternativas baratas al robot de Lidl que no tienen nada que envidiarle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855'>Recupera todos sus adornos navideños gracias a los AirTags de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtags-adornos-navidenos-2564541.jpg' alt='Recupera todos sus adornos navideños gracias a los AirTags de Apple' />
     </a>
 </div>
 
