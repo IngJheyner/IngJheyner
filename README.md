@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217'>Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/elon-musk-vuelve-pedir-twitter-borremos-facebook-1864563.jpg' alt='Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287'>Mejores Power Banks para cargar un portátil con USB Tipo C</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portatil-conectado-usb-c-2563547.jpg' alt='Mejores Power Banks para cargar un portátil con USB Tipo C' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165'>Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín</a></h4>
     <a href='https://computerhoy.com/noticias/life/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-983165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienza-intercambiando-horquilla-acaba-consiguiendo-casa-jardin-2564929.jpg' alt='Comienza intercambiando una horquilla y acaba consiguiendo una casa con jardín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149'>Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/television-lg-48-pulgadas-resolucion-4k-regalo-falta-navidades-983149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled48a13la-2564883.jpg' alt='Esta televisión LG de 48 pulgadas a resolución 4K es el regalo que falta para tus Navidades' />
     </a>
 </div>
 
