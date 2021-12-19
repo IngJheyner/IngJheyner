@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093'>Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-tipos-carga-coche-electrico-no-todos-cargan-igual-rapido-973093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/cargador-coche-electrico.jpg' alt='Cargadores y tipos de carga del coche eléctrico: No todos cargan igual de rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711'>Audio Technica ATH-M50x BT2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-audio-technica-ath-m50x-bt2-2563923.jpg' alt='Audio Technica ATH-M50x BT2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883'>Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ascento-pro-2564553.jpg' alt='Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305'>Estos programas son innecesarios en Windows y es mejor desinstalarlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Estos programas son innecesarios en Windows y es mejor desinstalarlos' />
     </a>
 </div>
 
