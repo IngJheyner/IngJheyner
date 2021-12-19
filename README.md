@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883'>Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ascento-pro-2564553.jpg' alt='Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305'>Estos programas son innecesarios en Windows y es mejor desinstalarlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Estos programas son innecesarios en Windows y es mejor desinstalarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889'>Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/visione-2564559.jpg' alt='Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-apple-no-son-iphone-tambien-merecen-pena-982455'>13 productos Apple que no son el iPhone y que también merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-apple-no-son-iphone-tambien-merecen-pena-982455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-event-2470741.jpg' alt='13 productos Apple que no son el iPhone y que también merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867'>El sadhu indio que lleva 48 años con el brazo levantado</a></h4>
     <a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sadhu-indio-lleva-45-anos-brazo-levantado-2560925.jpg' alt='El sadhu indio que lleva 48 años con el brazo levantado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479'>10 regalos Xiaomi para fans de la marca china en España</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-xiaomi-fans-marca-china-espana-982479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='10 regalos Xiaomi para fans de la marca china en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487'>¿Hay diferencias entre los formatos JPG y JPEG?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jpg-jpeg-2560329.jpg' alt='¿Hay diferencias entre los formatos JPG y JPEG?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161'>Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/docenas-camellos-expulsados-concurso-belleza-arabia-saudi-porque-duenos-habian-usado-botox-embellecerlos-2563185.jpg' alt='Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895'>Esta lavadora manual no necesita electricidad y es perfecta si vives solo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-manual-no-necesita-electricidad-perfecta-vives-solo-982895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-manual-portatil-2564565.jpg' alt='Esta lavadora manual no necesita electricidad y es perfecta si vives solo' />
     </a>
 </div>
 
