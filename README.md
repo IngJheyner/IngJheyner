@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711'>Audio Technica ATH-M50x BT2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/audio-technica-ath-m50x-bt2-review-opinion-979711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-audio-technica-ath-m50x-bt2-2563923.jpg' alt='Audio Technica ATH-M50x BT2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907'>Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana</a></h4>
     <a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/citroen-presenta-buggy-electrico-puertas-salir-aventura-fines-semana-2564575.jpg' alt='Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305'>Estos programas son innecesarios en Windows y es mejor desinstalarlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-programas-son-innecesarios-windows-mejor-desinstalarlos-982305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Estos programas son innecesarios en Windows y es mejor desinstalarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889'>Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/visione-2564559.jpg' alt='Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares' />
     </a>
 </div>
 
