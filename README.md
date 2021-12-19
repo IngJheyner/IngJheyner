@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907'>Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/citroen-my-ami-buggy-electrico-sin-puertas-982907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/citroen-presenta-buggy-electrico-puertas-salir-aventura-fines-semana-2564575.jpg' alt='Citroën presenta un buggy eléctrico sin puertas para salir de aventura los fines de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-listas-reproduccion-villancicos-spotify-978997'>Las mejores listas de reproducción de villancicos en Spotify</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-listas-reproduccion-villancicos-spotify-978997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-escuchando-musica-2558019.jpg' alt='Las mejores listas de reproducción de villancicos en Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883'>Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-dos-ruedas-motorizadas-capaz-subir-escaleras-rapido-982883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ascento-pro-2564553.jpg' alt='Crean un robot con dos ruedas motorizadas que es capaz de subir escaleras hasta más rápido que tú' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889'>Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares</a></h4>
     <a href='https://computerhoy.com/noticias/life/superyate-futurista-funciona-gracias-cubierto-totalidad-paneles-solares-982889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/visione-2564559.jpg' alt='Este superyate futurista funciona gracias a que está cubierto en su totalidad por paneles solares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-apple-no-son-iphone-tambien-merecen-pena-982455'>13 productos Apple que no son el iPhone y que también merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-apple-no-son-iphone-tambien-merecen-pena-982455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-event-2470741.jpg' alt='13 productos Apple que no son el iPhone y que también merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867'>El sadhu indio que lleva 48 años con el brazo levantado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/amar-bharati-sadhu-indio-brazo-levantado-980867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sadhu-indio-lleva-45-anos-brazo-levantado-2560925.jpg' alt='El sadhu indio que lleva 48 años con el brazo levantado' />
     </a>
 </div>
 
