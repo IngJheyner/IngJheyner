@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487'>¿Hay diferencias entre los formatos JPG y JPEG?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hay-diferencias-formatos-jpg-jpeg-980487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jpg-jpeg-2560329.jpg' alt='¿Hay diferencias entre los formatos JPG y JPEG?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161'>Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos</a></h4>
     <a href='https://computerhoy.com/noticias/life/camellos-concurso-belleza-arabia-saudi-botox-982161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/docenas-camellos-expulsados-concurso-belleza-arabia-saudi-porque-duenos-habian-usado-botox-embellecerlos-2563185.jpg' alt='Docenas de camellos expulsados de un concurso de belleza en Arabia Saudí, porque sus dueños habían usado bótox para embellecerlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855'>Recupera todos sus adornos navideños gracias a los AirTags de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recupera-todos-adornos-navidenos-gracias-airtags-apple-982855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/airtags-adornos-navidenos-2564541.jpg' alt='Recupera todos sus adornos navideños gracias a los AirTags de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853'>Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-baja-interesa-comprar-shiba-inu-dogecoin-982853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Con el mercado a la baja qué interesa comprar: ¿Shiba Inu o Dogecoin?' />
     </a>
 </div>
 
