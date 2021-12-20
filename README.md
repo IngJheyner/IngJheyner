@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-983365'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-983365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2565303.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171'>Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213'>Las mejores cintas de correr baratas para ponerse en forma en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cinta-correr-2565121.jpg' alt='Las mejores cintas de correr baratas para ponerse en forma en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211'>Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2552967.jpg' alt='Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251'>¿Cuántas formas hay para apagar Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/apagar-ordenador-1865789.jpg' alt='¿Cuántas formas hay para apagar Windows 11?' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-teoria-10000-horas-han-seguido-bill-gates-steve-jobs-982353'>Cómo es 'La teoría de las 10.000 horas' que han seguido Bill Gates o Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-teoria-10000-horas-han-seguido-bill-gates-steve-jobs-982353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/bill-gates-2278561.jpg' alt='Cómo es 'La teoría de las 10.000 horas' que han seguido Bill Gates o Steve Jobs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mosaico-romano-mesita-cafe-982293'>Una casualidad desvela un mosaico romano de hace dos milenios usado como mesita de café durante 50 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mosaico-romano-mesita-cafe-982293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casualidad-desvela-mosaico-romano-hace-dos-milenios-usado-como-mesita-cafe-durante-50-anos-2563467.jpg' alt='Una casualidad desvela un mosaico romano de hace dos milenios usado como mesita de café durante 50 años' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-taquillera-2021-no-ha-estrenado-espana-seguramente-tampoco-has-oido-hablar-ella-982891'>La película más taquillera de 2021 no se ha estrenado en España y seguramente tampoco has oído hablar de ella</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-taquillera-2021-no-ha-estrenado-espana-seguramente-tampoco-has-oido-hablar-ella-982891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/battle-lake-changjin-2564561.jpg' alt='La película más taquillera de 2021 no se ha estrenado en España y seguramente tampoco has oído hablar de ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229'>Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg' alt='Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros' />
+    <h4><a href='https://computerhoy.com/noticias/motor/top-15-paises-robos-coches-europa-encuentra-espana-982347'>El top 15 de países con más robos de coches en Europa, en el que se encuentra España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/top-15-paises-robos-coches-europa-encuentra-espana-982347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/espana-top-15-robos-coches-europa-2559045.jpg' alt='El top 15 de países con más robos de coches en Europa, en el que se encuentra España' />
     </a>
 </div>
 
