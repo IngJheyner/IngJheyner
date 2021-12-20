@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399'>TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/restaurante-ofrece-menu-gratis-ninos-si-padres-dejan-movil-puerta_0.jpg' alt='TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/spider-man-no-way-home-cines-tercer-estreno-taquillero-historia-983383'>Spider-Man: No Way Home muestra que hemos regresado a los cines y es el tercer estreno más taquillero de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/spider-man-no-way-home-cines-tercer-estreno-taquillero-historia-983383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2548271.jpg' alt='Spider-Man: No Way Home muestra que hemos regresado a los cines y es el tercer estreno más taquillero de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-momento-cambiar-portatil-huawei-matebook-14s-pantalla-fullview-tiene-150eu-descuento-980929'>Este es el mejor momento para cambiar de portátil: Huawei MateBook 14s con pantalla FullView tiene 150€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-momento-cambiar-portatil-huawei-matebook-14s-pantalla-fullview-tiene-150eu-descuento-980929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/huawei-matebook-14s-2494851.jpg' alt='Este es el mejor momento para cambiar de portátil: Huawei MateBook 14s con pantalla FullView tiene 150€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171'>Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211'>Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2552967.jpg' alt='Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-teoria-10000-horas-han-seguido-bill-gates-steve-jobs-982353'>Cómo es 'La teoría de las 10.000 horas' que han seguido Bill Gates o Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-teoria-10000-horas-han-seguido-bill-gates-steve-jobs-982353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/bill-gates-2278561.jpg' alt='Cómo es 'La teoría de las 10.000 horas' que han seguido Bill Gates o Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-taquillera-2021-no-ha-estrenado-espana-seguramente-tampoco-has-oido-hablar-ella-982891'>La película más taquillera de 2021 no se ha estrenado en España y seguramente tampoco has oído hablar de ella</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-taquillera-2021-no-ha-estrenado-espana-seguramente-tampoco-has-oido-hablar-ella-982891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/battle-lake-changjin-2564561.jpg' alt='La película más taquillera de 2021 no se ha estrenado en España y seguramente tampoco has oído hablar de ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/top-15-paises-robos-coches-europa-encuentra-espana-982347'>El top 15 de países con más robos de coches en Europa, en el que se encuentra España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/top-15-paises-robos-coches-europa-encuentra-espana-982347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/espana-top-15-robos-coches-europa-2559045.jpg' alt='El top 15 de países con más robos de coches en Europa, en el que se encuentra España' />
     </a>
 </div>
 
