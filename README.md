@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485'>Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores</a></h4>
+    <a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-excitada-saliendo-pared-2565483.jpg' alt='Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557'>Nintendo eShop ahora también tiene una categoría con los títulos más jugados</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nintendo-eshop-generica-2113705.jpg' alt='Nintendo eShop ahora también tiene una categoría con los títulos más jugados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779'>El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2566019.jpg' alt='El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777'>INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/31700-revoluciones-minuto-segundo-eso-alcanza-coche-983547'>31.700 revoluciones por minuto en un segundo, eso alcanza este coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/31700-revoluciones-minuto-segundo-eso-alcanza-coche-983547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/koenigsegg-jesko-2559233.jpg' alt='31.700 revoluciones por minuto en un segundo, eso alcanza este coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755'>¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iveco-camion-autonomo-2565959.jpg' alt='¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeaba-pegasus-iphone-ni-siquiera-necesitaban-tocasemos-pantalla-983743'>Así hackeaba Pegasus los iPhone, ni siquiera necesitaban que tocásemos la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackeaba-pegasus-iphone-ni-siquiera-necesitaban-tocasemos-pantalla-983743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-tiene-mundo-vilo-2410989.jpg' alt='Así hackeaba Pegasus los iPhone, ni siquiera necesitaban que tocásemos la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741'>Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movil-realme-solo-99-euros-pone-aprietos-incluso-xiaomi-baratos-2565937.jpg' alt='Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos' />
     </a>
 </div>
 
