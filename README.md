@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177'>Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navegador-gps-2564991.jpg' alt='Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-ruso-48-nucleos-hace-frente-intel-xeon-amd-epyc-983635'>Este es el procesador ruso de 48 núcleos que le hace frente a Intel Xeon y AMD Epyc</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-ruso-48-nucleos-hace-frente-intel-xeon-amd-epyc-983635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Este es el procesador ruso de 48 núcleos que le hace frente a Intel Xeon y AMD Epyc' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-busca-mejorar-selfies-doble-flash-frontal-vivo-s12-pro-983579'>Vivo busca mejorar los selfies con un doble flash frontal en su Vivo S12 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-busca-mejorar-selfies-doble-flash-frontal-vivo-s12-pro-983579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vivo-s12-pro-2565671.jpg' alt='Vivo busca mejorar los selfies con un doble flash frontal en su Vivo S12 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585'>Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549'>Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vay-2565543.jpg' alt='Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/magicbook-pro-ultrabook-honor-mejores-opciones-dentro-mundo-windows-oferta-699-euros-983483'>MagicBook PRO, el ultrabook de Honor y una de las mejores opciones dentro del mundo Windows, está de oferta por 699 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/magicbook-pro-ultrabook-honor-mejores-opciones-dentro-mundo-windows-oferta-699-euros-983483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/honor-magicbook-pro-2052251.jpg' alt='MagicBook PRO, el ultrabook de Honor y una de las mejores opciones dentro del mundo Windows, está de oferta por 699 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-perfecto-melomanos-facilita-limpieza-cadena-audio-pc-983577'>El SSD perfecto para melómanos que facilita la limpieza de la cadena de audio en el PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-perfecto-melomanos-facilita-limpieza-cadena-audio-pc-983577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ssd-2565559.jpg' alt='El SSD perfecto para melómanos que facilita la limpieza de la cadena de audio en el PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/roblox-que-es-como-funciona-peligros-838485'>Qué es Roblox, peligros, control parental y lo que debes saber si tus hijos quieren empezar a jugar</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/roblox-que-es-como-funciona-peligros-838485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roblox-2563523.jpg' alt='Qué es Roblox, peligros, control parental y lo que debes saber si tus hijos quieren empezar a jugar' />
     </a>
 </div>
 
