@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251'>¿Cuántas formas hay para apagar Windows 11?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/apagar-ordenador-1865789.jpg' alt='¿Cuántas formas hay para apagar Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mosaico-romano-mesita-cafe-982293'>Una casualidad desvela un mosaico romano de hace dos milenios usado como mesita de café durante 50 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mosaico-romano-mesita-cafe-982293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casualidad-desvela-mosaico-romano-hace-dos-milenios-usado-como-mesita-cafe-durante-50-anos-2563467.jpg' alt='Una casualidad desvela un mosaico romano de hace dos milenios usado como mesita de café durante 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229'>Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg' alt='Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217'>Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/elon-musk-vuelve-pedir-twitter-borremos-facebook-1864563.jpg' alt='Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287'>Mejores Power Banks para cargar un portátil con USB Tipo C</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portatil-conectado-usb-c-2563547.jpg' alt='Mejores Power Banks para cargar un portátil con USB Tipo C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207'>NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-nuevos-chips-graficos-rtx-2050-mx-570-portatiles-983207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nvidia-presenta-nuevos-chips-graficos-rtx-mx-portatiles-2565077.jpg' alt='NVIDIA presenta nuevos chips gráficos RTX y MX para portátiles' />
     </a>
 </div>
 
