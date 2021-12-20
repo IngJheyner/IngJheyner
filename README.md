@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/31700-revoluciones-minuto-segundo-eso-alcanza-coche-983547'>31.700 revoluciones por minuto en un segundo, eso alcanza este coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/31700-revoluciones-minuto-segundo-eso-alcanza-coche-983547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/koenigsegg-jesko-2559233.jpg' alt='31.700 revoluciones por minuto en un segundo, eso alcanza este coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755'>¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iveco-camion-autonomo-2565959.jpg' alt='¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741'>Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movil-realme-solo-99-euros-pone-aprietos-incluso-xiaomi-baratos-2565937.jpg' alt='Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/8-mejores-peliculas-romanticas-navidad-979801'>Las 8 mejores películas románticas de Navidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/8-mejores-peliculas-romanticas-navidad-979801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/beso-love-actually-2559189.jpg' alt='Las 8 mejores películas románticas de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735'>De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc </a></h4>
-    <a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ingeniero-criador-gambas-2565929.jpg' alt='De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc ' />
     </a>
 </div>
 
