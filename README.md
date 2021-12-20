@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643'>Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-karen-nyberg-nasa-comiendo-estacion-espacial-internacional-1864635.jpg' alt='Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177'>Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navegador-gps-2564991.jpg' alt='Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585'>Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549'>Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vay-2565543.jpg' alt='Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto' />
     </a>
 </div>
 
