@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427'>Una mujer da a luz en un Tesla mientras éste conducía solo al hospital</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Una mujer da a luz en un Tesla mientras éste conducía solo al hospital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/banco-central-rusia-criptomonedas-prohibicion-983407'>El Banco Central de Rusia desconfía de las criptomonedas y estudia su prohibición</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/banco-central-rusia-criptomonedas-prohibicion-983407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rusia-bitcoin-2565357.jpg' alt='El Banco Central de Rusia desconfía de las criptomonedas y estudia su prohibición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399'>TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/restaurante-ofrece-menu-gratis-ninos-si-padres-dejan-movil-puerta_0.jpg' alt='TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-momento-cambiar-portatil-huawei-matebook-14s-pantalla-fullview-tiene-150eu-descuento-980929'>Este es el mejor momento para cambiar de portátil: Huawei MateBook 14s con pantalla FullView tiene 150€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-momento-cambiar-portatil-huawei-matebook-14s-pantalla-fullview-tiene-150eu-descuento-980929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/huawei-matebook-14s-2494851.jpg' alt='Este es el mejor momento para cambiar de portátil: Huawei MateBook 14s con pantalla FullView tiene 150€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171'>Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-potentes-xiaomi-tiene-50eu-descuento-amazon-983171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los móviles más potentes de Xiaomi tiene 50€ de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211'>Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-gran-titulo-estas-navidades-no-mires-arriba-983211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2552967.jpg' alt='Todos los estrenos de la semana en Netflix con un gran título para estas Navidades: No mires arriba' />
     </a>
 </div>
 
