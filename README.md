@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horario-mercadona-carrefour-lidl-otros-supermercados-fiestas-navidad-2021-ano-nuevo-2022-983539'>Horario de Mercadona, Carrefour, Lidl y otros supermercados en las fiestas de Navidad 2021 y Año Nuevo 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horario-mercadona-carrefour-lidl-otros-supermercados-fiestas-navidad-2021-ano-nuevo-2022-983539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/mercadona-1938949.jpg' alt='Horario de Mercadona, Carrefour, Lidl y otros supermercados en las fiestas de Navidad 2021 y Año Nuevo 2022' />
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585'>Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gobierno-eeuu-tienen-reserva-secreta-bitcoin-pero-jamas-ha-invertido-dolar-criptomoneda-983503'>El gobierno de EE.UU. tienen una reserva secreta de Bitcoin pero jamás ha invertido un dólar en la criptomoneda</a></h4>
-    <a href='https://computerhoy.com/noticias/gobierno-eeuu-tienen-reserva-secreta-bitcoin-pero-jamas-ha-invertido-dolar-criptomoneda-983503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/criptomoneda.jpg' alt='El gobierno de EE.UU. tienen una reserva secreta de Bitcoin pero jamás ha invertido un dólar en la criptomoneda' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549'>Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coches-teledirigidos-vs-autonomos-vay-lanzara-flota-coches-2022-conduciran-remoto-983549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vay-2565543.jpg' alt='Coches teledirigidos vs autónomos: Vay lanzará una flota de coches en 2022 que conducirán en remoto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cambia-forma-adelantar-ciclistas-carretera-6-puntos-200-euros-multa-haces-mal-983447'>Cambia la forma de adelantar ciclistas en carretera: 6 puntos y 200 euros de multa si lo haces mal</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cambia-forma-adelantar-ciclistas-carretera-6-puntos-200-euros-multa-haces-mal-983447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-adelantando-ciclistas-2565379.jpg' alt='Cambia la forma de adelantar ciclistas en carretera: 6 puntos y 200 euros de multa si lo haces mal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/magicbook-pro-ultrabook-honor-mejores-opciones-dentro-mundo-windows-oferta-699-euros-983483'>MagicBook PRO, el ultrabook de Honor y una de las mejores opciones dentro del mundo Windows, está de oferta por 699 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/magicbook-pro-ultrabook-honor-mejores-opciones-dentro-mundo-windows-oferta-699-euros-983483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/honor-magicbook-pro-2052251.jpg' alt='MagicBook PRO, el ultrabook de Honor y una de las mejores opciones dentro del mundo Windows, está de oferta por 699 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-1-auriculares-cancelacion-ruido-creador-oneplus-tiempo-navidad-79eu-983405'>Nothing ear (1), los auriculares con cancelación de ruido del creador de OnePlus, a tiempo para Navidad por 79€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-1-auriculares-cancelacion-ruido-creador-oneplus-tiempo-navidad-79eu-983405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-nothing-ear-1-2421525.jpg' alt='Nothing ear (1), los auriculares con cancelación de ruido del creador de OnePlus, a tiempo para Navidad por 79€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-perfecto-melomanos-facilita-limpieza-cadena-audio-pc-983577'>El SSD perfecto para melómanos que facilita la limpieza de la cadena de audio en el PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-perfecto-melomanos-facilita-limpieza-cadena-audio-pc-983577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ssd-2565559.jpg' alt='El SSD perfecto para melómanos que facilita la limpieza de la cadena de audio en el PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427'>Una mujer da a luz en un Tesla mientras éste conducía solo al hospital</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Una mujer da a luz en un Tesla mientras éste conducía solo al hospital' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/roblox-que-es-como-funciona-peligros-838485'>Qué es Roblox, peligros, control parental y lo que debes saber si tus hijos quieren empezar a jugar</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/roblox-que-es-como-funciona-peligros-838485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roblox-2563523.jpg' alt='Qué es Roblox, peligros, control parental y lo que debes saber si tus hijos quieren empezar a jugar' />
     </a>
 </div>
 
