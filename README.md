@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735'>De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc </a></h4>
+    <a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ingeniero-criador-gambas-2565929.jpg' alt='De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335'>Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/selfie-2539295.jpg' alt='Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409'>GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero9-black-2565333.jpg' alt='GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595'>Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643'>Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-karen-nyberg-nasa-comiendo-estacion-espacial-internacional-1864635.jpg' alt='Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177'>Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navegador-gps-2564991.jpg' alt='Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!' />
     </a>
 </div>
 
