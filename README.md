@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785'>En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/suecia-quieren-implantar-microchip-piel-pasaporte-covid-2566041.jpg' alt='En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485'>Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores</a></h4>
     <a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-excitada-saliendo-pared-2565483.jpg' alt='Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777'>INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-983765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama alta' />
     </a>
 </div>
 
