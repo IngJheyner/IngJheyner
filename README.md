@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-17g90q-primer-portatil-gaming-lg-983799'>LG UltraGear 17G90Q, el primer portátil gaming de LG en toda su historia, llega con lo más potente de Intel y NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-17g90q-primer-portatil-gaming-lg-983799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-ultragear-17g90q-primer-portatil-gaming-lg-toda-historia-llega-potente-intel-nvidia-2566055.jpg' alt='LG UltraGear 17G90Q, el primer portátil gaming de LG en toda su historia, llega con lo más potente de Intel y NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785'>En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/suecia-quieren-implantar-microchip-piel-pasaporte-covid-2566041.jpg' alt='En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779'>El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes</a></h4>
     <a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2566019.jpg' alt='El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777'>INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/incibe-alerta-peligros-tener-version-whatsapp-instalada-983777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='INCIBE alerta de los peligros de tener esta versión de WhatsApp instalada' />
     </a>
 </div>
 
