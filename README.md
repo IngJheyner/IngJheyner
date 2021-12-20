@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/horario-mercadona-carrefour-lidl-otros-supermercados-fiestas-navidad-2021-ano-nuevo-2022-983539'>Horario de Mercadona, Carrefour, Lidl y otros supermercados en las fiestas de Navidad 2021 y Año Nuevo 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/horario-mercadona-carrefour-lidl-otros-supermercados-fiestas-navidad-2021-ano-nuevo-2022-983539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/mercadona-1938949.jpg' alt='Horario de Mercadona, Carrefour, Lidl y otros supermercados en las fiestas de Navidad 2021 y Año Nuevo 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gobierno-eeuu-tienen-reserva-secreta-bitcoin-pero-jamas-ha-invertido-dolar-criptomoneda-983503'>El gobierno de EE.UU. tienen una reserva secreta de Bitcoin pero jamás ha invertido un dólar en la criptomoneda</a></h4>
+    <a href='https://computerhoy.com/noticias/gobierno-eeuu-tienen-reserva-secreta-bitcoin-pero-jamas-ha-invertido-dolar-criptomoneda-983503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/criptomoneda.jpg' alt='El gobierno de EE.UU. tienen una reserva secreta de Bitcoin pero jamás ha invertido un dólar en la criptomoneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cambia-forma-adelantar-ciclistas-carretera-6-puntos-200-euros-multa-haces-mal-983447'>Cambia la forma de adelantar ciclistas en carretera: 6 puntos y 200 euros de multa si lo haces mal</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cambia-forma-adelantar-ciclistas-carretera-6-puntos-200-euros-multa-haces-mal-983447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-adelantando-ciclistas-2565379.jpg' alt='Cambia la forma de adelantar ciclistas en carretera: 6 puntos y 200 euros de multa si lo haces mal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427'>Una mujer da a luz en un Tesla mientras éste conducía solo al hospital</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mujer-da-luz-tesla-mientras-conducia-solo-hospital-983427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Una mujer da a luz en un Tesla mientras éste conducía solo al hospital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/banco-central-rusia-criptomonedas-prohibicion-983407'>El Banco Central de Rusia desconfía de las criptomonedas y estudia su prohibición</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/banco-central-rusia-criptomonedas-prohibicion-983407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rusia-bitcoin-2565357.jpg' alt='El Banco Central de Rusia desconfía de las criptomonedas y estudia su prohibición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399'>TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-no-quiere-ser-solo-app-videos-cortos-ahora-tambien-sera-restaurante-983399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/restaurante-ofrece-menu-gratis-ninos-si-padres-dejan-movil-puerta_0.jpg' alt='TikTok no quiere ser solo tu app de vídeos cortos: ahora también será tu restaurante' />
     </a>
 </div>
 
