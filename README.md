@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409'>GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero9-black-2565333.jpg' alt='GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-funcionan-velocidad-luz-lightelligence-optical-processor-100-veces-rapido-gpu-983613'>Procesadores que funcionan a la velocidad de la luz: Lightelligence Optical Processor es 100 veces más rápido que una GPU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesadores-funcionan-velocidad-luz-lightelligence-optical-processor-100-veces-rapido-gpu-983613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lightelligence-procesador-2565653.jpg' alt='Procesadores que funcionan a la velocidad de la luz: Lightelligence Optical Processor es 100 veces más rápido que una GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595'>Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643'>Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alguna-vez-os-habeis-preguntado-como-debe-ser-cortarse-pelo-espacio-estos-astronautas-te-sacan-dudas-983643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-karen-nyberg-nasa-comiendo-estacion-espacial-internacional-1864635.jpg' alt='Si alguna vez os habéis preguntado cómo debe ser cortarse el pelo en el Espacio estos astronautas te sacan de dudas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177'>Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/motor/gps-barato-camara-aparcamiento-oferta-amazon-983177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navegador-gps-2564991.jpg' alt='Este GPS te ayuda a aparcar mejor y además viene con actualizaciones de por vida ¡y por menos de 100 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-ruso-48-nucleos-hace-frente-intel-xeon-amd-epyc-983635'>Este es el procesador ruso de 48 núcleos que le hace frente a Intel Xeon y AMD Epyc</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-ruso-48-nucleos-hace-frente-intel-xeon-amd-epyc-983635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Este es el procesador ruso de 48 núcleos que le hace frente a Intel Xeon y AMD Epyc' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-busca-mejorar-selfies-doble-flash-frontal-vivo-s12-pro-983579'>Vivo busca mejorar los selfies con un doble flash frontal en su Vivo S12 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-busca-mejorar-selfies-doble-flash-frontal-vivo-s12-pro-983579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vivo-s12-pro-2565671.jpg' alt='Vivo busca mejorar los selfies con un doble flash frontal en su Vivo S12 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585'>Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elon-musk-afirma-pagara-ano-impuestos-cualquier-estadounidense-toda-historia-983585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk afirma que pagará este año más impuestos que cualquier estadounidense en toda la historia' />
     </a>
 </div>
 
