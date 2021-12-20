@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213'>Las mejores cintas de correr baratas para ponerse en forma en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cinta-correr-2565121.jpg' alt='Las mejores cintas de correr baratas para ponerse en forma en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251'>¿Cuántas formas hay para apagar Windows 11?</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/cuantas-formas-hay-apagar-windows-11-979251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/apagar-ordenador-1865789.jpg' alt='¿Cuántas formas hay para apagar Windows 11?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225'>Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ni-siquiera-microsoft-tiene-consolas-xbox-tiene-usar-kits-desarrollo-competicion-halo-2565153.jpg' alt='Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217'>Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/peor-compania-2021-facebook-tesla-983217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/elon-musk-vuelve-pedir-twitter-borremos-facebook-1864563.jpg' alt='Eligen a la Peor Compañía de 2021, y la ganadora no ha sorprendido a nadie ' />
     </a>
 </div>
 
