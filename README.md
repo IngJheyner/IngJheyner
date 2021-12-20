@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-983365'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-983365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2565303.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213'>Las mejores cintas de correr baratas para ponerse en forma en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-cintas-correr-baratas-ponerse-forma-2022-983213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cinta-correr-2565121.jpg' alt='Las mejores cintas de correr baratas para ponerse en forma en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229'>Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-bmax-b2-8-gb-ram-windows-ssd-128-gb-oferta-983229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg' alt='Este Mini PC BMAX B2 con 8 GB de RAM viene con Windows y SSD de 128 GB, y solo cuesta 199 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225'>Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/halo-championship-series-kits-desarrollo-983225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ni-siquiera-microsoft-tiene-consolas-xbox-tiene-usar-kits-desarrollo-competicion-halo-2565153.jpg' alt='Ni siquiera Microsoft tiene consolas Xbox: debe usar kits de desarrollo en una competición de Halo' />
     </a>
 </div>
 
