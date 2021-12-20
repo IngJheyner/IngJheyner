@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755'>¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/camiones-conducen-solos-iveco-ha-conseguido-traera-europa-983755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iveco-camion-autonomo-2565959.jpg' alt='¿Camiones que se conducen solos? Iveco lo ha conseguido y los traerá a Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeaba-pegasus-iphone-ni-siquiera-necesitaban-tocasemos-pantalla-983743'>Así hackeaba Pegasus los iPhone, ni siquiera necesitaban que tocásemos la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackeaba-pegasus-iphone-ni-siquiera-necesitaban-tocasemos-pantalla-983743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-tiene-mundo-vilo-2410989.jpg' alt='Así hackeaba Pegasus los iPhone, ni siquiera necesitaban que tocásemos la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741'>Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-c21y-solo-99-euros-983741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movil-realme-solo-99-euros-pone-aprietos-incluso-xiaomi-baratos-2565937.jpg' alt='Este móvil realme de solo 99 euros pone en aprietos incluso a los Xiaomi más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/8-mejores-peliculas-romanticas-navidad-979801'>Las 8 mejores películas románticas de Navidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/8-mejores-peliculas-romanticas-navidad-979801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/beso-love-actually-2559189.jpg' alt='Las 8 mejores películas románticas de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735'>De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc </a></h4>
     <a href='https://computerhoy.com/noticias/life/ingeniero-informatico-criador-gambas-exito-gracias-tecnologia-biofloc-983735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ingeniero-criador-gambas-2565929.jpg' alt='De ingeniero informático a criador de gambas de éxito gracias la tecnología Biofloc ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335'>Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/selfie-2539295.jpg' alt='Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409'>GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero9-camara-accion-oferta-amazon-983409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero9-black-2565333.jpg' alt='GoPro HERO9, la mejor cámara para grabarte esquiando, haciendo deporte o de vacaciones, tiene más de 90€ de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-funcionan-velocidad-luz-lightelligence-optical-processor-100-veces-rapido-gpu-983613'>Procesadores que funcionan a la velocidad de la luz: Lightelligence Optical Processor es 100 veces más rápido que una GPU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesadores-funcionan-velocidad-luz-lightelligence-optical-processor-100-veces-rapido-gpu-983613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lightelligence-procesador-2565653.jpg' alt='Procesadores que funcionan a la velocidad de la luz: Lightelligence Optical Processor es 100 veces más rápido que una GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595'>Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-te-pone-facil-amigo-invisible-bateria-externa-movil-ademas-calienta-manos-983595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='Lidl te pone fácil el amigo invisible con esta batería externa para el móvil que además calienta las manos' />
     </a>
 </div>
 
