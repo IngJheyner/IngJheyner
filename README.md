@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-edad-minima-utilizar-bizum-limitaciones-tienen-menores-edad-984097'>Cuál es la edad mínima para utilizar Bizum y qué limitaciones tienen los menores de edad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-edad-minima-utilizar-bizum-limitaciones-tienen-menores-edad-984097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clave-bizum-forma-pago-comercios-triunfa-jovenes-2419825.jpg' alt='Cuál es la edad mínima para utilizar Bizum y qué limitaciones tienen los menores de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-usuarios-creian-estar-hablando-modelos-pero-era-empleados-984065'>Nueva polémica en OnlyFans: los usuarios creían estar hablando con modelos, pero era con empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-usuarios-creian-estar-hablando-modelos-pero-era-empleados-984065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/onlyfans-2235359.jpg' alt='Nueva polémica en OnlyFans: los usuarios creían estar hablando con modelos, pero era con empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-pechuga-pollo-cultivada-laboratorio-puedes-pagar-984079'>Esta es la primera pechuga de pollo cultivada en laboratorio que puedes pagar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-pechuga-pollo-cultivada-laboratorio-puedes-pagar-984079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pollo-2381861.jpg' alt='Esta es la primera pechuga de pollo cultivada en laboratorio que puedes pagar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385'>Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967'>Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-display-238-2561061.jpg' alt='Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-cede-censura-china-hay-libro-no-puede-recibir-menos-5-estrellas-984045'>Amazon cede a la censura en China y hay un libro que no puede recibir menos de 5 estrellas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-cede-censura-china-hay-libro-no-puede-recibir-menos-5-estrellas-984045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-5-estrellas-2566273.jpg' alt='Amazon cede a la censura en China y hay un libro que no puede recibir menos de 5 estrellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lanzara-semana-viene-sera-primer-telefono-snapdragon-8-gen-1-984041'>El Xiaomi 12 se lanzará la semana que viene: será el primer teléfono con el Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lanzara-semana-viene-sera-primer-telefono-snapdragon-8-gen-1-984041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-2562949.jpg' alt='El Xiaomi 12 se lanzará la semana que viene: será el primer teléfono con el Snapdragon 8 Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029'>Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas' />
     </a>
 </div>
 
