@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247'>Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021 gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021 gratis' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-empezando-sumergir-servidores-peceras-984257'>Telefónica está empezando a sumergir sus servidores en peceras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefonica-empezando-sumergir-servidores-peceras-984257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telefonica-2566885.jpg' alt='Telefónica está empezando a sumergir sus servidores en peceras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-nombres-usos-absurdos-shiba-inu-putincoin-whoppercoin-984101'>Las criptomonedas con los nombres y usos más absurdos: Shiba inu, Putincoin, Whoppercoin y más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-nombres-usos-absurdos-shiba-inu-putincoin-whoppercoin-984101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Las criptomonedas con los nombres y usos más absurdos: Shiba inu, Putincoin, Whoppercoin y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247'>Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-oferta-reproductor-streaming-alexa-983717'>Amazon tiene un reproductor de streaming que además es altavoz Alexa y te permite controlar tu TV con la voz por menos de 85€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-oferta-reproductor-streaming-alexa-983717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazon-fire-tv-cube-2078661.jpg' alt='Amazon tiene un reproductor de streaming que además es altavoz Alexa y te permite controlar tu TV con la voz por menos de 85€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/puede-multarte-policia-aparcar-mal-circular-forma-incorrecta-centro-comercial-984195'>¿Puede multarte la policía por aparcar mal o circular de forma incorrecta en un centro comercial?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/puede-multarte-policia-aparcar-mal-circular-forma-incorrecta-centro-comercial-984195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/multa-1890043.jpg' alt='¿Puede multarte la policía por aparcar mal o circular de forma incorrecta en un centro comercial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-atreviste-zapatillas-lidl-no-te-puedes-perder-auriculares-inalambricos-juego-984167'>Si te atreviste con las zapatillas de LIDL no te puedes perder los auriculares inalámbricos a juego</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-atreviste-zapatillas-lidl-no-te-puedes-perder-auriculares-inalambricos-juego-984167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-inalambricos-lidl-2566627.jpg' alt='Si te atreviste con las zapatillas de LIDL no te puedes perder los auriculares inalámbricos a juego' />
     </a>
 </div>
 
