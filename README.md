@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-hay-luz-final-tunel-samsung-galaxy-s21-fe-tendria-ya-fecha-presentacion-984289'>Parece que hay luz al final del túnel y el Samsung Galaxy S21 FE tendría ya fecha de presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/parece-hay-luz-final-tunel-samsung-galaxy-s21-fe-tendria-ya-fecha-presentacion-984289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-galaxy-s21-fe-2360043.jpg' alt='Parece que hay luz al final del túnel y el Samsung Galaxy S21 FE tendría ya fecha de presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-era-volkswagen-bluesport-concept-nos-ofrecia-984017'>Cómo era el Volkswagen BlueSport Concept y qué nos ofrecía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-era-volkswagen-bluesport-concept-nos-ofrecia-984017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/volkswagen-bluesport-2560161.jpg' alt='Cómo era el Volkswagen BlueSport Concept y qué nos ofrecía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299'>El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285'>Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos</a></h4>
     <a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-autonomos-2022-montaran-140-gb-ram-1-tb-almacenamiento-984307'>Los coches autónomos de 2022 montarán 140 GB de RAM y 1 TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coches-autonomos-2022-montaran-140-gb-ram-1-tb-almacenamiento-984307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/coche-autonomo.jpg' alt='Los coches autónomos de 2022 montarán 140 GB de RAM y 1 TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265'>Así es la chaqueta de Realidad Virtual de una compañía española que ha ganado el premio a la innovación en CES 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/owo-2566949.jpg' alt='Así es la chaqueta de Realidad Virtual de una compañía española que ha ganado el premio a la innovación en CES 2022' />
     </a>
 </div>
 
