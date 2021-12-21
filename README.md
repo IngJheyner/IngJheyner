@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385'>Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967'>Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-display-238-2561061.jpg' alt='Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-cede-censura-china-hay-libro-no-puede-recibir-menos-5-estrellas-984045'>Amazon cede a la censura en China y hay un libro que no puede recibir menos de 5 estrellas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-cede-censura-china-hay-libro-no-puede-recibir-menos-5-estrellas-984045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-5-estrellas-2566273.jpg' alt='Amazon cede a la censura en China y hay un libro que no puede recibir menos de 5 estrellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lanzara-semana-viene-sera-primer-telefono-snapdragon-8-gen-1-984041'>El Xiaomi 12 se lanzará la semana que viene: será el primer teléfono con el Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lanzara-semana-viene-sera-primer-telefono-snapdragon-8-gen-1-984041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-todo-esplendor-imagenes-reales-video-2562949.jpg' alt='El Xiaomi 12 se lanzará la semana que viene: será el primer teléfono con el Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029'>Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas</a></h4>
     <a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/regalar-lector-libros-electronicos-kindle-otras-cuatro-opciones-merecen-pena-983473'>Regalar un lector de libros electrónicos: Kindle y otras cuatro opciones que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/regalar-lector-libros-electronicos-kindle-otras-cuatro-opciones-merecen-pena-983473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lector-libros-electronicos-ebooks-2565407.jpg' alt='Regalar un lector de libros electrónicos: Kindle y otras cuatro opciones que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571'>Elon Musk afirma que sus tuits no influyen en los mercados</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk afirma que sus tuits no influyen en los mercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cadena-supermercados-ha-triunfado-como-ninguna-otra-2021-ya-amenaza-grandes-983379'>Una cadena de supermercados ha triunfado como ninguna otra en 2021 y ya amenaza a las más grandes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cadena-supermercados-ha-triunfado-como-ninguna-otra-2021-ya-amenaza-grandes-983379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aldi-2535471.jpg' alt='Una cadena de supermercados ha triunfado como ninguna otra en 2021 y ya amenaza a las más grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561'>Así se pasa de centímetros cúbicos a litros, esta es su conversión</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/futuro-porsche-911-pasa-motores-mayor-cilindrada-1946081.jpg' alt='Así se pasa de centímetros cúbicos a litros, esta es su conversión' />
     </a>
 </div>
 
