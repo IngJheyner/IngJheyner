@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pink-stuff-milagro-limpieza-arrasa-redes-983769'>Qué es The Pink Stuff, el milagro de limpieza que arrasa en las redes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pink-stuff-milagro-limpieza-arrasa-redes-983769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pink-stuff-2566009.jpg' alt='Qué es The Pink Stuff, el milagro de limpieza que arrasa en las redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-subsistema-linux-windows-11-948063'>Así puedes instalar el subsistema Linux en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-subsistema-linux-windows-11-948063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/microsoft-linux-fin-juntos-cbl-mariner-2412353.jpg' alt='Así puedes instalar el subsistema Linux en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tes-antiinflamatorios-antioxidantes-983801'>5 tés antiinflamatorios que deberías comenzar a tomar</a></h4>
     <a href='https://computerhoy.com/noticias/life/tes-antiinflamatorios-antioxidantes-983801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/zumo-antiinflamatorio-previene-multitud-enfermedades-doctor-muy-facil-preparar-2566057.jpg' alt='5 tés antiinflamatorios que deberías comenzar a tomar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785'>En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microchip-piel-pasaporte-covid-epicenter-983785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/suecia-quieren-implantar-microchip-piel-pasaporte-covid-2566041.jpg' alt='En Suecia quieren implantar un microchip bajo la piel con el pasaporte COVID' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485'>Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores</a></h4>
-    <a href='https://computerhoy.com/listas/life/liquidacion-satisfyer-modelos-oferta-distintos-colores-983485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-excitada-saliendo-pared-2565483.jpg' alt='Liquidación en Satisfyer: cinco modelos en oferta y en distintos colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557'>Nintendo eShop ahora también tiene una categoría con los títulos más jugados</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nintendo-eshop-generica-2113705.jpg' alt='Nintendo eShop ahora también tiene una categoría con los títulos más jugados' />
     </a>
 </div>
 
