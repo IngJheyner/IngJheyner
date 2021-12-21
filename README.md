@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-ocu-pagar-menos-impuestos-tener-irte-vivir-andorra-como-youtuber-984151'>Consejos de la OCU para pagar menos impuestos sin tener que irte a vivir a Andorra como un youtuber</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-ocu-pagar-menos-impuestos-tener-irte-vivir-andorra-como-youtuber-984151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/declaracion-renta-impuestos.jpg' alt='Consejos de la OCU para pagar menos impuestos sin tener que irte a vivir a Andorra como un youtuber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-triunfa-consumidores-atareados-ultimas-novedades-984107'>Mercadona triunfa entre los consumidores más atareados con una de sus últimas novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-triunfa-consumidores-atareados-ultimas-novedades-984107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/listo-comer-mercadona-2068963.jpg' alt='Mercadona triunfa entre los consumidores más atareados con una de sus últimas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-edad-minima-utilizar-bizum-limitaciones-tienen-menores-edad-984097'>Cuál es la edad mínima para utilizar Bizum y qué limitaciones tienen los menores de edad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-edad-minima-utilizar-bizum-limitaciones-tienen-menores-edad-984097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clave-bizum-forma-pago-comercios-triunfa-jovenes-2419825.jpg' alt='Cuál es la edad mínima para utilizar Bizum y qué limitaciones tienen los menores de edad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-pechuga-pollo-cultivada-laboratorio-puedes-pagar-984079'>Esta es la primera pechuga de pollo cultivada en laboratorio que puedes pagar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-pechuga-pollo-cultivada-laboratorio-puedes-pagar-984079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pollo-2381861.jpg' alt='Esta es la primera pechuga de pollo cultivada en laboratorio que puedes pagar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385'>Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-fitbit-rebajado-amazon-155-euros-983385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Uno de los mejores relojes de Fitbit está rebajado en Amazon a 155 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967'>Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-display-238-monitor-cuida-vista-ahora-tiene-descuento-exclusivo-50eu-codigo-980967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-display-238-2561061.jpg' alt='Huawei Display de 23,8" es un monitor que cuida de tu vista y ahora tiene un descuento exclusivo de 50€ con este código' />
     </a>
 </div>
 
