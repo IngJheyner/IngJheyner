@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377'>La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538037.jpg' alt='La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379'>Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524073.jpg' alt='Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019'>El creador de Silent Hill opina sobre lo difícil que sería hacer un remake</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/silent-hill-2328421.jpg' alt='El creador de Silent Hill opina sobre lo difícil que sería hacer un remake' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-2567149.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/polemica-nueva-ley-trafico-dgt-ya-tiene-fecha-todo-debes-saber-984369'>La polémica nueva ley de tráfico de la DGT ya tiene fecha: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/polemica-nueva-ley-trafico-dgt-ya-tiene-fecha-todo-debes-saber-984369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-conduciendo-vehiculo-2567143.jpg' alt='La polémica nueva ley de tráfico de la DGT ya tiene fecha: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-modelos-iphone-ipad-quedarian-obsoletos-ios-16-984363'>Estos son los modelos de iPhone y iPad que quedarían obsoletos con iOS 16</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-modelos-iphone-ipad-quedarian-obsoletos-ios-16-984363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ios-14-2080803.jpg' alt='Estos son los modelos de iPhone y iPad que quedarían obsoletos con iOS 16' />
     </a>
 </div>
 
