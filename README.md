@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029'>Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/airbnb-avisa-quieran-alquilar-casa-nochevieja-acabaron-fiestas-984029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb avisa a los que quieran alquilar una casa en Nochevieja: se acabaron las fiestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/regalar-lector-libros-electronicos-kindle-otras-cuatro-opciones-merecen-pena-983473'>Regalar un lector de libros electrónicos: Kindle y otras cuatro opciones que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/regalar-lector-libros-electronicos-kindle-otras-cuatro-opciones-merecen-pena-983473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lector-libros-electronicos-ebooks-2565407.jpg' alt='Regalar un lector de libros electrónicos: Kindle y otras cuatro opciones que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571'>Elon Musk afirma que sus tuits no influyen en los mercados</a></h4>
     <a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk afirma que sus tuits no influyen en los mercados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561'>Así se pasa de centímetros cúbicos a litros, esta es su conversión</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/futuro-porsche-911-pasa-motores-mayor-cilindrada-1946081.jpg' alt='Así se pasa de centímetros cúbicos a litros, esta es su conversión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-983995'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-983995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2566237.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/accesorios-mejoraran-espacio-teletrabajo-casa-983509'>25 accesorios que mejorarán tu espacio de teletrabajo en casa</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/accesorios-mejoraran-espacio-teletrabajo-casa-983509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/escritorio-casa-portatil-2565497.jpg' alt='25 accesorios que mejorarán tu espacio de teletrabajo en casa' />
     </a>
 </div>
 
