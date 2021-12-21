@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285'>Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coches-autonomos-2022-montaran-140-gb-ram-1-tb-almacenamiento-984307'>Los coches autónomos de 2022 montarán 140 GB de RAM y 1 TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coches-autonomos-2022-montaran-140-gb-ram-1-tb-almacenamiento-984307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/coche-autonomo.jpg' alt='Los coches autónomos de 2022 montarán 140 GB de RAM y 1 TB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265'>Así es la chaqueta de la compañía Owo Game que ha ganado el premio a la innovación en CES 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/owo-2566949.jpg' alt='Así es la chaqueta de la compañía Owo Game que ha ganado el premio a la innovación en CES 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/meta-descubre-50000-usuarios-facebook-han-sido-hackeados-984249'>Meta descubre que más de 50.000 usuarios de Facebook han sido hackeados</a></h4>
     <a href='https://computerhoy.com/noticias/life/meta-descubre-50000-usuarios-facebook-han-sido-hackeados-984249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Meta descubre que más de 50.000 usuarios de Facebook han sido hackeados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sobremesa-acer-autentica-bestia-grafica-gtx-1650-intel-core-i5-1099-euros-983603'>Este sobremesa de Acer es una auténtica bestia: gráfica GTX 1650 e Intel Core i5 por 1.099 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sobremesa-acer-autentica-bestia-grafica-gtx-1650-intel-core-i5-1099-euros-983603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/acer-nitro-50-1973451.jpg' alt='Este sobremesa de Acer es una auténtica bestia: gráfica GTX 1650 e Intel Core i5 por 1.099 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-empezando-sumergir-servidores-peceras-984257'>Telefónica está empezando a sumergir sus servidores en peceras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefonica-empezando-sumergir-servidores-peceras-984257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telefonica-2566885.jpg' alt='Telefónica está empezando a sumergir sus servidores en peceras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-nombres-usos-absurdos-shiba-inu-putincoin-whoppercoin-984101'>Las criptomonedas con los nombres y usos más absurdos: Shiba inu, Putincoin, Whoppercoin y más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-nombres-usos-absurdos-shiba-inu-putincoin-whoppercoin-984101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Las criptomonedas con los nombres y usos más absurdos: Shiba inu, Putincoin, Whoppercoin y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247'>Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021' />
     </a>
 </div>
 
