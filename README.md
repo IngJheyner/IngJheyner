@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247'>Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021 gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/comprueba-online-decimos-participaciones-loteria-navidad-2021-gratis-984247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Comprueba online tus décimos y participaciones de la Lotería de Navidad 2021 gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-podras-fingir-oficina-estas-arriba-trabajo-984235'>Con esta web podrás fingir en la oficina que estás hasta arriba de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/web-podras-fingir-oficina-estas-arriba-trabajo-984235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oficina-2351365.jpg' alt='Con esta web podrás fingir en la oficina que estás hasta arriba de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-oferta-reproductor-streaming-alexa-983717'>Amazon tiene un reproductor de streaming que además es altavoz Alexa y te permite controlar tu TV con la voz por menos de 85€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-oferta-reproductor-streaming-alexa-983717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazon-fire-tv-cube-2078661.jpg' alt='Amazon tiene un reproductor de streaming que además es altavoz Alexa y te permite controlar tu TV con la voz por menos de 85€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/puede-multarte-policia-aparcar-mal-circular-forma-incorrecta-centro-comercial-984195'>¿Puede multarte la policía por aparcar mal o circular de forma incorrecta en un centro comercial?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/puede-multarte-policia-aparcar-mal-circular-forma-incorrecta-centro-comercial-984195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/multa-1890043.jpg' alt='¿Puede multarte la policía por aparcar mal o circular de forma incorrecta en un centro comercial?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-atreviste-zapatillas-lidl-no-te-puedes-perder-auriculares-inalambricos-juego-984167'>Si te atreviste con las zapatillas de LIDL no te puedes perder los auriculares inalámbricos a juego</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-atreviste-zapatillas-lidl-no-te-puedes-perder-auriculares-inalambricos-juego-984167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-inalambricos-lidl-2566627.jpg' alt='Si te atreviste con las zapatillas de LIDL no te puedes perder los auriculares inalámbricos a juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Lista actualizada con todos los comandos de voz 'Ok, Google' para el asistente de Google en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-home-mini_0.jpg' alt='Lista actualizada con todos los comandos de voz 'Ok, Google' para el asistente de Google en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-va-todo-roomba-robot-aspirador-mucho-barato-ahora-oferta-menos-200-euros-983403'>realme va con todo contra las Roomba: su robot aspirador es mucho más barato ahora que está en oferta por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-va-todo-roomba-robot-aspirador-mucho-barato-ahora-oferta-menos-200-euros-983403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-realme-techlife-vacuum-2391145.jpg' alt='realme va con todo contra las Roomba: su robot aspirador es mucho más barato ahora que está en oferta por menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-ocu-pagar-menos-impuestos-tener-irte-vivir-andorra-como-youtuber-984151'>Consejos de la OCU para pagar menos impuestos sin tener que irte a vivir a Andorra como un youtuber</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-ocu-pagar-menos-impuestos-tener-irte-vivir-andorra-como-youtuber-984151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/declaracion-renta-impuestos.jpg' alt='Consejos de la OCU para pagar menos impuestos sin tener que irte a vivir a Andorra como un youtuber' />
     </a>
 </div>
 
