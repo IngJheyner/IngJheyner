@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571'>Elon Musk afirma que sus tuits no influyen en los mercados</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/elon-musk-afirma-tuits-no-influyen-mercados-983571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk afirma que sus tuits no influyen en los mercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cadena-supermercados-ha-triunfado-como-ninguna-otra-2021-ya-amenaza-grandes-983379'>Una cadena de supermercados ha triunfado como ninguna otra en 2021 y ya amenaza a las más grandes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cadena-supermercados-ha-triunfado-como-ninguna-otra-2021-ya-amenaza-grandes-983379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aldi-2535471.jpg' alt='Una cadena de supermercados ha triunfado como ninguna otra en 2021 y ya amenaza a las más grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561'>Así se pasa de centímetros cúbicos a litros, esta es su conversión</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pasa-centimetros-cubicos-litros-conversion-983561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/futuro-porsche-911-pasa-motores-mayor-cilindrada-1946081.jpg' alt='Así se pasa de centímetros cúbicos a litros, esta es su conversión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-983995'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-983995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2566237.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/accesorios-mejoraran-espacio-teletrabajo-casa-983509'>25 accesorios que mejorarán tu espacio de teletrabajo en casa</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/accesorios-mejoraran-espacio-teletrabajo-casa-983509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/escritorio-casa-portatil-2565497.jpg' alt='25 accesorios que mejorarán tu espacio de teletrabajo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/entrega-paquetes-drones-matternet-983993'>El futuro de los análisis médicos y la entrega de paquetes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/entrega-paquetes-drones-matternet-983993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/futuro-analisis-medicos-2566235.jpg' alt='El futuro de los análisis médicos y la entrega de paquetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pink-stuff-milagro-limpieza-arrasa-redes-983769'>Qué es The Pink Stuff, el milagro de limpieza que arrasa en las redes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pink-stuff-milagro-limpieza-arrasa-redes-983769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pink-stuff-2566009.jpg' alt='Qué es The Pink Stuff, el milagro de limpieza que arrasa en las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-subsistema-linux-windows-11-948063'>Así puedes instalar el subsistema Linux en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-subsistema-linux-windows-11-948063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/microsoft-linux-fin-juntos-cbl-mariner-2412353.jpg' alt='Así puedes instalar el subsistema Linux en Windows 11' />
     </a>
 </div>
 
