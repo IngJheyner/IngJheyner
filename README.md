@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-desactivar-google-lens-984387'>Chrome ha cambiado el buscador de imágenes por Google Lens, así puedes desactivarlo para volver a dejarlo como antes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-desactivar-google-lens-984387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chrome-ha-cambiado-buscador-imagenes-google-lens-puedes-desactivarlo-volver-dejarlo-como-antes-2567221.jpg' alt='Chrome ha cambiado el buscador de imágenes por Google Lens, así puedes desactivarlo para volver a dejarlo como antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377'>La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538037.jpg' alt='La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-984367'>El Moto G Stylus 2022 se filtra con todo detalle en imágenes y en un vídeo donde se aprecia en todos sus ángulos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-984367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-2567141.jpg' alt='El Moto G Stylus 2022 se filtra con todo detalle en imágenes y en un vídeo donde se aprecia en todos sus ángulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-2567149.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming' />
     </a>
 </div>
 
