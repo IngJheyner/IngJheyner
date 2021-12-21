@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tes-antiinflamatorios-antioxidantes-983801'>5 tés antiinflamatorios que deberías comenzar a tomar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tes-antiinflamatorios-antioxidantes-983801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/zumo-antiinflamatorio-previene-multitud-enfermedades-doctor-muy-facil-preparar-2566057.jpg' alt='5 tés antiinflamatorios que deberías comenzar a tomar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-17g90q-primer-portatil-gaming-lg-983799'>LG UltraGear 17G90Q, el primer portátil gaming de LG en toda su historia, llega con lo más potente de Intel y NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-17g90q-primer-portatil-gaming-lg-983799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-ultragear-17g90q-primer-portatil-gaming-lg-toda-historia-llega-potente-intel-nvidia-2566055.jpg' alt='LG UltraGear 17G90Q, el primer portátil gaming de LG en toda su historia, llega con lo más potente de Intel y NVIDIA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557'>Nintendo eShop ahora también tiene una categoría con los títulos más jugados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-eshop-ahora-tambien-tiene-categoria-titulos-jugados-983557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nintendo-eshop-generica-2113705.jpg' alt='Nintendo eShop ahora también tiene una categoría con los títulos más jugados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779'>El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ministerio-consumo-ensena-redes-como-distinguir-buen-roscon-reyes-983779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2566019.jpg' alt='El Ministerio de Consumo enseña en redes cómo distinguir un buen roscón de reyes' />
     </a>
 </div>
 
