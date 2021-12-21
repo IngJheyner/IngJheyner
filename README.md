@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299'>El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/triunfa-navidad-regalo-estrella-airpods-pro-estuche-carga-magsafe-229-euros-983627'>Triunfa esta Navidad con el regalo estrella: AirPods Pro con estuche de carga MagSafe por 229 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/triunfa-navidad-regalo-estrella-airpods-pro-estuche-carga-magsafe-229-euros-983627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/AirPodsPro2389085.jpg' alt='Triunfa esta Navidad con el regalo estrella: AirPods Pro con estuche de carga MagSafe por 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285'>Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos</a></h4>
     <a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/loteria-navidad-2021-2529675.jpg' alt='Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265'>Así es la chaqueta de la compañía Owo Game que ha ganado el premio a la innovación en CES 2022</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265'>Así es la chaqueta de Realidad Virtual de una compañía española que ha ganado el premio a la innovación en CES 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chaqueta-compania-owo-game-ha-ganado-premio-innovacion-ces-2022-984265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/owo-2566949.jpg' alt='Así es la chaqueta de la compañía Owo Game que ha ganado el premio a la innovación en CES 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/meta-descubre-50000-usuarios-facebook-han-sido-hackeados-984249'>Meta descubre que más de 50.000 usuarios de Facebook han sido hackeados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/meta-descubre-50000-usuarios-facebook-han-sido-hackeados-984249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Meta descubre que más de 50.000 usuarios de Facebook han sido hackeados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sobremesa-acer-autentica-bestia-grafica-gtx-1650-intel-core-i5-1099-euros-983603'>Este sobremesa de Acer es una auténtica bestia: gráfica GTX 1650 e Intel Core i5 por 1.099 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sobremesa-acer-autentica-bestia-grafica-gtx-1650-intel-core-i5-1099-euros-983603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/acer-nitro-50-1973451.jpg' alt='Este sobremesa de Acer es una auténtica bestia: gráfica GTX 1650 e Intel Core i5 por 1.099 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/owo-2566949.jpg' alt='Así es la chaqueta de Realidad Virtual de una compañía española que ha ganado el premio a la innovación en CES 2022' />
     </a>
 </div>
 
