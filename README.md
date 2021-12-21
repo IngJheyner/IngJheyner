@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-hay-luz-final-tunel-samsung-galaxy-s21-fe-tendria-ya-fecha-presentacion-984289'>Parece que hay luz al final del túnel y el Samsung Galaxy S21 FE tendría ya fecha de presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/parece-hay-luz-final-tunel-samsung-galaxy-s21-fe-tendria-ya-fecha-presentacion-984289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-galaxy-s21-fe-2360043.jpg' alt='Parece que hay luz al final del túnel y el Samsung Galaxy S21 FE tendría ya fecha de presentación' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019'>El creador de Silent Hill opina sobre lo difícil que sería hacer un remake</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/silent-hill-2328421.jpg' alt='El creador de Silent Hill opina sobre lo difícil que sería hacer un remake' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-era-volkswagen-bluesport-concept-nos-ofrecia-984017'>Cómo era el Volkswagen BlueSport Concept y qué nos ofrecía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-era-volkswagen-bluesport-concept-nos-ofrecia-984017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/volkswagen-bluesport-2560161.jpg' alt='Cómo era el Volkswagen BlueSport Concept y qué nos ofrecía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-984367'>El Moto G Stylus 2022 se filtra con todo detalle en imágenes y en un vídeo donde se aprecia en todos sus ángulos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-984367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/moto-g-stylus-2022-filtra-todo-detalle-imagenes-video-donde-aprecia-todos-angulos-2567141.jpg' alt='El Moto G Stylus 2022 se filtra con todo detalle en imágenes y en un vídeo donde se aprecia en todos sus ángulos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299'>El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-pro-adelanta-esperado-confirmacion-llega-mano-pete-lau-984299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='El lanzamiento del OnePlus 10 Pro se adelanta a lo esperado y la confirmación llega de la mano de Pete Lau' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-984373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-portatiles-gaming-2567149.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores portátiles gaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/triunfa-navidad-regalo-estrella-airpods-pro-estuche-carga-magsafe-229-euros-983627'>Triunfa esta Navidad con el regalo estrella: AirPods Pro con estuche de carga MagSafe por 229 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/triunfa-navidad-regalo-estrella-airpods-pro-estuche-carga-magsafe-229-euros-983627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/AirPodsPro2389085.jpg' alt='Triunfa esta Navidad con el regalo estrella: AirPods Pro con estuche de carga MagSafe por 229 euros' />
+    <h4><a href='https://computerhoy.com/noticias/motor/polemica-nueva-ley-trafico-dgt-ya-tiene-fecha-todo-debes-saber-984369'>La polémica nueva ley de tráfico de la DGT ya tiene fecha: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/polemica-nueva-ley-trafico-dgt-ya-tiene-fecha-todo-debes-saber-984369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-conduciendo-vehiculo-2567143.jpg' alt='La polémica nueva ley de tráfico de la DGT ya tiene fecha: todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285'>Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/loteria-navidad-2021-plazo-cobrar-premios-deben-pagar-impuestos-984285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='Lotería de Navidad 2021: plazo para cobrar y qué premios deben pagar impuestos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-modelos-iphone-ipad-quedarian-obsoletos-ios-16-984363'>Estos son los modelos de iPhone y iPad que quedarían obsoletos con iOS 16</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-modelos-iphone-ipad-quedarian-obsoletos-ios-16-984363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ios-14-2080803.jpg' alt='Estos son los modelos de iPhone y iPad que quedarían obsoletos con iOS 16' />
     </a>
 </div>
 
