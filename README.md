@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859'>Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tocadiscos-2568023.jpg' alt='Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545'>Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/roomba-692-2149387.jpg' alt='Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809'>Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona</a></h4>
-    <a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/intel-lanza-primera-tarjeta-grafica-pcs-sobremesa-decadas-pero-no-funciona-hardware-amd-2212833.jpg' alt='Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona' />
     </a>
 </div>
 
