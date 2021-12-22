@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855'>El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361'>Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2559059.jpg' alt='Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545'>Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/roomba-692-2149387.jpg' alt='Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809'>Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona</a></h4>
     <a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/intel-lanza-primera-tarjeta-grafica-pcs-sobremesa-decadas-pero-no-funciona-hardware-amd-2212833.jpg' alt='Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/duckduckgo-desarrolla-navegador-rapido-privado-chrome-ordenadores-moviles-984771'>DuckDuckGo desarrolla un navegador más rápido y más privado que Chrome para ordenadores y móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/duckduckgo-desarrolla-navegador-rapido-privado-chrome-ordenadores-moviles-984771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/duck-2567755.jpg' alt='DuckDuckGo desarrolla un navegador más rápido y más privado que Chrome para ordenadores y móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-todos-puertos-usb-c-son-thunderbolt-3-hay-gran-diferencia-984779'>No todos los puertos USB-C son Thunderbolt 3 y hay una gran diferencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-todos-puertos-usb-c-son-thunderbolt-3-hay-gran-diferencia-984779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/thunderbolt-3-2567735.jpg' alt='No todos los puertos USB-C son Thunderbolt 3 y hay una gran diferencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-proyectos-hacer-casa-familia-navidad-965573'>8 proyectos para hacer en casa en familia para Navidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/8-proyectos-hacer-casa-familia-navidad-965573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/familia-navidad-2534587.jpg' alt='8 proyectos para hacer en casa en familia para Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579'>Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-web-2171813.jpg' alt='Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil' />
     </a>
 </div>
 
