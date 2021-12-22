@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/7-coches-han-sido-muy-importantes-historia-ford-984769'>7 coches que han sido muy importantes en la historia de Ford</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/7-coches-han-sido-muy-importantes-historia-ford-984769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ford-mustang-shelby-gt500-2453977.jpg' alt='7 coches que han sido muy importantes en la historia de Ford' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001'>No es Google, este fue el sitio más visitado de todo Internet en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='No es Google, este fue el sitio más visitado de todo Internet en 2021' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-984967'>El diseño del realme GT 2 Pro Master Edition se deja ver antes de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-984967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='El diseño del realme GT 2 Pro Master Edition se deja ver antes de su presentación' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999'>Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-boston-dynamics-2568609.jpg' alt='Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679'>Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-sujetando-regalo-navidad-sorpresa-2567665.jpg' alt='Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-984969'>Se filtran las primeras imágenes oficiales del Samsung Galaxy S22 Ultra y recuerda demasiado a un Galaxy Note</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-984969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-2568607.jpg' alt='Se filtran las primeras imágenes oficiales del Samsung Galaxy S22 Ultra y recuerda demasiado a un Galaxy Note' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915'>Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/home-assistant-2568181.jpg' alt='Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/stalker-2-te-ayudara-transformarte-metahumano-984773'>S.T.A.L.K.E.R. 2 te ayudará a transformarte en un metahumano</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/stalker-2-te-ayudara-transformarte-metahumano-984773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/stalker-2-2184337.jpeg' alt='S.T.A.L.K.E.R. 2 te ayudará a transformarte en un metahumano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-984995'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama entrada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-984995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-2568605.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama entrada' />
     </a>
 </div>
 
