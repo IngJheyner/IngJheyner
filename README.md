@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667'>¡Ya está en tu quiosco el número 606 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/computer-hoy-606-2563437.jpg' alt='¡Ya está en tu quiosco el número 606 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-varios-sistemas-operativos-autoarrancables-pendrive-966285'>Cómo instalar varios sistemas operativos autoarrancables en un pendrive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-varios-sistemas-operativos-autoarrancables-pendrive-966285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/usb-varios-sistemas-operativos-2535885.jpg' alt='Cómo instalar varios sistemas operativos autoarrancables en un pendrive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639'>Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas</a></h4>
+    <a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429'>Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kobo-nia-2565361.jpg' alt='Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025'>Los cambios en la factura de la luz que prepara el el Gobierno para 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/factura-luz-2390621.jpg' alt='Los cambios en la factura de la luz que prepara el el Gobierno para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/quiere-volkswagen-carguen-coches-electricos-futuro-984023'>Así quiere Volkswagen que se carguen los coches eléctricos en el futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/quiere-volkswagen-carguen-coches-electricos-futuro-984023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/volkswagen-id3-ionity-2561641.jpg' alt='Así quiere Volkswagen que se carguen los coches eléctricos en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2567455.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173'>5 portátiles para estudiantes que pueden usar desde casa o en el colegio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dos-mujeres-usando-portatil-chromebook-samsung-2566673.jpg' alt='5 portátiles para estudiantes que pueden usar desde casa o en el colegio' />
     </a>
 </div>
 
