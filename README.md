@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-momento-984661'>¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-momento-984661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/compra-comida-online-2567477.jpg' alt='¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-sera-ano-plegables-honor-confirma-magic-v-984681'>2022 será el año de los plegables, Honor confirma su Magic V</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2022-sera-ano-plegables-honor-confirma-magic-v-984681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-magic-v-2567523.jpg' alt='2022 será el año de los plegables, Honor confirma su Magic V' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667'>¡Ya está en tu quiosco el número 606 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/computer-hoy-606-2563437.jpg' alt='¡Ya está en tu quiosco el número 606 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639'>Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas</a></h4>
     <a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429'>Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kobo-nia-2565361.jpg' alt='Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025'>Los cambios en la factura de la luz que prepara el el Gobierno para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/factura-luz-2390621.jpg' alt='Los cambios en la factura de la luz que prepara el el Gobierno para 2022' />
     </a>
 </div>
 
