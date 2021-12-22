@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991'>Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-2568621.jpg' alt='Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993'>El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2563337.jpg' alt='El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003'>El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mijia-g1-robot-vacuum-2424833.jpg' alt='El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001'>No es Google, este fue el sitio más visitado de todo Internet en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='No es Google, este fue el sitio más visitado de todo Internet en 2021' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999'>Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-boston-dynamics-2568609.jpg' alt='Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-984969'>Se filtran las primeras imágenes oficiales del Samsung Galaxy S22 Ultra y recuerda demasiado a un Galaxy Note</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-984969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-imagenes-oficiales-samsung-galaxy-s22-ultra-recuerda-demasiado-galaxy-note-2568607.jpg' alt='Se filtran las primeras imágenes oficiales del Samsung Galaxy S22 Ultra y recuerda demasiado a un Galaxy Note' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/stalker-2-te-ayudara-transformarte-metahumano-984773'>S.T.A.L.K.E.R. 2 te ayudará a transformarte en un metahumano</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/stalker-2-te-ayudara-transformarte-metahumano-984773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/stalker-2-2184337.jpeg' alt='S.T.A.L.K.E.R. 2 te ayudará a transformarte en un metahumano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-984995'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama entrada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-984995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-entrada-2568605.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartphones de gama entrada' />
     </a>
 </div>
 
