@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305'>Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/recipiente-cristal-microondas-2566979.jpg' alt='Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615'>Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alimentos-empeoran-concentracion-memoria-2567449.jpg' alt='Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377'>La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538037.jpg' alt='La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379'>Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524073.jpg' alt='Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad' />
     </a>
 </div>
 
