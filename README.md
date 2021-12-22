@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-dara-salto-48-mpx-nuevos-iphone-14-pro-2022-anos-anos-sensores-12-mpx-984775'>Apple dará el salto a 48 Mpx con sus nuevos iPhone 14 Pro en 2022 tras años y años de sensores de 12 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-dara-salto-48-mpx-nuevos-iphone-14-pro-2022-anos-anos-sensores-12-mpx-984775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487691.jpg' alt='Apple dará el salto a 48 Mpx con sus nuevos iPhone 14 Pro en 2022 tras años y años de sensores de 12 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-marcha-nueva-interfaz-llamadas-voz-984741'>Whatsapp pone en marcha una nueva interfaz para las llamadas de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-marcha-nueva-interfaz-llamadas-voz-984741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='Whatsapp pone en marcha una nueva interfaz para las llamadas de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-no-abandonara-lanzamiento-nuevos-equipos-intel-pese-exito-m1-984735'>Apple no abandonará el lanzamiento de nuevos equipos Intel pese al éxito de sus M1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-no-abandonara-lanzamiento-nuevos-equipos-intel-pese-exito-m1-984735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Apple no abandonará el lanzamiento de nuevos equipos Intel pese al éxito de sus M1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-momento-monitores-cuadrados-lg-dualup-monitor-formato-1618-984747'>Llega el momento de los monitores cuadrados: LG DualUp Monitor con formato 16:18</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-momento-monitores-cuadrados-lg-dualup-monitor-formato-1618-984747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-dualup-monitor-2567679.jpg' alt='Llega el momento de los monitores cuadrados: LG DualUp Monitor con formato 16:18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685'>¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-conoci-madre-2326327.jpg' alt='¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/realme-gt2-vera-luz-4-enero-version-pro-sera-top-984683'>Realme GT2 verá la luz el 4 de enero y su versión Pro será top</a></h4>
-    <a href='https://computerhoy.com/noticias/realme-gt2-vera-luz-4-enero-version-pro-sera-top-984683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2537021.jpg' alt='Realme GT2 verá la luz el 4 de enero y su versión Pro será top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tester-jubilado-pagan-600-euros-jubilados-hacer-vida-digital-como-adolescente-984667'>Tester jubilado: pagan 600 euros a jubilados por hacer vida digital como un adolescente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tester-jubilado-pagan-600-euros-jubilados-hacer-vida-digital-como-adolescente-984667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/memoria-anciano-2139417.jpg' alt='Tester jubilado: pagan 600 euros a jubilados por hacer vida digital como un adolescente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/temes-subida-luz-invierno-estufa-gas-perfecta-esquivar-hachazo-factura-984069'>Si temes a la subida de la luz este invierno, esta estufa de gas es perfecta para esquivar el hachazo en la factura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/temes-subida-luz-invierno-estufa-gas-perfecta-esquivar-hachazo-factura-984069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estufa-gas-delonghi-2566407.jpg' alt='Si temes a la subida de la luz este invierno, esta estufa de gas es perfecta para esquivar el hachazo en la factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-984661'>¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento</a></h4>
-    <a href='https://computerhoy.com/noticias/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-984661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/compra-comida-online-2567477.jpg' alt='¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento' />
     </a>
 </div>
 
