@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2567455.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173'>5 portátiles para estudiantes que pueden usar desde casa o en el colegio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dos-mujeres-usando-portatil-chromebook-samsung-2566673.jpg' alt='5 portátiles para estudiantes que pueden usar desde casa o en el colegio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nanoleaf-lines-iluminacion-led-avanzada-984617'>Nanoleaf Lines, lo último en iluminación LED avanzada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nanoleaf-lines-iluminacion-led-avanzada-984617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nanoleaf-lines-ultimo-iluminacion-led-avanzada-2567453.jpg' alt='Nanoleaf Lines, lo último en iluminación LED avanzada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305'>Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/recipiente-cristal-microondas-2566979.jpg' alt='Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615'>Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alimentos-empeoran-concentracion-memoria-2567449.jpg' alt='Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fosil-embrion-dinosaurio-mejor-conservado-parece-pajaro-baby-yingliang-984395'>Descubren el fósil de embrión de dinosaurio mejor conservado, y se parece más que nunca a un pájaro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fosil-embrion-dinosaurio-mejor-conservado-parece-pajaro-baby-yingliang-984395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-fosil-embrion-dinosaurio-mejor-conservado-parece-nunca-pajaro-2567243.jpg' alt='Descubren el fósil de embrión de dinosaurio mejor conservado, y se parece más que nunca a un pájaro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-desactivar-google-lens-984387'>Chrome ha cambiado el buscador de imágenes por Google Lens, así puedes desactivarlo para volver a dejarlo como antes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-desactivar-google-lens-984387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chrome-ha-cambiado-buscador-imagenes-google-lens-puedes-desactivarlo-volver-dejarlo-como-antes-2567221.jpg' alt='Chrome ha cambiado el buscador de imágenes por Google Lens, así puedes desactivarlo para volver a dejarlo como antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377'>La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solucion-ocultar-notch-nuevos-macbook-llega-forma-app-adornarlo-984377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538037.jpg' alt='La solución para ocultar el notch en los nuevos Macbook llega en forma de app para adornarlo' />
     </a>
 </div>
 
