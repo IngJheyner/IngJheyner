@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-momento-984661'>¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-momento-984661' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685'>¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-conoci-madre-2326327.jpg' alt='¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/realme-gt2-vera-luz-4-enero-version-pro-sera-top-984683'>Realme GT2 verá la luz el 4 de enero y su versión Pro será top</a></h4>
+    <a href='https://computerhoy.com/noticias/realme-gt2-vera-luz-4-enero-version-pro-sera-top-984683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2537021.jpg' alt='Realme GT2 verá la luz el 4 de enero y su versión Pro será top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tester-jubilado-pagan-600-euros-jubilados-hacer-vida-digital-como-adolescente-984667'>Tester jubilado: pagan 600 euros a jubilados por hacer vida digital como un adolescente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tester-jubilado-pagan-600-euros-jubilados-hacer-vida-digital-como-adolescente-984667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/memoria-anciano-2139417.jpg' alt='Tester jubilado: pagan 600 euros a jubilados por hacer vida digital como un adolescente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/temes-subida-luz-invierno-estufa-gas-perfecta-esquivar-hachazo-factura-984069'>Si temes a la subida de la luz este invierno, esta estufa de gas es perfecta para esquivar el hachazo en la factura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/temes-subida-luz-invierno-estufa-gas-perfecta-esquivar-hachazo-factura-984069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estufa-gas-delonghi-2566407.jpg' alt='Si temes a la subida de la luz este invierno, esta estufa de gas es perfecta para esquivar el hachazo en la factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-984661'>¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento</a></h4>
+    <a href='https://computerhoy.com/noticias/todavia-no-has-hecho-compra-nochebuena-estos-son-supermercados-online-baratos-984661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/compra-comida-online-2567477.jpg' alt='¿Todavía no has hecho la compra de Nochebuena? Estos son los supermercados online más baratos en este momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-sera-ano-plegables-honor-confirma-magic-v-984681'>2022 será el año de los plegables, Honor confirma su Magic V</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/2022-sera-ano-plegables-honor-confirma-magic-v-984681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-magic-v-2567523.jpg' alt='2022 será el año de los plegables, Honor confirma su Magic V' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667'>¡Ya está en tu quiosco el número 606 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-606-computer-hoy-981667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/computer-hoy-606-2563437.jpg' alt='¡Ya está en tu quiosco el número 606 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-varios-sistemas-operativos-autoarrancables-pendrive-966285'>Cómo instalar varios sistemas operativos autoarrancables en un pendrive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-varios-sistemas-operativos-autoarrancables-pendrive-966285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/usb-varios-sistemas-operativos-2535885.jpg' alt='Cómo instalar varios sistemas operativos autoarrancables en un pendrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639'>Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas</a></h4>
-    <a href='https://computerhoy.com/noticias/dimite-ceo-onlyfans-espera-nueva-etapa-polemica-plataforma-984639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='Dimite el CEO de OnlyFans y se espera una nueva etapa en la red social tras las últimas polémicas' />
     </a>
 </div>
 
