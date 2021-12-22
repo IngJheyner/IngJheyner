@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679'>Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-sujetando-regalo-navidad-sorpresa-2567665.jpg' alt='Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915'>Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/home-assistant-2568181.jpg' alt='Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855'>El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron' />
     </a>
 </div>
 
