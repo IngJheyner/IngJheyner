@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-dara-salto-48-mpx-nuevos-iphone-14-pro-2022-anos-anos-sensores-12-mpx-984775'>Apple dará el salto a 48 Mpx con sus nuevos iPhone 14 Pro en 2022 tras años y años de sensores de 12 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-dara-salto-48-mpx-nuevos-iphone-14-pro-2022-anos-anos-sensores-12-mpx-984775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487691.jpg' alt='Apple dará el salto a 48 Mpx con sus nuevos iPhone 14 Pro en 2022 tras años y años de sensores de 12 Mpx' />
+    <h4><a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809'>Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona</a></h4>
+    <a href='https://computerhoy.com/noticias/pese-promesas-china-quedan-muchos-anos-competir-nvidia-tarjeta-grafica-decepciona-984809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/intel-lanza-primera-tarjeta-grafica-pcs-sobremesa-decadas-pero-no-funciona-hardware-amd-2212833.jpg' alt='Pese a las promesas a China le quedan muchos años para competir con NVIDIA: su tarjeta gráfica decepciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-marcha-nueva-interfaz-llamadas-voz-984741'>Whatsapp pone en marcha una nueva interfaz para las llamadas de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-marcha-nueva-interfaz-llamadas-voz-984741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='Whatsapp pone en marcha una nueva interfaz para las llamadas de voz' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/duckduckgo-desarrolla-navegador-rapido-privado-chrome-ordenadores-moviles-984771'>DuckDuckGo desarrolla un navegador más rápido y más privado que Chrome para ordenadores y móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/duckduckgo-desarrolla-navegador-rapido-privado-chrome-ordenadores-moviles-984771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/duck-2567755.jpg' alt='DuckDuckGo desarrolla un navegador más rápido y más privado que Chrome para ordenadores y móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-no-abandonara-lanzamiento-nuevos-equipos-intel-pese-exito-m1-984735'>Apple no abandonará el lanzamiento de nuevos equipos Intel pese al éxito de sus M1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-no-abandonara-lanzamiento-nuevos-equipos-intel-pese-exito-m1-984735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Apple no abandonará el lanzamiento de nuevos equipos Intel pese al éxito de sus M1' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-todos-puertos-usb-c-son-thunderbolt-3-hay-gran-diferencia-984779'>No todos los puertos USB-C son Thunderbolt 3 y hay una gran diferencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-todos-puertos-usb-c-son-thunderbolt-3-hay-gran-diferencia-984779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/thunderbolt-3-2567735.jpg' alt='No todos los puertos USB-C son Thunderbolt 3 y hay una gran diferencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-momento-monitores-cuadrados-lg-dualup-monitor-formato-1618-984747'>Llega el momento de los monitores cuadrados: LG DualUp Monitor con formato 16:18</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-momento-monitores-cuadrados-lg-dualup-monitor-formato-1618-984747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-dualup-monitor-2567679.jpg' alt='Llega el momento de los monitores cuadrados: LG DualUp Monitor con formato 16:18' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-proyectos-hacer-casa-familia-navidad-965573'>8 proyectos para hacer en casa en familia para Navidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/8-proyectos-hacer-casa-familia-navidad-965573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/familia-navidad-2534587.jpg' alt='8 proyectos para hacer en casa en familia para Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685'>¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/has-acabado-estas-7-series-tan-conocidas-31-diciembre-desapareceran-netflix-984685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-conoci-madre-2326327.jpg' alt='¿Has acabado estas 7 series tan conocidas? El 31 de diciembre desaparecerán de Netflix' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579'>Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-web-2171813.jpg' alt='Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil' />
     </a>
 </div>
 
