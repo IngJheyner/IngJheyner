@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915'>Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-vas-poder-controlar-dispositivos-casa-reloj-wear-os-984915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/home-assistant-2568181.jpg' alt='Con esta nueva aplicación vas a poder controlar los dispositivos de casa desde tu reloj Wear OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855'>El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-empieza-tambalearse-comienzan-cancelaciones-culpa-omicron-984855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='El CES 2022 empieza a tambalearse: comienzan las cancelaciones por culpa de Ómicron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361'>Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2559059.jpg' alt='Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix' />
     </a>
 </div>
 
