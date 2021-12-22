@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859'>Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tocadiscos-2568023.jpg' alt='Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361'>Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-recetas-navidenas-alternativa-lidl-thermomix-984361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-2559059.jpg' alt='Las mejores recetas navideñas para la alternativa de Lidl a la Thermomix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545'>Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/regalate-roomba-navidad-precio-saldo-modelo-692-baja-solo-229-euros-983545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/roomba-692-2149387.jpg' alt='Regálate una Roomba por Navidad, y a precio de saldo: su modelo 692 baja a solo 229 euros' />
     </a>
 </div>
 
