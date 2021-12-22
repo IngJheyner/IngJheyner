@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009'>Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienzan-rebajas-invierno-steam-par-juegos-gratis-comenzar-bien-navidades-2568623.jpg' alt='Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991'>Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-2568621.jpg' alt='Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001'>No es Google, este fue el sitio más visitado de todo Internet en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='No es Google, este fue el sitio más visitado de todo Internet en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999'>Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quiere-felicitarte-navidad-famoso-robot-boston-dynamics-984999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-boston-dynamics-2568609.jpg' alt='Así quiere felicitarte la Navidad el famoso robot de Boston Dynamics' />
     </a>
 </div>
 
