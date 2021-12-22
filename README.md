@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/7-coches-han-sido-muy-importantes-historia-ford-984769'>7 coches que han sido muy importantes en la historia de Ford</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/7-coches-han-sido-muy-importantes-historia-ford-984769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ford-mustang-shelby-gt500-2453977.jpg' alt='7 coches que han sido muy importantes en la historia de Ford' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-984967'>El diseño del realme GT 2 Pro Master Edition se deja ver antes de su presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-984967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='El diseño del realme GT 2 Pro Master Edition se deja ver antes de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679'>Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/regalos-navidad-ultima-hora-llegan-tiempo-dia-25-compras-ya-984679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-sujetando-regalo-navidad-sorpresa-2567665.jpg' alt='Regalos de Navidad de última hora que llegan a tiempo para el día 25 si los compras ya' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859'>Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tocadiscos-bluetooth-lidl-formato-maletin-nostalgicos-vinilos-984859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tocadiscos-2568023.jpg' alt='Tocadiscos Bluetooth de LIDL en formato maletín para los más nostálgicos de los vinilos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-no-debes-encender-luces-emergencias-984829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
     </a>
 </div>
 
