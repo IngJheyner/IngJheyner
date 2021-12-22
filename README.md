@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429'>Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-kobo-admite-formato-epub-igual-barato-kindle-983429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kobo-nia-2565361.jpg' alt='Este lector de ebooks de Kobo sí admite formato EPUB y es igual de barato que el Kindle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025'>Los cambios en la factura de la luz que prepara el el Gobierno para 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambios-factura-luz-prepara-gobierno-2022-984025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/factura-luz-2390621.jpg' alt='Los cambios en la factura de la luz que prepara el el Gobierno para 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/quiere-volkswagen-carguen-coches-electricos-futuro-984023'>Así quiere Volkswagen que se carguen los coches eléctricos en el futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/quiere-volkswagen-carguen-coches-electricos-futuro-984023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/volkswagen-id3-ionity-2561641.jpg' alt='Así quiere Volkswagen que se carguen los coches eléctricos en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-984623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2567455.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173'>5 portátiles para estudiantes que pueden usar desde casa o en el colegio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-portatiles-estudiantes-pueden-usar-casa-colegio-984173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dos-mujeres-usando-portatil-chromebook-samsung-2566673.jpg' alt='5 portátiles para estudiantes que pueden usar desde casa o en el colegio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nanoleaf-lines-iluminacion-led-avanzada-984617'>Nanoleaf Lines, lo último en iluminación LED avanzada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nanoleaf-lines-iluminacion-led-avanzada-984617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nanoleaf-lines-ultimo-iluminacion-led-avanzada-2567453.jpg' alt='Nanoleaf Lines, lo último en iluminación LED avanzada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305'>Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-comprobar-vaso-recipiente-cristal-seguro-microondas-984305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/recipiente-cristal-microondas-2566979.jpg' alt='Cómo comprobar si un vaso o recipiente de cristal es seguro para el microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615'>Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alimentos-empeoran-concentracion-memoria-2567449.jpg' alt='Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard' />
     </a>
 </div>
 
