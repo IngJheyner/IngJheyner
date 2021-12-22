@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615'>Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimentos-empeoran-concentracion-memoria-nutricionista-harvard-984615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alimentos-empeoran-concentracion-memoria-2567449.jpg' alt='Alimentos que empeoran la concentración y la memoria, según una nutricionista de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fosil-embrion-dinosaurio-mejor-conservado-parece-pajaro-baby-yingliang-984395'>Descubren el fósil de embrión de dinosaurio mejor conservado, y se parece más que nunca a un pájaro</a></h4>
     <a href='https://computerhoy.com/noticias/life/fosil-embrion-dinosaurio-mejor-conservado-parece-pajaro-baby-yingliang-984395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-fosil-embrion-dinosaurio-mejor-conservado-parece-nunca-pajaro-2567243.jpg' alt='Descubren el fósil de embrión de dinosaurio mejor conservado, y se parece más que nunca a un pájaro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379'>Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-airpods-3-apple-descuento-984379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524073.jpg' alt='Los auriculares AirPods 3 de Apple bajan de precio y llegan a tiempo para Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019'>El creador de Silent Hill opina sobre lo difícil que sería hacer un remake</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/creador-silent-hill-opina-dificil-seria-hacer-remake-984019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/silent-hill-2328421.jpg' alt='El creador de Silent Hill opina sobre lo difícil que sería hacer un remake' />
     </a>
 </div>
 
