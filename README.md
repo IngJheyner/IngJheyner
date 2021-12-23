@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-conseguir-nuevo-trabajo-poco-haber-acabado-otro-984787'>5 trucos para conseguir un nuevo trabajo al poco de haber acabado en otro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-trucos-conseguir-nuevo-trabajo-poco-haber-acabado-otro-984787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/curriculo_regla_seis_segundos_3.jpg' alt='5 trucos para conseguir un nuevo trabajo al poco de haber acabado en otro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/resaca-cafe-no-son-buenos-companeros-resultado-contrario-esperas-984633'>La resaca y el café no son buenos compañeros: el resultado es el contrario al que esperas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/resaca-cafe-no-son-buenos-companeros-resultado-contrario-esperas-984633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cafe-manana-2328961.jpg' alt='La resaca y el café no son buenos compañeros: el resultado es el contrario al que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/7-caracteristicas-destacar-tesla-model-3-2022-984777'>7 características a destacar del Tesla Model 3 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/7-caracteristicas-destacar-tesla-model-3-2022-984777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562335.jpg' alt='7 características a destacar del Tesla Model 3 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/memes-imagenes-divertidas-felicitar-navidad-whatsapp-984951'>Memes e imágenes divertidas para felicitar la Navidad por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/memes-imagenes-divertidas-felicitar-navidad-whatsapp-984951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/memes-graciosos-navidad-2020-2170067.jpg' alt='Memes e imágenes divertidas para felicitar la Navidad por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-985225'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-985225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2568821.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207'>Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-subida-bicicleta-2566945.jpg' alt='Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019'>¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017'>Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009'>Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienzan-rebajas-invierno-steam-par-juegos-gratis-comenzar-bien-navidades-2568623.jpg' alt='Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades' />
     </a>
 </div>
 
