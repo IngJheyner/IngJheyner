@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563'>Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco</a></h4>
+    <a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/familia-prehistoria-2569453.jpg' alt='Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917'>Las 11 mejores películas para ver en familia en Navidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-television-navidad-2557881.jpg' alt='Las 11 mejores películas para ver en familia en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667'>Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629'>El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-2569739.jpg' alt='El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-emoji-corazones-envies-whatsapp-estaran-vivos-nunca-985657'>Ahora los emoji de corazones que envíes en WhatsApp estarán más vivos que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-emoji-corazones-envies-whatsapp-estaran-vivos-nunca-985657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Ahora los emoji de corazones que envíes en WhatsApp estarán más vivos que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nyla-hayes-nina-12-anos-dibujos-nft-herramientas-985655'>Este es el software que usó una niña de 12 años para convertir sus dibujos a NFT y ganar 1,4 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nyla-hayes-nina-12-anos-dibujos-nft-herramientas-985655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569731.jpg' alt='Este es el software que usó una niña de 12 años para convertir sus dibujos a NFT y ganar 1,4 millones de euros' />
     </a>
 </div>
 
