@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475'>Wordle: el nuevo juego de palabras que se está viralizando en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/wordle-2569341.jpg' alt='Wordle: el nuevo juego de palabras que se está viralizando en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451'>Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/amd-presenta-tercera-generacion-ryzen-threadripper-3000-64-nucleos-128-hilos.jpg' alt='Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421'>Así es como se solucionan casi todos los problemas de los AirPods Max de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg' alt='Así es como se solucionan casi todos los problemas de los AirPods Max de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263'>Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg' alt='Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427'>Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/arc-vector_10.jpg' alt='Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383'>El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2569105.jpg' alt='El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365'>Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228907.jpg' alt='Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT' />
     </a>
 </div>
 
