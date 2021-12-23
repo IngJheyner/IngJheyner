@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/puede-toyota-land-cruiser-electrico-convierta-realidad-985419'>Puede que el Toyota Land Cruiser eléctrico se convierta en una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/puede-toyota-land-cruiser-electrico-convierta-realidad-985419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-compact-cruiser-ev-2562883.jpg' alt='Puede que el Toyota Land Cruiser eléctrico se convierta en una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-te-permitira-saborear-platos-alta-cocina-siempre-cuando-estes-dispuesto-lamerla-985631'>Esta pantalla te permitirá saborear platos de alta cocina siempre y cuando estés dispuesto a lamerla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-te-permitira-saborear-platos-alta-cocina-siempre-cuando-estes-dispuesto-lamerla-985631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pantalla-te-permitira-saborear-platos-alta-cocina-siempre-cuando-estes-dispuesto-lamerla-2569663.jpg' alt='Esta pantalla te permitirá saborear platos de alta cocina siempre y cuando estés dispuesto a lamerla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-nuevo-robot-cocina-cecotec-mambo-1290-habana-competitivos-puedes-comprar-ahora-mismo-984947'>Motivos por el que el nuevo robot de cocina Cecotec Mambo 1290 Habana es uno de los más competitivos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivos-nuevo-robot-cocina-cecotec-mambo-1290-habana-competitivos-puedes-comprar-ahora-mismo-984947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-habana-2568311.jpg' alt='Motivos por el que el nuevo robot de cocina Cecotec Mambo 1290 Habana es uno de los más competitivos que puedes comprar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595'>Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541'>Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diamante-sensor-cuantico-2569427.jpg' alt='Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509'>Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-eyewear-2569367.jpg' alt='Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei' />
     </a>
 </div>
 
