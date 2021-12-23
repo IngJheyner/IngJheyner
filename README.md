@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-nuevo-robot-cocina-cecotec-mambo-1290-habana-competitivos-puedes-comprar-ahora-mismo-984947'>Motivos por el que el nuevo robot de cocina Cecotec Mambo 1290 Habana es uno de los más competitivos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivos-nuevo-robot-cocina-cecotec-mambo-1290-habana-competitivos-puedes-comprar-ahora-mismo-984947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-habana-2568311.jpg' alt='Motivos por el que el nuevo robot de cocina Cecotec Mambo 1290 Habana es uno de los más competitivos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-caracteristica-permitiria-configurar-idioma-movil-manera-muy-diferente-actual-985589'>Google estaría preparando una característica que permitiría configurar el idioma del móvil de una manera muy diferente a la actual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-preparando-caracteristica-permitiria-configurar-idioma-movil-manera-muy-diferente-actual-985589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/google-pixel-5a-ha-presentado-pero-no-podras-comprarlo-espana-2441555.jpg' alt='Google estaría preparando una característica que permitiría configurar el idioma del móvil de una manera muy diferente a la actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595'>Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509'>Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-eyewear-2569367.jpg' alt='Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985'>Frases originales y mensajes para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/navidad-whatsapp.jpg' alt='Frases originales y mensajes para felicitar la Nochebuena y Navidad por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475'>Wordle: el nuevo juego de palabras que se está viralizando en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/wordle-2569341.jpg' alt='Wordle: el nuevo juego de palabras que se está viralizando en Twitter' />
     </a>
 </div>
 
