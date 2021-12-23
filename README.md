@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667'>Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661'>Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-toque-personal-iluminacion-hogar-bombilla-led-rgb-solo-cuesta-95-euros-envio-espana-2569791.jpg' alt='Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nyla-hayes-nina-12-anos-dibujos-nft-herramientas-985655'>Este es el software que usó una niña de 12 años para convertir sus dibujos a NFT y ganar 1,4 millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nyla-hayes-nina-12-anos-dibujos-nft-herramientas-985655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569731.jpg' alt='Este es el software que usó una niña de 12 años para convertir sus dibujos a NFT y ganar 1,4 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/bill-gates-presiono-trabajadores-exito-wii-985423'>Bill Gates presionó a los trabajadores tras el éxito de Wii</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/bill-gates-presiono-trabajadores-exito-wii-985423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kinect-xbox-2554981.jpg' alt='Bill Gates presionó a los trabajadores tras el éxito de Wii' />
     </a>
 </div>
 
