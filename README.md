@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-985225'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-985225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2568821.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207'>Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-subida-bicicleta-2566945.jpg' alt='Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009'>Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienzan-rebajas-invierno-steam-par-juegos-gratis-comenzar-bien-navidades-2568623.jpg' alt='Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991'>Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-2568621.jpg' alt='Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas' />
     </a>
 </div>
 
