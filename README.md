@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383'>El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2569105.jpg' alt='El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365'>Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228907.jpg' alt='Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-deja-entrever-nuevo-westworld-spin-juego-tronos-trailer-avanza-estrenos-2022-985375'>HBO Max deja entrever lo nuevo de Westworld y el spin off de Juego de Tronos en un tráiler que avanza los estrenos de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-deja-entrever-nuevo-westworld-spin-juego-tronos-trailer-avanza-estrenos-2022-985375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='HBO Max deja entrever lo nuevo de Westworld y el spin off de Juego de Tronos en un tráiler que avanza los estrenos de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-rebaja-169eu-smartwatch-huawei-watch-gt-2-pro-2-semanas-bateria-100-modos-deportivos-prueba-aranazos-981205'>Huawei rebaja a 169€ el smartwatch Huawei Watch GT 2 Pro con 2 semanas de batería, 100 modos deportivos y a prueba de arañazos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-rebaja-169eu-smartwatch-huawei-watch-gt-2-pro-2-semanas-bateria-100-modos-deportivos-prueba-aranazos-981205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-watch-gt-2-pro-2328405.jpg' alt='Huawei rebaja a 169€ el smartwatch Huawei Watch GT 2 Pro con 2 semanas de batería, 100 modos deportivos y a prueba de arañazos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295'>Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-ya-puede-ejecutar-80-juegos-steam-985381'>Linux ya puede ejecutar el 80% de los juegos de Steam</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/linux-ya-puede-ejecutar-80-juegos-steam-985381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/detienen-china-mayor-red-venta-cheats-videojuegos-76-millones-varios-coches-lujo-2287455.jpg' alt='Linux ya puede ejecutar el 80% de los juegos de Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-banea-misma-twitch-cuenta-prime-video-espana-comica-henar-alvarez-985351'>Amazon se banea a sí misma en Twitch, cuenta de Prime Vídeo España, por la cómica Henar Álvarez</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-banea-misma-twitch-cuenta-prime-video-espana-comica-henar-alvarez-985351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/twitch-2569077.jpg' alt='Amazon se banea a sí misma en Twitch, cuenta de Prime Vídeo España, por la cómica Henar Álvarez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-sigue-avanzando-6g-empieza-mostrar-equipos-velocidades-1-tb-segundo-985299'>LG sigue avanzando hacia el 6G y empieza a mostrar sus equipos con velocidades de 1 TB por segundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-sigue-avanzando-6g-empieza-mostrar-equipos-velocidades-1-tb-segundo-985299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/conectividad-6g-2568959.jpg' alt='LG sigue avanzando hacia el 6G y empieza a mostrar sus equipos con velocidades de 1 TB por segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mcdonalds-quiere-hacerte-sentir-menos-culpable-nueva-bicicleta-estatica-985329'>McDonald's quiere hacerte sentir menos culpable con su nueva bicicleta estática </a></h4>
-    <a href='https://computerhoy.com/noticias/life/mcdonalds-quiere-hacerte-sentir-menos-culpable-nueva-bicicleta-estatica-985329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mcdonalds.jpg' alt='McDonald's quiere hacerte sentir menos culpable con su nueva bicicleta estática ' />
     </a>
 </div>
 
