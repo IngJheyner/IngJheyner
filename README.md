@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263'>Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg' alt='Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427'>Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/arc-vector_10.jpg' alt='Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383'>El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-oficial-snapdragon-888-pantalla-oled-69-carga-rapida-40-w-985383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2569105.jpg' alt='El Huawei P50 Pocket es oficial: Snapdragon 888, pantalla OLED de 6,9" y carga rápida de 40 W' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365'>Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuidado-luces-emergencia-v16-compres-podrian-no-ser-validas-dentro-poco-avisa-dgt-985365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228907.jpg' alt='Cuidado con las luces de emergencia V16 que compres, podrían no ser válidas dentro de poco, avisa la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-deja-entrever-nuevo-westworld-spin-juego-tronos-trailer-avanza-estrenos-2022-985375'>HBO Max deja entrever lo nuevo de Westworld y el spin off de Juego de Tronos en un tráiler que avanza los estrenos de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-deja-entrever-nuevo-westworld-spin-juego-tronos-trailer-avanza-estrenos-2022-985375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='HBO Max deja entrever lo nuevo de Westworld y el spin off de Juego de Tronos en un tráiler que avanza los estrenos de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-rebaja-169eu-smartwatch-huawei-watch-gt-2-pro-2-semanas-bateria-100-modos-deportivos-prueba-aranazos-981205'>Huawei rebaja a 169€ el smartwatch Huawei Watch GT 2 Pro con 2 semanas de batería, 100 modos deportivos y a prueba de arañazos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-rebaja-169eu-smartwatch-huawei-watch-gt-2-pro-2-semanas-bateria-100-modos-deportivos-prueba-aranazos-981205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-watch-gt-2-pro-2328405.jpg' alt='Huawei rebaja a 169€ el smartwatch Huawei Watch GT 2 Pro con 2 semanas de batería, 100 modos deportivos y a prueba de arañazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295'>Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta' />
     </a>
 </div>
 
