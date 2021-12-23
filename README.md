@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661'>Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-toque-personal-iluminacion-hogar-bombilla-led-rgb-solo-cuesta-95-euros-envio-espana-2569791.jpg' alt='Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629'>El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-2569739.jpg' alt='El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-emoji-corazones-envies-whatsapp-estaran-vivos-nunca-985657'>Ahora los emoji de corazones que envíes en WhatsApp estarán más vivos que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-emoji-corazones-envies-whatsapp-estaran-vivos-nunca-985657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Ahora los emoji de corazones que envíes en WhatsApp estarán más vivos que nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/bill-gates-presiono-trabajadores-exito-wii-985423'>Bill Gates presionó a los trabajadores tras el éxito de Wii</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/bill-gates-presiono-trabajadores-exito-wii-985423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/kinect-xbox-2554981.jpg' alt='Bill Gates presionó a los trabajadores tras el éxito de Wii' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-arbol-navidad-grosor-atomo-985653'>Crean un árbol de Navidad con un grosor de un átomo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-arbol-navidad-grosor-atomo-985653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/crean-arbol-navidad-grosor-atomo-2569727.jpg' alt='Crean un árbol de Navidad con un grosor de un átomo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-google-pixel-6-pixel-6-pro-no-tienen-fin-pantallas-algunos-terminales-han-roto-manera-espontanea-985591'>Los problemas de los Google Pixel 6 y Pixel 6 Pro no tienen fin: las pantallas de algunos terminales se han roto de manera espontánea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/problemas-google-pixel-6-pixel-6-pro-no-tienen-fin-pantallas-algunos-terminales-han-roto-manera-espontanea-985591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-2426629.jpg' alt='Los problemas de los Google Pixel 6 y Pixel 6 Pro no tienen fin: las pantallas de algunos terminales se han roto de manera espontánea' />
     </a>
 </div>
 
