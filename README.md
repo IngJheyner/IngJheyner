@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019'>¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017'>Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993'>El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2563337.jpg' alt='El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003'>El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mijia-g1-robot-vacuum-2424833.jpg' alt='El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros' />
     </a>
 </div>
 
