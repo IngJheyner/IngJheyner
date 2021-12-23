@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017'>Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/que-es-web3-nueva-internet-elon-musk-fundador-twitter-985017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Qué es la Web3, la nueva Internet que confunde a Elon Musk y al fundador de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009'>Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/comienzan-rebajas-invierno-steam-juego-gratis-985009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comienzan-rebajas-invierno-steam-par-juegos-gratis-comenzar-bien-navidades-2568623.jpg' alt='Comienzan las Rebajas de Invierno en Steam, y un juego gratis para empezar bien las Navidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003'>El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-xiaomi-mi-robot-vacuum-mop-essential-oferta-985003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mijia-g1-robot-vacuum-2424833.jpg' alt='El robot Xiaomi Mi Robot Vacuum Mop Essential te limpia y friega la casa por menos de 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001'>No es Google, este fue el sitio más visitado de todo Internet en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-google-fue-sitio-visitado-todo-internet-2021-985001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='No es Google, este fue el sitio más visitado de todo Internet en 2021' />
     </a>
 </div>
 
