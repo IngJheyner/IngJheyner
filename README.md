@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vacuna-dosis-ha-creado-ejercito-americano-covid-985319'>Así es la vacuna de una dosis que ha creado el ejército americano para el COVID</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vacuna-dosis-ha-creado-ejercito-americano-covid-985319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='Así es la vacuna de una dosis que ha creado el ejército americano para el COVID' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-samsung-rompe-todos-records-velocidad-pero-no-puedes-comprarlo-985281'>Este SSD de Samsung rompe todos los récords de velocidad, pero no puedes comprarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-samsung-rompe-todos-records-velocidad-pero-no-puedes-comprarlo-985281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ssd-samsung-2568963.jpg' alt='Este SSD de Samsung rompe todos los récords de velocidad, pero no puedes comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sustituto-android-auto-ahora-tambien-incluye-navegador-aunque-no-esperas-985267'>El sustituto de Android Auto ahora también incluye un navegador, aunque no es el que esperas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sustituto-android-auto-ahora-tambien-incluye-navegador-aunque-no-esperas-985267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El sustituto de Android Auto ahora también incluye un navegador, aunque no es el que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-carga-puede-revivir-bateria-litio-985255'>El truco de carga que puede revivir una batería de litio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-carga-puede-revivir-bateria-litio-985255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/baterias-sodio-compensar-escasez-litio-2432865.jpg' alt='El truco de carga que puede revivir una batería de litio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-ha-rebajado-50-euros-nueva-aspiradora-dyson-micro-modelo-ultraligero-potente-984835'>Dyson ha rebajado 50 euros la nueva aspiradora Dyson Micro, su modelo ultraligero y potente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dyson-ha-rebajado-50-euros-nueva-aspiradora-dyson-micro-modelo-ultraligero-potente-984835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dyson-micro-2567857.jpg' alt='Dyson ha rebajado 50 euros la nueva aspiradora Dyson Micro, su modelo ultraligero y potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cine-solo-ti-lg-presenta-trono-panel-oled-curvo-rota-985243'>Un cine solo para ti, LG presenta su trono con un panel OLED curvo que rota</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cine-solo-ti-lg-presenta-trono-panel-oled-curvo-rota-985243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled-2568837.jpg' alt='Un cine solo para ti, LG presenta su trono con un panel OLED curvo que rota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-conseguir-nuevo-trabajo-poco-haber-acabado-otro-984787'>5 trucos para conseguir un nuevo trabajo al poco de haber acabado en otro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-trucos-conseguir-nuevo-trabajo-poco-haber-acabado-otro-984787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/curriculo_regla_seis_segundos_3.jpg' alt='5 trucos para conseguir un nuevo trabajo al poco de haber acabado en otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/resaca-cafe-no-son-buenos-companeros-resultado-contrario-esperas-984633'>La resaca y el café no son buenos compañeros: el resultado es el contrario al que esperas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/resaca-cafe-no-son-buenos-companeros-resultado-contrario-esperas-984633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cafe-manana-2328961.jpg' alt='La resaca y el café no son buenos compañeros: el resultado es el contrario al que esperas' />
     </a>
 </div>
 
