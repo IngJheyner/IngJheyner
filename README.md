@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vacuna-dosis-ha-creado-ejercito-americano-covid-985319'>Así es la vacuna de una dosis que ha creado el ejército americano para el COVID</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vacuna-dosis-ha-creado-ejercito-americano-covid-985319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='Así es la vacuna de una dosis que ha creado el ejército americano para el COVID' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295'>Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-m1-apple-oferta-amazon-985295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Si quieres probar un ordenador Apple con M1, el Mac Mini es la opción más barata, y además está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-samsung-rompe-todos-records-velocidad-pero-no-puedes-comprarlo-985281'>Este SSD de Samsung rompe todos los récords de velocidad, pero no puedes comprarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-samsung-rompe-todos-records-velocidad-pero-no-puedes-comprarlo-985281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ssd-samsung-2568963.jpg' alt='Este SSD de Samsung rompe todos los récords de velocidad, pero no puedes comprarlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-ya-puede-ejecutar-80-juegos-steam-985381'>Linux ya puede ejecutar el 80% de los juegos de Steam</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/linux-ya-puede-ejecutar-80-juegos-steam-985381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/detienen-china-mayor-red-venta-cheats-videojuegos-76-millones-varios-coches-lujo-2287455.jpg' alt='Linux ya puede ejecutar el 80% de los juegos de Steam' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sustituto-android-auto-ahora-tambien-incluye-navegador-aunque-no-esperas-985267'>El sustituto de Android Auto ahora también incluye un navegador, aunque no es el que esperas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sustituto-android-auto-ahora-tambien-incluye-navegador-aunque-no-esperas-985267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El sustituto de Android Auto ahora también incluye un navegador, aunque no es el que esperas' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-banea-misma-twitch-cuenta-prime-video-espana-comica-henar-alvarez-985351'>Amazon se banea a sí misma en Twitch, cuenta de Prime Vídeo España, por la cómica Henar Álvarez</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-banea-misma-twitch-cuenta-prime-video-espana-comica-henar-alvarez-985351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/twitch-2569077.jpg' alt='Amazon se banea a sí misma en Twitch, cuenta de Prime Vídeo España, por la cómica Henar Álvarez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-carga-puede-revivir-bateria-litio-985255'>El truco de carga que puede revivir una batería de litio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-carga-puede-revivir-bateria-litio-985255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/baterias-sodio-compensar-escasez-litio-2432865.jpg' alt='El truco de carga que puede revivir una batería de litio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-sigue-avanzando-6g-empieza-mostrar-equipos-velocidades-1-tb-segundo-985299'>LG sigue avanzando hacia el 6G y empieza a mostrar sus equipos con velocidades de 1 TB por segundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-sigue-avanzando-6g-empieza-mostrar-equipos-velocidades-1-tb-segundo-985299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/conectividad-6g-2568959.jpg' alt='LG sigue avanzando hacia el 6G y empieza a mostrar sus equipos con velocidades de 1 TB por segundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-ha-rebajado-50-euros-nueva-aspiradora-dyson-micro-modelo-ultraligero-potente-984835'>Dyson ha rebajado 50 euros la nueva aspiradora Dyson Micro, su modelo ultraligero y potente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dyson-ha-rebajado-50-euros-nueva-aspiradora-dyson-micro-modelo-ultraligero-potente-984835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dyson-micro-2567857.jpg' alt='Dyson ha rebajado 50 euros la nueva aspiradora Dyson Micro, su modelo ultraligero y potente' />
+    <h4><a href='https://computerhoy.com/noticias/life/mcdonalds-quiere-hacerte-sentir-menos-culpable-nueva-bicicleta-estatica-985329'>McDonald's quiere hacerte sentir menos culpable con su nueva bicicleta estática </a></h4>
+    <a href='https://computerhoy.com/noticias/life/mcdonalds-quiere-hacerte-sentir-menos-culpable-nueva-bicicleta-estatica-985329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mcdonalds.jpg' alt='McDonald's quiere hacerte sentir menos culpable con su nueva bicicleta estática ' />
     </a>
 </div>
 
