@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541'>Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diamante-sensor-cuantico-2569427.jpg' alt='Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509'>Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-eyewear-2569367.jpg' alt='Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451'>Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/amd-presenta-tercera-generacion-ryzen-threadripper-3000-64-nucleos-128-hilos.jpg' alt='Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421'>Así es como se solucionan casi todos los problemas de los AirPods Max de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg' alt='Así es como se solucionan casi todos los problemas de los AirPods Max de Apple' />
     </a>
 </div>
 
