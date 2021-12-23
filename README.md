@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207'>Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-estaticas-quemar-calorias-2022-984207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-subida-bicicleta-2566945.jpg' alt='Las mejores bicicletas estáticas para quemar las calorías de Navidad en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019'>¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/gato-sienta-teclado-teletrabajo-curioso-truco-viral-tiktok-985019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='¿Tu gato se sienta en el teclado mientras teletrabajas? Este curioso truco viral explica cómo evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991'>Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-984991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-pone-freno-actualizacion-android-12-one-ui-40-debido-serie-problemas-2568621.jpg' alt='Samsung pone freno a la actualización de Android 12 y One UI 4.0 debido a una serie de problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993'>El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-deja-ver-video-comporta-nuevo-plegable-huawei-984993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-p50-pocket-2563337.jpg' alt='El Huawei P50 Pocket se deja ver en vídeo y así se comporta el nuevo plegable de Huawei' />
     </a>
 </div>
 
