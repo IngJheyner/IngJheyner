@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509'>Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/huawei-eyewear-huawei-watch-d-son-gafas-inteligentes-reloj-lleno-sensores-huawei-985509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-eyewear-2569367.jpg' alt='Huawei Eyewear y Huawei Watch D, así son las gafas inteligentes y el reloj lleno de sensores de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985'>Frases originales y mensajes para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/navidad-whatsapp.jpg' alt='Frases originales y mensajes para felicitar la Nochebuena y Navidad por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475'>Wordle: el nuevo juego de palabras que se está viralizando en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/wordle-2569341.jpg' alt='Wordle: el nuevo juego de palabras que se está viralizando en Twitter' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421'>Así es como se solucionan casi todos los problemas de los AirPods Max de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-solucionan-casi-todos-problemas-airpods-max-apple-985421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg' alt='Así es como se solucionan casi todos los problemas de los AirPods Max de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263'>Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f15-plus2-portatil-ultraligero-oferta-chollo-amazon-984263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg' alt='Este portátil chino de 15,6 pulgadas es un chollo, ultraligero y con Windows 11: ahora solo te costará 349€ con este cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427'>Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/arc-vector-moto-electrica-100000-euros-ultimo-tecnologia-400-km-autonomia-985427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/arc-vector_10.jpg' alt='Arc Vector la moto eléctrica de 100.000 euros con lo último en tecnología y más de 400 km de autonomía' />
     </a>
 </div>
 
