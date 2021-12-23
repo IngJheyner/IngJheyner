@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595'>Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-mensajes-llega-telegram-daran-toque-animado-conversaciones-985595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Las reacciones a mensajes llega a Telegram y darán un toque animado a las conversaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541'>Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-covid-cuestion-segundos-gracias-sensores-cuanticos-basados-diamante-985541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diamante-sensor-cuantico-2569427.jpg' alt='Detectan el COVID en cuestión de segundos gracias a sensores cuánticos basados en diamante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475'>Wordle: el nuevo juego de palabras que se está viralizando en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/wordle-nuevo-juego-palabras-viralizando-twitter-985475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/wordle-2569341.jpg' alt='Wordle: el nuevo juego de palabras que se está viralizando en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451'>Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-linea-amd-threadripper-pro-5000-plantar-cara-alder-lake-profesionales-intel-985451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/amd-presenta-tercera-generacion-ryzen-threadripper-3000-64-nucleos-128-hilos.jpg' alt='Esta es la nueva línea AMD Threadripper Pro 5000 para plantar cara a los Alder Lake profesionales de Intel' />
     </a>
 </div>
 
