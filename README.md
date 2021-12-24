@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961'>Los usuarios entran a Pornhub sobre todo con una consola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-ps5-2564057.jpg' alt='Los usuarios entran a Pornhub sobre todo con una consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-100-podria-romper-miles-sitios-web-tan-solo-meses-seria-solucion-986079'>Chrome 100 podría romper miles de sitios web en tan solo unos meses, y esta sería la solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-100-podria-romper-miles-sitios-web-tan-solo-meses-seria-solucion-986079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Chrome 100 podría romper miles de sitios web en tan solo unos meses, y esta sería la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059'>Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-2570493.jpg' alt='Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307'>Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas</a></h4>
     <a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-preparando-plato-comida-cocina-2569053.jpg' alt='Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-navidad-2570419.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969'>Los españoles que han entrado este año 2021 en el libro de los Récord Guinness</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/record-guiness-2570297.jpg' alt='Los españoles que han entrado este año 2021 en el libro de los Récord Guinness' />
     </a>
 </div>
 
