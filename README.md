@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925'>Europa será independiente de China para la fabricación de chips en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/microchip.jpg' alt='Europa será independiente de China para la fabricación de chips en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961'>Los usuarios entran a Pornhub sobre todo con una consola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-ps5-2564057.jpg' alt='Los usuarios entran a Pornhub sobre todo con una consola' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077'>La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luces-coche-2570605.jpg' alt='La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307'>Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas</a></h4>
-    <a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-preparando-plato-comida-cocina-2569053.jpg' alt='Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas' />
     </a>
 </div>
 
