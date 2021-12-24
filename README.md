@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059'>Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-2570493.jpg' alt='Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077'>La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luces-coche-2570605.jpg' alt='La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969'>Los españoles que han entrado este año 2021 en el libro de los Récord Guinness</a></h4>
     <a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/record-guiness-2570297.jpg' alt='Los españoles que han entrado este año 2021 en el libro de los Récord Guinness' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031'>Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navidad-whatsapp-2570429.jpg' alt='Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp' />
     </a>
 </div>
 
