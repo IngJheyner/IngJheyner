@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437'>Por qué el fútbol es cada vez más aburrido, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Por qué el fútbol es cada vez más aburrido, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-netflix-ultimo-gran-estreno-ano-985239'>Ha llegado a Netflix el último gran estreno del año</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-netflix-ultimo-gran-estreno-ano-985239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg' alt='Ha llegado a Netflix el último gran estreno del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/3-enero-estrenara-mercedes-vision-eqxx-985429'>El 3 de enero se estrenará el Mercedes Vision EQXX</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/3-enero-estrenara-mercedes-vision-eqxx-985429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mercedes-vision-eqxx-2563833.jpg' alt='El 3 de enero se estrenará el Mercedes Vision EQXX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751'>25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg' alt='25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2570081.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849'>10 accesorios que todos los usuarios de MacBook deberían tener</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-utilizando-portatil-macbook-pro-16-pulgadas-2567915.jpg' alt='10 accesorios que todos los usuarios de MacBook deberían tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671'>La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-bitcoins-excentrica-no-entrar-vivir-2569883.jpg' alt='La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563'>Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco</a></h4>
-    <a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/familia-prehistoria-2569453.jpg' alt='Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917'>Las 11 mejores películas para ver en familia en Navidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-television-navidad-2557881.jpg' alt='Las 11 mejores películas para ver en familia en Navidad' />
     </a>
 </div>
 
