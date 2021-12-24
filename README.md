@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671'>La Casa Bitcoins, excéntrica, no está para entrar a vivir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-bitcoins-excentrica-no-entrar-vivir-2569883.jpg' alt='La Casa Bitcoins, excéntrica, no está para entrar a vivir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563'>Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco</a></h4>
     <a href='https://computerhoy.com/noticias/life/encuentra-familia-antigua-historia-gracias-pruebas-adn-investigador-vasco-985563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/familia-prehistoria-2569453.jpg' alt='Se encuentra la familia más antigua de la historia gracias a pruebas de ADN y a un investigador vasco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661'>Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-toque-personal-iluminacion-hogar-bombilla-led-rgb-solo-cuesta-95-euros-envio-espana-2569791.jpg' alt='Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629'>El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-985629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-2569739.jpg' alt='El Xiaomi 12 se deja ver completo y con todo detalle en imágenes reales' />
     </a>
 </div>
 
