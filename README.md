@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031'>Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navidad-whatsapp-2570429.jpg' alt='Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-m3-apple-podria-estar-produccion-seria-3nm-986021'>El próximo chip M3 de Apple podría estar en producción y sería de 3nm</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-m3-apple-podria-estar-produccion-seria-3nm-986021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-3nm-tsmc-apple-m3-2570409.jpg' alt='El próximo chip M3 de Apple podría estar en producción y sería de 3nm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039'>Los mejores juegos para pasar unas navidades inolvidables en familia</a></h4>
+    <a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/felicitaciones-navidad_2.jpg' alt='Los mejores juegos para pasar unas navidades inolvidables en familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993'>Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941'>El brillo de los ojos es el truco para detectar Deepfakes con esta IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El brillo de los ojos es el truco para detectar Deepfakes con esta IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775'>Los memes más graciosos y originales para felicitar la Nochebuena 2021 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/memes-nochebuena_4.jpg' alt='Los memes más graciosos y originales para felicitar la Nochebuena 2021 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927'>Juegos de Google para entretener a los más peques hasta que llegue Santa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-google-entretener-peques-llegue-santa-2570273.jpg' alt='Juegos de Google para entretener a los más peques hasta que llegue Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019'>Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces' />
     </a>
 </div>
 
