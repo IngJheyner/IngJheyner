@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ofensiva-china-videojuegos-empieza-provocar-despidos-masivos-985893'>La ofensiva de China contra los videojuegos empieza a provocar despidos masivos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ofensiva-china-videojuegos-empieza-provocar-despidos-masivos-985893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/china-prohibe-ninos-puedan-jugar-3-horas-2454107.jpg' alt='La ofensiva de China contra los videojuegos empieza a provocar despidos masivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-detectores-quieren-descubrir-aliens-hablan-traves-espacio-985897'>Estos detectores quieren descubrir si los aliens hablan entre sí a través del Espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-detectores-quieren-descubrir-aliens-hablan-traves-espacio-985897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/telescopio.jpg' alt='Estos detectores quieren descubrir si los aliens hablan entre sí a través del Espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/proposito-estudiar-mejor-estos-accesorios-te-ayudaran-mucho-mejorar-notas-985349'>Si tu propósito es estudiar mejor, estos accesorios te ayudarán mucho a mejorar tus notas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/proposito-estudiar-mejor-estos-accesorios-te-ayudaran-mucho-mejorar-notas-985349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-estudiando-portatil-libros-cama-2569067.jpg' alt='Si tu propósito es estudiar mejor, estos accesorios te ayudarán mucho a mejorar tus notas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-afirma-pro-dogecoin-explica-desconfia-bitcoin-985885'>Elon Musk afirma que es pro dogecoin y explica por qué desconfía del bitcóin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-afirma-pro-dogecoin-explica-desconfia-bitcoin-985885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sola-palabra-elon-musk-hunde-criptomoneda-shiba-inu-20-demostrando-fragilidad-mayoria-divisas-digitales-2512321.jpg' alt='Elon Musk afirma que es pro dogecoin y explica por qué desconfía del bitcóin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437'>Por qué el fútbol es cada vez más aburrido, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Por qué el fútbol es cada vez más aburrido, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-netflix-ultimo-gran-estreno-ano-985239'>Ha llegado a Netflix el último gran estreno del año</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-netflix-ultimo-gran-estreno-ano-985239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg' alt='Ha llegado a Netflix el último gran estreno del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/3-enero-estrenara-mercedes-vision-eqxx-985429'>El 3 de enero se estrenará el Mercedes Vision EQXX</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/3-enero-estrenara-mercedes-vision-eqxx-985429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mercedes-vision-eqxx-2563833.jpg' alt='El 3 de enero se estrenará el Mercedes Vision EQXX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751'>25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg' alt='25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad' />
     </a>
 </div>
 
