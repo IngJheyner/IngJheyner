@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-navidad-2570419.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969'>Los españoles que han entrado este año 2021 en el libro de los Récord Guinness</a></h4>
     <a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/record-guiness-2570297.jpg' alt='Los españoles que han entrado este año 2021 en el libro de los Récord Guinness' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039'>Los mejores juegos para pasar unas navidades inolvidables en familia</a></h4>
     <a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/felicitaciones-navidad_2.jpg' alt='Los mejores juegos para pasar unas navidades inolvidables en familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993'>Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos' />
     </a>
 </div>
 
