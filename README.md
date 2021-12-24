@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2570081.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849'>10 accesorios que todos los usuarios de MacBook deberían tener</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-utilizando-portatil-macbook-pro-16-pulgadas-2567915.jpg' alt='10 accesorios que todos los usuarios de MacBook deberían tener' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671'>La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-bitcoins-excentrica-no-entrar-vivir-2569883.jpg' alt='La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917'>Las 11 mejores películas para ver en familia en Navidad</a></h4>
     <a href='https://computerhoy.com/reportajes/life/11-mejores-peliculas-ver-familia-navidad-978917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-television-navidad-2557881.jpg' alt='Las 11 mejores películas para ver en familia en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667'>Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-primeras-novedades-985667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Se filtran las primeras novedades de Android 13, que afectan a la pantalla de bloqueo, el audio y la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661'>Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-rgb-descuento-985661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dale-toque-personal-iluminacion-hogar-bombilla-led-rgb-solo-cuesta-95-euros-envio-espana-2569791.jpg' alt='Dale un toque personal a la iluminación del hogar con esta bombilla LED RGB que solo cuesta 9,5 euros, y envío desde España' />
     </a>
 </div>
 
