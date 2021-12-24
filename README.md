@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-afirma-pro-dogecoin-explica-desconfia-bitcoin-985885'>Elon Musk afirma que es pro dogecoin y explica por qué desconfía del bitcóin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-afirma-pro-dogecoin-explica-desconfia-bitcoin-985885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sola-palabra-elon-musk-hunde-criptomoneda-shiba-inu-20-demostrando-fragilidad-mayoria-divisas-digitales-2512321.jpg' alt='Elon Musk afirma que es pro dogecoin y explica por qué desconfía del bitcóin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437'>Por qué el fútbol es cada vez más aburrido, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/futbol-cada-vez-aburrido-estudio-985437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Por qué el fútbol es cada vez más aburrido, según un estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751'>25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochebuena-enviar-whatsapp-navidad-983751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg' alt='25 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-985881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2570081.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
