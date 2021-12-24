@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993'>Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941'>El brillo de los ojos es el truco para detectar Deepfakes con esta IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El brillo de los ojos es el truco para detectar Deepfakes con esta IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775'>Los memes más graciosos y originales para felicitar la Nochebuena 2021 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/memes-nochebuena_4.jpg' alt='Los memes más graciosos y originales para felicitar la Nochebuena 2021 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927'>Juegos de Google para entretener a los más peques hasta que llegue Santa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-google-entretener-peques-llegue-santa-2570273.jpg' alt='Juegos de Google para entretener a los más peques hasta que llegue Santa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019'>Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s21-fe-samsung-ultimos-unboxing-ano-985979'>Así es el Galaxy S21 FE de Samsung, de los últimos unboxing del año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s21-fe-samsung-ultimos-unboxing-ano-985979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217045.jpg' alt='Así es el Galaxy S21 FE de Samsung, de los últimos unboxing del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-2570361.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931'>Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalos-coche-2570191.jpg' alt='Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT' />
     </a>
 </div>
 
