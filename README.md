@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969'>Los españoles que han entrado este año 2021 en el libro de los Récord Guinness</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espanoles-han-entrado-ano-2021-libro-record-guinness-985969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/record-guiness-2570297.jpg' alt='Los españoles que han entrado este año 2021 en el libro de los Récord Guinness' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031'>Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navidad-whatsapp-2570429.jpg' alt='Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993'>Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demanda-tiktok-danos-mentales-ha-provocado-ser-moderador-videos-985993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='Demanda a TikTok por los daños mentales que le ha provocado ser moderador de vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941'>El brillo de los ojos es el truco para detectar Deepfakes con esta IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/brillo-ojos-truco-detectar-deepfakes-ia-985941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El brillo de los ojos es el truco para detectar Deepfakes con esta IA' />
     </a>
 </div>
 
