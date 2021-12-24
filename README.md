@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671'>La Casa Bitcoins, excéntrica, no está para entrar a vivir</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671'>La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/casa-bitcoins-985671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-bitcoins-excentrica-no-entrar-vivir-2569883.jpg' alt='La Casa Bitcoins, excéntrica, no está para entrar a vivir' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-bitcoins-excentrica-no-entrar-vivir-2569883.jpg' alt='La Casa Bitcoins, un peculiar homenaje a la criptomoneda más famosa' />
     </a>
 </div>
 
