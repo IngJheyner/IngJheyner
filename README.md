@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-985919'>MediaTek Pentonic 2000, así es el procesador destinado a dar vida a los televisores 8K y con 120 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-985919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-2570161.jpg' alt='MediaTek Pentonic 2000, así es el procesador destinado a dar vida a los televisores 8K y con 120 Hz' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-2570361.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ordenadores-son-rapidos-duda-mejoraran-productividad-2022-985391'>10 ordenadores que son más rápidos que el tuyo y que sin duda mejorarán tu productividad en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-ordenadores-son-rapidos-duda-mejoraran-productividad-2022-985391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='10 ordenadores que son más rápidos que el tuyo y que sin duda mejorarán tu productividad en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931'>Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalos-coche-2570191.jpg' alt='Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-no-acepta-nuevos-pedidos-algunos-modelos-camara-falta-chips-985907'>Sony no acepta nuevos pedidos para algunos modelos de cámara por la falta de chips</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-no-acepta-nuevos-pedidos-algunos-modelos-camara-falta-chips-985907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-alpha-7-iv-2505723.jpg' alt='Sony no acepta nuevos pedidos para algunos modelos de cámara por la falta de chips' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/direccion-ip-2568835.jpg' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-limpiar-airpods-apple-cosas-debes-evitar-queden-perfectos-985913'>Así debes limpiar tus Airpods según Apple y las cosas que debes evitar para que queden perfectos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/debes-limpiar-airpods-apple-cosas-debes-evitar-queden-perfectos-985913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524073.jpg' alt='Así debes limpiar tus Airpods según Apple y las cosas que debes evitar para que queden perfectos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realidad-funcionamiento-vacunas-arnm-como-podran-curar-nuevas-viejas-enfermedades-985943'>La realidad sobre el funcionamiento las vacunas ARNm y cómo podrán curar nuevas y viejas enfermedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realidad-funcionamiento-vacunas-arnm-como-podran-curar-nuevas-viejas-enfermedades-985943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/frasco-vacuna-2148463.jpg' alt='La realidad sobre el funcionamiento las vacunas ARNm y cómo podrán curar nuevas y viejas enfermedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-ejercito-estadounidense-te-permitira-seguir-directo-ubicacion-papa-noel-985899'>Esta aplicación del ejército estadounidense te permitirá seguir en directo la ubicación de Papa Noel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-ejercito-estadounidense-te-permitira-seguir-directo-ubicacion-papa-noel-985899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/papa-noel-2570097.jpg' alt='Esta aplicación del ejército estadounidense te permitirá seguir en directo la ubicación de Papa Noel' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/asus-proart-studiobook-16-review-opinion-983605'>Asus ProArt StudioBook 16, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/asus-proart-studiobook-16-review-opinion-983605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-asus-proart-studiobook-16-2566775.jpg' alt='Asus ProArt StudioBook 16, análisis y opinión' />
     </a>
 </div>
 
