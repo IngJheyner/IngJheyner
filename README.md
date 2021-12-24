@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927'>Juegos de Google para entretener a los más peques hasta que llegue Santa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/juegos-google-entretener-peques-llegue-santa-985927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-google-entretener-peques-llegue-santa-2570273.jpg' alt='Juegos de Google para entretener a los más peques hasta que llegue Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019'>Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-desactiva-opcion-jugar-videojuegos-mientras-conduces-986019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Se acabaron las tonterías: Tesla desactiva la opción de jugar a videojuegos en la pantalla mientras conduces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s21-fe-samsung-ultimos-unboxing-ano-985979'>Así es el Galaxy S21 FE de Samsung, de los últimos unboxing del año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s21-fe-samsung-ultimos-unboxing-ano-985979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217045.jpg' alt='Así es el Galaxy S21 FE de Samsung, de los últimos unboxing del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-985999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-2570361.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores smartwatches' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931'>Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuidado-llevar-regalos-coche-no-te-olvides-temido-efecto-elefante-dgt-985931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regalos-coche-2570191.jpg' alt='Cuidado al llevar los regalos en el coche, no te olvides del temido 'efecto elefante' de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/direccion-ip-2568835.jpg' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realidad-funcionamiento-vacunas-arnm-como-podran-curar-nuevas-viejas-enfermedades-985943'>La realidad sobre el funcionamiento las vacunas ARNm y cómo podrán curar nuevas y viejas enfermedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realidad-funcionamiento-vacunas-arnm-como-podran-curar-nuevas-viejas-enfermedades-985943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/frasco-vacuna-2148463.jpg' alt='La realidad sobre el funcionamiento las vacunas ARNm y cómo podrán curar nuevas y viejas enfermedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/asus-proart-studiobook-16-review-opinion-983605'>Asus ProArt StudioBook 16, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/asus-proart-studiobook-16-review-opinion-983605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-asus-proart-studiobook-16-2566775.jpg' alt='Asus ProArt StudioBook 16, análisis y opinión' />
     </a>
 </div>
 
