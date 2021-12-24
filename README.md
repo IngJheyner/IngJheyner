@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-985919'>MediaTek Pentonic 2000, así es el procesador destinado a dar vida a los televisores 8K y con 120 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-985919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mediatek-pentonic-2000-procesador-destinado-dar-vida-televisores-8k-120-hz-2570161.jpg' alt='MediaTek Pentonic 2000, así es el procesador destinado a dar vida a los televisores 8K y con 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-ordenadores-son-rapidos-duda-mejoraran-productividad-2022-985391'>10 ordenadores que son más rápidos que el tuyo y que sin duda mejorarán tu productividad en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-ordenadores-son-rapidos-duda-mejoraran-productividad-2022-985391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='10 ordenadores que son más rápidos que el tuyo y que sin duda mejorarán tu productividad en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-no-acepta-nuevos-pedidos-algunos-modelos-camara-falta-chips-985907'>Sony no acepta nuevos pedidos para algunos modelos de cámara por la falta de chips</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-no-acepta-nuevos-pedidos-algunos-modelos-camara-falta-chips-985907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-alpha-7-iv-2505723.jpg' alt='Sony no acepta nuevos pedidos para algunos modelos de cámara por la falta de chips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-limpiar-airpods-apple-cosas-debes-evitar-queden-perfectos-985913'>Así debes limpiar tus Airpods según Apple y las cosas que debes evitar para que queden perfectos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/debes-limpiar-airpods-apple-cosas-debes-evitar-queden-perfectos-985913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524073.jpg' alt='Así debes limpiar tus Airpods según Apple y las cosas que debes evitar para que queden perfectos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-ejercito-estadounidense-te-permitira-seguir-directo-ubicacion-papa-noel-985899'>Esta aplicación del ejército estadounidense te permitirá seguir en directo la ubicación de Papa Noel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-ejercito-estadounidense-te-permitira-seguir-directo-ubicacion-papa-noel-985899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/papa-noel-2570097.jpg' alt='Esta aplicación del ejército estadounidense te permitirá seguir en directo la ubicación de Papa Noel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ofensiva-china-videojuegos-empieza-provocar-despidos-masivos-985893'>La ofensiva de China contra los videojuegos empieza a provocar despidos masivos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ofensiva-china-videojuegos-empieza-provocar-despidos-masivos-985893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/china-prohibe-ninos-puedan-jugar-3-horas-2454107.jpg' alt='La ofensiva de China contra los videojuegos empieza a provocar despidos masivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-detectores-quieren-descubrir-aliens-hablan-traves-espacio-985897'>Estos detectores quieren descubrir si los aliens hablan entre sí a través del Espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-detectores-quieren-descubrir-aliens-hablan-traves-espacio-985897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/telescopio.jpg' alt='Estos detectores quieren descubrir si los aliens hablan entre sí a través del Espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/proposito-estudiar-mejor-estos-accesorios-te-ayudaran-mucho-mejorar-notas-985349'>Si tu propósito es estudiar mejor, estos accesorios te ayudarán mucho a mejorar tus notas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/proposito-estudiar-mejor-estos-accesorios-te-ayudaran-mucho-mejorar-notas-985349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-estudiando-portatil-libros-cama-2569067.jpg' alt='Si tu propósito es estudiar mejor, estos accesorios te ayudarán mucho a mejorar tus notas' />
     </a>
 </div>
 
