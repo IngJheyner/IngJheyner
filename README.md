@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077'>La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luces-coche-2570605.jpg' alt='La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307'>Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas</a></h4>
+    <a href='https://computerhoy.com/listas/life/quieres-comer-mejor-ano-tiene-estos-gadgets-cocina-son-justo-necesitas-985307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-preparando-plato-comida-cocina-2569053.jpg' alt='Si quieres comer mejor el año que tiene, estos gadgets de cocina son justo lo que necesitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-navidad-casa-cuento-12-citas-986025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/series-ver-navidad-2570419.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Navidad en casa, un cuento y 12 citas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031'>Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-gifs-felicitar-nochebuena-navidad-whatsapp-986031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/navidad-whatsapp-2570429.jpg' alt='Los mejores GIFs para felicitar la Nochebuena y Navidad por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-m3-apple-podria-estar-produccion-seria-3nm-986021'>El próximo chip M3 de Apple podría estar en producción y sería de 3nm</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-chip-m3-apple-podria-estar-produccion-seria-3nm-986021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-3nm-tsmc-apple-m3-2570409.jpg' alt='El próximo chip M3 de Apple podría estar en producción y sería de 3nm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039'>Los mejores juegos para pasar unas navidades inolvidables en familia</a></h4>
-    <a href='https://computerhoy.com/noticias/mejores-juegos-pasar-unas-navidades-inolvidables-familia-986039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/felicitaciones-navidad_2.jpg' alt='Los mejores juegos para pasar unas navidades inolvidables en familia' />
     </a>
 </div>
 
