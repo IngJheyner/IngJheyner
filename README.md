@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905'>Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiendas-estados-unidos-pcs-exposicion-cuerdas-candados-robos-gpus-falta-stock-985235'>En las tiendas de Estados Unidos están cerrando los PCs de exposición con cuerdas y candados para que no roben las GPUs, por la falta de stock</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiendas-estados-unidos-pcs-exposicion-cuerdas-candados-robos-gpus-falta-stock-985235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiendas-estados-unidos-estan-cerrando-pcs-exposicion-cuerdas-candados-no-roben-gpus-falta-stock-2568833.jpg' alt='En las tiendas de Estados Unidos están cerrando los PCs de exposición con cuerdas y candados para que no roben las GPUs, por la falta de stock' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879'>Esto es lo que le pasa a tu cuerpo cuando comes atún en lata</a></h4>
     <a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasa-cuerpo-cuando-comes-atun-lata-2570079.jpg' alt='Esto es lo que le pasa a tu cuerpo cuando comes atún en lata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961'>Los usuarios entran a Pornhub sobre todo con una consola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-ps5-2564057.jpg' alt='Los usuarios entran a Pornhub sobre todo con una consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-100-podria-romper-miles-sitios-web-tan-solo-meses-seria-solucion-986079'>Chrome 100 podría romper miles de sitios web en tan solo unos meses, y esta sería la solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-100-podria-romper-miles-sitios-web-tan-solo-meses-seria-solucion-986079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Chrome 100 podría romper miles de sitios web en tan solo unos meses, y esta sería la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059'>Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-2570493.jpg' alt='Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar' />
     </a>
 </div>
 
