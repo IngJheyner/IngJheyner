@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-ver-stories-instagram-modo-incognito-983425'>Métodos para ver las Stories de Instagram en modo incógnito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-ver-stories-instagram-modo-incognito-983425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Métodos para ver las Stories de Instagram en modo incógnito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905'>Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925'>Europa será independiente de China para la fabricación de chips en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/microchip.jpg' alt='Europa será independiente de China para la fabricación de chips en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961'>Los usuarios entran a Pornhub sobre todo con una consola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-entran-pornhub-todo-consola-985961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pornhub-ps5-2564057.jpg' alt='Los usuarios entran a Pornhub sobre todo con una consola' />
     </a>
 </div>
 
