@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-gram-review-opinion-984227'>LG Gram 16Z90P (2021)</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/lg-gram-review-opinion-984227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='LG Gram 16Z90P (2021)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/analisis-anker-623-magnetic-wireless-charger-iphone-13-iphone-12-979713'>Análisis del Anker 623 Magnetic Wireless Charger para iPhone 13 y iPhone 12</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/analisis-anker-623-magnetic-wireless-charger-iphone-13-iphone-12-979713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-anker-623-2569719.jpg' alt='Análisis del Anker 623 Magnetic Wireless Charger para iPhone 13 y iPhone 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-android-haran-cambies-forma-usar-smartphone-982427'>Aplicaciones de Android que harán que cambies la forma de usar tu smartphone</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-android-haran-cambies-forma-usar-smartphone-982427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-movil-2563711.jpg' alt='Aplicaciones de Android que harán que cambies la forma de usar tu smartphone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905'>Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiendas-estados-unidos-pcs-exposicion-cuerdas-candados-robos-gpus-falta-stock-985235'>En las tiendas de Estados Unidos están cerrando los PCs de exposición con cuerdas y candados para que no roben las GPUs, por la falta de stock</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiendas-estados-unidos-pcs-exposicion-cuerdas-candados-robos-gpus-falta-stock-985235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiendas-estados-unidos-estan-cerrando-pcs-exposicion-cuerdas-candados-no-roben-gpus-falta-stock-2568833.jpg' alt='En las tiendas de Estados Unidos están cerrando los PCs de exposición con cuerdas y candados para que no roben las GPUs, por la falta de stock' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879'>Esto es lo que le pasa a tu cuerpo cuando comes atún en lata</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasa-cuerpo-cuando-comes-atun-lata-2570079.jpg' alt='Esto es lo que le pasa a tu cuerpo cuando comes atún en lata' />
     </a>
 </div>
 
