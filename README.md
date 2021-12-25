@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915'>El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg' alt='El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915'>Juegos a los que jugar tras una comida o cena en familia</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-2562931.jpg' alt='Juegos a los que jugar tras una comida o cena en familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-fire-tv-todo-gadget-amazon-rebajado-precio-forma-temporal-985337'>Altavoz con Alexa y Fire TV, todo en uno: este gadget de Amazon está rebajado de precio de forma temporal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-fire-tv-todo-gadget-amazon-rebajado-precio-forma-temporal-985337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-fire-tv-cube-2568991.jpg' alt='Altavoz con Alexa y Fire TV, todo en uno: este gadget de Amazon está rebajado de precio de forma temporal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307'>Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518871.jpg' alt='Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/maniqui-planchado-977121'>Guía y consejos para comprar un maniquí de planchado y no volver a planchar una camisa</a></h4>
-    <a href='https://computerhoy.com/guia-compra/maniqui-planchado-977121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/maniqui-planchado-lidl-2020043.jpg' alt='Guía y consejos para comprar un maniquí de planchado y no volver a planchar una camisa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-revienta-mercado-oferta-galaxy-buds-pasan-costar-59-euros-cancelacion-ruido-985315'>Samsung revienta el mercado con una oferta en sus Galaxy Buds+, que pasan a costar 59 euros con cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-revienta-mercado-oferta-galaxy-buds-pasan-costar-59-euros-cancelacion-ruido-985315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/samsung-galaxy-buds-1861367.jpg' alt='Samsung revienta el mercado con una oferta en sus Galaxy Buds+, que pasan a costar 59 euros con cancelación de ruido' />
     </a>
 </div>
 
