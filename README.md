@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957'>TikTok tumba Google por primera vez: La web más visitada de 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok tumba Google por primera vez: La web más visitada de 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033'>Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lenovo-smart-tab-m10-alexa-smart-dock-2208433.jpg' alt='Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915'>El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg' alt='El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915'>Juegos a los que jugar tras una comida o cena en familia</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-2562931.jpg' alt='Juegos a los que jugar tras una comida o cena en familia' />
     </a>
 </div>
 
