@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033'>Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lenovo-smart-tab-m10-alexa-smart-dock-2208433.jpg' alt='Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291'>Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-amazon-echo-dot-2568945.jpg' alt='Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915'>El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg' alt='El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915'>Juegos a los que jugar tras una comida o cena en familia</a></h4>
     <a href='https://computerhoy.com/reportajes/life/juegos-jugar-comida-cena-familia-981915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-2562931.jpg' alt='Juegos a los que jugar tras una comida o cena en familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-fire-tv-todo-gadget-amazon-rebajado-precio-forma-temporal-985337'>Altavoz con Alexa y Fire TV, todo en uno: este gadget de Amazon está rebajado de precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-alexa-fire-tv-todo-gadget-amazon-rebajado-precio-forma-temporal-985337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-fire-tv-cube-2568991.jpg' alt='Altavoz con Alexa y Fire TV, todo en uno: este gadget de Amazon está rebajado de precio de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-google-pixel-no-pueden-reproducir-contenidos-hd-plataformas-como-netflix-razon-985983'>Algunos Google Pixel no pueden reproducir contenidos en HD en plataformas como Netflix y esta es la razón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algunos-google-pixel-no-pueden-reproducir-contenidos-hd-plataformas-como-netflix-razon-985983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Algunos Google Pixel no pueden reproducir contenidos en HD en plataformas como Netflix y esta es la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307'>Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518871.jpg' alt='Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada' />
     </a>
 </div>
 
