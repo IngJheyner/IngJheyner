@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227'>Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nuevo-tipo-tormenta-llamada-lago-atmosferico-puede-crear-charcos-1000-kilometros-diametro-2568825.jpg' alt='Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061'>No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957'>TikTok tumba Google por primera vez: La web más visitada de 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok tumba Google por primera vez: La web más visitada de 2021' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291'>Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-amazon-echo-dot-2568945.jpg' alt='Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915'>El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ces-2022-sufre-cancelaciones-industria-ya-mira-mobile-world-congress-2022-febrero-985915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg' alt='El CES 2022 sufre más cancelaciones y la industria ya mira hacia el Mobile World Congress 2022 de febrero' />
     </a>
 </div>
 
