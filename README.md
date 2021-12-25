@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879'>Esto es lo que le pasa a tu cuerpo cuando comes atún en lata</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beneficios-atun-lata-985879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasa-cuerpo-cuando-comes-atun-lata-2570079.jpg' alt='Esto es lo que le pasa a tu cuerpo cuando comes atún en lata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925'>Europa será independiente de China para la fabricación de chips en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/europa-sera-independiente-china-fabricacion-chips-2023-985925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/microchip.jpg' alt='Europa será independiente de China para la fabricación de chips en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059'>Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-986059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevo-estandar-hdr10-gaming-videojuegos-ha-inventado-samsung-nvidia-va-apoyar-2570493.jpg' alt='Qué es el nuevo estándar HDR10+ Gaming para videojuegos que se ha inventado Samsung, y que NVIDIA va a apoyar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077'>La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-cuando-momento-adecuado-encender-luces-evitar-multas-estas-navidades-986077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luces-coche-2570605.jpg' alt='La DGT te recuerda cuándo es el momento adecuado para encender las luces y así evitar multas estas Navidades' />
     </a>
 </div>
 
