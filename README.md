@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307'>Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-estado-bateria-movil-xiaomi-instalar-nada-959307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518871.jpg' alt='Cómo comprobar el estado de la batería de un móvil Xiaomi sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/maniqui-planchado-977121'>Guía y consejos para comprar un maniquí de planchado y no volver a planchar una camisa</a></h4>
+    <a href='https://computerhoy.com/guia-compra/maniqui-planchado-977121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/maniqui-planchado-lidl-2020043.jpg' alt='Guía y consejos para comprar un maniquí de planchado y no volver a planchar una camisa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-revienta-mercado-oferta-galaxy-buds-pasan-costar-59-euros-cancelacion-ruido-985315'>Samsung revienta el mercado con una oferta en sus Galaxy Buds+, que pasan a costar 59 euros con cancelación de ruido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-revienta-mercado-oferta-galaxy-buds-pasan-costar-59-euros-cancelacion-ruido-985315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/samsung-galaxy-buds-1861367.jpg' alt='Samsung revienta el mercado con una oferta en sus Galaxy Buds+, que pasan a costar 59 euros con cancelación de ruido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/blop-opera-inteligencia-artificial-google-cantar-villancicos-986069'>Controla la inteligencia artificial de Google para cantar villancicos personalizados con sus bolas gelatinosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/blop-opera-inteligencia-artificial-google-cantar-villancicos-986069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/controla-inteligencia-artificial-google-cantar-villancicos-personalizados-bolas-gelatinosas-2570533.jpg' alt='Controla la inteligencia artificial de Google para cantar villancicos personalizados con sus bolas gelatinosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-gram-review-opinion-984227'>LG Gram 16Z90P (2021)</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/lg-gram-review-opinion-984227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='LG Gram 16Z90P (2021)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/analisis-anker-623-magnetic-wireless-charger-iphone-13-iphone-12-979713'>Análisis del Anker 623 Magnetic Wireless Charger para iPhone 13 y iPhone 12</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/analisis-anker-623-magnetic-wireless-charger-iphone-13-iphone-12-979713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-anker-623-2569719.jpg' alt='Análisis del Anker 623 Magnetic Wireless Charger para iPhone 13 y iPhone 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-android-haran-cambies-forma-usar-smartphone-982427'>Aplicaciones de Android que harán que cambies la forma de usar tu smartphone</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-android-haran-cambies-forma-usar-smartphone-982427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-movil-2563711.jpg' alt='Aplicaciones de Android que harán que cambies la forma de usar tu smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-ver-stories-instagram-modo-incognito-983425'>Métodos para ver las Stories de Instagram en modo incógnito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-ver-stories-instagram-modo-incognito-983425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Métodos para ver las Stories de Instagram en modo incógnito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905'>Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/navidad-reyes-15-regalos-llegan-tiempo-cuestan-menos-100eu-985905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/regalos-navidad-2544907.jpg' alt='Tras Navidad, los Reyes: 15 regalos que llegan a tiempo y cuestan menos de 100€' />
     </a>
 </div>
 
