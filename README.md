@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199'>Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227'>Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nuevo-tipo-tormenta-llamada-lago-atmosferico-puede-crear-charcos-1000-kilometros-diametro-2568825.jpg' alt='Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033'>Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lenovo-smart-tab-m10-alexa-smart-dock-2208433.jpg' alt='Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291'>Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/regala-altavoz-amazon-echo-dot-menos-20-euros-aprende-como-alexa-te-puede-hacer-vida-facil-985291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/salon-amazon-echo-dot-2568945.jpg' alt='Regala un altavoz Amazon Echo Dot por menos de 20 euros y aprende cómo Alexa te puede hacer la vida más fácil' />
     </a>
 </div>
 
