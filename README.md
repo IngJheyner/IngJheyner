@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277'>Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267'>El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492383.jpg' alt='El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261'>Si eres editor de fotos tenemos malas noticias si tienes Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/error-windows-2486677.jpg' alt='Si eres editor de fotos tenemos malas noticias si tienes Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-videollamada-iphone-951769'>Cómo grabar una videollamada en un iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-videollamada-iphone-951769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487617.jpg' alt='Cómo grabar una videollamada en un iPhone' />
     </a>
 </div>
 
