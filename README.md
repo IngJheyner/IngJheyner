@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/loren-ipsum-como-conseguir-archivos-dummy-hacer-pruebas-todos-formatos-952377'>Loren ipsum... cómo conseguir archivos dummy para hacer pruebas en todos los formatos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/loren-ipsum-como-conseguir-archivos-dummy-hacer-pruebas-todos-formatos-952377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/programacion-2509605.jpg' alt='Loren ipsum... cómo conseguir archivos dummy para hacer pruebas en todos los formatos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659'>OnePlus Buds Z2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-analisis-opinion-2570241.jpg' alt='OnePlus Buds Z2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259'>¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/despedido-malware-dridex-hace-pasar-empresa-te-envia-email-despido-infectarte-2568861.jpg' alt='¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231'>Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-tejado-repele-calor-verano-atrapa-invierno-2565181.jpg' alt='Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno' />
     </a>
 </div>
 
