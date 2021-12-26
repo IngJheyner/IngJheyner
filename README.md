@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-986359'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores dispositivos de fitness y deporte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-986359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-2571033.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores dispositivos de fitness y deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s20-fe-5g-6-gb-ram-pantalla-120-hz-precio-minimo-986357'>El excelente Samsung Galaxy S20 FE 5G con 6 GB de RAM y pantalla a 120 Hz, baja a su precio mínimo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s20-fe-5g-6-gb-ram-pantalla-120-hz-precio-minimo-986357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-s20-fe-5g-2182345.jpg' alt='El excelente Samsung Galaxy S20 FE 5G con 6 GB de RAM y pantalla a 120 Hz, baja a su precio mínimo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/samsung-galaxy-s10e-analisis-opinion_0.jpg' alt='6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347'>Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hackean-centro-datos-hp-minar-criptomonedas-consiguen-ganar-100000-euros-2571021.jpg' alt='Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros' />
     </a>
 </div>
 
