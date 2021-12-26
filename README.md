@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259'>¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/despedido-malware-dridex-hace-pasar-empresa-te-envia-email-despido-infectarte-2568861.jpg' alt='¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231'>Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno</a></h4>
     <a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-tejado-repele-calor-verano-atrapa-invierno-2565181.jpg' alt='Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227'>Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nuevo-tipo-tormenta-llamada-lago-atmosferico-puede-crear-charcos-1000-kilometros-diametro-2568825.jpg' alt='Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061'>No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?' />
     </a>
 </div>
 
