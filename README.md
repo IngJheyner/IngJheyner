@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s20-fe-5g-6-gb-ram-pantalla-120-hz-precio-minimo-986357'>El excelente Samsung Galaxy S20 FE 5G con 6 GB de RAM y pantalla a 120 Hz, baja a su precio mínimo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s20-fe-5g-6-gb-ram-pantalla-120-hz-precio-minimo-986357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-s20-fe-5g-2182345.jpg' alt='El excelente Samsung Galaxy S20 FE 5G con 6 GB de RAM y pantalla a 120 Hz, baja a su precio mínimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353'>Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descarga-gratis-control-quedatelo-siempre-ganador-numerosos-premios-juego-ano-2571031.jpg' alt='Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347'>Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hackean-centro-datos-hp-minar-criptomonedas-consiguen-ganar-100000-euros-2571021.jpg' alt='Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937'>Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido' />
     </a>
 </div>
 
