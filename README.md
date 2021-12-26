@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659'>OnePlus Buds Z2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-analisis-opinion-2570241.jpg' alt='OnePlus Buds Z2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-grabar-programas-tv-tdt-hace-ademas-cuesta-menos-20-euros-985363'>Si te gusta grabar programas de TV, esta TDT lo hace y además cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-grabar-programas-tv-tdt-hace-ademas-cuesta-menos-20-euros-985363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mando-distancia-televisor-2569069.jpg' alt='Si te gusta grabar programas de TV, esta TDT lo hace y además cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183'>Controla tu móvil Android sin tocarlo, con gestos de tu cara</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mirando-movil-2566623.jpg' alt='Controla tu móvil Android sin tocarlo, con gestos de tu cara' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231'>Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno</a></h4>
     <a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-tejado-repele-calor-verano-atrapa-invierno-2565181.jpg' alt='Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429'>Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/galaxy-tab-s7-2063155.jpg' alt='Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199'>Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022' />
     </a>
 </div>
 
