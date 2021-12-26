@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231'>Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/recubrimiento-tejado-repele-calor-verano-atrapa-invierno-983231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/inventan-tejado-repele-calor-verano-atrapa-invierno-2565181.jpg' alt='Inventan un recubrimiento para el tejado que repele el calor en verano, y lo atrapa en invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429'>Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/galaxy-tab-s7-2063155.jpg' alt='Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199'>Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061'>No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-hay-rastro-spotify-hifi-no-ha-llegado-todavia-audio-alta-calidad-spotify-986061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='No hay rastro de Spotify HiFi, ¿por qué no ha llegado todavía el audio de alta calidad a Spotify?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957'>TikTok tumba Google por primera vez: La web más visitada de 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-tumba-google-primera-vez-web-visitada-2021-985957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok tumba Google por primera vez: La web más visitada de 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033'>Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-tiene-problemas-mantener-atencion-usuarios-cuando-conversan-alexa-986033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lenovo-smart-tab-m10-alexa-smart-dock-2208433.jpg' alt='Amazon tiene problemas para mantener la atención de los usuarios cuando conversan con Alexa' />
     </a>
 </div>
 
