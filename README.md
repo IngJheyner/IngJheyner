@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183'>Controla tu móvil Android sin tocarlo, con gestos de tu cara</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mirando-movil-2566623.jpg' alt='Controla tu móvil Android sin tocarlo, con gestos de tu cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259'>¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/despedido-malware-dridex-hace-pasar-empresa-te-envia-email-despido-infectarte-2568861.jpg' alt='¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199'>Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-smartphones-presentaran-primera-semana-enero-2022-986199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diseno-realme-gt-2-pro-master-edition-deja-ver-antes-presentacion-2568561.jpg' alt='Estos serían todos los smartphones que se presentarán en la primera semana de enero de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227'>Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-tipo-tormenta-lago-atmosferico-charcos-1000-kilometros-985227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descubren-nuevo-tipo-tormenta-llamada-lago-atmosferico-puede-crear-charcos-1000-kilometros-diametro-2568825.jpg' alt='Descubren un nuevo tipo de tormenta llamada Lago Atmosférico, puede crear charcos de 1.000 kilómetros de diámetro' />
     </a>
 </div>
 
