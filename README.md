@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-producto-xiaomi-venta-espana-afeitadora-ademas-bastante-barata-otras-alternativas-983611'>Este curioso producto de Xiaomi está a la venta en España: una afeitadora, y además bastante más barata que otras alternativas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curioso-producto-xiaomi-venta-espana-afeitadora-ademas-bastante-barata-otras-alternativas-983611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/xiaomi-mijia-s500-1873899.jpg' alt='Este curioso producto de Xiaomi está a la venta en España: una afeitadora, y además bastante más barata que otras alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261'>Si eres editor de fotos tenemos malas noticias si tienes Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/error-windows-2486677.jpg' alt='Si eres editor de fotos tenemos malas noticias si tienes Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-videollamada-iphone-951769'>Cómo grabar una videollamada en un iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-videollamada-iphone-951769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487617.jpg' alt='Cómo grabar una videollamada en un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/loren-ipsum-como-conseguir-archivos-dummy-hacer-pruebas-todos-formatos-952377'>Loren ipsum... cómo conseguir archivos dummy para hacer pruebas en todos los formatos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/loren-ipsum-como-conseguir-archivos-dummy-hacer-pruebas-todos-formatos-952377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/programacion-2509605.jpg' alt='Loren ipsum... cómo conseguir archivos dummy para hacer pruebas en todos los formatos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659'>OnePlus Buds Z2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-buds-z2-review-opinion-985659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-analisis-opinion-2570241.jpg' alt='OnePlus Buds Z2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-grabar-programas-tv-tdt-hace-ademas-cuesta-menos-20-euros-985363'>Si te gusta grabar programas de TV, esta TDT lo hace y además cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-grabar-programas-tv-tdt-hace-ademas-cuesta-menos-20-euros-985363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mando-distancia-televisor-2569069.jpg' alt='Si te gusta grabar programas de TV, esta TDT lo hace y además cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183'>Controla tu móvil Android sin tocarlo, con gestos de tu cara</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/controla-movil-android-tocarlo-gestos-cara-984183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mirando-movil-2566623.jpg' alt='Controla tu móvil Android sin tocarlo, con gestos de tu cara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259'>¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-dridex-email-despido-985259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/despedido-malware-dridex-hace-pasar-empresa-te-envia-email-despido-infectarte-2568861.jpg' alt='¡Despedido! El malware Dridex se hace pasar por tu empresa y te envía un email de despido para infectarte' />
     </a>
 </div>
 
