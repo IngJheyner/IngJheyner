@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353'>Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descarga-gratis-control-quedatelo-siempre-ganador-numerosos-premios-juego-ano-2571031.jpg' alt='Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351'>Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hace-explotar-tesla-model-s-30-kilos-dinamita-cuando-vio-factura-21000-euros-reparar-bateria-2571027.jpg' alt='Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937'>Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315'>LG patenta un portátil con paneles táctiles a ambos lados del teclado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-2570917.jpg' alt='LG patenta un portátil con paneles táctiles a ambos lados del teclado' />
     </a>
 </div>
 
