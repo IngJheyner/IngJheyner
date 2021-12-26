@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351'>Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hace-explotar-tesla-model-s-30-kilos-dinamita-cuando-vio-factura-21000-euros-reparar-bateria-2571027.jpg' alt='Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/samsung-galaxy-s10e-analisis-opinion_0.jpg' alt='6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347'>Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hackean-centro-datos-hp-minar-criptomonedas-consiguen-ganar-100000-euros-2571021.jpg' alt='Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315'>LG patenta un portátil con paneles táctiles a ambos lados del teclado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-2570917.jpg' alt='LG patenta un portátil con paneles táctiles a ambos lados del teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-ssd-gran-capacidad-499-euros-portatil-asus-bestia-precio-ganga-986305'>Ryzen 7 y un SSD de gran capacidad por 499 euros: este portátil ASUS es una bestia a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-ssd-gran-capacidad-499-euros-portatil-asus-bestia-precio-ganga-986305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-d515da-br777-2570899.jpg' alt='Ryzen 7 y un SSD de gran capacidad por 499 euros: este portátil ASUS es una bestia a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277'>Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita' />
     </a>
 </div>
 
