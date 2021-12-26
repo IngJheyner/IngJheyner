@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315'>LG patenta un portátil con paneles táctiles a ambos lados del teclado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-2570917.jpg' alt='LG patenta un portátil con paneles táctiles a ambos lados del teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-ssd-gran-capacidad-499-euros-portatil-asus-bestia-precio-ganga-986305'>Ryzen 7 y un SSD de gran capacidad por 499 euros: este portátil ASUS es una bestia a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-ssd-gran-capacidad-499-euros-portatil-asus-bestia-precio-ganga-986305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-d515da-br777-2570899.jpg' alt='Ryzen 7 y un SSD de gran capacidad por 499 euros: este portátil ASUS es una bestia a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277'>Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-matebook-14s-review-opinion-982211'>Huawei MateBook 14s, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-matebook-14s-review-opinion-982211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matebook-14s-analisis-opinion-2569789.jpg' alt='Huawei MateBook 14s, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-producto-xiaomi-venta-espana-afeitadora-ademas-bastante-barata-otras-alternativas-983611'>Este curioso producto de Xiaomi está a la venta en España: una afeitadora, y además bastante más barata que otras alternativas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curioso-producto-xiaomi-venta-espana-afeitadora-ademas-bastante-barata-otras-alternativas-983611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/xiaomi-mijia-s500-1873899.jpg' alt='Este curioso producto de Xiaomi está a la venta en España: una afeitadora, y además bastante más barata que otras alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261'>Si eres editor de fotos tenemos malas noticias si tienes Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eres-editor-fotos-tenemos-malas-noticias-tienes-windows-11-986261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/error-windows-2486677.jpg' alt='Si eres editor de fotos tenemos malas noticias si tienes Windows 11' />
     </a>
 </div>
 
