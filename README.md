@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937'>Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315'>LG patenta un portátil con paneles táctiles a ambos lados del teclado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-patenta-portatil-paneles-tactiles-ambos-lados-teclado-986315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-2570917.jpg' alt='LG patenta un portátil con paneles táctiles a ambos lados del teclado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267'>El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492383.jpg' alt='El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-14s-review-opinion-982211'>Huawei MateBook 14s, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-matebook-14s-review-opinion-982211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-matebook-14s-analisis-opinion-2569789.jpg' alt='Huawei MateBook 14s, análisis y opinión' />
     </a>
 </div>
 
