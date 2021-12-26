@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347'>Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackean-centro-datos-hp-minar-criptomonedas-986347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hackean-centro-datos-hp-minar-criptomonedas-consiguen-ganar-100000-euros-2571021.jpg' alt='Hackean un centro de datos de HP para minar criptomonedas, y consiguen ganar más de 100.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937'>Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-programar-alexa-realice-quieras-cuando-escuche-sonido-979937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alexa-2549727.jpg' alt='Cómo programar a Alexa para que realice lo que quieras cuando escuche un sonido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277'>Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-filtrar-negocios-cercanos-whatsapp-encuentres-empresa-favorita-986277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Ahora vas a poder filtrar negocios cercanos en WhatsApp para que encuentres tu empresa favorita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267'>El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-tendrian-ram-cualquier-otro-iphone-anterior-986267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492383.jpg' alt='El iPhone 14 Pro y Pro Max tendrían más RAM que cualquier otro iPhone anterior' />
     </a>
 </div>
 
