@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819'>Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/wd-elements-desktop-12tb-2148057.jpg' alt='Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/anade-contactos-emergencia-datos-medicos-movil-android-985553'>Añade tus contactos de emergencia y datos médicos en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/anade-contactos-emergencia-datos-medicos-movil-android-985553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/smartphone-medico-2569441.jpg' alt='Añade tus contactos de emergencia y datos médicos en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535'>El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/anillo-rojo-muerte-xbox-360-2159791.jpg' alt='El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807'>Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stellar-pizza-2571849.jpg' alt='Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-compartir-ubicacion-google-maps-realidad-no-fallo-986805'>El error al compartir la ubicación en Google Maps que en realidad no es un fallo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-compartir-ubicacion-google-maps-realidad-no-fallo-986805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='El error al compartir la ubicación en Google Maps que en realidad no es un fallo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-3-tendria-rival-dentro-poco-motorola-confirma-trabajando-razr-3-986767'>El Samsung Galaxy Z Flip 3 tendría un rival dentro de poco, Motorola confirma que está trabajando en el Razr 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-3-tendria-rival-dentro-poco-motorola-confirma-trabajando-razr-3-986767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_32.jpg' alt='El Samsung Galaxy Z Flip 3 tendría un rival dentro de poco, Motorola confirma que está trabajando en el Razr 3' />
     </a>
 </div>
 
