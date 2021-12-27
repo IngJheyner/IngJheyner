@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825'>Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-juegos-vendidos-steam-2021-amazon-triunfa-primer-juego-gta-v-eterno-2571925.jpg' alt='Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819'>Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/wd-elements-desktop-12tb-2148057.jpg' alt='Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809'>Estos son los años que vive un perro, según su raza</a></h4>
     <a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-anos-vive-perro-raza-2571851.jpg' alt='Estos son los años que vive un perro, según su raza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807'>Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stellar-pizza-2571849.jpg' alt='Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos' />
     </a>
 </div>
 
