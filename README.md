@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-debes-evitar-comprar-toda-costa-expertos-986517'>Coches de segunda mano que debes evitar comprar a toda costa según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-debes-evitar-comprar-toda-costa-expertos-986517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/coches-desguace-1879655.jpg' alt='Coches de segunda mano que debes evitar comprar a toda costa según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ciclistas-pasos-peatones-dgt-recuerda-norma-poco-conocida-sanciones-200-euros-986545'>Ciclistas y pasos de peatones: la DGT recuerda una norma poco conocida con sanciones de hasta 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ciclistas-pasos-peatones-dgt-recuerda-norma-poco-conocida-sanciones-200-euros-986545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-adelantando-ciclistas-2565379.jpg' alt='Ciclistas y pasos de peatones: la DGT recuerda una norma poco conocida con sanciones de hasta 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507'>LG presentará nuevos usos para sus pantallas transparentes en el CES 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-display-2571175.jpg' alt='LG presentará nuevos usos para sus pantallas transparentes en el CES 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459'>No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/router-google-mitad-precio-amazon-tiene-oferta-puede-solucionar-problemas-wifi-986313'>El router de Google está a mitad de precio: Amazon lo tiene en oferta y puede solucionar tus problemas con el WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/router-google-mitad-precio-amazon-tiene-oferta-puede-solucionar-problemas-wifi-986313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-nest-wifi-2232987.jpg' alt='El router de Google está a mitad de precio: Amazon lo tiene en oferta y puede solucionar tus problemas con el WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467'>Apple podría tener que volver a vender el iPhone con cargador en China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/funda-magsafe-iphone-12-iphone-12-pro-elago-2468311.jpg' alt='Apple podría tener que volver a vender el iPhone con cargador en China' />
     </a>
 </div>
 
