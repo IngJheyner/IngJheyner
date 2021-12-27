@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717'>Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/google-nest-hub_17.jpg' alt='Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715'>El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-2571607.jpg' alt='El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699'>Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/meteorito.jpg' alt='Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641'>Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/historia-thermomix-2359175.jpg' alt='Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos' />
     </a>
 </div>
 
