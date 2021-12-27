@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765'>Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-robots-aspiradores-estan-oferta-menos-200-euros-986655'>10 robots aspiradores que están en oferta por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-robots-aspiradores-estan-oferta-menos-200-euros-986655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/roomba-i3-robot-aspirador-vaciado-automatico-apto-pelos-mascotas-2225911.jpg' alt='10 robots aspiradores que están en oferta por menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717'>Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/google-nest-hub_17.jpg' alt='Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689'>Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero</a></h4>
     <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ferrero-2571547.jpg' alt='Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reyes-magos-deberian-traer-regalos-tecnologicos-tarde-ocu-986711'>Los Reyes Magos deberían traer los regalos tecnológicos más tarde, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reyes-magos-deberian-traer-regalos-tecnologicos-tarde-ocu-986711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/regalos-navidad-2166159.jpg' alt='Los Reyes Magos deberían traer los regalos tecnológicos más tarde, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699'>Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/meteorito.jpg' alt='Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal' />
     </a>
 </div>
 
