@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689'>Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ferrero-2571547.jpg' alt='Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reyes-magos-deberian-traer-regalos-tecnologicos-tarde-ocu-986711'>Los Reyes Magos deberían traer los regalos tecnológicos más tarde, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reyes-magos-deberian-traer-regalos-tecnologicos-tarde-ocu-986711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/regalos-navidad-2166159.jpg' alt='Los Reyes Magos deberían traer los regalos tecnológicos más tarde, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699'>Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/meteorito.jpg' alt='Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593'>Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611'>Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/aquafaba-2571343.jpg' alt='Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625'>Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/satelites-modulares-hisat-satlets-novawurks_1.png' alt='Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo' />
     </a>
 </div>
 
