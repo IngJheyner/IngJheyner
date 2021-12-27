@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611'>Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/aquafaba-2571343.jpg' alt='Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625'>Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/satelites-modulares-hisat-satlets-novawurks_1.png' alt='Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575'>Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia</a></h4>
     <a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595'>Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tres-pantallas-telefono-plegable-2571347.jpg' alt='Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045'>10 errores que debes evitar en Todocolección a la hora de comprar y vender</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/todocoleccion.jpg' alt='10 errores que debes evitar en Todocolección a la hora de comprar y vender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/predicciones-expertos-precio-shiba-inu-2022-986547'>La predicciones de los expertos sobre el precio de Shiba Inu en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/predicciones-expertos-precio-shiba-inu-2022-986547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg' alt='La predicciones de los expertos sobre el precio de Shiba Inu en 2022' />
     </a>
 </div>
 
