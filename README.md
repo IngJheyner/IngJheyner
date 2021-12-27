@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715'>El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-2571607.jpg' alt='El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689'>Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero</a></h4>
     <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ferrero-2571547.jpg' alt='Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641'>Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/historia-thermomix-2359175.jpg' alt='Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593'>Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta' />
     </a>
 </div>
 
