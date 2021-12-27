@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467'>Apple podría tener que volver a vender el iPhone con cargador en China</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/funda-magsafe-iphone-12-iphone-12-pro-elago-2468311.jpg' alt='Apple podría tener que volver a vender el iPhone con cargador en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-xiaomi-12-antes-presentacion-986465'>Esto es todo lo que sabemos del Xiaomi 12 antes de su presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-xiaomi-12-antes-presentacion-986465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-2569739.jpg' alt='Esto es todo lo que sabemos del Xiaomi 12 antes de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apple-realidad-aumentada-dispositivos-directivos-competencia-986439'>Apple invierte en realidad aumentada y prepara nuevos dispositivos mientras ficha a directivos de Meta</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-realidad-aumentada-dispositivos-directivos-competencia-986439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-realidad-2258681.jpg' alt='Apple invierte en realidad aumentada y prepara nuevos dispositivos mientras ficha a directivos de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293'>Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/click-grow-smart-garden-2570883.jpg' alt='Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355'>Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cobra-kai-2527447.jpg' alt='Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sostenible-comer-pescado-carne-dice-ciencia-985971'>¿Es más sostenible comer pescado o carne? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sostenible-comer-pescado-carne-dice-ciencia-985971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/portugal-aprueba-pescado-laboratorio-lubina-espinas-microplasticos-ni-mercurio-2561775.jpg' alt='¿Es más sostenible comer pescado o carne? Esto dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/grandes-trucos-conservar-neumaticos-perfecto-estado-985967'>Grandes trucos para conservar los neumáticos en perfecto estado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/grandes-trucos-conservar-neumaticos-perfecto-estado-985967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/neumaticos-2472453.jpg' alt='Grandes trucos para conservar los neumáticos en perfecto estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2571093.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
