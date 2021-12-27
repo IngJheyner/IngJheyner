@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293'>Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/click-grow-smart-garden-2570883.jpg' alt='Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355'>Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cobra-kai-2527447.jpg' alt='Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2571093.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883'>Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-2570085.jpg' alt='Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos' />
     </a>
 </div>
 
