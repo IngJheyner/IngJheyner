@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-detalles-curiosos-citroen-xsara-pocos-conocen-986473'>5 detalles curiosos sobre el Citroën Xsara que pocos conocen</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-detalles-curiosos-citroen-xsara-pocos-conocen-986473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loen-rally-argentina-2004-2563971.jpg' alt='5 detalles curiosos sobre el Citroën Xsara que pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765'>Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715'>El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-2571607.jpg' alt='El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689'>Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-ingredientes-no-declarados-versiones-populares-bombones-ferrero-986689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ferrero-2571547.jpg' alt='Alerta sanitaria por ingredientes no declarados en una de las versiones de los populares bombones Ferrero' />
     </a>
 </div>
 
