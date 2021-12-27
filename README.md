@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-detalles-curiosos-citroen-xsara-pocos-conocen-986473'>5 detalles curiosos sobre el Citroën Xsara que pocos conocen</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-detalles-curiosos-citroen-xsara-pocos-conocen-986473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loen-rally-argentina-2004-2563971.jpg' alt='5 detalles curiosos sobre el Citroën Xsara que pocos conocen' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535'>El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/anillo-rojo-muerte-xbox-360-2159791.jpg' alt='El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765'>Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-tiene-bug-no-todavia-no-tiene-solucion-empeora-color-blanco-pantalla-986765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 tiene un bug que no todavía no tiene solución y que empeora el color blanco de la pantalla' />
+    <h4><a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809'>Estos son los años que vive un perro, según su raza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-anos-vive-perro-raza-2571851.jpg' alt='Estos son los años que vive un perro, según su raza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-robots-aspiradores-estan-oferta-menos-200-euros-986655'>10 robots aspiradores que están en oferta por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-robots-aspiradores-estan-oferta-menos-200-euros-986655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/roomba-i3-robot-aspirador-vaciado-automatico-apto-pelos-mascotas-2225911.jpg' alt='10 robots aspiradores que están en oferta por menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807'>Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ex-empleados-elon-musk-crean-restaurante-robotico-capaz-hacer-pizzas-contacto-cada-45-segundos-986807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stellar-pizza-2571849.jpg' alt='Ex empleados de Elon Musk crean un restaurante robótico capaz de hacer pizzas sin contacto cada 45 segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717'>Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-sigue-avanzando-fuchsia-os-parece-nest-hub-max-seria-siguiente-dispositivo-actualizar-986717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/google-nest-hub_17.jpg' alt='Google sigue avanzando con Fuchsia OS y el parece que el Nest Hub Max sería el siguiente dispositivo en actualizar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-compartir-ubicacion-google-maps-realidad-no-fallo-986805'>El error al compartir la ubicación en Google Maps que en realidad no es un fallo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-compartir-ubicacion-google-maps-realidad-no-fallo-986805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='El error al compartir la ubicación en Google Maps que en realidad no es un fallo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715'>El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-986715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-m33-5g-estaria-cada-vez-cerca-eso-dicen-ultimas-filtraciones-ven-parte-especificaciones-2571607.jpg' alt='El Samsung Galaxy M33 5G estaría cada vez más cerca o eso dicen las últimas filtraciones en las que se ven parte de sus especificaciones' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-3-tendria-rival-dentro-poco-motorola-confirma-trabajando-razr-3-986767'>El Samsung Galaxy Z Flip 3 tendría un rival dentro de poco, Motorola confirma que está trabajando en el Razr 3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-3-tendria-rival-dentro-poco-motorola-confirma-trabajando-razr-3-986767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_32.jpg' alt='El Samsung Galaxy Z Flip 3 tendría un rival dentro de poco, Motorola confirma que está trabajando en el Razr 3' />
     </a>
 </div>
 
