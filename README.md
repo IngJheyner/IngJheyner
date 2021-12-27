@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699'>Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-explican-como-meteorito-destruyo-dinosaurios-casi-acaba-toda-vida-vegetal-986699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/meteorito.jpg' alt='Científicos explican cómo el meteorito que destruyó a los dinosaurios casi acaba con toda la vida vegetal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641'>Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/thermomix-actualiza-nuevo-modo-lanza-accesorio-pelar-patatas-hortalizas-segundos-986641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/historia-thermomix-2359175.jpg' alt='Thermomix se actualiza con un nuevo modo y lanza un accesorio para pelar patatas y hortalizas en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593'>Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hora-renovar-televisor-smart-tv-xiaomi-tiene-pantalla-qled-55-oferta-986593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Sí, es hora de renovar tu televisor: esta Smart TV de Xiaomi tiene pantalla QLED de 55" y está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611'>Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/life/aquafaba-oro-liquido-cocinar-estas-tirando-desague-darte-cuenta-986611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/aquafaba-2571343.jpg' alt='Aquafaba, el oro líquido para cocinar que estás tirando por el desagüe sin darte cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625'>Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/web-puedes-seguir-telescopio-james-webb-destino-orbita-halo-986625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/satelites-modulares-hisat-satlets-novawurks_1.png' alt='Con esta web puedes seguir al telescopio James Webb hasta su destino, la órbita de halo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575'>Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-patinete-electrico-amazon-tiene-varios-modelos-oferta-986511'>Si quieres un patinete eléctrico, Amazon tiene varios modelos en oferta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quieres-patinete-electrico-amazon-tiene-varios-modelos-oferta-986511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Si quieres un patinete eléctrico, Amazon tiene varios modelos en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595'>Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tres-pantallas-telefono-plegable-2571347.jpg' alt='Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas' />
     </a>
 </div>
 
