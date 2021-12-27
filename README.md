@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883'>Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-2570085.jpg' alt='Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-986359'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores dispositivos de fitness y deporte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-986359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-2571033.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores dispositivos de fitness y deporte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351'>Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hace-explotar-tesla-model-s-30-kilos-dinamita-cuando-vio-factura-21000-euros-reparar-bateria-2571027.jpg' alt='Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/samsung-galaxy-s10e-analisis-opinion_0.jpg' alt='6 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
     </a>
 </div>
 
