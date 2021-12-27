@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507'>LG presentará nuevos usos para sus pantallas transparentes en el CES 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-display-2571175.jpg' alt='LG presentará nuevos usos para sus pantallas transparentes en el CES 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/competencia-tesla-cybertruck-llama-thundertruck-diseno-no-deja-indiferente-nadie-986493'>La competencia del Tesla Cybertruck se llama Thundertruck y su diseño no deja indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/competencia-tesla-cybertruck-llama-thundertruck-diseno-no-deja-indiferente-nadie-986493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/thundertruck-coche-electrico-2571145.jpg' alt='La competencia del Tesla Cybertruck se llama Thundertruck y su diseño no deja indiferente a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459'>No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/router-google-mitad-precio-amazon-tiene-oferta-puede-solucionar-problemas-wifi-986313'>El router de Google está a mitad de precio: Amazon lo tiene en oferta y puede solucionar tus problemas con el WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/router-google-mitad-precio-amazon-tiene-oferta-puede-solucionar-problemas-wifi-986313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-nest-wifi-2232987.jpg' alt='El router de Google está a mitad de precio: Amazon lo tiene en oferta y puede solucionar tus problemas con el WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467'>Apple podría tener que volver a vender el iPhone con cargador en China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-tener-volver-vender-iphone-cargador-china-986467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/funda-magsafe-iphone-12-iphone-12-pro-elago-2468311.jpg' alt='Apple podría tener que volver a vender el iPhone con cargador en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-xiaomi-12-antes-presentacion-986465'>Esto es todo lo que sabemos del Xiaomi 12 antes de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-xiaomi-12-antes-presentacion-986465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-deja-ver-completo-todo-detalle-imagenes-reales-2569739.jpg' alt='Esto es todo lo que sabemos del Xiaomi 12 antes de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-realidad-aumentada-dispositivos-directivos-competencia-986439'>Apple invierte en realidad aumentada y prepara nuevos dispositivos mientras ficha a directivos de Meta</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-realidad-aumentada-dispositivos-directivos-competencia-986439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-realidad-2258681.jpg' alt='Apple invierte en realidad aumentada y prepara nuevos dispositivos mientras ficha a directivos de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293'>Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huerto-inteligente-regalo-perfecto-cualquier-amante-plantas-amazon-tiene-rebajado-precio-986293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/click-grow-smart-garden-2570883.jpg' alt='Este huerto inteligente es el regalo perfecto para cualquier amante de las plantas, y Amazon lo tiene rebajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355'>Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ultimos-lanzamientos-netflix-2021-todos-estrenos-semana-cobra-kai-986355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cobra-kai-2527447.jpg' alt='Los últimos lanzamientos de Netflix en 2021: todos los estrenos de la semana con más Cobra Kai' />
     </a>
 </div>
 
