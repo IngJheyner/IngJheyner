@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-986427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2571093.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883'>Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos</a></h4>
     <a href='https://computerhoy.com/noticias/life/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-985883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sverd-i-fjell-espadas-montana-significa-monumento-noruego-parece-sacado-juego-tronos-2570085.jpg' alt='Sverd i fjell, Espadas en la Montaña, qué significa este monumento noruego que parece sacado de Juego de Tronos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353'>Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/descarga-gratis-control-epic-games-store-986353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/descarga-gratis-control-quedatelo-siempre-ganador-numerosos-premios-juego-ano-2571031.jpg' alt='Descarga gratis Control y quédatelo para siempre,  ha ganado numerosos premios a Juego del Año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351'>Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/destruye-tesla-model-s-30-kilos-dinamita-986351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hace-explotar-tesla-model-s-30-kilos-dinamita-cuando-vio-factura-21000-euros-reparar-bateria-2571027.jpg' alt='Destruye su Tesla Model S con 30 Kilos de dinamita cuando vió la factura de 21.000 euros por reparar la batería (vídeo)' />
     </a>
 </div>
 
