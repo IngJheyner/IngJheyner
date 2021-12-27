@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-debes-evitar-comprar-toda-costa-expertos-986517'>Coches de segunda mano que debes evitar comprar a toda costa según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-debes-evitar-comprar-toda-costa-expertos-986517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/coches-desguace-1879655.jpg' alt='Coches de segunda mano que debes evitar comprar a toda costa según los expertos' />
+    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575'>Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bill-gates-muestra-rotundo-pesimista-presente-futuro-pandemia-986575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates se muestra rotundo, y pesimista, sobre el presente y futuro de la pandemia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ciclistas-pasos-peatones-dgt-recuerda-norma-poco-conocida-sanciones-200-euros-986545'>Ciclistas y pasos de peatones: la DGT recuerda una norma poco conocida con sanciones de hasta 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ciclistas-pasos-peatones-dgt-recuerda-norma-poco-conocida-sanciones-200-euros-986545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-adelantando-ciclistas-2565379.jpg' alt='Ciclistas y pasos de peatones: la DGT recuerda una norma poco conocida con sanciones de hasta 200 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-patinete-electrico-amazon-tiene-varios-modelos-oferta-986511'>Si quieres un patinete eléctrico, Amazon tiene varios modelos en oferta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quieres-patinete-electrico-amazon-tiene-varios-modelos-oferta-986511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Si quieres un patinete eléctrico, Amazon tiene varios modelos en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507'>LG presentará nuevos usos para sus pantallas transparentes en el CES 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-presentara-nuevos-usos-pantallas-transparentes-ces-2022-986507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-display-2571175.jpg' alt='LG presentará nuevos usos para sus pantallas transparentes en el CES 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595'>Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-patentes-demuestran-samsung-cree-futuro-plegable-telefonos-tres-pantallas-986595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tres-pantallas-telefono-plegable-2571347.jpg' alt='Nuevas patentes demuestran que Samsung cree que el futuro es plegable: teléfonos con tres pantallas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/competencia-tesla-cybertruck-llama-thundertruck-diseno-no-deja-indiferente-nadie-986493'>La competencia del Tesla Cybertruck se llama Thundertruck y su diseño no deja indiferente a nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/competencia-tesla-cybertruck-llama-thundertruck-diseno-no-deja-indiferente-nadie-986493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/thundertruck-coche-electrico-2571145.jpg' alt='La competencia del Tesla Cybertruck se llama Thundertruck y su diseño no deja indiferente a nadie' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045'>10 errores que debes evitar en Todocolección a la hora de comprar y vender</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/todocoleccion.jpg' alt='10 errores que debes evitar en Todocolección a la hora de comprar y vender' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459'>No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-gran-sorpresa-netflix-navidad-merece-pena-986459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='No mires arriba es la gran sorpresa de Netflix esta Navidad: ¿merece la pena?' />
+    <h4><a href='https://computerhoy.com/noticias/life/predicciones-expertos-precio-shiba-inu-2022-986547'>La predicciones de los expertos sobre el precio de Shiba Inu en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/predicciones-expertos-precio-shiba-inu-2022-986547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg' alt='La predicciones de los expertos sobre el precio de Shiba Inu en 2022' />
     </a>
 </div>
 
