@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181'>Si tu coche tiene etiqueta B este es el futuro que le espera en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/etiqueta-2572379.jpg' alt='Si tu coche tiene etiqueta B este es el futuro que le espera en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-metaverso-podrian-multiplicar-valor-2022-expertos-987189'>Las ‘Bitcoin del metaverso’ que podrían multiplicar su valor en 2022 según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-metaverso-podrian-multiplicar-valor-2022-expertos-987189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Las ‘Bitcoin del metaverso’ que podrían multiplicar su valor en 2022 según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137'>La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movano-2572293.jpg' alt='La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gopro-hero-10-review-opinion-971165'>GoPro Hero 10 Black, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/gopro-hero-10-review-opinion-971165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='GoPro Hero 10 Black, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-vendida-mundo-baja-precio-amazon-philips-cuesta-solo-17-euros-986343'>La bombilla inteligente más vendida del mundo baja de precio en Amazon: es de Philips y cuesta solo 17 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-vendida-mundo-baja-precio-amazon-philips-cuesta-solo-17-euros-986343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/philips-hue-white-1882719.jpg' alt='La bombilla inteligente más vendida del mundo baja de precio en Amazon: es de Philips y cuesta solo 17 euros' />
     </a>
 </div>
 
