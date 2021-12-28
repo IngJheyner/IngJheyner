@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081'>Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/intel-core-i5-2294181.jpg' alt='Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289'>WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063'>La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-pad-5-2479529.jpg' alt='La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239'>La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma' />
     </a>
 </div>
 
