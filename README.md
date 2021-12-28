@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/seguimos-cayendo-estos-son-trucos-utilizan-supermercados-manipularnos-987107'>Seguimos cayendo: estos son los trucos que utilizan los supermercados para manipularnos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/seguimos-cayendo-estos-son-trucos-utilizan-supermercados-manipularnos-987107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carro-supermercado-2572245.jpg' alt='Seguimos cayendo: estos son los trucos que utilizan los supermercados para manipularnos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/accesorio-game-boy-estuvo-punto-inventar-smartphones-anos-antes-apple-987109'>Este accesorio para Game Boy estuvo a punto de inventar el smartphone años antes que Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/accesorio-game-boy-estuvo-punto-inventar-smartphones-anos-antes-apple-987109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/game-boy-2572255.jpg' alt='Este accesorio para Game Boy estuvo a punto de inventar el smartphone años antes que Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/indice-miedo-codicia-criptomonedas-como-interpretarlo-987073'>Qué es el índice de miedo y codicia en las criptomonedas y cómo interpretarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/indice-miedo-codicia-criptomonedas-como-interpretarlo-987073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Qué es el índice de miedo y codicia en las criptomonedas y cómo interpretarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevas-unidades-online-robot-cocina-monsieur-cuisine-lidl-perfecto-como-regalo-reyes-magos-987087'>Nuevas unidades online del robot de cocina Monsieur Cuisine de Lidl perfecto como regalo de Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevas-unidades-online-robot-cocina-monsieur-cuisine-lidl-perfecto-como-regalo-reyes-magos-987087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Nuevas unidades online del robot de cocina Monsieur Cuisine de Lidl perfecto como regalo de Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075'>Esta IA te dirá cuando se va a romper tu disco duro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ssd-hdd-2071267.jpg' alt='Esta IA te dirá cuando se va a romper tu disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-satelites-casi-crean-catastrofe-espacial-china-ha-conseguido-evitar-987023'>Elon Musk y sus satélites casi crean una catástrofe espacial que China ha conseguido evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-satelites-casi-crean-catastrofe-espacial-china-ha-conseguido-evitar-987023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/elon-musk-presenta-starship-nave-spacex-nos-llevara-luna-marte-alla_0.jpg' alt='Elon Musk y sus satélites casi crean una catástrofe espacial que China ha conseguido evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gibraltar-puede-tener-primera-bolsa-publica-acepte-criptomonedas-permiten-987067'>Gibraltar puede tener la primera bolsa pública que acepte criptomonedas, si se lo permiten</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gibraltar-puede-tener-primera-bolsa-publica-acepte-criptomonedas-permiten-987067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Gibraltar puede tener la primera bolsa pública que acepte criptomonedas, si se lo permiten' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-oneplus-buds-z2-oferta-amazon-29-descuento-986327'>Los auriculares OnePlus Buds Z2, en oferta en Amazon con un 29% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-oneplus-buds-z2-oferta-amazon-29-descuento-986327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-2570965.jpg' alt='Los auriculares OnePlus Buds Z2, en oferta en Amazon con un 29% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/vota-premios-computerhoy-2021-finalistas-mejores-juegos-987065'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores juegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/vota-premios-computerhoy-2021-finalistas-mejores-juegos-987065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-juegos-2572181.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores juegos' />
     </a>
 </div>
 
