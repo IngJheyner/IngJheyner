@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-prepara-funcion-iphone-13-estas-deseando-utilizar-987029'>Apple prepara una función para iPhone 13 que estás deseando utilizar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-prepara-funcion-iphone-13-estas-deseando-utilizar-987029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Apple prepara una función para iPhone 13 que estás deseando utilizar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075'>Esta IA te dirá cuando se va a romper tu disco duro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ssd-hdd-2071267.jpg' alt='Esta IA te dirá cuando se va a romper tu disco duro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-987049'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-987049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticias-tecnologicas-2572167.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-satelites-casi-crean-catastrofe-espacial-china-ha-conseguido-evitar-987023'>Elon Musk y sus satélites casi crean una catástrofe espacial que China ha conseguido evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-satelites-casi-crean-catastrofe-espacial-china-ha-conseguido-evitar-987023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/elon-musk-presenta-starship-nave-spacex-nos-llevara-luna-marte-alla_0.jpg' alt='Elon Musk y sus satélites casi crean una catástrofe espacial que China ha conseguido evitar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-rompe-record-espacial-nunca-hubo-tantos-vuelos-espaciales-987003'>2021 rompe un récord espacial: nunca hubo tantos vuelos espaciales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/2021-rompe-record-espacial-nunca-hubo-tantos-vuelos-espaciales-987003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronautas-nasa-mision-spacex-2023287.jpg' alt='2021 rompe un récord espacial: nunca hubo tantos vuelos espaciales' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gibraltar-puede-tener-primera-bolsa-publica-acepte-criptomonedas-permiten-987067'>Gibraltar puede tener la primera bolsa pública que acepte criptomonedas, si se lo permiten</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gibraltar-puede-tener-primera-bolsa-publica-acepte-criptomonedas-permiten-987067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Gibraltar puede tener la primera bolsa pública que acepte criptomonedas, si se lo permiten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/10-series-pirateadas-2021-triunfa-genero-fantastico-plataforma-987005'>Las 10 series más pirateadas de 2021: interesa el género fantástico y ante todo Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/10-series-pirateadas-2021-triunfa-genero-fantastico-plataforma-987005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wanda-vision-serie-wandavision-2223971.jpg' alt='Las 10 series más pirateadas de 2021: interesa el género fantástico y ante todo Disney+' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-oneplus-buds-z2-oferta-amazon-29-descuento-986327'>Los auriculares OnePlus Buds Z2, en oferta en Amazon con un 29% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-oneplus-buds-z2-oferta-amazon-29-descuento-986327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-2570965.jpg' alt='Los auriculares OnePlus Buds Z2, en oferta en Amazon con un 29% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eilik-robot-humorista-estudias-teletrabajas-987007'>Eilik, el robot humorista que te levanta el ánimo mientras estudias o teletrabajas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eilik-robot-humorista-estudias-teletrabajas-987007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/eilik-robot-humorista-te-levanta-animo-mientras-estudias-teletrabajas-2572121.jpg' alt='Eilik, el robot humorista que te levanta el ánimo mientras estudias o teletrabajas' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/vota-premios-computerhoy-2021-finalistas-mejores-juegos-987065'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores juegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/vota-premios-computerhoy-2021-finalistas-mejores-juegos-987065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-juegos-2572181.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores juegos' />
     </a>
 </div>
 
