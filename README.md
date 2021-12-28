@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319'>Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tapers-tetris-2572779.jpg' alt='Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081'>Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/intel-core-i5-2294181.jpg' alt='Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271'>Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/surface-duo-2-ya-realidad-telefono-dos-pantallas-microsoft-2479849.jpg' alt='Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063'>La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-pad-5-2479529.jpg' alt='La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros' />
     </a>
 </div>
 
