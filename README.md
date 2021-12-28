@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-ya-intento-tarjeta-manos-libres-laguna-ii-hace-20-anos-987155'>Renault ya intentó la tarjeta manos libres para el Laguna II hace 20 años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renault-ya-intento-tarjeta-manos-libres-laguna-ii-hace-20-anos-987155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/renault-laguna-ii-2005-2566595.jpg' alt='Renault ya intentó la tarjeta manos libres para el Laguna II hace 20 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-criptomonedas-posibilidades-destronar-bitcoin-2022-986729'>Las 10 criptomonedas con más posibilidades de destronar a Bitcoin en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-criptomonedas-posibilidades-destronar-bitcoin-2022-986729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Las 10 criptomonedas con más posibilidades de destronar a Bitcoin en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-forzar-windows-11-abra-enlaces-defecto-navegador-favorito-955007'>Cómo forzar que Windows 11 abra los enlaces por defecto en tu navegador favorito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-forzar-windows-11-abra-enlaces-defecto-navegador-favorito-955007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo forzar que Windows 11 abra los enlaces por defecto en tu navegador favorito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349'>Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518865.jpg' alt='Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319'>Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris</a></h4>
     <a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tapers-tetris-2572779.jpg' alt='Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081'>Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-montando-pc-barato-procesador-intel-i5-10a-generacion-6-nucleos-12-hilos-solo-cuesta-136-euros-987081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/intel-core-i5-2294181.jpg' alt='Si estás montando un PC barato, este procesador Intel i5 de 10ª generación de 6 núcleos y 12 hilos sólo cuesta 136 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289'>WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219'>Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/olla-quemada-2317721.jpg' alt='Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo' />
     </a>
 </div>
 
