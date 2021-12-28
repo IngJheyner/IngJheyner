@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349'>Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518865.jpg' alt='Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319'>Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris</a></h4>
     <a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tapers-tetris-2572779.jpg' alt='Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219'>Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/olla-quemada-2317721.jpg' alt='Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271'>Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/surface-duo-2-ya-realidad-telefono-dos-pantallas-microsoft-2479849.jpg' alt='Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung' />
     </a>
 </div>
 
