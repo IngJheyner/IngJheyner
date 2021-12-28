@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-ya-intento-tarjeta-manos-libres-laguna-ii-hace-20-anos-987155'>Renault ya intentó la tarjeta manos libres para el Laguna II hace 20 años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renault-ya-intento-tarjeta-manos-libres-laguna-ii-hace-20-anos-987155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/renault-laguna-ii-2005-2566595.jpg' alt='Renault ya intentó la tarjeta manos libres para el Laguna II hace 20 años' />
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381'>La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nasa-contrata-sacerdotes-varias-religiones-saber-como-reaccionarian-diferentes-personas-anuncio-vida-extraterrestre-2572869.jpg' alt='La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-criptomonedas-posibilidades-destronar-bitcoin-2022-986729'>Las 10 criptomonedas con más posibilidades de destronar a Bitcoin en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-criptomonedas-posibilidades-destronar-bitcoin-2022-986729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Las 10 criptomonedas con más posibilidades de destronar a Bitcoin en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167'>Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-forzar-windows-11-abra-enlaces-defecto-navegador-favorito-955007'>Cómo forzar que Windows 11 abra los enlaces por defecto en tu navegador favorito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-forzar-windows-11-abra-enlaces-defecto-navegador-favorito-955007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo forzar que Windows 11 abra los enlaces por defecto en tu navegador favorito' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379'>Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349'>Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-10-mejores-moviles-puedes-regalar-reyes-magos-2022-986349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518865.jpg' alt='Estos son los 10 mejores móviles que puedes regalar por Reyes Magos 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377'>Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programador-2572865.jpg' alt='Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319'>Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fin-podras-colocar-comida-dejar-hueco-frigorifico-son-tapers-samsung-tetris-987319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-tapers-tetris-2572779.jpg' alt='Por fin podrás colocar la comida sin dejar un hueco en el frigorífico: así son los tápers de Samsung con Tetris' />
+    <h4><a href='https://computerhoy.com/noticias/motor/funcion-boton-recirculacion-aire-coche-928289'>Para qué sirve el botón de recirculación del aire y por qué deberías utilizarlo más a menudo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funcion-boton-recirculacion-aire-coche-928289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/funcion-real-boton-recirculacion-aire-coche-te-hara-usarlo-menudo-2464771.jpg' alt='Para qué sirve el botón de recirculación del aire y por qué deberías utilizarlo más a menudo' />
     </a>
 </div>
 
