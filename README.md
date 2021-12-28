@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fiestas-navidenas-peligro-mascotas-986829'>Alimentos navideños y plantas que son tóxicas para las mascotas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fiestas-navidenas-peligro-mascotas-986829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fiestas-navidenas-peligro-mortal-mascotas-2571931.jpg' alt='Alimentos navideños y plantas que son tóxicas para las mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825'>Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-juegos-vendidos-steam-2021-amazon-triunfa-primer-juego-gta-v-eterno-2571925.jpg' alt='Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535'>El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/anillo-rojo-muerte-xbox-360-2159791.jpg' alt='El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809'>Estos son los años que vive un perro, según su raza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/esperanza-vida-perro-segun-raza-986809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-anos-vive-perro-raza-2571851.jpg' alt='Estos son los años que vive un perro, según su raza' />
     </a>
 </div>
 
