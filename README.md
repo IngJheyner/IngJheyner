@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fiestas-navidenas-peligro-mascotas-986829'>Alimentos navideños y plantas que son tóxicas para las mascotas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fiestas-navidenas-peligro-mascotas-986829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fiestas-navidenas-peligro-mortal-mascotas-2571931.jpg' alt='Alimentos navideños y plantas que son tóxicas para las mascotas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-prepara-funcion-iphone-13-estas-deseando-utilizar-987029'>Apple prepara una función para iPhone 13 que estás deseando utilizar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-prepara-funcion-iphone-13-estas-deseando-utilizar-987029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Apple prepara una función para iPhone 13 que estás deseando utilizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825'>Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juegos-mas-vendidos-steam-2021-986825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-juegos-vendidos-steam-2021-amazon-triunfa-primer-juego-gta-v-eterno-2571925.jpg' alt='Estos son los juegos más vendidos de Steam en 2021, Amazon triunfa con su primer juego y GTA V es eterno' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-987049'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-987049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticias-tecnologicas-2572167.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819'>Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-wd-elements-18-tb-230-euros-descuento-986819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/wd-elements-desktop-12tb-2148057.jpg' alt='Si quieres mantener tus datos 'en frio', lejos de los hackers y espías, este disco duro de 18 TB tiene 230 euros de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-rompe-record-espacial-nunca-hubo-tantos-vuelos-espaciales-987003'>2021 rompe un récord espacial: nunca hubo tantos vuelos espaciales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2021-rompe-record-espacial-nunca-hubo-tantos-vuelos-espaciales-987003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronautas-nasa-mision-spacex-2023287.jpg' alt='2021 rompe un récord espacial: nunca hubo tantos vuelos espaciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/anade-contactos-emergencia-datos-medicos-movil-android-985553'>Añade tus contactos de emergencia y datos médicos en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/anade-contactos-emergencia-datos-medicos-movil-android-985553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/smartphone-medico-2569441.jpg' alt='Añade tus contactos de emergencia y datos médicos en tu móvil Android' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/10-series-pirateadas-2021-triunfa-genero-fantastico-plataforma-987005'>Las 10 series más pirateadas de 2021: interesa el género fantástico y ante todo Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/10-series-pirateadas-2021-triunfa-genero-fantastico-plataforma-987005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wanda-vision-serie-wandavision-2223971.jpg' alt='Las 10 series más pirateadas de 2021: interesa el género fantástico y ante todo Disney+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535'>El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/motivo-habia-anillo-rojo-muerte-xbox-360-explicado-microsoft-986535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/anillo-rojo-muerte-xbox-360-2159791.jpg' alt='El motivo que había tras el ''anillo rojo de la muerte'' de Xbox 360, explicado por Microsoft' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eilik-robot-humorista-estudias-teletrabajas-987007'>Eilik, el robot humorista que te levanta el ánimo mientras estudias o teletrabajas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eilik-robot-humorista-estudias-teletrabajas-987007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/eilik-robot-humorista-te-levanta-animo-mientras-estudias-teletrabajas-2572121.jpg' alt='Eilik, el robot humorista que te levanta el ánimo mientras estudias o teletrabajas' />
     </a>
 </div>
 
