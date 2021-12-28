@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289'>WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-pongamos-estado-offline-siempre-queramos-987289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp está trabajando en que pongamos nuestro estado offline siempre que queramos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219'>Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/olla-quemada-2317721.jpg' alt='Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239'>La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181'>Si tu coche tiene etiqueta B este es el futuro que le espera en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/etiqueta-2572379.jpg' alt='Si tu coche tiene etiqueta B este es el futuro que le espera en 2022' />
     </a>
 </div>
 
