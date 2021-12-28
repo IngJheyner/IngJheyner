@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219'>Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-olla-sarten-quemada-danarla-ni-mover-solo-dedo-987219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/olla-quemada-2317721.jpg' alt='Cómo limpiar una olla o sartén quemada sin dañarla ni mover un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271'>Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-tiene-patentados-telefonos-tres-pantallas-sera-competencia-samsung-987271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/surface-duo-2-ya-realidad-telefono-dos-pantallas-microsoft-2479849.jpg' alt='Microsoft también tiene patentados teléfonos con tres pantallas: así será la competencia de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063'>La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-xiaomi-reventando-mercado-ahora-puede-ser-solo-352-euros-987063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/xiaomi-pad-5-2479529.jpg' alt='La nueva tablet de Xiaomi está reventando el mercado y ahora puede ser tuya desde sólo 352 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239'>La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nueva-tarjeta-grafica-nvidia-portatiles-sera-potente-jamas-hecha-consuma-987239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='La nueva tarjeta gráfica de NVIDIA para portátiles será la más potente jamás hecha... y la que más consuma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181'>Si tu coche tiene etiqueta B este es el futuro que le espera en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-tiene-etiqueta-b-futuro-espera-2022-987181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/etiqueta-2572379.jpg' alt='Si tu coche tiene etiqueta B este es el futuro que le espera en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-metaverso-podrian-multiplicar-valor-2022-expertos-987189'>Las ‘Bitcoin del metaverso’ que podrían multiplicar su valor en 2022 según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-metaverso-podrian-multiplicar-valor-2022-expertos-987189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Las ‘Bitcoin del metaverso’ que podrían multiplicar su valor en 2022 según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137'>La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movano-2572293.jpg' alt='La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-piques-empresa-mrw-nos-advierte-intento-fraude-traves-mensajes-texto-987147'>¡No piques! La empresa MRW nos advierte de un intento de fraude  a través de mensajes de texto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-piques-empresa-mrw-nos-advierte-intento-fraude-traves-mensajes-texto-987147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mrw-2572353.jpg' alt='¡No piques! La empresa MRW nos advierte de un intento de fraude  a través de mensajes de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
     </a>
 </div>
 
