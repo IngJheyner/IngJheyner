@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/seguimos-cayendo-estos-son-trucos-utilizan-supermercados-manipularnos-987107'>Seguimos cayendo: estos son los trucos que utilizan los supermercados para manipularnos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/seguimos-cayendo-estos-son-trucos-utilizan-supermercados-manipularnos-987107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carro-supermercado-2572245.jpg' alt='Seguimos cayendo: estos son los trucos que utilizan los supermercados para manipularnos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137'>La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresa-tecnologica-movano-lanzara-mercado-anillo-inteligente-te-va-ayudar-padeces-alguna-enfermedad-987137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/movano-2572293.jpg' alt='La empresa tecnológica Movano lanzará al mercado un anillo inteligente que te va a ayudar si padeces alguna enfermedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/accesorio-game-boy-estuvo-punto-inventar-smartphones-anos-antes-apple-987109'>Este accesorio para Game Boy estuvo a punto de inventar el smartphone años antes que Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/accesorio-game-boy-estuvo-punto-inventar-smartphones-anos-antes-apple-987109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/game-boy-2572255.jpg' alt='Este accesorio para Game Boy estuvo a punto de inventar el smartphone años antes que Apple' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-piques-empresa-mrw-nos-advierte-intento-fraude-traves-mensajes-texto-987147'>¡No piques! La empresa MRW nos advierte de un intento de fraude  a través de mensajes de texto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-piques-empresa-mrw-nos-advierte-intento-fraude-traves-mensajes-texto-987147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mrw-2572353.jpg' alt='¡No piques! La empresa MRW nos advierte de un intento de fraude  a través de mensajes de texto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/indice-miedo-codicia-criptomonedas-como-interpretarlo-987073'>Qué es el índice de miedo y codicia en las criptomonedas y cómo interpretarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/indice-miedo-codicia-criptomonedas-como-interpretarlo-987073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Qué es el índice de miedo y codicia en las criptomonedas y cómo interpretarlo' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevas-unidades-online-robot-cocina-monsieur-cuisine-lidl-perfecto-como-regalo-reyes-magos-987087'>Nuevas unidades online del robot de cocina Monsieur Cuisine de Lidl perfecto como regalo de Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevas-unidades-online-robot-cocina-monsieur-cuisine-lidl-perfecto-como-regalo-reyes-magos-987087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Nuevas unidades online del robot de cocina Monsieur Cuisine de Lidl perfecto como regalo de Reyes Magos' />
+    <h4><a href='https://computerhoy.com/analisis/gopro-hero-10-review-opinion-971165'>GoPro Hero 10 Black, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/gopro-hero-10-review-opinion-971165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='GoPro Hero 10 Black, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075'>Esta IA te dirá cuando se va a romper tu disco duro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-te-dira-cuando-va-romper-disco-duro-987075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ssd-hdd-2071267.jpg' alt='Esta IA te dirá cuando se va a romper tu disco duro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-vendida-mundo-baja-precio-amazon-philips-cuesta-solo-17-euros-986343'>La bombilla inteligente más vendida del mundo baja de precio en Amazon: es de Philips y cuesta solo 17 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-vendida-mundo-baja-precio-amazon-philips-cuesta-solo-17-euros-986343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/philips-hue-white-1882719.jpg' alt='La bombilla inteligente más vendida del mundo baja de precio en Amazon: es de Philips y cuesta solo 17 euros' />
     </a>
 </div>
 
