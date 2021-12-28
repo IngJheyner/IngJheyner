@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399'>Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389'>Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/turbo-cecofry-4d-freidora-dietetica-cecotec-ademas-hace-pizzas-yogures-buen-regalo-descuento-2572881.jpg' alt='Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379'>Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377'>Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programador-2572865.jpg' alt='Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022' />
     </a>
 </div>
 
