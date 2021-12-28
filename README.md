@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389'>Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/turbo-cecofry-4d-freidora-dietetica-cecotec-ademas-hace-pizzas-yogures-buen-regalo-descuento-2572881.jpg' alt='Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381'>La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nasa-contrata-sacerdotes-varias-religiones-saber-como-reaccionarian-diferentes-personas-anuncio-vida-extraterrestre-2572869.jpg' alt='La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377'>Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prepara-cv-5-empleos-tecnologicos-demandados-2022-987377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programador-2572865.jpg' alt='Prepara tu CV: los 5 empleos tecnológicos más demandados en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funcion-boton-recirculacion-aire-coche-928289'>Para qué sirve el botón de recirculación del aire y por qué deberías utilizarlo más a menudo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funcion-boton-recirculacion-aire-coche-928289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/funcion-real-boton-recirculacion-aire-coche-te-hara-usarlo-menudo-2464771.jpg' alt='Para qué sirve el botón de recirculación del aire y por qué deberías utilizarlo más a menudo' />
     </a>
 </div>
 
