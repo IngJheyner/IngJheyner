@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185'>Estas enfermedades se relacionan con la mala salud bucal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alimentos-danan-dientes-2414167.jpg' alt='Estas enfermedades se relacionan con la mala salud bucal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/coronavirus-cambiar-cabezal-cepillo-dientes-987001'>Si has tenido coronavirus también deberías cambiar el cabezal de tu cepillo de dientes</a></h4>
+    <a href='https://computerhoy.com/noticias/coronavirus-cambiar-cabezal-cepillo-dientes-987001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cepillos-dientes-2572291.jpg' alt='Si has tenido coronavirus también deberías cambiar el cabezal de tu cepillo de dientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-ley-trafico-sumara-estas-nuevas-normas-21-marzo-2022-987173'>La nueva Ley de Tráfico sumará estas nuevas normas el 21 de marzo de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-ley-trafico-sumara-estas-nuevas-normas-21-marzo-2022-987173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ley-trafico-2552021.jpg' alt='La nueva Ley de Tráfico sumará estas nuevas normas el 21 de marzo de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2573111.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559'>Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-confirma-comer-tipo-chocolate-mejora-estado-animo-2573095.jpg' alt='Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557'>Honda Shogo, el coche eléctrico para los niños hospitalizados</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-shogo-coche-electrico-entretener-ninos-hospitalizados-2573093.jpg' alt='Honda Shogo, el coche eléctrico para los niños hospitalizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399'>Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W' />
     </a>
 </div>
 
