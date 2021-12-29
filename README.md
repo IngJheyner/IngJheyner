@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827'>Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lastpass-2573705.jpg' alt='Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565'>No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-razer-kishi-2240593.jpg' alt='No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-no-mires-arriba-explica-tres-finales-pelicula-netflix-987745'>El director de No mires arriba explica los ¿tres finales? de la película de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/director-no-mires-arriba-explica-tres-finales-pelicula-netflix-987745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2573345.jpg' alt='El director de No mires arriba explica los ¿tres finales? de la película de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803'>La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/inteligencia-artificial-2458915.jpg' alt='La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807'>No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807'>No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2489663.jpg' alt='No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52s-nuevo-superventas-firma-coreana-tiene-5g-ahora-cuesta-solo-349eu-986551'>El Samsung Galaxy A52s es el nuevo superventas de la firma coreana: tiene 5G y ahora cuesta solo 349€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52s-nuevo-superventas-firma-coreana-tiene-5g-ahora-cuesta-solo-349eu-986551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519627.jpg' alt='El Samsung Galaxy A52s es el nuevo superventas de la firma coreana: tiene 5G y ahora cuesta solo 349€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-harto-spam-te-damos-consejos-librarte-molestia-987691'>Si estás harto del Spam, te damos unos consejos para librarte de esta molestia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-harto-spam-te-damos-consejos-librarte-molestia-987691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg' alt='Si estás harto del Spam, te damos unos consejos para librarte de esta molestia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/i5-venciendo-i9-12o-gen-intel-destroza-anterior-generacion-987771'>Un i5 venciendo a un i9: La 12º Gen de Intel destroza a la anterior generación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/i5-venciendo-i9-12o-gen-intel-destroza-anterior-generacion-987771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='Un i5 venciendo a un i9: La 12º Gen de Intel destroza a la anterior generación' />
     </a>
 </div>
 
