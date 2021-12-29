@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853'>Si tienes algunos de estos móviles olvídate de Android Auto para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Si tienes algunos de estos móviles olvídate de Android Auto para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827'>Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lastpass-2573705.jpg' alt='Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803'>La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/inteligencia-artificial-2458915.jpg' alt='La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807'>No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2489663.jpg' alt='No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada' />
     </a>
 </div>
 
