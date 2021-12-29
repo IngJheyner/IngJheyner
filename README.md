@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-apple-airpods-max-oferta-987965'>Los auriculares Apple AirPods Max bajan al fin de los 500 euros, y llegan para Reyes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-apple-airpods-max-oferta-987965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg' alt='Los auriculares Apple AirPods Max bajan al fin de los 500 euros, y llegan para Reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957'>La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-2240051.jpg' alt='La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-987859'>Los últimos rumores apuntan a que el Samsung Galaxy S22 Ultra contaría con una capacidad de almacenamiento sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-987859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Los últimos rumores apuntan a que el Samsung Galaxy S22 Ultra contaría con una capacidad de almacenamiento sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/witcher-no-ira-alla-libros-showrunner-987711'>The Witcher no irá más allá de los libros, según su showrunner</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/witcher-no-ira-alla-libros-showrunner-987711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/witcher-2568201.jpg' alt='The Witcher no irá más allá de los libros, según su showrunner' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949'>Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/toca-volver-clase-investigadores-descubren-parte-ahora-desconocida-anatomia-humana-987945'>Toca volver a clase: investigadores descubren una parte hasta ahora desconocida de la anatomía humana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/toca-volver-clase-investigadores-descubren-parte-ahora-desconocida-anatomia-humana-987945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/anatomia-cuerpo-humano-2573953.jpg' alt='Toca volver a clase: investigadores descubren una parte hasta ahora desconocida de la anatomía humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-elige-mejor-roscon-reyes-supermercado-2021-resultado-decepcionante-987929'>La OCU elige al mejor roscón de reyes de supermercado en 2021 y el resultado es decepcionante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-elige-mejor-roscon-reyes-supermercado-2021-resultado-decepcionante-987929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2573951.jpg' alt='La OCU elige al mejor roscón de reyes de supermercado en 2021 y el resultado es decepcionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705'>Los 3 mejores motores que ha tenido Alfa Romeo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alfa-romeo-8c-anos-30-2567109.jpg' alt='Los 3 mejores motores que ha tenido Alfa Romeo' />
     </a>
 </div>
 
