@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557'>Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-shogo-coche-electrico-entretener-ninos-hospitalizados-2573093.jpg' alt='Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399'>Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167'>Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379'>Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/denuncian-amazon-alexa-sugerir-peligroso-reto-tiktok-nina-10-anos-987379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Denuncian a Amazon Alexa por sugerir un peligroso reto de TikTok a una niña de 10 años' />
     </a>
 </div>
 
