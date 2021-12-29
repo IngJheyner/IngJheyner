@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2573111.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559'>Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo</a></h4>
     <a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-confirma-comer-tipo-chocolate-mejora-estado-animo-2573095.jpg' alt='Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557'>Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557'>Honda Shogo, el coche eléctrico para los niños hospitalizados</a></h4>
     <a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-shogo-coche-electrico-entretener-ninos-hospitalizados-2573093.jpg' alt='Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-shogo-coche-electrico-entretener-ninos-hospitalizados-2573093.jpg' alt='Honda Shogo, el coche eléctrico para los niños hospitalizados' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399'>Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-12-pro-12x-oficial-caracteristicas-precio-987399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Xiaomi 12, 12 Pro y 12X ya son oficiales: con procesador Snapdragon 8 Gen 1 y carga rápida a 120W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389'>Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/turbo-cecofry-4d-freidora-aceite-cecotec-oferta-987389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/turbo-cecofry-4d-freidora-dietetica-cecotec-ademas-hace-pizzas-yogures-buen-regalo-descuento-2572881.jpg' alt='Turbo Cecofry 4D, la freidora sin aceite de Cecotec que además hace pizzas y yogures, un buen regalo con descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381'>La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nasa-contrata-sacerdotes-varias-religiones-saber-como-reaccionarian-diferentes-personas-anuncio-vida-extraterrestre-2572869.jpg' alt='La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre' />
     </a>
 </div>
 
