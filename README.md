@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coste-crisis-semiconductores-nvidia-paga-miles-millones-euros-asegurarse-generacion-rtx-4000-987627'>El coste de la crisis de semiconductores: NVIDIA paga miles de millones de euros para asegurarse la generación RTX 4000</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coste-crisis-semiconductores-nvidia-paga-miles-millones-euros-asegurarse-generacion-rtx-4000-987627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nvidia-cmp-2237971.jpg' alt='El coste de la crisis de semiconductores: NVIDIA paga miles de millones de euros para asegurarse la generación RTX 4000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-puede-cambiar-completo-2022-gran-apuesta-red-social-seran-reels-987609'>Instagram puede cambiar por completo en 2022 y la gran apuesta de la red social serán los Reels</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-puede-cambiar-completo-2022-gran-apuesta-red-social-seran-reels-987609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram puede cambiar por completo en 2022 y la gran apuesta de la red social serán los Reels' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-microsd-2-tb-muchos-moviles-admiten-pero-nadie-puede-comprarlas-987593'>Tarjetas microSD de 2 TB: muchos móviles las admiten pero nadie puede comprarlas ¿por qué?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-microsd-2-tb-muchos-moviles-admiten-pero-nadie-puede-comprarlas-987593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/tarjeta-microsd.jpg' alt='Tarjetas microSD de 2 TB: muchos móviles las admiten pero nadie puede comprarlas ¿por qué?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879'>Sony WF-C500, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-wf-c500-analisis-opinion-2570331.jpg' alt='Sony WF-C500, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583'>Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas</a></h4>
     <a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programadores-2573125.jpg' alt='Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/no-mires-arriba-netflix-tiene-escena-clave-tal-vez-has-pasado-alto-987573'>No mires arriba de Netflix tiene una escena clave que tal vez has pasado por alto</a></h4>
-    <a href='https://computerhoy.com/noticias/no-mires-arriba-netflix-tiene-escena-clave-tal-vez-has-pasado-alto-987573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-mires-arriba-2535039.jpg' alt='No mires arriba de Netflix tiene una escena clave que tal vez has pasado por alto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suena-locura-pero-verdad-auriculares-samsung-galaxy-buds-pro-estan-mitad-precio-amazon-987135'>Suena a locura, pero es verdad: los auriculares Samsung Galaxy Buds Pro están a mitad de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suena-locura-pero-verdad-auriculares-samsung-galaxy-buds-pro-estan-mitad-precio-amazon-987135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-galaxy-buds-pro-2248985.jpg' alt='Suena a locura, pero es verdad: los auriculares Samsung Galaxy Buds Pro están a mitad de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185'>Estas enfermedades se relacionan con la mala salud bucal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alimentos-danan-dientes-2414167.jpg' alt='Estas enfermedades se relacionan con la mala salud bucal' />
     </a>
 </div>
 
