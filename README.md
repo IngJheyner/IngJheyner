@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559'>Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/chocolate-mejora-estado-animo-987559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-confirma-comer-tipo-chocolate-mejora-estado-animo-2573095.jpg' alt='Un estudio confirma que comer este tipo de chocolate mejora tu estado de ánimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557'>Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados</a></h4>
     <a href='https://computerhoy.com/noticias/motor/honda-shogo-coche-electrico-ninos-hospitalizados-987557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honda-shogo-coche-electrico-entretener-ninos-hospitalizados-2573093.jpg' alt='Honda Shogo, el coche eléctrico para entretener a los niños hospitalizados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381'>La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-contrata-teologos-varias-religiones-saber-como-reaccionarian-seguidores-anuncio-vida-extraterrestre-987381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nasa-contrata-sacerdotes-varias-religiones-saber-como-reaccionarian-diferentes-personas-anuncio-vida-extraterrestre-2572869.jpg' alt='La NASA contrata a teólogos de varias religiones para saber cómo reaccionarían sus seguidores al anuncio de vida extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167'>Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/marvel-comparte-algunos-spoilers-spider-man-no-way-home-otro-producto-987167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Marvel comparte algunos spoilers de Spider-Man No Way Home en otro producto' />
     </a>
 </div>
 
