@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/witcher-no-ira-alla-libros-showrunner-987711'>The Witcher no irá más allá de los libros, según su showrunner</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/witcher-no-ira-alla-libros-showrunner-987711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/witcher-2568201.jpg' alt='The Witcher no irá más allá de los libros, según su showrunner' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949'>Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705'>Los 3 mejores motores que ha tenido Alfa Romeo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alfa-romeo-8c-anos-30-2567109.jpg' alt='Los 3 mejores motores que ha tenido Alfa Romeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209'>Cómo escribir por voz en Windows 11 sin necesidad de teclear nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microfono-ordenador-2522921.jpg' alt='Cómo escribir por voz en Windows 11 sin necesidad de teclear nada' />
     </a>
 </div>
 
