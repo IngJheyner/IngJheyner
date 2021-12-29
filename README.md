@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879'>Sony WF-C500, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-wf-c500-analisis-opinion-2570331.jpg' alt='Sony WF-C500, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583'>Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programadores-2573125.jpg' alt='Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/no-mires-arriba-netflix-tiene-escena-clave-tal-vez-has-pasado-alto-987573'>No mires arriba de Netflix tiene una escena clave que tal vez has pasado por alto</a></h4>
+    <a href='https://computerhoy.com/noticias/no-mires-arriba-netflix-tiene-escena-clave-tal-vez-has-pasado-alto-987573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/no-mires-arriba-2535039.jpg' alt='No mires arriba de Netflix tiene una escena clave que tal vez has pasado por alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suena-locura-pero-verdad-auriculares-samsung-galaxy-buds-pro-estan-mitad-precio-amazon-987135'>Suena a locura, pero es verdad: los auriculares Samsung Galaxy Buds Pro están a mitad de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suena-locura-pero-verdad-auriculares-samsung-galaxy-buds-pro-estan-mitad-precio-amazon-987135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-galaxy-buds-pro-2248985.jpg' alt='Suena a locura, pero es verdad: los auriculares Samsung Galaxy Buds Pro están a mitad de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185'>Estas enfermedades se relacionan con la mala salud bucal</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-enfermedades-relacionan-mala-salud-bucal-987185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alimentos-danan-dientes-2414167.jpg' alt='Estas enfermedades se relacionan con la mala salud bucal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/coronavirus-cambiar-cabezal-cepillo-dientes-987001'>Si has tenido coronavirus también deberías cambiar el cabezal de tu cepillo de dientes</a></h4>
-    <a href='https://computerhoy.com/noticias/coronavirus-cambiar-cabezal-cepillo-dientes-987001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cepillos-dientes-2572291.jpg' alt='Si has tenido coronavirus también deberías cambiar el cabezal de tu cepillo de dientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-ley-trafico-sumara-estas-nuevas-normas-21-marzo-2022-987173'>La nueva Ley de Tráfico sumará estas nuevas normas el 21 de marzo de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-ley-trafico-sumara-estas-nuevas-normas-21-marzo-2022-987173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ley-trafico-2552021.jpg' alt='La nueva Ley de Tráfico sumará estas nuevas normas el 21 de marzo de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-987565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2573111.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
     </a>
 </div>
 
