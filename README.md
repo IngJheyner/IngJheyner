@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-deberias-darle-cafe-perro-987737'>Este es el motivo por el cual nunca deberías darle café a tu perro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-deberias-darle-cafe-perro-987737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/perro-persona-2226481.jpg' alt='Este es el motivo por el cual nunca deberías darle café a tu perro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221'>Cuál es la mejor forma de pagar desde el móvil en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2572243.jpg' alt='Cuál es la mejor forma de pagar desde el móvil en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-alternativas-uvas-fin-ano-987335'>Las mejores alternativas a las uvas para fin de año</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-alternativas-uvas-fin-ano-987335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/frutas-2572783.jpg' alt='Las mejores alternativas a las uvas para fin de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-puedes-evitar-multa-trafico-defecto-forma-987695'>Cómo saber si puedes evitar una multa de tráfico por defecto de forma</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-saber-puedes-evitar-multa-trafico-defecto-forma-987695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='Cómo saber si puedes evitar una multa de tráfico por defecto de forma' />
     </a>
 </div>
 
