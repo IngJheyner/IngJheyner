@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coste-crisis-semiconductores-nvidia-paga-miles-millones-euros-asegurarse-generacion-rtx-4000-987627'>El coste de la crisis de semiconductores: NVIDIA paga miles de millones de euros para asegurarse la generación RTX 4000</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coste-crisis-semiconductores-nvidia-paga-miles-millones-euros-asegurarse-generacion-rtx-4000-987627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nvidia-cmp-2237971.jpg' alt='El coste de la crisis de semiconductores: NVIDIA paga miles de millones de euros para asegurarse la generación RTX 4000' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-music-cumple-palabra-actualiza-todo-catalogo-canciones-alta-calidad-perdidas-987647'>Apple Music cumple con su palabra y actualiza todo su catálogo con las canciones en alta calidad sin pérdidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-music-cumple-palabra-actualiza-todo-catalogo-canciones-alta-calidad-perdidas-987647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/music_0.jpg' alt='Apple Music cumple con su palabra y actualiza todo su catálogo con las canciones en alta calidad sin pérdidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-puede-cambiar-completo-2022-gran-apuesta-red-social-seran-reels-987609'>Instagram puede cambiar por completo en 2022 y la gran apuesta de la red social serán los Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-puede-cambiar-completo-2022-gran-apuesta-red-social-seran-reels-987609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram puede cambiar por completo en 2022 y la gran apuesta de la red social serán los Reels' />
+    <h4><a href='https://computerhoy.com/noticias/aldi-venta-freidora-aceite-xxl-987653'>Aldi vuelve a poner a la venta la freidora sin aceite XXL que puede con todo y cuesta menos de 80 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/aldi-venta-freidora-aceite-xxl-987653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-aldi-xxl-2573239.jpg' alt='Aldi vuelve a poner a la venta la freidora sin aceite XXL que puede con todo y cuesta menos de 80 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-microsd-2-tb-muchos-moviles-admiten-pero-nadie-puede-comprarlas-987593'>Tarjetas microSD de 2 TB: muchos móviles las admiten pero nadie puede comprarlas ¿por qué?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-microsd-2-tb-muchos-moviles-admiten-pero-nadie-puede-comprarlas-987593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/tarjeta-microsd.jpg' alt='Tarjetas microSD de 2 TB: muchos móviles las admiten pero nadie puede comprarlas ¿por qué?' />
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-tiene-prioridad-repaso-senales-dgt-todo-conductor-deberia-hacer-987629'>¿Cuál tiene prioridad? El repaso a las señales de la DGT que todo conductor debería hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-tiene-prioridad-repaso-senales-dgt-todo-conductor-deberia-hacer-987629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='¿Cuál tiene prioridad? El repaso a las señales de la DGT que todo conductor debería hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879'>Sony WF-C500, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-wf-c500-review-opinion-984879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sony-wf-c500-analisis-opinion-2570331.jpg' alt='Sony WF-C500, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-50eu-descuento-amazon-envio-rapido-antes-reyes-987619'>iPhone 13 Pro Max con 50€ de descuento en Amazon ¡y con envío rápido antes de Reyes!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-50eu-descuento-amazon-envio-rapido-antes-reyes-987619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487579.jpg' alt='iPhone 13 Pro Max con 50€ de descuento en Amazon ¡y con envío rápido antes de Reyes!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583'>Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-invierte-empleados-gran-renuncia-fuga-otras-empresas-987583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/programadores-2573125.jpg' alt='Apple aumenta su inversión en los empleados para combatir la gran renuncia y las fugas a otras empresas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-revolucion-dinero-puede-quedarse-nosotros-dentro-anos-987637'>Criptomonedas: la revolución del dinero que puede quedarse con nosotros dentro de unos años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-revolucion-dinero-puede-quedarse-nosotros-dentro-anos-987637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Criptomonedas: la revolución del dinero que puede quedarse con nosotros dentro de unos años' />
     </a>
 </div>
 
