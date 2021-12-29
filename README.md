@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-music-cumple-palabra-actualiza-todo-catalogo-canciones-alta-calidad-perdidas-987647'>Apple Music cumple con su palabra y actualiza todo su catálogo con las canciones en alta calidad sin pérdidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-music-cumple-palabra-actualiza-todo-catalogo-canciones-alta-calidad-perdidas-987647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/music_0.jpg' alt='Apple Music cumple con su palabra y actualiza todo su catálogo con las canciones en alta calidad sin pérdidas' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221'>Cuál es la mejor forma de pagar desde el móvil en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2572243.jpg' alt='Cuál es la mejor forma de pagar desde el móvil en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/aldi-venta-freidora-aceite-xxl-987653'>Aldi vuelve a poner a la venta la freidora sin aceite XXL que puede con todo y cuesta menos de 80 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/aldi-venta-freidora-aceite-xxl-987653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-aldi-xxl-2573239.jpg' alt='Aldi vuelve a poner a la venta la freidora sin aceite XXL que puede con todo y cuesta menos de 80 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-no-ha-alcanzado-prometida-barrera-100000-2021-podra-conseguirlo-2022-987677'>Por qué Bitcoin no ha alcanzado la prometida barrera de los 100.000 en 2021: ¿podrá conseguirlo en 2022? </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-no-ha-alcanzado-prometida-barrera-100000-2021-podra-conseguirlo-2022-987677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/minado-bitcoin-2561759.jpg' alt='Por qué Bitcoin no ha alcanzado la prometida barrera de los 100.000 en 2021: ¿podrá conseguirlo en 2022? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-tiene-prioridad-repaso-senales-dgt-todo-conductor-deberia-hacer-987629'>¿Cuál tiene prioridad? El repaso a las señales de la DGT que todo conductor debería hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-tiene-prioridad-repaso-senales-dgt-todo-conductor-deberia-hacer-987629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='¿Cuál tiene prioridad? El repaso a las señales de la DGT que todo conductor debería hacer' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-baja-199eu-amazon-llega-antes-reyes-987605'>El nuevo Samsung Galaxy Watch 4 baja a 199€ en Amazon ¡y llega antes de Reyes!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-baja-199eu-amazon-llega-antes-reyes-987605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515791.jpg' alt='El nuevo Samsung Galaxy Watch 4 baja a 199€ en Amazon ¡y llega antes de Reyes!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-50eu-descuento-amazon-envio-rapido-antes-reyes-987619'>iPhone 13 Pro Max con 50€ de descuento en Amazon ¡y con envío rápido antes de Reyes!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-50eu-descuento-amazon-envio-rapido-antes-reyes-987619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487579.jpg' alt='iPhone 13 Pro Max con 50€ de descuento en Amazon ¡y con envío rápido antes de Reyes!' />
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-alternativas-uvas-fin-ano-987335'>Las mejores alternativas a las uvas para fin de año</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-alternativas-uvas-fin-ano-987335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/frutas-2572783.jpg' alt='Las mejores alternativas a las uvas para fin de año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-revolucion-dinero-puede-quedarse-nosotros-dentro-anos-987637'>Criptomonedas: la revolución del dinero que puede quedarse con nosotros dentro de unos años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-revolucion-dinero-puede-quedarse-nosotros-dentro-anos-987637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Criptomonedas: la revolución del dinero que puede quedarse con nosotros dentro de unos años' />
+    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-puedes-evitar-multa-trafico-defecto-forma-987695'>Cómo saber si puedes evitar una multa de tráfico por defecto de forma</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-saber-puedes-evitar-multa-trafico-defecto-forma-987695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='Cómo saber si puedes evitar una multa de tráfico por defecto de forma' />
     </a>
 </div>
 
