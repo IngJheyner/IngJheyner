@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ajustes-sencillos-haran-iphone-seguro-casi-nadie-activa-987889'>Ajustes sencillos que harán tu iPhone más seguro y que casi nadie activa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ajustes-sencillos-haran-iphone-seguro-casi-nadie-activa-987889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Ajustes sencillos que harán tu iPhone más seguro y que casi nadie activa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949'>Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-inventor-bitcoin-987949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Elon Musk revela quién en el inventor del Bitcoin, y los principales investigadores están de acuerdo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/life/toca-volver-clase-investigadores-descubren-parte-ahora-desconocida-anatomia-humana-987945'>Toca volver a clase: investigadores descubren una parte hasta ahora desconocida de la anatomía humana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/toca-volver-clase-investigadores-descubren-parte-ahora-desconocida-anatomia-humana-987945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/anatomia-cuerpo-humano-2573953.jpg' alt='Toca volver a clase: investigadores descubren una parte hasta ahora desconocida de la anatomía humana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853'>Si tienes algunos de estos móviles olvídate de Android Auto para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Si tienes algunos de estos móviles olvídate de Android Auto para siempre' />
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-elige-mejor-roscon-reyes-supermercado-2021-resultado-decepcionante-987929'>La OCU elige al mejor roscón de reyes de supermercado en 2021 y el resultado es decepcionante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-elige-mejor-roscon-reyes-supermercado-2021-resultado-decepcionante-987929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2573951.jpg' alt='La OCU elige al mejor roscón de reyes de supermercado en 2021 y el resultado es decepcionante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827'>Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acusan-lastpass-haber-sufrido-posible-fuga-contrasenas-maestras-987827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lastpass-2573705.jpg' alt='Acusan a LastPass de haber sufrido una posible fuga de contraseñas maestras' />
+    <h4><a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705'>Los 3 mejores motores que ha tenido Alfa Romeo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/3-mejores-motores-ha-tenido-alfa-romeo-987705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/alfa-romeo-8c-anos-30-2567109.jpg' alt='Los 3 mejores motores que ha tenido Alfa Romeo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565'>No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-razer-kishi-2240593.jpg' alt='No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209'>Cómo escribir por voz en Windows 11 sin necesidad de teclear nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-voz-windows-11-necesidad-teclear-nada-959209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microfono-ordenador-2522921.jpg' alt='Cómo escribir por voz en Windows 11 sin necesidad de teclear nada' />
     </a>
 </div>
 
