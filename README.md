@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ajustes-sencillos-haran-iphone-seguro-casi-nadie-activa-987889'>Ajustes sencillos que harán tu iPhone más seguro y que casi nadie activa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ajustes-sencillos-haran-iphone-seguro-casi-nadie-activa-987889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Ajustes sencillos que harán tu iPhone más seguro y que casi nadie activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853'>Si tienes algunos de estos móviles olvídate de Android Auto para siempre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-algunos-estos-moviles-olvidate-android-auto-siempre-987853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Si tienes algunos de estos móviles olvídate de Android Auto para siempre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565'>No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/no-nintendo-switch-movil-mando-razer-kishi-ahora-rebajado-amazon-solo-55-euros-986565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-razer-kishi-2240593.jpg' alt='No es una Nintendo Switch: es un móvil con el mando Razer Kishi, ahora rebajado en Amazon a solo 55 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-no-mires-arriba-explica-tres-finales-pelicula-netflix-987745'>El director de No mires arriba explica los ¿tres finales? de la película de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/director-no-mires-arriba-explica-tres-finales-pelicula-netflix-987745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2573345.jpg' alt='El director de No mires arriba explica los ¿tres finales? de la película de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803'>La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/inteligencia-artificial-2458915.jpg' alt='La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás' />
     </a>
 </div>
 
