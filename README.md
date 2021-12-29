@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803'>La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comunicacion-mediada-ia-algoritmos-buscan-ayudarnos-ser-amables-demas-987803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/inteligencia-artificial-2458915.jpg' alt='La comunicación mediada por la IA y los algoritmos que buscan ayudarnos a ser más amables con los demás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807'>No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-ni-confirmada-segunda-temporada-juego-calamar-ya-negociando-tercera-temporada-987807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2489663.jpg' alt='No está ni confirmada la segunda temporada y El Juego del Calamar ya está negociando una tercera temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52s-nuevo-superventas-firma-coreana-tiene-5g-ahora-cuesta-solo-349eu-986551'>El Samsung Galaxy A52s es el nuevo superventas de la firma coreana: tiene 5G y ahora cuesta solo 349€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52s-nuevo-superventas-firma-coreana-tiene-5g-ahora-cuesta-solo-349eu-986551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519627.jpg' alt='El Samsung Galaxy A52s es el nuevo superventas de la firma coreana: tiene 5G y ahora cuesta solo 349€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-harto-spam-te-damos-consejos-librarte-molestia-987691'>Si estás harto del Spam, te damos unos consejos para librarte de esta molestia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-harto-spam-te-damos-consejos-librarte-molestia-987691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg' alt='Si estás harto del Spam, te damos unos consejos para librarte de esta molestia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/i5-venciendo-i9-12o-gen-intel-destroza-anterior-generacion-987771'>Un i5 venciendo a un i9: La 12º Gen de Intel destroza a la anterior generación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/i5-venciendo-i9-12o-gen-intel-destroza-anterior-generacion-987771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='Un i5 venciendo a un i9: La 12º Gen de Intel destroza a la anterior generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-deberias-darle-cafe-perro-987737'>Este es el motivo por el cual nunca deberías darle café a tu perro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-deberias-darle-cafe-perro-987737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/perro-persona-2226481.jpg' alt='Este es el motivo por el cual nunca deberías darle café a tu perro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221'>Cuál es la mejor forma de pagar desde el móvil en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cual-mejor-forma-pagar-movil-2019-505221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2572243.jpg' alt='Cuál es la mejor forma de pagar desde el móvil en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-no-ha-alcanzado-prometida-barrera-100000-2021-podra-conseguirlo-2022-987677'>Por qué Bitcoin no ha alcanzado la prometida barrera de los 100.000 en 2021: ¿podrá conseguirlo en 2022? </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-no-ha-alcanzado-prometida-barrera-100000-2021-podra-conseguirlo-2022-987677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/minado-bitcoin-2561759.jpg' alt='Por qué Bitcoin no ha alcanzado la prometida barrera de los 100.000 en 2021: ¿podrá conseguirlo en 2022? ' />
     </a>
 </div>
 
