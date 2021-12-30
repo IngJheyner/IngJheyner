@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381'>Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/puedes-ver-lanzamiento-cohete-falcon-9-spacex-60-satelites-internet-starlink-2202291.jpg' alt='Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323'>Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dragon-ball-2574359.jpg' alt='Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajando-apple-watch-no-precise-boton-fisico-solo-gestos-pulsaciones-988345'>Apple está trabajando en un Apple Watch que no precise de botón físico: sólo gestos y pulsaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajando-apple-watch-no-precise-boton-fisico-solo-gestos-pulsaciones-988345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2515913.jpg' alt='Apple está trabajando en un Apple Watch que no precise de botón físico: sólo gestos y pulsaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-demuestra-capacidad-ultimo-satelite-espia-san-francisco-988325'>China demuestra la capacidad de su último satélite espía sobre San Francisco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-demuestra-capacidad-ultimo-satelite-espia-san-francisco-988325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/satelite-chino-beijing-3-2574357.jpg' alt='China demuestra la capacidad de su último satélite espía sobre San Francisco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oppo-find-x3-pro-2261567.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guitarra-samsung-quiere-ensenar-principiantes-tocar-gracias-leds-988331'>Esta es la guitarra de Samsung que quiere enseñar a los principiantes a tocar gracias a los LEDs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guitarra-samsung-quiere-ensenar-principiantes-tocar-gracias-leds-988331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/guitarra-2574387.jpg' alt='Esta es la guitarra de Samsung que quiere enseñar a los principiantes a tocar gracias a los LEDs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-menos-1-kg-peso-windows-11-portatil-lg-tiene-470eu-descuento-amazon-987615'>16GB de RAM, menos de 1 kg de peso y Windows 11: este portátil de LG tiene 470€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-menos-1-kg-peso-windows-11-portatil-lg-tiene-470eu-descuento-amazon-987615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570153.jpg' alt='16GB de RAM, menos de 1 kg de peso y Windows 11: este portátil de LG tiene 470€ de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/7-consejos-ahorrar-oscaro-comprar-online-327577'>Trucos y consejos para ahorrar en Oscaro al comprar online</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/7-consejos-ahorrar-oscaro-comprar-online-327577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/repuestos-coche-2573311.jpg' alt='Trucos y consejos para ahorrar en Oscaro al comprar online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-poco-m3-pro-5g-2352535.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
     </a>
 </div>
 
