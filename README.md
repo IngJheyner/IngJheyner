@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907'>Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/2022-2573883.jpg' alt='Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503'>Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cierran-fabrica-iphone-india-250-intoxicados-encontrar-ratas-comida-gusanos-retretes-agua-corriente-2574821.jpg' alt='Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-te-afecta-nuevo-impuesto-matriculacion-compraste-coche-2021-pero-te-entregan-2022-988489'>Cómo te afecta el nuevo impuesto de matriculación si compraste un coche en 2021 pero te lo entregan en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-te-afecta-nuevo-impuesto-matriculacion-compraste-coche-2021-pero-te-entregan-2022-988489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comprar-coche-2574731.jpg' alt='Cómo te afecta el nuevo impuesto de matriculación si compraste un coche en 2021 pero te lo entregan en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487'>Cómo proteger tu cuenta para evitar estafas en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Cómo proteger tu cuenta para evitar estafas en WhatsApp' />
     </a>
 </div>
 
