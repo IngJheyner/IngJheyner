@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-988159'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-988159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2574163.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/computerhoycom-responde-estas-son-mejores-compras-equipo-2021-985387'>ComputerHoy.com responde: estas son las mejores compras de nuestro equipo en 2021</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/computerhoycom-responde-estas-son-mejores-compras-equipo-2021-985387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-compras-2021-2569339.jpg' alt='ComputerHoy.com responde: estas son las mejores compras de nuestro equipo en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-tablets-988161'>Vota en los Premios ComputerHoy 2021: finalistas a las mejores tablets</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-tablets-988161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-tablets-2574165.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a las mejores tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/producto-nunca-deberias-utilizar-limpiar-bano-video-viral-tiktok-987731'>El producto que nunca deberías utilizar para limpiar el baño según este vídeo viral de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/life/producto-nunca-deberias-utilizar-limpiar-bano-video-viral-tiktok-987731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpiar-bano-2573383.jpg' alt='El producto que nunca deberías utilizar para limpiar el baño según este vídeo viral de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/silla-autonoma-nissan-hacer-cola-988157'>La silla autónoma de Nissan para hacer cola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/silla-autonoma-nissan-hacer-cola-988157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/silla-autonoma-nissan-hacer-cola-2574161.jpg' alt='La silla autónoma de Nissan para hacer cola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bebidas-saludables-ayudan-adelgazar-perder-peso-987977'>Bebidas saludables fáciles de elaborar en casa que te ayudan a adelgazar y perder peso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bebidas-saludables-ayudan-adelgazar-perder-peso-987977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bebidas-saludables-faciles-elaborar-casa-te-ayudan-adelgazar-perder-peso-2573981.jpg' alt='Bebidas saludables fáciles de elaborar en casa que te ayudan a adelgazar y perder peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/hdmi-21a-oficial-987969'>El formato HDMI se enreda: anunciado el estándar HDMI 2.1a, para liar más las cosas</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/hdmi-21a-oficial-987969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/diferencias-hdmi-dvi-displayport-thunderbolt-mhl-vga-2128433.jpg' alt='El formato HDMI se enreda: anunciado el estándar HDMI 2.1a, para liar más las cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-apple-airpods-max-oferta-987965'>Los auriculares Apple AirPods Max bajan al fin de los 500 euros, y llegan para Reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-apple-airpods-max-oferta-987965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg' alt='Los auriculares Apple AirPods Max bajan al fin de los 500 euros, y llegan para Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957'>La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-2240051.jpg' alt='La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas' />
     </a>
 </div>
 
