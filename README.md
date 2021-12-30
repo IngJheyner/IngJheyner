@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/futuro-electrico-cada-vez-cerca-hyundai-cierra-division-motores-combustion-988199'>El futuro eléctrico cada vez más cerca: Hyundai cierra su división de motores de combustión</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/futuro-electrico-cada-vez-cerca-hyundai-cierra-division-motores-combustion-988199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/filtran-algunos-detalles-apple-car-sera-fabricado-hyundai-2219035.jpg' alt='El futuro eléctrico cada vez más cerca: Hyundai cierra su división de motores de combustión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187'>OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled-ex-2574181.jpg' alt='OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-quitar-mal-olor-calzado-tambien-barato-987727'>El mejor truco para quitar el mal olor del calzado, y también el más barato</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-truco-quitar-mal-olor-calzado-tambien-barato-987727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='El mejor truco para quitar el mal olor del calzado, y también el más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/model-2-sera-tesla-barato-tendra-nivel-4-autonomia-987713'>El Model 2 será el Tesla más barato y tendrá nivel 4 de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/model-2-sera-tesla-barato-tendra-nivel-4-autonomia-987713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tesla-2478859.jpg' alt='El Model 2 será el Tesla más barato y tendrá nivel 4 de autonomía' />
     </a>
 </div>
 
