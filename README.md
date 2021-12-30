@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/localizan-curioso-error-escena-no-mires-arriba-pero-director-niega-988247'>Localizan un curioso error en una escena de No mires arriba, pero su director lo niega</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/localizan-curioso-error-escena-no-mires-arriba-pero-director-niega-988247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2574323.jpg' alt='Localizan un curioso error en una escena de No mires arriba, pero su director lo niega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-expertos-afirman-actual-caida-bitcoin-realidad-buena-noticia-988259'>Por qué algunos expertos afirman que la actual caída de Bitcoin es en realidad una buena noticia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algunos-expertos-afirman-actual-caida-bitcoin-realidad-buena-noticia-988259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-2574283.jpg' alt='Por qué algunos expertos afirman que la actual caída de Bitcoin es en realidad una buena noticia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213'>2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2574211.jpg' alt='2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237'>Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-tiene-rival-cuesta-mitad-asus-rtx-3050-rebajado-959-euros-986531'>El MacBook Pro tiene rival, y cuesta la mitad: este ASUS con RTX 3050 está rebajado a 959 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-tiene-rival-cuesta-mitad-asus-rtx-3050-rebajado-959-euros-986531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-vivobook-pro-15-2571215.jpg' alt='El MacBook Pro tiene rival, y cuesta la mitad: este ASUS con RTX 3050 está rebajado a 959 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tesla-bot-c3po-r2d2-988189'>Elon Musk empieza a promocionar el Tesla Bot y lo compara con C-3PO y R2-D2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tesla-bot-c3po-r2d2-988189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tesla-bot-2444205.jpg' alt='Elon Musk empieza a promocionar el Tesla Bot y lo compara con C-3PO y R2-D2' />
     </a>
 </div>
 
