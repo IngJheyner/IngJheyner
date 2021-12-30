@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433'>Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741'>25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-2571727.jpg' alt='25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383'>El primer tuit escrito con el poder de la mente ha ocurrido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/te-duele-cabeza-usar-twitter-no-eres-unico-eso-estan-cambiando-interfaz-2439541.jpg' alt='El primer tuit escrito con el poder de la mente ha ocurrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337'>MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metafest-2574383.jpg' alt='MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19' />
     </a>
 </div>
 
