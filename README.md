@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383'>El primer tuit escrito con el poder de la mente ha ocurrido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/te-duele-cabeza-usar-twitter-no-eres-unico-eso-estan-cambiando-interfaz-2439541.jpg' alt='El primer tuit escrito con el poder de la mente ha ocurrido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337'>MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metafest-2574383.jpg' alt='MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-philips-respiraras-aire-limpio-seguro-cuesta-menos-100-euros-987791'>Con este purificador de aire Philips respirarás un aire más limpio y seguro, y cuesta menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-philips-respiraras-aire-limpio-seguro-cuesta-menos-100-euros-987791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/purificador-aire-philips-2202083.jpg' alt='Con este purificador de aire Philips respirarás un aire más limpio y seguro, y cuesta menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381'>Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/puedes-ver-lanzamiento-cohete-falcon-9-spacex-60-satelites-internet-starlink-2202291.jpg' alt='Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323'>Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dragon-ball-2574359.jpg' alt='Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajando-apple-watch-no-precise-boton-fisico-solo-gestos-pulsaciones-988345'>Apple está trabajando en un Apple Watch que no precise de botón físico: sólo gestos y pulsaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajando-apple-watch-no-precise-boton-fisico-solo-gestos-pulsaciones-988345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2515913.jpg' alt='Apple está trabajando en un Apple Watch que no precise de botón físico: sólo gestos y pulsaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-demuestra-capacidad-ultimo-satelite-espia-san-francisco-988325'>China demuestra la capacidad de su último satélite espía sobre San Francisco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-demuestra-capacidad-ultimo-satelite-espia-san-francisco-988325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/satelite-chino-beijing-3-2574357.jpg' alt='China demuestra la capacidad de su último satélite espía sobre San Francisco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oppo-find-x3-pro-2261567.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
     </a>
 </div>
 
