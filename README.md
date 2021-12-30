@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289'>Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383'>El primer tuit escrito con el poder de la mente ha ocurrido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/te-duele-cabeza-usar-twitter-no-eres-unico-eso-estan-cambiando-interfaz-2439541.jpg' alt='El primer tuit escrito con el poder de la mente ha ocurrido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381'>Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/puedes-ver-lanzamiento-cohete-falcon-9-spacex-60-satelites-internet-starlink-2202291.jpg' alt='Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323'>Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dragon-ball-2574359.jpg' alt='Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z' />
     </a>
 </div>
 
