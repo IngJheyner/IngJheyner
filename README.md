@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169'>Coches concepto extraños que seguramente nunca comprarías</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-celica-pick-2569707.jpg' alt='Coches concepto extraños que seguramente nunca comprarías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-funcion-emojis-animados-grandes-spoilers-otras-novedades-988469'>Telegram se actualiza con función emojis animados más grandes, spoilers y otras novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-funcion-emojis-animados-grandes-spoilers-otras-novedades-988469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-2554219.jpg' alt='Telegram se actualiza con función emojis animados más grandes, spoilers y otras novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435'>BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/blackberry-key-2.jpg' alt='BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433'>Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741'>25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-2571727.jpg' alt='25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437'>Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras' />
     </a>
 </div>
 
