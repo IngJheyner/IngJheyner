@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499'>Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-programable-consumo-ideal-ahorrar-luz-baja-precio-solo-325-euros-2574803.jpg' alt='Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493'>Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465'>Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169'>Coches concepto extraños que seguramente nunca comprarías</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-celica-pick-2569707.jpg' alt='Coches concepto extraños que seguramente nunca comprarías' />
     </a>
 </div>
 
