@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741'>25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-986741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/25-felicitaciones-nochevieja-ano-nuevo-2022-whatsapp-2571727.jpg' alt='25 felicitaciones de Nochevieja y Año Nuevo 2022 para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437'>Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289'>Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337'>MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metafest-2022-fiesta-nochevieja-virtual-invitados-no-haran-cola-no-tendran-preocuparse-covid-19-988337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metafest-2574383.jpg' alt='MetaFest 2022: la fiesta de Nochevieja virtual en la que los invitados no harán cola y no tendrán que preocuparse por el Covid-19' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-philips-respiraras-aire-limpio-seguro-cuesta-menos-100-euros-987791'>Con este purificador de aire Philips respirarás un aire más limpio y seguro, y cuesta menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-philips-respiraras-aire-limpio-seguro-cuesta-menos-100-euros-987791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/purificador-aire-philips-2202083.jpg' alt='Con este purificador de aire Philips respirarás un aire más limpio y seguro, y cuesta menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381'>Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/correccion-ultima-lanzamiento-james-webb-ha-ahorrado-combustible-10-anos-autonomia-988381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/puedes-ver-lanzamiento-cohete-falcon-9-spacex-60-satelites-internet-starlink-2202291.jpg' alt='Una corrección de última en el lanzamiento del James Webb ha ahorrado combustible para 10 años de autonomía' />
     </a>
 </div>
 
