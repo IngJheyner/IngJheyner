@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/futuro-electrico-cada-vez-cerca-hyundai-cierra-division-motores-combustion-988199'>El futuro eléctrico cada vez más cerca: Hyundai cierra su división de motores de combustión</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/futuro-electrico-cada-vez-cerca-hyundai-cierra-division-motores-combustion-988199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/filtran-algunos-detalles-apple-car-sera-fabricado-hyundai-2219035.jpg' alt='El futuro eléctrico cada vez más cerca: Hyundai cierra su división de motores de combustión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213'>2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2574211.jpg' alt='2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187'>OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled-ex-2574181.jpg' alt='OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-seran-mucho-potentes-esperado-caza-nvidia-rtx-3070-ti-rtx-3060-ti-988233'>Las tarjetas gráficas Intel Arc serán mucho más potentes de lo esperado: a la caza de las NVIDIA RTX 3070 Ti y RTX 3060 Ti </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-seran-mucho-potentes-esperado-caza-nvidia-rtx-3070-ti-rtx-3060-ti-988233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Las tarjetas gráficas Intel Arc serán mucho más potentes de lo esperado: a la caza de las NVIDIA RTX 3070 Ti y RTX 3060 Ti ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-baratos-teletrabajo-941875'>8 monitores sorprendentemente baratos para poder trabajar o estudiar en tu casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-baratos-teletrabajo-941875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-trabajando-portatil-pantalla-externa-conectada-2490773.jpg' alt='8 monitores sorprendentemente baratos para poder trabajar o estudiar en tu casa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237'>Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/motivos-test-antigenos-puede-dar-resultado-falso-987717'>Motivos por los que el test de antígenos puede dar un resultado falso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/motivos-test-antigenos-puede-dar-resultado-falso-987717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='Motivos por los que el test de antígenos puede dar un resultado falso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-tiene-rival-cuesta-mitad-asus-rtx-3050-rebajado-959-euros-986531'>El MacBook Pro tiene rival, y cuesta la mitad: este ASUS con RTX 3050 está rebajado a 959 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-tiene-rival-cuesta-mitad-asus-rtx-3050-rebajado-959-euros-986531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-vivobook-pro-15-2571215.jpg' alt='El MacBook Pro tiene rival, y cuesta la mitad: este ASUS con RTX 3050 está rebajado a 959 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-quitar-mal-olor-calzado-tambien-barato-987727'>El mejor truco para quitar el mal olor del calzado, y también el más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-truco-quitar-mal-olor-calzado-tambien-barato-987727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='El mejor truco para quitar el mal olor del calzado, y también el más barato' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tesla-bot-c3po-r2d2-988189'>Elon Musk empieza a promocionar el Tesla Bot y lo compara con C-3PO y R2-D2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tesla-bot-c3po-r2d2-988189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tesla-bot-2444205.jpg' alt='Elon Musk empieza a promocionar el Tesla Bot y lo compara con C-3PO y R2-D2' />
     </a>
 </div>
 
