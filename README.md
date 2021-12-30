@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/silla-autonoma-nissan-hacer-cola-988157'>La silla autónoma de Nissan para hacer cola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/silla-autonoma-nissan-hacer-cola-988157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/silla-autonoma-nissan-hacer-cola-2574161.jpg' alt='La silla autónoma de Nissan para hacer cola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bebidas-saludables-ayudan-adelgazar-perder-peso-987977'>Bebidas saludables fáciles de elaborar en casa que te ayudan a adelgazar y perder peso</a></h4>
     <a href='https://computerhoy.com/noticias/life/bebidas-saludables-ayudan-adelgazar-perder-peso-987977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bebidas-saludables-faciles-elaborar-casa-te-ayudan-adelgazar-perder-peso-2573981.jpg' alt='Bebidas saludables fáciles de elaborar en casa que te ayudan a adelgazar y perder peso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957'>La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienda-aplicaciones-samsung-no-todo-segura-deberia-estaria-repleta-aplicaciones-maliciosas-987957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-2240051.jpg' alt='La tienda de aplicaciones de Samsung no es todo lo segura que debería y estaría repleta de aplicaciones maliciosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-987859'>Los últimos rumores apuntan a que el Samsung Galaxy S22 Ultra contaría con una capacidad de almacenamiento sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-987859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Los últimos rumores apuntan a que el Samsung Galaxy S22 Ultra contaría con una capacidad de almacenamiento sorprendente' />
     </a>
 </div>
 
