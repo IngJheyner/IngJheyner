@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435'>BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/blackberry-key-2.jpg' alt='BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/14-relojes-inteligentes-mucho-nivel-puedes-regalar-llegan-tiempo-reyes-magos-988245'>14 relojes inteligentes de mucho nivel que puedes regalar y llegan a tiempo para Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/14-relojes-inteligentes-mucho-nivel-puedes-regalar-llegan-tiempo-reyes-magos-988245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='14 relojes inteligentes de mucho nivel que puedes regalar y llegan a tiempo para Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433'>Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437'>Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrado-primer-video-promocional-oneplus-10-pro-aprecia-nuevo-modulo-camaras-988437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/aparecen-primeras-imagenes-oneplus-10-pro-modulo-camaras-tendria-tamano-desproporcionado-2533973.jpg' alt='Filtrado el primer vídeo promocional del OnePlus 10 Pro en el que se aprecia el nuevo módulo de cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289'>Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/antes-acabe-decada-habra-humanos-marte-elon-musk-juega-988289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Antes de que acabe la década habrá humanos en Marte: Elon Musk se la juega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383'>El primer tuit escrito con el poder de la mente ha ocurrido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-tuit-escrito-poder-mente-ha-ocurrido-988383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/te-duele-cabeza-usar-twitter-no-eres-unico-eso-estan-cambiando-interfaz-2439541.jpg' alt='El primer tuit escrito con el poder de la mente ha ocurrido' />
     </a>
 </div>
 
