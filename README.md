@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/localizan-curioso-error-escena-no-mires-arriba-pero-director-niega-988247'>Localizan un curioso error en una escena de No mires arriba, pero su director lo niega</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/localizan-curioso-error-escena-no-mires-arriba-pero-director-niega-988247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2574323.jpg' alt='Localizan un curioso error en una escena de No mires arriba, pero su director lo niega' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oppo-find-x3-pro-2261567.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-expertos-afirman-actual-caida-bitcoin-realidad-buena-noticia-988259'>Por qué algunos expertos afirman que la actual caída de Bitcoin es en realidad una buena noticia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algunos-expertos-afirman-actual-caida-bitcoin-realidad-buena-noticia-988259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-2574283.jpg' alt='Por qué algunos expertos afirman que la actual caída de Bitcoin es en realidad una buena noticia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guitarra-samsung-quiere-ensenar-principiantes-tocar-gracias-leds-988331'>Esta es la guitarra de Samsung que quiere enseñar a los principiantes a tocar gracias a los LEDs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guitarra-samsung-quiere-ensenar-principiantes-tocar-gracias-leds-988331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/guitarra-2574387.jpg' alt='Esta es la guitarra de Samsung que quiere enseñar a los principiantes a tocar gracias a los LEDs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213'>2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/2021-ha-sido-ano-criptomonedas-ahora-pueden-comprar-roscones-reyes-bitcoin-988213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roscon-reyes-2574211.jpg' alt='2021 ha sido el año de las criptomonedas y ahora hasta se pueden comprar roscones de reyes con bitcoin' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-menos-1-kg-peso-windows-11-portatil-lg-tiene-470eu-descuento-amazon-987615'>16GB de RAM, menos de 1 kg de peso y Windows 11: este portátil de LG tiene 470€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16gb-ram-menos-1-kg-peso-windows-11-portatil-lg-tiene-470eu-descuento-amazon-987615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570153.jpg' alt='16GB de RAM, menos de 1 kg de peso y Windows 11: este portátil de LG tiene 470€ de descuento en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-seran-mucho-potentes-esperado-caza-nvidia-rtx-3070-ti-rtx-3060-ti-988233'>Las tarjetas gráficas Intel Arc serán mucho más potentes de lo esperado: a la caza de las NVIDIA RTX 3070 Ti y RTX 3060 Ti </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-seran-mucho-potentes-esperado-caza-nvidia-rtx-3070-ti-rtx-3060-ti-988233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Las tarjetas gráficas Intel Arc serán mucho más potentes de lo esperado: a la caza de las NVIDIA RTX 3070 Ti y RTX 3060 Ti ' />
+    <h4><a href='https://computerhoy.com/reportajes/motor/7-consejos-ahorrar-oscaro-comprar-online-327577'>Trucos y consejos para ahorrar en Oscaro al comprar online</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/7-consejos-ahorrar-oscaro-comprar-online-327577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/repuestos-coche-2573311.jpg' alt='Trucos y consejos para ahorrar en Oscaro al comprar online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237'>Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-consejos-elon-musk-eres-joven-quieres-tener-exito-vida-988237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Los 5 consejos de Elon Musk si eres joven y quieres tener éxito en la vida' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-poco-m3-pro-5g-2352535.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
     </a>
 </div>
 
