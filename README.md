@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493'>Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-te-afecta-nuevo-impuesto-matriculacion-compraste-coche-2021-pero-te-entregan-2022-988489'>Cómo te afecta el nuevo impuesto de matriculación si compraste un coche en 2021 pero te lo entregan en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-te-afecta-nuevo-impuesto-matriculacion-compraste-coche-2021-pero-te-entregan-2022-988489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/comprar-coche-2574731.jpg' alt='Cómo te afecta el nuevo impuesto de matriculación si compraste un coche en 2021 pero te lo entregan en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487'>Cómo proteger tu cuenta para evitar estafas en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Cómo proteger tu cuenta para evitar estafas en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465'>Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169'>Coches concepto extraños que seguramente nunca comprarías</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coches-concepto-extranos-seguramente-nunca-comprarias-988169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-celica-pick-2569707.jpg' alt='Coches concepto extraños que seguramente nunca comprarías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-funcion-emojis-animados-grandes-spoilers-otras-novedades-988469'>Telegram se actualiza con función emojis animados más grandes, spoilers y otras novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-funcion-emojis-animados-grandes-spoilers-otras-novedades-988469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-actualiza-mejoras-destinadas-privacidad-como-contenido-protegido-2554219.jpg' alt='Telegram se actualiza con función emojis animados más grandes, spoilers y otras novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435'>BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/blackberry-os-despide-manera-definitiva-dejara-funcionar-menos-semana-988435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/blackberry-key-2.jpg' alt='BlackBerry OS se despide de manera definitiva y dejará de funcionar en menos de una semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/14-relojes-inteligentes-mucho-nivel-puedes-regalar-llegan-tiempo-reyes-magos-988245'>14 relojes inteligentes de mucho nivel que puedes regalar y llegan a tiempo para Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/14-relojes-inteligentes-mucho-nivel-puedes-regalar-llegan-tiempo-reyes-magos-988245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='14 relojes inteligentes de mucho nivel que puedes regalar y llegan a tiempo para Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433'>Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-estar-preparando-dispositivo-pantalla-plegable-estilo-galaxy-z-fold-3-soporte-stylus-988433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-2541223.jpg' alt='Xiaomi podría estar preparando un dispositivo con pantalla plegable al estilo del Galaxy Z Fold 3 y con soporte para stylus' />
     </a>
 </div>
 
