@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187'>OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oled-ex-lg-ha-presentado-alternativa-mini-led-paneles-30-delgados-988187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-oled-ex-2574181.jpg' alt='OLED EX: LG ha presentado su alternativa al Mini LED con paneles un 30% más delgados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-baratos-teletrabajo-941875'>8 monitores sorprendentemente baratos para poder trabajar o estudiar en tu casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-baratos-teletrabajo-941875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-trabajando-portatil-pantalla-externa-conectada-2490773.jpg' alt='8 monitores sorprendentemente baratos para poder trabajar o estudiar en tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/motivos-test-antigenos-puede-dar-resultado-falso-987717'>Motivos por los que el test de antígenos puede dar un resultado falso</a></h4>
     <a href='https://computerhoy.com/noticias/life/motivos-test-antigenos-puede-dar-resultado-falso-987717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='Motivos por los que el test de antígenos puede dar un resultado falso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/model-2-sera-tesla-barato-tendra-nivel-4-autonomia-987713'>El Model 2 será el Tesla más barato y tendrá nivel 4 de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/model-2-sera-tesla-barato-tendra-nivel-4-autonomia-987713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tesla-2478859.jpg' alt='El Model 2 será el Tesla más barato y tendrá nivel 4 de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-988159'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-988159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2574163.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/computerhoycom-responde-estas-son-mejores-compras-equipo-2021-985387'>ComputerHoy.com responde: estas son las mejores compras de nuestro equipo en 2021</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/computerhoycom-responde-estas-son-mejores-compras-equipo-2021-985387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mejores-compras-2021-2569339.jpg' alt='ComputerHoy.com responde: estas son las mejores compras de nuestro equipo en 2021' />
     </a>
 </div>
 
