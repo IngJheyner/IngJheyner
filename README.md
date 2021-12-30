@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503'>Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cierran-fabrica-iphone-india-250-intoxicados-encontrar-ratas-comida-gusanos-retretes-agua-corriente-2574821.jpg' alt='Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499'>Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-programable-consumo-ideal-ahorrar-luz-baja-precio-solo-325-euros-2574803.jpg' alt='Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487'>Cómo proteger tu cuenta para evitar estafas en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-proteger-cuenta-evitar-estafas-whatsapp-988487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Cómo proteger tu cuenta para evitar estafas en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465'>Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/rusia-pone-dificil-netflix-plataforma-streaming-quiere-seguir-pais-tendra-emitir-canales-television-988465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Rusia se lo pone difícil a Netflix y si la plataforma de streaming quiere seguir en el país tendrá que emitir canales de televisión' />
     </a>
 </div>
 
