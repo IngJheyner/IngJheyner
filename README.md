@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031'>Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-nitro-5-2572147.jpg' alt='Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821'>La gran revolución que prepara Bizum para 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La gran revolución que prepara Bizum para 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785'>Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/super-ordenador-hewlett-packard-2575113.jpg' alt='Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863'>Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/epic-games-store-tira-casa-ventana-super-regalo-trilogia-moderna-tomb-raider-gratis-2575315.jpg' alt='Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis' />
     </a>
 </div>
 
