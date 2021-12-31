@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901'>Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783'>Estas marcas de coches han abandonado Europa y es posible que no lo sepas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cadillac-ct4-v-blackwing-2571619.jpg' alt='Estas marcas de coches han abandonado Europa y es posible que no lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893'>Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/masajeador-manos-gamers-cuida-tendones-unas-horas-darle-teclado-raton-2575487.jpg' alt='Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629'>16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan</a></h4>
     <a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medisana-mm-825-2571401.jpg' alt='16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031'>Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-nitro-5-2572147.jpg' alt='Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821'>La gran revolución que prepara Bizum para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La gran revolución que prepara Bizum para 2022' />
     </a>
 </div>
 
