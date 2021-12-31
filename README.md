@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785'>Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/super-ordenador-hewlett-packard-2575113.jpg' alt='Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863'>Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/epic-games-store-tira-casa-ventana-super-regalo-trilogia-moderna-tomb-raider-gratis-2575315.jpg' alt='Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2021 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/frases-graciosas-mensajes-divertidos-nochevieja-2020-2181689.jpg' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2021 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795'>Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-2575139.jpg' alt='Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779'>Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/quedate-mi-lado-nueva-miniserie-misterio-netflix-empezar-2022-no-te-gusta-cobra-kai-988769'>Quédate a mi lado, la nueva miniserie de misterio de Netflix para empezar el 2022 si no te gusta Cobra Kai</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/quedate-mi-lado-nueva-miniserie-misterio-netflix-empezar-2022-no-te-gusta-cobra-kai-988769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/quedate-mi-lado-netflix-2575103.jpg' alt='Quédate a mi lado, la nueva miniserie de misterio de Netflix para empezar el 2022 si no te gusta Cobra Kai' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216011.jpg' alt='Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-altcoin-ha-revalorizado-1300-aunque-muchos-ignoran-988757'>Ni Bitcoin o Ethereum, está altcoin se ha revalorizado un 1.300% aunque muchos la ignoran</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-altcoin-ha-revalorizado-1300-aunque-muchos-ignoran-988757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Ni Bitcoin o Ethereum, está altcoin se ha revalorizado un 1.300% aunque muchos la ignoran' />
     </a>
 </div>
 
