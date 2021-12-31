@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-blackberry-moviles-clasicos-marca-dejaran-funcionar-4-enero-988713'>Adiós a BlackBerry, los móviles clásicos de la marca dejarán de funcionar el 4 de enero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-blackberry-moviles-clasicos-marca-dejaran-funcionar-4-enero-988713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg' alt='Adiós a BlackBerry, los móviles clásicos de la marca dejarán de funcionar el 4 de enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/10-muy-buenos-juegos-ps4-ademas-son-bastante-baratos-987621'>10 muy buenos juegos de PS4 que además son bastante baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/10-muy-buenos-juegos-ps4-ademas-son-bastante-baratos-987621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/hitman-3-2209497.jpg' alt='10 muy buenos juegos de PS4 que además son bastante baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/imagenes-graciosas-memes-felicitar-fin-ano-2021-ano-nuevo-2022-987875'>Imágenes graciosas y memes para felicitar el Fin de año 2021 y el Año Nuevo 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/imagenes-graciosas-memes-felicitar-fin-ano-2021-ano-nuevo-2022-987875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/meme-nochevieja_2.jpg' alt='Imágenes graciosas y memes para felicitar el Fin de año 2021 y el Año Nuevo 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/memes-felicitar-nochevieja-ano-nuevo-2022-whatsapp-986781'>Memes para felicitar Nochevieja y Año Nuevo 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/memes-felicitar-nochevieja-ano-nuevo-2022-whatsapp-986781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/meme-nochevieja.jpg' alt='Memes para felicitar Nochevieja y Año Nuevo 2022 por WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-aumentan-posibilidades-contagiarse-transporte-publico-donde-te-sientes-988181'>Cómo aumentan las posibilidades de contagiarse en el transporte público según donde te sientes</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-aumentan-posibilidades-contagiarse-transporte-publico-donde-te-sientes-988181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mascarilla-autobus-2574171.jpg' alt='Cómo aumentan las posibilidades de contagiarse en el transporte público según donde te sientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toda-historia-siempre-quisiste-conocer-bmw-988171'>Toda la historia que siempre quisiste conocer de BMW</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toda-historia-siempre-quisiste-conocer-bmw-988171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/historia-nunca-contada-bmw-2570119.jpg' alt='Toda la historia que siempre quisiste conocer de BMW' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2575023.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653'>Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/honor-magicbook-pro-2054867.jpg' alt='Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo' />
     </a>
 </div>
 
