@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821'>La gran revolución que prepara Bizum para 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La gran revolución que prepara Bizum para 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/carguero-congelado-mil-coches-helados-crisis-semiconductores-junta-mal-tiempo-988851'>Un carguero congelado y mil coches helados: a la crisis de los semiconductores se le junta el mal tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carguero-congelado-mil-coches-helados-crisis-semiconductores-junta-mal-tiempo-988851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/barco-2575263.jpg' alt='Un carguero congelado y mil coches helados: a la crisis de los semiconductores se le junta el mal tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-ideal-como-servir-correctamente-cava-no-perder-burbujas-ciencia-988739'>Temperatura ideal y cómo servir correctamente el cava para no perder burbujas según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-ideal-como-servir-correctamente-cava-no-perder-burbujas-ciencia-988739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575047.jpg' alt='Temperatura ideal y cómo servir correctamente el cava para no perder burbujas según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785'>Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/super-ordenador-hewlett-packard-2575113.jpg' alt='Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863'>Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/epic-games-store-trilogia-tomb-raider-gratis-988863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/epic-games-store-tira-casa-ventana-super-regalo-trilogia-moderna-tomb-raider-gratis-2575315.jpg' alt='Epic Games Store tira la casa por la ventana con un super regalo: la trilogía moderna de Tomb Raider gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2021 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/frases-graciosas-mensajes-divertidos-nochevieja-2020-2181689.jpg' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2021 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795'>Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-2575139.jpg' alt='Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779'>Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT' />
     </a>
 </div>
 
