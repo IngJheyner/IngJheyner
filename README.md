@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/memes-felicitar-nochevieja-ano-nuevo-2022-whatsapp-986781'>Memes para felicitar Nochevieja y Año Nuevo 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/memes-felicitar-nochevieja-ano-nuevo-2022-whatsapp-986781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/meme-nochevieja.jpg' alt='Memes para felicitar Nochevieja y Año Nuevo 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-aumentan-posibilidades-contagiarse-transporte-publico-donde-te-sientes-988181'>Cómo aumentan las posibilidades de contagiarse en el transporte público según donde te sientes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-aumentan-posibilidades-contagiarse-transporte-publico-donde-te-sientes-988181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mascarilla-autobus-2574171.jpg' alt='Cómo aumentan las posibilidades de contagiarse en el transporte público según donde te sientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/toda-historia-siempre-quisiste-conocer-bmw-988171'>Toda la historia que siempre quisiste conocer de BMW</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/toda-historia-siempre-quisiste-conocer-bmw-988171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/historia-nunca-contada-bmw-2570119.jpg' alt='Toda la historia que siempre quisiste conocer de BMW' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2575023.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653'>Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/honor-magicbook-pro-2054867.jpg' alt='Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709'>Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispensador-domestico-convierte-aire-10-litros-agua-mineral-dia-2575021.jpg' alt='Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-limpieza-elimina-manchas-desodorante-988505'>Este genial hack de limpieza elimina las manchas de desodorante de forma muy sencilla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hack-limpieza-elimina-manchas-desodorante-988505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/genial-hack-limpieza-elimina-manchas-desodorante-dos-ingredientes-caseros-2574825.jpg' alt='Este genial hack de limpieza elimina las manchas de desodorante de forma muy sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907'>Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/2022-2573883.jpg' alt='Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022' />
     </a>
 </div>
 
