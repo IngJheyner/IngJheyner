@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795'>Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-988795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultrastar-singstar-gratis-pc-miles-canciones-montar-karaoke-fin-ano-casa-2575139.jpg' alt='Ultrastar: el SingStar gratis para PC con miles de canciones para montar tu karaoke de fin de año en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779'>Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pasara-coche-2022-no-tiene-pegatina-dgt-988779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Qué pasará con tu coche en 2022 si no tiene pegatina de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/quedate-mi-lado-nueva-miniserie-misterio-netflix-empezar-2022-no-te-gusta-cobra-kai-988769'>Quédate a mi lado, la nueva miniserie de misterio de Netflix para empezar el 2022 si no te gusta Cobra Kai</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/quedate-mi-lado-nueva-miniserie-misterio-netflix-empezar-2022-no-te-gusta-cobra-kai-988769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/quedate-mi-lado-netflix-2575103.jpg' alt='Quédate a mi lado, la nueva miniserie de misterio de Netflix para empezar el 2022 si no te gusta Cobra Kai' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-altcoin-ha-revalorizado-1300-aunque-muchos-ignoran-988757'>Ni Bitcoin o Ethereum, está altcoin se ha revalorizado un 1.300% aunque muchos la ignoran</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-altcoin-ha-revalorizado-1300-aunque-muchos-ignoran-988757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Ni Bitcoin o Ethereum, está altcoin se ha revalorizado un 1.300% aunque muchos la ignoran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/129-euros-puedes-tener-robot-aspirador-nivel-top-ademas-tambien-friega-987639'>Por 129 euros puedes tener un robot aspirador de nivel top que además también friega</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/129-euros-puedes-tener-robot-aspirador-nivel-top-ademas-tambien-friega-987639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-conga-999-vital-2573207.jpg' alt='Por 129 euros puedes tener un robot aspirador de nivel top que además también friega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-amd-samsung-ya-tiene-fecha-estreno-vuelta-esquina-988765'>El Exynos 2200 de AMD y Samsung ya tiene fecha de estreno y está a la vuelta de la esquina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-amd-samsung-ya-tiene-fecha-estreno-vuelta-esquina-988765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/exynos-samsung-2184061.jpg' alt='El Exynos 2200 de AMD y Samsung ya tiene fecha de estreno y está a la vuelta de la esquina' />
     </a>
 </div>
 
