@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-amd-samsung-ya-tiene-fecha-estreno-vuelta-esquina-988765'>El Exynos 2200 de AMD y Samsung ya tiene fecha de estreno y está a la vuelta de la esquina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-amd-samsung-ya-tiene-fecha-estreno-vuelta-esquina-988765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/exynos-samsung-2184061.jpg' alt='El Exynos 2200 de AMD y Samsung ya tiene fecha de estreno y está a la vuelta de la esquina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-proximas-misiones-espaciales-destacadas-2022-tendran-como-protagonista-spacex-988745'>Las tres próximas misiones espaciales más destacadas de 2022 tendrán como protagonista a SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tres-proximas-misiones-espaciales-destacadas-2022-tendran-como-protagonista-spacex-988745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='Las tres próximas misiones espaciales más destacadas de 2022 tendrán como protagonista a SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-tiene-revisar-475000-vehiculos-problema-seguridad-988731'>Tesla tiene que revisar 475.000 vehículos por varios problemas de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-tiene-revisar-475000-vehiculos-problema-seguridad-988731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/tesla-model-3.jpg' alt='Tesla tiene que revisar 475.000 vehículos por varios problemas de seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-intentar-unas-nuevas-gafas-realidad-aumentada-posible-2022-988737'>Google lo vuelve a intentar con unas nuevas gafas de Realidad Aumentada para un posible 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-intentar-unas-nuevas-gafas-realidad-aumentada-posible-2022-988737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2575039.jpg' alt='Google lo vuelve a intentar con unas nuevas gafas de Realidad Aumentada para un posible 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/ikea-avisa-aumento-precios-9-causa-crisis-suministros-todavia-golpea-988721'>Ikea avisa de un aumento en los precios del 9% a causa de la crisis de suministros que todavía le golpea</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/ikea-avisa-aumento-precios-9-causa-crisis-suministros-todavia-golpea-988721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chica-comprando-ikea-2557399.jpg' alt='Ikea avisa de un aumento en los precios del 9% a causa de la crisis de suministros que todavía le golpea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/odisea-analizar-256-dispositivos-ano-como-hacemos-nos-ha-gustado-objetivo-2022-988491'>La odisea de analizar 256 dispositivos en un año: cómo lo hacemos, lo que más nos ha gustado y el objetivo para 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/odisea-analizar-256-dispositivos-ano-como-hacemos-nos-ha-gustado-objetivo-2022-988491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ananisis-2021-2574811.jpg' alt='La odisea de analizar 256 dispositivos en un año: cómo lo hacemos, lo que más nos ha gustado y el objetivo para 2022' />
     </a>
 </div>
 
