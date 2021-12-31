@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709'>Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispensador-domestico-convierte-aire-10-litros-agua-mineral-dia-2575021.jpg' alt='Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hack-limpieza-elimina-manchas-desodorante-988505'>Este genial hack de limpieza elimina las manchas de desodorante de forma muy sencilla</a></h4>
     <a href='https://computerhoy.com/noticias/life/hack-limpieza-elimina-manchas-desodorante-988505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/genial-hack-limpieza-elimina-manchas-desodorante-dos-ingredientes-caseros-2574825.jpg' alt='Este genial hack de limpieza elimina las manchas de desodorante de forma muy sencilla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499'>Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-programable-consumo-ideal-ahorrar-luz-baja-precio-solo-325-euros-2574803.jpg' alt='Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493'>Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/contrata-expertos-nasa-recuperar-387-millones-euros-bitcoins-basura-988493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='Contrata a expertos de la NASA para recuperar 387 millones de euros en bitcoins que tiró a la basura, pero no le dan permiso' />
     </a>
 </div>
 
