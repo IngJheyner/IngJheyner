@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-988711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2575023.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653'>Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/motivos-comprar-honor-magicbook-pro-986653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/honor-magicbook-pro-2054867.jpg' alt='Por qué este portátil de Honor con 16GB de RAM y 100€ de descuento es una de las mejores compras que puedes hacer ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709'>Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kara-pure-convierte-aire-en-agua-mineral-988709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dispensador-domestico-convierte-aire-10-litros-agua-mineral-dia-2575021.jpg' alt='Este dispensador doméstico convierte el aire en 10 litros de agua mineral al día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907'>Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/gifs-animados-felicitar-whatsapp-fin-ano-2021-llegada-2022-987907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/2022-2573883.jpg' alt='Gifs animados para felicitar por WhatsApp el fin de año 2021 y la llegada de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503'>Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cierran-fabrica-iphone-india-250-intoxicados-ratas-comida-gusanos-retretes-sin-agua-corriente-988503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cierran-fabrica-iphone-india-250-intoxicados-encontrar-ratas-comida-gusanos-retretes-agua-corriente-2574821.jpg' alt='Cierran una fábrica de iPhone en la India con 250 intoxicados tras encontrar ratas, comida con gusanos y retretes sin agua corriente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499'>Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-silenciosa-bajo-consumo-oferta-988499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lavadora-programable-consumo-ideal-ahorrar-luz-baja-precio-solo-325-euros-2574803.jpg' alt='Esta lavadora programable y silenciosa de bajo consumo es ideal para usarla de noche y ahorrar luz, baja a solo 325 euros' />
     </a>
 </div>
 
