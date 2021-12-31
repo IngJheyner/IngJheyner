@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753'>Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/estudio-revela-cual-menudo-primer-sintoma-coronavirus-2210157.jpg' alt='Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655'>Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/corrector-postular-2571207.jpg' alt='Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901'>Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783'>Estas marcas de coches han abandonado Europa y es posible que no lo sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cadillac-ct4-v-blackwing-2571619.jpg' alt='Estas marcas de coches han abandonado Europa y es posible que no lo sepas' />
     </a>
 </div>
 
