@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-tiene-revisar-475000-vehiculos-problema-seguridad-988731'>Tesla tiene que revisar 475.000 vehículos por varios problemas de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-tiene-revisar-475000-vehiculos-problema-seguridad-988731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/tesla-model-3.jpg' alt='Tesla tiene que revisar 475.000 vehículos por varios problemas de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyector-barato-menos-100-euros-dara-salto-calidad-dias-cine-casa-987635'>Este proyector barato de menos de 100 euros dará un salto de calidad a tus días de cine en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proyector-barato-menos-100-euros-dara-salto-calidad-dias-cine-casa-987635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/proyector-portatil-prixton-lumiere-2434221.jpg' alt='Este proyector barato de menos de 100 euros dará un salto de calidad a tus días de cine en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-intentar-unas-nuevas-gafas-realidad-aumentada-posible-2022-988737'>Google lo vuelve a intentar con unas nuevas gafas de Realidad Aumentada para un posible 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-intentar-unas-nuevas-gafas-realidad-aumentada-posible-2022-988737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-2575039.jpg' alt='Google lo vuelve a intentar con unas nuevas gafas de Realidad Aumentada para un posible 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/odisea-analizar-256-dispositivos-ano-como-hacemos-nos-ha-gustado-objetivo-2022-988491'>La odisea de analizar 256 dispositivos en un año: cómo lo hacemos, lo que más nos ha gustado y el objetivo para 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/odisea-analizar-256-dispositivos-ano-como-hacemos-nos-ha-gustado-objetivo-2022-988491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ananisis-2021-2574811.jpg' alt='La odisea de analizar 256 dispositivos en un año: cómo lo hacemos, lo que más nos ha gustado y el objetivo para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-deja-caer-airpods-no-son-todo-buenos-deberian-culpa-bluetooth-988719'>Apple deja caer que sus AirPods no son todo lo buenos que deberían por culpa del Bluetooth</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-deja-caer-airpods-no-son-todo-buenos-deberian-culpa-bluetooth-988719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524103.jpg' alt='Apple deja caer que sus AirPods no son todo lo buenos que deberían por culpa del Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/redmi-note-8-2021-review-opinion-987071'>Redmi Note 8 2021, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/redmi-note-8-2021-review-opinion-987071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-redmi-note-8-2021-2574503.jpg' alt='Redmi Note 8 2021, análisis y opinión' />
     </a>
 </div>
 
