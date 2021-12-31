@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893'>Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/masajeador-manos-gamers-cuida-tendones-unas-horas-darle-teclado-raton-2575487.jpg' alt='Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-rapido-mundo-100-km-h-988899'>Este es el PC más rápido de mundo… ¡hasta 100 km/h!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-rapido-mundo-100-km-h-988899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pc-sega-cuatro-ruedas-2575507.jpg' alt='Este es el PC más rápido de mundo… ¡hasta 100 km/h!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629'>16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan</a></h4>
+    <a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medisana-mm-825-2571401.jpg' alt='16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031'>Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-gaming-bestia-potencia-rtx-3060-tiene-stock-envio-solo-48-horas-987031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/acer-nitro-5-2572147.jpg' alt='Este PC Gaming es una bestia de potencia con RTX 3060 que sí tiene stock y envío en solo 48 horas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821'>La gran revolución que prepara Bizum para 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-revolucion-prepara-bizum-2022-988821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='La gran revolución que prepara Bizum para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carguero-congelado-mil-coches-helados-crisis-semiconductores-junta-mal-tiempo-988851'>Un carguero congelado y mil coches helados: a la crisis de los semiconductores se le junta el mal tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carguero-congelado-mil-coches-helados-crisis-semiconductores-junta-mal-tiempo-988851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/barco-2575263.jpg' alt='Un carguero congelado y mil coches helados: a la crisis de los semiconductores se le junta el mal tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/temperatura-ideal-como-servir-correctamente-cava-no-perder-burbujas-ciencia-988739'>Temperatura ideal y cómo servir correctamente el cava para no perder burbujas según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/temperatura-ideal-como-servir-correctamente-cava-no-perder-burbujas-ciencia-988739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575047.jpg' alt='Temperatura ideal y cómo servir correctamente el cava para no perder burbujas según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785'>Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fallo-superordenador-elimina-millones-archivos-echa-perder-anos-investigacion-988785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/super-ordenador-hewlett-packard-2575113.jpg' alt='Un fallo en un superordenador elimina millones de archivos y echa a perder años de investigación' />
     </a>
 </div>
 
