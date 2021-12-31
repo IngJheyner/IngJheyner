@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655'>Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/corrector-postular-2571207.jpg' alt='Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791'>GTA V ha sido el videojuego más visto de Twitch este año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gta-online-2554727.jpg' alt='GTA V ha sido el videojuego más visto de Twitch este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783'>Estas marcas de coches han abandonado Europa y es posible que no lo sepas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estas-marcas-coches-han-abandonado-europa-posible-no-sepas-988783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cadillac-ct4-v-blackwing-2571619.jpg' alt='Estas marcas de coches han abandonado Europa y es posible que no lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893'>Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/masajeador-manos-gamers-cuida-tendones-unas-horas-darle-teclado-raton-2575487.jpg' alt='Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón' />
     </a>
 </div>
 
