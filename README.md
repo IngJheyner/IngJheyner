@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791'>GTA V ha sido el videojuego más visto de Twitch este año</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gta-online-2554727.jpg' alt='GTA V ha sido el videojuego más visto de Twitch este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819'>Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901'>Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893'>Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/masajeador-manos-gamers-bauhutte-988893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/masajeador-manos-gamers-cuida-tendones-unas-horas-darle-teclado-raton-2575487.jpg' alt='Este masajeador de manos para gamers cuida tus tendones tras unas horas de darle al teclado o al ratón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-rapido-mundo-100-km-h-988899'>Este es el PC más rápido de mundo… ¡hasta 100 km/h!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-rapido-mundo-100-km-h-988899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pc-sega-cuatro-ruedas-2575507.jpg' alt='Este es el PC más rápido de mundo… ¡hasta 100 km/h!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629'>16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan</a></h4>
-    <a href='https://computerhoy.com/listas/life/16-gadgets-haran-vida-mucho-facil-merecen-cada-euro-cuestan-986629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/medisana-mm-825-2571401.jpg' alt='16 gadgets que harán tu vida mucho más fácil y que merecen cada euro que cuestan' />
     </a>
 </div>
 
