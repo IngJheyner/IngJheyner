@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761'>El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2575099.jpg' alt='El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/10-juegos-playstation-5-sorprendentemente-baratos-pesar-calidad-987667'>10 juegos de PlayStation 5 sorprendentemente baratos a pesar de su calidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/10-juegos-playstation-5-sorprendentemente-baratos-pesar-calidad-987667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-f1-2021-ps5-xbox-series-x-s-ps4-xbox-one-pc-2402657.jpg' alt='10 juegos de PlayStation 5 sorprendentemente baratos a pesar de su calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-mejores-herramientas-gratuitas-reparar-windows-11-979217'>¿Cuáles son las mejores herramientas gratuitas para reparar Windows 11?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-mejores-herramientas-gratuitas-reparar-windows-11-979217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='¿Cuáles son las mejores herramientas gratuitas para reparar Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797'>L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-2575235.jpg' alt='L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069'>Razer Kaira Pro, análisis y opinión de los cascos para Xbox </a></h4>
     <a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-razer-kaira-pro-xbox-2575445.jpg' alt='Razer Kaira Pro, análisis y opinión de los cascos para Xbox ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-precio-iphone-13-baja-799-euros-puedes-tenerlo-antes-reyes-989053'>Locura de precio en el iPhone 13: baja a 799 euros y puedes tenerlo antes de Reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locura-precio-iphone-13-baja-799-euros-puedes-tenerlo-antes-reyes-989053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Locura de precio en el iPhone 13: baja a 799 euros y puedes tenerlo antes de Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907'>Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest</a></h4>
-    <a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secretos-monte-olimpo-montana-alta-sistema-solar-casi-tres-veces-alta-everest-2575515.jpg' alt='Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589'>Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-earbuds-2-lite-2571303.jpg' alt='Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja' />
     </a>
 </div>
 
