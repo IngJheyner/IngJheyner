@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855'>Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/halo-infinite-2558439.jpg' alt='Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729'>Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasillo-2575037.jpg' alt='Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/destruye-15-game-boy-color-clasicas-resina-mesa-juego-pokemon-988321'>Destruye 15 Game Boy Color clásicas con resina para hacer una mesa de juego de Pokémon, ¿arte o destrucción injustificada?</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/destruye-15-game-boy-color-clasicas-resina-mesa-juego-pokemon-988321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/destruye-15-game-boy-color-clasicas-resina-hacer-mesa-juego-pokemon-arte-destruccion-injustificada-2574349.jpg' alt='Destruye 15 Game Boy Color clásicas con resina para hacer una mesa de juego de Pokémon, ¿arte o destrucción injustificada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699'>El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/pokemon-leyendas-arceus-2247707.jpg' alt='El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909'>XPG Vault, el primer ratón con 1 TB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/raton-1-tb-almacenamiento-2575523.jpg' alt='XPG Vault, el primer ratón con 1 TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/maquinas-leche-vegetal-979295'>Máquinas para hacer leche vegetal: qué son, cómo funcionan y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/maquinas-leche-vegetal-979295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/leche-vegetal-2558391.jpg' alt='Máquinas para hacer leche vegetal: qué son, cómo funcionan y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-988853'>Si tienes un móvil Xiaomi esto te interesa: desveladas las fechas de actualización a MIUI 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-988853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-2575265.jpg' alt='Si tienes un móvil Xiaomi esto te interesa: desveladas las fechas de actualización a MIUI 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/productos-cecotec-983103'>Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más</a></h4>
-    <a href='https://computerhoy.com/guia-compra/productos-cecotec-983103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más' />
     </a>
 </div>
 
