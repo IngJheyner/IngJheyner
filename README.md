@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903'>¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-2575509.jpg' alt='¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767'>Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575085.jpg' alt='Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655'>Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/corrector-postular-2571207.jpg' alt='Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791'>GTA V ha sido el videojuego más visto de Twitch este año</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gta-online-2554727.jpg' alt='GTA V ha sido el videojuego más visto de Twitch este año' />
     </a>
 </div>
 
