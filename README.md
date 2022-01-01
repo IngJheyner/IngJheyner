@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907'>Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest</a></h4>
+    <a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secretos-monte-olimpo-montana-alta-sistema-solar-casi-tres-veces-alta-everest-2575515.jpg' alt='Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589'>Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-earbuds-2-lite-2571303.jpg' alt='Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/obd-como-sacarle-sacarle-partido-electronica-coche-981225'>Qué es el OBD y cómo sacarle sacarle partido a la electrónica de tu coche</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/obd-como-sacarle-sacarle-partido-electronica-coche-981225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x86max0.jpg' alt='Qué es el OBD y cómo sacarle sacarle partido a la electrónica de tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187'>¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roborock-dyad-2563555.jpg' alt='¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879'>Por qué es buena idea agrupar pestañas en el navegador web</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Por qué es buena idea agrupar pestañas en el navegador web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-poco-m3-pro-5g-2352535.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097'>Las mejores películas y series que puedes ver totalmente gratis en Pluto TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/road-2574399.jpg' alt='Las mejores películas y series que puedes ver totalmente gratis en Pluto TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833'>El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta' />
     </a>
 </div>
 
