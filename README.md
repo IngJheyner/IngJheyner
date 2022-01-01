@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797'>L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-2575235.jpg' alt='L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069'>Razer Kaira Pro, análisis y opinión de los cascos para Xbox </a></h4>
+    <a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-razer-kaira-pro-xbox-2575445.jpg' alt='Razer Kaira Pro, análisis y opinión de los cascos para Xbox ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-precio-iphone-13-baja-799-euros-puedes-tenerlo-antes-reyes-989053'>Locura de precio en el iPhone 13: baja a 799 euros y puedes tenerlo antes de Reyes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/locura-precio-iphone-13-baja-799-euros-puedes-tenerlo-antes-reyes-989053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Locura de precio en el iPhone 13: baja a 799 euros y puedes tenerlo antes de Reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907'>Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest</a></h4>
     <a href='https://computerhoy.com/noticias/life/secretos-monte-olimpo-montana-alta-sistema-solar-marte-988907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/secretos-monte-olimpo-montana-alta-sistema-solar-casi-tres-veces-alta-everest-2575515.jpg' alt='Los secretos del Monte Olimpo, la montaña más inmensa del Sistema Solar, casi tres veces más alta que el Everest' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589'>Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-32-horas-bateria-solo-60-euros-estos-auriculares-honor-debutan-espana-rebaja-986589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/honor-earbuds-2-lite-2571303.jpg' alt='Cancelación de ruido y 32 horas de batería por solo 60 euros: estos auriculares de Honor debutan en España con rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/obd-como-sacarle-sacarle-partido-electronica-coche-981225'>Qué es el OBD y cómo sacarle sacarle partido a la electrónica de tu coche</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/obd-como-sacarle-sacarle-partido-electronica-coche-981225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x86max0.jpg' alt='Qué es el OBD y cómo sacarle sacarle partido a la electrónica de tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187'>¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roborock-dyad-2563555.jpg' alt='¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879'>Por qué es buena idea agrupar pestañas en el navegador web</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Por qué es buena idea agrupar pestañas en el navegador web' />
     </a>
 </div>
 
