@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909'>XPG Vault, el primer ratón con 1 TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/raton-1-tb-almacenamiento-2575523.jpg' alt='XPG Vault, el primer ratón con 1 TB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/maquinas-leche-vegetal-979295'>Máquinas para hacer leche vegetal: qué son, cómo funcionan y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/maquinas-leche-vegetal-979295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/leche-vegetal-2558391.jpg' alt='Máquinas para hacer leche vegetal: qué son, cómo funcionan y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-988853'>Si tienes un móvil Xiaomi esto te interesa: desveladas las fechas de actualización a MIUI 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-988853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-2575265.jpg' alt='Si tienes un móvil Xiaomi esto te interesa: desveladas las fechas de actualización a MIUI 13' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oppo-find-x3-pro-2261567.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-compartir-datos-mantener-privacidad-google-maps-981781'>Cómo dejar de compartir datos y mantener tu privacidad en Google Maps </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-compartir-datos-mantener-privacidad-google-maps-981781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/11-caracteristicas-google-maps-todo-mundo-debe-conocer-2408147.jpg' alt='Cómo dejar de compartir datos y mantener tu privacidad en Google Maps ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761'>El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2575099.jpg' alt='El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos' />
     </a>
 </div>
 
