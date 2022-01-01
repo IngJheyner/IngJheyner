@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767'>Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575085.jpg' alt='Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897'>El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran</a></h4>
     <a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mito-calorias-negativas-existen-expertos-nos-aclaran-2575503.jpg' alt='El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791'>GTA V ha sido el videojuego más visto de Twitch este año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/gta-v-ha-sido-videojuego-visto-twitch-ano-988791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gta-online-2554727.jpg' alt='GTA V ha sido el videojuego más visto de Twitch este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819'>Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos' />
     </a>
 </div>
 
