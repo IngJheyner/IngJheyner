@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097'>Las mejores películas y series que puedes ver totalmente gratis en Pluto TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/road-2574399.jpg' alt='Las mejores películas y series que puedes ver totalmente gratis en Pluto TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833'>El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767'>Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575085.jpg' alt='Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897'>El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mito-calorias-negativas-existen-expertos-nos-aclaran-2575503.jpg' alt='El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran' />
     </a>
 </div>
 
