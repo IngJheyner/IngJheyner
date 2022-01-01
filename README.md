@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-compartir-datos-mantener-privacidad-google-maps-981781'>Cómo dejar de compartir datos y mantener tu privacidad en Google Maps </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-compartir-datos-mantener-privacidad-google-maps-981781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/11-caracteristicas-google-maps-todo-mundo-debe-conocer-2408147.jpg' alt='Cómo dejar de compartir datos y mantener tu privacidad en Google Maps ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761'>El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos</a></h4>
     <a href='https://computerhoy.com/noticias/industria/ano-nuevo-te-trae-3-grandes-noticias-vas-comprar-dispositivos-electronicos-988761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pagar-movil-2575099.jpg' alt='El año nuevo te trae 3 grandes noticias si vas a comprar dispositivos electrónicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797'>L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-988797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/l-launcher-promete-cambiar-interfaz-experiencia-cualquier-smartwatch-android-2575235.jpg' alt='L-Launcher promete cambiar la interfaz y la experiencia de cualquier smartwatch con Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069'>Razer Kaira Pro, análisis y opinión de los cascos para Xbox </a></h4>
-    <a href='https://computerhoy.com/analisis/razer-kaira-pro-review-opinion-cascos-xbox-987069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-razer-kaira-pro-xbox-2575445.jpg' alt='Razer Kaira Pro, análisis y opinión de los cascos para Xbox ' />
     </a>
 </div>
 
