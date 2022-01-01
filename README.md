@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833'>El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261'>Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tanbo-art-2574281.jpg' alt='Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903'>¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería</a></h4>
     <a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-2575509.jpg' alt='¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897'>El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran</a></h4>
     <a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mito-calorias-negativas-existen-expertos-nos-aclaran-2575503.jpg' alt='El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753'>Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/estudio-revela-cual-menudo-primer-sintoma-coronavirus-2210157.jpg' alt='Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655'>Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/corrector-postural-inteligente-tiene-poco-ver-modelos-clasicos-ademas-oferta-amazon-987655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/corrector-postular-2571207.jpg' alt='Este corrector postural inteligente tiene poco que ver con los modelos clásicos y además está en oferta en Amazon' />
     </a>
 </div>
 
