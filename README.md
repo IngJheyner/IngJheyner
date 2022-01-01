@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879'>Por qué es buena idea agrupar pestañas en el navegador web</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Por qué es buena idea agrupar pestañas en el navegador web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-poco-m3-pro-5g-2352535.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097'>Las mejores películas y series que puedes ver totalmente gratis en Pluto TV</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-series-puedes-ver-totalmente-gratis-pluto-tv-983097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/road-2574399.jpg' alt='Las mejores películas y series que puedes ver totalmente gratis en Pluto TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261'>Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?</a></h4>
     <a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tanbo-art-2574281.jpg' alt='Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903'>¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-988903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nochevieja-desmadrada-como-quitar-manchas-alcohol-comida-tapiceria-2575509.jpg' alt='¿Una Nochevieja desmadrada? Cómo quitar las manchas de alcohol y comida de la tapicería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767'>Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-guardar-botellas-cava-esten-perfectas-proximas-navidades-988767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cava-2575085.jpg' alt='Cómo guardar las botellas de cava para que estén perfectas para las próximas navidades' />
     </a>
 </div>
 
