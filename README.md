@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699'>El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/pokemon-leyendas-arceus-2247707.jpg' alt='El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909'>XPG Vault, el primer ratón con 1 TB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/raton-1-tb-almacenamiento-2575523.jpg' alt='XPG Vault, el primer ratón con 1 TB de almacenamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/productos-cecotec-983103'>Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más</a></h4>
     <a href='https://computerhoy.com/guia-compra/productos-cecotec-983103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oppo-find-x3-pro-2261567.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
     </a>
 </div>
 
