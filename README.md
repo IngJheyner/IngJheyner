@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897'>El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mito-calorias-negativas-existen-expertos-nos-aclaran-988897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mito-calorias-negativas-existen-expertos-nos-aclaran-2575503.jpg' alt='El mito de las calorías negativas, ¿existen? Los expertos nos lo aclaran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753'>Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-tomar-tienes-dudas-contagio-omicrom-parecetamol-ibuprofeno-988753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/estudio-revela-cual-menudo-primer-sintoma-coronavirus-2210157.jpg' alt='Qué es mejor tomar si tienes dudas de contagio por ómicrom: ¿parecetamol o ibuprofeno?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819'>Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-compartir-perder-calidad-videos-fotos-navidad-ano-nuevo-familia-amigos-987819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='Cómo compartir sin perder calidad los vídeos y fotos de Navidad y Año Nuevo con tu familia y amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901'>Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-busca-error-gps-podria-explicar-android-auto-ocasiones-pierde-988901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Google busca un error en el GPS que podría explicar por qué Android Auto en ocasiones se pierde' />
     </a>
 </div>
 
