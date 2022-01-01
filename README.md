@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187'>¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aspirador-aspira-friega-sola-pasada-probamos-roborock-dyad-981187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roborock-dyad-2563555.jpg' alt='¿El aspirador que aspira y friega en una sola pasada? Probamos el Roborock Dyad ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879'>Por qué es buena idea agrupar pestañas en el navegador web</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-agrupar-pestanas-navegador-web-987879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Por qué es buena idea agrupar pestañas en el navegador web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833'>El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-avalado-ciencia-agua-no-desborde-cocer-pasta-988833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='El truco avalado por la ciencia para que el agua no se desborde al cocer la pasta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261'>Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tanbo-art-arte-japones-dibujos-campos-arroz-988261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tanbo-art-2574281.jpg' alt='Tanbo Art, el arte japonés que crea espectaculares dibujos en los campos de arroz, ¿cómo lo hacen?' />
     </a>
 </div>
 
