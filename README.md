@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237'>Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/airpods-2575889.jpg' alt='Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-espanol-supera-modelo-pro-2-xiaomi-barato-tiene-misma-bateria-989233'>Este patinete español supera al modelo Pro 2 de Xiaomi: es más barato y tiene la misma batería</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-espanol-supera-modelo-pro-2-xiaomi-barato-tiene-misma-bateria-989233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-bongo-serie-advance-connected-max-2575835.jpg' alt='Este patinete español supera al modelo Pro 2 de Xiaomi: es más barato y tiene la misma batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057'>Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-apple-carplay-2022-989217'>Novedades de Android Auto y Apple CarPlay para 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-apple-carplay-2022-989217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Novedades de Android Auto y Apple CarPlay para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-mejores-juegos-fps-jugar-navegador-ordenador-potente-986769'>Los 7 mejores juegos FPS para jugar desde el navegador sin un ordenador potente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-mejores-juegos-fps-jugar-navegador-ordenador-potente-986769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-fps-2572309.jpg' alt='Los 7 mejores juegos FPS para jugar desde el navegador sin un ordenador potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-viral-tiktok-bateria-iphone-dure-989201'>El sencillo truco viral de TikTok para que la batería del iPhone dure más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-viral-tiktok-bateria-iphone-dure-989201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg' alt='El sencillo truco viral de TikTok para que la batería del iPhone dure más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-huawei-precio-ganga-baja-169-euros-amazon-988295'>Uno de los mejores relojes inteligentes de Huawei está a precio de ganga: baja a 169 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-huawei-precio-ganga-baja-169-euros-amazon-988295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/huawei-watch-gt-2-pro-2481029.jpg' alt='Uno de los mejores relojes inteligentes de Huawei está a precio de ganga: baja a 169 euros en Amazon' />
     </a>
 </div>
 
