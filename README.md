@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277'>Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-presenta-ces-2022-monitor-pc-controla-dispositivos-hogar-nuevo-monitor-curvo-2576051.jpg' alt='Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271'>Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio</a></h4>
     <a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653'>Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nivel-bateria-movil-android-2574483.jpg' alt='Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta' />
     </a>
 </div>
 
