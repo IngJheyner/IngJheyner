@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653'>Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nivel-bateria-movil-android-2574483.jpg' alt='Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057'>Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-apple-carplay-2022-989217'>Novedades de Android Auto y Apple CarPlay para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-apple-carplay-2022-989217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Novedades de Android Auto y Apple CarPlay para 2022' />
     </a>
 </div>
 
