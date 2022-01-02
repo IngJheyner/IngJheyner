@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271'>Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261'>CES 2022 no se cancela, pero durará un día menos</a></h4>
     <a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='CES 2022 no se cancela, pero durará un día menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-989249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237'>Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/airpods-2575889.jpg' alt='Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma' />
     </a>
 </div>
 
