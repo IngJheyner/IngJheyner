@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261'>CES 2022 no se cancela, pero durará un día menos</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='CES 2022 no se cancela, pero durará un día menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315'>La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653'>Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nivel-bateria-movil-android-2574483.jpg' alt='Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237'>Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-apple-contarian-soporte-lossless-nuevo-factor-forma-989237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/airpods-2575889.jpg' alt='Los AirPods Pro 2 de Apple contarían con soporte Lossless y un nuevo factor de forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-espanol-supera-modelo-pro-2-xiaomi-barato-tiene-misma-bateria-989233'>Este patinete español supera al modelo Pro 2 de Xiaomi: es más barato y tiene la misma batería</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-espanol-supera-modelo-pro-2-xiaomi-barato-tiene-misma-bateria-989233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-bongo-serie-advance-connected-max-2575835.jpg' alt='Este patinete español supera al modelo Pro 2 de Xiaomi: es más barato y tiene la misma batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057'>Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-menos-200-euros-economica-viaja-rapido-te-llega-antes-reyes-989057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Esta tablet Samsung de menos de 200 euros es económica y viaja rápido: te llega antes de Reyes' />
     </a>
 </div>
 
