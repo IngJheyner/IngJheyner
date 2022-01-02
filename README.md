@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015'>Motorola E40, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-motorola-e40-2569871.jpg' alt='Motorola E40, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-hbo-max-no-encontraras-netflix-ni-ninguna-otra-plataforma-983583'>Las mejores películas de HBO Max que no encontrarás en Netflix ni en ninguna otra plataforma</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-hbo-max-no-encontraras-netflix-ni-ninguna-otra-plataforma-983583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/liga-justicia-zack-snyder-2241701.jpg' alt='Las mejores películas de HBO Max que no encontrarás en Netflix ni en ninguna otra plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739'>Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fotos-navidad-2573337.jpg' alt='Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197'>Las manzanas fantasma existen y son un fenómeno natural, pero muy raro</a></h4>
     <a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/manzanas-fantasma-existen-crean-2574185.jpg' alt='Las manzanas fantasma existen y son un fenómeno natural, pero muy raro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799'>Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-2575437.jpg' alt='Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855'>Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/halo-infinite-2558439.jpg' alt='Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega' />
     </a>
 </div>
 
