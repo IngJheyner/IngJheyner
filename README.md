@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-mejores-juegos-fps-jugar-navegador-ordenador-potente-986769'>Los 7 mejores juegos FPS para jugar desde el navegador sin un ordenador potente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-mejores-juegos-fps-jugar-navegador-ordenador-potente-986769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/juegos-fps-2572309.jpg' alt='Los 7 mejores juegos FPS para jugar desde el navegador sin un ordenador potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-viral-tiktok-bateria-iphone-dure-989201'>El sencillo truco viral de TikTok para que la batería del iPhone dure más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-viral-tiktok-bateria-iphone-dure-989201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg' alt='El sencillo truco viral de TikTok para que la batería del iPhone dure más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-huawei-precio-ganga-baja-169-euros-amazon-988295'>Uno de los mejores relojes inteligentes de Huawei está a precio de ganga: baja a 169 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-huawei-precio-ganga-baja-169-euros-amazon-988295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/huawei-watch-gt-2-pro-2481029.jpg' alt='Uno de los mejores relojes inteligentes de Huawei está a precio de ganga: baja a 169 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/curioso-motivo-nunca-veras-james-bond-iphone-989185'>El curioso motivo por el que nunca verás a James Bond con un iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/life/curioso-motivo-nunca-veras-james-bond-iphone-989185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiempo-morir-2575787.jpg' alt='El curioso motivo por el que nunca verás a James Bond con un iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-masajeador-cuesta-300000-euros-pero-promete-quitarte-todos-nudos-espalda-988727'>Este robot masajeador cuesta 300.000 euros pero promete quitarte todos los nudos de la espalda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-masajeador-cuesta-300000-euros-pero-promete-quitarte-todos-nudos-espalda-988727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-2575043.jpg' alt='Este robot masajeador cuesta 300.000 euros pero promete quitarte todos los nudos de la espalda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-diferentes-memorias-cache-windows-11-mejorar-rendimiento-973771'>Cómo borrar las diferentes memorias caché de Windows 11 para mejorar el rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-diferentes-memorias-cache-windows-11-mejorar-rendimiento-973771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Cómo borrar las diferentes memorias caché de Windows 11 para mejorar el rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283'>Cómo conseguir juegos gratis con Amazon Prime Gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prime-gaming-2507967.jpg' alt='Cómo conseguir juegos gratis con Amazon Prime Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015'>Motorola E40, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-motorola-e40-2569871.jpg' alt='Motorola E40, análisis y opinión' />
     </a>
 </div>
 
