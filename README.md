@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739'>Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fotos-navidad-2573337.jpg' alt='Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563'>Funciones ocultas y cosas que no sabías que tu iPhone podía hacer</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487577.jpg' alt='Funciones ocultas y cosas que no sabías que tu iPhone podía hacer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855'>Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/halo-infinite-2558439.jpg' alt='Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729'>Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasillo-2575037.jpg' alt='Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi' />
     </a>
 </div>
 
