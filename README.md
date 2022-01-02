@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563'>Funciones ocultas y cosas que no sabías que tu iPhone podía hacer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487577.jpg' alt='Funciones ocultas y cosas que no sabías que tu iPhone podía hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197'>Las manzanas fantasma existen y son un fenómeno natural, pero muy raro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/manzanas-fantasma-existen-crean-2574185.jpg' alt='Las manzanas fantasma existen y son un fenómeno natural, pero muy raro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799'>Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-2575437.jpg' alt='Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729'>Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi</a></h4>
     <a href='https://computerhoy.com/noticias/life/pasillo-verguenza-supermercados-como-lidl-aldi-988729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pasillo-2575037.jpg' alt='Qué es "el pasillo de la vergüenza" de supermercados como Lidl o Aldi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/destruye-15-game-boy-color-clasicas-resina-mesa-juego-pokemon-988321'>Destruye 15 Game Boy Color clásicas con resina para hacer una mesa de juego de Pokémon, ¿arte o destrucción injustificada?</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/destruye-15-game-boy-color-clasicas-resina-mesa-juego-pokemon-988321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/destruye-15-game-boy-color-clasicas-resina-hacer-mesa-juego-pokemon-arte-destruccion-injustificada-2574349.jpg' alt='Destruye 15 Game Boy Color clásicas con resina para hacer una mesa de juego de Pokémon, ¿arte o destrucción injustificada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699'>El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/pokemon-leyendas-arceus-2247707.jpg' alt='El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros' />
     </a>
 </div>
 
