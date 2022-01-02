@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817'>Llega el Sofá Arcade, para los jugadores nostálgicos de los 90</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sofa-arcade-2575189.jpg' alt='Llega el Sofá Arcade, para los jugadores nostálgicos de los 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271'>Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio</a></h4>
     <a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261'>CES 2022 no se cancela, pero durará un día menos</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/ces-2022-no-se-cancela-durara-dia-menos-989261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ces-2022-2567987.jpg' alt='CES 2022 no se cancela, pero durará un día menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315'>La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros' />
     </a>
 </div>
 
