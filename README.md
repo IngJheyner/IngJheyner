@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277'>Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-presenta-ces-2022-monitor-pc-controla-dispositivos-hogar-nuevo-monitor-curvo-2576051.jpg' alt='Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315'>La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seguramente-mejor-bascula-inteligente-huawei-ahora-cuesta-solo-69-euros-988315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='La que seguramente es la mejor báscula inteligente es de Huawei y ahora cuesta solo 69 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653'>Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-optimizar-consumo-apps-android-ahorrar-bateria-sigan-funcionando-967653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nivel-bateria-movil-android-2574483.jpg' alt='Cómo optimizar el consumo de apps en Android para ahorrar batería o que sigan funcionando' />
     </a>
 </div>
 
