@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799'>Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-988799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cientificos-han-construido-gecko-robot-descubrir-secretos-forma-aterrizar-2575437.jpg' alt='Científicos han construido un gecko robot para descubrir los secretos de su forma de aterrizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855'>Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/halo-infinite-tiene-escena-secreta-ha-sido-descubierta-fans-da-pistas-proxima-entrega-988855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/halo-infinite-2558439.jpg' alt='Halo Infinite tiene una escena secreta que ha sido descubierta por los fans y que da pistas de la próxima entrega' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699'>El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-estrena-enero-ya-oferta-amazon-debajo-50-euros-987699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/pokemon-leyendas-arceus-2247707.jpg' alt='El nuevo juego de Pokémon que se estrena en enero ya está en oferta en Amazon por debajo de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909'>XPG Vault, el primer ratón con 1 TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xpg-vault-primer-raton-1-tb-almacenamiento-988909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/raton-1-tb-almacenamiento-2575523.jpg' alt='XPG Vault, el primer ratón con 1 TB de almacenamiento' />
     </a>
 </div>
 
