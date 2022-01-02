@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/curioso-motivo-nunca-veras-james-bond-iphone-989185'>El curioso motivo por el que nunca verás a James Bond con un iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/life/curioso-motivo-nunca-veras-james-bond-iphone-989185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiempo-morir-2575787.jpg' alt='El curioso motivo por el que nunca verás a James Bond con un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-masajeador-cuesta-300000-euros-pero-promete-quitarte-todos-nudos-espalda-988727'>Este robot masajeador cuesta 300.000 euros pero promete quitarte todos los nudos de la espalda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-masajeador-cuesta-300000-euros-pero-promete-quitarte-todos-nudos-espalda-988727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-2575043.jpg' alt='Este robot masajeador cuesta 300.000 euros pero promete quitarte todos los nudos de la espalda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-diferentes-memorias-cache-windows-11-mejorar-rendimiento-973771'>Cómo borrar las diferentes memorias caché de Windows 11 para mejorar el rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-diferentes-memorias-cache-windows-11-mejorar-rendimiento-973771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Cómo borrar las diferentes memorias caché de Windows 11 para mejorar el rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283'>Cómo conseguir juegos gratis con Amazon Prime Gaming</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prime-gaming-2507967.jpg' alt='Cómo conseguir juegos gratis con Amazon Prime Gaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015'>Motorola E40, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-motorola-e40-2569871.jpg' alt='Motorola E40, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-hbo-max-no-encontraras-netflix-ni-ninguna-otra-plataforma-983583'>Las mejores películas de HBO Max que no encontrarás en Netflix ni en ninguna otra plataforma</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-hbo-max-no-encontraras-netflix-ni-ninguna-otra-plataforma-983583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/liga-justicia-zack-snyder-2241701.jpg' alt='Las mejores películas de HBO Max que no encontrarás en Netflix ni en ninguna otra plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739'>Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/trucos-organizar-retocar-todas-fotos-has-hecho-navidad-esfuerzo-987739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fotos-navidad-2573337.jpg' alt='Trucos para organizar y retocar todas las fotos que has hecho esta Navidad sin esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563'>Funciones ocultas y cosas que no sabías que tu iPhone podía hacer</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487577.jpg' alt='Funciones ocultas y cosas que no sabías que tu iPhone podía hacer' />
     </a>
 </div>
 
