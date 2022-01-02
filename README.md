@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283'>Cómo conseguir juegos gratis con Amazon Prime Gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/como-conseguir-juegos-gratis-amazon-prime-gaming-988283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prime-gaming-2507967.jpg' alt='Cómo conseguir juegos gratis con Amazon Prime Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015'>Motorola E40, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/motorola-e40-review-opinion-985015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-motorola-e40-2569871.jpg' alt='Motorola E40, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563'>Funciones ocultas y cosas que no sabías que tu iPhone podía hacer</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/funciones-ocultas-cosas-no-sabias-iphone-podia-hacer-974563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487577.jpg' alt='Funciones ocultas y cosas que no sabías que tu iPhone podía hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197'>Las manzanas fantasma existen y son un fenómeno natural, pero muy raro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/manzanas-fantasma-988197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/manzanas-fantasma-existen-crean-2574185.jpg' alt='Las manzanas fantasma existen y son un fenómeno natural, pero muy raro' />
     </a>
 </div>
 
