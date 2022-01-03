@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619'>Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas</a></h4>
+    <a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mando-samsung-2576555.jpg' alt='Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-note-20-lapiz-256gb-mitad-precio-llevatelo-430-euros-menos-normal-989449'>Samsung Galaxy Note 20, con lápiz y 256GB a mitad de precio: llévatelo por 430 euros menos de lo normal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-note-20-lapiz-256gb-mitad-precio-llevatelo-430-euros-menos-normal-989449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-samsung-galaxy-note-20-2033147.jpg' alt='Samsung Galaxy Note 20, con lápiz y 256GB a mitad de precio: llévatelo por 430 euros menos de lo normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593'>Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-anade-juegos-navegador-edge-2576519.jpg' alt='Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579'>Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-bate-record-fabricacion-coches-2021-doble-2020-989575'>Tesla bate su récord de  fabricación de coches en 2021: el doble que en 2020</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-bate-record-fabricacion-coches-2021-doble-2020-989575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tesla-model-3-2386951.jpg' alt='Tesla bate su récord de  fabricación de coches en 2021: el doble que en 2020' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537'>Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año</a></h4>
-    <a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año' />
     </a>
 </div>
 
