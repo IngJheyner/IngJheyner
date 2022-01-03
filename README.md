@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395'>Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2326997.jpg' alt='Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2576161.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán</a></h4>
-    <a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán' />
     </a>
 </div>
 
