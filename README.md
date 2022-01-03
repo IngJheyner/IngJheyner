@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697'>Efecto 2022: Microsoft Exchange deja de recibir y enviar emails</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/servidores-microsoft-2555295.jpg' alt='Efecto 2022: Microsoft Exchange deja de recibir y enviar emails' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633'>Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero</a></h4>
     <a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619'>Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas</a></h4>
-    <a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mando-samsung-2576555.jpg' alt='Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas' />
     </a>
 </div>
 
