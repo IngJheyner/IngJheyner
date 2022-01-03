@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487'>Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-2576273.jpg' alt='Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469'>El OnePlus 9RT está a punto de volverse internacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-888-pantalla-120hz-android-12-oneplus-9rt-movil-no-podras-comprar-2500447.jpg' alt='El OnePlus 9RT está a punto de volverse internacional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395'>Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2326997.jpg' alt='Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2576161.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
