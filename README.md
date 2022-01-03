@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701'>Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495'>Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/kingston-a400-ssd-2504335.jpg' alt='Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619'>Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas</a></h4>
     <a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mando-samsung-2576555.jpg' alt='Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-note-20-lapiz-256gb-mitad-precio-llevatelo-430-euros-menos-normal-989449'>Samsung Galaxy Note 20, con lápiz y 256GB a mitad de precio: llévatelo por 430 euros menos de lo normal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-note-20-lapiz-256gb-mitad-precio-llevatelo-430-euros-menos-normal-989449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-samsung-galaxy-note-20-2033147.jpg' alt='Samsung Galaxy Note 20, con lápiz y 256GB a mitad de precio: llévatelo por 430 euros menos de lo normal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593'>Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-anade-juegos-navegador-edge-2576519.jpg' alt='Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome' />
     </a>
 </div>
 
