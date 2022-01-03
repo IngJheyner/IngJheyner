@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a02s-chollo-oferta-989777'>Si buscas un primer móvil para un adolescente o una persona mayor, el Samsung Galaxy A02s solo cuesta 111 euros, a tiempo para Reyes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a02s-chollo-oferta-989777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a02s-2561587.jpg' alt='Si buscas un primer móvil para un adolescente o una persona mayor, el Samsung Galaxy A02s solo cuesta 111 euros, a tiempo para Reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-valoro-rodar-matrix-4-directora-989661'>Warner valoró rodar Matrix 4 sin su directora</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/warner-valoro-rodar-matrix-4-directora-989661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566693.jpg' alt='Warner valoró rodar Matrix 4 sin su directora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-reales-honor-watch-gs-3-reloj-ia-sensor-ritmo-cardiaco-989745'>Primeras imágenes reales del Honor Watch GS 3, así es el reloj con IA para el sensor de ritmo cardíaco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-reales-honor-watch-gs-3-reloj-ia-sensor-ritmo-cardiaco-989745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primeras-imagenes-reales-honor-watch-gs-3-reloj-ia-sensor-ritmo-cardiaco-2576843.jpg' alt='Primeras imágenes reales del Honor Watch GS 3, así es el reloj con IA para el sensor de ritmo cardíaco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cobras-baja-covid-confinado-contacto-estrecho-989757'>Cuánto cobras si estás de baja por Covid, o confinado por ser contacto estrecho</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-cobras-baja-covid-confinado-contacto-estrecho-989757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/facebook-coronavirus-2444241.jpg' alt='Cuánto cobras si estás de baja por Covid, o confinado por ser contacto estrecho' />
     </a>
 </div>
 
