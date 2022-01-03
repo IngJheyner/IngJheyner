@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cobras-baja-covid-confinado-contacto-estrecho-989757'>Cuánto cobras si estás de baja por Covid, o confinado por ser contacto estrecho</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-cobras-baja-covid-confinado-contacto-estrecho-989757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/facebook-coronavirus-2444241.jpg' alt='Cuánto cobras si estás de baja por Covid, o confinado por ser contacto estrecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-asus-zenfone-9-apuntaria-moda-dos-pantallas-989735'>Los últimos rumores a que el Asus ZenFone 9 se apuntaría a la moda de las dos pantallas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-asus-zenfone-9-apuntaria-moda-dos-pantallas-989735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ultimos-rumores-asus-zenfone-9-apuntaria-moda-dos-pantallas-2576837.jpg' alt='Los últimos rumores a que el Asus ZenFone 9 se apuntaría a la moda de las dos pantallas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/samsung-galaxy-s3-recibira-android-12-aunque-no-manera-oficial-989707'>Lo nuevo de Samsung para sus televisores no está destinado a mejorar la experiencia audiovisual, es la posibilidad de comprar NFT desde la comodidad del sofá</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-galaxy-s3-recibira-android-12-aunque-no-manera-oficial-989707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-suma-locura-nft-anadira-soporte-estos-contenidos-televisores-2576835.jpg' alt='Lo nuevo de Samsung para sus televisores no está destinado a mejorar la experiencia audiovisual, es la posibilidad de comprar NFT desde la comodidad del sofá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-989705'>Se filtra la fecha de lanzamiento y las especificaciones del nuevo POCO M4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-989705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-2576817.jpg' alt='Se filtra la fecha de lanzamiento y las especificaciones del nuevo POCO M4' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-menos-300-euros-muy-poco-envidiar-xiaomi-chollo-momento-media-markt-989419'>Un patinete de menos de 300 euros, y con muy poco que envidiar al de Xiaomi: este es el chollo del momento en Media Markt</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-menos-300-euros-muy-poco-envidiar-xiaomi-chollo-momento-media-markt-989419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smartgyro-xtreme-baggio-10-2576193.jpg' alt='Un patinete de menos de 300 euros, y con muy poco que envidiar al de Xiaomi: este es el chollo del momento en Media Markt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697'>Efecto 2022: Microsoft Exchange deja de recibir y enviar emails</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/servidores-microsoft-2555295.jpg' alt='Efecto 2022: Microsoft Exchange deja de recibir y enviar emails' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-smart-tv-gama-entrada-media-989719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores Smart TV de gama de entrada y media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701'>Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11' />
     </a>
 </div>
 
