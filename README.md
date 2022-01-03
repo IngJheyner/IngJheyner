@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593'>Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-anade-juegos-navegador-edge-2576519.jpg' alt='Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/explosion-mercado-arte-digital-gracias-nft-35000-millones-euros-2021-989557'>La explosión del mercado de arte digital gracias a los NFT: 35.000 millones de euros en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/explosion-mercado-arte-digital-gracias-nft-35000-millones-euros-2021-989557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nft-2576437.jpg' alt='La explosión del mercado de arte digital gracias a los NFT: 35.000 millones de euros en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579'>Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537'>Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año</a></h4>
     <a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oledex-oled-transparente-ips-black-nuevas-pantallas-lg-llegaran-tvs-portatiles-989577'>OLED.EX, OLEDs transparentes e IPS Black, las nuevas pantallas LG que llegarán a TVs y portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oledex-oled-transparente-ips-black-nuevas-pantallas-lg-llegaran-tvs-portatiles-989577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lg-oled-2576465.jpg' alt='OLED.EX, OLEDs transparentes e IPS Black, las nuevas pantallas LG que llegarán a TVs y portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-moviles-vs-entrenador-personal-efectivo-ponerte-forma-989529'>Apps móviles vs Entrenador personal: ¿qué es más efectivo para ponerte en forma?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apps-moviles-vs-entrenador-personal-efectivo-ponerte-forma-989529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg' alt='Apps móviles vs Entrenador personal: ¿qué es más efectivo para ponerte en forma?' />
     </a>
 </div>
 
