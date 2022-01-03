@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2576161.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423'>Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán</a></h4>
     <a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277'>Samsung presenta en CES 2022 un monitor que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-presenta-ces-2022-monitor-pc-controla-dispositivos-hogar-nuevo-monitor-curvo-2576051.jpg' alt='Samsung presenta en CES 2022 un monitor que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz' />
     </a>
 </div>
 
