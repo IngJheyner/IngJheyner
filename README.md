@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423'>Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817'>Llega el Sofá Arcade, para los jugadores nostálgicos de los 90</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sofa-arcade-2575189.jpg' alt='Llega el Sofá Arcade, para los jugadores nostálgicos de los 90' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277'>Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277'>Samsung presenta en CES 2022 un monitor que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-ces-2022-monitores-989277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-presenta-ces-2022-monitor-pc-controla-dispositivos-hogar-nuevo-monitor-curvo-2576051.jpg' alt='Samsung presenta en CES 2022 un monitor de PC que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271'>Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/delivery-hero-hace-control-glovo-989271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Delivery Hero se hace con el control de Glovo, la popular compañía española de entrega a domicilio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-presenta-ces-2022-monitor-pc-controla-dispositivos-hogar-nuevo-monitor-curvo-2576051.jpg' alt='Samsung presenta en CES 2022 un monitor que controla los dispositivos del hogar, y un nuevo monitor curvo 4K a 240 Hz' />
     </a>
 </div>
 
