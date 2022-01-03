@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-oferta-649-euros-precio-ha-tenido-ahora-989405'>El Samsung Galaxy S21 5G está en oferta por 649 euros, el precio más bajo que ha tenido hasta ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-oferta-649-euros-precio-ha-tenido-ahora-989405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-s21-5g-2497275.jpg' alt='El Samsung Galaxy S21 5G está en oferta por 649 euros, el precio más bajo que ha tenido hasta ahora' />
+    <h4><a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579'>Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/energia-nuclear-gas-natural-ahora-van-ser-energias-verdes-ue-989521'>La energía nuclear y el gas natural ahora van a ser energías verdes, según la UE</a></h4>
-    <a href='https://computerhoy.com/noticias/life/energia-nuclear-gas-natural-ahora-van-ser-energias-verdes-ue-989521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/energia-nuclear-verde-reto-china-2418681.jpg' alt='La energía nuclear y el gas natural ahora van a ser energías verdes, según la UE' />
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-bate-record-fabricacion-coches-2021-doble-2020-989575'>Tesla bate su récord de  fabricación de coches en 2021: el doble que en 2020</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-bate-record-fabricacion-coches-2021-doble-2020-989575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tesla-model-3-2386951.jpg' alt='Tesla bate su récord de  fabricación de coches en 2021: el doble que en 2020' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-perder-notch-montar-pantalla-agujero-camara-frontal-989477'>El iPhone 14 podría perder el notch y montar pantalla con agujero para la cámara frontal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-perder-notch-montar-pantalla-agujero-camara-frontal-989477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='El iPhone 14 podría perder el notch y montar pantalla con agujero para la cámara frontal' />
+    <h4><a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537'>Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año</a></h4>
+    <a href='https://computerhoy.com/noticias/life/criptomoneda-te-hubiera-hecho-ganar-dinero-hubieras-invertido-hace-ano-989537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Qué criptomoneda te hubiera hecho ganar más dinero si hubieras invertido hace un año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487'>Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-2576273.jpg' alt='Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oledex-oled-transparente-ips-black-nuevas-pantallas-lg-llegaran-tvs-portatiles-989577'>OLED.EX, OLEDs transparentes e IPS Black, las nuevas pantallas LG que llegarán a TVs y portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oledex-oled-transparente-ips-black-nuevas-pantallas-lg-llegaran-tvs-portatiles-989577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lg-oled-2576465.jpg' alt='OLED.EX, OLEDs transparentes e IPS Black, las nuevas pantallas LG que llegarán a TVs y portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469'>El OnePlus 9RT está a punto de volverse internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-888-pantalla-120hz-android-12-oneplus-9rt-movil-no-podras-comprar-2500447.jpg' alt='El OnePlus 9RT está a punto de volverse internacional' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-moviles-vs-entrenador-personal-efectivo-ponerte-forma-989529'>Apps móviles vs Entrenador personal: ¿qué es más efectivo para ponerte en forma?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-moviles-vs-entrenador-personal-efectivo-ponerte-forma-989529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg' alt='Apps móviles vs Entrenador personal: ¿qué es más efectivo para ponerte en forma?' />
     </a>
 </div>
 
