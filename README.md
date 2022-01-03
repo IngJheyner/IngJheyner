@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-oferta-649-euros-precio-ha-tenido-ahora-989405'>El Samsung Galaxy S21 5G está en oferta por 649 euros, el precio más bajo que ha tenido hasta ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-oferta-649-euros-precio-ha-tenido-ahora-989405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-s21-5g-2497275.jpg' alt='El Samsung Galaxy S21 5G está en oferta por 649 euros, el precio más bajo que ha tenido hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/energia-nuclear-gas-natural-ahora-van-ser-energias-verdes-ue-989521'>La energía nuclear y el gas natural ahora van a ser energías verdes, según la UE</a></h4>
+    <a href='https://computerhoy.com/noticias/life/energia-nuclear-gas-natural-ahora-van-ser-energias-verdes-ue-989521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/energia-nuclear-verde-reto-china-2418681.jpg' alt='La energía nuclear y el gas natural ahora van a ser energías verdes, según la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-perder-notch-montar-pantalla-agujero-camara-frontal-989477'>El iPhone 14 podría perder el notch y montar pantalla con agujero para la cámara frontal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-perder-notch-montar-pantalla-agujero-camara-frontal-989477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='El iPhone 14 podría perder el notch y montar pantalla con agujero para la cámara frontal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487'>Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-app-buscar-mi-vas-poder-encontrar-iphone-incluso-bateria-gastada-989487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-2576273.jpg' alt='Con la nueva actualización de la app Buscar Mi, vas a poder encontrar tu iPhone incluso con la batería gastada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469'>El OnePlus 9RT está a punto de volverse internacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-888-pantalla-120hz-android-12-oneplus-9rt-movil-no-podras-comprar-2500447.jpg' alt='El OnePlus 9RT está a punto de volverse internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-productos-vendidos-amazon-cuenta-atras-reyes-magos-989411'>Estos son los productos más vendidos por Amazon en la cuenta atrás para Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-productos-vendidos-amazon-cuenta-atras-reyes-magos-989411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446985.jpg' alt='Estos son los productos más vendidos por Amazon en la cuenta atrás para Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/linea-productos-apple-2022-mac-pro-arm-gafas-realidad-aumentada-nuevo-macbook-aire-989435'>Esta es la línea de productos de Apple para 2022: un Mac Pro ARM, gafas de realidad aumentada y un MacBook Air</a></h4>
-    <a href='https://computerhoy.com/noticias/linea-productos-apple-2022-mac-pro-arm-gafas-realidad-aumentada-nuevo-macbook-aire-989435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Esta es la línea de productos de Apple para 2022: un Mac Pro ARM, gafas de realidad aumentada y un MacBook Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395'>Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2326997.jpg' alt='Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio' />
     </a>
 </div>
 
