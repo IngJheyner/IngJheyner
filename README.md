@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495'>Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/kingston-a400-ssd-2504335.jpg' alt='Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633'>Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619'>Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas</a></h4>
     <a href='https://computerhoy.com/noticias/mando-samsung-tiene-tecnologia-revolucionaria-hara-nunca-quede-pilas-989619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mando-samsung-2576555.jpg' alt='Este mando de Samsung usa una antigua tecnología que hará que nunca se quede sin pilas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593'>Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-anade-juegos-navegador-edge-otra-baza-lucha-chrome-989593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-anade-juegos-navegador-edge-2576519.jpg' alt='Microsoft añade juegos a su navegador Edge, otra baza en su lucha contra Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/explosion-mercado-arte-digital-gracias-nft-35000-millones-euros-2021-989557'>La explosión del mercado de arte digital gracias a los NFT: 35.000 millones de euros en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/explosion-mercado-arte-digital-gracias-nft-35000-millones-euros-2021-989557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nft-2576437.jpg' alt='La explosión del mercado de arte digital gracias a los NFT: 35.000 millones de euros en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579'>Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-colocar-correctamente-senal-v16-sustituye-triangulos-emergencia-evitar-multas-989579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo colocar correctamente la señal V16 que sustituye a los triángulos de emergencia para evitar multas' />
     </a>
 </div>
 
