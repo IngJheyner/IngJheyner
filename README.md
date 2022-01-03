@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-989705'>Se filtra la fecha de lanzamiento y las especificaciones del nuevo POCO M4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-989705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-lanzamiento-especificaciones-nuevo-poco-m4-2576817.jpg' alt='Se filtra la fecha de lanzamiento y las especificaciones del nuevo POCO M4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-menos-300-euros-muy-poco-envidiar-xiaomi-chollo-momento-media-markt-989419'>Un patinete de menos de 300 euros, y con muy poco que envidiar al de Xiaomi: este es el chollo del momento en Media Markt</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-menos-300-euros-muy-poco-envidiar-xiaomi-chollo-momento-media-markt-989419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smartgyro-xtreme-baggio-10-2576193.jpg' alt='Un patinete de menos de 300 euros, y con muy poco que envidiar al de Xiaomi: este es el chollo del momento en Media Markt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697'>Efecto 2022: Microsoft Exchange deja de recibir y enviar emails</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/efecto-2022-microsoft-exchange-deja-recibir-enviar-emails-989697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/servidores-microsoft-2555295.jpg' alt='Efecto 2022: Microsoft Exchange deja de recibir y enviar emails' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701'>Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-quiere-inspirarse-windows-vista-mejorar-windows-11-989701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Microsoft quiere inspirarse en ¡Windows Vista! para mejorar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495'>Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ano-nuevo-vida-nueva-antiguo-pc-ssd-casi-1-tb-76eu-hara-mucho-rapido-989495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/kingston-a400-ssd-2504335.jpg' alt='Año nuevo, vida nueva para tu antiguo PC: esta SSD de casi 1 TB por 76€ lo hará mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633'>Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/pasara-glovo-usuarios-compra-parte-delivery-hero-989633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg' alt='Qué pasará con Glovo y sus usuarios tras su compra por parte de Delivery Hero' />
     </a>
 </div>
 
