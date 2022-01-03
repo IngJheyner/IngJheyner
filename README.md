@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279'>En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán</a></h4>
     <a href='https://computerhoy.com/noticias/life/incendio-dura-6000-anos-989279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/misterioso-incendio-australia-lleva-ardiendo-6000-anos-2576061.jpg' alt='En la Montaña en Llamas de Australia hay un incendio que lleva ardiendo 6.000 años, y no es un  volcán' />
     </a>
 </div>
 
