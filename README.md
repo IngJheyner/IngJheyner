@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469'>El OnePlus 9RT está a punto de volverse internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9rt-punto-volverse-internacional-989469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/snapdragon-888-pantalla-120hz-android-12-oneplus-9rt-movil-no-podras-comprar-2500447.jpg' alt='El OnePlus 9RT está a punto de volverse internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-productos-vendidos-amazon-cuenta-atras-reyes-magos-989411'>Estos son los productos más vendidos por Amazon en la cuenta atrás para Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-productos-vendidos-amazon-cuenta-atras-reyes-magos-989411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/realme-gt-master-edition-analisis-opinion-2446985.jpg' alt='Estos son los productos más vendidos por Amazon en la cuenta atrás para Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/linea-productos-apple-2022-mac-pro-arm-gafas-realidad-aumentada-nuevo-macbook-aire-989435'>Esta es la línea de productos de Apple para 2022: un Mac Pro ARM, gafas de realidad aumentada y un MacBook Air</a></h4>
+    <a href='https://computerhoy.com/noticias/linea-productos-apple-2022-mac-pro-arm-gafas-realidad-aumentada-nuevo-macbook-aire-989435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Esta es la línea de productos de Apple para 2022: un Mac Pro ARM, gafas de realidad aumentada y un MacBook Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395'>Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-comprar-xiaomi-mi-band-6-baja-primera-vez-solo-23-euros-precio-989395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2326997.jpg' alt='Ahora es el momento de comprar la Xiaomi Mi Band 6: baja por primera vez a solo 23 euros de precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-989389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2576161.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423'>Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-televisores-neo-qled-8k-microled-ces-2022-988423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Samsung presenta sus nuevos televisores Neo QLED 8K y MicroLED en CES 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817'>Llega el Sofá Arcade, para los jugadores nostálgicos de los 90</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/arcade-sofa-harow-jugadores-nostalgicos-90-988817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sofa-arcade-2575189.jpg' alt='Llega el Sofá Arcade, para los jugadores nostálgicos de los 90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-989281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores altavoces inteligentes' />
     </a>
 </div>
 
