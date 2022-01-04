@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pueden-heredar-criptomonedas-990247'>¿Se pueden heredar las criptomonedas?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pueden-heredar-criptomonedas-990247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='¿Se pueden heredar las criptomonedas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevos-cepillos-dientes-oral-b-son-aun-inteligentes-tiempo-cepillado-presion-zonas-optimas-990245'>Los nuevos cepillos de dientes de Oral-B son aún más inteligentes: tiempo de cepillado y presión de zonas óptimas</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevos-cepillos-dientes-oral-b-son-aun-inteligentes-tiempo-cepillado-presion-zonas-optimas-990245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cepillo-dientes-2577715.jpg' alt='Los nuevos cepillos de dientes de Oral-B son aún más inteligentes: tiempo de cepillado y presión de zonas óptimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/roborock-s7-maxv-ultra-completa-inteligente-estacion-limpieza-casa-988303'>Así es el Roborock S7 MaxV Ultra, una completa e inteligente estación de limpieza para casa</a></h4>
     <a href='https://computerhoy.com/noticias/roborock-s7-maxv-ultra-completa-inteligente-estacion-limpieza-casa-988303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roborock-s7-maxv-ultra-2576575.jpg' alt='Así es el Roborock S7 MaxV Ultra, una completa e inteligente estación de limpieza para casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivomove-sport-venu-2-plus-nueva-apuesta-smartwatches-garmin-990219'>Vivomove Sport y Venu 2 Plus, la nueva apuesta en smartwatches de Garmin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivomove-sport-venu-2-plus-nueva-apuesta-smartwatches-garmin-990219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-smartwatch-2577613.jpg' alt='Vivomove Sport y Venu 2 Plus, la nueva apuesta en smartwatches de Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323'>Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-ya-tiene-regalo-reyes-todos-fans-dragon-ball-z-988323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dragon-ball-2574359.jpg' alt='Realme ya tiene su regalo de Reyes para todos los fans de Dragon Ball Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-400-euros-portatil-lg-gram-16-990169'>Amazon rebaja 400 euros este portátil de LG con un procesador Core i7, 32 GB de RAM y una SSD de 1 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-400-euros-portatil-lg-gram-16-990169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lg-gram-16z90p-2577509.jpg' alt='Amazon rebaja 400 euros este portátil de LG con un procesador Core i7, 32 GB de RAM y una SSD de 1 TB' />
     </a>
 </div>
 
