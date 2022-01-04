@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-bluetooth-no-5909-harman-suben-apuesta-airpods-max-1000-dolares-990287'>Los auriculares bluetooth No. 5909 de Harman suben la apuesta de los AirPods Max hasta los 1.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-bluetooth-no-5909-harman-suben-apuesta-airpods-max-1000-dolares-990287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-bluetooth-no-5959-harman-suben-apuesta-airpods-max-1000-dolares-2577809.jpg' alt='Los auriculares bluetooth No. 5909 de Harman suben la apuesta de los AirPods Max hasta los 1.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265'>Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/vacuna-coronavirus-2219773.jpg' alt='Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947'>Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577517.jpg' alt='Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-pantalla-alargada-huawei-watch-fit-new-minimo-historico-amazon-tan-solo-59-euros-989601'>La pulsera de actividad con pantalla alargada Huawei Watch Fit New está a su mínimo histórico en Amazon a tan solo 59 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-pantalla-alargada-huawei-watch-fit-new-minimo-historico-amazon-tan-solo-59-euros-989601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287047.jpg' alt='La pulsera de actividad con pantalla alargada Huawei Watch Fit New está a su mínimo histórico en Amazon a tan solo 59 euros' />
     </a>
 </div>
 
