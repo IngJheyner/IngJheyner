@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2577027.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/camara-seguridad-2576417.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651'>Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuchillo-cortando-cebolla-2576655.jpg' alt='Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789'>Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-limpiar-plancha-quemada-dejarla-nueva-2576873.jpg' alt='Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/slootmotor-moto-funciona-agua-estancada-metano-989787'>Slootmotor, la moto que funciona con agua estancada</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/slootmotor-moto-funciona-agua-estancada-metano-989787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/slootmotor-moto-funciona-agua-estancada-2576871.jpg' alt='Slootmotor, la moto que funciona con agua estancada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/antenas-starlink-generan-calor-atraen-gatos-callejeros-otros-animales-989783'>Elon Musk tiene otro problema: las antenas de Starlink generan calor y atraen a los gatos callejeros y otros animales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/antenas-starlink-generan-calor-atraen-gatos-callejeros-otros-animales-989783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/antenas-starlink-generan-calor-eso-problema-atraen-gatos-callejeros-2576867.jpg' alt='Elon Musk tiene otro problema: las antenas de Starlink generan calor y atraen a los gatos callejeros y otros animales' />
     </a>
 </div>
 
