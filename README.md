@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-posible-comprar-ps5-2022-volverse-loco-990203'>¿Será posible comprar una PS5 en 2022 sin volverse loco?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-posible-comprar-ps5-2022-volverse-loco-990203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='¿Será posible comprar una PS5 en 2022 sin volverse loco?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-opciones-ser-shiba-inu-2022-expertos-990125'>Estas son las criptomonedas con más opciones de ser la ‘Shiba Inu de 2022’ según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-opciones-ser-shiba-inu-2022-expertos-990125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Estas son las criptomonedas con más opciones de ser la ‘Shiba Inu de 2022’ según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-14-portatil-potente-ligero-perfecto-nuevo-ano-ahora-cuesta-599-euros-989567'>Huawei Matebook D 14 es un portátil potente y ligero perfecto para el nuevo año que ahora cuesta 599 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-14-portatil-potente-ligero-perfecto-nuevo-ano-ahora-cuesta-599-euros-989567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-matebook-d-14-2046999.jpg' alt='Huawei Matebook D 14 es un portátil potente y ligero perfecto para el nuevo año que ahora cuesta 599 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095'>Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 </a></h4>
-    <a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 ' />
     </a>
 </div>
 
