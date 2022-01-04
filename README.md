@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-bluetooth-no-5909-harman-suben-apuesta-airpods-max-1000-dolares-990287'>Los auriculares bluetooth No. 5909 de Harman suben la apuesta de los AirPods Max hasta los 1.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-bluetooth-no-5909-harman-suben-apuesta-airpods-max-1000-dolares-990287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-bluetooth-no-5959-harman-suben-apuesta-airpods-max-1000-dolares-2577809.jpg' alt='Los auriculares bluetooth No. 5909 de Harman suben la apuesta de los AirPods Max hasta los 1.000 dólares' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-lenovo-smart-clock-presume-pantalla-quiere-colarse-mesita-noche-pequenos-987235'>El nuevo Lenovo Smart Clock presume de pantalla y quiere colarse en la mesita de noche de los más pequeños</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-lenovo-smart-clock-presume-pantalla-quiere-colarse-mesita-noche-pequenos-987235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-smart-clock-essential-alexa-2577897.jpg' alt='El nuevo Lenovo Smart Clock presume de pantalla y quiere colarse en la mesita de noche de los más pequeños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265'>Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/vacuna-coronavirus-2219773.jpg' alt='Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-air-gafas-micro-oled-realidad-aumentada-990329'>TCL Nxtwear Air, las gafas con Micro OLED que proyectan una pantalla de hasta 140 pulgadas en cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-air-gafas-micro-oled-realidad-aumentada-990329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-pantalla-portatil-tcl-nxtwear-air-2577863.jpg' alt='TCL Nxtwear Air, las gafas con Micro OLED que proyectan una pantalla de hasta 140 pulgadas en cualquier lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-apuesta-5g-moviles-tcl-30-nuevas-tabletas-estudiantes-990277'>TCL apuesta por el 5G para sus móviles TCL 30 y las nuevas tabletas para estudiantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-apuesta-5g-moviles-tcl-30-nuevas-tabletas-estudiantes-990277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-tab-2577765.jpg' alt='TCL apuesta por el 5G para sus móviles TCL 30 y las nuevas tabletas para estudiantes' />
+    <h4><a href='https://computerhoy.com/noticias/amd-sorprende-potente-linea-procesadores-ryzen-6000-portatiles-990317'>AMD sorprende con su potente línea de procesadores Ryzen 6000 para portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/amd-sorprende-potente-linea-procesadores-ryzen-6000-portatiles-990317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD sorprende con su potente línea de procesadores Ryzen 6000 para portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panasonic-lz2000-tv-oled-top-renueva-mejor-sonido-apuntando-gaming-990227'>Panasonic LZ2000, el TV OLED más top que se renueva con mejor sonido y apuntando al gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panasonic-lz2000-tv-oled-top-renueva-mejor-sonido-apuntando-gaming-990227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/panasonic-lz2000-2577655.jpg' alt='Panasonic LZ2000, el TV OLED más top que se renueva con mejor sonido y apuntando al gaming' />
+    <h4><a href='https://computerhoy.com/noticias/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-990311'>NVIDIA y su apuesta en el CES 2022:  RTX 3050 como GPU económica y RTX 3080Ti para portátiles top</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-990311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-2577853.jpg' alt='NVIDIA y su apuesta en el CES 2022:  RTX 3050 como GPU económica y RTX 3080Ti para portátiles top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947'>Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577517.jpg' alt='Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-conseguir-amazon-fire-tv-stick-oferta-mejor-modelo-solo-cuesta-2499eu-989987'>Última oportunidad para conseguir un Amazon Fire TV Stick en oferta: el mejor modelo solo cuesta 24,99€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-conseguir-amazon-fire-tv-stick-oferta-mejor-modelo-solo-cuesta-2499eu-989987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='Última oportunidad para conseguir un Amazon Fire TV Stick en oferta: el mejor modelo solo cuesta 24,99€' />
     </a>
 </div>
 
