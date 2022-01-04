@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pueden-heredar-criptomonedas-990247'>¿Se pueden heredar las criptomonedas?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pueden-heredar-criptomonedas-990247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='¿Se pueden heredar las criptomonedas?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265'>Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-primera-vacuna-covid-completamente-libre-como-regalo-mundo-990265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/vacuna-coronavirus-2219773.jpg' alt='Llega la primera vacuna contra el COVID completamente libre: “Como regalo al Mundo”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevos-cepillos-dientes-oral-b-son-aun-inteligentes-tiempo-cepillado-presion-zonas-optimas-990245'>Los nuevos cepillos de dientes de Oral-B son aún más inteligentes: tiempo de cepillado y presión de zonas óptimas</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevos-cepillos-dientes-oral-b-son-aun-inteligentes-tiempo-cepillado-presion-zonas-optimas-990245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cepillo-dientes-2577715.jpg' alt='Los nuevos cepillos de dientes de Oral-B son aún más inteligentes: tiempo de cepillado y presión de zonas óptimas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-apuesta-5g-moviles-tcl-30-nuevas-tabletas-estudiantes-990277'>TCL apuesta por el 5G para sus móviles TCL 30 y las nuevas tabletas para estudiantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-apuesta-5g-moviles-tcl-30-nuevas-tabletas-estudiantes-990277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-tab-2577765.jpg' alt='TCL apuesta por el 5G para sus móviles TCL 30 y las nuevas tabletas para estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/roborock-s7-maxv-ultra-completa-inteligente-estacion-limpieza-casa-988303'>Así es el Roborock S7 MaxV Ultra, una completa e inteligente estación de limpieza para casa</a></h4>
-    <a href='https://computerhoy.com/noticias/roborock-s7-maxv-ultra-completa-inteligente-estacion-limpieza-casa-988303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roborock-s7-maxv-ultra-2576575.jpg' alt='Así es el Roborock S7 MaxV Ultra, una completa e inteligente estación de limpieza para casa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panasonic-lz2000-tv-oled-top-renueva-mejor-sonido-apuntando-gaming-990227'>Panasonic LZ2000, el TV OLED más top que se renueva con mejor sonido y apuntando al gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panasonic-lz2000-tv-oled-top-renueva-mejor-sonido-apuntando-gaming-990227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/panasonic-lz2000-2577655.jpg' alt='Panasonic LZ2000, el TV OLED más top que se renueva con mejor sonido y apuntando al gaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-2k-amoled-camara-50-mpx-990165'>Así es el realme GT 2 Pro: Snapdragon 8 Gen 1, pantalla 2K AMOLED y cámara de 50 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-2k-amoled-camara-50-mpx-990165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-2-pro-2577537.jpg' alt='Así es el realme GT 2 Pro: Snapdragon 8 Gen 1, pantalla 2K AMOLED y cámara de 50 Mpx' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947'>Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-bravia-xr-2022-son-nuevos-televisores-sony-paneles-miniled-oled-inteligencia-artificial-987947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577517.jpg' alt='Sony Bravia XR 2022: así son los nuevos televisores de Sony con paneles MiniLED, OLED e inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivomove-sport-venu-2-plus-nueva-apuesta-smartwatches-garmin-990219'>Vivomove Sport y Venu 2 Plus, la nueva apuesta en smartwatches de Garmin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivomove-sport-venu-2-plus-nueva-apuesta-smartwatches-garmin-990219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-smartwatch-2577613.jpg' alt='Vivomove Sport y Venu 2 Plus, la nueva apuesta en smartwatches de Garmin' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-pantalla-alargada-huawei-watch-fit-new-minimo-historico-amazon-tan-solo-59-euros-989601'>La pulsera de actividad con pantalla alargada Huawei Watch Fit New está a su mínimo histórico en Amazon a tan solo 59 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-pantalla-alargada-huawei-watch-fit-new-minimo-historico-amazon-tan-solo-59-euros-989601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287047.jpg' alt='La pulsera de actividad con pantalla alargada Huawei Watch Fit New está a su mínimo histórico en Amazon a tan solo 59 euros' />
     </a>
 </div>
 
