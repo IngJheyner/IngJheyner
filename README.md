@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367'>Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-presenta-nuevos-portatiles-monitores-pcs-chromebooks-ces-2022-2578051.jpg' alt='Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337'>Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti</a></h4>
     <a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blade-15-2577951.jpg' alt='Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943'>Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-strix-2576041.jpg' alt='Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/todos-detalles-asus-zephyrus-g14-bestia-zephyrus-duo-16-dos-pantallas-987941'>Todos los detalles sobre los Asus Zephyrus G14 y la bestia Zephyrus Duo 16 con dos pantallas</a></h4>
-    <a href='https://computerhoy.com/noticias/todos-detalles-asus-zephyrus-g14-bestia-zephyrus-duo-16-dos-pantallas-987941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-rog-2576049.jpg' alt='Todos los detalles sobre los Asus Zephyrus G14 y la bestia Zephyrus Duo 16 con dos pantallas' />
     </a>
 </div>
 
