@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095'>Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 </a></h4>
+    <a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/coche-mercedes-techo-solar-pretende-ser-coche-europeo-venza-tesla-990071'>Este coche de Mercedes con techo solar pretende ser el coche europeo que venza a Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/coche-mercedes-techo-solar-pretende-ser-coche-europeo-venza-tesla-990071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-coche-electrico-2577319.jpg' alt='Este coche de Mercedes con techo solar pretende ser el coche europeo que venza a Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-freidora-aceite-quede-perfecta-cocines-cocines-990087'>Cómo limpiar una freidora sin aceite para que quede perfecta cocines lo que cocines</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-freidora-aceite-quede-perfecta-cocines-cocines-990087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Cómo limpiar una freidora sin aceite para que quede perfecta cocines lo que cocines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041'>A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi</a></h4>
     <a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045'>Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/singer-maquina-coser-2577187.jpg' alt='Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varapalo-5g-investigan-puede-afectar-aviones-aterrizajes-990035'>Varapalo al 5G: Investigan si puede afectar a los aviones en los aterrizajes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varapalo-5g-investigan-puede-afectar-aviones-aterrizajes-990035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/avion-1954277.jpg' alt='Varapalo al 5G: Investigan si puede afectar a los aviones en los aterrizajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-grandes-reencuentros-friends-principe-bel-air-ahora-triunfa-ultima-reunion-990047'>HBO Max sigue con los grandes reencuentros: tras Friends y El príncipe de Bel-Air, ahora triunfa una última reunión</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-grandes-reencuentros-friends-principe-bel-air-ahora-triunfa-ultima-reunion-990047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reunion-harry-potter-2562039.jpg' alt='HBO Max sigue con los grandes reencuentros: tras Friends y El príncipe de Bel-Air, ahora triunfa una última reunión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513'>Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358027.jpg' alt='Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros' />
     </a>
 </div>
 
