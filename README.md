@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-lenovo-smart-clock-presume-pantalla-quiere-colarse-mesita-noche-pequenos-987235'>El nuevo Lenovo Smart Clock presume de pantalla y quiere colarse en la mesita de noche de los más pequeños</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-lenovo-smart-clock-presume-pantalla-quiere-colarse-mesita-noche-pequenos-987235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-smart-clock-essential-alexa-2577897.jpg' alt='El nuevo Lenovo Smart Clock presume de pantalla y quiere colarse en la mesita de noche de los más pequeños' />
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-deportivos-posiblemente-marcaran-tendencia-2022-990137'>Estos deportivos (posiblemente) marcarán tendencia en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-deportivos-posiblemente-marcaran-tendencia-2022-990137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chevrolet-corvette-z06-2023-2572705.jpg' alt='Estos deportivos (posiblemente) marcarán tendencia en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-air-gafas-micro-oled-realidad-aumentada-990329'>TCL Nxtwear Air, las gafas con Micro OLED que proyectan una pantalla de hasta 140 pulgadas en cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-air-gafas-micro-oled-realidad-aumentada-990329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-pantalla-portatil-tcl-nxtwear-air-2577863.jpg' alt='TCL Nxtwear Air, las gafas con Micro OLED que proyectan una pantalla de hasta 140 pulgadas en cualquier lugar' />
+    <h4><a href='https://computerhoy.com/noticias/motor/accidente-solitario-como-evitarlo-dgt-990327'>Qué es un “accidente solitario” y cómo evitarlo según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/accidente-solitario-como-evitarlo-dgt-990327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/kamikazes-volante-denuncian-dgt-2423207.jpg' alt='Qué es un “accidente solitario” y cómo evitarlo según la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/amd-sorprende-potente-linea-procesadores-ryzen-6000-portatiles-990317'>AMD sorprende con su potente línea de procesadores Ryzen 6000 para portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/amd-sorprende-potente-linea-procesadores-ryzen-6000-portatiles-990317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD sorprende con su potente línea de procesadores Ryzen 6000 para portátiles' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hyperx-presenta-nuevas-herramientas-dominar-videojuegos-987231'>HyperX presenta sus nuevas herramientas para dominar los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hyperx-presenta-nuevas-herramientas-dominar-videojuegos-987231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyperx-ces2022-2573477.jpg' alt='HyperX presenta sus nuevas herramientas para dominar los videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-990311'>NVIDIA y su apuesta en el CES 2022:  RTX 3050 como GPU económica y RTX 3080Ti para portátiles top</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-990311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-2577853.jpg' alt='NVIDIA y su apuesta en el CES 2022:  RTX 3050 como GPU económica y RTX 3080Ti para portátiles top' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/hp-tiene-monitor-ps5-xbox-series-x-omen-27u-4k-hdmi-21-987227'>HP tiene un monitor para PS5 y Xbox Series X, el OMEN 27u 4K con HDMI 2.1</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/hp-tiene-monitor-ps5-xbox-series-x-omen-27u-4k-hdmi-21-987227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-omen-27u-4k-2572563.jpg' alt='HP tiene un monitor para PS5 y Xbox Series X, el OMEN 27u 4K con HDMI 2.1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-conseguir-amazon-fire-tv-stick-oferta-mejor-modelo-solo-cuesta-2499eu-989987'>Última oportunidad para conseguir un Amazon Fire TV Stick en oferta: el mejor modelo solo cuesta 24,99€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-conseguir-amazon-fire-tv-stick-oferta-mejor-modelo-solo-cuesta-2499eu-989987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='Última oportunidad para conseguir un Amazon Fire TV Stick en oferta: el mejor modelo solo cuesta 24,99€' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/pc-gaming-formato-consola-hp-omen-25l-victus-15l-rtx-3080-ultimo-intel-amd-987225'>PC gaming con formato de consola, así con los HP OMEN 25L y Victus 15L con hasta RTX 3080 y lo último de Intel y AMD</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/pc-gaming-formato-consola-hp-omen-25l-victus-15l-rtx-3080-ultimo-intel-amd-987225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-omen-25l-2573181.jpg' alt='PC gaming con formato de consola, así con los HP OMEN 25L y Victus 15L con hasta RTX 3080 y lo último de Intel y AMD' />
     </a>
 </div>
 
