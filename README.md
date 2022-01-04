@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041'>A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi</a></h4>
+    <a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045'>Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/singer-maquina-coser-2577187.jpg' alt='Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varapalo-5g-investigan-puede-afectar-aviones-aterrizajes-990035'>Varapalo al 5G: Investigan si puede afectar a los aviones en los aterrizajes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varapalo-5g-investigan-puede-afectar-aviones-aterrizajes-990035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/avion-1954277.jpg' alt='Varapalo al 5G: Investigan si puede afectar a los aviones en los aterrizajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-grandes-reencuentros-friends-principe-bel-air-ahora-triunfa-ultima-reunion-990047'>HBO Max sigue con los grandes reencuentros: tras Friends y El príncipe de Bel-Air, ahora triunfa una última reunión</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-grandes-reencuentros-friends-principe-bel-air-ahora-triunfa-ultima-reunion-990047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/reunion-harry-potter-2562039.jpg' alt='HBO Max sigue con los grandes reencuentros: tras Friends y El príncipe de Bel-Air, ahora triunfa una última reunión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513'>Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358027.jpg' alt='Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-hace-historia-alcanzar-3-billones-dolares-valor-mercado-990039'>Apple hace historia al alcanzar los 3 billones de dólares en valor de mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-hace-historia-alcanzar-3-billones-dolares-valor-mercado-990039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2577179.jpg' alt='Apple hace historia al alcanzar los 3 billones de dólares en valor de mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-grifo-normal-pero-invento-moen-funciona-gestos-regular-temperatura-990019'>Parece un grifo normal, pero este invento de Moen funciona con gestos hasta para regular la temperatura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/parece-grifo-normal-pero-invento-moen-funciona-gestos-regular-temperatura-990019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/grifo-moen-2577157.jpg' alt='Parece un grifo normal, pero este invento de Moen funciona con gestos hasta para regular la temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tienes-placa-base-mucho-cuidado-porque-explota-llamas-asus-retirando-990021'>Si tienes esta placa base mucho cuidado porque explota en llamas: ASUS las está retirando</a></h4>
-    <a href='https://computerhoy.com/noticias/tienes-placa-base-mucho-cuidado-porque-explota-llamas-asus-retirando-990021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Si tienes esta placa base mucho cuidado porque explota en llamas: ASUS las está retirando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-curva-27-2k-gamers-trabajar-huawei-ahora-rebajada-100eu-989709'>La pantalla curva de 27" y 2K para gamers o para trabajar de Huawei ahora está rebajada 100€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-curva-27-2k-gamers-trabajar-huawei-ahora-rebajada-100eu-989709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-mateview-gt-27-2576765.jpg' alt='La pantalla curva de 27" y 2K para gamers o para trabajar de Huawei ahora está rebajada 100€' />
     </a>
 </div>
 
