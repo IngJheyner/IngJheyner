@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589'>Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kindle-vs-kindle-paperwhite-2576477.jpg' alt='Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sindrome-charles-bonnet-ver-cosas-no-estan-ahi-989669'>El síndrome de Charles Bonnet: ver cosas que no están ahí</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sindrome-charles-bonnet-ver-cosas-no-estan-ahi-989669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/frotarse-ojos-2384913.jpg' alt='El síndrome de Charles Bonnet: ver cosas que no están ahí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/multados-500-euros-examen-conducir-llevaban-camaras-989663'>Multados con 500 euros en el examen de conducir: llevaban cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/multados-500-euros-examen-conducir-llevaban-camaras-989663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/banda-copiaba-examenes-2345785.png' alt='Multados con 500 euros en el examen de conducir: llevaban cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2577027.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/camara-seguridad-2576417.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651'>Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuchillo-cortando-cebolla-2576655.jpg' alt='Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-galaxy-s21-fe-movil-esperado-samsung-987157'>Todo sobre el Galaxy S21 FE, el móvil más esperado de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-galaxy-s21-fe-movil-esperado-samsung-987157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galaxy-s21-fe-2576807.jpg' alt='Todo sobre el Galaxy S21 FE, el móvil más esperado de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789'>Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-limpiar-plancha-quemada-dejarla-nueva-2576873.jpg' alt='Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva' />
     </a>
 </div>
 
