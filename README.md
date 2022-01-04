@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ikea-tambien-va-jugar-ahora-puedes-comprar-productos-lego-989985'>A Ikea también se va a jugar: ahora puedes comprar productos de Lego</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ikea-tambien-va-jugar-ahora-puedes-comprar-productos-lego-989985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/manos-lego-2577049.jpg' alt='A Ikea también se va a jugar: ahora puedes comprar productos de Lego' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513'>Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estamos-enero-pero-ya-tenemos-chollazo-ano-auriculares-huawei-freebuds-4-cancelacion-ruido-activa-99-euros-989513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-huawei-freebuds-4-2358027.jpg' alt='Estamos en enero, pero ya tenemos el chollazo del año: los auriculares Huawei FreeBuds 4 con cancelación de ruido activa por 99 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589'>Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kindle-vs-kindle-paperwhite-2576477.jpg' alt='Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-hace-historia-alcanzar-3-billones-dolares-valor-mercado-990039'>Apple hace historia al alcanzar los 3 billones de dólares en valor de mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-hace-historia-alcanzar-3-billones-dolares-valor-mercado-990039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2577179.jpg' alt='Apple hace historia al alcanzar los 3 billones de dólares en valor de mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sindrome-charles-bonnet-ver-cosas-no-estan-ahi-989669'>El síndrome de Charles Bonnet: ver cosas que no están ahí</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sindrome-charles-bonnet-ver-cosas-no-estan-ahi-989669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/frotarse-ojos-2384913.jpg' alt='El síndrome de Charles Bonnet: ver cosas que no están ahí' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-grifo-normal-pero-invento-moen-funciona-gestos-regular-temperatura-990019'>Parece un grifo normal, pero este invento de Moen funciona con gestos hasta para regular la temperatura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/parece-grifo-normal-pero-invento-moen-funciona-gestos-regular-temperatura-990019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/grifo-moen-2577157.jpg' alt='Parece un grifo normal, pero este invento de Moen funciona con gestos hasta para regular la temperatura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/multados-500-euros-examen-conducir-llevaban-camaras-989663'>Multados con 500 euros en el examen de conducir: llevaban cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/multados-500-euros-examen-conducir-llevaban-camaras-989663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/banda-copiaba-examenes-2345785.png' alt='Multados con 500 euros en el examen de conducir: llevaban cámaras' />
+    <h4><a href='https://computerhoy.com/noticias/tienes-placa-base-mucho-cuidado-porque-explota-llamas-asus-retirando-990021'>Si tienes esta placa base mucho cuidado porque explota en llamas: ASUS las está retirando</a></h4>
+    <a href='https://computerhoy.com/noticias/tienes-placa-base-mucho-cuidado-porque-explota-llamas-asus-retirando-990021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Si tienes esta placa base mucho cuidado porque explota en llamas: ASUS las está retirando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2577027.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-curva-27-2k-gamers-trabajar-huawei-ahora-rebajada-100eu-989709'>La pantalla curva de 27" y 2K para gamers o para trabajar de Huawei ahora está rebajada 100€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-curva-27-2k-gamers-trabajar-huawei-ahora-rebajada-100eu-989709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-mateview-gt-27-2576765.jpg' alt='La pantalla curva de 27" y 2K para gamers o para trabajar de Huawei ahora está rebajada 100€' />
     </a>
 </div>
 
