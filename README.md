@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-deportivos-posiblemente-marcaran-tendencia-2022-990137'>Estos deportivos (posiblemente) marcarán tendencia en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-deportivos-posiblemente-marcaran-tendencia-2022-990137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chevrolet-corvette-z06-2023-2572705.jpg' alt='Estos deportivos (posiblemente) marcarán tendencia en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/hideo-kojima-trabajando-dos-nuevos-videojuegos-990141'>Hideo Kojima está trabajando en dos nuevos videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/hideo-kojima-trabajando-dos-nuevos-videojuegos-990141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hideo-kojima-2395911.jpg' alt='Hideo Kojima está trabajando en dos nuevos videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/accidente-solitario-como-evitarlo-dgt-990327'>Qué es un “accidente solitario” y cómo evitarlo según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/accidente-solitario-como-evitarlo-dgt-990327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/kamikazes-volante-denuncian-dgt-2423207.jpg' alt='Qué es un “accidente solitario” y cómo evitarlo según la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-mozilla-alertan-grave-fallo-seguridad-ultima-version-chrome-990353'>Apple y Mozilla alertan sobre un grave fallo de seguridad en la última versión de Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-mozilla-alertan-grave-fallo-seguridad-ultima-version-chrome-990353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Apple y Mozilla alertan sobre un grave fallo de seguridad en la última versión de Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hyperx-presenta-nuevas-herramientas-dominar-videojuegos-987231'>HyperX presenta sus nuevas herramientas para dominar los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hyperx-presenta-nuevas-herramientas-dominar-videojuegos-987231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyperx-ces2022-2573477.jpg' alt='HyperX presenta sus nuevas herramientas para dominar los videojuegos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-webs-dominio-eu-estan-offline-debido-brexit-990345'>Miles de webs con dominio .eu están offline debido al Brexit</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/miles-webs-dominio-eu-estan-offline-debido-brexit-990345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/miles-webs-dominio-eu-estan-offline-debido-brexit-2577985.jpg' alt='Miles de webs con dominio .eu están offline debido al Brexit' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/hp-tiene-monitor-ps5-xbox-series-x-omen-27u-4k-hdmi-21-987227'>HP tiene un monitor para PS5 y Xbox Series X, el OMEN 27u 4K con HDMI 2.1</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/hp-tiene-monitor-ps5-xbox-series-x-omen-27u-4k-hdmi-21-987227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-omen-27u-4k-2572563.jpg' alt='HP tiene un monitor para PS5 y Xbox Series X, el OMEN 27u 4K con HDMI 2.1' />
+    <h4><a href='https://computerhoy.com/noticias/life/facua-pone-seria-denuncia-enganar-roscones-reyes-aldi-lidl-dia-990349'>FACUA se pone seria y denuncia por engañar con sus roscones de reyes a Aldi, Lidl y Dia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/facua-pone-seria-denuncia-enganar-roscones-reyes-aldi-lidl-dia-990349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roscon-reyes-2577993.jpg' alt='FACUA se pone seria y denuncia por engañar con sus roscones de reyes a Aldi, Lidl y Dia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/pc-gaming-formato-consola-hp-omen-25l-victus-15l-rtx-3080-ultimo-intel-amd-987225'>PC gaming con formato de consola, así con los HP OMEN 25L y Victus 15L con hasta RTX 3080 y lo último de Intel y AMD</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/pc-gaming-formato-consola-hp-omen-25l-victus-15l-rtx-3080-ultimo-intel-amd-987225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hp-omen-25l-2573181.jpg' alt='PC gaming con formato de consola, así con los HP OMEN 25L y Victus 15L con hasta RTX 3080 y lo último de Intel y AMD' />
+    <h4><a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337'>Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti</a></h4>
+    <a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blade-15-2577951.jpg' alt='Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti' />
     </a>
 </div>
 
