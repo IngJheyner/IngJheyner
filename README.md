@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/hideo-kojima-trabajando-dos-nuevos-videojuegos-990141'>Hideo Kojima está trabajando en dos nuevos videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/hideo-kojima-trabajando-dos-nuevos-videojuegos-990141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hideo-kojima-2395911.jpg' alt='Hideo Kojima está trabajando en dos nuevos videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-mozilla-alertan-grave-fallo-seguridad-ultima-version-chrome-990353'>Apple y Mozilla alertan sobre un grave fallo de seguridad en la última versión de Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-mozilla-alertan-grave-fallo-seguridad-ultima-version-chrome-990353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Apple y Mozilla alertan sobre un grave fallo de seguridad en la última versión de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-webs-dominio-eu-estan-offline-debido-brexit-990345'>Miles de webs con dominio .eu están offline debido al Brexit</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/miles-webs-dominio-eu-estan-offline-debido-brexit-990345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/miles-webs-dominio-eu-estan-offline-debido-brexit-2577985.jpg' alt='Miles de webs con dominio .eu están offline debido al Brexit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/facua-pone-seria-denuncia-enganar-roscones-reyes-aldi-lidl-dia-990349'>FACUA se pone seria y denuncia por engañar con sus roscones de reyes a Aldi, Lidl y Dia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/facua-pone-seria-denuncia-enganar-roscones-reyes-aldi-lidl-dia-990349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roscon-reyes-2577993.jpg' alt='FACUA se pone seria y denuncia por engañar con sus roscones de reyes a Aldi, Lidl y Dia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337'>Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti</a></h4>
     <a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blade-15-2577951.jpg' alt='Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 ó Intel Core 12th gen y NVIDIA RTX 30X0 Ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359'>La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/depiladora-laser-permanente-philips-lumea-depila-vello-cara-cuerpo-tiene-160-euros-descuento-2578017.jpg' alt='La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351'>Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/patinete-electrico-hiboy-s2-2462341.jpg' alt='Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943'>Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-strix-2576041.jpg' alt='Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/todos-detalles-asus-zephyrus-g14-bestia-zephyrus-duo-16-dos-pantallas-987941'>Todos los detalles sobre los Asus Zephyrus G14 y la bestia Zephyrus Duo 16 con dos pantallas</a></h4>
+    <a href='https://computerhoy.com/noticias/todos-detalles-asus-zephyrus-g14-bestia-zephyrus-duo-16-dos-pantallas-987941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-rog-2576049.jpg' alt='Todos los detalles sobre los Asus Zephyrus G14 y la bestia Zephyrus Duo 16 con dos pantallas' />
     </a>
 </div>
 
