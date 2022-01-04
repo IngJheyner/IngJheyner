@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651'>Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-modificar-sabor-cebolla-simplemente-cambiando-forma-cortarla-989651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuchillo-cortando-cebolla-2576655.jpg' alt='Cómo modificar el sabor de la cebolla simplemente cambiando la forma de cortarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-galaxy-s21-fe-movil-esperado-samsung-987157'>Todo sobre el Galaxy S21 FE, el móvil más esperado de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-galaxy-s21-fe-movil-esperado-samsung-987157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galaxy-s21-fe-2576807.jpg' alt='Todo sobre el Galaxy S21 FE, el móvil más esperado de Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/antenas-starlink-generan-calor-atraen-gatos-callejeros-otros-animales-989783'>Elon Musk tiene otro problema: las antenas de Starlink generan calor y atraen a los gatos callejeros y otros animales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/antenas-starlink-generan-calor-atraen-gatos-callejeros-otros-animales-989783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/antenas-starlink-generan-calor-eso-problema-atraen-gatos-callejeros-2576867.jpg' alt='Elon Musk tiene otro problema: las antenas de Starlink generan calor y atraen a los gatos callejeros y otros animales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a02s-chollo-oferta-989777'>Si buscas un primer móvil para un adolescente o una persona mayor, el Samsung Galaxy A02s solo cuesta 111 euros, a tiempo para Reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a02s-chollo-oferta-989777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a02s-2561587.jpg' alt='Si buscas un primer móvil para un adolescente o una persona mayor, el Samsung Galaxy A02s solo cuesta 111 euros, a tiempo para Reyes' />
     </a>
 </div>
 
