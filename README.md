@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-opciones-ser-shiba-inu-2022-expertos-990125'>Estas son las criptomonedas con más opciones de ser la ‘Shiba Inu de 2022’ según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-opciones-ser-shiba-inu-2022-expertos-990125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg' alt='Estas son las criptomonedas con más opciones de ser la ‘Shiba Inu de 2022’ según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-televisiones-lg-ces-2022-lg-oled-g2-lg-qned-mini-led-990119'>Nuevas televisores de LG en el CES 2022: LG OLED G2 y LG QNED MINI LED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-televisiones-lg-ces-2022-lg-oled-g2-lg-qned-mini-led-990119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/televisiones-lg-2577331.jpg' alt='Nuevas televisores de LG en el CES 2022: LG OLED G2 y LG QNED MINI LED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545'>Cómo apuntarse al paro en 2022 y sellar la tarjeta del paro online en el SEPE</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/web-sepe-2261557.jpg' alt='Cómo apuntarse al paro en 2022 y sellar la tarjeta del paro online en el SEPE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-14-portatil-potente-ligero-perfecto-nuevo-ano-ahora-cuesta-599-euros-989567'>Huawei Matebook D 14 es un portátil potente y ligero perfecto para el nuevo año que ahora cuesta 599 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-14-portatil-potente-ligero-perfecto-nuevo-ano-ahora-cuesta-599-euros-989567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-matebook-d-14-2046999.jpg' alt='Huawei Matebook D 14 es un portátil potente y ligero perfecto para el nuevo año que ahora cuesta 599 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095'>Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 </a></h4>
     <a href='https://computerhoy.com/noticias/life/ni-shiba-inu-ni-dogecoin-estas-son-criptomonedas-han-subido-va-ano-2022-990095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/altcoin-2572429.jpg' alt='Ni Shiba Inu ni Dogecoin: éstas son las criptomonedas que más han subido en lo que va de año 2022 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/coche-mercedes-techo-solar-pretende-ser-coche-europeo-venza-tesla-990071'>Este coche de Mercedes con techo solar pretende ser el coche europeo que venza a Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/coche-mercedes-techo-solar-pretende-ser-coche-europeo-venza-tesla-990071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-coche-electrico-2577319.jpg' alt='Este coche de Mercedes con techo solar pretende ser el coche europeo que venza a Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-freidora-aceite-quede-perfecta-cocines-cocines-990087'>Cómo limpiar una freidora sin aceite para que quede perfecta cocines lo que cocines</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-freidora-aceite-quede-perfecta-cocines-cocines-990087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Cómo limpiar una freidora sin aceite para que quede perfecta cocines lo que cocines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041'>A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi</a></h4>
-    <a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045'>Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-coser-singer-66-descuento-169-euros-990045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/singer-maquina-coser-2577187.jpg' alt='Vuelve a Lidl la máquina de coser Singer con un 66% de descuento, a 169 euros' />
     </a>
 </div>
 
