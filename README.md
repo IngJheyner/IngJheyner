@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789'>Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-plancha-quemada-989789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-limpiar-plancha-quemada-dejarla-nueva-2576873.jpg' alt='Cómo limpiar una plancha quemada de forma sencilla y dejarla como nueva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/slootmotor-moto-funciona-agua-estancada-metano-989787'>Slootmotor, la moto que funciona con agua estancada</a></h4>
     <a href='https://computerhoy.com/noticias/motor/slootmotor-moto-funciona-agua-estancada-metano-989787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/slootmotor-moto-funciona-agua-estancada-2576871.jpg' alt='Slootmotor, la moto que funciona con agua estancada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-valoro-rodar-matrix-4-directora-989661'>Warner valoró rodar Matrix 4 sin su directora</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/warner-valoro-rodar-matrix-4-directora-989661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566693.jpg' alt='Warner valoró rodar Matrix 4 sin su directora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/banco-santander-lia-ingresando-150-millones-pagas-navidad-ahora-quiere-recuperar-989767'>Banco Santander la lía ingresando más de 150 millones en pagas de Navidad que ahora quiere recuperar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/banco-santander-lia-ingresando-150-millones-pagas-navidad-ahora-quiere-recuperar-989767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/banco-santander-2576861.jpg' alt='Banco Santander la lía ingresando más de 150 millones en pagas de Navidad que ahora quiere recuperar' />
     </a>
 </div>
 
