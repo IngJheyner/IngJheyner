@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ikea-tambien-va-jugar-ahora-puedes-comprar-productos-lego-989985'>A Ikea también se va a jugar: ahora puedes comprar productos de Lego</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ikea-tambien-va-jugar-ahora-puedes-comprar-productos-lego-989985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/manos-lego-2577049.jpg' alt='A Ikea también se va a jugar: ahora puedes comprar productos de Lego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589'>Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kindle-vs-kindle-paperwhite-2021-comparativa-caracteristicas-cual-es-mejor-989589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kindle-vs-kindle-paperwhite-2576477.jpg' alt='Kindle vs Kindle Paperwhite: ¿cuál es mejor y en qué se diferencian?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-989959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2577027.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/camara-seguridad-2576417.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
     </a>
 </div>
 
