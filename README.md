@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619'>Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/macbook-air-2202501.jpg' alt='Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799'>Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-amplificador-red-2578725.jpg' alt='Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717'>Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/cobra-kai.jpg' alt='Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-podemos-confirmar-apunta-maneras-como-smartphone-top-990767'>El OnePlus 10 Pro 5G ya es oficial y podemos confirmar que apunta maneras como smartphone top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-podemos-confirmar-apunta-maneras-como-smartphone-top-990767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-2578657.jpg' alt='El OnePlus 10 Pro 5G ya es oficial y podemos confirmar que apunta maneras como smartphone top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741'>Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/seria-diseno-especificaciones-nueva-samsung-galaxy-tab-a7-lite-2341063.jpg' alt='Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/vivo-v23-v23-pro-calidad-selfies-video-camara-frontal-casi-precedentes-990731'>Vivo V23 y V23 Pro: Calidad de selfies y vídeo con la cámara frontal casi sin precedentes</a></h4>
-    <a href='https://computerhoy.com/noticias/vivo-v23-v23-pro-calidad-selfies-video-camara-frontal-casi-precedentes-990731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vivo-v23-2578525.jpg' alt='Vivo V23 y V23 Pro: Calidad de selfies y vídeo con la cámara frontal casi sin precedentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ssd'>¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ssd' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-ssd-2577357.jpg' alt='¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mesa-ajustable-electrica-te-permite-trabajar-sentado-pie-evitar-fatiga-cuesta-menos-190-euros-989585'>Esta mesa ajustable eléctrica te permite trabajar sentado y de pie para evitar la fatiga y cuesta menos de 190 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mesa-ajustable-electrica-te-permite-trabajar-sentado-pie-evitar-fatiga-cuesta-menos-190-euros-989585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-trabajando-mesa-ajustable-altura-electricamente-2576475.jpg' alt='Esta mesa ajustable eléctrica te permite trabajar sentado y de pie para evitar la fatiga y cuesta menos de 190 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701'>Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-bitcoin-2578453.jpg' alt='Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum' />
     </a>
 </div>
 
