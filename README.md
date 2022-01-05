@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085'>Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-ha-presentado-playstation-vr2-da-salto-realidad-aumentada-990585'>Sony ha presentado PlayStation VR2 y da el salto a la realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-ha-presentado-playstation-vr2-da-salto-realidad-aumentada-990585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/playstation-vr2-2578257.jpg' alt='Sony ha presentado PlayStation VR2 y da el salto a la realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117'>Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/poco-x3-pro-vs-xiaomi-remdi-10-2577329.jpg' alt='Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/problemas-ninos-ha-provocado-uso-pantallas-durante-pandemia-990159'>Los problemas en los niños que ha provocado el extendido uso de las pantallas durante la pandemia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/problemas-ninos-ha-provocado-uso-pantallas-durante-pandemia-990159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='Los problemas en los niños que ha provocado el extendido uso de las pantallas durante la pandemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sintomas-comunes-indican-adiccion-redes-sociales-990189'>Los síntomas más comunes que indican una adicción a las redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/life/sintomas-comunes-indican-adiccion-redes-sociales-990189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-movil-2577529.jpg' alt='Los síntomas más comunes que indican una adicción a las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-planes-lamborghini-coches-electricos-990147'>Estos son los planes de Lamborghini con los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-planes-lamborghini-coches-electricos-990147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lamborghini-coche-electrico-2573463.jpg' alt='Estos son los planes de Lamborghini con los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-prepara-serie-televisores-miniled-144-hz-gaming-990357'>TCL prepara una serie de televisores MiniLED de 144 Hz para gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-prepara-serie-televisores-miniled-144-hz-gaming-990357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-mini-led-tv-144-hz-2578015.jpg' alt='TCL prepara una serie de televisores MiniLED de 144 Hz para gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-990577'>42 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-990577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/42-noticias-tecnologia-comenzar-manana-informado-ultimo-2578249.jpg' alt='42 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-qi-wireless-puedes-comprar-989991'>Mejores cargadores inalámbricos Qi Wireless que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-qi-wireless-puedes-comprar-989991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-cargador-inalambrico-qi-2577171.jpg' alt='Mejores cargadores inalámbricos Qi Wireless que puedes comprar' />
     </a>
 </div>
 
