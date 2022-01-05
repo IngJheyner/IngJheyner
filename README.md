@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953'>Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577511.jpg' alt='Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783'>Lo que deberías tener en cuenta antes de invertir en criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Lo que deberías tener en cuenta antes de invertir en criptomonedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799'>Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-amplificador-red-2578725.jpg' alt='Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717'>Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/cobra-kai.jpg' alt='Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix' />
     </a>
 </div>
 
