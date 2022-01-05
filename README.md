@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663'>Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/black-and-decker-ha-anunciado-robot-prepara-40-cocteles-distintos-cantidades-perfectas-990639'>Black and Decker ha anunciado el robot que prepara hasta 40 cócteles distintos con las cantidades perfectas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/black-and-decker-ha-anunciado-robot-prepara-40-cocteles-distintos-cantidades-perfectas-990639' target='_blank'>
+        <img width='30%' src='' alt='Black and Decker ha anunciado el robot que prepara hasta 40 cócteles distintos con las cantidades perfectas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609'>China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol</a></h4>
     <a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/foto-sol-tomada-nasa-1982415.jpg' alt='China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085'>Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-ha-presentado-playstation-vr2-da-salto-realidad-aumentada-990585'>Sony ha presentado PlayStation VR2 y da el salto a la realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-ha-presentado-playstation-vr2-da-salto-realidad-aumentada-990585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/playstation-vr2-2578257.jpg' alt='Sony ha presentado PlayStation VR2 y da el salto a la realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117'>Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/poco-x3-pro-vs-xiaomi-remdi-10-2577329.jpg' alt='Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?' />
     </a>
 </div>
 
