@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-990867'>Nokia presenta sus modestos smartphones con Android 12: 4 modelos las líneas C y G en CES 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-990867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-2578859.jpg' alt='Nokia presenta sus modestos smartphones con Android 12: 4 modelos las líneas C y G en CES 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-parlante-belkin-3-1-carga-inalambrica-altavoz-bluetooth-990865'>El cargador parlante de Belkin 3 en 1: soporte para móvil, carga inalámbrica y altavoz Bluetooth solo 29,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cargador-parlante-belkin-3-1-carga-inalambrica-altavoz-bluetooth-990865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cargador-parlante-belkin-3-1-soporte-movil-carga-inalambrica-altavoz-bluetooth-solo-2999-euros-2578845.jpg' alt='El cargador parlante de Belkin 3 en 1: soporte para móvil, carga inalámbrica y altavoz Bluetooth solo 29,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-990279'>Mide tus calorías, pero también tu corazón: la pulsera Amazfit Band 5 es una de las mejores alternativas a Xiaomi y es más barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-990279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/amazfit-band-5-2240917.jpg' alt='Mide tus calorías, pero también tu corazón: la pulsera Amazfit Band 5 es una de las mejores alternativas a Xiaomi y es más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953'>Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego</a></h4>
     <a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577511.jpg' alt='Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783'>Lo que deberías tener en cuenta antes de invertir en criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Lo que deberías tener en cuenta antes de invertir en criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-sorprende-propia-version-barata-miticos-chupa-chups-kojak-990813'>Mercadona sorprende con su propia versión barata de los míticos Chupa Chups Kojak</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-sorprende-propia-version-barata-miticos-chupa-chups-kojak-990813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cherry-sticks-chupa-chups-mercadona-2578755.jpg' alt='Mercadona sorprende con su propia versión barata de los míticos Chupa Chups Kojak' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619'>Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/macbook-air-2202501.jpg' alt='Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799'>Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ojo-oferton-amplificador-xiaomi-mi-wi-fi-pro-999-euros-lidl-990799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-amplificador-red-2578725.jpg' alt='Ojo al ofertón de este amplificador Xiaomi Mi Wi-Fi Pro: 9,99 euros en LIDL' />
     </a>
 </div>
 
