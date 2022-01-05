@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sph2onge-esponja-viral-te-hara-ahorrar-cientos-euros-papel-cocina-990097'>Sph2onge, la esponja viral que te hará ahorrar cientos de euros en papel de cocina </a></h4>
+    <a href='https://computerhoy.com/noticias/life/sph2onge-esponja-viral-te-hara-ahorrar-cientos-euros-papel-cocina-990097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sph2onge-2577325.jpg' alt='Sph2onge, la esponja viral que te hará ahorrar cientos de euros en papel de cocina ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375'>Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alimentos-retrasan-perdida-vision-edad-2578061.jpg' alt='Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337'>Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 o Intel Core 12th gen y NVIDIA RTX 3080 Ti</a></h4>
     <a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blade-15-2577951.jpg' alt='Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 o Intel Core 12th gen y NVIDIA RTX 3080 Ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359'>La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/depiladora-laser-permanente-philips-lumea-depila-vello-cara-cuerpo-tiene-160-euros-descuento-2578017.jpg' alt='La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento' />
     </a>
 </div>
 
