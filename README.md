@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783'>Lo que deberías tener en cuenta antes de invertir en criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Lo que deberías tener en cuenta antes de invertir en criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-sorprende-propia-version-barata-miticos-chupa-chups-kojak-990813'>Mercadona sorprende con su propia versión barata de los míticos Chupa Chups Kojak</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-sorprende-propia-version-barata-miticos-chupa-chups-kojak-990813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cherry-sticks-chupa-chups-mercadona-2578755.jpg' alt='Mercadona sorprende con su propia versión barata de los míticos Chupa Chups Kojak' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619'>Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-sigue-bajando-precio-macbook-air-portatil-ligero-rapido-apple-ahora-140-euros-menos-990619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/macbook-air-2202501.jpg' alt='Amazon sigue bajando el precio del MacBook Air, el portátil ligero y rápido de Apple, ahora por 140 euros menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717'>Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todo-ya-sabemos-temporada-5-cobra-kai-netflix-990717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/cobra-kai.jpg' alt='Todo lo que ya sabemos de la temporada 5 de Cobra Kai en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-podemos-confirmar-apunta-maneras-como-smartphone-top-990767'>El OnePlus 10 Pro 5G ya es oficial y podemos confirmar que apunta maneras como smartphone top</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-podemos-confirmar-apunta-maneras-como-smartphone-top-990767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-2578657.jpg' alt='El OnePlus 10 Pro 5G ya es oficial y podemos confirmar que apunta maneras como smartphone top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741'>Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/seria-diseno-especificaciones-nueva-samsung-galaxy-tab-a7-lite-2341063.jpg' alt='Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022' />
     </a>
 </div>
 
