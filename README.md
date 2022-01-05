@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-arremete-fabricantes-portatiles-windows-snapdragon-no-triunfaron-hace-3-anos-precios-990879'>Qualcomm arremete contra los fabricantes: los portátiles Windows con Snapdragon no triunfaron hace 3 años por sus precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-arremete-fabricantes-portatiles-windows-snapdragon-no-triunfaron-hace-3-anos-precios-990879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/qualcomm-2205461.jpg' alt='Qualcomm arremete contra los fabricantes: los portátiles Windows con Snapdragon no triunfaron hace 3 años por sus precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-bulos-movil-peligrosos-2022-990849'>Los 5 bulos a través del móvil más peligrosos de 2022 que hay que conocer para que no te engañen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-bulos-movil-peligrosos-2022-990849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-bulos-movil-peligrosos-2021-hay-conocer-no-te-enganen-2578813.jpg' alt='Los 5 bulos a través del móvil más peligrosos de 2022 que hay que conocer para que no te engañen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635'>Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-2576803.jpg' alt='Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933'>El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-14x-oled-space-edition-2575985.jpg' alt='El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-tiene-pantalla-flexible-enorme-futuro-portatiles-987935'>El Asus Zenbook 17 Fold OLED tiene una pantalla flexible enorme y es el futuro de los portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-tiene-pantalla-flexible-enorme-futuro-portatiles-987935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-zenbook-17-fold-oled-2574481.jpg' alt='El Asus Zenbook 17 Fold OLED tiene una pantalla flexible enorme y es el futuro de los portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-apuesta-maximo-oled-nuevos-zenbook-14-ultimo-intel-amd-987931'>Asus apuesta al máximo por los OLED con sus nuevos Zenbook 14 con lo último de Intel y AMD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-apuesta-maximo-oled-nuevos-zenbook-14-ultimo-intel-amd-987931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-14-oled-2575979.jpg' alt='Asus apuesta al máximo por los OLED con sus nuevos Zenbook 14 con lo último de Intel y AMD' />
     </a>
 </div>
 
