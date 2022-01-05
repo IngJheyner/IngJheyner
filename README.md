@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373'>LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lifimax-tab-primera-tablet-lifi-conecta-internet-traves-luz-2578059.jpg' alt='LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367'>Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-presenta-nuevos-portatiles-monitores-pcs-chromebooks-ces-2022-2578051.jpg' alt='Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351'>Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/patinete-electrico-hiboy-s2-2462341.jpg' alt='Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943'>Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/asus-renueva-rog-strix-rog-scar-tuf-rtx-3080-ti-portatil-memorias-ddr5-987943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-strix-2576041.jpg' alt='Asus renueva los ROG Strix, ROG Scar y TUF con hasta la RTX 3080 Ti portátil y memorias DDR5 ' />
     </a>
 </div>
 
