@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741'>Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-tablet-galaxy-tab-a8-lite-samsung-calentando-motores-mwc-2022-990741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/seria-diseno-especificaciones-nueva-samsung-galaxy-tab-a7-lite-2341063.jpg' alt='Así será la tablet Galaxy Tab A8 Lite: Samsung calentando motores para MWC 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/vivo-v23-v23-pro-calidad-selfies-video-camara-frontal-casi-precedentes-990731'>Vivo V23 y V23 Pro: Calidad de selfies y vídeo con la cámara frontal casi sin precedentes</a></h4>
+    <a href='https://computerhoy.com/noticias/vivo-v23-v23-pro-calidad-selfies-video-camara-frontal-casi-precedentes-990731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vivo-v23-2578525.jpg' alt='Vivo V23 y V23 Pro: Calidad de selfies y vídeo con la cámara frontal casi sin precedentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ssd'>¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ssd' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-ssd-2577357.jpg' alt='¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mesa-ajustable-electrica-te-permite-trabajar-sentado-pie-evitar-fatiga-cuesta-menos-190-euros-989585'>Esta mesa ajustable eléctrica te permite trabajar sentado y de pie para evitar la fatiga y cuesta menos de 190 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mesa-ajustable-electrica-te-permite-trabajar-sentado-pie-evitar-fatiga-cuesta-menos-190-euros-989585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-trabajando-mesa-ajustable-altura-electricamente-2576475.jpg' alt='Esta mesa ajustable eléctrica te permite trabajar sentado y de pie para evitar la fatiga y cuesta menos de 190 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701'>Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-bitcoin-2578453.jpg' alt='Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suelos-expertos-mojan-oportunidad-tirar-dinero-990689'>Shiba Inu por los suelos y los expertos se mojan: ¿oportunidad o es tirar el dinero?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suelos-expertos-mojan-oportunidad-tirar-dinero-990689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='Shiba Inu por los suelos y los expertos se mojan: ¿oportunidad o es tirar el dinero?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freestyle-nuevo-samsung-miniproyectores-pesa-menos-kilo-990669'>The Freestyle es lo nuevo de Samsung en miniproyectores: pesa menos de un kilo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freestyle-nuevo-samsung-miniproyectores-pesa-menos-kilo-990669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-proyector-2578433.jpg' alt='The Freestyle es lo nuevo de Samsung en miniproyectores: pesa menos de un kilo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/adios-popcorn-time-aplicacion-peliculas-pirata-todas-plataformas-streaming-temian-990679'>Adios a Popcorn Time, la aplicación de películas pirata que todas las plataformas de streaming temían</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/adios-popcorn-time-aplicacion-peliculas-pirata-todas-plataformas-streaming-temian-990679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/popcorn-time-2578413.jpg' alt='Adios a Popcorn Time, la aplicación de películas pirata que todas las plataformas de streaming temían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663'>Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo' />
     </a>
 </div>
 
