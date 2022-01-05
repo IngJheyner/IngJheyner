@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-990577'>42 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-990577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/42-noticias-tecnologia-comenzar-manana-informado-ultimo-2578249.jpg' alt='42 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-qi-wireless-puedes-comprar-989991'>Mejores cargadores inalámbricos Qi Wireless que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-qi-wireless-puedes-comprar-989991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-cargador-inalambrico-qi-2577171.jpg' alt='Mejores cargadores inalámbricos Qi Wireless que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-auriculares-990571'>Vota en los Premios ComputerHoy 2021: finalistas a los mejores auriculares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejores-auriculares-990571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-auriculares-2578245.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a los mejores auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sph2onge-esponja-viral-te-hara-ahorrar-cientos-euros-papel-cocina-990097'>Sph2onge, la esponja viral que te hará ahorrar cientos de euros en papel de cocina </a></h4>
     <a href='https://computerhoy.com/noticias/life/sph2onge-esponja-viral-te-hara-ahorrar-cientos-euros-papel-cocina-990097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sph2onge-2577325.jpg' alt='Sph2onge, la esponja viral que te hará ahorrar cientos de euros en papel de cocina ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375'>Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alimentos-retrasan-perdida-vision-edad-2578061.jpg' alt='Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373'>LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lifimax-tab-primera-tablet-lifi-conecta-internet-traves-luz-2578059.jpg' alt='LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367'>Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-ces-2022-portatil-intel-arc-gaming-monitores-pcs-chromebooks-990367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-presenta-nuevos-portatiles-monitores-pcs-chromebooks-ces-2022-2578051.jpg' alt='Acer presenta el primer portátil con tarjeta gráfica Intel Arc, nuevos portátiles gaming, monitores, PCs y Chromebooks' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337'>Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 o Intel Core 12th gen y NVIDIA RTX 3080 Ti</a></h4>
-    <a href='https://computerhoy.com/noticias/razer-lanza-renovada-linea-blade-portatiles-14-15-17-pulgadas-ryzen-6000-intel-core-12th-gen-nvidia-rtx-3080ti-990337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blade-15-2577951.jpg' alt='Razer Blade 14, 15 y 17 pulgadas: Ryzen 6000 o Intel Core 12th gen y NVIDIA RTX 3080 Ti' />
     </a>
 </div>
 
