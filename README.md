@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375'>Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimentos-retrasan-perdida-vision-edad-presbicia-cataratas-ojo-seco-990375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alimentos-retrasan-perdida-vision-edad-2578061.jpg' alt='Alimentos que retrasan la pérdida de visión por la edad, como la presbicia o las cataratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373'>LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lifimax-tab-primera-tablet-lifi-conecta-internet-a-traves-luz-990373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lifimax-tab-primera-tablet-lifi-conecta-internet-traves-luz-2578059.jpg' alt='LiFiMAX Tab, la primera tablet con LiFi, se conecta a Internet a través de ondas de luz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359'>La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/depiladora-laser-permanente-philips-lumea-descuento-990359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/depiladora-laser-permanente-philips-lumea-depila-vello-cara-cuerpo-tiene-160-euros-descuento-2578017.jpg' alt='La depiladora láser permanente Philips Lumea elimina el vello de la cara y el cuerpo y tiene 160 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351'>Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-debes-cumplir-vas-patinente-electrico-evitar-multas-1000-euros-990351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/patinete-electrico-hiboy-s2-2462341.jpg' alt='Estos son los requisitos que debes cumplir si vas en patinente eléctrico para evitar multas de hasta 1.000 euros' />
     </a>
 </div>
 
