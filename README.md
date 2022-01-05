@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609'>China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol</a></h4>
+    <a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/foto-sol-tomada-nasa-1982415.jpg' alt='China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-consiguiendo-enfadar-pais-cada-temporada-990617'>Una serie de Netflix está consiguiendo enfadar a un país con cada temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-consiguiendo-enfadar-pais-cada-temporada-990617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emily-paris-2-2568533.jpeg' alt='Una serie de Netflix está consiguiendo enfadar a un país con cada temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085'>Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117'>Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/poco-x3-pro-vs-xiaomi-remdi-10-2577329.jpg' alt='Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/problemas-ninos-ha-provocado-uso-pantallas-durante-pandemia-990159'>Los problemas en los niños que ha provocado el extendido uso de las pantallas durante la pandemia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/problemas-ninos-ha-provocado-uso-pantallas-durante-pandemia-990159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='Los problemas en los niños que ha provocado el extendido uso de las pantallas durante la pandemia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sintomas-comunes-indican-adiccion-redes-sociales-990189'>Los síntomas más comunes que indican una adicción a las redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sintomas-comunes-indican-adiccion-redes-sociales-990189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-movil-2577529.jpg' alt='Los síntomas más comunes que indican una adicción a las redes sociales' />
     </a>
 </div>
 
