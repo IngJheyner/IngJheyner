@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947'>Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951'>Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/razer-project-sophia-2579121.jpg' alt='Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733'>Spider-Man No Way Home ya es la película de Sony más taquillera de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Spider-Man No Way Home ya es la película de Sony más taquillera de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-5-series-llegan-pantallas-240-hz-jugar-maximo-987249'>Los Lenovo Legion 5 Series llegan con pantallas de hasta 240 Hz para jugar al máximo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-5-series-llegan-pantallas-240-hz-jugar-maximo-987249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-legion-5-2579107.jpg' alt='Los Lenovo Legion 5 Series llegan con pantallas de hasta 240 Hz para jugar al máximo' />
     </a>
 </div>
 
