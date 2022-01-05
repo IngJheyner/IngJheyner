@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-990867'>Nokia presenta sus modestos smartphones con Android 12: 4 modelos las líneas C y G en CES 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-990867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-presenta-modestos-smartphones-android-12-4-modelos-lineas-c-g-ces-2022-2578859.jpg' alt='Nokia presenta sus modestos smartphones con Android 12: 4 modelos las líneas C y G en CES 2022' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635'>Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-2576803.jpg' alt='Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-parlante-belkin-3-1-carga-inalambrica-altavoz-bluetooth-990865'>El cargador parlante de Belkin 3 en 1: soporte para móvil, carga inalámbrica y altavoz Bluetooth solo 29,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cargador-parlante-belkin-3-1-carga-inalambrica-altavoz-bluetooth-990865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cargador-parlante-belkin-3-1-soporte-movil-carga-inalambrica-altavoz-bluetooth-solo-2999-euros-2578845.jpg' alt='El cargador parlante de Belkin 3 en 1: soporte para móvil, carga inalámbrica y altavoz Bluetooth solo 29,99 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-tambien-pacta-intel-crear-chromebook-flip-cx5-resistencia-militar-987937'>Asus también pacta con Intel para crear el Chromebook Flip CX5 con resistencia militar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-tambien-pacta-intel-crear-chromebook-flip-cx5-resistencia-militar-987937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-chromebook-flip-cx5-2575929.jpg' alt='Asus también pacta con Intel para crear el Chromebook Flip CX5 con resistencia militar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-990279'>Mide tus calorías, pero también tu corazón: la pulsera Amazfit Band 5 es una de las mejores alternativas a Xiaomi y es más barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-990279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/amazfit-band-5-2240917.jpg' alt='Mide tus calorías, pero también tu corazón: la pulsera Amazfit Band 5 es una de las mejores alternativas a Xiaomi y es más barata' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933'>El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-14x-oled-space-edition-2575985.jpg' alt='El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953'>Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevos-televisores-sony-bravia-xr-ps5-llevaran-muy-bien-nuevos-modos-juego-987953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577511.jpg' alt='Los nuevos televisores Sony Bravia XR y PS5 se llevarán muy bien con los nuevos modos de juego' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-tiene-pantalla-flexible-enorme-futuro-portatiles-987935'>El Asus Zenbook 17 Fold OLED tiene una pantalla flexible enorme y es el futuro de los portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-tiene-pantalla-flexible-enorme-futuro-portatiles-987935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-zenbook-17-fold-oled-2574481.jpg' alt='El Asus Zenbook 17 Fold OLED tiene una pantalla flexible enorme y es el futuro de los portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783'>Lo que deberías tener en cuenta antes de invertir en criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deberias-tener-cuenta-antes-invertir-criptomonedas-990783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Lo que deberías tener en cuenta antes de invertir en criptomonedas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-apuesta-maximo-oled-nuevos-zenbook-14-ultimo-intel-amd-987931'>Asus apuesta al máximo por los OLED con sus nuevos Zenbook 14 con lo último de Intel y AMD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-apuesta-maximo-oled-nuevos-zenbook-14-ultimo-intel-amd-987931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-14-oled-2575979.jpg' alt='Asus apuesta al máximo por los OLED con sus nuevos Zenbook 14 con lo último de Intel y AMD' />
     </a>
 </div>
 
