@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701'>Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/multimillonarios-wall-street-ahora-negacionistas-criptos-comienzan-comprar-bitcoin-ethereum-990701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-bitcoin-2578453.jpg' alt='Multimillonarios de Wall Street hasta ahora negacionistas de las criptos comienzan a comprar Bitcoin y Ethereum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suelos-expertos-mojan-oportunidad-tirar-dinero-990689'>Shiba Inu por los suelos y los expertos se mojan: ¿oportunidad o es tirar el dinero?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suelos-expertos-mojan-oportunidad-tirar-dinero-990689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='Shiba Inu por los suelos y los expertos se mojan: ¿oportunidad o es tirar el dinero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freestyle-nuevo-samsung-miniproyectores-pesa-menos-kilo-990669'>The Freestyle es lo nuevo de Samsung en miniproyectores: pesa menos de un kilo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freestyle-nuevo-samsung-miniproyectores-pesa-menos-kilo-990669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-proyector-2578433.jpg' alt='The Freestyle es lo nuevo de Samsung en miniproyectores: pesa menos de un kilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/adios-popcorn-time-aplicacion-peliculas-pirata-todas-plataformas-streaming-temian-990679'>Adios a Popcorn Time, la aplicación de películas pirata que todas las plataformas de streaming temían</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/adios-popcorn-time-aplicacion-peliculas-pirata-todas-plataformas-streaming-temian-990679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/popcorn-time-2578413.jpg' alt='Adios a Popcorn Time, la aplicación de películas pirata que todas las plataformas de streaming temían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663'>Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vision-s-primer-coche-fabricado-sony-muchos-anos-desarrollo-990663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='Así es el Vision-S: el primer coche fabricado por Sony tras muchos años de desarrollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/black-and-decker-ha-anunciado-robot-prepara-40-cocteles-distintos-cantidades-perfectas-990639'>Black and Decker ha anunciado el robot que prepara hasta 40 cócteles distintos con las cantidades perfectas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/black-and-decker-ha-anunciado-robot-prepara-40-cocteles-distintos-cantidades-perfectas-990639' target='_blank'>
-        <img width='30%' src='' alt='Black and Decker ha anunciado el robot que prepara hasta 40 cócteles distintos con las cantidades perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609'>China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol</a></h4>
-    <a href='https://computerhoy.com/noticias/china-consigue-record-mundial-mantener-liquido-26-veces-caliente-sol-990609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/foto-sol-tomada-nasa-1982415.jpg' alt='China consigue un récord mundial al mantener un líquido 2,6 veces más caliente que el sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-consiguiendo-enfadar-pais-cada-temporada-990617'>Una serie de Netflix está consiguiendo enfadar a un país con cada temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-consiguiendo-enfadar-pais-cada-temporada-990617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emily-paris-2-2568533.jpeg' alt='Una serie de Netflix está consiguiendo enfadar a un país con cada temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085'>Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-ruidos-transporte-publico-trafico-otras-personas-auriculares-huawei-freebuds-pro-109eu-990085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233867.jpeg' alt='Elimina los ruidos del transporte público, tráfico y otras personas con los auriculares Huawei Freebuds Pro por 109€' />
     </a>
 </div>
 
