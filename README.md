@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-arremete-fabricantes-portatiles-windows-snapdragon-no-triunfaron-hace-3-anos-precios-990879'>Qualcomm arremete contra los fabricantes: los portátiles Windows con Snapdragon no triunfaron hace 3 años por sus precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-arremete-fabricantes-portatiles-windows-snapdragon-no-triunfaron-hace-3-anos-precios-990879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/qualcomm-2205461.jpg' alt='Qualcomm arremete contra los fabricantes: los portátiles Windows con Snapdragon no triunfaron hace 3 años por sus precios' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acabo-chollo-cuentas-compartidas-netflix-990911'>¿Se acabó el chollo de las cuentas compartidas en Netflix?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acabo-chollo-cuentas-compartidas-netflix-990911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-2477155.jpg' alt='¿Se acabó el chollo de las cuentas compartidas en Netflix?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-bulos-movil-peligrosos-2022-990849'>Los 5 bulos a través del móvil más peligrosos de 2022 que hay que conocer para que no te engañen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-bulos-movil-peligrosos-2022-990849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-bulos-movil-peligrosos-2021-hay-conocer-no-te-enganen-2578813.jpg' alt='Los 5 bulos a través del móvil más peligrosos de 2022 que hay que conocer para que no te engañen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-pc-podria-estar-minando-criptomonedas-sepas-990933'>El antivirus de tu PC podría estar minando criptomonedas sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/antivirus-pc-podria-estar-minando-criptomonedas-sepas-990933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='El antivirus de tu PC podría estar minando criptomonedas sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635'>Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-fe-5g-motivos-comprar-990635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-2576803.jpg' alt='Por qué el Samsung Galaxy S21 FE 5G puede arrasar en ventas y ser el móvil que necesitas' />
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-ix-llega-espana-rozando-90000-euros-990727'>El BMW iX llega a España rozando los 90.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-ix-llega-espana-rozando-90000-euros-990727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-bmw-ix-50-xdrive-2022-2488887.jpg' alt='El BMW iX llega a España rozando los 90.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-tambien-pacta-intel-crear-chromebook-flip-cx5-resistencia-militar-987937'>Asus también pacta con Intel para crear el Chromebook Flip CX5 con resistencia militar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-tambien-pacta-intel-crear-chromebook-flip-cx5-resistencia-militar-987937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-chromebook-flip-cx5-2575929.jpg' alt='Asus también pacta con Intel para crear el Chromebook Flip CX5 con resistencia militar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-redefine-thinkpad-x1-carbon-g10-yoga-g7-x1-nano-g2-987247'>Lenovo redefine los ThinkPad X1 con el Carbon G10, el Yoga G7 y el X1 Nano G2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-redefine-thinkpad-x1-carbon-g10-yoga-g7-x1-nano-g2-987247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-thinkpad-x1-carbon-2579051.jpg' alt='Lenovo redefine los ThinkPad X1 con el Carbon G10, el Yoga G7 y el X1 Nano G2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933'>El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-14x-oled-space-edition-saca-pecho-potencia-resistencia-espacial-doble-pantalla-987933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-14x-oled-space-edition-2575985.jpg' alt='El Asus Zenbook 14X OLED Space Edition saca pecho en potencia, resistencia espacial y doble pantalla' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llega-ces-2022-idea-potenciar-interconexion-dispositivos-android-990819'>Google llega al CES 2022 con la idea de potenciar la interconexión entre dispositivos Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-llega-ces-2022-idea-potenciar-interconexion-dispositivos-android-990819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-2578775.jpg' alt='Google llega al CES 2022 con la idea de potenciar la interconexión entre dispositivos Android' />
     </a>
 </div>
 
