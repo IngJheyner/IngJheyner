@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917'>Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-8-gb-ram-windows-10-instalado-solo-cuesta-364-euros-2578983.jpg' alt='Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925'>El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-portatil-2553575.jpg' alt='El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733'>Spider-Man No Way Home ya es la película de Sony más taquillera de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Spider-Man No Way Home ya es la película de Sony más taquillera de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-5-series-llegan-pantallas-240-hz-jugar-maximo-987249'>Los Lenovo Legion 5 Series llegan con pantallas de hasta 240 Hz para jugar al máximo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-5-series-llegan-pantallas-240-hz-jugar-maximo-987249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-legion-5-2579107.jpg' alt='Los Lenovo Legion 5 Series llegan con pantallas de hasta 240 Hz para jugar al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/acabo-chollo-cuentas-compartidas-netflix-990911'>¿Se acabó el chollo de las cuentas compartidas en Netflix?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/acabo-chollo-cuentas-compartidas-netflix-990911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-2477155.jpg' alt='¿Se acabó el chollo de las cuentas compartidas en Netflix?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-pc-podria-estar-minando-criptomonedas-sepas-990933'>El antivirus de tu PC podría estar minando criptomonedas sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/antivirus-pc-podria-estar-minando-criptomonedas-sepas-990933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='El antivirus de tu PC podría estar minando criptomonedas sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-ix-llega-espana-rozando-90000-euros-990727'>El BMW iX llega a España rozando los 90.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-ix-llega-espana-rozando-90000-euros-990727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-bmw-ix-50-xdrive-2022-2488887.jpg' alt='El BMW iX llega a España rozando los 90.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-redefine-thinkpad-x1-carbon-g10-yoga-g7-x1-nano-g2-987247'>Lenovo redefine los ThinkPad X1 con el Carbon G10, el Yoga G7 y el X1 Nano G2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-redefine-thinkpad-x1-carbon-g10-yoga-g7-x1-nano-g2-987247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-thinkpad-x1-carbon-2579051.jpg' alt='Lenovo redefine los ThinkPad X1 con el Carbon G10, el Yoga G7 y el X1 Nano G2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llega-ces-2022-idea-potenciar-interconexion-dispositivos-android-990819'>Google llega al CES 2022 con la idea de potenciar la interconexión entre dispositivos Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-llega-ces-2022-idea-potenciar-interconexion-dispositivos-android-990819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-2578775.jpg' alt='Google llega al CES 2022 con la idea de potenciar la interconexión entre dispositivos Android' />
     </a>
 </div>
 
