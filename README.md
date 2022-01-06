@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143'>Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-forerunner-245-vs-polar-vantage-m-2577403.jpg' alt='Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743'>7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura</a></h4>
     <a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/teletrabajo-1882145.jpg' alt='7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199'>Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plato-cuchillo-tenedor-2577547.jpg' alt='Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059'>Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-matebook-14s-2577261.jpg' alt='Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€' />
     </a>
 </div>
 
