@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323'>Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal </a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-antigenos-2579611.jpg' alt='Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749'>Por qué los descapotables no se llevan bien con los alerones</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mazda-mx-5-na-2457739.jpg' alt='Por qué los descapotables no se llevan bien con los alerones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-991287'>Samsung muestra todo lo que tiene preparado para los teléfonos plegables y hay diseños completamente futuristas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-991287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-2579607.jpg' alt='Samsung muestra todo lo que tiene preparado para los teléfonos plegables y hay diseños completamente futuristas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285'>Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-banandose-satisfyer-primer-plano-2577775.jpg' alt='Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285'>Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335'>Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/selfie-2539295.jpg' alt='Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-aplicaciones-estar-motivados-empezar-2022-985471'>Los mejores consejos y aplicaciones para estar motivados para empezar 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-aplicaciones-estar-motivados-empezar-2022-985471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/2022-2569297.jpg' alt='Los mejores consejos y aplicaciones para estar motivados para empezar 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245'>Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-2579487.jpg' alt='Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros' />
     </a>
 </div>
 
