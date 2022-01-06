@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199'>Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plato-cuchillo-tenedor-2577547.jpg' alt='Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059'>Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-matebook-14s-2577261.jpg' alt='Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917'>Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-8-gb-ram-windows-10-instalado-solo-cuesta-364-euros-2578983.jpg' alt='Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925'>El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-portatil-2553575.jpg' alt='El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día' />
     </a>
 </div>
 
