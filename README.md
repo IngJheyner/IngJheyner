@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295'>Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cargadores-movil-2479139.jpg' alt='Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199'>Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plato-cuchillo-tenedor-2577547.jpg' alt='Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951'>Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/razer-project-sophia-2579121.jpg' alt='Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917'>Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-8-gb-ram-windows-10-instalado-chollo-990917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-8-gb-ram-windows-10-instalado-solo-cuesta-364-euros-2578983.jpg' alt='Este portátil con 8 GB de RAM y Windows 10 instalado solo cuesta 264 euros' />
     </a>
 </div>
 
