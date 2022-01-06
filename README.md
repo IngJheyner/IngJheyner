@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/francia-multa-google-facebook-210-millones-euros-cookies-tienen-culpa-991321'>Francia multa a Google y a Facebook con 210 millones de euros y las cookies tienen la culpa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/francia-multa-google-facebook-210-millones-euros-cookies-tienen-culpa-991321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Francia multa a Google y a Facebook con 210 millones de euros y las cookies tienen la culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309'>La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcast-2579623.jpg' alt='La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327'>Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas </a></h4>
     <a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg' alt='Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323'>Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal </a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-antigenos-2579611.jpg' alt='Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal ' />
     </a>
 </div>
 
