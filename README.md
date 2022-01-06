@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059'>Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-matebook-14s-2577261.jpg' alt='Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947'>Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925'>El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bug-windows-microsoft-soluciono-hace-9-anos-pero-no-forzo-instalar-sigue-siendo-explotado-malware-hoy-dia-990925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-portatil-2553575.jpg' alt='El bug de Windows que Microsoft solucionó hace 9 años, pero no forzó a instalar, y que sigue siendo explotado por malware hoy día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733'>Spider-Man No Way Home ya es la película de Sony más taquillera de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-ya-pelicula-sony-taquillera-historia-990733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Spider-Man No Way Home ya es la película de Sony más taquillera de la historia' />
     </a>
 </div>
 
