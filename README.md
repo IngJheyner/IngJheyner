@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211'>Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bmw-iq-tiene-acabado-ink-puedes-cambiar-color-movil-2579415.jpg' alt='Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/copiar-pegar-comandos-te-encuentras-paginas-web-peligroso-motivo-991199'>Copiar y pegar comandos que te encuentras en páginas web es peligroso y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/copiar-pegar-comandos-te-encuentras-paginas-web-peligroso-motivo-991199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg' alt='Copiar y pegar comandos que te encuentras en páginas web es peligroso y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-982373'>Sistemas de calefacción para calentarse sin necesidad de electricidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-982373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chimenea-2564801.jpg' alt='Sistemas de calefacción para calentarse sin necesidad de electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191'>Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143'>Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-forerunner-245-vs-polar-vantage-m-2577403.jpg' alt='Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743'>7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/teletrabajo-1882145.jpg' alt='7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/problemas-comunes-aplicacion-midgt-990735'>Los problemas más comunes con la aplicación miDGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/problemas-comunes-aplicacion-midgt-990735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mi-dgt-2573721.jpg' alt='Los problemas más comunes con la aplicación miDGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295'>Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cargadores-movil-2479139.jpg' alt='Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial' />
     </a>
 </div>
 
