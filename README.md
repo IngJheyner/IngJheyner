@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191'>Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143'>Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-forerunner-245-vs-polar-vantage-m-2577403.jpg' alt='Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295'>Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cargadores-movil-2479139.jpg' alt='Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199'>Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-eliminar-marcas-cuchillos-tenedores-platos-forma-facil-rapida-990199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plato-cuchillo-tenedor-2577547.jpg' alt='Cómo eliminar las marcas de cuchillos y tenedores de los platos de forma fácil y rápida' />
     </a>
 </div>
 
