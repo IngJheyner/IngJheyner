@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285'>Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-banandose-satisfyer-primer-plano-2577775.jpg' alt='Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285'>Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335'>Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/selfie-2539295.jpg' alt='Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245'>Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-2579487.jpg' alt='Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-991175'>Vota en los Premios ComputerHoy 2021: finalistas a la mejor plataforma de entretenimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-991175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-2579371.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a la mejor plataforma de entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227'>Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra' />
     </a>
 </div>
 
