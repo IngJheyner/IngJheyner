@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307'>Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-2579621.jpg' alt='Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753'>Esta ha sido la película más taquillera de 2021 en Japón</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/evangelion-3010-thrice-upon-time-2574539.jpg' alt='Esta ha sido la película más taquillera de 2021 en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327'>Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg' alt='Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323'>Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal </a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-antigenos-2579611.jpg' alt='Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749'>Por qué los descapotables no se llevan bien con los alerones</a></h4>
     <a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mazda-mx-5-na-2457739.jpg' alt='Por qué los descapotables no se llevan bien con los alerones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-991287'>Samsung muestra todo lo que tiene preparado para los teléfonos plegables y hay diseños completamente futuristas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-991287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-muestra-todo-tiene-preparado-telefonos-plegables-hay-disenos-completamente-futuristas-2579607.jpg' alt='Samsung muestra todo lo que tiene preparado para los teléfonos plegables y hay diseños completamente futuristas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285'>Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/satisfyer-high-fashion-modelo-vibrador-alta-gama-ahora-oferta-49-euros-990285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-banandose-satisfyer-primer-plano-2577775.jpg' alt='Satisfyer High Fashion es el modelo de vibrador de alta gama que ahora está en oferta por 49 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285'>Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-991285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple llegarían este año, aunque lo harían de forma intermitente' />
     </a>
 </div>
 
