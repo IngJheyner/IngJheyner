@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227'>Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empieza-probar-tres-maneras-diferentes-ver-contenido-feed-991229'>Instagram empieza a probar tres maneras diferentes de ver el contenido del feed</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empieza-probar-tres-maneras-diferentes-ver-contenido-feed-991229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram empieza a probar tres maneras diferentes de ver el contenido del feed' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/portatil-barato'>Consejos y guía para comprar un portátil barato en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/portatil-barato' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/joven-portatil-2578483.jpg' alt='Consejos y guía para comprar un portátil barato en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/20-accesorios-vas-necesitar-nuevo-movil-990841'>20 accesorios que vas a necesitar con tu nuevo móvil</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/20-accesorios-vas-necesitar-nuevo-movil-990841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487725.jpg' alt='20 accesorios que vas a necesitar con tu nuevo móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211'>Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bmw-iq-tiene-acabado-ink-puedes-cambiar-color-movil-2579415.jpg' alt='Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/copiar-pegar-comandos-te-encuentras-paginas-web-peligroso-motivo-991199'>Copiar y pegar comandos que te encuentras en páginas web es peligroso y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/copiar-pegar-comandos-te-encuentras-paginas-web-peligroso-motivo-991199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg' alt='Copiar y pegar comandos que te encuentras en páginas web es peligroso y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-982373'>Sistemas de calefacción para calentarse sin necesidad de electricidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sistemas-calefaccion-calentarse-necesidad-electricidad-982373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chimenea-2564801.jpg' alt='Sistemas de calefacción para calentarse sin necesidad de electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191'>Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-echa-freno-trae-nuevo-controles-volumen-enviar-contenido-pixel-991191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-6-pixel-6-pro-son-nuevos-terminales-gama-alta-google-2505959.jpg' alt='Google echa el freno y trae de nuevo los controles de volumen al enviar contenido en sus Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143'>Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/garmin-forerunner-245-vs-polar-vantage-m-comparativa-cual-mejor-990143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-forerunner-245-vs-polar-vantage-m-2577403.jpg' alt='Garmin Forerunner 245 vs Polar Vantage M: comparativa de características entre dos relojes running baratos' />
     </a>
 </div>
 
