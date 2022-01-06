@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335'>Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-herramientas-eliminar-objetos-personas-fotos-movil-968335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/selfie-2539295.jpg' alt='Las mejores herramientas para eliminar objetos y personas de fotos desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-aplicaciones-estar-motivados-empezar-2022-985471'>Los mejores consejos y aplicaciones para estar motivados para empezar 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-aplicaciones-estar-motivados-empezar-2022-985471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/2022-2569297.jpg' alt='Los mejores consejos y aplicaciones para estar motivados para empezar 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245'>Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-991245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/empieza-ano-ahorrando-factura-luz-lavadora-eficiente-alta-capacidad-oferta-354-euros-2579487.jpg' alt='Empieza el año ahorrando en la factura de la luz con una lavadora eficiente con alta capacidad y en oferta por 354 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-991175'>Vota en los Premios ComputerHoy 2021: finalistas a la mejor plataforma de entretenimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-991175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejor-plataforma-entretenimiento-2579371.jpg' alt='Vota en los Premios ComputerHoy 2021: finalistas a la mejor plataforma de entretenimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227'>Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-samsung-galaxy-s22-s22-plus-s22-ultra-991227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Esto es todo lo que sabemos de los nuevos Samsung Galaxy S22, S22 Plus y S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empieza-probar-tres-maneras-diferentes-ver-contenido-feed-991229'>Instagram empieza a probar tres maneras diferentes de ver el contenido del feed</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empieza-probar-tres-maneras-diferentes-ver-contenido-feed-991229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram empieza a probar tres maneras diferentes de ver el contenido del feed' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/portatil-barato'>Consejos y guía para comprar un portátil barato en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/portatil-barato' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/joven-portatil-2578483.jpg' alt='Consejos y guía para comprar un portátil barato en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/20-accesorios-vas-necesitar-nuevo-movil-990841'>20 accesorios que vas a necesitar con tu nuevo móvil</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/20-accesorios-vas-necesitar-nuevo-movil-990841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487725.jpg' alt='20 accesorios que vas a necesitar con tu nuevo móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211'>Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-ix-tiene-acabado-ink-puedes-cambiar-color-movil-991211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bmw-iq-tiene-acabado-ink-puedes-cambiar-color-movil-2579415.jpg' alt='Este BMW iX tiene acabado e-ink y lo puedes cambiar de color desde tu móvil' />
     </a>
 </div>
 
