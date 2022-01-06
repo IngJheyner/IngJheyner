@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309'>La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcast-2579623.jpg' alt='La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307'>Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-2579621.jpg' alt='Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323'>Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal </a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-mercadona-espana-no-vende-test-antigenos-tienen-portugal-991323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-antigenos-2579611.jpg' alt='Esta es la razón por la que Mercadona en España no vende test de antígenos, y que sí tienen en Portugal ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749'>Por qué los descapotables no se llevan bien con los alerones</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/descapotables-no-llevan-bien-alerones-990749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mazda-mx-5-na-2457739.jpg' alt='Por qué los descapotables no se llevan bien con los alerones' />
     </a>
 </div>
 
