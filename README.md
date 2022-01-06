@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743'>7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-trucos-ahorrar-electricidad-cuando-teletrabajas-pagar-menos-factura-990743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/teletrabajo-1882145.jpg' alt='7 trucos para ahorrar electricidad cuando teletrabajas y pagar menos en la factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/problemas-comunes-aplicacion-midgt-990735'>Los problemas más comunes con la aplicación miDGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/problemas-comunes-aplicacion-midgt-990735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mi-dgt-2573721.jpg' alt='Los problemas más comunes con la aplicación miDGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295'>Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-ipad-ipad-air-ipad-pro-son-baratos-oficial-990295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cargadores-movil-2479139.jpg' alt='Mejores cargadores los iPad, iPad Air o iPad Pro que son más baratos que el oficial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059'>Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14s-portatil-poderoso-procesador-i5-512gb-ssd-ahora-rebajado-poco-1000eu-990059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-matebook-14s-2577261.jpg' alt='Huawei MateBook 14s es un portátil con un poderoso procesador i5 y 512GB de SSD que ahora está rebajado a poco más de 1.000€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947'>Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acusan-google-pagar-apple-no-desarrolle-propio-motor-busqueda-990947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/google-2547401.jpg' alt='Acusan a Google de pagar a Apple para que no desarrolle su propio motor de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951'>Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/project-sophia-escritorio-gaming-modular-todos-gamers-esperaban-llega-silla-juego-990951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/razer-project-sophia-2579121.jpg' alt='Razer Project Sophia, el escritorio gaming modular que todos los gamers esperaban… y llega con silla a juego' />
     </a>
 </div>
 
