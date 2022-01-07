@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275'>Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-ultraflex-25-2577757.jpg' alt='Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apple-lleva-anos-probando-prototipos-iphone-plegable-pero-ninguno-convence-991703'>Apple lleva años probando prototipos del iPhone plegable pero ninguno le convence</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-lleva-anos-probando-prototipos-iphone-plegable-pero-ninguno-convence-991703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg' alt='Apple lleva años probando prototipos del iPhone plegable pero ninguno le convence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-pagamos-nosotros-ganancias-record-fabricantes-991649'>La crisis de los semiconductores la pagamos nosotros: ganancias récord de los fabricantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-pagamos-nosotros-ganancias-record-fabricantes-991649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sede-samsung-2553963.jpg' alt='La crisis de los semiconductores la pagamos nosotros: ganancias récord de los fabricantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655'>Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cowboy-bebop-2530717.jpeg' alt='Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/ocurriendo-bitcoin-991645'>Qué está ocurriendo con el Bitcoin y a qué se debe su caída en picado</a></h4>
     <a href='https://computerhoy.com/noticias/ocurriendo-bitcoin-991645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579963.jpg' alt='Qué está ocurriendo con el Bitcoin y a qué se debe su caída en picado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-607-computer-hoy-984975'>¡Ya está en tu quiosco el número 607 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-607-computer-hoy-984975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-607-2577457.jpg' alt='¡Ya está en tu quiosco el número 607 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tiene-actuar-caso-tener-averia-carretera-991579'>Así se tiene que actuar en caso de tener una avería en carretera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tiene-actuar-caso-tener-averia-carretera-991579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-averia-2579857.jpg' alt='Así se tiene que actuar en caso de tener una avería en carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sonos-tenia-razon-google-habia-copiado-disenos-altavoces-5-patentes-plagiadas-991603'>Sonos tenía razón, Google les había copiado los diseños de sus altavoces: hasta 5 patentes plagiadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sonos-tenia-razon-google-habia-copiado-disenos-altavoces-5-patentes-plagiadas-991603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/altavoz-sonos-move.jpg' alt='Sonos tenía razón, Google les había copiado los diseños de sus altavoces: hasta 5 patentes plagiadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-vuelve-lanzar-robot-cocina-mini-monsieur-cuisine-ninos-991611'>Lidl vuelve a lanzar el robot de cocina Mini Monsieur Cuisine que es perfecto para los más pequeños de la casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-vuelve-lanzar-robot-cocina-mini-monsieur-cuisine-ninos-991611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-monsieur-cuisine-2579901.jpg' alt='Lidl vuelve a lanzar el robot de cocina Mini Monsieur Cuisine que es perfecto para los más pequeños de la casa' />
     </a>
 </div>
 
