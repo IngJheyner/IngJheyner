@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653'>Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-13-2579999.jpg' alt='Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817'>Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2580441.jpg' alt='Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117'>Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/poco-x3-pro-vs-xiaomi-remdi-10-2577329.jpg' alt='Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795'>Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639'>24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amafit-gtr-2e-2579967.jpg' alt='24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799'>Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anticipa-metaverso-museo-20-aniversario-xbox-donde-hay-sala-dedicada-ti-2541857.jpg' alt='Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rinden-camaras-oneplus-10-pro-991757'>Así rinden las cámaras del OnePlus 10 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rinden-camaras-oneplus-10-pro-991757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-2578657.jpg' alt='Así rinden las cámaras del OnePlus 10 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759'>La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/petra-canon-tunel-piedra-2580217.jpg' alt='La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología' />
     </a>
 </div>
 
