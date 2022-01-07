@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-smart-clock-2-te-da-posibilidad-cargar-dispositivos-991713'>Lenovo lanza su Smart Clock 2 que te da la posibilidad de cargar tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-smart-clock-2-te-da-posibilidad-cargar-dispositivos-991713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-2580161.jpg' alt='Lenovo lanza su Smart Clock 2 que te da la posibilidad de cargar tus dispositivos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799'>Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anticipa-metaverso-museo-20-aniversario-xbox-donde-hay-sala-dedicada-ti-2541857.jpg' alt='Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275'>Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-ultraflex-25-2577757.jpg' alt='Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rinden-camaras-oneplus-10-pro-991757'>Así rinden las cámaras del OnePlus 10 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rinden-camaras-oneplus-10-pro-991757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-2578657.jpg' alt='Así rinden las cámaras del OnePlus 10 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-lleva-anos-probando-prototipos-iphone-plegable-pero-ninguno-convence-991703'>Apple lleva años probando prototipos del iPhone plegable pero ninguno le convence</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-lleva-anos-probando-prototipos-iphone-plegable-pero-ninguno-convence-991703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg' alt='Apple lleva años probando prototipos del iPhone plegable pero ninguno le convence' />
+    <h4><a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759'>La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/petra-canon-tunel-piedra-2580217.jpg' alt='La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-pagamos-nosotros-ganancias-record-fabricantes-991649'>La crisis de los semiconductores la pagamos nosotros: ganancias récord de los fabricantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-pagamos-nosotros-ganancias-record-fabricantes-991649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sede-samsung-2553963.jpg' alt='La crisis de los semiconductores la pagamos nosotros: ganancias récord de los fabricantes' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-gratis-epic-games-store-matando-dioses-humanidad-991769'>Este es el nuevo juego gratis de la Epic Games Store: matando dioses por la humanidad</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-gratis-epic-games-store-matando-dioses-humanidad-991769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videojuego-2580231.jpg' alt='Este es el nuevo juego gratis de la Epic Games Store: matando dioses por la humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655'>Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cowboy-bebop-2530717.jpeg' alt='Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761'>Escribe que quieres dibujar y la IA de Wombo.art los hace por ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wombo-2580221.jpg' alt='Escribe que quieres dibujar y la IA de Wombo.art los hace por ti' />
     </a>
 </div>
 
