@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913'>Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-2580541.jpg' alt='Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/lufthansa-vuelos-vacios-cumplir-cupo-desperdicio-economico-medioambiental-991917'>Aerolíneas como Lufthansa tendrán que fletar 18.000 vuelos vacíos para cumplir su cupo, un desperdicio económico y medioambiental</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/lufthansa-vuelos-vacios-cumplir-cupo-desperdicio-economico-medioambiental-991917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/aviones-lufthansa-1922267.jpg' alt='Aerolíneas como Lufthansa tendrán que fletar 18.000 vuelos vacíos para cumplir su cupo, un desperdicio económico y medioambiental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/spyker-regresara-ano-quedar-bancarrota-ya-conocen-algunos-detalles-991551'>Spyker regresará este año tras quedar en bancarrota y ya se conocen algunos detalles</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/spyker-regresara-ano-quedar-bancarrota-ya-conocen-algunos-detalles-991551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/coches-deportivos-olvidados-2034451.jpg' alt='Spyker regresará este año tras quedar en bancarrota y ya se conocen algunos detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-991885'>El teléfono plegable de Google aparece en Geekbench dando pistas acerca de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-991885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='El teléfono plegable de Google aparece en Geekbench dando pistas acerca de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883'>Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/redmi-lector-huellas-debajo-pantalla-lcd-1887511.jpg' alt='Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-sin-iva-fnac-mejores-ofertas-991701'>Días sin IVA de FNAC: mejores ofertas que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dias-sin-iva-fnac-mejores-ofertas-991701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Días sin IVA de FNAC: mejores ofertas que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-ver-netflix-hbo-disney-2580319.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653'>Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-13-2579999.jpg' alt='Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817'>Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2580441.jpg' alt='Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie' />
     </a>
 </div>
 
