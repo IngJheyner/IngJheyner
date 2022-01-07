@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/e3-2022-volvera-online-aumento-contagios-991571'>El E3 2022 volverá a celebrarse solamente online tras el aumento de contagios</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/e3-2022-volvera-online-aumento-contagios-991571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/e3-2021-2225999.jpg' alt='El E3 2022 volverá a celebrarse solamente online tras el aumento de contagios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173'>iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ipad-vs-ipad-air-2577469.jpg' alt='iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-modo-limpiar-pantalla-mac-forma-gratuita-990759'>El mejor modo de limpiar la pantalla de tu Mac de forma gratuita</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-modo-limpiar-pantalla-mac-forma-gratuita-990759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390083.jpg' alt='El mejor modo de limpiar la pantalla de tu Mac de forma gratuita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/5-suv-llegan-2022-idea-romper-mercado-990755'>5 SUV que llegarán en 2022 con el objetivo de romper el mercado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/5-suv-llegan-2022-idea-romper-mercado-990755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/5-suv-ponen-venta-2022-2575397.jpg' alt='5 SUV que llegarán en 2022 con el objetivo de romper el mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-991337'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-991337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2579633.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-macbook-pro-991239'>Mejores cargadores para los MacBook Pro con carga rápida y a mejor precio que el oficial</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-macbook-pro-991239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/puertos-portatil-macbook-pro-16-pulgadas-2579477.jpg' alt='Mejores cargadores para los MacBook Pro con carga rápida y a mejor precio que el oficial' />
     </a>
 </div>
 
