@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/nuevos-juegos-pokemon-guardianes-galaxia-rebajas-50-videojuegos-worten-991663'>Los nuevos juegos de Pokémon, Guardianes de la Galaxia y más: rebajas de hasta el 50% en videojuegos en Worten</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/nuevos-juegos-pokemon-guardianes-galaxia-rebajas-50-videojuegos-worten-991663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/marvels-guardians-galaxy-2580001.jpg' alt='Los nuevos juegos de Pokémon, Guardianes de la Galaxia y más: rebajas de hasta el 50% en videojuegos en Worten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929'>El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-pantalla-inteligente-google-nest-hub-chromecast-3-solo-cuesta-75-euros-2580557.jpg' alt='El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923'>Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921'>Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp' />
     </a>
 </div>
 
