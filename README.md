@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795'>Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639'>24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amafit-gtr-2e-2579967.jpg' alt='24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799'>Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-criptomonedas-apoyan-desarrollo-buen-funcionamiento-metaverso-991799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-anticipa-metaverso-museo-20-aniversario-xbox-donde-hay-sala-dedicada-ti-2541857.jpg' alt='Estas son las criptomonedas que apoyan el desarrollo y buen funcionamiento del Metaverso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759'>La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/industria/roca-dura-mundo-perforada-necesidad-tocarla-nueva-tecnologia-991759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/petra-canon-tunel-piedra-2580217.jpg' alt='La roca más dura del mundo es perforada sin necesidad de tocarla con esta nueva tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-gratis-epic-games-store-matando-dioses-humanidad-991769'>Este es el nuevo juego gratis de la Epic Games Store: matando dioses por la humanidad</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-gratis-epic-games-store-matando-dioses-humanidad-991769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videojuego-2580231.jpg' alt='Este es el nuevo juego gratis de la Epic Games Store: matando dioses por la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761'>Escribe que quieres dibujar y la IA de Wombo.art los hace por ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wombo-2580221.jpg' alt='Escribe que quieres dibujar y la IA de Wombo.art los hace por ti' />
     </a>
 </div>
 
