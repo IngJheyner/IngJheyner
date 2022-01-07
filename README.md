@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-991337'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-991337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2579633.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-macbook-pro-991239'>Mejores cargadores para los MacBook Pro con carga rápida y a mejor precio que el oficial</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-macbook-pro-991239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/puertos-portatil-macbook-pro-16-pulgadas-2579477.jpg' alt='Mejores cargadores para los MacBook Pro con carga rápida y a mejor precio que el oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-pulseras-tipo-pandora-5-minutos-mover-solo-dedo-990863'>Cómo limpiar las pulseras tipo Pandora en 5 minutos y sin mover un solo dedo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-pulseras-tipo-pandora-5-minutos-mover-solo-dedo-990863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pulsera-pandora-2578843.jpg' alt='Cómo limpiar las pulseras tipo Pandora en 5 minutos y sin mover un solo dedo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309'>La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcasts-991309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ultima-novedad-spotify-hara-vida-facil-personas-escuchan-podcast-2579623.jpg' alt='La última novedad de Spotify hará la vida más fácil a las personas que escuchan podcasts' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307'>Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-991307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-no-queda-atras-lleva-fire-tv-coches-plantar-cara-google-apple-2579621.jpg' alt='Amazon no se queda atrás y lleva Fire TV a los coches para plantar cara a Google y a Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753'>Esta ha sido la película más taquillera de 2021 en Japón</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/evangelion-3010-thrice-upon-time-2574539.jpg' alt='Esta ha sido la película más taquillera de 2021 en Japón' />
     </a>
 </div>
 
