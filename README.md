@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929'>El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-pantalla-inteligente-google-nest-hub-chromecast-3-solo-cuesta-75-euros-2580557.jpg' alt='El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915'>Firefox da marcha atrás y desactiva las donaciones en criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg' alt='Firefox da marcha atrás y desactiva las donaciones en criptomonedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921'>Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913'>Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-2580541.jpg' alt='Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets' />
     </a>
 </div>
 
