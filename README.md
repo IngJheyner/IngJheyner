@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-smart-clock-2-te-da-posibilidad-cargar-dispositivos-991713'>Lenovo lanza su Smart Clock 2 que te da la posibilidad de cargar tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-smart-clock-2-te-da-posibilidad-cargar-dispositivos-991713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-2580161.jpg' alt='Lenovo lanza su Smart Clock 2 que te da la posibilidad de cargar tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275'>Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€</a></h4>
     <a href='https://computerhoy.com/noticias/life/cecotec-ultraflex-25-bici-spinning-oferta-299eu-990275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-ultraflex-25-2577757.jpg' alt='Ponte en forma tras las navidades con esta bici de spinning Cecotec UltraFlex 25, solo cuesta 299€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655'>Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancelo-cowboy-bebop-fans-firmado-991655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cowboy-bebop-2530717.jpeg' alt='Netflix canceló la serie nada más estrenarla, pero más de 100.000 fans han firmado para que vuelva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ocurriendo-bitcoin-991645'>Qué está ocurriendo con el Bitcoin y a qué se debe su caída en picado</a></h4>
-    <a href='https://computerhoy.com/noticias/ocurriendo-bitcoin-991645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579963.jpg' alt='Qué está ocurriendo con el Bitcoin y a qué se debe su caída en picado' />
     </a>
 </div>
 
