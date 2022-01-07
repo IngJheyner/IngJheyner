@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-oppo-te-interesa-calendario-actualizaciones-coloros-12-991591'>Si tienes un OPPO esto te interesa: calendario de actualizaciones a ColorOS 12</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-oppo-te-interesa-calendario-actualizaciones-coloros-12-991591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509577.jpg' alt='Si tienes un OPPO esto te interesa: calendario de actualizaciones a ColorOS 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/e3-2022-volvera-online-aumento-contagios-991571'>El E3 2022 volverá a celebrarse solamente online tras el aumento de contagios</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/e3-2022-volvera-online-aumento-contagios-991571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/e3-2021-2225999.jpg' alt='El E3 2022 volverá a celebrarse solamente online tras el aumento de contagios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejos-banco-espana-tienes-algun-problema-tarjeta-credito-990785'>Los consejos del Banco de España si tienes algún problema con tu tarjeta de crédito</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-banco-espana-tienes-algun-problema-tarjeta-credito-990785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-credito-2449445.jpg' alt='Los consejos del Banco de España si tienes algún problema con tu tarjeta de crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-suv-llegan-2022-idea-romper-mercado-990755'>5 SUV que llegarán en 2022 con el objetivo de romper el mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-suv-llegan-2022-idea-romper-mercado-990755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/5-suv-ponen-venta-2022-2575397.jpg' alt='5 SUV que llegarán en 2022 con el objetivo de romper el mercado' />
     </a>
 </div>
 
