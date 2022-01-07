@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/john-deere-tractor-autonomo-8-ruedas-991937'>John Deere presenta su impresionante tractor autónomo de 8 ruedas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/john-deere-tractor-autonomo-8-ruedas-991937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='John Deere presenta su impresionante tractor autónomo de 8 ruedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/nuevos-juegos-pokemon-guardianes-galaxia-rebajas-50-videojuegos-worten-991663'>Los nuevos juegos de Pokémon, Guardianes de la Galaxia y más: rebajas de hasta el 50% en videojuegos en Worten</a></h4>
     <a href='https://computerhoy.com/listas/gaming/nuevos-juegos-pokemon-guardianes-galaxia-rebajas-50-videojuegos-worten-991663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/marvels-guardians-galaxy-2580001.jpg' alt='Los nuevos juegos de Pokémon, Guardianes de la Galaxia y más: rebajas de hasta el 50% en videojuegos en Worten' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557'>Blockbuster podría transformarse en un servicio de streaming "revolucionario"</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blockbuster-2575049.jpg' alt='Blockbuster podría transformarse en un servicio de streaming "revolucionario"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923'>Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve' />
     </a>
 </div>
 
