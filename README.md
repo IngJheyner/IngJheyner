@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883'>Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/redmi-lector-huellas-debajo-pantalla-lcd-1887511.jpg' alt='Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-sin-iva-fnac-mejores-ofertas-991701'>Días sin IVA de FNAC: mejores ofertas que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dias-sin-iva-fnac-mejores-ofertas-991701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Días sin IVA de FNAC: mejores ofertas que puedes conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-ver-netflix-hbo-disney-2580319.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817'>Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-previsiones-coinbase-web3-criptomonedas-no-dejan-indiferente-nadie-991817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2580441.jpg' alt='Las 10 previsiones de Coinbase sobre Web3 y las criptomonedas que no dejan indiferente a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117'>Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x3-pro-xiaomi-redmi-10-comparativa-caracteristicas-cual-es-mejor-990117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/poco-x3-pro-vs-xiaomi-remdi-10-2577329.jpg' alt='Poco X3 Pro y Xiaomi Redmi 10, ¿cuál es mejor y en qué se diferencian?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795'>Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk' />
     </a>
 </div>
 
