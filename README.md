@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915'>Firefox da marcha atrás y desactiva las donaciones en criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg' alt='Firefox da marcha atrás y desactiva las donaciones en criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557'>Blockbuster podría transformarse en un servicio de streaming "revolucionario"</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blockbuster-2575049.jpg' alt='Blockbuster podría transformarse en un servicio de streaming "revolucionario"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923'>Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-recomendaciones-guardia-civil-te-quedas-atrapado-coche-nieve-991923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Estas son las recomendaciones de la Guardia Civil si te quedas atrapado en tu coche por la nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921'>Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-claro-tipo-notificaciones-recibes-whatsapp-991921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='Ahora tendrás más claro qué tipo de notificaciones recibes de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913'>Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-991913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-sigue-intentando-convencer-usuarios-nuevos-formatos-ahora-llegan-videos-cortos-reaccionar-tweets-2580541.jpg' alt='Twitter sigue intentando convencer a los usuarios con nuevos formatos y ahora llegan los vídeos cortos para reaccionar a tweets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/lufthansa-vuelos-vacios-cumplir-cupo-desperdicio-economico-medioambiental-991917'>Aerolíneas como Lufthansa tendrán que fletar 18.000 vuelos vacíos para cumplir su cupo, un desperdicio económico y medioambiental</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/lufthansa-vuelos-vacios-cumplir-cupo-desperdicio-economico-medioambiental-991917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/aviones-lufthansa-1922267.jpg' alt='Aerolíneas como Lufthansa tendrán que fletar 18.000 vuelos vacíos para cumplir su cupo, un desperdicio económico y medioambiental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/spyker-regresara-ano-quedar-bancarrota-ya-conocen-algunos-detalles-991551'>Spyker regresará este año tras quedar en bancarrota y ya se conocen algunos detalles</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/spyker-regresara-ano-quedar-bancarrota-ya-conocen-algunos-detalles-991551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/coches-deportivos-olvidados-2034451.jpg' alt='Spyker regresará este año tras quedar en bancarrota y ya se conocen algunos detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-991885'>El teléfono plegable de Google aparece en Geekbench dando pistas acerca de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-991885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='El teléfono plegable de Google aparece en Geekbench dando pistas acerca de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883'>Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximos-moviles-xiaomi-podrian-tener-lector-huellas-toda-pantalla-991883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/redmi-lector-huellas-debajo-pantalla-lcd-1887511.jpg' alt='Los próximos móviles de Xiaomi podrían tener el lector de huellas en toda la pantalla' />
     </a>
 </div>
 
