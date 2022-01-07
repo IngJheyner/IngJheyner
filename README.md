@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-boba-fett-rebelde-limpiadora-991805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-ver-netflix-hbo-disney-2580319.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Boba Fett, Rebelde y la limpiadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653'>Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-zenbook-13-pantalla-oled-oferta-1099-euros-991653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-13-2579999.jpg' alt='Este portátil Asus ZenBook 13 tiene una pantalla OLED, 16GB de RAM y un potente procesador Core i7 por poco más de 1.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795'>Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/abren-reservas-espana-starlink-servicio-internet-elon-musk-991795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Se abren las reservas en España de Starlink, el servicio de internet de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639'>24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/24-dias-bateria-pantalla-oled-monitorizacion-salud-reloj-inteligente-amazfit-gtr-2e-94-euros-chollo-991639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amafit-gtr-2e-2579967.jpg' alt='24 días de batería, pantalla OLED y monitorización de tu salud: este reloj inteligente Amazfit GTR 2e por 94 euros es un chollo' />
     </a>
 </div>
 
