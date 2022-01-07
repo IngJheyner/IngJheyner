@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-pulseras-tipo-pandora-5-minutos-mover-solo-dedo-990863'>Cómo limpiar las pulseras tipo Pandora en 5 minutos y sin mover un solo dedo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-pulseras-tipo-pandora-5-minutos-mover-solo-dedo-990863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pulsera-pandora-2578843.jpg' alt='Cómo limpiar las pulseras tipo Pandora en 5 minutos y sin mover un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/francia-multa-google-facebook-210-millones-euros-cookies-tienen-culpa-991321'>Francia multa a Google y a Facebook con 210 millones de euros y las cookies tienen la culpa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/francia-multa-google-facebook-210-millones-euros-cookies-tienen-culpa-991321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Francia multa a Google y a Facebook con 210 millones de euros y las cookies tienen la culpa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753'>Esta ha sido la película más taquillera de 2021 en Japón</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ha-sido-pelicula-taquillera-2021-japon-990753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/evangelion-3010-thrice-upon-time-2574539.jpg' alt='Esta ha sido la película más taquillera de 2021 en Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327'>Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-4-multas-podrian-ponerte-mismo-invierno-probable-no-conozcas-991327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg' alt='Estas son las 4 multas que podrían ponerte este mismo invierno y que es probable que no conozcas ' />
     </a>
 </div>
 
