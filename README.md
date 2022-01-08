@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-norton-instala-minero-criptomonedas-comision-991939'>El antivirus Norton instala un minero de criptomonedas y se queda con el 15% de las ganancias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/antivirus-norton-instala-minero-criptomonedas-comision-991939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/antivirus-norton-instala-minero-criptomonedas-queda-15-ganancias-2580613.jpg' alt='El antivirus Norton instala un minero de criptomonedas y se queda con el 15% de las ganancias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/john-deere-tractor-autonomo-8-ruedas-991937'>John Deere presenta su impresionante tractor autónomo de 8 ruedas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/john-deere-tractor-autonomo-8-ruedas-991937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='John Deere presenta su impresionante tractor autónomo de 8 ruedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915'>Firefox da marcha atrás y desactiva las donaciones en criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg' alt='Firefox da marcha atrás y desactiva las donaciones en criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557'>Blockbuster podría transformarse en un servicio de streaming "revolucionario"</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-podria-transformarse-servicio-streaming-revolucionario-991557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blockbuster-2575049.jpg' alt='Blockbuster podría transformarse en un servicio de streaming "revolucionario"' />
     </a>
 </div>
 
