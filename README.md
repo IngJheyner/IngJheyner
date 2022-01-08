@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727'>El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205'>Científicos entrenan peces de colores para conducir una pecera con ruedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peces-controlando-pecera-2580997.jpg' alt='Científicos entrenan peces de colores para conducir una pecera con ruedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203'>Crean esta mano robótica tan precisa que puede coger un microchip con unas pinzas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mano-robotica-precisa-2580995.jpg' alt='Crean esta mano robótica tan precisa que puede coger un microchip con unas pinzas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187'>Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-9-2580955.jpg' alt='Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181'>Los productos tecnológicos más locos que se han visto en CES 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cyrclephone-20-2580937.jpg' alt='Los productos tecnológicos más locos que se han visto en CES 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/facebook-portal-14-review-opinion-980605'>Facebook Portal+ de 14", análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/facebook-portal-14-review-opinion-980605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-facebook-portal-2569813.jpg' alt='Facebook Portal+ de 14", análisis y opinión' />
     </a>
 </div>
 
