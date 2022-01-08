@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187'>Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-9-2580955.jpg' alt='Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181'>Los productos tecnológicos más locos que se han visto en CES 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cyrclephone-20-2580937.jpg' alt='Los productos tecnológicos más locos que se han visto en CES 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361'>Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ssd-externa-2519417.jpg' alt='Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377'>Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teclado-realme-book-2465683.jpg' alt='Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11' />
     </a>
 </div>
 
