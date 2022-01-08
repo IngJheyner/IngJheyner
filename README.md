@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169'>PayPal Coin: así sería la criptomoneda que prepara PayPal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/paypal-2580915.jpg' alt='PayPal Coin: así sería la criptomoneda que prepara PayPal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361'>Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ssd-externa-2519417.jpg' alt='Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377'>Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teclado-realme-book-2465683.jpg' alt='Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/roners-979033'>Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/roners-979033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/yissvic-sous-vide-2559501.jpg' alt='Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-reyes-te-han-regalado-cheque-regalo-amazon-991881'>Qué comprar si los Reyes te han regalado un cheque regalo de Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-reyes-te-han-regalado-cheque-regalo-amazon-991881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532635.jpg' alt='Qué comprar si los Reyes te han regalado un cheque regalo de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221'>Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140419.jpg' alt='Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6' />
     </a>
 </div>
 
