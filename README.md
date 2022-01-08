@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181'>Los productos tecnológicos más locos que se han visto en CES 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/productos-tecnologicos-locos-han-visto-ces-2022-992181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cyrclephone-20-2580937.jpg' alt='Los productos tecnológicos más locos que se han visto en CES 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/facebook-portal-14-review-opinion-980605'>Facebook Portal+ de 14", análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/facebook-portal-14-review-opinion-980605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-facebook-portal-2569813.jpg' alt='Facebook Portal+ de 14", análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169'>PayPal Coin: así sería la criptomoneda que prepara PayPal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/paypal-2580915.jpg' alt='PayPal Coin: así sería la criptomoneda que prepara PayPal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377'>Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teclado-realme-book-2465683.jpg' alt='Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289'>Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smartmi-heat-convector-2580567.jpg' alt='Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/roners-979033'>Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/roners-979033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/yissvic-sous-vide-2559501.jpg' alt='Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber' />
     </a>
 </div>
 
