@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231'>Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/playstation-vr-2581017.jpg' alt='Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727'>El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197'>Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187'>Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-9-2580955.jpg' alt='Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes' />
     </a>
 </div>
 
