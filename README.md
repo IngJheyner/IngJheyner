@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289'>Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smartmi-heat-convector-2580567.jpg' alt='Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/roners-979033'>Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/roners-979033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/yissvic-sous-vide-2559501.jpg' alt='Roners para cocinar a baja temperatura: modelos, diferencias y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-reyes-te-han-regalado-cheque-regalo-amazon-991881'>Qué comprar si los Reyes te han regalado un cheque regalo de Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-reyes-te-han-regalado-cheque-regalo-amazon-991881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532635.jpg' alt='Qué comprar si los Reyes te han regalado un cheque regalo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221'>Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140419.jpg' alt='Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-cumplas-propositos-ano-nuevo-990815'>Las mejores apps para que cumplas tus propósitos de año nuevo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-cumplas-propositos-ano-nuevo-990815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pesas-2578769.jpg' alt='Las mejores apps para que cumplas tus propósitos de año nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/10-trabajos-mejor-pagados-no-necesita-experiencia-991633'>Los 10 trabajos mejor pagados para los que no se necesita ningún tipo de experiencia</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/10-trabajos-mejor-pagados-no-necesita-experiencia-991633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/10-trabajos-mejor-pagados-no-necesita-ningun-tipo-experiencia-2579921.jpg' alt='Los 10 trabajos mejor pagados para los que no se necesita ningún tipo de experiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alexa-mision-artemis-luna-nasa-992135'> 'Alexa, aterriza en la Luna': el asistente de Amazon se usará en la misión Artemisa de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alexa-mision-artemis-luna-nasa-992135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alexa-aterriza-luna-asistente-amazon-usara-mision-artemisa-nasa-2580801.jpg' alt=' 'Alexa, aterriza en la Luna': el asistente de Amazon se usará en la misión Artemisa de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-concha-marina-pintar-casa-sin-manchar-992133'>El truco viral de "la concha marina" para pintar una casa sin manchar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-concha-marina-pintar-casa-sin-manchar-992133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/truco-viral-concha-mar-pintar-casa-manchar-2580799.jpg' alt='El truco viral de "la concha marina" para pintar una casa sin manchar' />
     </a>
 </div>
 
