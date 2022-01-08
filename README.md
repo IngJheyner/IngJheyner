@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-concha-marina-pintar-casa-sin-manchar-992133'>El truco viral de "la concha marina" para pintar una casa sin manchar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-concha-marina-pintar-casa-sin-manchar-992133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/truco-viral-concha-mar-pintar-casa-manchar-2580799.jpg' alt='El truco viral de "la concha marina" para pintar una casa sin manchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-norton-instala-minero-criptomonedas-comision-991939'>El antivirus Norton instala un minero de criptomonedas y se queda con el 15% de las ganancias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/antivirus-norton-instala-minero-criptomonedas-comision-991939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/antivirus-norton-instala-minero-criptomonedas-queda-15-ganancias-2580613.jpg' alt='El antivirus Norton instala un minero de criptomonedas y se queda con el 15% de las ganancias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929'>El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-pantalla-inteligente-google-nest-hub-2-chromecast-3-oferta-991929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-pantalla-inteligente-google-nest-hub-chromecast-3-solo-cuesta-75-euros-2580557.jpg' alt='El pack con la pantalla inteligente Google Nest Hub 2 y Chromecast 3 solo cuesta 75 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915'>Firefox da marcha atrás y desactiva las donaciones en criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/firefox-da-marcha-atras-desactiva-donaciones-criptomonedas-991915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg' alt='Firefox da marcha atrás y desactiva las donaciones en criptomonedas' />
     </a>
 </div>
 
