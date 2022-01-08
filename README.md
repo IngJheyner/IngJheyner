@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203'>Crean esta mano robótica tan precisa que puede coger un microchip con unas pinzas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203'>Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mano-robotica-precisa-2580995.jpg' alt='Crean esta mano robótica tan precisa que puede coger un microchip con unas pinzas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mano-robotica-precisa-2580995.jpg' alt='Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas' />
     </a>
 </div>
 
