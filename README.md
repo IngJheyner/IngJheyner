@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197'>Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187'>Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-9-solo-131-euros-ultimo-regalo-reyes-992187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-9-2580955.jpg' alt='Este Xiaomi Redmi Note 9 a solo 131 euros es tu último regalo de reyes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169'>PayPal Coin: así sería la criptomoneda que prepara PayPal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paypal-coin-seria-criptomoneda-prepara-paypal-992169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/paypal-2580915.jpg' alt='PayPal Coin: así sería la criptomoneda que prepara PayPal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361'>Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-senales-podrian-indicar-ssd-empezando-fallar-deberias-cambiarlo-957361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ssd-externa-2519417.jpg' alt='Las 5 señales que podrían indicar que tu SSD está empezando a fallar y deberías cambiarlo' />
     </a>
 </div>
 
