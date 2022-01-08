@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377'>Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-remapear-teclas-cambiar-atajos-teclado-windows-11-974377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/teclado-realme-book-2465683.jpg' alt='Cómo remapear las teclas y cambiar los atajos de teclado en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289'>Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/smartmi-heat-convector-1s-analisis-review-opinion-982289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smartmi-heat-convector-2580567.jpg' alt='Smartmi Heat Convector 1S, probamos el calefactor silencioso e inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221'>Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/mejores-routers-wifi-6-ps5-acelerar-descargas-partidas-online-990221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140419.jpg' alt='Mejores routers para PS5: cómo acelerar descargas y partidas online con el WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-cumplas-propositos-ano-nuevo-990815'>Las mejores apps para que cumplas tus propósitos de año nuevo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-cumplas-propositos-ano-nuevo-990815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pesas-2578769.jpg' alt='Las mejores apps para que cumplas tus propósitos de año nuevo' />
     </a>
 </div>
 
