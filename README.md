@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549'>Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava</a></h4>
+    <a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/periodico-1922-intento-adivinar-como-seria-tecnologia-2022-casi-clava-2579831.jpg' alt='Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243'>Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideapad-duet-chromebook-2581027.jpg' alt='Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205'>Científicos entrenan peces de colores para conducir una pecera con ruedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peces-controlando-pecera-2580997.jpg' alt='Científicos entrenan peces de colores para conducir una pecera con ruedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203'>Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mano-robotica-precisa-2580995.jpg' alt='Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas' />
     </a>
 </div>
 
