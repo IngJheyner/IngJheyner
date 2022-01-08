@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243'>Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideapad-duet-chromebook-2581027.jpg' alt='Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231'>Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/playstation-vr-2581017.jpg' alt='Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203'>Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-mano-robotica-tan-precisa-puede-coger-microchip-unas-pinzas-992203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mano-robotica-precisa-2580995.jpg' alt='Esta mano robótica es tan precisa que puede coger un microchip con unas pinzas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197'>Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/edge-gestionara-frecuencia-actualizacion-pantalla-mejorar-navegacion-bateria-992197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Edge gestionará la frecuencia de actualización de la pantalla para mejorar la navegación y la batería' />
     </a>
 </div>
 
