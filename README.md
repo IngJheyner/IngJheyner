@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515'>7 postres sencillos con turrón para aprovechar las sobras de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-postres-sencillos-turron-aprovechar-sobras-navidad-2581367.jpg' alt='7 postres sencillos con turrón para aprovechar las sobras de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907'>Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huawei-matebook-d-15-2021-2294187.jpg' alt='Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665'>¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/govee-flow-pro-2580019.jpg' alt='¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185'>Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487557.jpg' alt='Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-series-favoritas-ganar-globos-oro-2022-992497'>Dónde ver las películas y series favoritas a ganar los Globos de Oro 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-series-favoritas-ganar-globos-oro-2022-992497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg' alt='Dónde ver las películas y series favoritas a ganar los Globos de Oro 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cadena-hotelera-convierte-pc-windows-chromeos-despues-ataque-ransomware-992483'>Esta cadena hotelera convierte sus PC con Windows a ChromeOS después de un ataque de ransomware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cadena-hotelera-convierte-pc-windows-chromeos-despues-ataque-ransomware-992483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ransomware-2581315.jpg' alt='Esta cadena hotelera convierte sus PC con Windows a ChromeOS después de un ataque de ransomware' />
     </a>
 </div>
 
