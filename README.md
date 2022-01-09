@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-anos-presentacion-iphone-steve-jobs-992513'>Hoy se cumplen 15 años de la presentación del iPhone, Steve Jobs cambió el mundo para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/15-anos-presentacion-iphone-steve-jobs-992513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoy-cumplen-15-anos-presentacion-iphone-steve-jobs-cambio-mundo-siempre-2581363.jpg' alt='Hoy se cumplen 15 años de la presentación del iPhone, Steve Jobs cambió el mundo para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185'>Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487557.jpg' alt='Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/combinacion-secreta-teclado-podras-salir-cualquier-bloqueo-ordenador-992463'>Con esta combinación secreta de teclado podrás salir de cualquier bloqueo en tu ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/combinacion-secreta-teclado-podras-salir-cualquier-bloqueo-ordenador-992463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/problema-pc-2581285.jpg' alt='Con esta combinación secreta de teclado podrás salir de cualquier bloqueo en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459'>Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-nest-learning-thermostat-2581261.jpg' alt='Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía' />
     </a>
 </div>
 
