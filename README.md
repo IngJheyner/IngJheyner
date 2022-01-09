@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151'>Los 10 peores problemas de Windows 11 y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Los 10 peores problemas de Windows 11 y cómo solucionarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361'>Las 8 cosas que debes hacer cuando te compras un coche nuevo</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-frontal-2560043.jpg' alt='Las 8 cosas que debes hacer cuando te compras un coche nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825'>Nokia Streaming Box 8000, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-streming-box-8000-analisis-opinion-2580341.jpg' alt='Nokia Streaming Box 8000, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675'>Repetidores WiFi para mejorar tu conexión por menos de 40 euros</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repetidor-wifi-2296569.jpg' alt='Repetidores WiFi para mejorar tu conexión por menos de 40 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2021 por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tp-link-2309705.jpg' alt='Los mejores routers de 2021 por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237'>Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robots-acuosos-2581025.jpg' alt='Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma' />
     </a>
 </div>
 
