@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459'>Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-nest-learning-thermostat-2581261.jpg' alt='Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255'>DJI Action 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/review-dji-action-2-2575887.jpg' alt='DJI Action 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361'>Las 8 cosas que debes hacer cuando te compras un coche nuevo</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-frontal-2560043.jpg' alt='Las 8 cosas que debes hacer cuando te compras un coche nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825'>Nokia Streaming Box 8000, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-streming-box-8000-analisis-opinion-2580341.jpg' alt='Nokia Streaming Box 8000, análisis y opinión' />
     </a>
 </div>
 
