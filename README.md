@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339'>La vacuna contra la alergia a los perros, más cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vacuna-alergia-perros-cerca-2579635.jpg' alt='La vacuna contra la alergia a los perros, más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549'>Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava</a></h4>
     <a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/periodico-1922-intento-adivinar-como-seria-tecnologia-2022-casi-clava-2579831.jpg' alt='Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727'>El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205'>Científicos entrenan peces de colores para conducir una pecera con ruedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-peces-colores-conducir-pecera-ruedas-992205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peces-controlando-pecera-2580997.jpg' alt='Científicos entrenan peces de colores para conducir una pecera con ruedas' />
     </a>
 </div>
 
