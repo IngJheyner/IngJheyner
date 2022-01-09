@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521'>Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-cocina-85-menos-calorias-solo-cuesta-58-euros-2581371.jpg' alt='Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519'>El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/efecto-2022-real-honda-acura-vuelven-atras-tiempo-ano-2002-2581369.jpg' alt='El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515'>7 postres sencillos con turrón para aprovechar las sobras de Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-postres-sencillos-turron-aprovechar-sobras-navidad-2581367.jpg' alt='7 postres sencillos con turrón para aprovechar las sobras de Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665'>¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/govee-flow-pro-2580019.jpg' alt='¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-anos-presentacion-iphone-steve-jobs-992513'>Hoy se cumplen 15 años de la presentación del iPhone, Steve Jobs cambió el mundo para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/15-anos-presentacion-iphone-steve-jobs-992513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoy-cumplen-15-anos-presentacion-iphone-steve-jobs-cambio-mundo-siempre-2581363.jpg' alt='Hoy se cumplen 15 años de la presentación del iPhone, Steve Jobs cambió el mundo para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185'>Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/iphone-13-modelos-rebajados-992185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487557.jpg' alt='Los iPhone 13 vuelven a las estanterías de Amazon: estos modelos están rebajados' />
     </a>
 </div>
 
