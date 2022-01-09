@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825'>Nokia Streaming Box 8000, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-streming-box-8000-analisis-opinion-2580341.jpg' alt='Nokia Streaming Box 8000, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/olvidate-qubits-ordenadores-cuanticos-ya-estan-aqui-qutrits-987351'>Olvídate de los qubits de ordenadores cuánticos, ya están aquí los qutrits</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/olvidate-qubits-ordenadores-cuanticos-ya-estan-aqui-qutrits-987351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/qutris-2572805.jpg' alt='Olvídate de los qubits de ordenadores cuánticos, ya están aquí los qutrits' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675'>Repetidores WiFi para mejorar tu conexión por menos de 40 euros</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repetidor-wifi-2296569.jpg' alt='Repetidores WiFi para mejorar tu conexión por menos de 40 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2021 por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tp-link-2309705.jpg' alt='Los mejores routers de 2021 por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237'>Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robots-acuosos-2581025.jpg' alt='Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-flags-chrome-probar-caracteristicas-beta-984819'>Cómo activar Flags en Chrome para probar características beta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-flags-chrome-probar-caracteristicas-beta-984819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/flags-google-chrome-2567831.jpg' alt='Cómo activar Flags en Chrome para probar características beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/han-encontrado-forma-eliminar-dioxido-carbono-emisiones-fabricas-992233'>Han encontrado una forma de eliminar el dióxido de carbono de las emisiones de las fábricas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/han-encontrado-forma-eliminar-dioxido-carbono-emisiones-fabricas-992233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/central-electrica-carbon-2581019.jpg' alt='Han encontrado una forma de eliminar el dióxido de carbono de las emisiones de las fábricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339'>La vacuna contra la alergia a los perros, más cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vacuna-alergia-perros-cerca-2579635.jpg' alt='La vacuna contra la alergia a los perros, más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549'>Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava</a></h4>
-    <a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/periodico-1922-intento-adivinar-como-seria-tecnologia-2022-casi-clava-2579831.jpg' alt='Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava' />
     </a>
 </div>
 
