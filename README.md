@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-series-favoritas-ganar-globos-oro-2022-992497'>Dónde ver las películas y series favoritas a ganar los Globos de Oro 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-series-favoritas-ganar-globos-oro-2022-992497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg' alt='Dónde ver las películas y series favoritas a ganar los Globos de Oro 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cadena-hotelera-convierte-pc-windows-chromeos-despues-ataque-ransomware-992483'>Esta cadena hotelera convierte sus PC con Windows a ChromeOS después de un ataque de ransomware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cadena-hotelera-convierte-pc-windows-chromeos-despues-ataque-ransomware-992483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ransomware-2581315.jpg' alt='Esta cadena hotelera convierte sus PC con Windows a ChromeOS después de un ataque de ransomware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255'>DJI Action 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/review-dji-action-2-2575887.jpg' alt='DJI Action 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-da-paso-acabar-tizen-habria-cerrado-tienda-aplicaciones-moviles-992449'>Samsung da un paso más para acabar con Tizen y habría cerrado su tienda de aplicaciones para sus móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-da-paso-acabar-tizen-habria-cerrado-tienda-aplicaciones-moviles-992449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tizen-samsung-z-2581251.jpg' alt='Samsung da un paso más para acabar con Tizen y habría cerrado su tienda de aplicaciones para sus móviles' />
     </a>
 </div>
 
