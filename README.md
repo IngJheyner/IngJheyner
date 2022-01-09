@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255'>DJI Action 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/dji-action-2-review-opinion-984255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/review-dji-action-2-2575887.jpg' alt='DJI Action 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-da-paso-acabar-tizen-habria-cerrado-tienda-aplicaciones-moviles-992449'>Samsung da un paso más para acabar con Tizen y habría cerrado su tienda de aplicaciones para sus móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-da-paso-acabar-tizen-habria-cerrado-tienda-aplicaciones-moviles-992449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tizen-samsung-z-2581251.jpg' alt='Samsung da un paso más para acabar con Tizen y habría cerrado su tienda de aplicaciones para sus móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151'>Los 10 peores problemas de Windows 11 y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Los 10 peores problemas de Windows 11 y cómo solucionarlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825'>Nokia Streaming Box 8000, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nokia-streaming-box-8000-review-opinion-991825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nokia-streming-box-8000-analisis-opinion-2580341.jpg' alt='Nokia Streaming Box 8000, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/olvidate-qubits-ordenadores-cuanticos-ya-estan-aqui-qutrits-987351'>Olvídate de los qubits de ordenadores cuánticos, ya están aquí los qutrits</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/olvidate-qubits-ordenadores-cuanticos-ya-estan-aqui-qutrits-987351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/qutris-2572805.jpg' alt='Olvídate de los qubits de ordenadores cuánticos, ya están aquí los qutrits' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675'>Repetidores WiFi para mejorar tu conexión por menos de 40 euros</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/repetidores-wifi-mejorar-conexion-menos-40-euros-991675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repetidor-wifi-2296569.jpg' alt='Repetidores WiFi para mejorar tu conexión por menos de 40 euros' />
     </a>
 </div>
 
