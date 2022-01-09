@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547'>Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fotografia-arte-mayor-resolucion-historia-717000-megapixeles-2579827.jpg' alt='Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521'>Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-cocina-85-menos-calorias-solo-cuesta-58-euros-2581371.jpg' alt='Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907'>Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huawei-matebook-d-15-2021-2294187.jpg' alt='Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665'>¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paneles-rgb-govee-flow-pro-iluminacion-tv-monitor-barato-991665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/govee-flow-pro-2580019.jpg' alt='¿Te gustaría tener un sistema de iluminación Ambilight sin cambiar de TV? Estas barras de luz Govee Flow Pro crean el mismo efecto inmersivo' />
     </a>
 </div>
 
