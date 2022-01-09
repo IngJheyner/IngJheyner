@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/combinacion-secreta-teclado-podras-salir-cualquier-bloqueo-ordenador-992463'>Con esta combinación secreta de teclado podrás salir de cualquier bloqueo en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/combinacion-secreta-teclado-podras-salir-cualquier-bloqueo-ordenador-992463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/problema-pc-2581285.jpg' alt='Con esta combinación secreta de teclado podrás salir de cualquier bloqueo en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459'>Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-termostato-inteligente-google-solo-180-euros-amazon-ahorres-energia-992459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-nest-learning-thermostat-2581261.jpg' alt='Ahora el termostato inteligente de Google está a solo 180 euros en Amazon para que ahorres energía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151'>Los 10 peores problemas de Windows 11 y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-peores-problemas-windows-11-como-solucionarlos-977151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Los 10 peores problemas de Windows 11 y cómo solucionarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361'>Las 8 cosas que debes hacer cuando te compras un coche nuevo</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/8-cosas-debes-hacer-cuando-te-compras-coche-nuevo-980361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coche-frontal-2560043.jpg' alt='Las 8 cosas que debes hacer cuando te compras un coche nuevo' />
     </a>
 </div>
 
