@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237'>Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-robot-acuoso-auto-alimentado-capaz-trabajar-forma-autonoma-992237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robots-acuosos-2581025.jpg' alt='Este es el primer robot acuoso auto alimentado capaz de trabajar de forma autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-flags-chrome-probar-caracteristicas-beta-984819'>Cómo activar Flags en Chrome para probar características beta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-flags-chrome-probar-caracteristicas-beta-984819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/flags-google-chrome-2567831.jpg' alt='Cómo activar Flags en Chrome para probar características beta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/han-encontrado-forma-eliminar-dioxido-carbono-emisiones-fabricas-992233'>Han encontrado una forma de eliminar el dióxido de carbono de las emisiones de las fábricas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/han-encontrado-forma-eliminar-dioxido-carbono-emisiones-fabricas-992233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/central-electrica-carbon-2581019.jpg' alt='Han encontrado una forma de eliminar el dióxido de carbono de las emisiones de las fábricas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339'>La vacuna contra la alergia a los perros, más cerca</a></h4>
     <a href='https://computerhoy.com/noticias/life/vacuna-alergia-perros-991339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vacuna-alergia-perros-cerca-2579635.jpg' alt='La vacuna contra la alergia a los perros, más cerca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549'>Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava</a></h4>
     <a href='https://computerhoy.com/noticias/life/periodico-1922-predice-tecnologia-2022-991549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/periodico-1922-intento-adivinar-como-seria-tecnologia-2022-casi-clava-2579831.jpg' alt='Este periódico de 1922 intentó adivinar cómo sería la tecnología en 2022, y lo clava' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243'>Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-entretenimiento-productividad-llave-exito-solo-259-euros-992243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideapad-duet-chromebook-2581027.jpg' alt='Esta tablet para entretenimiento y productividad es la llave del éxito y está a solo 259 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231'>Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-patenta-escaner-3d-agrega-objetos-mundo-real-juegos-992231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/playstation-vr-2581017.jpg' alt='Sony patenta un escáner 3D que agrega objetos del mundo real a los juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727'>El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-oferta-especial-amazon-991727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='El último reloj inteligente de Huawei está 40 euros más barato en Amazon: Huawei Watch GT 3 por solo 209 euros y envío gratis' />
     </a>
 </div>
 
