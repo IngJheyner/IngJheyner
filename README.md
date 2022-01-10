@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123'>Las videollamadas con hologramas llegan a las casas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videollamadas-hologramas-llegan-casas-2582321.jpg' alt='Las videollamadas con hologramas llegan a las casas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115'>Los auriculares Sony WH1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares Sony WH1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103'>Utilizan las baterías de un Tesla parado para minar criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/siraj-raval-2582287.jpg' alt='Utilizan las baterías de un Tesla parado para minar criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-993095'>Shazam lanza una extensión para Chrome con la podrás saber el nombre de cualquier canción que suena en tu navegador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-993095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-2582293.jpg' alt='Shazam lanza una extensión para Chrome con la podrás saber el nombre de cualquier canción que suena en tu navegador' />
     </a>
 </div>
 
