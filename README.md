@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773'>Los 17 apellidos más comunes en España en la actualidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-bebe-2504115.jpg' alt='Los 17 apellidos más comunes en España en la actualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-eliges-te-guste-cafe-solo-genes-991687'>No eliges que te guste el café solo o con leche, está en tus genes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-eliges-te-guste-cafe-solo-genes-991687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-solo-2580073.jpg' alt='No eliges que te guste el café solo o con leche, está en tus genes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bonnie-clyde-escribieron-carta-agradecimiento-henry-ford-991559'>Bonnie y Clyde le escribieron esta carta de agradecimiento a Henry Ford</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bonnie-clyde-escribieron-carta-agradecimiento-henry-ford-991559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bonnie-clyde-ford-2576339.jpg' alt='Bonnie y Clyde le escribieron esta carta de agradecimiento a Henry Ford' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-992675'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-992675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2581509.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547'>Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fotografia-arte-mayor-resolucion-historia-717000-megapixeles-2579827.jpg' alt='Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521'>Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/freidora-sin-aceite-oferta-992521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-cocina-85-menos-calorias-solo-cuesta-58-euros-2581371.jpg' alt='Esta freidora sin aceite cocina con un 85% menos de calorías, y solo cuesta 58 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519'>El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/efecto-2022-real-honda-acura-vuelven-atras-tiempo-ano-2002-2581369.jpg' alt='El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002' />
     </a>
 </div>
 
