@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-demuestra-plataforma-despegue-tambien-recogedor-cohetes-espaciales-992797'>SpaceX demuestra que su plataforma de despegue también es un recogedor de cohetes espaciales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spacex-demuestra-plataforma-despegue-tambien-recogedor-cohetes-espaciales-992797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg' alt='SpaceX demuestra que su plataforma de despegue también es un recogedor de cohetes espaciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/debes-tener-cuenta-comprar-rebajas-2022-992803'>Qué debes tener en cuenta al comprar en las rebajas de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-tener-cuenta-comprar-rebajas-2022-992803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bolsa-compra-ropa-2581715.jpg' alt='Qué debes tener en cuenta al comprar en las rebajas de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-tipo-energia-renovable-generada-almacenada-fondo-mar-992805'>Nuevo tipo de energía renovable: generada y almacenada en el fondo del mar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-tipo-energia-renovable-generada-almacenada-fondo-mar-992805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/energia-renovable-2581757.jpg' alt='Nuevo tipo de energía renovable: generada y almacenada en el fondo del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747'>Así sería el diseño del iPhone 14 con notch superreducido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='Así sería el diseño del iPhone 14 con notch superreducido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769'>El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ejercito-suizo-2581661.jpg' alt='El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/amazon-mediamarkt-abren-guerra-precios-ultimo-patinete-xiaomi-mi-electric-scooter-3-baja-ya-precio-minimo-historico-992689'>Amazon y MediaMarkt abren la guerra de precios en el último patinete Xiaomi, el Mi Electric Scooter 3, que baja ya a su precio mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/amazon-mediamarkt-abren-guerra-precios-ultimo-patinete-xiaomi-mi-electric-scooter-3-baja-ya-precio-minimo-historico-992689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Amazon y MediaMarkt abren la guerra de precios en el último patinete Xiaomi, el Mi Electric Scooter 3, que baja ya a su precio mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/omicron-red-pixar-estrenara-disney-gratuita-992751'>Ómicron golpea de nuevo a los cines: la nueva película de Pixar se estrenará en Disney+ y será gratuita</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/omicron-red-pixar-estrenara-disney-gratuita-992751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-pixar-2581613.jpg' alt='Ómicron golpea de nuevo a los cines: la nueva película de Pixar se estrenará en Disney+ y será gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707'>Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder' />
     </a>
 </div>
 
