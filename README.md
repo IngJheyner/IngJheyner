@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/estan-trabajando-version-need-speed-moviles-992829'>Están trabajando en una versión de Need for Speed para móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/estan-trabajando-version-need-speed-moviles-992829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/need-speed-hot-pursuit-remastered-2245359.jpg' alt='Están trabajando en una versión de Need for Speed para móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-5-pro-llegaria-surge-c2-destinado-mejorar-fotografia-movil-993097'>El Xiaomi Mix 5 Pro llegaría con el Surge C2 destinado a mejorar la fotografía móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-5-pro-llegaria-surge-c2-destinado-mejorar-fotografia-movil-993097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mix-5-llegaria-surge-c2-destinado-mejorar-fotografia-movil-2582301.jpg' alt='El Xiaomi Mix 5 Pro llegaría con el Surge C2 destinado a mejorar la fotografía móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103'>Utilizan las baterías de un Tesla parado para minar criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/siraj-raval-2582287.jpg' alt='Utilizan las baterías de un Tesla parado para minar criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/frio-provoca-barco-llegue-rusia-decenas-coches-congelados-992817'>El frío provoca que un barco llegue a Rusia con decenas de coches congelados</a></h4>
     <a href='https://computerhoy.com/noticias/motor/frio-provoca-barco-llegue-rusia-decenas-coches-congelados-992817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coches-congelados-buque-vladivostok-2576813.jpg' alt='El frío provoca que un barco llegue a Rusia con decenas de coches congelados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lado-oscuro-empleados-robots-993105'>El lado oscuro de los empleados robots: un empresario que los ha "contratado" explica por qué prefiere a los humanos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lado-oscuro-empleados-robots-993105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lado-oscuro-empleados-robots-empresario-ha-contratado-explica-prefiere-humanos-2582291.jpg' alt='El lado oscuro de los empleados robots: un empresario que los ha "contratado" explica por qué prefiere a los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-como-debes-actuar-ves-aproximarse-ambulancia-carretera-993099'>La DGT aclara cómo debes actuar si ves aproximarse una ambulancia en carretera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-como-debes-actuar-ves-aproximarse-ambulancia-carretera-993099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ambulancia-2582285.jpg' alt='La DGT aclara cómo debes actuar si ves aproximarse una ambulancia en carretera' />
     </a>
 </div>
 
