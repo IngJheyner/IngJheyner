@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-gafas-realidad-mixta-apple-no-estarian-disenadas-metaverso-993025'>Los últimos rumores apuntan a que las gafas de realidad mixta de Apple no estarían diseñadas para el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-gafas-realidad-mixta-apple-no-estarian-disenadas-metaverso-993025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Los últimos rumores apuntan a que las gafas de realidad mixta de Apple no estarían diseñadas para el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721'>5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kobo-sage-2581579.jpg' alt='5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037'>Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/memorias-usb-2572585.jpg' alt='Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031'>Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos' />
     </a>
 </div>
 
