@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-gafas-realidad-mixta-apple-no-estarian-disenadas-metaverso-993025'>Los últimos rumores apuntan a que las gafas de realidad mixta de Apple no estarían diseñadas para el metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-gafas-realidad-mixta-apple-no-estarian-disenadas-metaverso-993025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Los últimos rumores apuntan a que las gafas de realidad mixta de Apple no estarían diseñadas para el metaverso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103'>Utilizan las baterías de un Tesla parado para minar criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/siraj-raval-2582287.jpg' alt='Utilizan las baterías de un Tesla parado para minar criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721'>5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kobo-sage-2581579.jpg' alt='5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-993095'>Shazam lanza una extensión para Chrome con la podrás saber el nombre de cualquier canción que suena en tu navegador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-993095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shazam-lanza-extension-chrome-podras-saber-nombre-cualquier-cancion-suena-navegador-2582293.jpg' alt='Shazam lanza una extensión para Chrome con la podrás saber el nombre de cualquier canción que suena en tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitch-cambia-politicas-respecto-copyright-ahora-streamers-podran-ser-multados-cantidades-millonarias-993023'>Twitch cambia sus políticas respecto al copyright y ahora los streamers podrán ser multados con cantidades millonarias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitch-cambia-politicas-respecto-copyright-ahora-streamers-podran-ser-multados-cantidades-millonarias-993023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/app-twitch-2214807.jpg' alt='Twitch cambia sus políticas respecto al copyright y ahora los streamers podrán ser multados con cantidades millonarias' />
+    <h4><a href='https://computerhoy.com/noticias/motor/frio-provoca-barco-llegue-rusia-decenas-coches-congelados-992817'>El frío provoca que un barco llegue a Rusia con decenas de coches congelados</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/frio-provoca-barco-llegue-rusia-decenas-coches-congelados-992817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coches-congelados-buque-vladivostok-2576813.jpg' alt='El frío provoca que un barco llegue a Rusia con decenas de coches congelados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-raspberry-pi-detectar-malware-forma-sorprendente-993021'>Utilizan una Raspberry Pi para detectar malware de una forma sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-raspberry-pi-detectar-malware-forma-sorprendente-993021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Utilizan una Raspberry Pi para detectar malware de una forma sorprendente' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lado-oscuro-empleados-robots-993105'>El lado oscuro de los empleados robots: un empresario que los ha "contratado" explica por qué prefiere a los humanos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lado-oscuro-empleados-robots-993105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lado-oscuro-empleados-robots-empresario-ha-contratado-explica-prefiere-humanos-2582291.jpg' alt='El lado oscuro de los empleados robots: un empresario que los ha "contratado" explica por qué prefiere a los humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037'>Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/memorias-usb-2572585.jpg' alt='Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-como-debes-actuar-ves-aproximarse-ambulancia-carretera-993099'>La DGT aclara cómo debes actuar si ves aproximarse una ambulancia en carretera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-como-debes-actuar-ves-aproximarse-ambulancia-carretera-993099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ambulancia-2582285.jpg' alt='La DGT aclara cómo debes actuar si ves aproximarse una ambulancia en carretera' />
     </a>
 </div>
 
