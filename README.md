@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721'>5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-kobo-sage-mejor-lector-ebooks-alternativa-kindle-992721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kobo-sage-2581579.jpg' alt='5 motivos por los que merece la pena comprar el Kobo Sage, alternativa perfecta al Kindle Oasis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitch-cambia-politicas-respecto-copyright-ahora-streamers-podran-ser-multados-cantidades-millonarias-993023'>Twitch cambia sus políticas respecto al copyright y ahora los streamers podrán ser multados con cantidades millonarias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitch-cambia-politicas-respecto-copyright-ahora-streamers-podran-ser-multados-cantidades-millonarias-993023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/app-twitch-2214807.jpg' alt='Twitch cambia sus políticas respecto al copyright y ahora los streamers podrán ser multados con cantidades millonarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-raspberry-pi-detectar-malware-forma-sorprendente-993021'>Utilizan una Raspberry Pi para detectar malware de una forma sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-raspberry-pi-detectar-malware-forma-sorprendente-993021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Utilizan una Raspberry Pi para detectar malware de una forma sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037'>Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-recibes-usb-agradecimiento-buzon-casa-estan-infectados-ransomware-993037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/memorias-usb-2572585.jpg' alt='Cuidado si recibes un USB de agradecimiento en tu buzón de casa: están infectados con ransomware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031'>Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/iphone-3-saldria-mercado-antes-esperado-marzo-abril-2022-993017'>El iPhone SE 3 saldría al mercado antes de lo esperado: marzo o abril de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/iphone-3-saldria-mercado-antes-esperado-marzo-abril-2022-993017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/iphone-2020-2090835.jpg' alt='El iPhone SE 3 saldría al mercado antes de lo esperado: marzo o abril de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963'>Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videojuego-2582061.jpg' alt='Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ha-detallado-casi-total-exactitud-estructura-funcionamiento-omicron-992967'>Esta IA ha detallado casi con total exactitud la estructura y funcionamiento de Omicron</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-ha-detallado-casi-total-exactitud-estructura-funcionamiento-omicron-992967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/omicron-covid-2546417.jpg' alt='Esta IA ha detallado casi con total exactitud la estructura y funcionamiento de Omicron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971'>Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magic-v-2582059.jpg' alt='Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles' />
     </a>
 </div>
 
