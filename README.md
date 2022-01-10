@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707'>Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-muerta-criptomonedas-poco-conocidas-992723'>Una experta da a Shiba Inu por muerta y apuesta por estas 3 criptomonedas poco conocidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-muerta-criptomonedas-poco-conocidas-992723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2581583.jpg' alt='Una experta da a Shiba Inu por muerta y apuesta por estas 3 criptomonedas poco conocidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773'>Los 17 apellidos más comunes en España en la actualidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-bebe-2504115.jpg' alt='Los 17 apellidos más comunes en España en la actualidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-eliges-te-guste-cafe-solo-genes-991687'>No eliges que te guste el café solo o con leche, está en tus genes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-eliges-te-guste-cafe-solo-genes-991687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-solo-2580073.jpg' alt='No eliges que te guste el café solo o con leche, está en tus genes' />
     </a>
 </div>
 
