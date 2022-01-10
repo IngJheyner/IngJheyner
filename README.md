@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971'>Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magic-v-2582059.jpg' alt='Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-pantallas-tactiles-oled-usaran-grafeno-lugar-metales-raros-cada-vez-escasos-992945'>Las nuevas pantallas táctiles OLED usarán grafeno en lugar de metales raros, cada vez más escasos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-pantallas-tactiles-oled-usaran-grafeno-lugar-metales-raros-cada-vez-escasos-992945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/pantalla-tactil-screenpad-plus.jpg' alt='Las nuevas pantallas táctiles OLED usarán grafeno en lugar de metales raros, cada vez más escasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791'>Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-gopro-hero-10-black-2568071.jpg' alt='Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/antifrenado-cascada-guia-nuevos-radares-dgt-2022-multas-992915'>¿Antifrenado y Cascada? Guía para entender los nuevos radares de la DGT en 2022 y evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/antifrenado-cascada-guia-nuevos-radares-dgt-2022-multas-992915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='¿Antifrenado y Cascada? Guía para entender los nuevos radares de la DGT en 2022 y evitar multas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gadget-lidl-seca-ropa-zapatos-solo-1499-euros-ideal-invierno-992907'>El gadget de Lidl que seca ropa y zapatos por solo 14,99 euros ideal para el invierno</a></h4>
     <a href='https://computerhoy.com/noticias/life/gadget-lidl-seca-ropa-zapatos-solo-1499-euros-ideal-invierno-992907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/secador-lidl-2581927.jpg' alt='El gadget de Lidl que seca ropa y zapatos por solo 14,99 euros ideal para el invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-sistema-podria-permitirnos-imprimir-propias-pantallas-oled-casa-992885'>Descubren un sistema que podría permitirnos imprimir nuestras propias pantallas OLED en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-sistema-podria-permitirnos-imprimir-propias-pantallas-oled-casa-992885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557125.jpg' alt='Descubren un sistema que podría permitirnos imprimir nuestras propias pantallas OLED en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-obliga-canon-saltarse-sistemas-antipirateria-propias-impresoras-992845'>La crisis de semiconductores obliga a Canon a saltarse los sistemas antipiratería de sus propias impresoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-obliga-canon-saltarse-sistemas-antipirateria-propias-impresoras-992845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/esta-es-forma-correcta-reciclar-toner-cartuchos-impresora.jpg' alt='La crisis de semiconductores obliga a Canon a saltarse los sistemas antipiratería de sus propias impresoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/boomy-aplicacion-web-te-ayudaran-componer-musica-gracias-ia-992859'>Boomy, la aplicación y web que te ayudarán a componer música gracias a su IA</a></h4>
-    <a href='https://computerhoy.com/noticias/boomy-aplicacion-web-te-ayudaran-componer-musica-gracias-ia-992859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/boomy-2581855.jpg' alt='Boomy, la aplicación y web que te ayudarán a componer música gracias a su IA' />
     </a>
 </div>
 
