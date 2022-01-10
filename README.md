@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-992675'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-992675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2581509.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547'>Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/life/ronda-de-noche-rembrandt-fotografia-arte-mayor-resolucion-historia-991547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fotografia-arte-mayor-resolucion-historia-717000-megapixeles-2579827.jpg' alt='Esta es la fotografía de arte con mayor resolución de la historia: 717.000 Megapíxeles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519'>El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002</a></h4>
     <a href='https://computerhoy.com/noticias/motor/efecto-2022-coches-honda-acura-efecto-2yk22-992519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/efecto-2022-real-honda-acura-vuelven-atras-tiempo-ano-2002-2581369.jpg' alt='El Efecto 2022 es real: coches de Honda y Acura vuelven atrás en el tiempo hasta el año 2002' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515'>7 postres sencillos con turrón para aprovechar las sobras de Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-postres-sencillos-turron-aprovechar-sobras-navidad-992515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-postres-sencillos-turron-aprovechar-sobras-navidad-2581367.jpg' alt='7 postres sencillos con turrón para aprovechar las sobras de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907'>Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-oportunidad-oferta-portatil-huawei-matebook-d-15-500-euros-991907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huawei-matebook-d-15-2021-2294187.jpg' alt='Última oportunidad para conseguir este portátil Huawei MateBook D 15 por menos de 500 euros con envío gratis' />
     </a>
 </div>
 
