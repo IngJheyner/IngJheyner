@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747'>Así sería el diseño del iPhone 14 con notch superreducido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='Así sería el diseño del iPhone 14 con notch superreducido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769'>El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ejercito-suizo-2581661.jpg' alt='El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/amazon-mediamarkt-abren-guerra-precios-ultimo-patinete-xiaomi-mi-electric-scooter-3-baja-ya-precio-minimo-historico-992689'>Amazon y MediaMarkt abren la guerra de precios en el último patinete Xiaomi, el Mi Electric Scooter 3, que baja ya a su precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/amazon-mediamarkt-abren-guerra-precios-ultimo-patinete-xiaomi-mi-electric-scooter-3-baja-ya-precio-minimo-historico-992689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg' alt='Amazon y MediaMarkt abren la guerra de precios en el último patinete Xiaomi, el Mi Electric Scooter 3, que baja ya a su precio mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/omicron-red-pixar-estrenara-disney-gratuita-992751'>Ómicron golpea de nuevo a los cines: la nueva película de Pixar se estrenará en Disney+ y será gratuita</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/omicron-red-pixar-estrenara-disney-gratuita-992751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-pixar-2581613.jpg' alt='Ómicron golpea de nuevo a los cines: la nueva película de Pixar se estrenará en Disney+ y será gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707'>Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/swipe-party-amigos-te-ayudaran-elegir-proxima-cita-tinder-992707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tinder.jpg' alt='Swipe Party, tus amigos te ayudarán a elegir tu próxima cita en Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-muerta-criptomonedas-poco-conocidas-992723'>Una experta da a Shiba Inu por muerta y apuesta por estas 3 criptomonedas poco conocidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-muerta-criptomonedas-poco-conocidas-992723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2581583.jpg' alt='Una experta da a Shiba Inu por muerta y apuesta por estas 3 criptomonedas poco conocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/after-life-estrenos-semana-netflix-992683'>Vuelve la serie que te hizo llorar: todos los estrenos de la semana en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/after-life-estrenos-semana-netflix-992683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/after%20life.jpg' alt='Vuelve la serie que te hizo llorar: todos los estrenos de la semana en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733'>Amazon Fire TV Stick vs Fire TV Stick Lite: en qué se diferencian y cuál es el mejor que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-fire-tv-comparativa-2580171.jpg' alt='Amazon Fire TV Stick vs Fire TV Stick Lite: en qué se diferencian y cuál es el mejor que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773'>Los 17 apellidos más comunes en España en la actualidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/17-apellidos-comunes-espana-actualidad-991773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-bebe-2504115.jpg' alt='Los 17 apellidos más comunes en España en la actualidad' />
     </a>
 </div>
 
