@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031'>Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varios-dias-tension-ya-oficial-james-webb-ha-desplegado-principales-sensores-fallos-993031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='Tras varios días de tensión ya es oficial: El James Webb ha desplegado sus principales sensores sin fallos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/iphone-3-saldria-mercado-antes-esperado-marzo-abril-2022-993017'>El iPhone SE 3 saldría al mercado antes de lo esperado: marzo o abril de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/iphone-3-saldria-mercado-antes-esperado-marzo-abril-2022-993017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/iphone-2020-2090835.jpg' alt='El iPhone SE 3 saldría al mercado antes de lo esperado: marzo o abril de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963'>Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videojuego-2582061.jpg' alt='Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971'>Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magic-v-2582059.jpg' alt='Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-pantallas-tactiles-oled-usaran-grafeno-lugar-metales-raros-cada-vez-escasos-992945'>Las nuevas pantallas táctiles OLED usarán grafeno en lugar de metales raros, cada vez más escasos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-pantallas-tactiles-oled-usaran-grafeno-lugar-metales-raros-cada-vez-escasos-992945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/pantalla-tactil-screenpad-plus.jpg' alt='Las nuevas pantallas táctiles OLED usarán grafeno en lugar de metales raros, cada vez más escasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791'>Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-gopro-hero-10-black-2568071.jpg' alt='Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento' />
     </a>
 </div>
 
