@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-obliga-canon-saltarse-sistemas-antipirateria-propias-impresoras-992845'>La crisis de semiconductores obliga a Canon a saltarse los sistemas antipiratería de sus propias impresoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-obliga-canon-saltarse-sistemas-antipirateria-propias-impresoras-992845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/esta-es-forma-correcta-reciclar-toner-cartuchos-impresora.jpg' alt='La crisis de semiconductores obliga a Canon a saltarse los sistemas antipiratería de sus propias impresoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/boomy-aplicacion-web-te-ayudaran-componer-musica-gracias-ia-992859'>Boomy, la aplicación y web que te ayudarán a componer música gracias a su IA</a></h4>
+    <a href='https://computerhoy.com/noticias/boomy-aplicacion-web-te-ayudaran-componer-musica-gracias-ia-992859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/boomy-2581855.jpg' alt='Boomy, la aplicación y web que te ayudarán a componer música gracias a su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cepillo-dientes-electrico-2367713.jpg' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727'>Días sin IVA en MediaMarkt: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-trabajando-ordenador-apple-imac-2581621.jpg' alt='Días sin IVA en MediaMarkt: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-demuestra-plataforma-despegue-tambien-recogedor-cohetes-espaciales-992797'>SpaceX demuestra que su plataforma de despegue también es un recogedor de cohetes espaciales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spacex-demuestra-plataforma-despegue-tambien-recogedor-cohetes-espaciales-992797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg' alt='SpaceX demuestra que su plataforma de despegue también es un recogedor de cohetes espaciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/debes-tener-cuenta-comprar-rebajas-2022-992803'>Qué debes tener en cuenta al comprar en las rebajas de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/debes-tener-cuenta-comprar-rebajas-2022-992803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bolsa-compra-ropa-2581715.jpg' alt='Qué debes tener en cuenta al comprar en las rebajas de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-tipo-energia-renovable-generada-almacenada-fondo-mar-992805'>Nuevo tipo de energía renovable: generada y almacenada en el fondo del mar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-tipo-energia-renovable-generada-almacenada-fondo-mar-992805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/energia-renovable-2581757.jpg' alt='Nuevo tipo de energía renovable: generada y almacenada en el fondo del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747'>Así sería el diseño del iPhone 14 con notch superreducido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-diseno-iphone-14-notch-superreducido-992747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2531325.jpg' alt='Así sería el diseño del iPhone 14 con notch superreducido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769'>El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-suizo-prohibe-uso-whatsapp-telegram-signal-992769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ejercito-suizo-2581661.jpg' alt='El ejército suizo prohíbe el uso de WhatsApp, Telegram y Signal' />
     </a>
 </div>
 
