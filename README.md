@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/take-two-compra-zynga-993131'>Take-Two, productora de GTA V, compra Zynga por 11.200 millones de euros y se convierte en un gigante de los juegos para móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/take-two-compra-zynga-993131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/take-two-productora-gta-v-compra-zynga-11200-millones-euros-convierte-nueva-reina-juegos-moviles-2582355.jpg' alt='Take-Two, productora de GTA V, compra Zynga por 11.200 millones de euros y se convierte en un gigante de los juegos para móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123'>Las videollamadas con hologramas llegan a las casas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videollamadas-hologramas-llegan-casas-2582321.jpg' alt='Las videollamadas con hologramas llegan a las casas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-5-pro-llegaria-surge-c2-destinado-mejorar-fotografia-movil-993097'>El Xiaomi Mix 5 Pro llegaría con el Surge C2 destinado a mejorar la fotografía móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-5-pro-llegaria-surge-c2-destinado-mejorar-fotografia-movil-993097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mix-5-llegaria-surge-c2-destinado-mejorar-fotografia-movil-2582301.jpg' alt='El Xiaomi Mix 5 Pro llegaría con el Surge C2 destinado a mejorar la fotografía móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103'>Utilizan las baterías de un Tesla parado para minar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-baterias-tesla-parado-minar-criptomonedas-993103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/siraj-raval-2582287.jpg' alt='Utilizan las baterías de un Tesla parado para minar criptomonedas' />
     </a>
 </div>
 
