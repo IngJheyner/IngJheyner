@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963'>Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/videojuego-mundo-abierto-pueblo-valenciano-ha-creado-promocionar-fiestas-992963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videojuego-2582061.jpg' alt='Así es el videojuego de mundo abierto que un pueblo valenciano ha creado para promocionar sus fiestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ha-detallado-casi-total-exactitud-estructura-funcionamiento-omicron-992967'>Esta IA ha detallado casi con total exactitud la estructura y funcionamiento de Omicron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-ha-detallado-casi-total-exactitud-estructura-funcionamiento-omicron-992967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/omicron-covid-2546417.jpg' alt='Esta IA ha detallado casi con total exactitud la estructura y funcionamiento de Omicron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971'>Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-v-plegable-snapdragon-8-gen-1-tres-camaras-50-megapixeles-992971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magic-v-2582059.jpg' alt='Así es el Honor Magic V, un plegable con Snapdragon 8 Gen 1 y tres cámaras de 50 megapíxeles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791'>Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-camara-accion-gopro-hero10-ofertas-992791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-gopro-hero-10-black-2568071.jpg' alt='Guerra de precios por la cámara de acción GoPro HERO10: la puedes conseguir con 143 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/antifrenado-cascada-guia-nuevos-radares-dgt-2022-multas-992915'>¿Antifrenado y Cascada? Guía para entender los nuevos radares de la DGT en 2022 y evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/antifrenado-cascada-guia-nuevos-radares-dgt-2022-multas-992915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='¿Antifrenado y Cascada? Guía para entender los nuevos radares de la DGT en 2022 y evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gadget-lidl-seca-ropa-zapatos-solo-1499-euros-ideal-invierno-992907'>El gadget de Lidl que seca ropa y zapatos por solo 14,99 euros ideal para el invierno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gadget-lidl-seca-ropa-zapatos-solo-1499-euros-ideal-invierno-992907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/secador-lidl-2581927.jpg' alt='El gadget de Lidl que seca ropa y zapatos por solo 14,99 euros ideal para el invierno' />
     </a>
 </div>
 
