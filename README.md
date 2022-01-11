@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487'>Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon renueva con cámaras Hasselblad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon renueva con cámaras Hasselblad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463'>Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-integrara-lector-qr-nativo-barra-herramientas-pantalla-bloqueo-993459'>Android 13 integrará un lector QR nativo desde la barra de herramientas y pantalla de bloqueo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-integrara-lector-qr-nativo-barra-herramientas-pantalla-bloqueo-993459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 integrará un lector QR nativo desde la barra de herramientas y pantalla de bloqueo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consecuencias-indirectas-provocan-criptomonedas-medioambiente-993455'>Las consecuencias indirectas que provocan las criptomonedas al medioambiente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consecuencias-indirectas-provocan-criptomonedas-medioambiente-993455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582685.jpg' alt='Las consecuencias indirectas que provocan las criptomonedas al medioambiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-lidl-aspirador-cables-xiaomi-aunque-hay-otra-tienda-vende-barato-993451'>Oferta de Lidl en un aspirador sin cables de Xiaomi, aunque hay otra tienda que lo vende más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-lidl-aspirador-cables-xiaomi-aunque-hay-otra-tienda-vende-barato-993451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-handheld-vacuum-cleaner-light-2582667.jpg' alt='Oferta de Lidl en un aspirador sin cables de Xiaomi, aunque hay otra tienda que lo vende más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-sancionado-saltarse-directivas-privacidad-europeas-cookies-web-covid-993389'>El parlamento europeo sancionado por saltarse las directivas de privacidad europeas con las cookies de su web del COVID</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-sancionado-saltarse-directivas-privacidad-europeas-cookies-web-covid-993389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/parlamento-europeo-2582631.jpg' alt='El parlamento europeo sancionado por saltarse las directivas de privacidad europeas con las cookies de su web del COVID' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-emily-paris-993393'>Netflix renueva por dos temporadas una de sus series más odiadas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-emily-paris-993393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/emily-paris-2-2568523.jpeg' alt='Netflix renueva por dos temporadas una de sus series más odiadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/motor/hyundai-tucson-phev-conclusiones-10000-km-prueba-eslabon-perfecto-llegada-definitiva-electrico-984179'>Hyundai Tucson PHEV, conclusiones tras más de 10.000 km de prueba: el eslabón perfecto hasta la llegada definitiva del eléctrico</a></h4>
-    <a href='https://computerhoy.com/patrocinado/motor/hyundai-tucson-phev-conclusiones-10000-km-prueba-eslabon-perfecto-llegada-definitiva-electrico-984179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hyundai-tucson-phev-2568871.jpg' alt='Hyundai Tucson PHEV, conclusiones tras más de 10.000 km de prueba: el eslabón perfecto hasta la llegada definitiva del eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-oneplus-10-pro-caracteristicas-tecnicas-fecha-lanzamiento-993385'>Así es el nuevo OnePlus 10 Pro: características técnicas y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-oneplus-10-pro-caracteristicas-tecnicas-fecha-lanzamiento-993385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-2578701.jpg' alt='Así es el nuevo OnePlus 10 Pro: características técnicas y fecha de lanzamiento' />
     </a>
 </div>
 
