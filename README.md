@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607'>Esta será la modelo facial que dará vida a Wonder Woman en el videojuego</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wonder-woman-madison-hauck-2577999.jpg' alt='Esta será la modelo facial que dará vida a Wonder Woman en el videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743'>Instagram estaría trabajando en una característica que permitiría organizar las fotos de tu perfil a placer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram estaría trabajando en una característica que permitiría organizar las fotos de tu perfil a placer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763'>Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/alvarez-pallete-ceo-telefonica-2071711.jpg' alt='Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745'>El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603'>Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-vision-eqxx-2577237.jpg' alt='Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-993751'>Consigue hacer funcionar una disquetera de 5,25 pulgadas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-993751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-2583193.jpg' alt='Consigue hacer funcionar una disquetera de 5,25 pulgadas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-multa-entrar-zona-restringida-etiqueta-dgt-equivocada-993749'>¿Cuál es la multa por entrar en una zona restringida con la etiqueta de la DGT equivocada?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-multa-entrar-zona-restringida-etiqueta-dgt-equivocada-993749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='¿Cuál es la multa por entrar en una zona restringida con la etiqueta de la DGT equivocada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955'>Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2582041.jpg' alt='Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros' />
     </a>
 </div>
 
