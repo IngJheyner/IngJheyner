@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-presenta-rtx-3080-12-gb-memoria-precio-especificaciones-993777'>NVIDIA presenta la RTX 3080 con 12 GB de memoria, enfadando aún más a los gamers</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nvidia-presenta-rtx-3080-12-gb-memoria-precio-especificaciones-993777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-presenta-rtx-3080-12-gb-memoria-enfadando-aun-gamers-2583239.jpg' alt='NVIDIA presenta la RTX 3080 con 12 GB de memoria, enfadando aún más a los gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769'>El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-infinite-2580229.jpg' alt='El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743'>Instagram estaría trabajando en una característica que permitirá organizar las fotos de tu perfil a placer</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram estaría trabajando en una característica que permitirá organizar las fotos de tu perfil a placer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763'>Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/alvarez-pallete-ceo-telefonica-2071711.jpg' alt='Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone' />
     </a>
 </div>
 
