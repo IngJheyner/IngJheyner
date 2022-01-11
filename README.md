@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mito-10000-pasos-hay-cierto-habito-perder-peso-992847'>El mito de los 10.000 pasos, ¿qué hay de cierto en este hábito para perder peso?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mito-10000-pasos-hay-cierto-habito-perder-peso-992847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pareja-andando-2581809.jpg' alt='El mito de los 10.000 pasos, ¿qué hay de cierto en este hábito para perder peso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desayunos-envejecer-peor-cereales-992873'>Algunos desayunos hacen que envejezcas más rápido, ¿cuáles debes evitar?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desayunos-envejecer-peor-cereales-992873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cereales-leche-2581845.jpg' alt='Algunos desayunos hacen que envejezcas más rápido, ¿cuáles debes evitar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-horribles-han-fabricado-992841'>Este es uno de Mercedes más horribles que se han fabricado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mercedes-horribles-han-fabricado-992841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clase-g-horrible-jamas-creado-2577735.jpg' alt='Este es uno de Mercedes más horribles que se han fabricado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2582565.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969'>Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-vs-samsung-galaxy-s21-fe-2582247.jpg' alt='Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-espray-antiolores-casero-993135'>Cómo preparar tu propio espray antiolores casero, sin productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-preparar-espray-antiolores-casero-993135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-preparar-propio-espray-antiolores-casero-productos-quimicos-2582367.jpg' alt='Cómo preparar tu propio espray antiolores casero, sin productos químicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/take-two-compra-zynga-993131'>Take-Two, productora de GTA V, compra Zynga por 11.200 millones de euros y se convierte en un gigante de los juegos para móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/take-two-compra-zynga-993131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/take-two-productora-gta-v-compra-zynga-11200-millones-euros-convierte-nueva-reina-juegos-moviles-2582355.jpg' alt='Take-Two, productora de GTA V, compra Zynga por 11.200 millones de euros y se convierte en un gigante de los juegos para móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123'>Las videollamadas con hologramas llegan a las casas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videollamadas-hologramas-llegan-casas-2582321.jpg' alt='Las videollamadas con hologramas llegan a las casas' />
     </a>
 </div>
 
