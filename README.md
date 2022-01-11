@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913'>El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-robot-vacuum-g1-2138705.jpg' alt='El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/utiliza-jet-pack-volador-mision-rescate-993593'>Así se utiliza un jetpack volador en una misión de rescate</a></h4>
+    <a href='https://computerhoy.com/noticias/utiliza-jet-pack-volador-mision-rescate-993593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jet-pack-2582941.jpg' alt='Así se utiliza un jetpack volador en una misión de rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533'>Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521'>El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507905.jpg' alt='El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549'>10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/renta-2021-fechas-clave-cuando-podras-pedir-borrador-2022-993509'>Renta 2021: fechas clave y cuándo podrás pedir tu borrador en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/renta-2021-fechas-clave-cuando-podras-pedir-borrador-2022-993509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2301469.jpg' alt='Renta 2021: fechas clave y cuándo podrás pedir tu borrador en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2022 y convertir tu televisor en un Smart TV</a></h4>
-    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071475.jpeg' alt='Consejos y guía para comprar un Android TV Box en 2022 y convertir tu televisor en un Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855'>Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-cepillos-electricos-oral-b-pro-3-2581817.jpg' alt='Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros' />
     </a>
 </div>
 
