@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745'>El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603'>Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-vision-eqxx-2577237.jpg' alt='Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-993751'>Consigue hacer funcionar una disquetera de 5,25 pulgadas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-993751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/consigue-hacer-funcionar-disquetera-525-pulgadas-windows-11-2583193.jpg' alt='Consigue hacer funcionar una disquetera de 5,25 pulgadas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-multa-entrar-zona-restringida-etiqueta-dgt-equivocada-993749'>¿Cuál es la multa por entrar en una zona restringida con la etiqueta de la DGT equivocada?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-multa-entrar-zona-restringida-etiqueta-dgt-equivocada-993749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='¿Cuál es la multa por entrar en una zona restringida con la etiqueta de la DGT equivocada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955'>Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2582041.jpg' alt='Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119'>9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-teletrabajo-2175241.jpg' alt='9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-reproduccion-notas-voz-segundo-plano-993711'>WhatsApp ya está probando la reproducción de notas de voz en segundo plano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-reproduccion-notas-voz-segundo-plano-993711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp ya está probando la reproducción de notas de voz en segundo plano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697'>Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/vodafone-5g.jpg' alt='Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117'>9 aplicaciones para aprender a programar desde tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915425.jpg' alt='9 aplicaciones para aprender a programar desde tu móvil Android' />
     </a>
 </div>
 
