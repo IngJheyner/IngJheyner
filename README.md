@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769'>El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-infinite-2580229.jpg' alt='El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771'>Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607'>Esta será la modelo facial que dará vida a Wonder Woman en el videojuego</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wonder-woman-madison-hauck-2577999.jpg' alt='Esta será la modelo facial que dará vida a Wonder Woman en el videojuego' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763'>Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefonica-orange-vodafone-han-pedido-union-europea-prohiba-nueva-funcion-privacidad-iphone-993763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/alvarez-pallete-ceo-telefonica-2071711.jpg' alt='Por qué Telefónica, Orange y Vodafone han pedido a la Unión Europea que prohíba la nueva función de privacidad de los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745'>El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-nuevo-motorola-razr-3-podria-ser-mucho-antes-esperado-993745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El lanzamiento del nuevo Motorola Razr 3 podría ser mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603'>Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mercedes-vision-eqxx-alcanzara-1000-kilometros-autonomia-993603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-vision-eqxx-2577237.jpg' alt='Mercedes Vision EQXX alcanzará los 1.000 kilómetros de autonomía' />
     </a>
 </div>
 
