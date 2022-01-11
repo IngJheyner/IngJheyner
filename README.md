@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955'>Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-minimo-historico-tablet-samsung-galaxy-tab-a8-lte-992955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2582041.jpg' alt='Una tablet barata y conectada: La nueva tablet Samsung Galaxy Tab A8 de 10" y conexión 4G ahora cuesta 275 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119'>9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-teletrabajo-2175241.jpg' alt='9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117'>9 aplicaciones para aprender a programar desde tu móvil Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915425.jpg' alt='9 aplicaciones para aprender a programar desde tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937'>Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideacentre-aio-3-2581995.jpg' alt='Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros' />
     </a>
 </div>
 
