@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621'>En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg' alt='En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913'>El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-robot-vacuum-g1-2138705.jpg' alt='El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521'>El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507905.jpg' alt='El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549'>10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum' />
     </a>
 </div>
 
