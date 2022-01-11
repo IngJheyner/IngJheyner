@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743'>Instagram estaría trabajando en una característica que permitiría organizar las fotos de tu perfil a placer</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743'>Instagram estaría trabajando en una característica que permitirá organizar las fotos de tu perfil a placer</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-estaria-trabajando-caracteristica-permitiria-organizar-fotos-perfil-placer-993743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram estaría trabajando en una característica que permitiría organizar las fotos de tu perfil a placer' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram estaría trabajando en una característica que permitirá organizar las fotos de tu perfil a placer' />
     </a>
 </div>
 
