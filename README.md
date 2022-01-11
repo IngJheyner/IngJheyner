@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937'>Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideacentre-aio-3-2581995.jpg' alt='Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621'>En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg' alt='En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533'>Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521'>El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507905.jpg' alt='El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?' />
     </a>
 </div>
 
