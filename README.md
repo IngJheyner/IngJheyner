@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115'>Los auriculares Sony WH1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115'>Los auriculares Sony WH-1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares Sony WH1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares Sony WH-1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!' />
     </a>
 </div>
 
