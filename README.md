@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487'>Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon renueva con cámaras Hasselblad</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855'>Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-cepillos-electricos-oral-b-pro-3-2581817.jpg' alt='Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-sacar-maximo-partido-android-auto-casi-nadie-utiliza-993471'>Trucos rápidos para sacar el máximo partido a Android Auto que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-sacar-maximo-partido-android-auto-casi-nadie-utiliza-993471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/android-auto-2262377.jpg' alt='Trucos rápidos para sacar el máximo partido a Android Auto que casi nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/silent-sea-drama-coreano-gustando-tanto-como-juego-calamar-993485'>The Silent Sea, el drama coreano que está gustando tanto como El juego del Calamar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/silent-sea-drama-coreano-gustando-tanto-como-juego-calamar-993485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/silent-sea-2582717.jpg' alt='The Silent Sea, el drama coreano que está gustando tanto como El juego del Calamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487'>Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon y renueva con cámaras Hasselblad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon renueva con cámaras Hasselblad' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon y renueva con cámaras Hasselblad' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463'>Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-integrara-lector-qr-nativo-barra-herramientas-pantalla-bloqueo-993459'>Android 13 integrará un lector QR nativo desde la barra de herramientas y pantalla de bloqueo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-integrara-lector-qr-nativo-barra-herramientas-pantalla-bloqueo-993459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 integrará un lector QR nativo desde la barra de herramientas y pantalla de bloqueo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consecuencias-indirectas-provocan-criptomonedas-medioambiente-993455'>Las consecuencias indirectas que provocan las criptomonedas al medioambiente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consecuencias-indirectas-provocan-criptomonedas-medioambiente-993455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582685.jpg' alt='Las consecuencias indirectas que provocan las criptomonedas al medioambiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-lidl-aspirador-cables-xiaomi-aunque-hay-otra-tienda-vende-barato-993451'>Oferta de Lidl en un aspirador sin cables de Xiaomi, aunque hay otra tienda que lo vende más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-lidl-aspirador-cables-xiaomi-aunque-hay-otra-tienda-vende-barato-993451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-handheld-vacuum-cleaner-light-2582667.jpg' alt='Oferta de Lidl en un aspirador sin cables de Xiaomi, aunque hay otra tienda que lo vende más barato' />
     </a>
 </div>
 
