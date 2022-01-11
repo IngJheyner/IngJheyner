@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697'>Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/vodafone-5g.jpg' alt='Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117'>9 aplicaciones para aprender a programar desde tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/9-aplicaciones-aprender-programar-movil-android-993117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915425.jpg' alt='9 aplicaciones para aprender a programar desde tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937'>Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideacentre-aio-3-2581995.jpg' alt='Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913'>El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-robot-vacuum-g1-2138705.jpg' alt='El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/utiliza-jet-pack-volador-mision-rescate-993593'>Así se utiliza un jetpack volador en una misión de rescate</a></h4>
-    <a href='https://computerhoy.com/noticias/utiliza-jet-pack-volador-mision-rescate-993593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jet-pack-2582941.jpg' alt='Así se utiliza un jetpack volador en una misión de rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533'>Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/despiece-xiaomi-12-pro-19-tornillos-esconden-secreto-993533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Despiece del Xiaomi 12 Pro, 19 tornillos que esconden un secreto' />
     </a>
 </div>
 
