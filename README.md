@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2582565.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969'>Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-vs-samsung-galaxy-s21-fe-2582247.jpg' alt='Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-preparar-espray-antiolores-casero-993135'>Cómo preparar tu propio espray antiolores casero, sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-preparar-espray-antiolores-casero-993135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-preparar-propio-espray-antiolores-casero-productos-quimicos-2582367.jpg' alt='Cómo preparar tu propio espray antiolores casero, sin productos químicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123'>Las videollamadas con hologramas llegan a las casas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portl-m-videollamadas-hologramas-993123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/videollamadas-hologramas-llegan-casas-2582321.jpg' alt='Las videollamadas con hologramas llegan a las casas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115'>Los auriculares Sony WH-1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh1000xm4-cancelacion-ruido-descuento-precio-minimo-993115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares Sony WH-1000XM4 con cancelación de ruido son los más deseados, y hoy tienen 132 euros de descuento, ¡precio mínimo!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/estan-trabajando-version-need-speed-moviles-992829'>Están trabajando en una versión de Need for Speed para móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/estan-trabajando-version-need-speed-moviles-992829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/need-speed-hot-pursuit-remastered-2245359.jpg' alt='Están trabajando en una versión de Need for Speed para móviles' />
     </a>
 </div>
 
