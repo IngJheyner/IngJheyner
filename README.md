@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521'>El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-viral-papel-perforado-utilizar-freidora-aire-caliente-ensuciar-funciona-993521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507905.jpg' alt='El truco viral del papel perforado para utilizar la freidora de aire caliente sin ensuciar ¿funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549'>10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-preguntas-respuestas-debes-conocer-quieres-empezar-utilizar-bizum-993549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bizum-2548567.jpg' alt='10 preguntas y respuestas que debes conocer si quieres empezar a utilizar Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/renta-2021-fechas-clave-cuando-podras-pedir-borrador-2022-993509'>Renta 2021: fechas clave y cuándo podrás pedir tu borrador en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/renta-2021-fechas-clave-cuando-podras-pedir-borrador-2022-993509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2301469.jpg' alt='Renta 2021: fechas clave y cuándo podrás pedir tu borrador en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2022 y convertir tu televisor en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071475.jpeg' alt='Consejos y guía para comprar un Android TV Box en 2022 y convertir tu televisor en un Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855'>Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/pack-cepillos-dientes-oral-b-pro-3-parejas-descuento-992855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pack-cepillos-electricos-oral-b-pro-3-2581817.jpg' alt='Si lo haces todo en pareja, también limpiarte los dientes, estos dos cepillos Oral-B PRO 3 para parejas te costará menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-sacar-maximo-partido-android-auto-casi-nadie-utiliza-993471'>Trucos rápidos para sacar el máximo partido a Android Auto que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-sacar-maximo-partido-android-auto-casi-nadie-utiliza-993471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/android-auto-2262377.jpg' alt='Trucos rápidos para sacar el máximo partido a Android Auto que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/silent-sea-drama-coreano-gustando-tanto-como-juego-calamar-993485'>The Silent Sea, el drama coreano que está gustando tanto como El juego del Calamar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/silent-sea-drama-coreano-gustando-tanto-como-juego-calamar-993485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/silent-sea-2582717.jpg' alt='The Silent Sea, el drama coreano que está gustando tanto como El juego del Calamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487'>Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon y renueva con cámaras Hasselblad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-5g-ya-oficial-estrena-nueva-generacion-snapdragon-renueva-camaras-hasselblad-993487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='Oneplus 10 Pro 5G ya es oficial: estrena nueva generación de Snapdragon y renueva con cámaras Hasselblad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463'>Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-aproxima-peligrosamente-nueva-cruz-muerte-993463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Bitcoin se aproxima peligrosamente a una nueva ‘Cruz de la Muerte’' />
     </a>
 </div>
 
