@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119'>9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/9-consejos-vuelta-clases-teletrabajo-sea-comoda-posible-993119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-teletrabajo-2175241.jpg' alt='9 consejos para que la vuelta a las clases y al teletrabajo sea lo más cómoda posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-reproduccion-notas-voz-segundo-plano-993711'>WhatsApp ya está probando la reproducción de notas de voz en segundo plano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-reproduccion-notas-voz-segundo-plano-993711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp ya está probando la reproducción de notas de voz en segundo plano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697'>Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empieza-despliegue-masivo-5g-vodafone-llegara-estos-109-municipios-2022-993697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/vodafone-5g.jpg' alt='Empieza el despliegue masivo de 5G de Vodafone, llegará a estos 109 municipios en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937'>Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideacentre-aio-3-pc-todo-en-uno-oferta-descuento-amazon-992937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-ideacentre-aio-3-2581995.jpg' alt='Este ordenador todo en uno de Lenovo tiene hasta webcam integrada en su pantalla de 24" y es perfecto para trabajar por menos de 550 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621'>En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/2021-desarrolladores-apps-ios-han-recibido-60000-millones-dolares-app-store-cuanto-gano-apple-993621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg' alt='En 2021 los desarrolladores de apps iOS han recibido 60.000 millones de dólares en App Store, ¿cuánto ganó Apple?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913'>El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-tambien-friega-suelo-controlas-aplicacion-ha-bajado-precio-solo-288-euros-992913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-robot-vacuum-g1-2138705.jpg' alt='El robot aspirador de Xiaomi que también friega el suelo y controlas con su aplicación ha bajado de precio a solo 288 euros' />
     </a>
 </div>
 
