@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/associated-press-nft-catalogo-993371'>Hasta Associated Press apuesta por los NFT y empieza a vender su catálogo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/associated-press-nft-catalogo-993371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nft-2576437.jpg' alt='Hasta Associated Press apuesta por los NFT y empieza a vender su catálogo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-ver-series-peliculas-cualquier-televisor-incluso-no-smart-tv-992771'>Cómo ver series y películas en cualquier televisor, incluso si no es Smart TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/como-ver-series-peliculas-cualquier-televisor-incluso-no-smart-tv-992771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='Cómo ver series y películas en cualquier televisor, incluso si no es Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mito-10000-pasos-hay-cierto-habito-perder-peso-992847'>El mito de los 10.000 pasos, ¿qué hay de cierto en este hábito para perder peso?</a></h4>
     <a href='https://computerhoy.com/noticias/life/mito-10000-pasos-hay-cierto-habito-perder-peso-992847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pareja-andando-2581809.jpg' alt='El mito de los 10.000 pasos, ¿qué hay de cierto en este hábito para perder peso?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mercedes-horribles-han-fabricado-992841'>Este es uno de Mercedes más horribles que se han fabricado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mercedes-horribles-han-fabricado-992841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clase-g-horrible-jamas-creado-2577735.jpg' alt='Este es uno de Mercedes más horribles que se han fabricado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-993343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2582565.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969'>Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-s21-vs-galaxy-s21-fe-comparativa-cual-es-mejor-992969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-vs-samsung-galaxy-s21-fe-2582247.jpg' alt='Samsung Galaxy S21 vs Galaxy S21 FE, ¿qué móvil es mejor?' />
     </a>
 </div>
 
