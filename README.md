@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351'>Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jugando-telefono-movil-2584159.jpg' alt='Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335'>La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-habilidades-demandados-empresas-2022-994345'>Los lenguajes de programación y habilidades más demandados por las empresas en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-habilidades-demandados-empresas-2022-994345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/programador-2584155.jpg' alt='Los lenguajes de programación y habilidades más demandados por las empresas en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591'>Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proscenic-a8-2583073.jpg' alt='Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309'>Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/principe-bel-air-2584091.jpg' alt='Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285'>Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puede-netflix-eliminar-cuenta-compartirla-familiares-amigos-994279'>¿Puede Netflix eliminar tu cuenta por compartirla con tus familiares y amigos?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/puede-netflix-eliminar-cuenta-compartirla-familiares-amigos-994279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/netflix-2025007.jpg' alt='¿Puede Netflix eliminar tu cuenta por compartirla con tus familiares y amigos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577'>Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento' />
     </a>
 </div>
 
