@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389'>Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg' alt='Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383'>El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213283.jpg' alt='El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211'>El motivo por el que cambiaron el nombre de Xbox Game Pass para PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pc-game-pass-2557199.jpg' alt='El motivo por el que cambiaron el nombre de Xbox Game Pass para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375'>Estas son las autonomías reales de algunos coches eléctricos en autopista</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Estas son las autonomías reales de algunos coches eléctricos en autopista' />
     </a>
 </div>
 
