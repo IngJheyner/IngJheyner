@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nunca-ve-porsche-911-turbo-s-fibra-carbono-color-994207'>Nunca se ve un Porsche 911 Turbo S de fibra de carbono de este color</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nunca-ve-porsche-911-turbo-s-fibra-carbono-color-994207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/porsche-911-turbo-s-stinger-gtr-limited-carbon-edition-2578957.jpg' alt='Nunca se ve un Porsche 911 Turbo S de fibra de carbono de este color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351'>Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jugando-telefono-movil-2584159.jpg' alt='Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591'>Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proscenic-a8-2583073.jpg' alt='Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309'>Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/principe-bel-air-2584091.jpg' alt='Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene' />
     </a>
 </div>
 
