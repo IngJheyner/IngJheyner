@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383'>El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213283.jpg' alt='El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357'>Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-2584227.jpg' alt='Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375'>Estas son las autonomías reales de algunos coches eléctricos en autopista</a></h4>
     <a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Estas son las autonomías reales de algunos coches eléctricos en autopista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-tiene-solucion-escasez-consolas-playstation-5-puede-no-sea-crees-994359'>Sony tiene una solución a la escasez de consolas PlayStation 5 y puede que no sea la que tú crees</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-tiene-solucion-escasez-consolas-playstation-5-puede-no-sea-crees-994359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Sony tiene una solución a la escasez de consolas PlayStation 5 y puede que no sea la que tú crees' />
     </a>
 </div>
 
