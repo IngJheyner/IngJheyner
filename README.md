@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151'>El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513'>Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fact-checkers-mundo-youtube-como-principal-difusor-fake-news-994131'>Los fact-checkers del mundo contra Youtube como principal difusor de fake news </a></h4>
+    <a href='https://computerhoy.com/noticias/life/fact-checkers-mundo-youtube-como-principal-difusor-fake-news-994131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='Los fact-checkers del mundo contra Youtube como principal difusor de fake news ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099'>Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/solo-usan-pasaportes-cuatro-colores-todo-mundo-diferencian-2063539.jpg' alt='Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103'>Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-2583603.jpg' alt='Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-lidl-vuelve-sigue-siendo-superventas-4-anos-despues-994095'>El robot de cocina de LIDL vuelve y sigue siendo un superventas 4 años después</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-lidl-vuelve-sigue-siendo-superventas-4-anos-despues-994095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='El robot de cocina de LIDL vuelve y sigue siendo un superventas 4 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-nokia-streaming-box-8000-992839'>Hemos probado la Android TV Box de Nokia (sí, ESA Nokia) y estos son los motivos por los que recomendamos su compra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-nokia-streaming-box-8000-992839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='Hemos probado la Android TV Box de Nokia (sí, ESA Nokia) y estos son los motivos por los que recomendamos su compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089'>El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente' />
     </a>
 </div>
 
