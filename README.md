@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017'>Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dieta-mediterranea-mejor-mundo-quinto-ano-consecutivo-993619'>La dieta mediterránea es la mejor del mundo por quinto año consecutivo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dieta-mediterranea-mejor-mundo-quinto-ano-consecutivo-993619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dieta-mediterranea-2582983.jpg' alt='La dieta mediterránea es la mejor del mundo por quinto año consecutivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355'>4 trucos para quitar las manchas de café de la ropa en cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/taza-cafe-2582573.jpg' alt='4 trucos para quitar las manchas de café de la ropa en cualquier lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/toyota-ha-superado-general-motors-ventas-estados-unidos-993609'>Toyota ha superado a General Motors en ventas en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/toyota-ha-superado-general-motors-ventas-estados-unidos-993609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/toyota-supera-general-motors-2578795.jpg' alt='Toyota ha superado a General Motors en ventas en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2583441.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-pad-5-vs-realme-pad-comparativa-cual-mejor-993479'>Xiaomi Pad 5 vs realme Pad, ¿en qué se diferencian y cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-pad-5-vs-realme-pad-comparativa-cual-mejor-993479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-pad-5-vs-realme-pad-2582783.jpg' alt='Xiaomi Pad 5 vs realme Pad, ¿en qué se diferencian y cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699'>Cómo evitar que la pasta se pegue al cocerla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='Cómo evitar que la pasta se pegue al cocerla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783'>Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/remedio-casero-recupera-pelo-reseco-estropeado-devuelve-todo-brillo-2583245.jpg' alt='Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tartas-realistas-993781'>¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tartas-realistas-993781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/objetos-pasteles-tartas-realistas-mundo-te-dejaran-boca-abierta-2583243.jpg' alt='¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta' />
     </a>
 </div>
 
