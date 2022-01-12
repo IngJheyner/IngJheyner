@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591'>Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proscenic-a8-2583073.jpg' alt='Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309'>Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/reimaginacion-principe-bel-air-estrena-mes-viene-994309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/principe-bel-air-2584091.jpg' alt='Así es la reimaginación del Príncipe de Bel-Air que se estrena el mes que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285'>Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577'>Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259'>¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/planta-carbon-bitcoin-2483031.jpg' alt='¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559'>El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones' />
     </a>
 </div>
 
