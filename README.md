@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559'>El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-samsung-retrasa-estos-podrian-ser-motivos-994183'>El Exynos 2200 de Samsung se retrasa y estos podrían ser los motivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-samsung-retrasa-estos-podrian-ser-motivos-994183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soc-exynos-2200-tiene-gpu-amd-superara-creces-a14-iphone-2451025.jpg' alt='El Exynos 2200 de Samsung se retrasa y estos podrían ser los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151'>El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513'>Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fact-checkers-mundo-youtube-como-principal-difusor-fake-news-994131'>Los fact-checkers del mundo contra Youtube como principal difusor de fake news </a></h4>
-    <a href='https://computerhoy.com/noticias/life/fact-checkers-mundo-youtube-como-principal-difusor-fake-news-994131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='Los fact-checkers del mundo contra Youtube como principal difusor de fake news ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099'>Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/solo-usan-pasaportes-cuatro-colores-todo-mundo-diferencian-2063539.jpg' alt='Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022' />
     </a>
 </div>
 
