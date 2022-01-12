@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099'>Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/estos-son-mejores-peores-pasaportes-mundo-viajar-2022-994099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/solo-usan-pasaportes-cuatro-colores-todo-mundo-diferencian-2063539.jpg' alt='Estos son los mejores (y peores) pasaportes del mundo para viajar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103'>Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-2583603.jpg' alt='Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089'>El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067'>Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sandra-bullock-2583495.jpg' alt='Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'' />
     </a>
 </div>
 
