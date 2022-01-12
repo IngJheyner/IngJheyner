@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699'>Cómo evitar que la pasta se pegue al cocerla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='Cómo evitar que la pasta se pegue al cocerla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783'>Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo</a></h4>
     <a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/remedio-casero-recupera-pelo-reseco-estropeado-devuelve-todo-brillo-2583245.jpg' alt='Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769'>El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-infinite-2580229.jpg' alt='El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771'>Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código' />
     </a>
 </div>
 
