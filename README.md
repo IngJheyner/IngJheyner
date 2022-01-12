@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285'>Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/era-metaverso-1995-no-no-funciono-vrml-hace-26-anos-994285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Así era el Metaverso de 1995, y no, no funcionó VRML hace 26 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puede-netflix-eliminar-cuenta-compartirla-familiares-amigos-994279'>¿Puede Netflix eliminar tu cuenta por compartirla con tus familiares y amigos?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/puede-netflix-eliminar-cuenta-compartirla-familiares-amigos-994279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/netflix-2025007.jpg' alt='¿Puede Netflix eliminar tu cuenta por compartirla con tus familiares y amigos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577'>Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-aliexpress-plaza-oneplus-9-pro-553-euros-codigo-descuento-993577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279825.jpg' alt='Chollo en AliExpress Plaza por este OnePlus 9 Pro, desde 553 euros con este código de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259'>¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/planta-carbon-bitcoin-2483031.jpg' alt='¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559'>El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-samsung-retrasa-estos-podrian-ser-motivos-994183'>El Exynos 2200 de Samsung se retrasa y estos podrían ser los motivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exynos-2200-samsung-retrasa-estos-podrian-ser-motivos-994183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soc-exynos-2200-tiene-gpu-amd-superara-creces-a14-iphone-2451025.jpg' alt='El Exynos 2200 de Samsung se retrasa y estos podrían ser los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151'>El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/antivirus-avira-sigue-estela-norton-anade-opcion-minar-criptomonedas-994151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='El antivirus Avira sigue la estela de Norton y añade una opción para minar criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
     </a>
 </div>
 
