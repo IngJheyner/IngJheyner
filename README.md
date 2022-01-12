@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067'>Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sandra-bullock-2583495.jpg' alt='Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-usa-nvidia-mejorar-calidad-imagen-mayoria-juegos-nuevos-drivers-rtx-994051'>La IA que usa NVIDIA para mejorar la calidad de imagen en la mayoría de juegos con sus nuevos drivers para RTX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-usa-nvidia-mejorar-calidad-imagen-mayoria-juegos-nuevos-drivers-rtx-994051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='La IA que usa NVIDIA para mejorar la calidad de imagen en la mayoría de juegos con sus nuevos drivers para RTX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033'>Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017'>Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dieta-mediterranea-mejor-mundo-quinto-ano-consecutivo-993619'>La dieta mediterránea es la mejor del mundo por quinto año consecutivo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dieta-mediterranea-mejor-mundo-quinto-ano-consecutivo-993619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dieta-mediterranea-2582983.jpg' alt='La dieta mediterránea es la mejor del mundo por quinto año consecutivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355'>4 trucos para quitar las manchas de café de la ropa en cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/taza-cafe-2582573.jpg' alt='4 trucos para quitar las manchas de café de la ropa en cualquier lugar' />
     </a>
 </div>
 
