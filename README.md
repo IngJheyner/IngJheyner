@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103'>Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wearable-desarrollado-universidad-yale-detectar-has-sido-expuesto-virus-994103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-2583603.jpg' alt='Así es el wearable desarrollado por la Universidad de Yale para detectar si has sido expuesto al virus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-lidl-vuelve-sigue-siendo-superventas-4-anos-despues-994095'>El robot de cocina de LIDL vuelve y sigue siendo un superventas 4 años después</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-lidl-vuelve-sigue-siendo-superventas-4-anos-despues-994095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='El robot de cocina de LIDL vuelve y sigue siendo un superventas 4 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-nokia-streaming-box-8000-992839'>Hemos probado la Android TV Box de Nokia (sí, ESA Nokia) y estos son los motivos por los que recomendamos su compra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-nokia-streaming-box-8000-992839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='Hemos probado la Android TV Box de Nokia (sí, ESA Nokia) y estos son los motivos por los que recomendamos su compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089'>El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-calidad-audio-alta-fidelidad-ya-no-tiene-fecha-lanzamiento-retrasado-indefinidamente-994089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='El Spotify con calidad de audio de alta fidelidad ya no tiene fecha de lanzamiento: retrasado indefinidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067'>Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sandra-bullock-desmarca-industria-cine-opinion-efecto-netflix-994067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sandra-bullock-2583495.jpg' alt='Sandra Bullock se desmarca de la industria del cine en su opinión sobre el ‘efecto Netflix'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-usa-nvidia-mejorar-calidad-imagen-mayoria-juegos-nuevos-drivers-rtx-994051'>La IA que usa NVIDIA para mejorar la calidad de imagen en la mayoría de juegos con sus nuevos drivers para RTX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-usa-nvidia-mejorar-calidad-imagen-mayoria-juegos-nuevos-drivers-rtx-994051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='La IA que usa NVIDIA para mejorar la calidad de imagen en la mayoría de juegos con sus nuevos drivers para RTX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033'>Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375'>6 portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311167.jpg' alt='6 portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017'>Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus' />
     </a>
 </div>
 
