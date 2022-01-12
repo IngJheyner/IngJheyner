@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259'>¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasara-cuando-minen-21-millones-bitcoins-disponibles-994259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/planta-carbon-bitcoin-2483031.jpg' alt='¿Qué pasará cuando se minen los 21 millones de bitcoins disponibles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559'>El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/robot-cocina-famoso-lidl-oferta-pero-cecotec-mambo-8090-barato-mismas-funciones-993559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='El robot de cocina más famoso de Lidl está en oferta, pero este Cecotec Mambo 8090 es más barato y con las mismas funciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513'>Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/olvidate-ruido-calle-transporte-publico-estos-huawei-freebuds-studio-ahora-oferta-limitada-149-euros-993513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Olvídate del ruido de la calle y del transporte público con estos Huawei FreeBuds Studio, ahora en oferta limitada por 149 euros' />
     </a>
 </div>
 
