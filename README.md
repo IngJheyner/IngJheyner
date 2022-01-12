@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nunca-ve-porsche-911-turbo-s-fibra-carbono-color-994207'>Nunca se ve un Porsche 911 Turbo S de fibra de carbono de este color</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nunca-ve-porsche-911-turbo-s-fibra-carbono-color-994207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/porsche-911-turbo-s-stinger-gtr-limited-carbon-edition-2578957.jpg' alt='Nunca se ve un Porsche 911 Turbo S de fibra de carbono de este color' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357'>Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-2584227.jpg' alt='Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351'>Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/donde-jugar-gratis-wordle-evitar-estafas-juego-viral-moda-994351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jugando-telefono-movil-2584159.jpg' alt='Dónde jugar gratis a Wordle y evitar estafas en el juego viral de moda' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-signature-m650-raton-zurdos-amantes-silencio-adapta-mano-994377'>Logitech Signature M650, el ratón para zurdos y amantes del silencio que se adapta a tu mano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-signature-m650-raton-zurdos-amantes-silencio-adapta-mano-994377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-signature-m650-zurdos-2584235.jpg' alt='Logitech Signature M650, el ratón para zurdos y amantes del silencio que se adapta a tu mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335'>La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211'>El motivo por el que cambiaron el nombre de Xbox Game Pass para PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pc-game-pass-2557199.jpg' alt='El motivo por el que cambiaron el nombre de Xbox Game Pass para PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-habilidades-demandados-empresas-2022-994345'>Los lenguajes de programación y habilidades más demandados por las empresas en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-habilidades-demandados-empresas-2022-994345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/programador-2584155.jpg' alt='Los lenguajes de programación y habilidades más demandados por las empresas en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375'>Estas son las autonomías reales de algunos coches eléctricos en autopista</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/autonomias-reales-coches-electricos-autopista-994375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Estas son las autonomías reales de algunos coches eléctricos en autopista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591'>Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-proscenic-a8-se-invierno-oferta-993591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proscenic-a8-2583073.jpg' alt='Los purificadores de aire también son importantes en invierno: este proscenic A8 SE cuesta menos de 80 euros' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-tiene-solucion-escasez-consolas-playstation-5-puede-no-sea-crees-994359'>Sony tiene una solución a la escasez de consolas PlayStation 5 y puede que no sea la que tú crees</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-tiene-solucion-escasez-consolas-playstation-5-puede-no-sea-crees-994359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Sony tiene una solución a la escasez de consolas PlayStation 5 y puede que no sea la que tú crees' />
     </a>
 </div>
 
