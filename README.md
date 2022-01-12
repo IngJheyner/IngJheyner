@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033'>Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podrian-ser-100-dolares-caros-ultimos-informes-994033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Los iPhone 14 podrían ser hasta 100 dólares más caros, según los últimos informes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375'>6 portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311167.jpg' alt='6 portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017'>Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/life/bill-gates-omicron-chips-vacunas-coronavirus-994017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates opina sobre la variante ómicron, si hay chips en las vacunas y otras grandes cuestiones del coronavirus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355'>4 trucos para quitar las manchas de café de la ropa en cualquier lugar</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-quitar-manchas-cafe-ropa-993355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/taza-cafe-2582573.jpg' alt='4 trucos para quitar las manchas de café de la ropa en cualquier lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toyota-ha-superado-general-motors-ventas-estados-unidos-993609'>Toyota ha superado a General Motors en ventas en Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toyota-ha-superado-general-motors-ventas-estados-unidos-993609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/toyota-supera-general-motors-2578795.jpg' alt='Toyota ha superado a General Motors en ventas en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2583441.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
