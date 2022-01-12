@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-994007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2583441.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-pad-5-vs-realme-pad-comparativa-cual-mejor-993479'>Xiaomi Pad 5 vs realme Pad, ¿en qué se diferencian y cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-pad-5-vs-realme-pad-comparativa-cual-mejor-993479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-pad-5-vs-realme-pad-2582783.jpg' alt='Xiaomi Pad 5 vs realme Pad, ¿en qué se diferencian y cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699'>Cómo evitar que la pasta se pegue al cocerla</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-pasta-pegue-cocerla-993699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='Cómo evitar que la pasta se pegue al cocerla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tartas-realistas-993781'>¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta</a></h4>
     <a href='https://computerhoy.com/noticias/life/tartas-realistas-993781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/objetos-pasteles-tartas-realistas-mundo-te-dejaran-boca-abierta-2583243.jpg' alt='¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-presenta-rtx-3080-12-gb-memoria-precio-especificaciones-993777'>NVIDIA presenta la RTX 3080 con 12 GB de memoria, enfadando aún más a los gamers</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nvidia-presenta-rtx-3080-12-gb-memoria-precio-especificaciones-993777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-presenta-rtx-3080-12-gb-memoria-enfadando-aun-gamers-2583239.jpg' alt='NVIDIA presenta la RTX 3080 con 12 GB de memoria, enfadando aún más a los gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769'>El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/error-frecuente-modo-multijugador-halo-infinite-tiene-solucion-ya-camino-993769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-infinite-2580229.jpg' alt='El error más frecuente del modo multijugador de Halo Infinite tiene una solución ya en camino' />
     </a>
 </div>
 
