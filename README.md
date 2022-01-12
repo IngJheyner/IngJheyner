@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783'>Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/remedio-casero-pelo-reseco-993783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/remedio-casero-recupera-pelo-reseco-estropeado-devuelve-todo-brillo-2583245.jpg' alt='Este remedio casero ideado por un nutricionista recupera el pelo reseco y estropeado y le devuelve todo su brillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tartas-realistas-993781'>¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta</a></h4>
     <a href='https://computerhoy.com/noticias/life/tartas-realistas-993781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/objetos-pasteles-tartas-realistas-mundo-te-dejaran-boca-abierta-2583243.jpg' alt='¿Objetos o pasteles? Las tartas más realistas del mundo te dejarán con la boca abierta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771'>Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-gran-descuento-993771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Una de las mejores tablets de Android, Xiaomi Pad 5, con un gran descuento si usas este código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607'>Esta será la modelo facial que dará vida a Wonder Woman en el videojuego</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sera-modelo-facial-dara-vida-wonder-woman-videojuego-993607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wonder-woman-madison-hauck-2577999.jpg' alt='Esta será la modelo facial que dará vida a Wonder Woman en el videojuego' />
     </a>
 </div>
 
