@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773'>Qué hacer si Hacienda no te ha devuelto la Renta todavía y qué intereses de demora debes reclamar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/gaming/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831'>Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/xbox-one-s-all-digital.png' alt='Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-videos-escuchar-podcasts-2x-no-afecta-nada-comprension-contenidos-universidad-california-994825'>Ver vídeos o escuchar podcasts a 2X no afecta nada a la comprensión de los contenidos, según la Universidad de California</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ver-videos-escuchar-podcasts-2x-no-afecta-nada-comprension-contenidos-universidad-california-994825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/podcasts.jpg' alt='Ver vídeos o escuchar podcasts a 2X no afecta nada a la comprensión de los contenidos, según la Universidad de California' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-dropbox-2021-almacenamiento-gestor-gratis-contrasenas-860199'>Guía completa de Dropbox en 2022: almacenamiento, gestor gratis de contraseñas y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-dropbox-2021-almacenamiento-gestor-gratis-contrasenas-860199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/aplicacion-dropbox-iphone.jpg' alt='Guía completa de Dropbox en 2022: almacenamiento, gestor gratis de contraseñas y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119'>Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416877.jpg' alt='Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773'>Qué hacer si Hacienda no te ha devuelto la Renta todavía y qué intereses de demora debes reclamar</a></h4>
+    <a href='https://computerhoy.com/noticias/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2301469.jpg' alt='Qué hacer si Hacienda no te ha devuelto la Renta todavía y qué intereses de demora debes reclamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-dogecoin-resisten-morir-inesperado-repunte-alza-994795'>Shiba Inu y Dogecoin se resisten a morir con un inesperado repunte al alza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-dogecoin-resisten-morir-inesperado-repunte-alza-994795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/creador-dogecoin-vendio-criptomonedas-comprarse-civic-ahora-dogecoin-vale-honda-2333021.jpg' alt='Shiba Inu y Dogecoin se resisten a morir con un inesperado repunte al alza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-denuncia-sorprendente-record-negativo-itv-994749'>La DGT denuncia un sorprendente récord negativo en la ITV</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-denuncia-sorprendente-record-negativo-itv-994749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/itv.jpg' alt='La DGT denuncia un sorprendente récord negativo en la ITV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vuelos-fantasma-europa-994747'>El absurdo motivo por el que cientos de vuelos fantasma sobrevuelan Europa cada día</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vuelos-fantasma-europa-994747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avion-fantasma-coronavirus-2584599.jpg' alt='El absurdo motivo por el que cientos de vuelos fantasma sobrevuelan Europa cada día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/joven-hackea-25-teslas-demostrar-peligros-coche-inteligente-994683'>Un joven hackea 25 Teslas para demostrar los peligros del coche inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/joven-hackea-25-teslas-demostrar-peligros-coche-inteligente-994683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/supercargadores-v3-tesla.jpg' alt='Un joven hackea 25 Teslas para demostrar los peligros del coche inteligente' />
     </a>
 </div>
 
