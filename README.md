@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967'>La primera gran baja del MWC de 2022 es Sony que anuncia que no participará en el congreso de móviles</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957'>Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-sorprendido-mirar-telefono-movil-2517551.jpg' alt='Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091'>Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bombilla-wifi-rgb-extrastar-2583573.jpg' alt='Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967'>La primera gran baja del MWC de 2022 es Sony, anuncia que no participará en el congreso de móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/logo-sony-2347761.jpg' alt='La primera gran baja del MWC de 2022 es Sony que anuncia que no participará en el congreso de móviles' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/logo-sony-2347761.jpg' alt='La primera gran baja del MWC de 2022 es Sony, anuncia que no participará en el congreso de móviles' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941'>Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg' alt='Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-aceite-xiaomi-lidl-precio-minimo-historico-994939'>La freidora de aire caliente, sin aceite, de Xiaomi está en LIDL a precio mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-aceite-xiaomi-lidl-precio-minimo-historico-994939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-xiaomi-2585133.jpg' alt='La freidora de aire caliente, sin aceite, de Xiaomi está en LIDL a precio mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105'>Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-11-lite-5g-ne-2583575.jpg' alt='Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros' />
     </a>
 </div>
 
