@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/11-productos-van-ser-caros-ano-994217'>11 productos que van a ser más caros este año</a></h4>
+    <a href='https://computerhoy.com/noticias/life/11-productos-van-ser-caros-ano-994217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/comprar-coche-leasing-5-ventajas-inconveniente-2187015.jpg' alt='11 productos que van a ser más caros este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2584439.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391'>El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-2584243.jpg' alt='El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389'>Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg' alt='Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido' />
     </a>
 </div>
 
