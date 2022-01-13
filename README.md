@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967'>La primera gran baja del MWC de 2022 es Sony que anuncia que no participará en el congreso de móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/logo-sony-2347761.jpg' alt='La primera gran baja del MWC de 2022 es Sony que anuncia que no participará en el congreso de móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969'>La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105'>Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-11-lite-5g-ne-2583575.jpg' alt='Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655'>Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/codigo-46-2584735.jpg' alt='Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV' />
     </a>
 </div>
 
