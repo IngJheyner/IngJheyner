@@ -50,8 +50,16 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831'>Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807'>¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831'>Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación</a></h4>
+    <a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/xbox-one-s-all-digital.png' alt='Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación' />
     </a>
 </div>
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119'>Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416877.jpg' alt='Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773'>Qué hacer si Hacienda no te ha devuelto la Renta todavía y qué intereses de demora debes reclamar</a></h4>
-    <a href='https://computerhoy.com/noticias/hacer-hacienda-no-te-ha-devuelto-renta-todavia-intereses-demora-debes-reclamar-994773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2301469.jpg' alt='Qué hacer si Hacienda no te ha devuelto la Renta todavía y qué intereses de demora debes reclamar' />
     </a>
 </div>
 
