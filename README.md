@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969'>La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941'>Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg' alt='Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-aceite-xiaomi-lidl-precio-minimo-historico-994939'>La freidora de aire caliente, sin aceite, de Xiaomi está en LIDL a precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-aceite-xiaomi-lidl-precio-minimo-historico-994939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-xiaomi-2585133.jpg' alt='La freidora de aire caliente, sin aceite, de Xiaomi está en LIDL a precio mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105'>Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11-lite-5g-new-edition-oferta-295-eu-994105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-11-lite-5g-ne-2583575.jpg' alt='Uno de los últimos modelos de móviles Xiaomi 11 con 128 GB tiene precio de chollo, solo 295 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655'>Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/codigo-46-2584735.jpg' alt='Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-sangria-desarrolladores-chips-arm-apple-destino-microsoft-994903'>Sigue la sangría de los desarrolladores de chips ARM en Apple, el destino: Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sigue-sangria-desarrolladores-chips-arm-apple-destino-microsoft-994903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Sigue la sangría de los desarrolladores de chips ARM en Apple, el destino: Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-router-ax3-wifi-6-oferta-49-euros-994147'>Este router Huawei Router AX3 compatible con WiFi 6 que mejorará tu internet, está en oferta por 49 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-router-ax3-wifi-6-oferta-49-euros-994147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-wifi-ax3-2040467.jpg' alt='Este router Huawei Router AX3 compatible con WiFi 6 que mejorará tu internet, está en oferta por 49 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807'>¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831'>Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación</a></h4>
-    <a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/xbox-one-s-all-digital.png' alt='Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación' />
     </a>
 </div>
 
