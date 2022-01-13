@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877'>Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg' alt='Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033'>Este clásico de la ciencia-ficción de 1973 ambientado en 2022 por suerte no acertó en sus predicciones... pero dentro de 30 años...</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clasico-ciencia-ficcion-1973-estaba-ambientado-2022-suerte-no-acerto-predicciones-2585269.jpg' alt='Este clásico de la ciencia-ficción de 1973 ambientado en 2022 por suerte no acertó en sus predicciones... pero dentro de 30 años...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031'>Utilizan códigos QR en parquímetros para robar los datos de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/campana-codigo-qr-fraudulento-2585265.jpg' alt='Utilizan códigos QR en parquímetros para robar los datos de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029'>El increíble récord al que podría llegar Bizum este mismo año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2341121.jpg' alt='El increíble récord al que podría llegar Bizum este mismo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023'>Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil</a></h4>
     <a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/llamada-telefono-2178125.jpg' alt='Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/suv-smart-llegara-2023-ya-sabe-aspecto-tendra-994873'>El SUV de Smart llegará en 2023 y ya se sabe qué aspecto tendrá</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/suv-smart-llegara-2023-ya-sabe-aspecto-tendra-994873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/suv-smart-2572545.jpg' alt='El SUV de Smart llegará en 2023 y ya se sabe qué aspecto tendrá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003'>Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-2585243.jpg' alt='Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957'>Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-sorprendido-mirar-telefono-movil-2517551.jpg' alt='Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091'>Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bombilla-wifi-rgb-extrastar-2583573.jpg' alt='Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis' />
     </a>
 </div>
 
