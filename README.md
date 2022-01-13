@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023'>Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/llamada-telefono-2178125.jpg' alt='Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/suv-smart-llegara-2023-ya-sabe-aspecto-tendra-994873'>El SUV de Smart llegará en 2023 y ya se sabe qué aspecto tendrá</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/suv-smart-llegara-2023-ya-sabe-aspecto-tendra-994873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/suv-smart-2572545.jpg' alt='El SUV de Smart llegará en 2023 y ya se sabe qué aspecto tendrá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003'>Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-2585243.jpg' alt='Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957'>Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-son-nuevas-franjas-horarias-dias-operadoras-no-te-pueden-molestar-llamadas-comerciales-994957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-sorprendido-mirar-telefono-movil-2517551.jpg' alt='Estas son las nuevas franjas horarias y días en los que las operadoras no te pueden molestar con llamadas comerciales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091'>Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-fans-smart-home-bombilla-wifi-rgb-cuesta-menos-4-euros-envio-gratis-994091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bombilla-wifi-rgb-extrastar-2583573.jpg' alt='Chollo para fans de las Smart Home: esta bombilla WiFi con RGB cuesta menos de 4 euros con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967'>La primera gran baja del MWC de 2022 es Sony, anuncia que no participará en el congreso de móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-gran-baja-mwc-2022-sony-anuncia-no-participara-congreso-moviles-994967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/logo-sony-2347761.jpg' alt='La primera gran baja del MWC de 2022 es Sony, anuncia que no participará en el congreso de móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969'>La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mram-deja-ser-teoria-demostracion-mundo-real-hito-samsung-994969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dram-samsung-2528153.jpg' alt='La MRAM deja de ser una teoría tras su demostración en el mundo real: el hito es de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941'>Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-conveniente-reiniciar-router-aunque-no-haya-problemas-994941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg' alt='Cada cuánto tiempo es conveniente reiniciar el router aunque no haya problemas' />
     </a>
 </div>
 
