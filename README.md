@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047'>Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escuchas-primer-video-youtube-alcanzar-10000-millones-reproducciones-no-podras-quitartelo-cabeza-2585307.jpg' alt='Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043'>Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-baja-precio-ideal-ver-series-peliculas-2585277.jpg' alt='Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031'>Utilizan códigos QR en parquímetros para robar los datos de pago</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/campana-codigo-qr-fraudulento-2585265.jpg' alt='Utilizan códigos QR en parquímetros para robar los datos de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029'>El increíble récord al que podría llegar Bizum este mismo año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2341121.jpg' alt='El increíble récord al que podría llegar Bizum este mismo año' />
     </a>
 </div>
 
