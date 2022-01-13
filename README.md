@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2584439.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-comprar-xiaomi-mi-band-5-2022-993677'>¿Es buena idea comprar una Xiaomi Mi Band 5 en 2022?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-comprar-xiaomi-mi-band-5-2022-993677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-mi-band-5-2026507.jpg' alt='¿Es buena idea comprar una Xiaomi Mi Band 5 en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393'>Qué es el café de setas que está tan de moda, y qué beneficios aporta</a></h4>
     <a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-setas-tan-moda-beneficios-aporta-2584245.jpg' alt='Qué es el café de setas que está tan de moda, y qué beneficios aporta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389'>Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg' alt='Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383'>El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-plus-5g-descuento-994383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213283.jpg' alt='El Samsung Galaxy S21+ 5G es uno de los mejores móviles que puedes comprar ahora mismo, y tiene un buen descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357'>Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-2584227.jpg' alt='Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA' />
     </a>
 </div>
 
