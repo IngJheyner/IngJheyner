@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393'>Qué es el café de setas que está tan de moda, y qué beneficios aporta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-setas-tan-moda-beneficios-aporta-2584245.jpg' alt='Qué es el café de setas que está tan de moda, y qué beneficios aporta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391'>El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-2584243.jpg' alt='El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389'>Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/especificaciones-pcie-6-0-994389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg' alt='Casi nadie tiene PCIe 5.0, pero ya se ha presentado el estándar PCIe 6.0, el doble de rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357'>Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-994357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sientete-como-astronauta-simulador-online-spacex-incluso-utiliza-nasa-2584227.jpg' alt='Siéntete como un astronauta con el simulador online de SpaceX que incluso utiliza la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-signature-m650-raton-zurdos-amantes-silencio-adapta-mano-994377'>Logitech Signature M650, el ratón para zurdos y amantes del silencio que se adapta a tu mano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-signature-m650-raton-zurdos-amantes-silencio-adapta-mano-994377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-signature-m650-zurdos-2584235.jpg' alt='Logitech Signature M650, el ratón para zurdos y amantes del silencio que se adapta a tu mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211'>El motivo por el que cambiaron el nombre de Xbox Game Pass para PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/motivo-cambiaron-nombre-xbox-game-pass-pc-994211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/pc-game-pass-2557199.jpg' alt='El motivo por el que cambiaron el nombre de Xbox Game Pass para PC' />
     </a>
 </div>
 
