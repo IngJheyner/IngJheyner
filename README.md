@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/11-productos-van-ser-caros-ano-994217'>11 productos que van a ser más caros este año</a></h4>
-    <a href='https://computerhoy.com/noticias/life/11-productos-van-ser-caros-ano-994217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/comprar-coche-leasing-5-ventajas-inconveniente-2187015.jpg' alt='11 productos que van a ser más caros este año' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621'>Windows 11 actualiza 10 años después una función que utilizas a diario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='Windows 11 actualiza 10 años después una función que utilizas a diario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-994605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2584439.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-productos-liquidacion-mediamarkt-994267'>Estos son los mejores productos en liquidación en MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-productos-liquidacion-mediamarkt-994267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ofertas-outlet-mediamarkt-2583989.jpg' alt='Estos son los mejores productos en liquidación en MediaMarkt' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-comprar-xiaomi-mi-band-5-2022-993677'>¿Es buena idea comprar una Xiaomi Mi Band 5 en 2022?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/buena-idea-comprar-xiaomi-mi-band-5-2022-993677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/analisis-mi-band-5-2026507.jpg' alt='¿Es buena idea comprar una Xiaomi Mi Band 5 en 2022?' />
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615'>Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tesla-cybertruck-2019423.jpg' alt='Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393'>Qué es el café de setas que está tan de moda, y qué beneficios aporta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cafe-de-setas-beneficios-994393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-setas-tan-moda-beneficios-aporta-2584245.jpg' alt='Qué es el café de setas que está tan de moda, y qué beneficios aporta' />
+    <h4><a href='https://computerhoy.com/noticias/life/5-cosas-viejas-igual-tienes-casa-hoy-valen-pequena-fortuna-994221'>5 cosas viejas que igual tienes en casa y hoy valen una pequeña fortuna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-cosas-viejas-igual-tienes-casa-hoy-valen-pequena-fortuna-994221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cartas-pokemon-2500521.jpg' alt='5 cosas viejas que igual tienes en casa y hoy valen una pequeña fortuna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391'>El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-994391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-dron-anfibio-mundo-vuela-sumerge-profundidades-mar-2584243.jpg' alt='El primer dron anfibio del mundo vuela y se sumerge en las profundidades del mar' />
+    <h4><a href='https://computerhoy.com/noticias/life/debes-comer-caiga-menos-pelo-invierno-994241'>Qué debes comer para que se caiga menos el pelo en invierno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-comer-caiga-menos-pelo-invierno-994241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-gorro-2583929.jpg' alt='Qué debes comer para que se caiga menos el pelo en invierno' />
     </a>
 </div>
 
