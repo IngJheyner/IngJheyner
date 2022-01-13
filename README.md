@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043'>Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-baja-precio-ideal-ver-series-peliculas-2585277.jpg' alt='Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877'>Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg' alt='Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029'>El increíble récord al que podría llegar Bizum este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/increible-record-podria-llegar-bizum-mismo-ano-995029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2341121.jpg' alt='El increíble récord al que podría llegar Bizum este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023'>Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lugar-donde-nunca-deberias-llevar-movil-guardia-civil-995023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/llamada-telefono-2178125.jpg' alt='Este es el lugar donde nunca deberías llevar el móvil según la Guardia Civil' />
     </a>
 </div>
 
