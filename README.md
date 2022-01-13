@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655'>Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/codigo-46-pelicula-ciencia-ficcion-poco-conocida-puedes-ver-gratis-pluto-tv-993655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/codigo-46-2584735.jpg' alt='Código 46, la película de ciencia ficción poco conocida que puedes ver gratis en Pluto TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-sangria-desarrolladores-chips-arm-apple-destino-microsoft-994903'>Sigue la sangría de los desarrolladores de chips ARM en Apple, el destino: Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sigue-sangria-desarrolladores-chips-arm-apple-destino-microsoft-994903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Sigue la sangría de los desarrolladores de chips ARM en Apple, el destino: Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-router-ax3-wifi-6-oferta-49-euros-994147'>Este router Huawei Router AX3 compatible con WiFi 6 que mejorará tu internet, está en oferta por 49 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-router-ax3-wifi-6-oferta-49-euros-994147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-wifi-ax3-2040467.jpg' alt='Este router Huawei Router AX3 compatible con WiFi 6 que mejorará tu internet, está en oferta por 49 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807'>¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultraram-futuro-almacenamiento-hibrido-tipo-ram-ssd-994807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='¿Qué es UltraRAM?  El futuro del almacenamiento híbrido del tipo RAM + SSD' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831'>Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación</a></h4>
     <a href='https://computerhoy.com/noticias/adios-xbox-one-microsoft-interrumpe-siempre-produccion-antigua-generacion-994831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/xbox-one-s-all-digital.png' alt='Adiós a Xbox One: Microsoft interrumpe para siempre la producción de su antigua generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-videos-escuchar-podcasts-2x-no-afecta-nada-comprension-contenidos-universidad-california-994825'>Ver vídeos o escuchar podcasts a 2X no afecta nada a la comprensión de los contenidos, según la Universidad de California</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ver-videos-escuchar-podcasts-2x-no-afecta-nada-comprension-contenidos-universidad-california-994825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/podcasts.jpg' alt='Ver vídeos o escuchar podcasts a 2X no afecta nada a la comprensión de los contenidos, según la Universidad de California' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-dropbox-2021-almacenamiento-gestor-gratis-contrasenas-860199'>Guía completa de Dropbox en 2022: almacenamiento, gestor gratis de contraseñas y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-dropbox-2021-almacenamiento-gestor-gratis-contrasenas-860199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/aplicacion-dropbox-iphone.jpg' alt='Guía completa de Dropbox en 2022: almacenamiento, gestor gratis de contraseñas y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119'>Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2021-descuento-500-euros-994119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416877.jpg' alt='Huawei ha descontado 500 euros a uno de los portátiles más impresionantes que tienen: MateBook X Pro con Core i7 y 16GB de RAM' />
     </a>
 </div>
 
