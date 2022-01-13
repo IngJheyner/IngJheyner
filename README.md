@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-polemica-hamburguesa-merluza-pescado-994671'>Mercadona también se equivoca y una de sus últimas novedades ha despertado la polémica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-polemica-hamburguesa-merluza-pescado-994671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hamburguesa-2584521.jpg' alt='Mercadona también se equivoca y una de sus últimas novedades ha despertado la polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-ordenador-sobreviven-crisis-semiconductores-349-millones-pcs-vendidos-2021-994655'>Las ventas de ordenador sobreviven a la crisis de los semiconductores: 349 millones de PCs vendidos en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventas-ordenador-sobreviven-crisis-semiconductores-349-millones-pcs-vendidos-2021-994655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/detenidos-infectar-22-ordenadores-expuestos-media-markt-corte-ingles-minar-criptomonedas-2541721.jpg' alt='Las ventas de ordenador sobreviven a la crisis de los semiconductores: 349 millones de PCs vendidos en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621'>Windows 11 actualiza 10 años después una función que utilizas a diario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='Windows 11 actualiza 10 años después una función que utilizas a diario' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615'>Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tesla-cybertruck-2019423.jpg' alt='Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-cosas-viejas-igual-tienes-casa-hoy-valen-pequena-fortuna-994221'>5 cosas viejas que igual tienes en casa y hoy valen una pequeña fortuna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-cosas-viejas-igual-tienes-casa-hoy-valen-pequena-fortuna-994221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cartas-pokemon-2500521.jpg' alt='5 cosas viejas que igual tienes en casa y hoy valen una pequeña fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/debes-comer-caiga-menos-pelo-invierno-994241'>Qué debes comer para que se caiga menos el pelo en invierno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/debes-comer-caiga-menos-pelo-invierno-994241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-gorro-2583929.jpg' alt='Qué debes comer para que se caiga menos el pelo en invierno' />
     </a>
 </div>
 
