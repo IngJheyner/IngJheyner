@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-denuncia-sorprendente-record-negativo-itv-994749'>La DGT denuncia un sorprendente récord negativo en la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-denuncia-sorprendente-record-negativo-itv-994749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/itv.jpg' alt='La DGT denuncia un sorprendente récord negativo en la ITV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vuelos-fantasma-europa-994747'>El absurdo motivo por el que cientos de vuelos fantasma sobrevuelan Europa cada día</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vuelos-fantasma-europa-994747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avion-fantasma-coronavirus-2584599.jpg' alt='El absurdo motivo por el que cientos de vuelos fantasma sobrevuelan Europa cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/joven-hackea-25-teslas-demostrar-peligros-coche-inteligente-994683'>Un joven hackea 25 Teslas para demostrar los peligros del coche inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/joven-hackea-25-teslas-demostrar-peligros-coche-inteligente-994683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/supercargadores-v3-tesla.jpg' alt='Un joven hackea 25 Teslas para demostrar los peligros del coche inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-polemica-hamburguesa-merluza-pescado-994671'>Mercadona también se equivoca y una de sus últimas novedades ha despertado la polémica</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-polemica-hamburguesa-merluza-pescado-994671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hamburguesa-2584521.jpg' alt='Mercadona también se equivoca y una de sus últimas novedades ha despertado la polémica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-ordenador-sobreviven-crisis-semiconductores-349-millones-pcs-vendidos-2021-994655'>Las ventas de ordenador sobreviven a la crisis de los semiconductores: 349 millones de PCs vendidos en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventas-ordenador-sobreviven-crisis-semiconductores-349-millones-pcs-vendidos-2021-994655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/detenidos-infectar-22-ordenadores-expuestos-media-markt-corte-ingles-minar-criptomonedas-2541721.jpg' alt='Las ventas de ordenador sobreviven a la crisis de los semiconductores: 349 millones de PCs vendidos en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621'>Windows 11 actualiza 10 años después una función que utilizas a diario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-cambia-indicador-volumen-994621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='Windows 11 actualiza 10 años después una función que utilizas a diario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-productos-liquidacion-mediamarkt-994267'>Estos son los mejores productos en liquidación en MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-productos-liquidacion-mediamarkt-994267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ofertas-outlet-mediamarkt-2583989.jpg' alt='Estos son los mejores productos en liquidación en MediaMarkt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615'>Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-ha-eliminado-cualquier-rastro-cybertruck-web-cambios-retraso-indefinido-994615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tesla-cybertruck-2019423.jpg' alt='Tesla ha eliminado cualquier rastro del Cybertruck de su web, ¿más cambios o retraso indefinido?' />
     </a>
 </div>
 
