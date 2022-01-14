@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-watch-fit-mini-review-opinion-993649'>Huawei Watch Fit Mini, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-watch-fit-mini-review-opinion-993649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-watch-fit-mini-2586443.jpg' alt='Huawei Watch Fit Mini, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603'>Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-2586499.jpg' alt='Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-995545'>Samsung prepara un portátil que se pliega dos veces incluida su pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-995545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-2586399.jpg' alt='Samsung prepara un portátil que se pliega dos veces incluida su pantalla' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-version-google-maps-problema-usuarios-android-auto-995609'>La última versión de Google Maps es un problema para los usuarios de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-version-google-maps-problema-usuarios-android-auto-995609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La última versión de Google Maps es un problema para los usuarios de Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/buenas-noticias-compradores-steam-deck-995577'>Buenas noticias para los compradores de una Steam Deck</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/buenas-noticias-compradores-steam-deck-995577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/valve-anuncia-steam-deck-consola-portatil-juegos-pc-2408177.jpg' alt='Buenas noticias para los compradores de una Steam Deck' />
+    <h4><a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415'>Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/chevrolet-impala-1963-1852757.jpg' alt='Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-ricky-gervais-zendaya-hacemos-sombras-995517'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Ricky Gervais, Zendaya y lo que hacemos en las sombras</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-ricky-gervais-zendaya-hacemos-sombras-995517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-ver-fin-semana-2586203.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Ricky Gervais, Zendaya y lo que hacemos en las sombras' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-previsiones-muchos-expertos-criptomonedas-bitcoin-ethereum-2022-995607'>Las sorprendentes previsiones de muchos expertos en criptomonedas sobre Bitcoin y Ethereum para 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-previsiones-muchos-expertos-criptomonedas-bitcoin-ethereum-2022-995607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-ethereum-2586503.jpg' alt='Las sorprendentes previsiones de muchos expertos en criptomonedas sobre Bitcoin y Ethereum para 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157'>Estos son los mejores cables HDMI 2.1 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cable-hdmi-2583823.jpg' alt='Estos son los mejores cables HDMI 2.1 que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-estaria-trabajando-smartwatch-diseno-extravagante-permitiria-desmontar-pantalla-995547'>Facebook estaría trabajando en un smartwatch con un diseño extravagante que permitiría desmontar la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-estaria-trabajando-smartwatch-diseno-extravagante-permitiria-desmontar-pantalla-995547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/facebook-planea-lanzar-primer-smartwatch-verano-dos-camaras-sensor-ritmo-cardiaco-2365761.jpg' alt='Facebook estaría trabajando en un smartwatch con un diseño extravagante que permitiría desmontar la pantalla' />
     </a>
 </div>
 
