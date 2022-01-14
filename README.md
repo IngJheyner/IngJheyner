@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777'>El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-mateview-2535983.jpg' alt='El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/soymayornoidiota-recoge-100000-firmas-exigir-trato-digno-bancos-995453'>“SoyMayorNoIdiota” recoge más de 100.000 firmas para exigir un trato digno a los bancos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/soymayornoidiota-recoge-100000-firmas-exigir-trato-digno-bancos-995453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/banco-santander-2576861.jpg' alt='“SoyMayorNoIdiota” recoge más de 100.000 firmas para exigir un trato digno a los bancos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335'>La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/lavadora'>Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti</a></h4>
     <a href='https://computerhoy.com/guia-compra/lavadora' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-2584761.jpg' alt='Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-pack-4-enchufes-teckin-solo-19-euros-codigo-994765'>Consigue un chollo para tu 'Smart Home': este pack de 4 enchufes Teckin por solo 19 euros con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-pack-4-enchufes-teckin-solo-19-euros-codigo-994765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/enchufe-inteligente-teckin-sp-22.jpg' alt='Consigue un chollo para tu 'Smart Home': este pack de 4 enchufes Teckin por solo 19 euros con este código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-palabra-tesla-ya-admite-oficialmente-dogecoin-como-medio-pago-995441'>Elon Musk cumple su palabra: Tesla ya admite oficialmente Dogecoin como medio de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-palabra-tesla-ya-admite-oficialmente-dogecoin-como-medio-pago-995441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Elon Musk cumple su palabra: Tesla ya admite oficialmente Dogecoin como medio de pago' />
     </a>
 </div>
 
