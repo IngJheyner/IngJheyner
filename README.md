@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157'>Estos son los mejores cables HDMI 2.1 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cable-hdmi-2583823.jpg' alt='Estos son los mejores cables HDMI 2.1 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505'>Android 12 trae el fin de las redes 2G y es por nuestra seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Android 12 trae el fin de las redes 2G y es por nuestra seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335'>La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425'>Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/tiembla-google-duckduckgo-pisa-talones-google-chrome-100-millones-busquedas-diarias-2203633.jpg' alt='Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs' />
     </a>
 </div>
 
