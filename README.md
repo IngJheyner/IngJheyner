@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2585549.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885'>20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/paquete-amazon-2458667.jpg' alt='20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279'>8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-trucos-adelgazar-dietas-ni-ejercicio-ciencia-2585547.jpg' alt='8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047'>Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escuchas-primer-video-youtube-alcanzar-10000-millones-reproducciones-no-podras-quitartelo-cabeza-2585307.jpg' alt='Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043'>Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-oferta-995043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/televisor-lg-nanocell-55-pulgadas-resolucion-4k-hdr-baja-precio-ideal-ver-series-peliculas-2585277.jpg' alt='Este televisor LG Nanocell de 55 pulgadas con resolución 4K y HDR baja de precio, y es ideal para ver Netflix y compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877'>Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg' alt='Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021' />
     </a>
 </div>
 
