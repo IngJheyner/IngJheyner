@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549'>La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2509591.jpg' alt='La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623'>Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2224053.jpg' alt='Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613'>Google podría estar preparando una “super actualización” para Google TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Google podría estar preparando una “super actualización” para Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417'>Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/battlestar-galactica-2580487.jpg' alt='Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617'>Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603'>Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-2586499.jpg' alt='Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-version-google-maps-problema-usuarios-android-auto-995609'>La última versión de Google Maps es un problema para los usuarios de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-version-google-maps-problema-usuarios-android-auto-995609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La última versión de Google Maps es un problema para los usuarios de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415'>Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/chevrolet-impala-1963-1852757.jpg' alt='Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años' />
     </a>
 </div>
 
