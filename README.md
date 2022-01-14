@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-chollos-productos-curiosos-semana-pequeno-electrodomestico-lidl-995365'>Los mejores chollos y productos curiosos de la semana de pequeño electrodoméstico de Lidl</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-chollos-productos-curiosos-semana-pequeno-electrodomestico-lidl-995365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mejores-chollos-electrogangas-lidl-2206499.jpg' alt='Los mejores chollos y productos curiosos de la semana de pequeño electrodoméstico de Lidl' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335'>La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-queda-actualizaciones-android-haber-cumplido-ano-vida-994335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-pad-2550991.jpg' alt='La realme Pad se queda sin actualizaciones de Android sin haber cumplido el año de vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jammy-eggs-receta-preparar-huevos-freidora-aceite-triunfa-tiktok-995379'>Jammy Eggs, la receta para preparar huevos con la freidora sin aceite que triunfa en TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/jammy-eggs-receta-preparar-huevos-freidora-aceite-triunfa-tiktok-995379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huevos-cocidos-2585751.jpg' alt='Jammy Eggs, la receta para preparar huevos con la freidora sin aceite que triunfa en TikTok' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425'>Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/tiembla-google-duckduckgo-pisa-talones-google-chrome-100-millones-busquedas-diarias-2203633.jpg' alt='Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-comunes-criptomonedas-como-protegerte-evitarlas-995397'>Las estafas más comunes con criptomonedas: cómo protegerte para evitarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafas-comunes-criptomonedas-como-protegerte-evitarlas-995397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2585783.jpg' alt='Las estafas más comunes con criptomonedas: cómo protegerte para evitarlas' />
+    <h4><a href='https://computerhoy.com/guia-compra/lavadora'>Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti</a></h4>
+    <a href='https://computerhoy.com/guia-compra/lavadora' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-2584761.jpg' alt='Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-9-pro-snapdragon-695-triple-camara-trasera-995323'>Se filtra el realme 9 Pro: Snapdragon 695 y triple cámara trasera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-9-pro-snapdragon-695-triple-camara-trasera-995323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-9-pro-2585665.jpg' alt='Se filtra el realme 9 Pro: Snapdragon 695 y triple cámara trasera' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-pack-4-enchufes-teckin-solo-19-euros-codigo-994765'>Consigue un chollo para tu 'Smart Home': este pack de 4 enchufes Teckin por solo 19 euros con este código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-pack-4-enchufes-teckin-solo-19-euros-codigo-994765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/enchufe-inteligente-teckin-sp-22.jpg' alt='Consigue un chollo para tu 'Smart Home': este pack de 4 enchufes Teckin por solo 19 euros con este código' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311'>Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-palabra-tesla-ya-admite-oficialmente-dogecoin-como-medio-pago-995441'>Elon Musk cumple su palabra: Tesla ya admite oficialmente Dogecoin como medio de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-palabra-tesla-ya-admite-oficialmente-dogecoin-como-medio-pago-995441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Elon Musk cumple su palabra: Tesla ya admite oficialmente Dogecoin como medio de pago' />
     </a>
 </div>
 
