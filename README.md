@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-spaces-usuarios-grabar-audios-movil-995289'>Twitter abre los Spaces a todos los usuarios y ahora cualquiera puede grabar audios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-spaces-usuarios-grabar-audios-movil-995289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-hablando-movil-2585553.jpg' alt='Twitter abre los Spaces a todos los usuarios y ahora cualquiera puede grabar audios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-amazon-echo-dot-3a-generacion-2022-992777'>¿Merece la pena comprar el Amazon Echo Dot de 3ª Generación en 2022?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-amazon-echo-dot-3a-generacion-2022-992777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/amazon-echo-dot-3a-generacion-2019.jpg' alt='¿Merece la pena comprar el Amazon Echo Dot de 3ª Generación en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883'>El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año</a></h4>
     <a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881'>Estos conductores están sometidos a la tasa 0,0 alcohol en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ford-transit-custom-azul-guardia-civil-2362699.jpg' alt='Estos conductores están sometidos a la tasa 0,0 alcohol en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2585549.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885'>20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/paquete-amazon-2458667.jpg' alt='20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar' />
     </a>
 </div>
 
