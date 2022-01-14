@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311'>Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-especificaciones-oppo-pad-snapdragon-870-6-gb-ram-995305'>Ya tenemos las especificaciones de la OPPO Pad: Snapdragon 870 y 6 GB de RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-especificaciones-oppo-pad-snapdragon-870-6-gb-ram-995305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='Ya tenemos las especificaciones de la OPPO Pad: Snapdragon 870 y 6 GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-spaces-usuarios-grabar-audios-movil-995289'>Twitter abre los Spaces a todos los usuarios y ahora cualquiera puede grabar audios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-spaces-usuarios-grabar-audios-movil-995289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-hablando-movil-2585553.jpg' alt='Twitter abre los Spaces a todos los usuarios y ahora cualquiera puede grabar audios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883'>El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año</a></h4>
     <a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-alimentos-te-ayudaran-calmar-dolor-garganta-994849'>10 alimentos que te ayudarán a calmar el dolor de garganta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-alimentos-te-ayudaran-calmar-dolor-garganta-994849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolor-garganta-2584871.jpg' alt='10 alimentos que te ayudarán a calmar el dolor de garganta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881'>Estos conductores están sometidos a la tasa 0,0 alcohol en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ford-transit-custom-azul-guardia-civil-2362699.jpg' alt='Estos conductores están sometidos a la tasa 0,0 alcohol en 2022' />
     </a>
 </div>
 
