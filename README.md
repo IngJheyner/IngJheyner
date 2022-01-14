@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883'>El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-alimentos-te-ayudaran-calmar-dolor-garganta-994849'>10 alimentos que te ayudarán a calmar el dolor de garganta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-alimentos-te-ayudaran-calmar-dolor-garganta-994849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolor-garganta-2584871.jpg' alt='10 alimentos que te ayudarán a calmar el dolor de garganta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881'>Estos conductores están sometidos a la tasa 0,0 alcohol en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-conductores-estaran-sometidos-tasa-00-alcohol-2022-994881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ford-transit-custom-azul-guardia-civil-2362699.jpg' alt='Estos conductores están sometidos a la tasa 0,0 alcohol en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-995281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2585549.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885'>20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/20-chollos-amazon-fin-semana-994885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/paquete-amazon-2458667.jpg' alt='20 chollos de Amazon para el fin de semana que de verdad vas a querer comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279'>8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-trucos-adelgazar-dietas-ni-ejercicio-ciencia-2585547.jpg' alt='8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055'>Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eternal-reefs-empresa-convierte-cenizas-fallecidos-casas-peces-fondo-mar-2585349.jpg' alt='Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047'>Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escuchas-primer-video-youtube-alcanzar-10000-millones-reproducciones-no-podras-quitartelo-cabeza-2585307.jpg' alt='Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza' />
     </a>
 </div>
 
