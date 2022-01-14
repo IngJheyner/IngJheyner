@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055'>Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eternal-reefs-empresa-convierte-cenizas-fallecidos-casas-peces-fondo-mar-2585349.jpg' alt='Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047'>Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/baby-shark-dance-primer-video-youtube-10000-millones-reproducciones-995047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escuchas-primer-video-youtube-alcanzar-10000-millones-reproducciones-no-podras-quitartelo-cabeza-2585307.jpg' alt='Si escuchas el primer vídeo de YouTube en alcanzar los 10.000 millones de reproducciones, no podrás quitártelo de la cabeza' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033'>Este clásico de la ciencia-ficción de 1973 ambientado en 2022 por suerte no acertó en sus predicciones... pero dentro de 30 años...</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033'>Este clásico de la ciencia-ficción de 1973 estaba ambientado en 2022... ¿acertó en sus predicciones?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clasico-ciencia-ficcion-1973-estaba-ambientado-2022-suerte-no-acerto-predicciones-2585269.jpg' alt='Este clásico de la ciencia-ficción de 1973 ambientado en 2022 por suerte no acertó en sus predicciones... pero dentro de 30 años...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031'>Utilizan códigos QR en parquímetros para robar los datos de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-codigos-qr-parquimetros-robar-datos-pago-995031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/campana-codigo-qr-fraudulento-2585265.jpg' alt='Utilizan códigos QR en parquímetros para robar los datos de pago' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clasico-ciencia-ficcion-1973-estaba-ambientado-2022-suerte-no-acerto-predicciones-2585269.jpg' alt='Este clásico de la ciencia-ficción de 1973 estaba ambientado en 2022... ¿acertó en sus predicciones?' />
     </a>
 </div>
 
