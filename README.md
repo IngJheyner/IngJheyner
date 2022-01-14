@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417'>Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/battlestar-galactica-2580487.jpg' alt='Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617'>Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603'>Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-995603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-permitira-ahorrar-dinero-proteger-medioambiente-programa-nest-renew-2586499.jpg' alt='Google permitirá ahorrar dinero y proteger el medioambiente con su programa Nest Renew' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415'>Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/motor/encuentran-chevrolet-impala-1965-granero-30-anos-995415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/chevrolet-impala-1963-1852757.jpg' alt='Encuentran un Chevrolet Impala de 1965 en un granero tras 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-previsiones-muchos-expertos-criptomonedas-bitcoin-ethereum-2022-995607'>Las sorprendentes previsiones de muchos expertos en criptomonedas sobre Bitcoin y Ethereum para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-previsiones-muchos-expertos-criptomonedas-bitcoin-ethereum-2022-995607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-ethereum-2586503.jpg' alt='Las sorprendentes previsiones de muchos expertos en criptomonedas sobre Bitcoin y Ethereum para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-estaria-trabajando-smartwatch-diseno-extravagante-permitiria-desmontar-pantalla-995547'>Facebook estaría trabajando en un smartwatch con un diseño extravagante que permitiría desmontar la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-estaria-trabajando-smartwatch-diseno-extravagante-permitiria-desmontar-pantalla-995547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/facebook-planea-lanzar-primer-smartwatch-verano-dos-camaras-sensor-ritmo-cardiaco-2365761.jpg' alt='Facebook estaría trabajando en un smartwatch con un diseño extravagante que permitiría desmontar la pantalla' />
     </a>
 </div>
 
