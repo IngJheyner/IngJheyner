@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279'>8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-trucos-adelgazar-sin-dietas-ni-ejercicio-995279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/7-trucos-adelgazar-dietas-ni-ejercicio-ciencia-2585547.jpg' alt='8 trucos para adelgazar sin dietas ni ejercicio, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055'>Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar</a></h4>
     <a href='https://computerhoy.com/noticias/life/eternal-reefs-cenizas-casas-peces-fondo-mar-995055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eternal-reefs-empresa-convierte-cenizas-fallecidos-casas-peces-fondo-mar-2585349.jpg' alt='Eternal Reefs, la empresa que convierte las cenizas de los fallecidos en casas para peces en el fondo del mar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877'>Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-moviles-generaron-11000-millones-dolares-europa-2021-994877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg' alt='Los juegos móviles generaron 11.000 millones de dólares en Europa en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033'>Este clásico de la ciencia-ficción de 1973 estaba ambientado en 2022... ¿acertó en sus predicciones?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-el-destino-nos-alcance-soylent-green-ambientado-2022-995033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/clasico-ciencia-ficcion-1973-estaba-ambientado-2022-suerte-no-acerto-predicciones-2585269.jpg' alt='Este clásico de la ciencia-ficción de 1973 estaba ambientado en 2022... ¿acertó en sus predicciones?' />
     </a>
 </div>
 
