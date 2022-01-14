@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505'>Android 12 trae el fin de las redes 2G y es por nuestra seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Android 12 trae el fin de las redes 2G y es por nuestra seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777'>El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-mateview-2535983.jpg' alt='El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425'>Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-buscar-google-protegiendo-privacidad-duckduckgo-bangs-995425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/tiembla-google-duckduckgo-pisa-talones-google-chrome-100-millones-busquedas-diarias-2203633.jpg' alt='Cómo buscar en Google protegiendo tu privacidad desde DuckDuckGo con bangs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/lavadora'>Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti</a></h4>
-    <a href='https://computerhoy.com/guia-compra/lavadora' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-2584761.jpg' alt='Las mejores lavadoras de 2022: guía de compra para elegir el mejor modelo para ti' />
     </a>
 </div>
 
