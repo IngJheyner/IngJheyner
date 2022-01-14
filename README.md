@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633'>¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/micron-presenta-ssd-pequeno-mundo-solo-mide-3-centimetros-caben-2-tb-2586521.jpg' alt='¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549'>La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2509591.jpg' alt='La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417'>Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/battlestar-galactica-2580487.jpg' alt='Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617'>Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mozilla-rally-pixel-facebook-995617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Mozilla va a estudiar cómo espía el polémico Píxel de Facebook, y pide tu ayuda' />
     </a>
 </div>
 
