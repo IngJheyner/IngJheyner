@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-watch-fit-mini-review-opinion-993649'>Huawei Watch Fit Mini, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-watch-fit-mini-review-opinion-993649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-watch-fit-mini-2586443.jpg' alt='Huawei Watch Fit Mini, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-995545'>Samsung prepara un portátil que se pliega dos veces incluida su pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-995545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-prepara-portatil-pliega-dos-veces-incluida-pantalla-2586399.jpg' alt='Samsung prepara un portátil que se pliega dos veces incluida su pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/buenas-noticias-compradores-steam-deck-995577'>Buenas noticias para los compradores de una Steam Deck</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/buenas-noticias-compradores-steam-deck-995577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/valve-anuncia-steam-deck-consola-portatil-juegos-pc-2408177.jpg' alt='Buenas noticias para los compradores de una Steam Deck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-ricky-gervais-zendaya-hacemos-sombras-995517'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Ricky Gervais, Zendaya y lo que hacemos en las sombras</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-ricky-gervais-zendaya-hacemos-sombras-995517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-ver-fin-semana-2586203.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: Ricky Gervais, Zendaya y lo que hacemos en las sombras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157'>Estos son los mejores cables HDMI 2.1 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-hdmi-21-puedes-comprar-994157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cable-hdmi-2583823.jpg' alt='Estos son los mejores cables HDMI 2.1 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505'>Android 12 trae el fin de las redes 2G y es por nuestra seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-12-trae-fin-redes-2g-seguridad-995505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Android 12 trae el fin de las redes 2G y es por nuestra seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777'>El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-profesional-huawei-mateview-28-4k-tiene-100-euros-descuento-ademas-viene-regalos-994777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-mateview-2535983.jpg' alt='El monitor profesional Huawei MateView de 28" y con 4K tiene 100 euros de descuento y además viene con regalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/soymayornoidiota-recoge-100000-firmas-exigir-trato-digno-bancos-995453'>“SoyMayorNoIdiota” recoge más de 100.000 firmas para exigir un trato digno a los bancos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/soymayornoidiota-recoge-100000-firmas-exigir-trato-digno-bancos-995453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/banco-santander-2576861.jpg' alt='“SoyMayorNoIdiota” recoge más de 100.000 firmas para exigir un trato digno a los bancos' />
     </a>
 </div>
 
