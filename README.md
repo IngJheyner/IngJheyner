@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-9-pro-snapdragon-695-triple-camara-trasera-995323'>Se filtra el realme 9 Pro: Snapdragon 695 y triple cámara trasera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-9-pro-snapdragon-695-triple-camara-trasera-995323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-9-pro-2585665.jpg' alt='Se filtra el realme 9 Pro: Snapdragon 695 y triple cámara trasera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311'>Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-problemas-vpn-actualizacion-995311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Windows está sufriendo problemas con algunas VPN tras la última actualización, pero puedes solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-amazon-echo-dot-3a-generacion-2022-992777'>¿Merece la pena comprar el Amazon Echo Dot de 3ª Generación en 2022?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-amazon-echo-dot-3a-generacion-2022-992777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/amazon-echo-dot-3a-generacion-2019.jpg' alt='¿Merece la pena comprar el Amazon Echo Dot de 3ª Generación en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883'>El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ceo-moderna-habla-cuarta-dosis-vacuna-podria-llegar-ano-994883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/vacuna-coronavirus-2285699.jpg' alt='El CEO de Moderna habla sobre la cuarta dosis de la vacuna: podría llegar este año' />
     </a>
 </div>
 
