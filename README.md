@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-no-seria-compatible-iphone-13-pero-tienes-iphone-anteriores-995955'>Esta característica no sería compatible con tu iPhone 13 pero sí la tienes en los iPhone anteriores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-no-seria-compatible-iphone-13-pero-tienes-iphone-anteriores-995955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487617.jpg' alt='Esta característica no sería compatible con tu iPhone 13 pero sí la tienes en los iPhone anteriores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465'>Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925'>Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teclas-mecanicas-microondas-2586907.jpg' alt='Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921'>El sencillo reto viral con el que puedes ahorrar más de 650 euros este año</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ahorrar-hucha-2586905.jpg' alt='El sencillo reto viral con el que puedes ahorrar más de 650 euros este año' />
     </a>
 </div>
 
