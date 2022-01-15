@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los 5 mejores portátiles Windows que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='Estos son los 5 mejores portátiles Windows que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-comprar-wish-993495'>¿Es seguro comprar en Wish? Todo lo que debes saber antes de comprar en esta tienda increíblemente barata</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-comprar-wish-993495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wish-2586175.jpg' alt='¿Es seguro comprar en Wish? Todo lo que debes saber antes de comprar en esta tienda increíblemente barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881'>Así puedes aprovechar al máximo tu teléfono 5G</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5g-2581853.jpg' alt='Así puedes aprovechar al máximo tu teléfono 5G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849'>Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolphin-1-salvavidas-electrico-control-remoto-2586729.jpg' alt='Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberespias-indios-infectan-propio-malware-994675'>Ciberespías indios se infectan con su propio malware, y se descubre a quién estaban espiando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciberespias-indios-infectan-propio-malware-994675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciberespias-indios-infectan-propio-malware-descubre-quien-estaban-espiando-2584529.jpg' alt='Ciberespías indios se infectan con su propio malware, y se descubre a quién estaban espiando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551'>Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-2586263.jpg' alt='Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?' />
     </a>
 </div>
 
