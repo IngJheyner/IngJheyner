@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465'>Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/imaginan-concepto-yate-navega-tambien-vuela-cero-emisiones-995929'>Imaginan un concepto de yate que navega y también vuela, y con cero emisiones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/imaginan-concepto-yate-navega-tambien-vuela-cero-emisiones-995929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/air-yacht-2586927.jpg' alt='Imaginan un concepto de yate que navega y también vuela, y con cero emisiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991'>Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921'>El sencillo reto viral con el que puedes ahorrar más de 650 euros este año</a></h4>
     <a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ahorrar-hucha-2586905.jpg' alt='El sencillo reto viral con el que puedes ahorrar más de 650 euros este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899'>Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/rascador-hielo-karcher-2586819.jpg' alt='Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893'>WhatsApp trabaja en nuevas herramientas de dibujo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dibujar-whatsapp-2586809.jpg' alt='WhatsApp trabaja en nuevas herramientas de dibujo' />
     </a>
 </div>
 
