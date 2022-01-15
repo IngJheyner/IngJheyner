@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793'>Mejores relojes inteligentes que miden tu temperatura corporal</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gtr-3-pro-2584917.jpg' alt='Mejores relojes inteligentes que miden tu temperatura corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849'>Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolphin-1-salvavidas-electrico-control-remoto-2586729.jpg' alt='Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberespias-indios-infectan-propio-malware-994675'>Ciberespías indios se infectan con su propio malware, y se descubre a quién estaban espiando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciberespias-indios-infectan-propio-malware-994675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciberespias-indios-infectan-propio-malware-descubre-quien-estaban-espiando-2584529.jpg' alt='Ciberespías indios se infectan con su propio malware, y se descubre a quién estaban espiando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551'>Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-2586263.jpg' alt='Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847'>Cómo fabricar champú anticaspa casero sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-fabricar-champu-anticaspa-casero-productos-quimicos-2586725.jpg' alt='Cómo fabricar champú anticaspa casero sin productos químicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635'>El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jack-dorsey-2565941.jpg' alt='El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633'>¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/micron-presenta-ssd-pequeno-mundo-solo-mide-3-centimetros-caben-2-tb-2586521.jpg' alt='¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549'>La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2509591.jpg' alt='La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían' />
     </a>
 </div>
 
