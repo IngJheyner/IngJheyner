@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-consejos-organizar-oficina-casa-teletrabajar-994837'>9 consejos para organizar una oficina en casa para teletrabajar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/9-consejos-organizar-oficina-casa-teletrabajar-994837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg' alt='9 consejos para organizar una oficina en casa para teletrabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nzxt-capsule-review-opinion-992927'>Micrófono NZXT Capsule, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nzxt-capsule-review-opinion-992927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-nzxt-capsule-2586393.jpg' alt='Micrófono NZXT Capsule, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881'>Así puedes aprovechar al máximo tu teléfono 5G</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5g-2581853.jpg' alt='Así puedes aprovechar al máximo tu teléfono 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793'>Mejores relojes inteligentes que miden tu temperatura corporal</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gtr-3-pro-2584917.jpg' alt='Mejores relojes inteligentes que miden tu temperatura corporal' />
     </a>
 </div>
 
