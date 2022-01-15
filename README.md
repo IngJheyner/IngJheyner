@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899'>Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/rascador-hielo-karcher-2586819.jpg' alt='Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893'>WhatsApp trabaja en nuevas herramientas de dibujo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dibujar-whatsapp-2586809.jpg' alt='WhatsApp trabaja en nuevas herramientas de dibujo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-gt-3-review-opinion-994817'>Huawei Watch GT 3, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-gt-3-review-opinion-994817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='Huawei Watch GT 3, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cheque-regalo-amazon-5-euros-como-conseguirlo-995879'>Consigue 5 euros gratis en Amazon: así puedes aprovechar el último chollo que esta tienda regala a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cheque-regalo-amazon-5-euros-como-conseguirlo-995879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg' alt='Consigue 5 euros gratis en Amazon: así puedes aprovechar el último chollo que esta tienda regala a sus usuarios' />
     </a>
 </div>
 
