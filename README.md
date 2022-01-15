@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-portatil-hp-pavilion-convertible-ultraligero-queda-solo-779-euros-995965'>Este ordenador portátil HP Pavilion convertible y ultraligero se queda a solo 779 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-portatil-hp-pavilion-convertible-ultraligero-queda-solo-779-euros-995965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hp-pavilion-x360-2586987.jpg' alt='Este ordenador portátil HP Pavilion convertible y ultraligero se queda a solo 779 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-no-seria-compatible-iphone-13-pero-tienes-iphone-anteriores-995955'>Esta característica no sería compatible con tu iPhone 13 pero sí la tienes en los iPhone anteriores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-no-seria-compatible-iphone-13-pero-tienes-iphone-anteriores-995955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487617.jpg' alt='Esta característica no sería compatible con tu iPhone 13 pero sí la tienes en los iPhone anteriores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991'>Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925'>Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teclas-mecanicas-microondas-2586907.jpg' alt='Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas' />
     </a>
 </div>
 
