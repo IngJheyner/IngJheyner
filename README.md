@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551'>Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-2586263.jpg' alt='Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847'>Cómo fabricar champú anticaspa casero sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-fabricar-champu-anticaspa-casero-productos-quimicos-2586725.jpg' alt='Cómo fabricar champú anticaspa casero sin productos químicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549'>La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegada-redmi-note-11-europa-seria-antes-esperado-hoy-han-filtrado-precios-aterrizarian-995549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmi-note-11-2509591.jpg' alt='La llegada de los Redmi Note 11 a Europa sería antes de lo esperado y hoy se han filtrado los precios con los que aterrizarían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623'>Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2224053.jpg' alt='Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!' />
     </a>
 </div>
 
