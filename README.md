@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cheque-regalo-amazon-5-euros-como-conseguirlo-995879'>Consigue 5 euros gratis en Amazon: así puedes aprovechar el último chollo que esta tienda regala a sus usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cheque-regalo-amazon-5-euros-como-conseguirlo-995879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg' alt='Consigue 5 euros gratis en Amazon: así puedes aprovechar el último chollo que esta tienda regala a sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-roba-netflix-disney-prime-video-hbo-max-como-echarle-994901'>Cómo saber si alguien te roba Netflix, Disney+, Prime Video o HBO Max y cómo echarle</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-roba-netflix-disney-prime-video-hbo-max-como-echarle-994901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='Cómo saber si alguien te roba Netflix, Disney+, Prime Video o HBO Max y cómo echarle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-consejos-organizar-oficina-casa-teletrabajar-994837'>9 consejos para organizar una oficina en casa para teletrabajar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/9-consejos-organizar-oficina-casa-teletrabajar-994837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg' alt='9 consejos para organizar una oficina en casa para teletrabajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los 5 mejores portátiles Windows que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='Estos son los 5 mejores portátiles Windows que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-comprar-wish-993495'>¿Es seguro comprar en Wish? Todo lo que debes saber antes de comprar en esta tienda increíblemente barata</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-comprar-wish-993495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wish-2586175.jpg' alt='¿Es seguro comprar en Wish? Todo lo que debes saber antes de comprar en esta tienda increíblemente barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881'>Así puedes aprovechar al máximo tu teléfono 5G</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5g-2581853.jpg' alt='Así puedes aprovechar al máximo tu teléfono 5G' />
     </a>
 </div>
 
