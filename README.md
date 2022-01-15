@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847'>Cómo fabricar champú anticaspa casero sin productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-fabricar-champu-anticaspa-casero-productos-quimicos-2586725.jpg' alt='Cómo fabricar champú anticaspa casero sin productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635'>El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jack-dorsey-2565941.jpg' alt='El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623'>Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-128-gb-descuento-995623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2224053.jpg' alt='Descuentazo de 233 euros en el Samsung Galaxy S21 5G con 8 GB de RAM y 128 GB de almacenamiento, ¡aprovecha!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613'>Google podría estar preparando una “super actualización” para Google TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Google podría estar preparando una “super actualización” para Google TV' />
     </a>
 </div>
 
