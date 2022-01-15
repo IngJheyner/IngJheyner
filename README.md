@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991'>Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925'>Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alguien-repara-panel-tactil-antiguo-microondas-teclas-mecanicas-995925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teclas-mecanicas-microondas-2586907.jpg' alt='Alguien repara el panel táctil de su antiguo microondas con teclas mecánicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921'>El sencillo reto viral con el que puedes ahorrar más de 650 euros este año</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sencillo-reto-viral-puedes-ahorrar-650-euros-ano-995921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ahorrar-hucha-2586905.jpg' alt='El sencillo reto viral con el que puedes ahorrar más de 650 euros este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899'>Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/rascador-hielo-necesitas-coche-solo-4499-euros-995899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/rascador-hielo-karcher-2586819.jpg' alt='Este es el rascador de hielo que necesitas para tu coche y está a solo 44,99 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893'>WhatsApp trabaja en nuevas herramientas de dibujo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nuevas-herramientas-dibujo-995893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dibujar-whatsapp-2586809.jpg' alt='WhatsApp trabaja en nuevas herramientas de dibujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-14-contarian-misma-ram-frecuencia-actualizacion-pantalla-995887'>Todos los modelos de iPhone 14 contarían con la misma RAM y frecuencia de actualización de pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-14-contarian-misma-ram-frecuencia-actualizacion-pantalla-995887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492363.jpg' alt='Todos los modelos de iPhone 14 contarían con la misma RAM y frecuencia de actualización de pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-tienes-comprar-tablet-samsung-sea-galaxy-tab-s7-fe-124-5g-lapiz-547-euros-994981'>Si te tienes que comprar una tablet de Samsung que sea esta Galaxy Tab S7 FE: 12.4", con 5G y lápiz por 547 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-tienes-comprar-tablet-samsung-sea-galaxy-tab-s7-fe-124-5g-lapiz-547-euros-994981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-s7-fe-2585175.jpg' alt='Si te tienes que comprar una tablet de Samsung que sea esta Galaxy Tab S7 FE: 12.4", con 5G y lápiz por 547 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-gt-3-review-opinion-994817'>Huawei Watch GT 3, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-gt-3-review-opinion-994817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='Huawei Watch GT 3, análisis y opinión' />
     </a>
 </div>
 
