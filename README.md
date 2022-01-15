@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nzxt-capsule-review-opinion-992927'>Micrófono NZXT Capsule, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nzxt-capsule-review-opinion-992927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-nzxt-capsule-2586393.jpg' alt='Micrófono NZXT Capsule, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los 5 mejores portátiles Windows que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='Estos son los 5 mejores portátiles Windows que hemos probado últimamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793'>Mejores relojes inteligentes que miden tu temperatura corporal</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gtr-3-pro-2584917.jpg' alt='Mejores relojes inteligentes que miden tu temperatura corporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849'>Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dolphin-1-salvavidas-electrico-control-remoto-995849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolphin-1-salvavidas-electrico-control-remoto-2586729.jpg' alt='Dolphin 1, el salvavidas eléctrico a control remoto (vídeo)' />
     </a>
 </div>
 
