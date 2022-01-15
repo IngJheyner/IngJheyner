@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881'>Así puedes aprovechar al máximo tu teléfono 5G</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-aprovechar-maximo-telefono-5g-992881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5g-2581853.jpg' alt='Así puedes aprovechar al máximo tu teléfono 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793'>Mejores relojes inteligentes que miden tu temperatura corporal</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-miden-temperatura-corporal-994793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gtr-3-pro-2584917.jpg' alt='Mejores relojes inteligentes que miden tu temperatura corporal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551'>Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-envase-comida-hinchado-seguro-comerlo-995551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-2586263.jpg' alt='Qué significa que un envase de comida esté hinchado: ¿es seguro comerlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847'>Cómo fabricar champú anticaspa casero sin productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-fabricar-champu-anticaspa-casero-995847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-fabricar-champu-anticaspa-casero-productos-quimicos-2586725.jpg' alt='Cómo fabricar champú anticaspa casero sin productos químicos' />
     </a>
 </div>
 
