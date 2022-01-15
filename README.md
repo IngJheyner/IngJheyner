@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635'>El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fundador-twitter-hardware-minado-bitcoin-abierto-eficiente-995635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jack-dorsey-2565941.jpg' alt='El fundador de Twitter anuncia que está desarrollando un hardware de minado de Bitcoin abierto y más eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633'>¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/micron-2400-ssd-mas-pequeno-mundo-995633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/micron-presenta-ssd-pequeno-mundo-solo-mide-3-centimetros-caben-2-tb-2586521.jpg' alt='¿Un SSD de 2 TB en tu móvil? Micron presenta el SSD más pequeño del mundo, solo mide 3 centímetros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613'>Google podría estar preparando una “super actualización” para Google TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-podria-estar-preparando-super-actualizacion-google-tv-995613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Google podría estar preparando una “super actualización” para Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417'>Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/empiezan-desvelarse-detalles-nueva-pelicula-battlestar-galactica-995417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/battlestar-galactica-2580487.jpg' alt='Empiezan a desvelarse detalles de la nueva película de Battlestar Galáctica' />
     </a>
 </div>
 
