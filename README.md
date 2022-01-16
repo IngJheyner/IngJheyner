@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desafio-visual-cual-estas-dos-tazas-real-994361'>Desafío visual: ¿cuál de estas dos tazas es real?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desafio-visual-cual-estas-dos-tazas-real-994361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desafio-visual-cual-estas-dos-tazas-real-2584169.jpg' alt='Desafío visual: ¿cuál de estas dos tazas es real?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleado-operadora-describe-smartphone-en-1953-994769'>Una operadora telefónica describió con todo detalle las funciones de un smartphone... ¡en 1953!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empleado-operadora-describe-smartphone-en-1953-994769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/empleado-operadora-describe-todo-detalle-funciones-smartphone-1953-2584633.jpg' alt='Una operadora telefónica describió con todo detalle las funciones de un smartphone... ¡en 1953!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-portatil-hp-pavilion-convertible-ultraligero-queda-solo-779-euros-995965'>Este ordenador portátil HP Pavilion convertible y ultraligero se queda a solo 779 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-portatil-hp-pavilion-convertible-ultraligero-queda-solo-779-euros-995965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hp-pavilion-x360-2586987.jpg' alt='Este ordenador portátil HP Pavilion convertible y ultraligero se queda a solo 779 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465'>Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-descuentos-dias-iva-xiaomi-moviles-smart-tv-smart-home-995465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Mejores descuentos en los días sin IVA de Xiaomi: móviles, Smart TV, Smart Home y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/imaginan-concepto-yate-navega-tambien-vuela-cero-emisiones-995929'>Imaginan un concepto de yate que navega y también vuela, y con cero emisiones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/imaginan-concepto-yate-navega-tambien-vuela-cero-emisiones-995929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/air-yacht-2586927.jpg' alt='Imaginan un concepto de yate que navega y también vuela, y con cero emisiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991'>Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-288e2uae-00-oferta-994991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Este monitor Philips de 28 pulgadas y resolución 4K está en oferta con 100 euros de descuento por tiempo limitado' />
     </a>
 </div>
 
