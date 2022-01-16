@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231'>La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229'>El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-pluton-llega-portatiles-misteriosa-tecnologia-seguridad-2587257.jpg' alt='El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223'>Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blu-ray-4k-ultra-hd-2587249.jpg' alt='Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149'>Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aro-luz-elgato-ring-light-2587185.jpg' alt='Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos' />
     </a>
 </div>
 
