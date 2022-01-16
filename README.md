@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617'>Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/entrega-paquete-2582973.jpg' alt='Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-wordreference-como-funciona-diccionario-online-995421'>Qué es WordReference y cómo funciona el mejor diccionario online</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/que-es-wordreference-como-funciona-diccionario-online-995421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/word-reference-como-funciona-mejor-diccionario-online-2585839.jpg' alt='Qué es WordReference y cómo funciona el mejor diccionario online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877'>Si quieres una Smart TV grande, estos modelos de 65" están en oferta</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-qe65q80tatxxc-2367839.jpg' alt='Si quieres una Smart TV grande, estos modelos de 65" están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959'>Esta tecnología militar permite a un solo operario manejar a más de 100 drones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/offensive-swarm-enabled-tactics-2586981.jpg' alt='Esta tecnología militar permite a un solo operario manejar a más de 100 drones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/oceanos-ahora-cuentan-temperatura-alta-cualquier-otro-momento-historia-995961'>Los océanos ahora cuentan con la temperatura más alta que en cualquier otro momento de nuestra historia</a></h4>
     <a href='https://computerhoy.com/noticias/life/oceanos-ahora-cuentan-temperatura-alta-cualquier-otro-momento-historia-995961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pescador-solitario-mar-2586983.jpg' alt='Los océanos ahora cuentan con la temperatura más alta que en cualquier otro momento de nuestra historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-productos-mejorar-peliculas-series-995867'>Peli y manta: los mejores productos para disfrutar de tus películas y series como nunca antes</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-productos-mejorar-peliculas-series-995867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-sujetando-mando-distancia-apuntando-tv-2586767.jpg' alt='Peli y manta: los mejores productos para disfrutar de tus películas y series como nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tawy-tribu-zoe-carga-padre-12-horas-selva-vacunarlo-covid-995297'>La conmovedora foto de Tawy, de la tribu de los Zo'é, que cargó con su padre 12 horas por la selva para vacunarlo contra el Covid</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tawy-tribu-zoe-carga-padre-12-horas-selva-vacunarlo-covid-995297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conmovedora-historia-tawu-tribu-zoe-cargo-padre-6-horas-plena-selva-vacunarlo-covid-2585573.jpg' alt='La conmovedora foto de Tawy, de la tribu de los Zo'é, que cargó con su padre 12 horas por la selva para vacunarlo contra el Covid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desafio-visual-cual-estas-dos-tazas-real-994361'>Desafío visual: ¿cuál de estas dos tazas es real?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desafio-visual-cual-estas-dos-tazas-real-994361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desafio-visual-cual-estas-dos-tazas-real-2584169.jpg' alt='Desafío visual: ¿cuál de estas dos tazas es real?' />
     </a>
 </div>
 
