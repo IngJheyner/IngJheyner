@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205'>Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201'>Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873'>El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€</a></h4>
     <a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-cecofry-essential-rapid-sun-2586773.jpg' alt='El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053'>Lenovo Smart Wireless Earbuds, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-lenovo-smart-wireless-earbuds-2586465.jpg' alt='Lenovo Smart Wireless Earbuds, análisis y opinión' />
     </a>
 </div>
 
