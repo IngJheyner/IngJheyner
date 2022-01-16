@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229'>El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-pluton-llega-portatiles-misteriosa-tecnologia-seguridad-2587257.jpg' alt='El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227'>SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-como-protegerte-2587255.jpg' alt='SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149'>Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aro-luz-elgato-ring-light-2587185.jpg' alt='Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205'>Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado' />
     </a>
 </div>
 
