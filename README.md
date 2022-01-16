@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795'>Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/tarjeta-microsd.jpg' alt='Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673'>Honor MagicBook X14, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585335.jpg' alt='Honor MagicBook X14, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877'>Si quieres una Smart TV grande, estos modelos de 65" están en oferta</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-qe65q80tatxxc-2367839.jpg' alt='Si quieres una Smart TV grande, estos modelos de 65" están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959'>Esta tecnología militar permite a un solo operario manejar a más de 100 drones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/offensive-swarm-enabled-tactics-2586981.jpg' alt='Esta tecnología militar permite a un solo operario manejar a más de 100 drones' />
     </a>
 </div>
 
