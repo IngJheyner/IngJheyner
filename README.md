@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183'>Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179'>El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161'>¿Está Netflix a punto se subir sus precios en España?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='¿Está Netflix a punto se subir sus precios en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623'>Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oximetro-2556047.jpg' alt='Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa' />
     </a>
 </div>
 
