@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149'>Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aro-luz-elgato-ring-light-2587185.jpg' alt='Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205'>Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179'>El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873'>El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-cecofry-essential-rapid-sun-2586773.jpg' alt='El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€' />
     </a>
 </div>
 
