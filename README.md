@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201'>Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183'>Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053'>Lenovo Smart Wireless Earbuds, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-lenovo-smart-wireless-earbuds-2586465.jpg' alt='Lenovo Smart Wireless Earbuds, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161'>¿Está Netflix a punto se subir sus precios en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='¿Está Netflix a punto se subir sus precios en España?' />
     </a>
 </div>
 
