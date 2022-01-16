@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161'>¿Está Netflix a punto se subir sus precios en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='¿Está Netflix a punto se subir sus precios en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623'>Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oximetro-2556047.jpg' alt='Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795'>Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/tarjeta-microsd.jpg' alt='Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617'>Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/entrega-paquete-2582973.jpg' alt='Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-wordreference-como-funciona-diccionario-online-995421'>Qué es WordReference y cómo funciona el mejor diccionario online</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/que-es-wordreference-como-funciona-diccionario-online-995421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/word-reference-como-funciona-mejor-diccionario-online-2585839.jpg' alt='Qué es WordReference y cómo funciona el mejor diccionario online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877'>Si quieres una Smart TV grande, estos modelos de 65" están en oferta</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-qe65q80tatxxc-2367839.jpg' alt='Si quieres una Smart TV grande, estos modelos de 65" están en oferta' />
     </a>
 </div>
 
