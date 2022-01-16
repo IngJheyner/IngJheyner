@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223'>Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blu-ray-4k-ultra-hd-2587249.jpg' alt='Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149'>Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aro-luz-led-que-saber-mejores-modelos-996149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aro-luz-elgato-ring-light-2587185.jpg' alt='Comprar un aro de luz: todo lo que debes saber y cuáles son los mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183'>Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179'>El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G' />
     </a>
 </div>
 
