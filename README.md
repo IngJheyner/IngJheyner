@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227'>SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-como-protegerte-2587255.jpg' alt='SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223'>Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blu-ray-4k-ultra-hd-2587249.jpg' alt='Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205'>Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-lanzara-movil-plegable-pixel-notepad-precio-inferior-esperado-996205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='Google lanzará su móvil plegable Pixel Notepad a un precio inferior a lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201'>Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-fuerte-nueva-linea-galaxy-tab-s8-estas-serian-especificaciones-996201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Samsung apuesta fuerte por su nueva línea Galaxy Tab S8 y estas serían sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183'>Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/potente-mini-pc-queda-solo-16796-euros-cupon-descuento-amazon-996183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='Este potente mini PC se queda a solo 167,96 euros con este cupón de descuento en Amazon' />
     </a>
 </div>
 
