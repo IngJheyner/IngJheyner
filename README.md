@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137'>La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dgt-explica-como-funciona-tecnologia-avanzada-detectar-infracciones-500-metros-distancia-2580803.jpg' alt='La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231'>La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223'>Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/blu-ray-4k-ultra-hd-pc-nuevos-procesadores-intel-sgx-996223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blu-ray-4k-ultra-hd-2587249.jpg' alt='Cuidado si reproduces discos Blu-ray 4K Ultra HD en el PC, no funcionan con los nuevos procesadores de Intel' />
     </a>
 </div>
 
