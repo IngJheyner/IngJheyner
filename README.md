@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673'>Honor MagicBook X14, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585335.jpg' alt='Honor MagicBook X14, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617'>Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/entrega-paquete-2582973.jpg' alt='Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959'>Esta tecnología militar permite a un solo operario manejar a más de 100 drones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-militar-permite-solo-operario-manejar-100-drones-995959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/offensive-swarm-enabled-tactics-2586981.jpg' alt='Esta tecnología militar permite a un solo operario manejar a más de 100 drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/oceanos-ahora-cuentan-temperatura-alta-cualquier-otro-momento-historia-995961'>Los océanos ahora cuentan con la temperatura más alta que en cualquier otro momento de nuestra historia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/oceanos-ahora-cuentan-temperatura-alta-cualquier-otro-momento-historia-995961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pescador-solitario-mar-2586983.jpg' alt='Los océanos ahora cuentan con la temperatura más alta que en cualquier otro momento de nuestra historia' />
     </a>
 </div>
 
