@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179'>El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-air-lanzaria-primavera-chip-a15-5g-996179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='El nuevo iPad Air se lanzaría esta primavera con chip A15 y 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873'>El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cecotec-cecofry-essential-rapid-sun-freidora-aire-oferta-995873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-cecofry-essential-rapid-sun-2586773.jpg' alt='El último modelo de freidora sin aceite de Cecotec con una cubeta de 2,5 litros está rebajada a 52€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053'>Lenovo Smart Wireless Earbuds, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-smart-wireless-earbuds-review-opinion-994053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-lenovo-smart-wireless-earbuds-2586465.jpg' alt='Lenovo Smart Wireless Earbuds, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161'>¿Está Netflix a punto se subir sus precios en España?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-punto-subir-precios-espana-996161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='¿Está Netflix a punto se subir sus precios en España?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623'>Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-completa-comprar-oximetro-medidor-oxigeno-sangre-casa-976623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oximetro-2556047.jpg' alt='Guía completa para comprar un oxímetro o medidor de oxígeno en sangre en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795'>Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ampliar-memoria-ram-movil-android-utilizando-microsd-953795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/tarjeta-microsd.jpg' alt='Cómo ampliar la memoria RAM de un móvil Android utilizando una microSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673'>Honor MagicBook X14, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/honor-magicbook-x14-review-opinion-994673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585335.jpg' alt='Honor MagicBook X14, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617'>Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/entrega-amazon-retrasa-puedes-hacer-993617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/entrega-paquete-2582973.jpg' alt='Si tu entrega de Amazon se retrasa, ¿qué puedes hacer?' />
     </a>
 </div>
 
