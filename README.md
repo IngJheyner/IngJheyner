@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-router-wifi-comete-casi-todo-mundo-pone-riesgo-datos-personales-996503'>El error con el router WiFi que comete casi todo el mundo y que pone en riesgo tus datos personales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-router-wifi-comete-casi-todo-mundo-pone-riesgo-datos-personales-996503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/conectando-router-2469747.jpg' alt='El error con el router WiFi que comete casi todo el mundo y que pone en riesgo tus datos personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-gamers-crisis-tarjetas-graficas-va-peor-diciembre-fue-desastroso-996495'>Malas noticias para los gamers: la crisis de las tarjetas gráficas va a peor y diciembre fue desastroso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-gamers-crisis-tarjetas-graficas-va-peor-diciembre-fue-desastroso-996495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='Malas noticias para los gamers: la crisis de las tarjetas gráficas va a peor y diciembre fue desastroso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455'>El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/tierra-desastre-2327223.jpg' alt='El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411'>Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415'>Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ordenador-antiguo-2587473.jpg' alt='Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401'>5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/maquina-remo-2587469.jpg' alt='5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa' />
     </a>
 </div>
 
