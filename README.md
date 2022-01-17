@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455'>El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/tierra-desastre-2327223.jpg' alt='El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-hbo-max-diciembre-espectadores-996469'>Succession fue la mejor serie de HBO Max en diciembre, pero otra tuvo más espectadores</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-hbo-max-diciembre-espectadores-996469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/and-just-2492801.jpg' alt='Succession fue la mejor serie de HBO Max en diciembre, pero otra tuvo más espectadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411'>Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401'>5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa</a></h4>
     <a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/maquina-remo-2587469.jpg' alt='5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-empieza-temporada-final-mejores-series-996395'>Todos los estrenos de la semana en Netflix: empieza la temporada final de una de sus mejores series</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-empieza-temporada-final-mejores-series-996395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ozark-2555827.jpg' alt='Todos los estrenos de la semana en Netflix: empieza la temporada final de una de sus mejores series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429'>Las aerolíneas baratas más seguras en las que puedes viajar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/avion-easyjet.jpg' alt='Las aerolíneas baratas más seguras en las que puedes viajar' />
     </a>
 </div>
 
