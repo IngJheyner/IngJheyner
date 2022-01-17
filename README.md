@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuidado-clipboard-hijacking-puedes-evitarlo-995403'>Cuidado con el Clipboard Hijacking, así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/cuidado-clipboard-hijacking-puedes-evitarlo-995403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portapapeles-2585791.jpg' alt='Cuidado con el Clipboard Hijacking, así puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasa-cuenta-gmail-cuando-fallece-dueno-como-dejarlo-todo-organizado-991735'>¿Qué pasa con una cuenta Gmail cuando fallece su dueño? Cómo dejarlo todo organizado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/pasa-cuenta-gmail-cuando-fallece-dueno-como-dejarlo-todo-organizado-991735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gmail-2580177.jpg' alt='¿Qué pasa con una cuenta Gmail cuando fallece su dueño? Cómo dejarlo todo organizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823'>La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros</a></h4>
     <a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/explosion-volcan-hunga-tonga-hunga-haapai-ha-sido-grande-ultimos-1000-anos-escucho-9000-kilometros-2588437.jpg' alt='La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/doble-keanu-reeves-hace-cameo-honorifico-matrix-resurrections-996607'>El doble de Keanu Reeves hace un cameo honorífico en Matrix Resurrections</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/doble-keanu-reeves-hace-cameo-honorifico-matrix-resurrections-996607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566693.jpg' alt='El doble de Keanu Reeves hace un cameo honorífico en Matrix Resurrections' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/archivo-81-nueva-terrorifica-serie-netflix-996815'>3 motivos por los que no puedes perderte Archivo 81, la nueva y terrorífica serie de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/archivo-81-nueva-terrorifica-serie-netflix-996815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/3-motivos-no-puedes-perderte-archivo-81-nueva-terrorifica-serie-netflix-2588403.jpg' alt='3 motivos por los que no puedes perderte Archivo 81, la nueva y terrorífica serie de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-unico-ha-hecho-falta-llevar-apple-carplay-tesla-996797'>Una Raspberry Pi es lo único que ha hecho falta para llevar Apple CarPlay a un Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-unico-ha-hecho-falta-llevar-apple-carplay-tesla-996797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Una Raspberry Pi es lo único que ha hecho falta para llevar Apple CarPlay a un Tesla' />
     </a>
 </div>
 
