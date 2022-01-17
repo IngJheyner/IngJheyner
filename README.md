@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-detector-fatiga-somnolencia-obligatorio-ano-coches-nuevos-996655'>Cómo funciona el detector de fatiga y somnolencia obligatorio este año en coches nuevos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-funciona-detector-fatiga-somnolencia-obligatorio-ano-coches-nuevos-996655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/volante-coche-chrysler.jpg' alt='Cómo funciona el detector de fatiga y somnolencia obligatorio este año en coches nuevos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725'>Lo último en aviación: instalar láseres antimisiles en aviones de carga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='Lo último en aviación: instalar láseres antimisiles en aviones de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kevlar-chalecos-antibalas-podria-ser-secreto-multiplicar-cinco-autonomia-coches-electricos-996613'>El Kevlar de los chalecos antibalas podría ser el secreto para multiplicar por cinco la autonomía de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kevlar-chalecos-antibalas-podria-ser-secreto-multiplicar-cinco-autonomia-coches-electricos-996613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='El Kevlar de los chalecos antibalas podría ser el secreto para multiplicar por cinco la autonomía de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695'>Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-precio-liquidacion-996445'>¡Chollo para fans de Apple! Los AirPods Max están a precio de liquidación por 415 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-precio-liquidacion-996445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oferta-especial-airpods-max-2587543.jpg' alt='¡Chollo para fans de Apple! Los AirPods Max están a precio de liquidación por 415 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seran-nuevos-vivo-x80-camaras-afinadas-zeiss-chips-qualcomm-mediatek-996677'>Así serán los nuevos Vivo X80 con cámaras afinadas por Zeiss y chips Qualcomm y Mediatek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seran-nuevos-vivo-x80-camaras-afinadas-zeiss-chips-qualcomm-mediatek-996677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-x70-pro-imagen-promocional-2466683.jpg' alt='Así serán los nuevos Vivo X80 con cámaras afinadas por Zeiss y chips Qualcomm y Mediatek' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581'>Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-mal-wifi-sistema-malla-3-routers-huawei-cuesta-169-euros-promete-arreglar-todos-problemas-conexion-cobertura-996467'>Adiós mal WiFi: El sistema en malla de 3 routers de Huawei cuesta 169 euros y promete arreglar todos tus problemas de conexión y cobertura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-mal-wifi-sistema-malla-3-routers-huawei-cuesta-169-euros-promete-arreglar-todos-problemas-conexion-cobertura-996467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-wifi-mesh-2587725.jpg' alt='Adiós mal WiFi: El sistema en malla de 3 routers de Huawei cuesta 169 euros y promete arreglar todos tus problemas de conexión y cobertura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597'>¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lluvia-2587867.jpg' alt='¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suspende-hiberna-ordenador-windows-ahorrar-energia-lugar-apagarlo-996701'>Suspende o hiberna tu ordenador Windows para ahorrar energía en lugar de apagarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suspende-hiberna-ordenador-windows-ahorrar-energia-lugar-apagarlo-996701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Suspende o hiberna tu ordenador Windows para ahorrar energía en lugar de apagarlo' />
     </a>
 </div>
 
