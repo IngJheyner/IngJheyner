@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415'>Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ordenador-antiguo-2587473.jpg' alt='Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401'>5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/maquinas-remo-baratas-envio-gratis-ponerte-forma-salir-casa-996401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/maquina-remo-2587469.jpg' alt='5 máquinas de remo baratas con envío gratis para ponerte en forma sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-empieza-temporada-final-mejores-series-996395'>Todos los estrenos de la semana en Netflix: empieza la temporada final de una de sus mejores series</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-empieza-temporada-final-mejores-series-996395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ozark-2555827.jpg' alt='Todos los estrenos de la semana en Netflix: empieza la temporada final de una de sus mejores series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429'>Las aerolíneas baratas más seguras en las que puedes viajar</a></h4>
     <a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/avion-easyjet.jpg' alt='Las aerolíneas baratas más seguras en las que puedes viajar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419'>Los problemas de software que provoca el Efecto 2022 en los coches</a></h4>
     <a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honda-civic-2506793.jpg' alt='Los problemas de software que provoca el Efecto 2022 en los coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2587431.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-apple-mac-mini-m1-mejor-mini-pc-mundo-992741'>5 motivos por los que el Mac Mini con M1 es el mejor Mini PC del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-apple-mac-mini-m1-mejor-mini-pc-mundo-992741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='5 motivos por los que el Mac Mini con M1 es el mejor Mini PC del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137'>La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dgt-explica-como-funciona-tecnologia-avanzada-detectar-infracciones-500-metros-distancia-2580803.jpg' alt='La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia' />
     </a>
 </div>
 
