@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429'>Las aerolíneas baratas más seguras en las que puedes viajar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/avion-easyjet.jpg' alt='Las aerolíneas baratas más seguras en las que puedes viajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419'>Los problemas de software que provoca el Efecto 2022 en los coches</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honda-civic-2506793.jpg' alt='Los problemas de software que provoca el Efecto 2022 en los coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2587431.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137'>La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dgt-explica-como-funciona-tecnologia-avanzada-detectar-infracciones-500-metros-distancia-2580803.jpg' alt='La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231'>La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-oferta-996231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='La tablet realme Pad baja espectacularmente de precio, y su hardware es excelente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229'>El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-pluton-llega-portatiles-misteriosa-tecnologia-seguridad-2587257.jpg' alt='El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?' />
     </a>
 </div>
 
