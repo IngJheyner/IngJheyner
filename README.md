@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-router-wifi-comete-casi-todo-mundo-pone-riesgo-datos-personales-996503'>El error con el router WiFi que comete casi todo el mundo y que pone en riesgo tus datos personales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-router-wifi-comete-casi-todo-mundo-pone-riesgo-datos-personales-996503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/conectando-router-2469747.jpg' alt='El error con el router WiFi que comete casi todo el mundo y que pone en riesgo tus datos personales' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575'>Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-gamers-crisis-tarjetas-graficas-va-peor-diciembre-fue-desastroso-996495'>Malas noticias para los gamers: la crisis de las tarjetas gráficas va a peor y diciembre fue desastroso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-gamers-crisis-tarjetas-graficas-va-peor-diciembre-fue-desastroso-996495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='Malas noticias para los gamers: la crisis de las tarjetas gráficas va a peor y diciembre fue desastroso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-sera-protagonista-papel-tendra-2022-995485'>La Inteligencia Artificial será la protagonista. El papel que tendrá en este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-sera-protagonista-papel-tendra-2022-995485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/inteligencia-artificial-2585261.jpg' alt='La Inteligencia Artificial será la protagonista. El papel que tendrá en este 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455'>El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nucleo-tierra-enfriando-mucho-rapido-creiamos-996455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/tierra-desastre-2327223.jpg' alt='El núcleo de la Tierra se está enfriando mucho más rápido de lo que creíamos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559'>106.5 el número maldito de la DGT que nadie desea tener en su carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='106.5 el número maldito de la DGT que nadie desea tener en su carnet de conducir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-hbo-max-diciembre-espectadores-996469'>Succession fue la mejor serie de HBO Max en diciembre, pero otra tuvo más espectadores</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-hbo-max-diciembre-espectadores-996469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/and-just-2492801.jpg' alt='Succession fue la mejor serie de HBO Max en diciembre, pero otra tuvo más espectadores' />
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-esperar-tercera-vacuna-has-pasado-omicron-996567'>¿Cuánto tiempo tienes que esperar para la tercera vacuna si has pasado Omicron? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-esperar-tercera-vacuna-has-pasado-omicron-996567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/vacuna-coronavirus-2219773.jpg' alt='¿Cuánto tiempo tienes que esperar para la tercera vacuna si has pasado Omicron? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411'>Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google' />
+    <h4><a href='https://computerhoy.com/noticias/life/freidora-aceite-lidl-familias-grandes-asa-dora-hornea-gratina-tuesta-deshidrata-996517'>La freidora sin aceite de LIDL para familias grandes que asa, dora, hornea, gratina, tuesta y deshidrata</a></h4>
+    <a href='https://computerhoy.com/noticias/life/freidora-aceite-lidl-familias-grandes-asa-dora-hornea-gratina-tuesta-deshidrata-996517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aire-2587659.jpg' alt='La freidora sin aceite de LIDL para familias grandes que asa, dora, hornea, gratina, tuesta y deshidrata' />
     </a>
 </div>
 
