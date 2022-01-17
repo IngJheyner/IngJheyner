@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823'>La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/explosion-volcan-hunga-tonga-hunga-haapai-ha-sido-grande-ultimos-1000-anos-escucho-9000-kilometros-2588437.jpg' alt='La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719'>Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/analisis-galaxy-tab-s6-lite-1956233.jpg' alt='Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-unico-ha-hecho-falta-llevar-apple-carplay-tesla-996797'>Una Raspberry Pi es lo único que ha hecho falta para llevar Apple CarPlay a un Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-unico-ha-hecho-falta-llevar-apple-carplay-tesla-996797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Una Raspberry Pi es lo único que ha hecho falta para llevar Apple CarPlay a un Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601'>Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevada-estado-virginia-ee-uu-2581867.jpg' alt='Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada' />
     </a>
 </div>
 
