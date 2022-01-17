@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-apple-watch-series-7-oferta-limitada-996541'>Amazon ha rebajado el último reloj de Apple y además tiene stock: Apple Watch Series 7 desde 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-apple-watch-series-7-oferta-limitada-996541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-watch-series-7-accesorios-2587793.jpg' alt='Amazon ha rebajado el último reloj de Apple y además tiene stock: Apple Watch Series 7 desde 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-find-n-review-opinion-994679'>Oppo Find N, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-find-n-review-opinion-994679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588333.jpg' alt='Oppo Find N, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podria-llegar-europa-exynos-2200-lugar-snapdragon-8-gen-1-996693'>El Samsung Galaxy S22+ podría llegar a Europa con el Exynos 2200 en lugar de con el Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podria-llegar-europa-exynos-2200-lugar-snapdragon-8-gen-1-996693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='El Samsung Galaxy S22+ podría llegar a Europa con el Exynos 2200 en lugar de con el Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725'>Lo último en aviación: instalar láseres antimisiles en aviones de carga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='Lo último en aviación: instalar láseres antimisiles en aviones de carga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695'>Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seran-nuevos-vivo-x80-camaras-afinadas-zeiss-chips-qualcomm-mediatek-996677'>Así serán los nuevos Vivo X80 con cámaras afinadas por Zeiss y chips Qualcomm y Mediatek</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seran-nuevos-vivo-x80-camaras-afinadas-zeiss-chips-qualcomm-mediatek-996677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-x70-pro-imagen-promocional-2466683.jpg' alt='Así serán los nuevos Vivo X80 con cámaras afinadas por Zeiss y chips Qualcomm y Mediatek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-mal-wifi-sistema-malla-3-routers-huawei-cuesta-169-euros-promete-arreglar-todos-problemas-conexion-cobertura-996467'>Adiós mal WiFi: El sistema en malla de 3 routers de Huawei cuesta 169 euros y promete arreglar todos tus problemas de conexión y cobertura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-mal-wifi-sistema-malla-3-routers-huawei-cuesta-169-euros-promete-arreglar-todos-problemas-conexion-cobertura-996467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-wifi-mesh-2587725.jpg' alt='Adiós mal WiFi: El sistema en malla de 3 routers de Huawei cuesta 169 euros y promete arreglar todos tus problemas de conexión y cobertura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suspende-hiberna-ordenador-windows-ahorrar-energia-lugar-apagarlo-996701'>Suspende o hiberna tu ordenador Windows para ahorrar energía en lugar de apagarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suspende-hiberna-ordenador-windows-ahorrar-energia-lugar-apagarlo-996701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Suspende o hiberna tu ordenador Windows para ahorrar energía en lugar de apagarlo' />
     </a>
 </div>
 
