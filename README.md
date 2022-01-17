@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-detector-fatiga-somnolencia-obligatorio-ano-coches-nuevos-996655'>Cómo funciona el detector de fatiga y somnolencia obligatorio este año en coches nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-funciona-detector-fatiga-somnolencia-obligatorio-ano-coches-nuevos-996655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/volante-coche-chrysler.jpg' alt='Cómo funciona el detector de fatiga y somnolencia obligatorio este año en coches nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kevlar-chalecos-antibalas-podria-ser-secreto-multiplicar-cinco-autonomia-coches-electricos-996613'>El Kevlar de los chalecos antibalas podría ser el secreto para multiplicar por cinco la autonomía de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kevlar-chalecos-antibalas-podria-ser-secreto-multiplicar-cinco-autonomia-coches-electricos-996613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='El Kevlar de los chalecos antibalas podría ser el secreto para multiplicar por cinco la autonomía de los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-precio-liquidacion-996445'>¡Chollo para fans de Apple! Los AirPods Max están a precio de liquidación por 415 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-precio-liquidacion-996445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oferta-especial-airpods-max-2587543.jpg' alt='¡Chollo para fans de Apple! Los AirPods Max están a precio de liquidación por 415 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581'>Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597'>¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lluvia-2587867.jpg' alt='¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-996589'>Así se puede personalizar la trasera de los Vivo V23 gracias a su cristal de fluorita al darles el sol</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-996589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-2587885.jpg' alt='Así se puede personalizar la trasera de los Vivo V23 gracias a su cristal de fluorita al darles el sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hasselblad-colaborara-sistema-camaras-oppo-find-x5-pro-996603'>Hasselblad colaborará en el sistema de cámaras del Oppo Find X5 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hasselblad-colaborara-sistema-camaras-oppo-find-x5-pro-996603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-find-x5-pro-2587873.jpg' alt='Hasselblad colaborará en el sistema de cámaras del Oppo Find X5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575'>Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas' />
     </a>
 </div>
 
