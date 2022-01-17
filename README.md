@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411'>Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bug-safari-estaria-exponiendo-datos-usuarios-apple-incluyendo-informacion-cuentas-google-996411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Un bug en Safari estaría exponiendo los datos de los usuarios de Apple, incluyendo información de las cuentas de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415'>Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-minar-bitcoin-1989-dinero-996415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ordenador-antiguo-2587473.jpg' alt='Cualquier ordenador puede minar bitcoin, hasta uno de 1989, pero no esperes ganar demasiado dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429'>Las aerolíneas baratas más seguras en las que puedes viajar</a></h4>
     <a href='https://computerhoy.com/noticias/life/aerolineas-baratas-seguras-puedes-viajar-995429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/avion-easyjet.jpg' alt='Las aerolíneas baratas más seguras en las que puedes viajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419'>Los problemas de software que provoca el Efecto 2022 en los coches</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/problemas-software-provoca-efecto-2022-coches-995419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honda-civic-2506793.jpg' alt='Los problemas de software que provoca el Efecto 2022 en los coches' />
     </a>
 </div>
 
