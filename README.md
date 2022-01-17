@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-996379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2587431.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-apple-mac-mini-m1-mejor-mini-pc-mundo-992741'>5 motivos por los que el Mac Mini con M1 es el mejor Mini PC del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-apple-mac-mini-m1-mejor-mini-pc-mundo-992741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='5 motivos por los que el Mac Mini con M1 es el mejor Mini PC del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137'>La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-drones-infracciones-500-metros-distancia-992137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dgt-explica-como-funciona-tecnologia-avanzada-detectar-infracciones-500-metros-distancia-2580803.jpg' alt='La DGT explica cómo funciona su tecnología más avanzada para detectar infracciones a 500 metros de distancia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229'>El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-microsoft-pluton-portatiles-lenovo-amd-ryzen-996229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-pluton-llega-portatiles-misteriosa-tecnologia-seguridad-2587257.jpg' alt='El procesador Microsoft Pluton llega a los portátiles: ¿qué es esta misteriosa tecnología de seguridad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227'>SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-996227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sysjoker-nueva-puerta-trasera-afecta-windows-mac-linux-como-protegerte-2587255.jpg' alt='SysJoker es una nueva puerta trasera que afecta a Windows, Mac y Linux: cómo protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Guía para comprar en AliExpress: cómo funciona, qué debes saber y cómo encontrar las mejores ofertas' />
     </a>
 </div>
 
