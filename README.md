@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581'>Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-volver-smartphones-top-motorola-frontier-snapdragon-top-200-mpx-camara-996581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola quiere volver a los smartphones top con el Motorola Frontier con Snapdragon top y 200 Mpx de cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597'>¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-ropa-ponerte-app-elige-ti-tiempo-hace-996597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lluvia-2587867.jpg' alt='¿No sabes qué ropa ponerte? Esta app elige por ti según el tiempo que hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-996589'>Así se puede personalizar la trasera de los Vivo V23 gracias a su cristal de fluorita al darles el sol</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-996589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/puede-personalizar-trasera-vivo-v23-gracias-cristal-fluorita-darles-sol-2587885.jpg' alt='Así se puede personalizar la trasera de los Vivo V23 gracias a su cristal de fluorita al darles el sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hasselblad-colaborara-sistema-camaras-oppo-find-x5-pro-996603'>Hasselblad colaborará en el sistema de cámaras del Oppo Find X5 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hasselblad-colaborara-sistema-camaras-oppo-find-x5-pro-996603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-find-x5-pro-2587873.jpg' alt='Hasselblad colaborará en el sistema de cámaras del Oppo Find X5 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575'>Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-quedaria-streaming-espana-netflix-finalmente-sube-precio-comparativa-todas-plataformas-996575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Cómo quedaría el streaming en España si Netflix finalmente sube de precio: comparativa con todas las plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-sera-protagonista-papel-tendra-2022-995485'>La Inteligencia Artificial será la protagonista. El papel que tendrá en este 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-sera-protagonista-papel-tendra-2022-995485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/inteligencia-artificial-2585261.jpg' alt='La Inteligencia Artificial será la protagonista. El papel que tendrá en este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559'>106.5 el número maldito de la DGT que nadie desea tener en su carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='106.5 el número maldito de la DGT que nadie desea tener en su carnet de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-esperar-tercera-vacuna-has-pasado-omicron-996567'>¿Cuánto tiempo tienes que esperar para la tercera vacuna si has pasado Omicron? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-esperar-tercera-vacuna-has-pasado-omicron-996567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/vacuna-coronavirus-2219773.jpg' alt='¿Cuánto tiempo tienes que esperar para la tercera vacuna si has pasado Omicron? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/freidora-aceite-lidl-familias-grandes-asa-dora-hornea-gratina-tuesta-deshidrata-996517'>La freidora sin aceite de LIDL para familias grandes que asa, dora, hornea, gratina, tuesta y deshidrata</a></h4>
-    <a href='https://computerhoy.com/noticias/life/freidora-aceite-lidl-familias-grandes-asa-dora-hornea-gratina-tuesta-deshidrata-996517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aire-2587659.jpg' alt='La freidora sin aceite de LIDL para familias grandes que asa, dora, hornea, gratina, tuesta y deshidrata' />
     </a>
 </div>
 
