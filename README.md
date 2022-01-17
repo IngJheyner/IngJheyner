@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719'>Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/analisis-galaxy-tab-s6-lite-1956233.jpg' alt='Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/doble-keanu-reeves-hace-cameo-honorifico-matrix-resurrections-996607'>El doble de Keanu Reeves hace un cameo honorífico en Matrix Resurrections</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/doble-keanu-reeves-hace-cameo-honorifico-matrix-resurrections-996607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566693.jpg' alt='El doble de Keanu Reeves hace un cameo honorífico en Matrix Resurrections' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/archivo-81-nueva-terrorifica-serie-netflix-996815'>3 motivos por los que no puedes perderte Archivo 81, la nueva y terrorífica serie de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/archivo-81-nueva-terrorifica-serie-netflix-996815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/3-motivos-no-puedes-perderte-archivo-81-nueva-terrorifica-serie-netflix-2588403.jpg' alt='3 motivos por los que no puedes perderte Archivo 81, la nueva y terrorífica serie de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601'>Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada</a></h4>
     <a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevada-estado-virginia-ee-uu-2581867.jpg' alt='Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-opciones-ser-proxima-shiba-inu-2022-expertos-996799'>La criptomoneda con más opciones de ser la próxima Shiba Inu de 2022 según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-opciones-ser-proxima-shiba-inu-2022-expertos-996799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2588371.jpg' alt='La criptomoneda con más opciones de ser la próxima Shiba Inu de 2022 según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cal-otra-arena-mercadona-defrauda-sorprende-decisiones-nuevos-productos-996791'>Una de cal y otra de arena: Mercadona defrauda y sorprende con sus decisiones y nuevos productos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cal-otra-arena-mercadona-defrauda-sorprende-decisiones-nuevos-productos-996791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/croquetas-2588363.jpg' alt='Una de cal y otra de arena: Mercadona defrauda y sorprende con sus decisiones y nuevos productos' />
     </a>
 </div>
 
