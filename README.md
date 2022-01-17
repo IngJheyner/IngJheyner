@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-apple-watch-series-7-oferta-limitada-996541'>Amazon ha rebajado el último reloj de Apple y además tiene stock: Apple Watch Series 7 desde 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-rebaja-apple-watch-series-7-oferta-limitada-996541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-watch-series-7-accesorios-2587793.jpg' alt='Amazon ha rebajado el último reloj de Apple y además tiene stock: Apple Watch Series 7 desde 399 euros' />
+    <h4><a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601'>Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/quedarte-atrapado-uber-puede-salirte-caro-400-dolares-14-horas-nevada-996601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevada-estado-virginia-ee-uu-2581867.jpg' alt='Quedarte atrapado en un Uber puede salirte caro: 400 dólares tras 14 horas en una nevada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-find-n-review-opinion-994679'>Oppo Find N, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-find-n-review-opinion-994679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588333.jpg' alt='Oppo Find N, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-opciones-ser-proxima-shiba-inu-2022-expertos-996799'>La criptomoneda con más opciones de ser la próxima Shiba Inu de 2022 según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-opciones-ser-proxima-shiba-inu-2022-expertos-996799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2588371.jpg' alt='La criptomoneda con más opciones de ser la próxima Shiba Inu de 2022 según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podria-llegar-europa-exynos-2200-lugar-snapdragon-8-gen-1-996693'>El Samsung Galaxy S22+ podría llegar a Europa con el Exynos 2200 en lugar de con el Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-podria-llegar-europa-exynos-2200-lugar-snapdragon-8-gen-1-996693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='El Samsung Galaxy S22+ podría llegar a Europa con el Exynos 2200 en lugar de con el Snapdragon 8 Gen 1' />
+    <h4><a href='https://computerhoy.com/noticias/life/cal-otra-arena-mercadona-defrauda-sorprende-decisiones-nuevos-productos-996791'>Una de cal y otra de arena: Mercadona defrauda y sorprende con sus decisiones y nuevos productos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cal-otra-arena-mercadona-defrauda-sorprende-decisiones-nuevos-productos-996791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/croquetas-2588363.jpg' alt='Una de cal y otra de arena: Mercadona defrauda y sorprende con sus decisiones y nuevos productos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725'>Lo último en aviación: instalar láseres antimisiles en aviones de carga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-aviacion-instalar-laseres-antimisiles-aviones-carga-996725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='Lo último en aviación: instalar láseres antimisiles en aviones de carga' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-widgets-terceros-llegaria-fin-windows-11-996739'>El soporte para widgets de terceros llegaría por fin a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soporte-widgets-terceros-llegaria-fin-windows-11-996739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='El soporte para widgets de terceros llegaría por fin a Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695'>Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-mixta-apple-costarian-mismo-macbook-pro-llevarian-mismo-procesador-996695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas de realidad mixta de Apple costarían lo mismo que un MacBook Pro y llevarían el mismo procesador' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kosovo-prohibe-mineria-criptomonedas-996777'>Kosovo también prohíbe la minería de criptomonedas, y el Bitcoin acelera su caída</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kosovo-prohibe-mineria-criptomonedas-996777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Kosovo también prohíbe la minería de criptomonedas, y el Bitcoin acelera su caída' />
     </a>
 </div>
 
