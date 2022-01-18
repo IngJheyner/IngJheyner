@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397'>Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-2589563.jpg' alt='Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167'>Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/grogu-mandalorian-2511223.jpg' alt='Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399'>Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mejor-radio-coche-android-auto-pantalla-tactil-2187205.jpg' alt='Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395'>¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/omega-mart-2589553.jpg' alt='¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cadillac-fleetwood-brougham-elvis-encuentra-venta-997163'>Así es el Cadillac Fleetwood Brougham de Elvis que se encuentra a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cadillac-fleetwood-brougham-elvis-encuentra-venta-997163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cadillac-fleetwood-brougham-elvis-presley-2582767.jpg' alt='Así es el Cadillac Fleetwood Brougham de Elvis que se encuentra a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-997389'>Las dos razones por las que Volkswagen paraliza la fabricación de 500.000 coches eléctricos en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-997389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-2589537.jpg' alt='Las dos razones por las que Volkswagen paraliza la fabricación de 500.000 coches eléctricos en España' />
     </a>
 </div>
 
