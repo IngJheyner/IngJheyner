@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107'>Este es el juego online que está triunfando en internet: ordena cronológicamente las cartas con Wikitrivia</a></h4>
+    <h4><a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081'>Xiaomi tira la casa por la ventana: Estas son las mejores ofertas de enero en su tienda online</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Xiaomi tira la casa por la ventana: Estas son las mejores ofertas de enero en su tienda online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-puede-ver-contenido-4k-hbo-max-espana-997137'>Por qué no se puede ver contenido a 4K en HBO Max España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-puede-ver-contenido-4k-hbo-max-espana-997137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2588923.jpg' alt='Por qué no se puede ver contenido a 4K en HBO Max España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107'>El juego online que está triunfando en Internet: ordena cronológicamente las cartas con Wikitrivia</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wikitrivia-2588841.jpg' alt='Este es el juego online que está triunfando en internet: ordena cronológicamente las cartas con Wikitrivia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wikitrivia-2588841.jpg' alt='El juego online que está triunfando en Internet: ordena cronológicamente las cartas con Wikitrivia' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069'>Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/baterias-futuro-coche-electrico-tendran-10-veces-capacidad-2494743.jpg' alt='Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045'>Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevera-aplicacion-movil-2588693.jpg' alt='Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057'>El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/moon-knight-2588603.jpg' alt='El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+' />
     </a>
 </div>
 
