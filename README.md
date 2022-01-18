@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593'>Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pasta-termica-procesador-2588109.jpg' alt='Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013'>España regulará la publicidad de criptomonedas, incluyendo a los influencers </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='España regulará la publicidad de criptomonedas, incluyendo a los influencers ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-criptomonedas-cada-vez-sincronizado-mercado-bursatil-996619'>El precio de las criptomonedas cada vez está más sincronizado con el mercado bursátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-criptomonedas-cada-vez-sincronizado-mercado-bursatil-996619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2581583.jpg' alt='El precio de las criptomonedas cada vez está más sincronizado con el mercado bursátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-lujo-bmw-audi-mercedes-son-ahora-caros-996611'>Los coches de lujo de BMW, Audi y Mercedes son ahora más caros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-lujo-bmw-audi-mercedes-son-ahora-caros-996611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bmw-ix-m60-2578495.jpg' alt='Los coches de lujo de BMW, Audi y Mercedes son ahora más caros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-996997'>41 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-996997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/41-noticias-tecnologia-comenzar-manana-informado-ultimo-2588605.jpg' alt='41 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-san-valentin-puedes-comprar-2022-996717'>Mejores regalos de San Valentín para tu novia que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-san-valentin-puedes-comprar-2022-996717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-tapandose-ojos-modo-sorpresa-2588171.jpg' alt='Mejores regalos de San Valentín para tu novia que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-alimentos-alivian-ardor-estomago-996995'> 7 alimentos que alivian el ardor de estómago</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-alimentos-alivian-ardor-estomago-996995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/8-alimentos-alivian-ardor-estomago-2588597.jpg' alt=' 7 alimentos que alivian el ardor de estómago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845'>Cómo saber quién ha entrado en mi cuenta de Facebook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Cómo saber quién ha entrado en mi cuenta de Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829'>El platillo volante tripulado ZEVA Zero ya vuela por el cielo como un OVNI cualquiera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/platillo-volante-unipersonal-zeva-zero-ya-vuela-persona-dentro-2588457.jpg' alt='El platillo volante tripulado ZEVA Zero ya vuela por el cielo como un OVNI cualquiera' />
     </a>
 </div>
 
