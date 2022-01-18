@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045'>Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevera-aplicacion-movil-2588693.jpg' alt='Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057'>El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/moon-knight-2588603.jpg' alt='El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/samsung-anuncia-oficialmente-exynos-2200-gpu-xclipse-920-basada-amd-rdna2-997025'>Samsung anuncia oficialmente el Exynos 2200 con GPU Xclipse 920 basada en AMD RDNA2</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-anuncia-oficialmente-exynos-2200-gpu-xclipse-920-basada-amd-rdna2-997025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/exynos-2200-2588671.jpg' alt='Samsung anuncia oficialmente el Exynos 2200 con GPU Xclipse 920 basada en AMD RDNA2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593'>Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pasta-termica-procesador-2588109.jpg' alt='Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013'>España regulará la publicidad de criptomonedas, incluyendo a los influencers </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='España regulará la publicidad de criptomonedas, incluyendo a los influencers ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-criptomonedas-cada-vez-sincronizado-mercado-bursatil-996619'>El precio de las criptomonedas cada vez está más sincronizado con el mercado bursátil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-criptomonedas-cada-vez-sincronizado-mercado-bursatil-996619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2581583.jpg' alt='El precio de las criptomonedas cada vez está más sincronizado con el mercado bursátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-lujo-bmw-audi-mercedes-son-ahora-caros-996611'>Los coches de lujo de BMW, Audi y Mercedes son ahora más caros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-lujo-bmw-audi-mercedes-son-ahora-caros-996611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bmw-ix-m60-2578495.jpg' alt='Los coches de lujo de BMW, Audi y Mercedes son ahora más caros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-996997'>41 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-996997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/41-noticias-tecnologia-comenzar-manana-informado-ultimo-2588605.jpg' alt='41 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
