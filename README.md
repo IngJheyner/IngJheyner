@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237'>Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103'>Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-g402-2588837.jpg' alt='Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241'>El truco viral para envasar alimentos al vacío sin necesidad de envasadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/envasar-vacio-2589131.jpg' alt='El truco viral para envasar alimentos al vacío sin necesidad de envasadora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231'>La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-2589117.jpg' alt='La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193'>Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-redmi-note-11-pro-2589047.jpg' alt='Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209'>Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget' />
     </a>
 </div>
 
