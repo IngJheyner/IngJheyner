@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845'>Cómo saber quién ha entrado en mi cuenta de Facebook</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Cómo saber quién ha entrado en mi cuenta de Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829'>El platillo volante ZEVA Zero ya vuela por el cielo como un OVNI cualquiera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/platillo-volante-unipersonal-zeva-zero-ya-vuela-persona-dentro-2588457.jpg' alt='El platillo volante ZEVA Zero ya vuela por el cielo como un OVNI cualquiera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823'>La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros</a></h4>
     <a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/explosion-volcan-hunga-tonga-hunga-haapai-ha-sido-grande-ultimos-1000-anos-escucho-9000-kilometros-2588437.jpg' alt='La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719'>Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-tablet-android-lapiz-s-pen-altura-ipad-samsung-galaxy-tab-s6-lite-tiene-115-euros-rebaja-996719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/analisis-galaxy-tab-s6-lite-1956233.jpg' alt='Si buscas una tablet Android con lápiz S-Pen a la altura del iPad, la Samsung Galaxy Tab S6 Lite tiene 115 euros de rebaja' />
     </a>
 </div>
 
