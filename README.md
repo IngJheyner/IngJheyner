@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-cristal-zafiro-997363'>Así son los nuevos relojes Garmin Fenix 7 y Epix con carga solar, cuerpo de titanio y cristal de zafiro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-cristal-zafiro-997363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-2589489.jpg' alt='Así son los nuevos relojes Garmin Fenix 7 y Epix con carga solar, cuerpo de titanio y cristal de zafiro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399'>Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mejor-radio-coche-android-auto-pantalla-tactil-2187205.jpg' alt='Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187'>Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-apple-macbook-air-2589009.jpg' alt='Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-actuales-menos-radiacion-emiten-oficina-alemana-proteccion-radiacion-997325'>Los móviles actuales que menos radiación emiten según la Oficina Alemana para la Protección contra la Radiación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-actuales-menos-radiacion-emiten-oficina-alemana-proteccion-radiacion-997325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/estos-son-moviles-emiten-menos-radiacion-2019.jpg' alt='Los móviles actuales que menos radiación emiten según la Oficina Alemana para la Protección contra la Radiación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-preparando-propio-telefono-plegable-economico-997349'>OnePlus estaría preparando su propio teléfono plegable económico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-preparando-propio-telefono-plegable-economico-997349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588231.jpg' alt='OnePlus estaría preparando su propio teléfono plegable económico' />
+    <h4><a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395'>¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/omega-mart-2589553.jpg' alt='¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263'>Las carreteras del futuro podrán cargar los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-pide-denuncies-ves-tipo-comportamientos-carretera-2423209.jpg' alt='Las carreteras del futuro podrán cargar los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/cadillac-fleetwood-brougham-elvis-encuentra-venta-997163'>Así es el Cadillac Fleetwood Brougham de Elvis que se encuentra a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cadillac-fleetwood-brougham-elvis-encuentra-venta-997163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cadillac-fleetwood-brougham-elvis-presley-2582767.jpg' alt='Así es el Cadillac Fleetwood Brougham de Elvis que se encuentra a la venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123'>La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-vacuum-cleaner-light-2588883.jpg' alt='La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-997389'>Las dos razones por las que Volkswagen paraliza la fabricación de 500.000 coches eléctricos en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-997389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dos-razones-volkswagen-paraliza-fabricacion-500000-coches-electricos-espana-2589537.jpg' alt='Las dos razones por las que Volkswagen paraliza la fabricación de 500.000 coches eléctricos en España' />
     </a>
 </div>
 
