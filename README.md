@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187'>Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-apple-macbook-air-2589009.jpg' alt='Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-preparando-propio-telefono-plegable-economico-997349'>OnePlus estaría preparando su propio teléfono plegable económico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-preparando-propio-telefono-plegable-economico-997349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588231.jpg' alt='OnePlus estaría preparando su propio teléfono plegable económico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263'>Las carreteras del futuro podrán cargar los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-pide-denuncies-ves-tipo-comportamientos-carretera-2423209.jpg' alt='Las carreteras del futuro podrán cargar los coches eléctricos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287'>Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237'>Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103'>Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-g402-2588837.jpg' alt='Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros' />
     </a>
 </div>
 
