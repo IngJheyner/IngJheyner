@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-alimentos-alivian-ardor-estomago-996995'> 7 alimentos que alivian el ardor de estómago</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-alimentos-alivian-ardor-estomago-996995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/8-alimentos-alivian-ardor-estomago-2588597.jpg' alt=' 7 alimentos que alivian el ardor de estómago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845'>Cómo saber quién ha entrado en mi cuenta de Facebook</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-quien-ha-entrado-mi-cuenta-facebook-949845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Cómo saber quién ha entrado en mi cuenta de Facebook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasa-cuenta-gmail-cuando-fallece-dueno-como-dejarlo-todo-organizado-991735'>¿Qué pasa con una cuenta Gmail cuando fallece su dueño? Cómo dejarlo todo organizado</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/pasa-cuenta-gmail-cuando-fallece-dueno-como-dejarlo-todo-organizado-991735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gmail-2580177.jpg' alt='¿Qué pasa con una cuenta Gmail cuando fallece su dueño? Cómo dejarlo todo organizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823'>La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/explosion-volcan-hunga-tonga-hunga-haapai-996823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/explosion-volcan-hunga-tonga-hunga-haapai-ha-sido-grande-ultimos-1000-anos-escucho-9000-kilometros-2588437.jpg' alt='La explosión del volcán Hunga Tonga-Hunga Ha'apai ha sido la más grande en los últimos 1.000 años, se escuchó a 9.000 Kilómetros' />
     </a>
 </div>
 
