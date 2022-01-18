@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411'>Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-lanza-lapiz-optico-disenado-chromebook-estudiantes-2589585.jpg' alt='Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407'>Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sumergete-1000-millones-colores-televisores-qled-samsung-modelo-55-pulgadas-rebajado-400-euros-2589579.jpg' alt='Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167'>Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/grogu-mandalorian-2511223.jpg' alt='Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399'>Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mejor-radio-coche-android-auto-pantalla-tactil-2187205.jpg' alt='Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización' />
     </a>
 </div>
 
