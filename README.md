@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123'>La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-vacuum-cleaner-light-2588883.jpg' alt='La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287'>Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237'>Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/cuatro-niveles-hielo-nieve-carretera-hacer-cada-caso-dgt-997237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Los cuatro niveles de hielo y nieve en carretera y qué hacer en cada caso según la DGT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241'>El truco viral para envasar alimentos al vacío sin necesidad de envasadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/envasar-vacio-2589131.jpg' alt='El truco viral para envasar alimentos al vacío sin necesidad de envasadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/retrocompatibilidad-juegos-playstation-3-podria-llegar-ps5-pasar-playstation-now-997213'>La retrocompatibilidad con juegos de Playstation 3 podría llegar a la PS5 sin pasar por PlayStation Now</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/retrocompatibilidad-juegos-playstation-3-podria-llegar-ps5-pasar-playstation-now-997213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140493.jpg' alt='La retrocompatibilidad con juegos de Playstation 3 podría llegar a la PS5 sin pasar por PlayStation Now' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231'>La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-2589117.jpg' alt='La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero' />
     </a>
 </div>
 
