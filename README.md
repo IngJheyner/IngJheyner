@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-cristal-zafiro-997363'>Así son los nuevos relojes Garmin Fenix 7 y Epix con carga solar, cuerpo de titanio y cristal de zafiro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-cristal-zafiro-997363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/son-nuevos-relojes-garmin-fenix-7-epix-carga-solar-cuerpo-titanio-2589489.jpg' alt='Así son los nuevos relojes Garmin Fenix 7 y Epix con carga solar, cuerpo de titanio y cristal de zafiro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187'>Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-16-gb-ram-tiene-230-euros-descuento-997187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-apple-macbook-air-2589009.jpg' alt='Este MacBook Air con chip M1 y 16 GB de RAM tiene 230 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123'>La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza</a></h4>
     <a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-vacuum-cleaner-light-2588883.jpg' alt='La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287'>Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/microsoft-compra-estudios-activision-blizzard-king-mayor-movimiento-historia-videojuegos-997287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='Microsoft compra los estudios de Activision, Blizzard y King en el mayor movimiento de la historia de los videojuegos' />
     </a>
 </div>
 
