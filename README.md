@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263'>Las carreteras del futuro podrán cargar los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carreteras-futuro-podran-cargar-coches-electricos-997263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-pide-denuncies-ves-tipo-comportamientos-carretera-2423209.jpg' alt='Las carreteras del futuro podrán cargar los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123'>La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza</a></h4>
     <a href='https://computerhoy.com/noticias/life/aspiradora-mano-inalambrica-xiaomi-ligera-ahora-solo-cuesta-90-euros-chollo-aliexpress-plaza-997123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-vacuum-cleaner-light-2588883.jpg' alt='La aspiradora de mano inalámbrica de Xiaomi más ligera ahora solo cuesta 90 euros en este chollo de AliExpress Plaza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103'>Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aunque-no-seas-gamer-necesitas-raton-gaming-logitech-solo-30-euros-997103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-g402-2588837.jpg' alt='Por qué aunque no seas gamer necesitas este ratón gaming de Logitech por solo 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241'>El truco viral para envasar alimentos al vacío sin necesidad de envasadora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/envasar-vacio-2589131.jpg' alt='El truco viral para envasar alimentos al vacío sin necesidad de envasadora' />
     </a>
 </div>
 
