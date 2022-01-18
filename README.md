@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081'>Xiaomi tira la casa por la ventana: Estas son las mejores ofertas de enero en su tienda online</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193'>Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-redmi-note-11-pro-2589047.jpg' alt='Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209'>Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/apple-iphone-864233'>Comprar un iPhone en 2022: modelos y diferencias, ¿merece la pena comprar un iPhone antiguo?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/apple-iphone-864233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-12-blanco-2419667.jpg' alt='Comprar un iPhone en 2022: modelos y diferencias, ¿merece la pena comprar un iPhone antiguo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081'>Xiaomi tira la casa por la ventana: estas son las mejores ofertas de enero en su tienda online</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Xiaomi tira la casa por la ventana: Estas son las mejores ofertas de enero en su tienda online' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Xiaomi tira la casa por la ventana: estas son las mejores ofertas de enero en su tienda online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-puede-ver-contenido-4k-hbo-max-espana-997137'>Por qué no se puede ver contenido a 4K en HBO Max España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-puede-ver-contenido-4k-hbo-max-espana-997137' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/no-puede-ver-contenido-4k-hbo-max-espana-997137'>Por qué no se puede ver contenido a 4K en HBO Max España</a></h4>
+    <a href='https://computerhoy.com/noticias/no-puede-ver-contenido-4k-hbo-max-espana-997137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2588923.jpg' alt='Por qué no se puede ver contenido a 4K en HBO Max España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107'>El juego online que está triunfando en Internet: ordena cronológicamente las cartas con Wikitrivia</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wikitrivia-2588841.jpg' alt='El juego online que está triunfando en Internet: ordena cronológicamente las cartas con Wikitrivia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-2022-influencer-criptografico-997095'>Criptomonedas que crecerán en 2022, según uno de los influencers criptográficos más conocidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-2022-influencer-criptografico-997095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Criptomonedas que crecerán en 2022, según uno de los influencers criptográficos más conocidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069'>Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/baterias-futuro-coche-electrico-tendran-10-veces-capacidad-2494743.jpg' alt='Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica' />
     </a>
 </div>
 
