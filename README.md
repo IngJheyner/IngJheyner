@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241'>El truco viral para envasar alimentos al vacío sin necesidad de envasadora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-envasar-alimentos-vacio-necesidad-envasadora-997241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/envasar-vacio-2589131.jpg' alt='El truco viral para envasar alimentos al vacío sin necesidad de envasadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/retrocompatibilidad-juegos-playstation-3-podria-llegar-ps5-pasar-playstation-now-997213'>La retrocompatibilidad con juegos de Playstation 3 podría llegar a la PS5 sin pasar por PlayStation Now</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/retrocompatibilidad-juegos-playstation-3-podria-llegar-ps5-pasar-playstation-now-997213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140493.jpg' alt='La retrocompatibilidad con juegos de Playstation 3 podría llegar a la PS5 sin pasar por PlayStation Now' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231'>La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pagina-cupones-amazon-ahorrar-dinero-997231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-2589117.jpg' alt='La página de cupones de Amazon que casi nadie utiliza y que puede hacerte ahorrar mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193'>Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-note-11-pro-saldran-china-finales-mes-esperamos-ellos-997193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-redmi-note-11-pro-2589047.jpg' alt='Redmi Note 11 y Note 11 Pro saldrán de China a finales de mes: esto es lo que esperamos de ellos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209'>Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-usas-demasiado-movil-nuevo-widget-997209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Google quiere que sepas si usas demasiado el móvil y en qué con su nuevo widget' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/apple-iphone-864233'>Comprar un iPhone en 2022: modelos y diferencias, ¿merece la pena comprar un iPhone antiguo?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/apple-iphone-864233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-12-blanco-2419667.jpg' alt='Comprar un iPhone en 2022: modelos y diferencias, ¿merece la pena comprar un iPhone antiguo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081'>Xiaomi tira la casa por la ventana: estas son las mejores ofertas de enero en su tienda online</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/xiaomi-tira-casa-ventana-estas-son-mejores-ofertas-enero-tienda-online-997081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Xiaomi tira la casa por la ventana: estas son las mejores ofertas de enero en su tienda online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/no-puede-ver-contenido-4k-hbo-max-espana-997137'>Por qué no se puede ver contenido a 4K en HBO Max España</a></h4>
-    <a href='https://computerhoy.com/noticias/no-puede-ver-contenido-4k-hbo-max-espana-997137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2588923.jpg' alt='Por qué no se puede ver contenido a 4K en HBO Max España' />
     </a>
 </div>
 
