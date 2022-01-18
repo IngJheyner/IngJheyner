@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407'>Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sumergete-1000-millones-colores-televisores-qled-samsung-modelo-55-pulgadas-rebajado-400-euros-2589579.jpg' alt='Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185'>Cómo limpiar las lentes de la cámara del móvil para que queden perfectas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/camaras-nova-9-2508199.jpg' alt='Cómo limpiar las lentes de la cámara del móvil para que queden perfectas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397'>Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-2589563.jpg' alt='Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399'>Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-maps-desaparece-android-auto-algunos-modelos-movil-ultima-actualizacion-997399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mejor-radio-coche-android-auto-pantalla-tactil-2187205.jpg' alt='Google Maps desaparece de Android Auto en algunos modelos de móvil tras su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-actuales-menos-radiacion-emiten-oficina-alemana-proteccion-radiacion-997325'>Los móviles actuales que menos radiación emiten según la Oficina Alemana para la Protección contra la Radiación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-actuales-menos-radiacion-emiten-oficina-alemana-proteccion-radiacion-997325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/estos-son-moviles-emiten-menos-radiacion-2019.jpg' alt='Los móviles actuales que menos radiación emiten según la Oficina Alemana para la Protección contra la Radiación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395'>¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/te-imaginas-mercadona-omega-mart-supermercado-parece-parque-atracciones-997395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/omega-mart-2589553.jpg' alt='¿Te imaginas un Mercadona así? Omega Mart, el supermercado que parece un parque de atracciones' />
     </a>
 </div>
 
