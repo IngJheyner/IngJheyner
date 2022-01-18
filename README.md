@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829'>El platillo volante ZEVA Zero ya vuela por el cielo como un OVNI cualquiera</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829'>El platillo volante tripulado ZEVA Zero ya vuela por el cielo como un OVNI cualquiera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/platillo-volante-zeva-zero-ya-vuela-persona-dentro-996829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/platillo-volante-unipersonal-zeva-zero-ya-vuela-persona-dentro-2588457.jpg' alt='El platillo volante ZEVA Zero ya vuela por el cielo como un OVNI cualquiera' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/platillo-volante-unipersonal-zeva-zero-ya-vuela-persona-dentro-2588457.jpg' alt='El platillo volante tripulado ZEVA Zero ya vuela por el cielo como un OVNI cualquiera' />
     </a>
 </div>
 
