@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107'>Este es el juego online que está triunfando en internet: ordena cronológicamente las cartas con Wikitrivia</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juego-online-triunfando-internet-ordena-cronologicamente-cartas-wikitrivia-997107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wikitrivia-2588841.jpg' alt='Este es el juego online que está triunfando en internet: ordena cronológicamente las cartas con Wikitrivia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-2022-influencer-criptografico-997095'>Criptomonedas que crecerán en 2022, según uno de los influencers criptográficos más conocidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-2022-influencer-criptografico-997095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Criptomonedas que crecerán en 2022, según uno de los influencers criptográficos más conocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069'>Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prueba-concepto-real-demuestra-posibilidad-tener-baterias-cuanticas-ello-implica-997069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/baterias-futuro-coche-electrico-tendran-10-veces-capacidad-2494743.jpg' alt='Una prueba de concepto real demuestra la posibilidad de tener baterías cuánticas y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045'>Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-ocu-consumo-nevera-electricidad-997045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nevera-aplicacion-movil-2588693.jpg' alt='Los mejores trucos de la OCU para reducir el consumo de la nevera y ahorrar electricidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057'>El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/moon-knight-estrena-trailer-deja-entrever-nuevo-marvel-disney-997057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/moon-knight-2588603.jpg' alt='El Caballero Luna, Moon Knight, es lo último de Marvel para Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/samsung-anuncia-oficialmente-exynos-2200-gpu-xclipse-920-basada-amd-rdna2-997025'>Samsung anuncia oficialmente el Exynos 2200 con GPU Xclipse 920 basada en AMD RDNA2</a></h4>
-    <a href='https://computerhoy.com/noticias/samsung-anuncia-oficialmente-exynos-2200-gpu-xclipse-920-basada-amd-rdna2-997025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/exynos-2200-2588671.jpg' alt='Samsung anuncia oficialmente el Exynos 2200 con GPU Xclipse 920 basada en AMD RDNA2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593'>Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-pasta-termica-pc-debes-saber-cual-mejor-puedes-conseguir-996593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pasta-termica-procesador-2588109.jpg' alt='Comprar pasta térmica para tu PC: qué debes saber y cuál es la mejor que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013'>España regulará la publicidad de criptomonedas, incluyendo a los influencers </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espana-regulara-publicidad-criptomoneda-influencers-997013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='España regulará la publicidad de criptomonedas, incluyendo a los influencers ' />
     </a>
 </div>
 
