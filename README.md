@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2589803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-regalos-san-valentin-novio-puedes-comprar-2022-997323'>Mejores regalos de San Valentín para tu novio que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-regalos-san-valentin-novio-puedes-comprar-2022-997323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hombre-sonriente-bebiendo-cafe-2589285.jpg' alt='Mejores regalos de San Valentín para tu novio que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629'>Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha</a></h4>
     <a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genial-hack-colgar-blusa-camiseta-tirantes-percha-2589801.jpg' alt='Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411'>Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-lanza-lapiz-optico-disenado-chromebook-estudiantes-2589585.jpg' alt='Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407'>Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-qled-modelo-55-pulgadas-rebajado-400-euros-997407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sumergete-1000-millones-colores-televisores-qled-samsung-modelo-55-pulgadas-rebajado-400-euros-2589579.jpg' alt='Sumérgete en los 1.000 millones de colores de los televisores QLED de Samsung, con este modelo de 55 pulgadas rebajado 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185'>Cómo limpiar las lentes de la cámara del móvil para que queden perfectas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/camaras-nova-9-2508199.jpg' alt='Cómo limpiar las lentes de la cámara del móvil para que queden perfectas' />
     </a>
 </div>
 
