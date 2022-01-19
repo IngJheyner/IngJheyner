@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913'>Opera lanza un navegador dedicado en exclusiva a las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crypto-browser-project-2590233.jpg' alt='Opera lanza un navegador dedicado en exclusiva a las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nadie-lee-terminos-servicio-ni-condiciones-uso-eeuu-estudian-limitar-longitud-997955'>Nadie lee los términos de servicio ni condiciones de uso: En EE.UU. estudian limitar su longitud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nadie-lee-terminos-servicio-ni-condiciones-uso-eeuu-estudian-limitar-longitud-997955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/terminos-condiciones-1843519.jpg' alt='Nadie lee los términos de servicio ni condiciones de uso: En EE.UU. estudian limitar su longitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937'>Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/senor-anillos.jpg' alt='Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891'>Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dns-europeo-2590269.jpg' alt='Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805'>Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-samsung-32-pulgadas-escritorio-estaba-pidiendo-gritos-solo-cuesta-289-euros-997771'>Este monitor Samsung de 32 pulgadas es lo que tu escritorio estaba pidiendo a gritos y solo cuesta 289 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-samsung-32-pulgadas-escritorio-estaba-pidiendo-gritos-solo-cuesta-289-euros-997771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-s32a600nwu-2590005.jpg' alt='Este monitor Samsung de 32 pulgadas es lo que tu escritorio estaba pidiendo a gritos y solo cuesta 289 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893'>LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/monsieur-cuisine-connect-2150341.jpg' alt='LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867'>Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/simjacker.jpg' alt='Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas' />
     </a>
 </div>
 
