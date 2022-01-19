@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335'>10 proyectores de menos de 100€ que son perfectos para ver películas en casa</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-proyector-coste-2589393.jpg' alt='10 proyectores de menos de 100€ que son perfectos para ver películas en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645'>4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avion-despegando-aeropuerto-2589811.jpg' alt='4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183'>Pros y contras de utilizar papel de aluminio en la freidora de aire</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-silvercrest-2563645.jpg' alt='Pros y contras de utilizar papel de aluminio en la freidora de aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2589803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-regalos-san-valentin-novio-puedes-comprar-2022-997323'>Mejores regalos de San Valentín para tu novio que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-regalos-san-valentin-novio-puedes-comprar-2022-997323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hombre-sonriente-bebiendo-cafe-2589285.jpg' alt='Mejores regalos de San Valentín para tu novio que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629'>Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha</a></h4>
-    <a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genial-hack-colgar-blusa-camiseta-tirantes-percha-2589801.jpg' alt='Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha' />
     </a>
 </div>
 
