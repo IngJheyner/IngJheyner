@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035'>Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estos-son-nuevos-juegos-movil-netflix-regala-suscriptores-atento-te-gustan-juegos-cartas-tipo-hearthstone-2590467.jpg' alt='Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021'>Instagram se suma a Twitter y ahora integra suscripciones de pago</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instagram-suma-twitter-ahora-integra-suscripciones-pago-2590457.jpg' alt='Instagram se suma a Twitter y ahora integra suscripciones de pago' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017'>Trucos para configurar Spotify y disfrutar la música con la mejor calidad</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trucos-configurar-spotify-disfrutar-musica-mejor-calidad-2590433.jpg' alt='Trucos para configurar Spotify y disfrutar la música con la mejor calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997'>La locura de los NFT o cómo hacerse millonario vendiendo selfies</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/locura-nft-como-hacerse-millonario-vendiendo-selfies-2590427.jpg' alt='La locura de los NFT o cómo hacerse millonario vendiendo selfies' />
     </a>
 </div>
 
