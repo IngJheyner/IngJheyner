@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769'>Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757'>Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585287.jpg' alt='Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703'>Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659'>Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot' />
     </a>
 </div>
 
