@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893'>LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/monsieur-cuisine-connect-2150341.jpg' alt='LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867'>Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/simjacker.jpg' alt='Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849'>Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/contador-luz-electricidad-2453533.jpg' alt='Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833'>Llegan los avatares a la app de Instagram: así puedes crear el tuyo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avatar-instagram-2590123.jpg' alt='Llegan los avatares a la app de Instagram: así puedes crear el tuyo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/noticia-lanzamiento-huawei-p50-pro-espana-escapa-propia-huawei-997845'>La noticia del lanzamiento del Huawei P50 Pro para España se le escapa a la propia Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/noticia-lanzamiento-huawei-p50-pro-espana-escapa-propia-huawei-997845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422775.jpg' alt='La noticia del lanzamiento del Huawei P50 Pro para España se le escapa a la propia Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809'>Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen' />
     </a>
 </div>
 
