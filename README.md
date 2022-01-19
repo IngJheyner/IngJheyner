@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183'>Pros y contras de utilizar papel de aluminio en la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-silvercrest-2563645.jpg' alt='Pros y contras de utilizar papel de aluminio en la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-novedades-android-auto-seran-importantes-2022-997177'>7 novedades de Android Auto que serán importantes en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-novedades-android-auto-seran-importantes-2022-997177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/radio-2-din-android-auto-2548433.jpg' alt='7 novedades de Android Auto que serán importantes en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2589803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629'>Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha</a></h4>
     <a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genial-hack-colgar-blusa-camiseta-tirantes-percha-2589801.jpg' alt='Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417'>The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí</a></h4>
-    <a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/line-ciudad-lineal-170-kilometros-coches-sola-calle-estan-construyendo-arabia-saudi-2589593.jpg' alt='The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411'>Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-lanza-lapiz-optico-disenado-chromebook-estudiantes-2589585.jpg' alt='Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes' />
     </a>
 </div>
 
