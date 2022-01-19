@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929'>HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707'>Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913'>Opera lanza un navegador dedicado en exclusiva a las criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crypto-browser-project-2590233.jpg' alt='Opera lanza un navegador dedicado en exclusiva a las criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937'>Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/senor-anillos.jpg' alt='Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891'>Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dns-europeo-2590269.jpg' alt='Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805'>Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene' />
     </a>
 </div>
 
