@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417'>The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí</a></h4>
+    <a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/line-ciudad-lineal-170-kilometros-coches-sola-calle-estan-construyendo-arabia-saudi-2589593.jpg' alt='The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411'>Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-pen-lapiz-optico-chromebook-estudiantes-997411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-lanza-lapiz-optico-disenado-chromebook-estudiantes-2589585.jpg' alt='Logitech lanza un lápiz óptico diseñado para los Chromebook y los estudiantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397'>Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-2589563.jpg' alt='Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167'>Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/contagios-coronavirus-retrasan-rodaje-nueva-temporada-mandalorian-997167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/grogu-mandalorian-2511223.jpg' alt='Los contagios de coronavirus retrasan el rodaje de la nueva temporada de The Mandalorian' />
     </a>
 </div>
 
