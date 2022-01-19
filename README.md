@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891'>Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/promesas-dns-publico-europeo-antimalware-bloqueo-contenido-ilegal-997891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dns-europeo-2590269.jpg' alt='Las promesas del DNS público Europeo: Antimalware y bloqueo de contenido ilegal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805'>Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-memoria-cache-iphone-beneficios-tiene-951805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='Cómo limpiar la memoria caché de tu iPhone y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-samsung-32-pulgadas-escritorio-estaba-pidiendo-gritos-solo-cuesta-289-euros-997771'>Este monitor Samsung de 32 pulgadas es lo que tu escritorio estaba pidiendo a gritos y solo cuesta 289 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-samsung-32-pulgadas-escritorio-estaba-pidiendo-gritos-solo-cuesta-289-euros-997771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-s32a600nwu-2590005.jpg' alt='Este monitor Samsung de 32 pulgadas es lo que tu escritorio estaba pidiendo a gritos y solo cuesta 289 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893'>LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-podra-volver-vender-robot-cocina-desestiman-demanda-thermomix-997893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/monsieur-cuisine-connect-2150341.jpg' alt='LIDL podrá volver a vender su robot de cocina, Monsieur Cuisine Connect: desestiman la demanda de Thermomix' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867'>Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-isim-dentro-muy-poco-dejaremos-usar-tarjetas-sim-fisicas-997867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/simjacker.jpg' alt='Tecnología iSIM: dentro de muy poco dejaremos de usar tarjetas SIM físicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849'>Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/contador-luz-electricidad-2453533.jpg' alt='Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-bajado-precio-estos-iphone-13-90-euros-capacidades-128-256-gb-997689'>Amazon ha bajado el precio en estos iPhone 13: hasta 90 euros en capacidades de 128 y 256 GB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-bajado-precio-estos-iphone-13-90-euros-capacidades-128-256-gb-997689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Amazon ha bajado el precio en estos iPhone 13: hasta 90 euros en capacidades de 128 y 256 GB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833'>Llegan los avatares a la app de Instagram: así puedes crear el tuyo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avatar-instagram-2590123.jpg' alt='Llegan los avatares a la app de Instagram: así puedes crear el tuyo' />
     </a>
 </div>
 
