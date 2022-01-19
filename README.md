@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757'>Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585287.jpg' alt='Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-bloqueada-google-fotos-997737'>Nadie más verá tus imágenes con la Carpeta Bloqueada de Google Fotos: así funciona esta opción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-bloqueada-google-fotos-997737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Nadie más verá tus imágenes con la Carpeta Bloqueada de Google Fotos: así funciona esta opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ultra-sera-nuevo-galaxy-note-soporte-s-pen-997747'>Galaxy S22 Ultra será el nuevo Galaxy Note con soporte S-Pen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ultra-sera-nuevo-galaxy-note-soporte-s-pen-997747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/seria-diseno-samsung-galaxy-s22-ultra-sustituto-espiritual-galaxy-note-2482651.jpg' alt='Galaxy S22 Ultra será el nuevo Galaxy Note con soporte S-Pen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703'>Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659'>Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cierra-youtube-originals-997671'>Cierra YouTube Originals, la división creadora de Cobra Kai, tras 6 años de recorrido</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cierra-youtube-originals-997671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/cobra-kai.jpg' alt='Cierra YouTube Originals, la división creadora de Cobra Kai, tras 6 años de recorrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335'>10 proyectores de menos de 100€ que son perfectos para ver películas en casa</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-proyector-coste-2589393.jpg' alt='10 proyectores de menos de 100€ que son perfectos para ver películas en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645'>4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avion-despegando-aeropuerto-2589811.jpg' alt='4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones' />
     </a>
 </div>
 
