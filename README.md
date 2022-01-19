@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021'>Instagram se suma a Twitter y ahora integra suscripciones de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instagram-suma-twitter-ahora-integra-suscripciones-pago-2590457.jpg' alt='Instagram se suma a Twitter y ahora integra suscripciones de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025'>Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscas-portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-ampliable-windows-11-baja-399-euros-2590443.jpg' alt='Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857'>Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997'>La locura de los NFT o cómo hacerse millonario vendiendo selfies</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/locura-nft-como-hacerse-millonario-vendiendo-selfies-2590427.jpg' alt='La locura de los NFT o cómo hacerse millonario vendiendo selfies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851'>El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/patinete-bugatti-bytech-international-2583979.jpg' alt='El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999'>Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531823.jpg' alt='Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5' />
     </a>
 </div>
 
