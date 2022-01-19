@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857'>Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017'>Trucos para configurar Spotify y disfrutar la música con la mejor calidad</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trucos-configurar-spotify-disfrutar-musica-mejor-calidad-2590433.jpg' alt='Trucos para configurar Spotify y disfrutar la música con la mejor calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997'>La locura de los NFT o cómo hacerse millonario vendiendo selfies</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/locura-nft-como-hacerse-millonario-vendiendo-selfies-997997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/locura-nft-como-hacerse-millonario-vendiendo-selfies-2590427.jpg' alt='La locura de los NFT o cómo hacerse millonario vendiendo selfies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851'>El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/patinete-bugatti-bytech-international-2583979.jpg' alt='El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999'>Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531823.jpg' alt='Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-ahorrar-factura-pasar-frio-997921'>La temperatura a la que debes poner la calefacción para ahorrar en la factura sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-ahorrar-factura-pasar-frio-997921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/termostato-2590255.jpg' alt='La temperatura a la que debes poner la calefacción para ahorrar en la factura sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929'>HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707'>Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis' />
     </a>
 </div>
 
