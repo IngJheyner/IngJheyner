@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629'>Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha</a></h4>
+    <a href='https://computerhoy.com/noticias/life/geniales-hacks-colgar-blusa-camiseta-tirantes-percha-997629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genial-hack-colgar-blusa-camiseta-tirantes-percha-2589801.jpg' alt='Los geniales hacks para colgar una blusa o camiseta de tirantes en un percha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417'>The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/noticias/life/the-line-ciudad-lineal-170-kilometros-arabia-saudi-997417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/line-ciudad-lineal-170-kilometros-coches-sola-calle-estan-construyendo-arabia-saudi-2589593.jpg' alt='The Line, la ciudad lineal de 170 Kilómetros, sin coches y con una sola calle que están construyendo en Arabia Saudí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185'>Cómo limpiar las lentes de la cámara del móvil para que queden perfectas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-lentes-camara-movil-queden-perfectas-996185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/camaras-nova-9-2508199.jpg' alt='Cómo limpiar las lentes de la cámara del móvil para que queden perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397'>Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-997397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-aprovechar-facebook-watch-nueva-plataforma-videos-ha-llegado-vodafone-tv-2589563.jpg' alt='Qué es y cómo aprovechar Facebook Watch, la nueva plataforma de vídeos que ha llegado a Vodafone TV' />
     </a>
 </div>
 
