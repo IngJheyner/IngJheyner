@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849'>Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-tarifa-ahorrar-factura-luz-ocu-997849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/contador-luz-electricidad-2453533.jpg' alt='Esta es la mejor tarifa para ahorrar en la factura de la luz, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-bajado-precio-estos-iphone-13-90-euros-capacidades-128-256-gb-997689'>Amazon ha bajado el precio en estos iPhone 13: hasta 90 euros en capacidades de 128 y 256 GB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-bajado-precio-estos-iphone-13-90-euros-capacidades-128-256-gb-997689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Amazon ha bajado el precio en estos iPhone 13: hasta 90 euros en capacidades de 128 y 256 GB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833'>Llegan los avatares a la app de Instagram: así puedes crear el tuyo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-app-instagram-puedes-crear-997833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avatar-instagram-2590123.jpg' alt='Llegan los avatares a la app de Instagram: así puedes crear el tuyo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/noticia-lanzamiento-huawei-p50-pro-espana-escapa-propia-huawei-997845'>La noticia del lanzamiento del Huawei P50 Pro para España se le escapa a la propia Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/noticia-lanzamiento-huawei-p50-pro-espana-escapa-propia-huawei-997845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422775.jpg' alt='La noticia del lanzamiento del Huawei P50 Pro para España se le escapa a la propia Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809'>Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen</a></h4>
     <a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cafe-aroma-mujer-episodios-997797'>No es demasiado conocida, pero esta es la serie más vista en Netflix desde hace tiempo y tiene 88 episodios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cafe-aroma-mujer-episodios-997797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-aroma-mujer-2590049.jpg' alt='No es demasiado conocida, pero esta es la serie más vista en Netflix desde hace tiempo y tiene 88 episodios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/televisor-4k-76319'>Guía y consejos para comprar un televisor Smart TV 4K UHD en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/televisor-4k-76319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instalar-televisor-2589889.jpg' alt='Guía y consejos para comprar un televisor Smart TV 4K UHD en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/taurus-trending-cooking-robot-cocina-alteranativa-lidl-oferta-997721'>¿Te quedaste sin el robot de cocina de Lidl? Este de Taurus es prácticamente idéntico y cuesta 299€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/taurus-trending-cooking-robot-cocina-alteranativa-lidl-oferta-997721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/taurus-trending-cooking-2589951.jpg' alt='¿Te quedaste sin el robot de cocina de Lidl? Este de Taurus es prácticamente idéntico y cuesta 299€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769'>Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado' />
     </a>
 </div>
 
