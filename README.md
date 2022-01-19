@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703'>Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659'>Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/conductor-tesla-acusado-homicidio-involuntario-accidente-mortal-autopilot-997659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Un conductor de Tesla es acusado de homicidio involuntario tras el accidente mortal de Autopilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cierra-youtube-originals-997671'>Cierra YouTube Originals, la división creadora de Cobra Kai, tras 6 años de recorrido</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cierra-youtube-originals-997671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/cobra-kai.jpg' alt='Cierra YouTube Originals, la división creadora de Cobra Kai, tras 6 años de recorrido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335'>10 proyectores de menos de 100€ que son perfectos para ver películas en casa</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-proyectores-menos-100eu-son-perfectos-ver-peliculas-casa-997335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-proyector-coste-2589393.jpg' alt='10 proyectores de menos de 100€ que son perfectos para ver películas en casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645'>4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aerolineas-cancelado-vuelos-eeuu-5g-aviones-997645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/avion-despegando-aeropuerto-2589811.jpg' alt='4 aerolíneas han cancelado sus vuelos a EE.UU. por el 5G: preocupa que interfiera en los aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183'>Pros y contras de utilizar papel de aluminio en la freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pros-contras-utilizar-papel-aluminio-freidora-aire-997183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-silvercrest-2563645.jpg' alt='Pros y contras de utilizar papel de aluminio en la freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-novedades-android-auto-seran-importantes-2022-997177'>7 novedades de Android Auto que serán importantes en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-novedades-android-auto-seran-importantes-2022-997177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/radio-2-din-android-auto-2548433.jpg' alt='7 novedades de Android Auto que serán importantes en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-997631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2589803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
