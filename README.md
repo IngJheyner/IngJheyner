@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809'>Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/6-claves-dgt-luces-emergencia-v16-no-te-enganen-997809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las 6 claves de la DGT sobre las luces de emergencia V16 para que no te engañen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cafe-aroma-mujer-episodios-997797'>No es demasiado conocida, pero esta es la serie más vista en Netflix desde hace tiempo y tiene 88 episodios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cafe-aroma-mujer-episodios-997797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-aroma-mujer-2590049.jpg' alt='No es demasiado conocida, pero esta es la serie más vista en Netflix desde hace tiempo y tiene 88 episodios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/televisor-4k-76319'>Guía y consejos para comprar un televisor Smart TV 4K UHD en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/televisor-4k-76319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instalar-televisor-2589889.jpg' alt='Guía y consejos para comprar un televisor Smart TV 4K UHD en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/taurus-trending-cooking-robot-cocina-alteranativa-lidl-oferta-997721'>¿Te quedaste sin el robot de cocina de Lidl? Este de Taurus es prácticamente idéntico y cuesta 299€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/taurus-trending-cooking-robot-cocina-alteranativa-lidl-oferta-997721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/taurus-trending-cooking-2589951.jpg' alt='¿Te quedaste sin el robot de cocina de Lidl? Este de Taurus es prácticamente idéntico y cuesta 299€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769'>Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solucion-intel-crisis-mineros-chip-especifico-minado-997769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='Esta es la solución de Intel a la crisis de los mineros: un chip específico de minado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757'>Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/responder-whatsapps-huawei-watch-harmonyos-ya-posible-997757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585287.jpg' alt='Responder Whatsapps desde los Huawei Watch con HarmonyOS ya es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carpeta-bloqueada-google-fotos-997737'>Nadie más verá tus imágenes con la Carpeta Bloqueada de Google Fotos: así funciona esta opción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carpeta-bloqueada-google-fotos-997737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Nadie más verá tus imágenes con la Carpeta Bloqueada de Google Fotos: así funciona esta opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ultra-sera-nuevo-galaxy-note-soporte-s-pen-997747'>Galaxy S22 Ultra será el nuevo Galaxy Note con soporte S-Pen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ultra-sera-nuevo-galaxy-note-soporte-s-pen-997747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/seria-diseno-samsung-galaxy-s22-ultra-sustituto-espiritual-galaxy-note-2482651.jpg' alt='Galaxy S22 Ultra será el nuevo Galaxy Note con soporte S-Pen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703'>Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-alternativa-barata-joy-nintendo-switch-estas-opciones-solo-cuestan-33-euros-997703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nintendo-switch-2557157.jpg' alt='Si quieres una alternativa barata a los Joy-Con de Nintendo Switch, estas opciones solo cuestan 33 euros' />
     </a>
 </div>
 
