@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851'>El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-vehiculo-ha-presentado-bugatti-patinete-electrico-997851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/patinete-bugatti-bytech-international-2583979.jpg' alt='El nuevo vehículo que ha presentado Bugatti es un patinete eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999'>Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-estaria-preparando-tablet-rivalizaria-xiaomi-pad-5-997999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531823.jpg' alt='Vivo estaría preparando una tablet que rivalizaría con la Xiaomi Pad 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-ahorrar-factura-pasar-frio-997921'>La temperatura a la que debes poner la calefacción para ahorrar en la factura sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-ahorrar-factura-pasar-frio-997921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/termostato-2590255.jpg' alt='La temperatura a la que debes poner la calefacción para ahorrar en la factura sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929'>HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hbo-max-sera-febrero-plataforma-cine-todos-esperabamos-llegan-4-grandes-peliculas-997929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='HBO Max será en febrero la plataforma de cine que todos esperábamos: llegan 4 grandes películas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707'>Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-freidora-aceite-xiaomi-baja-menos-100-euros-tiene-envio-gratis-997707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Chollo en la freidora sin aceite de Xiaomi: baja a menos de 100 euros y tiene envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913'>Opera lanza un navegador dedicado en exclusiva a las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/opera-lanza-navegador-dedicado-exclusiva-criptomonedas-997913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crypto-browser-project-2590233.jpg' alt='Opera lanza un navegador dedicado en exclusiva a las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nadie-lee-terminos-servicio-ni-condiciones-uso-eeuu-estudian-limitar-longitud-997955'>Nadie lee los términos de servicio ni condiciones de uso: En EE.UU. estudian limitar su longitud</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nadie-lee-terminos-servicio-ni-condiciones-uso-eeuu-estudian-limitar-longitud-997955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/terminos-condiciones-1843519.jpg' alt='Nadie lee los términos de servicio ni condiciones de uso: En EE.UU. estudian limitar su longitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937'>Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-desvela-titulo-oficial-serie-senor-anillos-fecha-estreno-997937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/senor-anillos.jpg' alt='Prime Video desvela el título oficial de la serie de El Señor de los Anillos y su fecha de estreno' />
     </a>
 </div>
 
