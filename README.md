@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657'>Las mejores palabras y trucos para ganar en Wordle sin hacer trampas</a></h4>
+    <a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='Las mejores palabras y trucos para ganar en Wordle sin hacer trampas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-49-euros-oferta-amazon-998667'>Qué tiene esta barra de sonido de 49 euros que todo el mundo la está comprando en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-49-euros-oferta-amazon-998667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiene-barra-sonido-49-euros-todo-mundo-comprando-amazon-2591539.jpg' alt='Qué tiene esta barra de sonido de 49 euros que todo el mundo la está comprando en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/por-que-netflix-sigue-subiendo-precios-todos-paises-998665'>¿Por qué Netflix sigue subiendo los precios en todos los países?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/por-que-netflix-sigue-subiendo-precios-todos-paises-998665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='¿Por qué Netflix sigue subiendo los precios en todos los países?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-vieja-funcionalidad-chat-servicio-tecnico-998653'>WhatsApp recupera una vieja funcionalidad y casi nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-vieja-funcionalidad-chat-servicio-tecnico-998653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-recupera-vieja-funcionalidad-casi-nadie-ha-dado-cuenta-2591485.jpg' alt='WhatsApp recupera una vieja funcionalidad y casi nadie se ha dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-fin-bomba-calorica-productos-polemicos-catalogo-998649'>Mercadona retira por fin “la bomba calórica”, uno de los productos más polémicos de su catálogo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-retira-fin-bomba-calorica-productos-polemicos-catalogo-998649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-sosteniendo-tableta-chocolate-2591477.jpg' alt='Mercadona retira por fin “la bomba calórica”, uno de los productos más polémicos de su catálogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-google-maps-tomtom-waze-mejor-app-navegacion-android-998645'>Ni Google Maps, TomTom o Waze: esta es la mejor app de navegación para Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-google-maps-tomtom-waze-mejor-app-navegacion-android-998645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Ni Google Maps, TomTom o Waze: esta es la mejor app de navegación para Android' />
     </a>
 </div>
 
