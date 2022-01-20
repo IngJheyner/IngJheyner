@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279'>Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...</a></h4>
+    <a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-play-games-2590683.jpg' alt='Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947'>realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-neo-2-vs-realme-gt-master-edition-2590345.jpg' alt='realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865'>5 problemas de Windows 11 que Microsoft debería solucionar pronto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='5 problemas de Windows 11 que Microsoft debería solucionar pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-van-ser-controles-drogas-dgt-2022-997859'>Cómo van a ser los controles de drogas de la DGT en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-van-ser-controles-drogas-dgt-2022-997859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/como-hace-control-drogas-paso-paso-2017481.jpg' alt='Cómo van a ser los controles de drogas de la DGT en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2590675.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-padel-puedes-comprar-997799'>Mejores relojes inteligentes para pádel que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-padel-puedes-comprar-997799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-jugando-padel-2590051.jpg' alt='Mejores relojes inteligentes para pádel que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/polar-plug-calefaccion-manillares-bici-998263'>Polar Plug, la calefacción para manillares de bici</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/polar-plug-calefaccion-manillares-bici-998263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/polar-plug-calefaccion-manillares-bici-2590673.jpg' alt='Polar Plug, la calefacción para manillares de bici' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067'>Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bolsas-compra-tambien-hay-lavarlas-pero-cuidado-detergente-recomiendan-expertos-2590485.jpg' alt='Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041'>Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brooklyn-nets-estrenan-propio-netaverso-100-camaras-alrededor-cancha-ver-partidos-dentro-realidad-virtual-2590469.jpg' alt='Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual' />
     </a>
 </div>
 
