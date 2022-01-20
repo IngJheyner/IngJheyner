@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-no-tiene-dudas-bitcoin-no-buen-negocio-998403'>La OCU no tiene dudas: "Bitcoin no es un buen negocio"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocu-no-tiene-dudas-bitcoin-no-buen-negocio-998403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/bitcoin-basura-2202245.jpg' alt='La OCU no tiene dudas: "Bitcoin no es un buen negocio"' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-canal-doctor-who-gratis-998461'>En Pluto TV hay un canal en el que puedes ver Doctor Who gratis en cualquier momento del día</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-canal-doctor-who-gratis-998461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/doctor-who-2501931.jpg' alt='En Pluto TV hay un canal en el que puedes ver Doctor Who gratis en cualquier momento del día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369'>Estos son los coches y marcas que más averías sufren en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Estos son los coches y marcas que más averías sufren en Europa' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/merece-pena-rtx-3050-precio-oficial-fecha-lanzamiento-espana-998453'>¿Merece la pena la RTX 3050? Precio oficial y fecha de lanzamiento en España</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/merece-pena-rtx-3050-precio-oficial-fecha-lanzamiento-espana-998453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-apuesta-ces-2022-rtx-3050-como-gpu-economica-rtx-3080ti-portatiles-top-2577853.jpg' alt='¿Merece la pena la RTX 3050? Precio oficial y fecha de lanzamiento en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/devtoys-navaja-suiza-desarrolladores-windows-10-windows-11-998347'>DevToys es la navaja suiza para desarrolladores en Windows 10 y Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/devtoys-navaja-suiza-desarrolladores-windows-10-windows-11-998347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/devtoys-2590763.jpg' alt='DevToys es la navaja suiza para desarrolladores en Windows 10 y Windows 11' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-imaginaras-hubieses-ganado-solo-invertir-100-euros-shiba-inu-hace-18-meses-998427'>Nunca imaginarás lo que hubieses ganado solo por invertir 100 euros en Shiba Inu hace 18 meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nunca-imaginaras-hubieses-ganado-solo-invertir-100-euros-shiba-inu-hace-18-meses-998427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Nunca imaginarás lo que hubieses ganado solo por invertir 100 euros en Shiba Inu hace 18 meses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/3-motivos-murio-lg-como-marca-moviles-998327'>Los 3 motivos por los que murió LG como marca de móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/3-motivos-murio-lg-como-marca-moviles-998327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/lg-velvet-1987385.jpg' alt='Los 3 motivos por los que murió LG como marca de móviles' />
+    <h4><a href='https://computerhoy.com/guia-compra/bicicleta-electrica-815843'>Consejos y guía para comprar una bicicleta eléctrica en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bicicleta-electrica-815843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bicicleta-electrica-plegable-2340507.jpg' alt='Consejos y guía para comprar una bicicleta eléctrica en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295'>A un paso de la computación cuántica: alcanzan un 99% de precisión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-cuantico-2515065.jpg' alt='A un paso de la computación cuántica: alcanzan un 99% de precisión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-13-pantalla-oled-200-euros-descuento-998397'>Que este portátil de Asus tenga una pantalla OLED y un descuento de 200 euros es increíble, ¡y la oferta es limitada!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-13-pantalla-oled-200-euros-descuento-998397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-13-2579999.jpg' alt='Que este portátil de Asus tenga una pantalla OLED y un descuento de 200 euros es increíble, ¡y la oferta es limitada!' />
     </a>
 </div>
 
