@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951'>¡Ya está en tu quiosco el número 608 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-608-2586255.jpg' alt='¡Ya está en tu quiosco el número 608 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-serie-pedro-almodovar-998291'>Apple TV+ adaptará a serie una de las películas más divertidas de Pedro Almodóvar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-serie-pedro-almodovar-998291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/pedro-almodovar-opina-cine-superheroes-falta-sexo.jpg' alt='Apple TV+ adaptará a serie una de las películas más divertidas de Pedro Almodóvar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279'>Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...</a></h4>
     <a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-play-games-2590683.jpg' alt='Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865'>5 problemas de Windows 11 que Microsoft debería solucionar pronto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='5 problemas de Windows 11 que Microsoft debería solucionar pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-van-ser-controles-drogas-dgt-2022-997859'>Cómo van a ser los controles de drogas de la DGT en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-van-ser-controles-drogas-dgt-2022-997859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/como-hace-control-drogas-paso-paso-2017481.jpg' alt='Cómo van a ser los controles de drogas de la DGT en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2590675.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
