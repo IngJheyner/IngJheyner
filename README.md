@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295'>A un paso de la computación cuántica: alcanzan un 99% de precisión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-cuantico-2515065.jpg' alt='A un paso de la computación cuántica: alcanzan un 99% de precisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951'>¡Ya está en tu quiosco el número 608 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-608-2586255.jpg' alt='¡Ya está en tu quiosco el número 608 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947'>realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-neo-2-vs-realme-gt-master-edition-2590345.jpg' alt='realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865'>5 problemas de Windows 11 que Microsoft debería solucionar pronto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-problemas-windows-11-microsoft-deberia-solucionar-pronto-997865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='5 problemas de Windows 11 que Microsoft debería solucionar pronto' />
     </a>
 </div>
 
