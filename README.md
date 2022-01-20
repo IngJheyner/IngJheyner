@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/angulo-magico-grafeno-descubrimiento-marcara-futuro-semiconductores-998601'>El “ángulo mágico” en el grafeno es un descubrimiento que marcará el futuro de los semiconductores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/angulo-magico-grafeno-descubrimiento-marcara-futuro-semiconductores-998601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/escudo-calor-grafeno.jpg' alt='El “ángulo mágico” en el grafeno es un descubrimiento que marcará el futuro de los semiconductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monederos-fisicos-guardar-criptomonedas-como-bitcoin-ethereum-996501'>Mejores monederos físicos para guardar criptomonedas como Bitcoin, Ethereum y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monederos-fisicos-guardar-criptomonedas-como-bitcoin-ethereum-996501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monedero-bitcoin-2587623.jpg' alt='Mejores monederos físicos para guardar criptomonedas como Bitcoin, Ethereum y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-definitivo-hacer-buenas-fotos-noche-movil-996187'>El truco definitivo para hacer buenas fotos de noche con el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-definitivo-hacer-buenas-fotos-noche-movil-996187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-samsung-galaxy-s21-ultra-5g-2215893.jpg' alt='El truco definitivo para hacer buenas fotos de noche con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-reproduccion-bucle-capitulos-dentro-videos-998567'>YouTube permitirá la reproducción en bucle de capítulos dentro de sus vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-reproduccion-bucle-capitulos-dentro-videos-998567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/youtube-2317851.jpg' alt='YouTube permitirá la reproducción en bucle de capítulos dentro de sus vídeos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-accion-android-2022-tienes-descargar-ya-mismo-996189'>Los 9 mejores juegos de acción para Android de 2022 y que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-accion-android-2022-tienes-descargar-ya-mismo-996189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 9 mejores juegos de acción para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuando-volvera-estar-venta-thermomix-barata-lild-historica-sentencia-998559'>¿Cuándo volverá a estar a la venta la “Thermomix” barata de Lild tras la histórica sentencia?</a></h4>
-    <a href='https://computerhoy.com/noticias/cuando-volvera-estar-venta-thermomix-barata-lild-historica-sentencia-998559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/monsieur-cuisine-connect-2031819.jpg' alt='¿Cuándo volverá a estar a la venta la “Thermomix” barata de Lild tras la histórica sentencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-mejorar-senal-wifi-hace-menos-10eu-repetidor-low-cost-997765'>Xiaomi quiere mejorar tu señal WiFi y lo hace por menos de 10€ con este repetidor low cost</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-mejorar-senal-wifi-hace-menos-10eu-repetidor-low-cost-997765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-wifi-range-extender-pro-repeater-pro-2589999.jpg' alt='Xiaomi quiere mejorar tu señal WiFi y lo hace por menos de 10€ con este repetidor low cost' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinco-cosas-raras-minan-criptomonedas-998485'>Las cinco cosas más raras con las que se minan criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cinco-cosas-raras-minan-criptomonedas-998485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/granja-criptomonedas-2477943.jpg' alt='Las cinco cosas más raras con las que se minan criptomonedas' />
     </a>
 </div>
 
