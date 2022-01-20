@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-998265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2590675.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-padel-puedes-comprar-997799'>Mejores relojes inteligentes para pádel que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-padel-puedes-comprar-997799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-jugando-padel-2590051.jpg' alt='Mejores relojes inteligentes para pádel que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/polar-plug-calefaccion-manillares-bici-998263'>Polar Plug, la calefacción para manillares de bici</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/polar-plug-calefaccion-manillares-bici-998263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/polar-plug-calefaccion-manillares-bici-2590673.jpg' alt='Polar Plug, la calefacción para manillares de bici' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067'>Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bolsas-compra-tambien-hay-lavarlas-pero-cuidado-detergente-recomiendan-expertos-2590485.jpg' alt='Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041'>Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brooklyn-nets-estrenan-propio-netaverso-100-camaras-alrededor-cancha-ver-partidos-dentro-realidad-virtual-2590469.jpg' alt='Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035'>Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estos-son-nuevos-juegos-movil-netflix-regala-suscriptores-atento-te-gustan-juegos-cartas-tipo-hearthstone-2590467.jpg' alt='Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021'>Instagram se suma a Twitter y ahora integra suscripciones de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-suma-twitter-ahora-integra-suscripciones-pago-998021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instagram-suma-twitter-ahora-integra-suscripciones-pago-2590457.jpg' alt='Instagram se suma a Twitter y ahora integra suscripciones de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025'>Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscas-portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-ampliable-windows-11-baja-399-euros-2590443.jpg' alt='Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros' />
     </a>
 </div>
 
