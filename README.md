@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677'>La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/polemica-conexion-5g-aeropuertos-estados-unidos-cancelan-vuelos-europa-no-hay-problemas-2591553.jpg' alt='La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657'>Las mejores palabras y trucos para ganar en Wordle sin hacer trampas</a></h4>
     <a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='Las mejores palabras y trucos para ganar en Wordle sin hacer trampas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/last-us-estrenara-hbo-max-ano-imdb-998495'>The Last of Us se estrenará en HBO Max este año, según IMDb</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/last-us-estrenara-hbo-max-ano-imdb-998495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/last-us-2584943.jpg' alt='The Last of Us se estrenará en HBO Max este año, según IMDb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-vieja-funcionalidad-chat-servicio-tecnico-998653'>WhatsApp recupera una vieja funcionalidad y casi nadie se ha dado cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-vieja-funcionalidad-chat-servicio-tecnico-998653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-recupera-vieja-funcionalidad-casi-nadie-ha-dado-cuenta-2591485.jpg' alt='WhatsApp recupera una vieja funcionalidad y casi nadie se ha dado cuenta' />
     </a>
 </div>
 
