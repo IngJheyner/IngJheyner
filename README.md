@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-no-tiene-dudas-bitcoin-no-buen-negocio-998403'>La OCU no tiene dudas: "Bitcoin no es un buen negocio"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocu-no-tiene-dudas-bitcoin-no-buen-negocio-998403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/bitcoin-basura-2202245.jpg' alt='La OCU no tiene dudas: "Bitcoin no es un buen negocio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369'>Estos son los coches y marcas que más averías sufren en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Estos son los coches y marcas que más averías sufren en Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295'>A un paso de la computación cuántica: alcanzan un 99% de precisión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-cuantico-2515065.jpg' alt='A un paso de la computación cuántica: alcanzan un 99% de precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951'>¡Ya está en tu quiosco el número 608 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-608-2586255.jpg' alt='¡Ya está en tu quiosco el número 608 de Computer Hoy!' />
     </a>
 </div>
 
