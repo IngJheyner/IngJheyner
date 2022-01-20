@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067'>Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bolsas-compra-como-lavarlas-998067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bolsas-compra-tambien-hay-lavarlas-pero-cuidado-detergente-recomiendan-expertos-2590485.jpg' alt='Sí, las bolsas de la compra también hay que lavarlas, pero cuidado con el detergente: esto es lo que recomiendan los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041'>Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brooklyn-nets-estrenan-propio-netaverso-100-camaras-alrededor-cancha-ver-partidos-dentro-realidad-virtual-2590469.jpg' alt='Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025'>Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-descuento-998025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscas-portatil-barato-hp-255-g8-8-gb-ram-ssd-windows-10-ampliable-windows-11-baja-399-euros-2590443.jpg' alt='Si buscas un portátil barato, este HP 255 G8 con 8 GB de RAM, SSD y Windows 10 ampliable a Windows 11, baja a 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857'>Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado' />
     </a>
 </div>
 
