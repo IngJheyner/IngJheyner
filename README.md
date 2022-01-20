@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-recuperando-series-hoy-estrena-buscadas-aficionados-fantastico-998537'>HBO Max sigue recuperando series y hoy estrena una de las más buscadas por los aficionados al fantástico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-recuperando-series-hoy-estrena-buscadas-aficionados-fantastico-998537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fringe-2591197.jpg' alt='HBO Max sigue recuperando series y hoy estrena una de las más buscadas por los aficionados al fantástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-garmin-fenix-7-mejor-smartwatch-deportistas-998415'>5 razones por el que Garmin Fenix 7 es el nuevo smartwatch estrella para deportistas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-garmin-fenix-7-mejor-smartwatch-deportistas-998415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7-2591055.jpg' alt='5 razones por el que Garmin Fenix 7 es el nuevo smartwatch estrella para deportistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-canal-doctor-who-gratis-998461'>En Pluto TV hay un canal en el que puedes ver Doctor Who gratis en cualquier momento del día</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pluto-canal-doctor-who-gratis-998461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/doctor-who-2501931.jpg' alt='En Pluto TV hay un canal en el que puedes ver Doctor Who gratis en cualquier momento del día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-imaginaras-hubieses-ganado-solo-invertir-100-euros-shiba-inu-hace-18-meses-998427'>Nunca imaginarás lo que hubieses ganado solo por invertir 100 euros en Shiba Inu hace 18 meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nunca-imaginaras-hubieses-ganado-solo-invertir-100-euros-shiba-inu-hace-18-meses-998427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-dogecoin-2564535.jpg' alt='Nunca imaginarás lo que hubieses ganado solo por invertir 100 euros en Shiba Inu hace 18 meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bicicleta-electrica-815843'>Consejos y guía para comprar una bicicleta eléctrica en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bicicleta-electrica-815843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bicicleta-electrica-plegable-2340507.jpg' alt='Consejos y guía para comprar una bicicleta eléctrica en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-13-pantalla-oled-200-euros-descuento-998397'>Que este portátil de Asus tenga una pantalla OLED y un descuento de 200 euros es increíble, ¡y la oferta es limitada!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-13-pantalla-oled-200-euros-descuento-998397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-zenbook-13-2579999.jpg' alt='Que este portátil de Asus tenga una pantalla OLED y un descuento de 200 euros es increíble, ¡y la oferta es limitada!' />
     </a>
 </div>
 
