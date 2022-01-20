@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369'>Estos son los coches y marcas que más averías sufren en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-coches-marcas-averias-sufren-europa-998369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Estos son los coches y marcas que más averías sufren en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/devtoys-navaja-suiza-desarrolladores-windows-10-windows-11-998347'>DevToys es la navaja suiza para desarrolladores en Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/devtoys-navaja-suiza-desarrolladores-windows-10-windows-11-998347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/devtoys-2590763.jpg' alt='DevToys es la navaja suiza para desarrolladores en Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/3-motivos-murio-lg-como-marca-moviles-998327'>Los 3 motivos por los que murió LG como marca de móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/3-motivos-murio-lg-como-marca-moviles-998327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/lg-velvet-1987385.jpg' alt='Los 3 motivos por los que murió LG como marca de móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295'>A un paso de la computación cuántica: alcanzan un 99% de precisión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paso-computacion-cuantica-alcanzan-99-precision-998295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ordenador-cuantico-2515065.jpg' alt='A un paso de la computación cuántica: alcanzan un 99% de precisión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951'>¡Ya está en tu quiosco el número 608 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-608-computer-hoy-994951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-608-2586255.jpg' alt='¡Ya está en tu quiosco el número 608 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-serie-pedro-almodovar-998291'>Apple TV+ adaptará a serie una de las películas más divertidas de Pedro Almodóvar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-serie-pedro-almodovar-998291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/pedro-almodovar-opina-cine-superheroes-falta-sexo.jpg' alt='Apple TV+ adaptará a serie una de las películas más divertidas de Pedro Almodóvar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279'>Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...</a></h4>
-    <a href='https://computerhoy.com/noticias/google-play-games-windows-caracteristicas-requisitos-juegos-998279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-play-games-2590683.jpg' alt='Google Play Games para Windows se lanza en varios países: características, requisitos, juegos disponibles...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947'>realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/realme-gt-neo-2-vs-realme-gt-master-edition-diferencian-cual-mejor-997947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-neo-2-vs-realme-gt-master-edition-2590345.jpg' alt='realme GT Neo 2 vs realme GT Master Edition, ¿en qué se diferencian y cuál es mejor?' />
     </a>
 </div>
 
