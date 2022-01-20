@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-google-maps-tomtom-waze-mejor-app-navegacion-android-998645'>Ni Google Maps, TomTom o Waze: esta es la mejor app de navegación para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-google-maps-tomtom-waze-mejor-app-navegacion-android-998645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Ni Google Maps, TomTom o Waze: esta es la mejor app de navegación para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/reloj-ha-fabricado-pastillas-freno-hypercar-9x8-998491'>Este reloj se ha fabricado con las pastillas de freno del Hypercar 9X8</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/reloj-ha-fabricado-pastillas-freno-hypercar-9x8-998491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reloj-lorige-bl-endurance-hyperblack-peugeot-2584927.jpg' alt='Este reloj se ha fabricado con las pastillas de freno del Hypercar 9X8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-finalmente-da-paso-cobrara-usuarios-google-workspace-g-suite-gratuita-hace-anos-998629'>Google finalmente da el paso y cobrará a los usuarios de Google Workspace, la G Suite gratuita de hace años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-finalmente-da-paso-cobrara-usuarios-google-workspace-g-suite-gratuita-hace-anos-998629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hoy-google-workspace-gratis-cualquier-usuario-cuenta-gmail-2370625.jpg' alt='Google finalmente da el paso y cobrará a los usuarios de Google Workspace, la G Suite gratuita de hace años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/angulo-magico-grafeno-descubrimiento-marcara-futuro-semiconductores-998601'>El “ángulo mágico” en el grafeno es un descubrimiento que marcará el futuro de los semiconductores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/angulo-magico-grafeno-descubrimiento-marcara-futuro-semiconductores-998601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/escudo-calor-grafeno.jpg' alt='El “ángulo mágico” en el grafeno es un descubrimiento que marcará el futuro de los semiconductores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monederos-fisicos-guardar-criptomonedas-como-bitcoin-ethereum-996501'>Mejores monederos físicos para guardar criptomonedas como Bitcoin, Ethereum y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monederos-fisicos-guardar-criptomonedas-como-bitcoin-ethereum-996501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monedero-bitcoin-2587623.jpg' alt='Mejores monederos físicos para guardar criptomonedas como Bitcoin, Ethereum y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-definitivo-hacer-buenas-fotos-noche-movil-996187'>El truco definitivo para hacer buenas fotos de noche con el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-definitivo-hacer-buenas-fotos-noche-movil-996187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/analisis-samsung-galaxy-s21-ultra-5g-2215893.jpg' alt='El truco definitivo para hacer buenas fotos de noche con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-reproduccion-bucle-capitulos-dentro-videos-998567'>YouTube permitirá la reproducción en bucle de capítulos dentro de sus vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-reproduccion-bucle-capitulos-dentro-videos-998567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/youtube-2317851.jpg' alt='YouTube permitirá la reproducción en bucle de capítulos dentro de sus vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-accion-android-2022-tienes-descargar-ya-mismo-996189'>Los 9 mejores juegos de acción para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-accion-android-2022-tienes-descargar-ya-mismo-996189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los 9 mejores juegos de acción para Android de 2022 y que tienes que descargar ya mismo' />
     </a>
 </div>
 
