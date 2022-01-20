@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041'>Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/brooklyn-net-netaverso-100-camaras-alrededor-cancha-realidad-virtual-998041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brooklyn-nets-estrenan-propio-netaverso-100-camaras-alrededor-cancha-ver-partidos-dentro-realidad-virtual-2590469.jpg' alt='Los Brooklyn Nets estrenan su propio "Netaverso": 100 cámaras alrededor de la cancha para ver los partidos desde dentro, en realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035'>Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevos-juegos-movil-netflix-enero-2022-998035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estos-son-nuevos-juegos-movil-netflix-regala-suscriptores-atento-te-gustan-juegos-cartas-tipo-hearthstone-2590467.jpg' alt='Estos son los nuevos juegos de móvil que Netflix regala a sus suscriptores, atento si te gustan los juegos de cartas tipo Hearthstone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857'>Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/queda-cronologia-ucm-eternals-disney-ha-actualizado-997857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Así queda la cronología del UCM con Eternals, Disney+ la ha actualizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017'>Trucos para configurar Spotify y disfrutar la música con la mejor calidad</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trucos-configurar-spotify-musica-mejor-calidad-998017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trucos-configurar-spotify-disfrutar-musica-mejor-calidad-2590433.jpg' alt='Trucos para configurar Spotify y disfrutar la música con la mejor calidad' />
     </a>
 </div>
 
