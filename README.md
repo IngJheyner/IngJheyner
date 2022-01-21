@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063'>Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-viejo-2592081.jpg' alt='Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887'>Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/mandos-ps5-xbox-series-x-1982905.jpg' alt='Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595'>Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-huawei-matebook-14s-2569745.jpg' alt='Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011'>Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg' alt='Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017'>La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/luz-led-lidl-2591967.jpg' alt='La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965'>Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-internet-hospitales-vulnerables-998953'>La mayoría de ordenadores con conexión a Internet en hospitales son vulnerables ante hackeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-internet-hospitales-vulnerables-998953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hospital-2591849.jpg' alt='La mayoría de ordenadores con conexión a Internet en hospitales son vulnerables ante hackeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973'>La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-deletrear-2591859.jpg' alt='La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando' />
     </a>
 </div>
 
