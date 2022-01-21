@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281'>Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279'>Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg' alt='Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-essential-oferta-999297'>El patinete eléctrico más vendido de Xiaomi baja de los 300 euros y se convierte en un opción muy apetecible</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-essential-oferta-999297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/xiaomi-mi-electric-scooter-essential-2013937.jpg' alt='El patinete eléctrico más vendido de Xiaomi baja de los 300 euros y se convierte en un opción muy apetecible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215'>Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-2592433.jpg' alt='Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145'>La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pacificador-peacemaker-2586273.jpg' alt='La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-monstruoverso-godzilla-999289'>Apple TV+ también quiere un multiverso, aunque tendrá a Godzilla y será un "monstruoverso"</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-monstruoverso-godzilla-999289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/estrena-trailer-estrenos-esperados-ano-godzilla-vs-kong-2208775.jpg' alt='Apple TV+ también quiere un multiverso, aunque tendrá a Godzilla y será un "monstruoverso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pidiendo-ayuda-usuarios-solucionar-problema-android-auto-999285'>Google está pidiendo ayuda a los usuarios para solucionar un problema de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pidiendo-ayuda-usuarios-solucionar-problema-android-auto-999285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Google está pidiendo ayuda a los usuarios para solucionar un problema de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-dilema-comprar-bitcoin-ahora-esperar-poco-999277'>El gran dilema: ¿comprar Bitcoin ahora o esperar un poco más?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-dilema-comprar-bitcoin-ahora-esperar-poco-999277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='El gran dilema: ¿comprar Bitcoin ahora o esperar un poco más?' />
     </a>
 </div>
 
