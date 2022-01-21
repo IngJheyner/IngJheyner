@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079'>Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peliculas-2592199.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003'>El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232475.jpg' alt='El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063'>Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-viejo-2592081.jpg' alt='Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887'>Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/mandos-ps5-xbox-series-x-1982905.jpg' alt='Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022' />
     </a>
 </div>
 
