@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129'>TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063'>Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-viejo-2592081.jpg' alt='Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011'>Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg' alt='Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017'>La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/luz-led-lidl-2591967.jpg' alt='La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca' />
     </a>
 </div>
 
