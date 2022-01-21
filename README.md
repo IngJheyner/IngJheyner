@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909'>Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2504081.jpg' alt='Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505'>5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brindis-cerveza-2591145.jpg' alt='5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503'>Cuál es la diferencia entre el climatizador y el aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/diferencia-climatizador-aire-acondicionado-2586291.jpg' alt='Cuál es la diferencia entre el climatizador y el aire acondicionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2591773.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467'>5 productos del hogar conectado de Xiaomi para montar tu Smart Home</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-2591237.jpg' alt='5 productos del hogar conectado de Xiaomi para montar tu Smart Home' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-creativos-aprovechar-cajas-carton-amazon-998903'>5 trucos creativos para aprovechar las cajas de cartón de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-trucos-creativos-aprovechar-cajas-carton-amazon-998903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-trucos-creativos-aprovechar-cajas-carton-amazon-2591771.jpg' alt='5 trucos creativos para aprovechar las cajas de cartón de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cocobo-robot-policia-gasea-ladrones-video-998683'>Cocobo, el robot de seguridad japonés que gasea a los ladrones (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cocobo-robot-policia-gasea-ladrones-video-998683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocobo-robot-policia-gasea-ladrones-2591559.jpg' alt='Cocobo, el robot de seguridad japonés que gasea a los ladrones (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677'>La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/polemica-conexion-5g-aeropuertos-estados-unidos-cancelan-vuelos-europa-no-hay-problemas-2591553.jpg' alt='La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?' />
     </a>
 </div>
 
