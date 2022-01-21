@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003'>El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232475.jpg' alt='El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/amazon-echo-show-5_13.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887'>Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/claves-comprar-televisor-para-jugar-669887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/mandos-ps5-xbox-series-x-1982905.jpg' alt='Guía y consejos para comprar un televisor para jugar con tu PS5 o Xbox Series X en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595'>Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-huawei-matebook-14s-2569745.jpg' alt='Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros' />
     </a>
 </div>
 
