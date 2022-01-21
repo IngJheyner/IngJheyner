@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937'>Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bitcoin-2142907.jpg' alt='Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923'>Quantum dots en paneles solares consiguen niveles de récord</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instalando-paneles-solares-2470269.jpg' alt='Quantum dots en paneles solares consiguen niveles de récord' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505'>5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brindis-cerveza-2591145.jpg' alt='5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503'>Cuál es la diferencia entre el climatizador y el aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/diferencia-climatizador-aire-acondicionado-2586291.jpg' alt='Cuál es la diferencia entre el climatizador y el aire acondicionado' />
     </a>
 </div>
 
