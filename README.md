@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-ya-tendria-listo-primer-movil-snapdragon-8-gen-1-camara-pantalla-999213'>Motorola ya tendría listo su primer móvil con el Snapdragon 8 Gen 1 y cámara bajo pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-ya-tendria-listo-primer-movil-snapdragon-8-gen-1-camara-pantalla-999213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-motorola-edge-20-pro-2517103.jpg' alt='Motorola ya tendría listo su primer móvil con el Snapdragon 8 Gen 1 y cámara bajo pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-pintura-bmw-cambia-color-te-explicamos-999141'>Cómo funciona la pintura de BMW que cambia de color: te lo explicamos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-funciona-pintura-bmw-cambia-color-te-explicamos-999141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pintura-bmw-cambia-color-ix-2586027.jpg' alt='Cómo funciona la pintura de BMW que cambia de color: te lo explicamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sencillo-metodo-viejo-frigorifico-podria-gastar-30-electricidad-menos-ocu-999211'>El sencillo método con el que tu viejo frigorífico podría gastar un 30% de electricidad menos según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sencillo-metodo-viejo-frigorifico-podria-gastar-30-electricidad-menos-ocu-999211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/comprar-frigorifico-2044433.jpg' alt='El sencillo método con el que tu viejo frigorífico podría gastar un 30% de electricidad menos según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059'>Móviles Xiaomi con carga inalámbrica: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carga-inalambrica-xiaomi-2592045.jpg' alt='Móviles Xiaomi con carga inalámbrica: estos son los mejores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173'>Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2592317.jpg' alt='Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079'>Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peliculas-2592199.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003'>El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-reloj-inteligente-gps-oferta-amazon-999003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232475.jpg' alt='El reloj inteligente de Xiaomi con GPS y seguimiento deportivo ha bajado 40 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/amazon-echo-show-5_13.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros' />
     </a>
 </div>
 
