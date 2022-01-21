@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965'>Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-internet-hospitales-vulnerables-998953'>La mayoría de ordenadores con conexión a Internet en hospitales son vulnerables ante hackeos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-internet-hospitales-vulnerables-998953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hospital-2591849.jpg' alt='La mayoría de ordenadores con conexión a Internet en hospitales son vulnerables ante hackeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973'>La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-deletrear-2591859.jpg' alt='La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937'>Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bitcoin-2142907.jpg' alt='Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923'>Quantum dots en paneles solares consiguen niveles de récord</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instalando-paneles-solares-2470269.jpg' alt='Quantum dots en paneles solares consiguen niveles de récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-udemy-aprender-programar-lenguajes-como-python-javascript-996553'>Mejores cursos online de Udemy para aprender a programar en lenguajes como Python, JavaScript y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-udemy-aprender-programar-lenguajes-como-python-javascript-996553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/udemy-2587861.jpg' alt='Mejores cursos online de Udemy para aprender a programar en lenguajes como Python, JavaScript y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909'>Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2504081.jpg' alt='Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505'>5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-razones-no-beber-exceso-alcohol-destroza-cuerpo-cerebro-998505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/brindis-cerveza-2591145.jpg' alt='5 razones para no beber: el exceso de alcohol destroza tu cuerpo y cerebro' />
     </a>
 </div>
 
