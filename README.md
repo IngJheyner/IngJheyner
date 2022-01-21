@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305'>Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-nueva-tarjeta-rx-6500-xt-tiene-gpu-portatil-no-decodifica-video-2592877.jpg' alt='Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281'>Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215'>Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-2592433.jpg' alt='Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145'>La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pacificador-peacemaker-2586273.jpg' alt='La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela' />
     </a>
 </div>
 
