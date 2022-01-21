@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/amazon-echo-show-5_13.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129'>TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595'>Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-portatiles-huawei-procesadores-amd-oferta-998595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-huawei-matebook-14s-2569745.jpg' alt='Si buscas un portátil potente con procesador AMD, Huawei tiene varios modelos en oferta desde 749 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011'>Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg' alt='Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple' />
     </a>
 </div>
 
