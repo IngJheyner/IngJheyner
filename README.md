@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011'>Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-preparando-version-renovada-gafas-ar-no-perder-tren-inminentes-apple-999011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg' alt='Google está preparando la versión renovada de sus gafas AR y no perder el tren con las inminentes de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017'>La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luz-sensor-movimiento-lidl-999017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/luz-led-lidl-2591967.jpg' alt='La nueva luz con sensor de movimiento de Lidl para el baño: por menos de 5 euros te sentirás en una discoteca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965'>Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-confirma-unpacked-2022-significa-galaxy-s22-oficial-998965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Samsung confirma un Unpacked 2022, lo que significa que el Galaxy S22 es oficial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973'>La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-permitira-escribir-viva-voz-deletreando-998973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-deletrear-2591859.jpg' alt='La próxima actualización de Windows 11 permitirá escribir de viva voz deletreando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937'>Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-ven-indicios-claros-posible-repunte-bitcoin-encima-60-998937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bitcoin-2142907.jpg' alt='Expertos ven indicios claros de un posible repunte de Bitcoin por encima del 60%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923'>Quantum dots en paneles solares consiguen niveles de récord</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instalando-paneles-solares-2470269.jpg' alt='Quantum dots en paneles solares consiguen niveles de récord' />
     </a>
 </div>
 
