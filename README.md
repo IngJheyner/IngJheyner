@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923'>Quantum dots en paneles solares consiguen niveles de récord</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quantum-dots-paneles-solares-record-998923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instalando-paneles-solares-2470269.jpg' alt='Quantum dots en paneles solares consiguen niveles de récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-udemy-aprender-programar-lenguajes-como-python-javascript-996553'>Mejores cursos online de Udemy para aprender a programar en lenguajes como Python, JavaScript y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-udemy-aprender-programar-lenguajes-como-python-javascript-996553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/udemy-2587861.jpg' alt='Mejores cursos online de Udemy para aprender a programar en lenguajes como Python, JavaScript y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909'>Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-segunda-temporada-juego-calamar-universo-998909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2504081.jpg' alt='Netflix confirma que habrá segunda temporada de El juego del calamar y se prepara todo un universo de contenido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503'>Cuál es la diferencia entre el climatizador y el aire acondicionado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cual-diferencia-climatizador-aire-acondicionado-998503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/diferencia-climatizador-aire-acondicionado-2586291.jpg' alt='Cuál es la diferencia entre el climatizador y el aire acondicionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2591773.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467'>5 productos del hogar conectado de Xiaomi para montar tu Smart Home</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-2591237.jpg' alt='5 productos del hogar conectado de Xiaomi para montar tu Smart Home' />
     </a>
 </div>
 
