@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-998905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2591773.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467'>5 productos del hogar conectado de Xiaomi para montar tu Smart Home</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-hogar-conectado-xiaomi-smart-home-998467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-2591237.jpg' alt='5 productos del hogar conectado de Xiaomi para montar tu Smart Home' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-trucos-creativos-aprovechar-cajas-carton-amazon-998903'>5 trucos creativos para aprovechar las cajas de cartón de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-trucos-creativos-aprovechar-cajas-carton-amazon-998903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-trucos-creativos-aprovechar-cajas-carton-amazon-2591771.jpg' alt='5 trucos creativos para aprovechar las cajas de cartón de Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677'>La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/polemica-conexion-5g-aeropuertos-998677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/polemica-conexion-5g-aeropuertos-estados-unidos-cancelan-vuelos-europa-no-hay-problemas-2591553.jpg' alt='La polémica de la conexión 5G y los aeropuertos: ¿por qué Estados Unidos cancela vuelos y en Europa no hay problemas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657'>Las mejores palabras y trucos para ganar en Wordle sin hacer trampas</a></h4>
-    <a href='https://computerhoy.com/noticias/mejores-palabras-trucos-ganar-wordle-hacer-trampas-998657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='Las mejores palabras y trucos para ganar en Wordle sin hacer trampas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-49-euros-oferta-amazon-998667'>Qué tiene esta barra de sonido de 49 euros que todo el mundo la está comprando en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-49-euros-oferta-amazon-998667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiene-barra-sonido-49-euros-todo-mundo-comprando-amazon-2591539.jpg' alt='Qué tiene esta barra de sonido de 49 euros que todo el mundo la está comprando en Amazon' />
     </a>
 </div>
 
