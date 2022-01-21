@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-ya-tendria-listo-primer-movil-snapdragon-8-gen-1-camara-pantalla-999213'>Motorola ya tendría listo su primer móvil con el Snapdragon 8 Gen 1 y cámara bajo pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-ya-tendria-listo-primer-movil-snapdragon-8-gen-1-camara-pantalla-999213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-motorola-edge-20-pro-2517103.jpg' alt='Motorola ya tendría listo su primer móvil con el Snapdragon 8 Gen 1 y cámara bajo pantalla' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215'>Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-2592433.jpg' alt='Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-pintura-bmw-cambia-color-te-explicamos-999141'>Cómo funciona la pintura de BMW que cambia de color: te lo explicamos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-funciona-pintura-bmw-cambia-color-te-explicamos-999141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pintura-bmw-cambia-color-ix-2586027.jpg' alt='Cómo funciona la pintura de BMW que cambia de color: te lo explicamos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145'>La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/intro-pacificador-hbo-max-hizo-nunca-quieras-saltartela-999145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pacificador-peacemaker-2586273.jpg' alt='La intro de El Pacificador de HBO Max se hizo para que nunca quieras saltártela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sencillo-metodo-viejo-frigorifico-podria-gastar-30-electricidad-menos-ocu-999211'>El sencillo método con el que tu viejo frigorífico podría gastar un 30% de electricidad menos según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sencillo-metodo-viejo-frigorifico-podria-gastar-30-electricidad-menos-ocu-999211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/comprar-frigorifico-2044433.jpg' alt='El sencillo método con el que tu viejo frigorífico podría gastar un 30% de electricidad menos según la OCU' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-monstruoverso-godzilla-999289'>Apple TV+ también quiere un multiverso, aunque tendrá a Godzilla y será un "monstruoverso"</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-monstruoverso-godzilla-999289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/estrena-trailer-estrenos-esperados-ano-godzilla-vs-kong-2208775.jpg' alt='Apple TV+ también quiere un multiverso, aunque tendrá a Godzilla y será un "monstruoverso"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059'>Móviles Xiaomi con carga inalámbrica: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carga-inalambrica-xiaomi-2592045.jpg' alt='Móviles Xiaomi con carga inalámbrica: estos son los mejores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pidiendo-ayuda-usuarios-solucionar-problema-android-auto-999285'>Google está pidiendo ayuda a los usuarios para solucionar un problema de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pidiendo-ayuda-usuarios-solucionar-problema-android-auto-999285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Google está pidiendo ayuda a los usuarios para solucionar un problema de Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173'>Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2592317.jpg' alt='Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-dilema-comprar-bitcoin-ahora-esperar-poco-999277'>El gran dilema: ¿comprar Bitcoin ahora o esperar un poco más?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-dilema-comprar-bitcoin-ahora-esperar-poco-999277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='El gran dilema: ¿comprar Bitcoin ahora o esperar un poco más?' />
     </a>
 </div>
 
