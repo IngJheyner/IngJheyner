@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059'>Móviles Xiaomi con carga inalámbrica: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-xiaomi-carga-inalambrica-999059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carga-inalambrica-xiaomi-2592045.jpg' alt='Móviles Xiaomi con carga inalámbrica: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173'>Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-filmin-prime-video-restaurador-parlamento-familia-999173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2592317.jpg' alt='Qué series ver este fin de semana en Netflix, Filmin y Prime Video: un restaurador, un parlamento y una familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079'>Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-filmin-te-encanta-animacion-999079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peliculas-2592199.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Filmin si te encanta la animación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoces-amazon-echo-vuelven-ofertas-descuentos-limitados-998985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/amazon-echo-show-5_13.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 22 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129'>TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-planteando-implantar-suscripciones-pagadas-siguiendo-medidas-instagram-999129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok se está planteando implantar suscripciones pagadas siguiendo las medidas de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063'>Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/lista-coches-robados-espana-2021-ladrones-no-gustan-modelos-nuevos-999063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-viejo-2592081.jpg' alt='Según la lista de los coches más robados en España en 2021, a los ladrones no le gustan los modelos nuevos' />
     </a>
 </div>
 
