@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557'>Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533'>Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2593149.jpg' alt='Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951'>Bose SoundLink Flex, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bose-soundlink-flex-analisis-opinion-2591845.jpg' alt='Bose SoundLink Flex, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551'>Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427'>Todo lo que debes saber para comprar una batidora amasadora para repostería</a></h4>
     <a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tarta-macro-2292839.jpg' alt='Todo lo que debes saber para comprar una batidora amasadora para repostería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143'>Estos son los mejores trucos secretos de Google Maps</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-maps-2200309.jpg' alt='Estos son los mejores trucos secretos de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029'>Samsung Galaxy S21 FE, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592603.jpg' alt='Samsung Galaxy S21 FE, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523'>Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/adios-baston-collar-copiloto-inteligencia-artificial-ciegos-dice-donde-hay-ir-2593103.jpg' alt='Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir' />
     </a>
 </div>
 
