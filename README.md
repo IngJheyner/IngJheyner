@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575'>Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eufy-security-timbre-puerta-2593231.jpg' alt='Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567'>WhatsApp trabaja en fondos personalizados para las llamadas de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2593225.jpg' alt='WhatsApp trabaja en fondos personalizados para las llamadas de voz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951'>Bose SoundLink Flex, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bose-soundlink-flex-analisis-opinion-2591845.jpg' alt='Bose SoundLink Flex, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551'>Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora' />
     </a>
 </div>
 
