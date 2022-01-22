@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029'>Samsung Galaxy S21 FE, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592603.jpg' alt='Samsung Galaxy S21 FE, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523'>Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/adios-baston-collar-copiloto-inteligencia-artificial-ciegos-dice-donde-hay-ir-2593103.jpg' alt='Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131'>Los mejores altavoces conectados con WiFi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Los mejores altavoces conectados con WiFi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035'>Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nos-faltaba-ver-amazon-japon-vende-cajas-sorpresa-90-euros-donde-te-puede-tocar-tarjeta-rtx-3090-vieja-placa-usada-hace-8-anos-2592019.jpg' alt='Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años' />
     </a>
 </div>
 
