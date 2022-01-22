@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591'>Coca-Cola desvela su nuevo y sorprendente sabor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coca-cola-cafe-2593311.jpg' alt='Coca-Cola desvela su nuevo y sorprendente sabor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543'>Comprar un reloj inteligente para mujer: cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-perfil-bolso-piel-reloj-inteligente-muneca-2593157.jpg' alt='Comprar un reloj inteligente para mujer: cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587'>Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mision-imposible-7-2593269.jpg' alt='Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567'>WhatsApp trabaja en fondos personalizados para las llamadas de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2593225.jpg' alt='WhatsApp trabaja en fondos personalizados para las llamadas de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557'>Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533'>Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2593149.jpg' alt='Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón' />
     </a>
 </div>
 
