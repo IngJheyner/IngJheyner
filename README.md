@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641'>5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131'>Los mejores altavoces conectados con WiFi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Los mejores altavoces conectados con WiFi que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903'>Mantén al día Windows 11 con Update Tracker</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/portatil-windows-11-2403029.jpg' alt='Mantén al día Windows 11 con Update Tracker' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307'>Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/accesorios-gaming-hello-kitty-ha-lanzado-razer-seguro-arrasan-streamings-twitch-youtube-2592889.jpg' alt='Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube' />
     </a>
 </div>
 
