@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143'>Estos son los mejores trucos secretos de Google Maps</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-maps-2200309.jpg' alt='Estos son los mejores trucos secretos de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029'>Samsung Galaxy S21 FE, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s21-fe-review-opinion-999029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592603.jpg' alt='Samsung Galaxy S21 FE, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641'>5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131'>Los mejores altavoces conectados con WiFi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Los mejores altavoces conectados con WiFi que puedes comprar' />
     </a>
 </div>
 
