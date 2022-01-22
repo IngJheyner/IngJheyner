@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903'>Mantén al día Windows 11 con Update Tracker</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/portatil-windows-11-2403029.jpg' alt='Mantén al día Windows 11 con Update Tracker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307'>Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/accesorios-gaming-hello-kitty-ha-lanzado-razer-seguro-arrasan-streamings-twitch-youtube-2592889.jpg' alt='Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281'>Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279'>Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg' alt='Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus' />
     </a>
 </div>
 
