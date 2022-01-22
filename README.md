@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pajitas-cerveza-cinco-milenios-998993'>Descubren que hace 5.000 años se bebía cerveza en grupo con pajitas de oro y plata de un metro de largo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pajitas-cerveza-cinco-milenios-998993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/descubren-hace-5000-anos-bebia-cerveza-pajita-grupo-2591885.jpg' alt='Descubren que hace 5.000 años se bebía cerveza en grupo con pajitas de oro y plata de un metro de largo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-externo-12-tb-necesita-ordenador-almacenamiento-casi-infinito-999637'>Este disco duro externo de 12 TB es lo que necesita tu ordenador para almacenamiento casi infinito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-externo-12-tb-necesita-ordenador-almacenamiento-casi-infinito-999637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wd-elements-disco-duro-externo-2593427.jpg' alt='Este disco duro externo de 12 TB es lo que necesita tu ordenador para almacenamiento casi infinito' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543'>Comprar un reloj inteligente para mujer: cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-perfil-bolso-piel-reloj-inteligente-muneca-2593157.jpg' alt='Comprar un reloj inteligente para mujer: cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587'>Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mision-imposible-7-2593269.jpg' alt='Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia' />
     </a>
 </div>
 
