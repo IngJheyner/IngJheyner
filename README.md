@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587'>Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mision-imposible-7-2593269.jpg' alt='Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575'>Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eufy-security-timbre-puerta-2593231.jpg' alt='Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533'>Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tablets-10-baratas-samsung-ha-bajado-precio-20-euros-extras-cupon-999533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2593149.jpg' alt='Una de las nuevas tablets de 10" más baratas de Samsung ha bajado de precio 20 euros extras con este cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951'>Bose SoundLink Flex, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/bose-soundlink-flex-review-opinion-998951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bose-soundlink-flex-analisis-opinion-2591845.jpg' alt='Bose SoundLink Flex, análisis y opinión' />
     </a>
 </div>
 
