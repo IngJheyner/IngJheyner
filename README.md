@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633'>Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591'>Coca-Cola desvela su nuevo y sorprendente sabor</a></h4>
     <a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coca-cola-cafe-2593311.jpg' alt='Coca-Cola desvela su nuevo y sorprendente sabor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575'>Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eufy-security-timbre-puerta-2593231.jpg' alt='Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567'>WhatsApp trabaja en fondos personalizados para las llamadas de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2593225.jpg' alt='WhatsApp trabaja en fondos personalizados para las llamadas de voz' />
     </a>
 </div>
 
