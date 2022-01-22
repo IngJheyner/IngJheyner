@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-externo-12-tb-necesita-ordenador-almacenamiento-casi-infinito-999637'>Este disco duro externo de 12 TB es lo que necesita tu ordenador para almacenamiento casi infinito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-externo-12-tb-necesita-ordenador-almacenamiento-casi-infinito-999637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wd-elements-disco-duro-externo-2593427.jpg' alt='Este disco duro externo de 12 TB es lo que necesita tu ordenador para almacenamiento casi infinito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633'>Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587'>Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estreno-imposible-dos-proximas-peliculas-mision-imposible-retrasan-otra-vez-fans-pierden-paciencia-999587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mision-imposible-7-2593269.jpg' alt='Estreno Imposible: las dos próximas películas de Misión Imposible se retrasan otra vez y los fans pierden la paciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575'>Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/timbre-inteligente-wi-fi-camara-velara-seguridad-oferta-8499-euros-999575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eufy-security-timbre-puerta-2593231.jpg' alt='Este timbre inteligente con Wi-Fi y cámara velará por tu seguridad y está en oferta a 84,99 euros' />
     </a>
 </div>
 
