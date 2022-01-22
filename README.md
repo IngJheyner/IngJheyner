@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523'>Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/adios-baston-collar-copiloto-inteligencia-artificial-ciegos-dice-donde-hay-ir-2593103.jpg' alt='Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/como-tener-magsafe-cualquier-movil-android-iphone-999205'>Si tienes un Android o un iPhone antiguo también puedes usar MagSafe con estos adaptadores</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/como-tener-magsafe-cualquier-movil-android-iphone-999205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-cargador-magsafe-2592513.jpg' alt='Si tienes un Android o un iPhone antiguo también puedes usar MagSafe con estos adaptadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641'>5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035'>Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nos-faltaba-ver-amazon-japon-vende-cajas-sorpresa-90-euros-donde-te-puede-tocar-tarjeta-rtx-3090-vieja-placa-usada-hace-8-anos-2592019.jpg' alt='Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521'>El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hack-viral-extraer-pan-incrustado-tostadora-dejarla-como-nueva-2593099.jpg' alt='El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903'>Mantén al día Windows 11 con Update Tracker</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/portatil-windows-11-2403029.jpg' alt='Mantén al día Windows 11 con Update Tracker' />
     </a>
 </div>
 
