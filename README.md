@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131'>Los mejores altavoces conectados con WiFi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-conectados-wifi-puedes-comprar-999131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Los mejores altavoces conectados con WiFi que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035'>Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-japon-cajas-sorpresa-tarjetas-graficas-999035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nos-faltaba-ver-amazon-japon-vende-cajas-sorpresa-90-euros-donde-te-puede-tocar-tarjeta-rtx-3090-vieja-placa-usada-hace-8-anos-2592019.jpg' alt='Lo que nos faltaba por ver: Amazon Japón vende cajas sorpresa por 95 euros y te puede tocar una tarjeta RTX 3090... o una placa usada de hace 8 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521'>El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva</a></h4>
     <a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hack-viral-extraer-pan-incrustado-tostadora-dejarla-como-nueva-2593099.jpg' alt='El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307'>Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/accesorios-gaming-hello-kitty-ha-lanzado-razer-seguro-arrasan-streamings-twitch-youtube-2592889.jpg' alt='Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/influye-aprendizaje-ver-videos-clase-velocidad-rapida-996391'>¿Influye en el aprendizaje ver los vídeos de clase a velocidad rápida? Un experto responde</a></h4>
-    <a href='https://computerhoy.com/noticias/life/influye-aprendizaje-ver-videos-clase-velocidad-rapida-996391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/influye-aprendizaje-ver-videos-clase-doble-velocidad-experto-nos-da-respuesta-2587437.jpg' alt='¿Influye en el aprendizaje ver los vídeos de clase a velocidad rápida? Un experto responde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305'>Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-nueva-tarjeta-rx-6500-xt-tiene-gpu-portatil-no-decodifica-video-2592877.jpg' alt='Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1' />
     </a>
 </div>
 
