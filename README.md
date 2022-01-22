@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521'>El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hack-viral-extraer-pan-atascado-tostadora-999521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hack-viral-extraer-pan-incrustado-tostadora-dejarla-como-nueva-2593099.jpg' alt='El hack viral para extraer el pan atascado de la tostadora, y dejarla como nueva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903'>Mantén al día Windows 11 con Update Tracker</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/manten-dia-windows-11-update-tracker-922903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/portatil-windows-11-2403029.jpg' alt='Mantén al día Windows 11 con Update Tracker' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305'>Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-nueva-tarjeta-rx-6500-xt-tiene-gpu-portatil-no-decodifica-video-2592877.jpg' alt='Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281'>Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-expande-control-limitara-recomendaciones-evitar-contenido-danino-999281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram expande su control y limitará las recomendaciones para evitar el contenido dañino' />
     </a>
 </div>
 
