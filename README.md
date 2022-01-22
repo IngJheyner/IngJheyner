@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551'>Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427'>Todo lo que debes saber para comprar una batidora amasadora para repostería</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tarta-macro-2292839.jpg' alt='Todo lo que debes saber para comprar una batidora amasadora para repostería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143'>Estos son los mejores trucos secretos de Google Maps</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-mejores-trucos-secretos-google-maps-994143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-maps-2200309.jpg' alt='Estos son los mejores trucos secretos de Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523'>Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/biped-collar-copiloto-inteligencia-artificial-ciegos-999523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/adios-baston-collar-copiloto-inteligencia-artificial-ciegos-dice-donde-hay-ir-2593103.jpg' alt='Adiós al bastón: este collar es un copiloto con inteligencia artificial para ciegos que les dice por dónde hay que ir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/como-tener-magsafe-cualquier-movil-android-iphone-999205'>Si tienes un Android o un iPhone antiguo también puedes usar MagSafe con estos adaptadores</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/como-tener-magsafe-cualquier-movil-android-iphone-999205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-cargador-magsafe-2592513.jpg' alt='Si tienes un Android o un iPhone antiguo también puedes usar MagSafe con estos adaptadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641'>5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-comprobar-operadora-no-capa-velocidad-conexion-internet-996641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='5 maneras de comprobar que tu operadora no capa la velocidad de tu conexión a Internet' />
     </a>
 </div>
 
