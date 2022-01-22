@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307'>Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/razer-hello-kitty-and-friends-999307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/accesorios-gaming-hello-kitty-ha-lanzado-razer-seguro-arrasan-streamings-twitch-youtube-2592889.jpg' alt='Los accesorios gaming de Hello Kitty que ha lanzado Razer, seguro que arrasan en los streamings de Twitch y YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/influye-aprendizaje-ver-videos-clase-velocidad-rapida-996391'>¿Influye en el aprendizaje ver los vídeos de clase a velocidad rápida? Un experto responde</a></h4>
+    <a href='https://computerhoy.com/noticias/life/influye-aprendizaje-ver-videos-clase-velocidad-rapida-996391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/influye-aprendizaje-ver-videos-clase-doble-velocidad-experto-nos-da-respuesta-2587437.jpg' alt='¿Influye en el aprendizaje ver los vídeos de clase a velocidad rápida? Un experto responde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305'>Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-rx-6500-xt-gpu-portatil-no-decodifica-video-999305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-nueva-tarjeta-rx-6500-xt-tiene-gpu-portatil-no-decodifica-video-2592877.jpg' alt='Cuidado con la nueva tarjeta RX 6500 XT de AMD: tiene una GPU de portátil y no codifica vídeo ni decodifica AV1' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279'>Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-drive-te-avisara-forma-muy-llamativa-archivo-vas-abrir-contiene-algun-virus-999279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg' alt='Google Drive te avisará de una forma muy llamativa si el archivo que vas a abrir contiene algún virus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-essential-oferta-999297'>El patinete eléctrico más vendido de Xiaomi baja de los 300 euros y se convierte en un opción muy apetecible</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/xiaomi-mi-electric-scooter-essential-oferta-999297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/xiaomi-mi-electric-scooter-essential-2013937.jpg' alt='El patinete eléctrico más vendido de Xiaomi baja de los 300 euros y se convierte en un opción muy apetecible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215'>Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-999215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/twitter-apuesta-nft-ahora-permitira-usuarios-utilizarlos-como-foto-perfil-2592433.jpg' alt='Twitter apuesta por los NFT y ahora permitirá a los usuarios utilizarlos como foto de perfil' />
     </a>
 </div>
 
