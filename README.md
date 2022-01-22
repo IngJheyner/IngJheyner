@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567'>WhatsApp trabaja en fondos personalizados para las llamadas de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-fondos-personalizados-llamadas-voz-999567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2593225.jpg' alt='WhatsApp trabaja en fondos personalizados para las llamadas de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557'>Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-razones-todas-criptomonedas-han-desplomado-24-horas-999557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Estas son las razones por las que todas las criptomonedas se han desplomado en 24 horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551'>Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-chromecast-sabe-ahora-999551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Google estaría trabajando en un nuevo Chromecast y esto es lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427'>Todo lo que debes saber para comprar una batidora amasadora para repostería</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/todo-debes-saber-comprar-batidora-amasadora-reposteria-919427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tarta-macro-2292839.jpg' alt='Todo lo que debes saber para comprar una batidora amasadora para repostería' />
     </a>
 </div>
 
