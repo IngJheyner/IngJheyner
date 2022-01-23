@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasar-conversaciones-whatsapp-fotos-android-ios-cerca-ser-caracteristica-oficial-999841'>Pasar tus conversaciones de WhatsApp y fotos de Android a iOS más cerca de ser característica oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasar-conversaciones-whatsapp-fotos-android-ios-cerca-ser-caracteristica-oficial-999841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='Pasar tus conversaciones de WhatsApp y fotos de Android a iOS más cerca de ser característica oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeros-pasos-linux-2022-estado-actual-distros-populares-986647'>Primeros pasos en Linux en 2022: estado actual y distros más populares </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/primeros-pasos-linux-2022-estado-actual-distros-populares-986647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='Primeros pasos en Linux en 2022: estado actual y distros más populares ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-imagenes-fotorrealistas-como-pintases-paint-ia-gaugan-2-984327'>Crea imágenes fotorrealistas como si pintases en Paint con la IA Gaugan 2</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/crea-imagenes-fotorrealistas-como-pintases-paint-ia-gaugan-2-984327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gaugan-2-2567013.jpg' alt='Crea imágenes fotorrealistas como si pintases en Paint con la IA Gaugan 2' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447'>Samsung Galaxy Tab A8 LTE, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-samsung-galaxy-tab-a8-2592493.jpg' alt='Samsung Galaxy Tab A8 LTE, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569'>Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-cuadrupedo-electrico-ha-fabricado-china-grandes-mundo-999595'>Este es el nuevo robot cuadrúpedo eléctrico que ha fabricado China, y es uno de los más grandes del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-cuadrupedo-electrico-ha-fabricado-china-grandes-mundo-999595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-robot-cuadrupedo-electrico-2593313.jpg' alt='Este es el nuevo robot cuadrúpedo eléctrico que ha fabricado China, y es uno de los más grandes del mundo' />
     </a>
 </div>
 
