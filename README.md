@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851'>¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pago-codigo-qr-2593693.jpg' alt='¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-x81j-55-review-opinion-999301'>Sony X81J de 55”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-x81j-55-review-opinion-999301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-x81j-55-analisis-opinion-2592857.jpg' alt='Sony X81J de 55”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/redmi-smart-band-pro-motivos-mejor-pulsera-actividad-998557'>Redmi Smart Band Pro: 5 motivos por el que es la nueva reina de las pulseras de actividad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/redmi-smart-band-pro-motivos-mejor-pulsera-actividad-998557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591281.jpg' alt='Redmi Smart Band Pro: 5 motivos por el que es la nueva reina de las pulseras de actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasar-conversaciones-whatsapp-fotos-android-ios-cerca-ser-caracteristica-oficial-999841'>Pasar tus conversaciones de WhatsApp y fotos de Android a iOS más cerca de ser característica oficial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasar-conversaciones-whatsapp-fotos-android-ios-cerca-ser-caracteristica-oficial-999841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='Pasar tus conversaciones de WhatsApp y fotos de Android a iOS más cerca de ser característica oficial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeros-pasos-linux-2022-estado-actual-distros-populares-986647'>Primeros pasos en Linux en 2022: estado actual y distros más populares </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/primeros-pasos-linux-2022-estado-actual-distros-populares-986647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='Primeros pasos en Linux en 2022: estado actual y distros más populares ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-imagenes-fotorrealistas-como-pintases-paint-ia-gaugan-2-984327'>Crea imágenes fotorrealistas como si pintases en Paint con la IA Gaugan 2</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/crea-imagenes-fotorrealistas-como-pintases-paint-ia-gaugan-2-984327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gaugan-2-2567013.jpg' alt='Crea imágenes fotorrealistas como si pintases en Paint con la IA Gaugan 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-superheroes-marvel-dc-996773'>8 series y películas de superhéroes que no son Marvel ni DC y que no puedes perderte si amas el género</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-superheroes-marvel-dc-996773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-peliculas-superheroes-no-son-marvel-ni-dc-no-puedes-perderte-amas-genero-2588365.jpg' alt='8 series y películas de superhéroes que no son Marvel ni DC y que no puedes perderte si amas el género' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447'>Samsung Galaxy Tab A8 LTE, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-samsung-galaxy-tab-a8-2592493.jpg' alt='Samsung Galaxy Tab A8 LTE, análisis y opinión' />
     </a>
 </div>
 
