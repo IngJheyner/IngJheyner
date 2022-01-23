@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229'>5 maneras de borrar tu presencia en Internet</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/quien-controla-internet-2444625.jpg' alt='5 maneras de borrar tu presencia en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-3d-resina-chollo-999935'>Esta impresora 3D de resina para imprimir tus propios objetos tiene un descuento del 49%, vale menos de 200€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/impresora-3d-resina-chollo-999935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/impresora-3d-resina-imprimir-propios-objetos-tiene-descuento-49-vale-menos-200eu-2593915.jpg' alt='Esta impresora 3D de resina para imprimir tus propios objetos tiene un descuento del 49%, vale menos de 200€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>6 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='6 auriculares con cancelación de ruido que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/dark-souls-no-funciona-online-999919'>Si no te funciona el online en los juegos de Dark Souls, es por una buena razón: podrían secuestrar tu PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/dark-souls-no-funciona-online-999919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-juegas-online-famoso-juego-podrian-secuestrar-pc-2593869.jpg' alt='Si no te funciona el online en los juegos de Dark Souls, es por una buena razón: podrían secuestrar tu PC' />
     </a>
 </div>
 
