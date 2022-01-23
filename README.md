@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>6 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='6 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/dark-souls-no-funciona-online-999919'>Si no te funciona el online en los juegos de Dark Souls, es por una buena razón: podrían secuestrar tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/dark-souls-no-funciona-online-999919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuidado-juegas-online-famoso-juego-podrian-secuestrar-pc-2593869.jpg' alt='Si no te funciona el online en los juegos de Dark Souls, es por una buena razón: podrían secuestrar tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/huawei-matestation-s-review-opinion-998659'>Huawei Matestation S, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-matestation-s-review-opinion-998659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-matestation-s-2592567.jpg' alt='Huawei Matestation S, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-base-autovaciado-tambien-friega-barre-oferta-269-euros-999873'>Este robot aspirador con base de autovaciado también friega y barre y está en oferta a 269 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-base-autovaciado-tambien-friega-barre-oferta-269-euros-999873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conga-2290-ultra-home-2593745.jpg' alt='Este robot aspirador con base de autovaciado también friega y barre y está en oferta a 269 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-netflix-mejorar-ingles-998643'>Las 9 series de Netflix que te ayudarán a mejorar tu inglés</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-netflix-mejorar-ingles-998643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peaky-blinders-2591535.jpg' alt='Las 9 series de Netflix que te ayudarán a mejorar tu inglés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-fecha-lanzamiento-esperado-google-pixel-watch-999861'>Esta sería la fecha de lanzamiento del esperado Google Pixel Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-fecha-lanzamiento-esperado-google-pixel-watch-999861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Esta sería la fecha de lanzamiento del esperado Google Pixel Watch' />
     </a>
 </div>
 
