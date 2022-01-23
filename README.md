@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929'>Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tatsuya-tanaka-fotografo-japones-convierte-objetos-cotidianos-escenarios-increibles-miniaturas-2591801.jpg' alt='Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pajitas-cerveza-cinco-milenios-998993'>Descubren que hace 5.000 años se bebía cerveza en grupo con pajitas de oro y plata de un metro de largo</a></h4>
     <a href='https://computerhoy.com/noticias/life/pajitas-cerveza-cinco-milenios-998993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/descubren-hace-5000-anos-bebia-cerveza-pajita-grupo-2591885.jpg' alt='Descubren que hace 5.000 años se bebía cerveza en grupo con pajitas de oro y plata de un metro de largo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591'>Coca-Cola desvela su nuevo y sorprendente sabor</a></h4>
     <a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coca-cola-cafe-2593311.jpg' alt='Coca-Cola desvela su nuevo y sorprendente sabor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543'>Comprar un reloj inteligente para mujer: cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-perfil-bolso-piel-reloj-inteligente-muneca-2593157.jpg' alt='Comprar un reloj inteligente para mujer: cuáles son los mejores' />
     </a>
 </div>
 
