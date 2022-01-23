@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-superheroes-marvel-dc-996773'>8 series y películas de superhéroes que no son Marvel ni DC y que no puedes perderte si amas el género</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-superheroes-marvel-dc-996773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-peliculas-superheroes-no-son-marvel-ni-dc-no-puedes-perderte-amas-genero-2588365.jpg' alt='8 series y películas de superhéroes que no son Marvel ni DC y que no puedes perderte si amas el género' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447'>Samsung Galaxy Tab A8 LTE, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-tab-a8-lte-review-opinion-998447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-samsung-galaxy-tab-a8-2592493.jpg' alt='Samsung Galaxy Tab A8 LTE, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569'>Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-radiador-electrico-consumo-invierno-ahorrar-dinero-979825'>Guía y consejos para comprar un radiador eléctrico de bajo consumo para el invierno y ahorrar dinero</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-radiador-electrico-consumo-invierno-ahorrar-dinero-979825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radiador-electrico-2185825.jpg' alt='Guía y consejos para comprar un radiador eléctrico de bajo consumo para el invierno y ahorrar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reloj-juicio-final-nos-sigue-situando-borde-apocalipsis-solo-100-segundos-999597'>El Reloj del Juicio Final nos sigue situando al borde del Apocalipsis: a solo 100 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reloj-juicio-final-nos-sigue-situando-borde-apocalipsis-solo-100-segundos-999597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reloj-juicio-final-2022-2593317.jpg' alt='El Reloj del Juicio Final nos sigue situando al borde del Apocalipsis: a solo 100 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-reacondicionados-todo-debes-sabes-quieres-comprar-997173'>Móviles reacondicionados: todo lo que debes sabes si quieres comprar uno</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-reacondicionados-todo-debes-sabes-quieres-comprar-997173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reacondicionado-2588957.jpg' alt='Móviles reacondicionados: todo lo que debes sabes si quieres comprar uno' />
     </a>
 </div>
 
