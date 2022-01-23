@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569'>Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/juegos-nintendo-switch-2022-mejor-valorados-998569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Mejores juegos de Nintendo Switch 2022: estos son los mejor valorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-cuadrupedo-electrico-ha-fabricado-china-grandes-mundo-999595'>Este es el nuevo robot cuadrúpedo eléctrico que ha fabricado China, y es uno de los más grandes del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-cuadrupedo-electrico-ha-fabricado-china-grandes-mundo-999595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-robot-cuadrupedo-electrico-2593313.jpg' alt='Este es el nuevo robot cuadrúpedo eléctrico que ha fabricado China, y es uno de los más grandes del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-radiador-electrico-consumo-invierno-ahorrar-dinero-979825'>Guía y consejos para comprar un radiador eléctrico de bajo consumo para el invierno y ahorrar dinero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-radiador-electrico-consumo-invierno-ahorrar-dinero-979825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radiador-electrico-2185825.jpg' alt='Guía y consejos para comprar un radiador eléctrico de bajo consumo para el invierno y ahorrar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reloj-juicio-final-nos-sigue-situando-borde-apocalipsis-solo-100-segundos-999597'>El Reloj del Juicio Final nos sigue situando al borde del Apocalipsis: a solo 100 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/reloj-juicio-final-nos-sigue-situando-borde-apocalipsis-solo-100-segundos-999597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reloj-juicio-final-2022-2593317.jpg' alt='El Reloj del Juicio Final nos sigue situando al borde del Apocalipsis: a solo 100 segundos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-reacondicionados-todo-debes-sabes-quieres-comprar-997173'>Móviles reacondicionados: todo lo que debes sabes si quieres comprar uno</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/moviles-reacondicionados-todo-debes-sabes-quieres-comprar-997173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reacondicionado-2588957.jpg' alt='Móviles reacondicionados: todo lo que debes sabes si quieres comprar uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/burger-king-dominos-pizza-subida-precios-alimentos-998421'>Burger King y Domino's Pizza anuncian un cambio por la subida de precios de los alimentos que no te va a gustar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/burger-king-dominos-pizza-subida-precios-alimentos-998421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/restaurante-burger-king-2414855.jpg' alt='Burger King y Domino's Pizza anuncian un cambio por la subida de precios de los alimentos que no te va a gustar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aspiradora-portatil-mano-cable-limpiar-coche-superficies-pequenas-934639'>Guía para comprar una aspiradora portátil de mano sin cable para limpiar el coche y superficies pequeñas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aspiradora-portatil-mano-cable-limpiar-coche-superficies-pequenas-934639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/aspirador-mano-2476993.jpg' alt='Guía para comprar una aspiradora portátil de mano sin cable para limpiar el coche y superficies pequeñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929'>Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tatsuya-tanaka-fotografo-japones-convierte-objetos-cotidianos-escenarios-increibles-miniaturas-2591801.jpg' alt='Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas' />
     </a>
 </div>
 
