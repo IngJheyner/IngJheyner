@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-matestation-s-review-opinion-998659'>Huawei Matestation S, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matestation-s-review-opinion-998659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-matestation-s-2592567.jpg' alt='Huawei Matestation S, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-escapa-hotel-piden-colaboracion-ciudadana-encontrarlo-999889'>Un robot aspirador “se escapa” de un hotel y piden colaboración ciudadana para encontrarlo </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-escapa-hotel-piden-colaboracion-ciudadana-encontrarlo-999889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-2593801.jpg' alt='Un robot aspirador “se escapa” de un hotel y piden colaboración ciudadana para encontrarlo ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-fecha-lanzamiento-esperado-google-pixel-watch-999861'>Esta sería la fecha de lanzamiento del esperado Google Pixel Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-fecha-lanzamiento-esperado-google-pixel-watch-999861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294085.jpg' alt='Esta sería la fecha de lanzamiento del esperado Google Pixel Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851'>¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pago-codigo-qr-2593693.jpg' alt='¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información' />
     </a>
 </div>
 
