@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aspiradora-portatil-mano-cable-limpiar-coche-superficies-pequenas-934639'>Guía para comprar una aspiradora portátil de mano sin cable para limpiar el coche y superficies pequeñas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aspiradora-portatil-mano-cable-limpiar-coche-superficies-pequenas-934639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/aspirador-mano-2476993.jpg' alt='Guía para comprar una aspiradora portátil de mano sin cable para limpiar el coche y superficies pequeñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929'>Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas</a></h4>
     <a href='https://computerhoy.com/noticias/life/tatsuya-tanaka-fotografo-miniaturas-998929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tatsuya-tanaka-fotografo-japones-convierte-objetos-cotidianos-escenarios-increibles-miniaturas-2591801.jpg' alt='Tatsuya Tanaka, el fotógrafo japonés que convierte objetos cotidianos en increíbles miniaturas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633'>Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/produce-robo-34-millones-dolares-bitcoin-ethereum-999633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='Se produce un robo de más de 34 millones de dólares en Bitcoin y Ethereum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591'>Coca-Cola desvela su nuevo y sorprendente sabor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/coca-cola-desvela-nuevo-sorprendente-sabor-999591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coca-cola-cafe-2593311.jpg' alt='Coca-Cola desvela su nuevo y sorprendente sabor' />
     </a>
 </div>
 
