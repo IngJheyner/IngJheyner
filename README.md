@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-escapa-hotel-piden-colaboracion-ciudadana-encontrarlo-999889'>Un robot aspirador “se escapa” de un hotel y piden colaboración ciudadana para encontrarlo </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-escapa-hotel-piden-colaboracion-ciudadana-encontrarlo-999889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-2593801.jpg' alt='Un robot aspirador “se escapa” de un hotel y piden colaboración ciudadana para encontrarlo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-base-autovaciado-tambien-friega-barre-oferta-269-euros-999873'>Este robot aspirador con base de autovaciado también friega y barre y está en oferta a 269 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-base-autovaciado-tambien-friega-barre-oferta-269-euros-999873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conga-2290-ultra-home-2593745.jpg' alt='Este robot aspirador con base de autovaciado también friega y barre y está en oferta a 269 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851'>¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-escanear-codigo-qr-movil-piratas-informaticos-pueden-robar-dinero-informacion-999851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pago-codigo-qr-2593693.jpg' alt='¡Cuidado al escanear un código QR con tu móvil! Los piratas informáticos pueden robar tu dinero e información' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-x81j-55-review-opinion-999301'>Sony X81J de 55”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-x81j-55-review-opinion-999301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-x81j-55-analisis-opinion-2592857.jpg' alt='Sony X81J de 55”, análisis y opinión' />
     </a>
 </div>
 
