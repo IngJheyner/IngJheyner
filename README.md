@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551'>Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-2595099.jpg' alt='Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469'>El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532587.jpg' alt='El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495'>España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ver-contenido-streaming-movil-2196425.jpg' alt='España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-comienza-ensayos-implantar-chip-cerebro-permita-guardar-reproducir-recuerdos-1000537'>Elon Musk comienza los ensayos para implantar un chip en el cerebro que permita guardar y reproducir recuerdos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-comienza-ensayos-implantar-chip-cerebro-permita-guardar-reproducir-recuerdos-1000537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neuralink-2048075.jpg' alt='Elon Musk comienza los ensayos para implantar un chip en el cerebro que permita guardar y reproducir recuerdos' />
     </a>
 </div>
 
