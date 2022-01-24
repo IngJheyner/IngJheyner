@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233'>Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/graba-comparte-redes-como-funciona-estafa-2-centimos-bizum-1000259'>Graba y comparte en redes cómo funciona la estafa de los 2 céntimos por Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/graba-comparte-redes-como-funciona-estafa-2-centimos-bizum-1000259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-tarjeta-credito-2594347.jpg' alt='Graba y comparte en redes cómo funciona la estafa de los 2 céntimos por Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/negro-futuro-augura-bill-gates-superar-pandemia-coronavirus-1000243'>El negro futuro que augura Bill Gates tras superar la pandemia del Coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/life/negro-futuro-augura-bill-gates-superar-pandemia-coronavirus-1000243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bill-gates-1848149.jpg' alt='El negro futuro que augura Bill Gates tras superar la pandemia del Coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-rendimiento-conexion-internet-1000203'>Cómo mejorar el rendimiento de tu conexión a Internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-rendimiento-conexion-internet-1000203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='Cómo mejorar el rendimiento de tu conexión a Internet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pompas-jabon-flotan-durante-ano-han-conseguido-francia-1000165'>Pompas de jabón que flotan durante un año: así lo han conseguido en Francia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pompas-jabon-flotan-durante-ano-han-conseguido-francia-1000165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pompas-jabon-2594183.jpg' alt='Pompas de jabón que flotan durante un año: así lo han conseguido en Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wifi-7-ya-alcanza-velocidades-40-gbps-anuncia-2023-1000185'>El WiFi 7 ya alcanza velocidades de 40 Gbps y se anuncia para 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wifi-7-ya-alcanza-velocidades-40-gbps-anuncia-2023-1000185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg' alt='El WiFi 7 ya alcanza velocidades de 40 Gbps y se anuncia para 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caida-precio-bitcoin-puede-volverse-drastica-25000-dolares-finales-junio-1000157'>La caída del precio del bitcoin puede volverse más drástica: 25.000 dólares para finales de junio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caida-precio-bitcoin-puede-volverse-drastica-25000-dolares-finales-junio-1000157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/btc-2594175.jpg' alt='La caída del precio del bitcoin puede volverse más drástica: 25.000 dólares para finales de junio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-molinillo-electrico-cafe-1000139'>Lidl ha puesto a la venta el dispositivo que más facilitará la vida a los amantes del café</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-molinillo-electrico-cafe-1000139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/molinillo-electrico-lidl-2594147.jpg' alt='Lidl ha puesto a la venta el dispositivo que más facilitará la vida a los amantes del café' />
     </a>
 </div>
 
