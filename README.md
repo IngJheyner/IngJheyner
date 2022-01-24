@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-iphone-13-pone-rosa-no-te-preocupes-tiene-solucion-1000383'>Si la pantalla de tu iPhone 13 se pone rosa, no te preocupes, tiene solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-iphone-13-pone-rosa-no-te-preocupes-tiene-solucion-1000383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-mini-rosa-2580975.jpg' alt='Si la pantalla de tu iPhone 13 se pone rosa, no te preocupes, tiene solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrenan-ultimos-episodios-ozark-final-1000333'>Cuándo se estrenan los últimos episodios de Ozark, la Parte 2 de la temporada 4: el final está cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrenan-ultimos-episodios-ozark-final-1000333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ozark-2198381.jpg' alt='Cuándo se estrenan los últimos episodios de Ozark, la Parte 2 de la temporada 4: el final está cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bajada-historica-apple-macbook-pro-14-pulgadas-chip-m1-pro-1000355'>Bajada histórica en el precio del último MacBook Pro de 14 pulgadas con chip M1 Pro: ¡464 euros de descuento en Amazon!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bajada-historica-apple-macbook-pro-14-pulgadas-chip-m1-pro-1000355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Bajada histórica en el precio del último MacBook Pro de 14 pulgadas con chip M1 Pro: ¡464 euros de descuento en Amazon!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321'>Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar</a></h4>
+    <a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lucifer-2435185.jpg' alt='Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319'>Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?</a></h4>
     <a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-dron-344047'>Comprar un dron en 2022: guía, consejos, legislación y mejores modelos para empezar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-dron-344047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445411.jpg' alt='Comprar un dron en 2022: guía, consejos, legislación y mejores modelos para empezar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-oferta-limitada-amazon-1000179'>La tablet Xiaomi Pad 5 tiene un rarísimo descuento en Amazon y ahora solo cuesta 353 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-oferta-limitada-amazon-1000179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='La tablet Xiaomi Pad 5 tiene un rarísimo descuento en Amazon y ahora solo cuesta 353 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/errores-comunes-estropean-bateria-coche-invierno-1000287'>Los errores más comunes que estropean la batería de tu coche en invierno</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/errores-comunes-estropean-bateria-coche-invierno-1000287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bateria-coche-2594401.jpg' alt='Los errores más comunes que estropean la batería de tu coche en invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233'>Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc' />
     </a>
 </div>
 
