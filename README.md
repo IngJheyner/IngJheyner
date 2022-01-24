@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-movil-android-oferta-100-euros-descuento-1000215'>Algo ha pasado en Amazon: han rebajado 100 euros este móvil realme GT Neo 2 con pantalla de 120 Hz y 128 GB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-movil-android-oferta-100-euros-descuento-1000215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533421.jpg' alt='Algo ha pasado en Amazon: han rebajado 100 euros este móvil realme GT Neo 2 con pantalla de 120 Hz y 128 GB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343'>El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-2594601.jpg' alt='El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bajada-historica-apple-macbook-pro-14-pulgadas-chip-m1-pro-1000355'>Bajada histórica en el precio del último MacBook Pro de 14 pulgadas con chip M1 Pro: ¡464 euros de descuento en Amazon!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bajada-historica-apple-macbook-pro-14-pulgadas-chip-m1-pro-1000355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Bajada histórica en el precio del último MacBook Pro de 14 pulgadas con chip M1 Pro: ¡464 euros de descuento en Amazon!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321'>Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar</a></h4>
-    <a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lucifer-2435185.jpg' alt='Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar' />
     </a>
 </div>
 
