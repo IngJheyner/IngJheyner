@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/enchufes-usb-mejores-puedes-comprar-999933'>Enchufes con USB: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/enchufes-usb-mejores-puedes-comprar-999933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladron-usb-2594125.jpg' alt='Enchufes con USB: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-serie-formula-1000117'>Todos los estrenos de la semana en Netflix: llega una serie con la fórmula que no puede fallar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-serie-formula-1000117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estamos-muertos-2594115.jpg' alt='Todos los estrenos de la semana en Netflix: llega una serie con la fórmula que no puede fallar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-curiosidades-puedes-ordenarle-alexa-echo-999151'>5 curiosidades que puedes ordenarle a Alexa en los Echo </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-curiosidades-puedes-ordenarle-alexa-echo-999151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='5 curiosidades que puedes ordenarle a Alexa en los Echo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/baraja-haya-tesla-cybertruck-distintos-tamanos-999147'>Se baraja que haya Tesla Cybertruck de distintos tamaños</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/baraja-haya-tesla-cybertruck-distintos-tamanos-999147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-cybertruck-2587875.jpg' alt='Se baraja que haya Tesla Cybertruck de distintos tamaños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2594091.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspirador-rowenta-999929'>Robot aspirador Rowenta: estos son los mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspirador-rowenta-999929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-rowenta-2593913.jpg' alt='Robot aspirador Rowenta: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229'>5 maneras de borrar tu presencia en Internet</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/quien-controla-internet-2444625.jpg' alt='5 maneras de borrar tu presencia en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-3d-resina-chollo-999935'>Esta impresora 3D de resina para imprimir tus propios objetos tiene un descuento del 49%, vale menos de 200€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/impresora-3d-resina-chollo-999935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/impresora-3d-resina-imprimir-propios-objetos-tiene-descuento-49-vale-menos-200eu-2593915.jpg' alt='Esta impresora 3D de resina para imprimir tus propios objetos tiene un descuento del 49%, vale menos de 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/amazon-style-primera-tienda-fisica-ropa-amazon-999931'>Amazon Style, la primera tienda física de ropa de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/amazon-style-primera-tienda-fisica-ropa-amazon-999931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-style-primera-tienda-fisica-ropa-amazon-2593899.jpg' alt='Amazon Style, la primera tienda física de ropa de Amazon' />
     </a>
 </div>
 
