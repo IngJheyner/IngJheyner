@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2594091.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspirador-rowenta-999929'>Robot aspirador Rowenta: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspirador-rowenta-999929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-rowenta-2593913.jpg' alt='Robot aspirador Rowenta: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229'>5 maneras de borrar tu presencia en Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-maneras-borrar-presencia-internet-990229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/quien-controla-internet-2444625.jpg' alt='5 maneras de borrar tu presencia en Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/amazon-style-primera-tienda-fisica-ropa-amazon-999931'>Amazon Style, la primera tienda física de ropa de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/industria/amazon-style-primera-tienda-fisica-ropa-amazon-999931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-style-primera-tienda-fisica-ropa-amazon-2593899.jpg' alt='Amazon Style, la primera tienda física de ropa de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-poder-del-perro-netflix-pelicula-favorita-oscar-999925'>La película favorita para ganar el Óscar se emite en Netflix, y posiblemente no la conoces</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/el-poder-del-perro-netflix-pelicula-favorita-oscar-999925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pelicula-favorita-ganar-oscar-emite-netflix-posiblemente-no-conoces-2593901.jpg' alt='La película favorita para ganar el Óscar se emite en Netflix, y posiblemente no la conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>6 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='6 auriculares con cancelación de ruido que hemos probado y recomendamos' />
     </a>
 </div>
 
