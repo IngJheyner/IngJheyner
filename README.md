@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caida-precio-bitcoin-puede-volverse-drastica-25000-dolares-finales-junio-1000157'>La caída del precio del bitcoin puede volverse más drástica: 25.000 dólares para finales de junio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caida-precio-bitcoin-puede-volverse-drastica-25000-dolares-finales-junio-1000157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/btc-2594175.jpg' alt='La caída del precio del bitcoin puede volverse más drástica: 25.000 dólares para finales de junio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-molinillo-electrico-cafe-1000139'>Lidl ha puesto a la venta el dispositivo que más facilitará la vida a los amantes del café</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-molinillo-electrico-cafe-1000139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/molinillo-electrico-lidl-2594147.jpg' alt='Lidl ha puesto a la venta el dispositivo que más facilitará la vida a los amantes del café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/filtran-precios-europeos-samsung-galaxy-s22-semanas-antes-lanzamiento-oficial-1000137'>Se filtran los precios europeos del Samsung Galaxy S22 semanas antes de su lanzamiento oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/filtran-precios-europeos-samsung-galaxy-s22-semanas-antes-lanzamiento-oficial-1000137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ultimos-rumores-apuntan-samsung-galaxy-s22-ultra-contaria-capacidad-almacenamiento-sorprendente-2573959.jpg' alt='Se filtran los precios europeos del Samsung Galaxy S22 semanas antes de su lanzamiento oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/enchufes-usb-mejores-puedes-comprar-999933'>Enchufes con USB: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/enchufes-usb-mejores-puedes-comprar-999933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladron-usb-2594125.jpg' alt='Enchufes con USB: estos son los mejores que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-serie-formula-1000117'>Todos los estrenos de la semana en Netflix: llega una serie con la fórmula que no puede fallar</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-serie-formula-1000117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estamos-muertos-2594115.jpg' alt='Todos los estrenos de la semana en Netflix: llega una serie con la fórmula que no puede fallar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-curiosidades-puedes-ordenarle-alexa-echo-999151'>5 curiosidades que puedes ordenarle a Alexa en los Echo </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-curiosidades-puedes-ordenarle-alexa-echo-999151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='5 curiosidades que puedes ordenarle a Alexa en los Echo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/baraja-haya-tesla-cybertruck-distintos-tamanos-999147'>Se baraja que haya Tesla Cybertruck de distintos tamaños</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/baraja-haya-tesla-cybertruck-distintos-tamanos-999147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-cybertruck-2587875.jpg' alt='Se baraja que haya Tesla Cybertruck de distintos tamaños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1000107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2594091.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
