@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343'>El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-2594601.jpg' alt='El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-iphone-13-pone-rosa-no-te-preocupes-tiene-solucion-1000383'>Si la pantalla de tu iPhone 13 se pone rosa, no te preocupes, tiene solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-iphone-13-pone-rosa-no-te-preocupes-tiene-solucion-1000383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-mini-rosa-2580975.jpg' alt='Si la pantalla de tu iPhone 13 se pone rosa, no te preocupes, tiene solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321'>Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar</a></h4>
     <a href='https://computerhoy.com/noticias/lucifer-ha-sido-finalmente-serie-vista-2021-no-juego-calamar-1000321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lucifer-2435185.jpg' alt='Por qué Lucifer ha sido finalmente la serie más vista de 2021 y no El juego el calamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319'>Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?' />
     </a>
 </div>
 
