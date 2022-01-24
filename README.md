@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557'>Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienes-exceso-grasa-corporal-echale-culpa-abuelo-fumador-2595111.jpg' alt='Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551'>Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-2595099.jpg' alt='Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-plus-cambio-nombre-1000543'>Movistar+ ha cambiado de nombre e imagen: esto es todo lo que deben saber los clientes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-plus-cambio-nombre-1000543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movistar-ha-cambiado-imagen-nombre-todo-deben-saber-clientes-2595069.jpg' alt='Movistar+ ha cambiado de nombre e imagen: esto es todo lo que deben saber los clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495'>España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ver-contenido-streaming-movil-2196425.jpg' alt='España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming ' />
     </a>
 </div>
 
