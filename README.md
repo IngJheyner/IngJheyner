@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469'>El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532587.jpg' alt='El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-quieren-sea-siguiente-james-bond-1000303'>Fans quieren que este sea el siguiente James Bond</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fans-quieren-sea-siguiente-james-bond-1000303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/idris-elba-2587551.jpg' alt='Fans quieren que este sea el siguiente James Bond' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-plus-cambio-nombre-1000543'>Movistar+ ha cambiado de nombre e imagen: esto es todo lo que deben saber los clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-plus-cambio-nombre-1000543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movistar-ha-cambiado-imagen-nombre-todo-deben-saber-clientes-2595069.jpg' alt='Movistar+ ha cambiado de nombre e imagen: esto es todo lo que deben saber los clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495'>España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espana-pone-freno-pirateria-hace-bloqueando-casi-900-webs-streaming-1000495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ver-contenido-streaming-movil-2196425.jpg' alt='España pone freno a la piratería y lo hace bloqueando casi 900 webs de streaming ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-comienza-ensayos-implantar-chip-cerebro-permita-guardar-reproducir-recuerdos-1000537'>Elon Musk comienza los ensayos para implantar un chip en el cerebro que permita guardar y reproducir recuerdos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-comienza-ensayos-implantar-chip-cerebro-permita-guardar-reproducir-recuerdos-1000537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neuralink-2048075.jpg' alt='Elon Musk comienza los ensayos para implantar un chip en el cerebro que permita guardar y reproducir recuerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevo-error-hacer-llamadas-android-auto-1000535'>Detectan un nuevo error al hacer llamadas con Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevo-error-hacer-llamadas-android-auto-1000535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Detectan un nuevo error al hacer llamadas con Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/7-datos-curiosos-mercedes-clase-pocos-conocen-1000301'>7 datos curiosos del Mercedes Clase A que pocos conocen</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/7-datos-curiosos-mercedes-clase-pocos-conocen-1000301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mercedes-clase-w168-2588015.jpg' alt='7 datos curiosos del Mercedes Clase A que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zero-power-tecnologia-oppo-quiere-deshacerse-baterias-1000497'>Zero-Power: así es la tecnología con la que OPPO quiere deshacerse de las baterías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zero-power-tecnologia-oppo-quiere-deshacerse-baterias-1000497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oppo-2380635.jpg' alt='Zero-Power: así es la tecnología con la que OPPO quiere deshacerse de las baterías' />
     </a>
 </div>
 
