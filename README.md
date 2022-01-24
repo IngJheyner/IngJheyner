@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-radiadores-aceite-bajo-consumo-1000261'>Mejores radiadores de aceite que puedes comprar (y además son de bajo consumo)</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-radiadores-aceite-bajo-consumo-1000261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/radiador-aceite-2594511.jpg' alt='Mejores radiadores de aceite que puedes comprar (y además son de bajo consumo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fecha-samsung-unpacked-galaxy-s22-9-febrero-1000485'>Se filtra la fecha del evento Samsung Unpacked, en donde se presentarán los Galaxy S22</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fecha-samsung-unpacked-galaxy-s22-9-febrero-1000485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='Se filtra la fecha del evento Samsung Unpacked, en donde se presentarán los Galaxy S22' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-1000447'>El Google Pixel 6a podría ver la luz en mayo de este año con unas especificaciones más modestas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-1000447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-2594893.jpg' alt='El Google Pixel 6a podría ver la luz en mayo de este año con unas especificaciones más modestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gpu-rdna2-exynos-2200-25-rapida-snapdragon-8-gen1-tests-graficos-1000445'>La GPU RDNA2 del Exynos 2200 es hasta un 25% más rápida que la del Snapdragon 8 Gen 1 en tests gráficos</a></h4>
-    <a href='https://computerhoy.com/noticias/gpu-rdna2-exynos-2200-25-rapida-snapdragon-8-gen1-tests-graficos-1000445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soc-exynos-2200-tiene-gpu-amd-superara-creces-a14-iphone-2451025.jpg' alt='La GPU RDNA2 del Exynos 2200 es hasta un 25% más rápida que la del Snapdragon 8 Gen 1 en tests gráficos' />
     </a>
 </div>
 
