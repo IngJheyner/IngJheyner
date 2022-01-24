@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319'>Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/airbnb-ofrece-casa-gratis-italia-durante-ano-quieres-participar-1000319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb ofrece casa gratis en Italia durante un año. ¿Quieres participar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-dron-344047'>Comprar un dron en 2022: guía, consejos, legislación y mejores modelos para empezar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-dron-344047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445411.jpg' alt='Comprar un dron en 2022: guía, consejos, legislación y mejores modelos para empezar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-oferta-limitada-amazon-1000179'>La tablet Xiaomi Pad 5 tiene un rarísimo descuento en Amazon y ahora solo cuesta 353 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-oferta-limitada-amazon-1000179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='La tablet Xiaomi Pad 5 tiene un rarísimo descuento en Amazon y ahora solo cuesta 353 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/errores-comunes-estropean-bateria-coche-invierno-1000287'>Los errores más comunes que estropean la batería de tu coche en invierno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/errores-comunes-estropean-bateria-coche-invierno-1000287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bateria-coche-2594401.jpg' alt='Los errores más comunes que estropean la batería de tu coche en invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233'>Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-cinco-modelos-diferentes-nueva-tarjeta-grafica-intel-arc-1000233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Intel lanzará cinco modelos diferentes de su nueva tarjeta gráfica Intel Arc' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/graba-comparte-redes-como-funciona-estafa-2-centimos-bizum-1000259'>Graba y comparte en redes cómo funciona la estafa de los 2 céntimos por Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/graba-comparte-redes-como-funciona-estafa-2-centimos-bizum-1000259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-tarjeta-credito-2594347.jpg' alt='Graba y comparte en redes cómo funciona la estafa de los 2 céntimos por Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/negro-futuro-augura-bill-gates-superar-pandemia-coronavirus-1000243'>El negro futuro que augura Bill Gates tras superar la pandemia del Coronavirus</a></h4>
-    <a href='https://computerhoy.com/noticias/life/negro-futuro-augura-bill-gates-superar-pandemia-coronavirus-1000243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bill-gates-1848149.jpg' alt='El negro futuro que augura Bill Gates tras superar la pandemia del Coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-rendimiento-conexion-internet-1000203'>Cómo mejorar el rendimiento de tu conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-rendimiento-conexion-internet-1000203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/velocidad-internet-2587951.jpg' alt='Cómo mejorar el rendimiento de tu conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pompas-jabon-flotan-durante-ano-han-conseguido-francia-1000165'>Pompas de jabón que flotan durante un año: así lo han conseguido en Francia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pompas-jabon-flotan-durante-ano-han-conseguido-francia-1000165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pompas-jabon-2594183.jpg' alt='Pompas de jabón que flotan durante un año: así lo han conseguido en Francia' />
     </a>
 </div>
 
