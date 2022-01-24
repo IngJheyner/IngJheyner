@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fecha-samsung-unpacked-galaxy-s22-9-febrero-1000485'>Se filtra la fecha del evento Samsung Unpacked, en donde se presentarán los Galaxy S22</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fecha-samsung-unpacked-galaxy-s22-9-febrero-1000485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='Se filtra la fecha del evento Samsung Unpacked, en donde se presentarán los Galaxy S22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-prometen-gran-avance-fotografico-gama-llegan-oficialmente-proximo-4-febrero-teaser-1000463'>Los Oppo Reno 7 prometen un gran avance fotográfico de su gama y llegan oficialmente el próximo 4 de febrero según el teaser</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-prometen-gran-avance-fotografico-gama-llegan-oficialmente-proximo-4-febrero-teaser-1000463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-reno-7-prometen-gran-avance-fotografico-gama-llegan-oficialmente-proximo-4-febrero-teaser-2594897.jpg' alt='Los Oppo Reno 7 prometen un gran avance fotográfico de su gama y llegan oficialmente el próximo 4 de febrero según el teaser' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/conexion-internet-starlink-espana-rural-funciona-velocidades-fibra-1000465'>La conexión a Internet con Starlink en la España Rural funciona a velocidades de fibra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/conexion-internet-starlink-espana-rural-funciona-velocidades-fibra-1000465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ver-satelites-starlink-2117021.jpg' alt='La conexión a Internet con Starlink en la España Rural funciona a velocidades de fibra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-1000447'>El Google Pixel 6a podría ver la luz en mayo de este año con unas especificaciones más modestas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-1000447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-pixel-6a-podria-ver-luz-mayo-ano-unas-especificaciones-modestas-2594893.jpg' alt='El Google Pixel 6a podría ver la luz en mayo de este año con unas especificaciones más modestas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gpu-rdna2-exynos-2200-25-rapida-snapdragon-8-gen1-tests-graficos-1000445'>La GPU RDNA2 del Exynos 2200 es hasta un 25% más rápida que la del Snapdragon 8 Gen 1 en tests gráficos</a></h4>
     <a href='https://computerhoy.com/noticias/gpu-rdna2-exynos-2200-25-rapida-snapdragon-8-gen1-tests-graficos-1000445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soc-exynos-2200-tiene-gpu-amd-superara-creces-a14-iphone-2451025.jpg' alt='La GPU RDNA2 del Exynos 2200 es hasta un 25% más rápida que la del Snapdragon 8 Gen 1 en tests gráficos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/secretos-experto-detectar-criptomonedas-creceran-como-espuma-1000393'>Los secretos de un experto para detectar criptomonedas que crecerán como la espuma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/secretos-experto-detectar-criptomonedas-creceran-como-espuma-1000393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg' alt='Los secretos de un experto para detectar criptomonedas que crecerán como la espuma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-movil-android-oferta-100-euros-descuento-1000215'>Algo ha pasado en Amazon: han rebajado 100 euros este móvil realme GT Neo 2 con pantalla de 120 Hz y 128 GB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-movil-android-oferta-100-euros-descuento-1000215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533421.jpg' alt='Algo ha pasado en Amazon: han rebajado 100 euros este móvil realme GT Neo 2 con pantalla de 120 Hz y 128 GB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343'>El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-andorra-dejo-conexion-streamers-youtubers-1000343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-2594601.jpg' alt='El ataque DDoS en Andorra dejó sin conexión a streamers y youtubers' />
     </a>
 </div>
 
