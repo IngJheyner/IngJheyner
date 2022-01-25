@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183'>Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg' alt='Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977'>Volkswagen lanzará en febrero una nueva versión del Golf</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-vw-golf-deportivo-2589153.jpg' alt='Volkswagen lanzará en febrero una nueva versión del Golf' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/especialistas-ya-hablan-criptoinvierno-significa-exactamente-1001177'>Los especialistas ya hablan de “criptoinvierno”: ¿qué significa exactamente?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/especialistas-ya-hablan-criptoinvierno-significa-exactamente-1001177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-criptoinvierno-2596211.jpg' alt='Los especialistas ya hablan de “criptoinvierno”: ¿qué significa exactamente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/nintendo-switch-2019-merece-pena-comprar-2022-998983'>Nintendo Switch (2019): ¿merece la pena comprar esta consola en 2022 incluso si es muy barata?</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/nintendo-switch-2019-merece-pena-comprar-2022-998983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nintendo-switch-2591877.jpg' alt='Nintendo Switch (2019): ¿merece la pena comprar esta consola en 2022 incluso si es muy barata?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/no-todo-monte-oregano-ocu-alerta-peligros-condimentos-supermercado-1001117'>“No todo el monte es orégano”, la OCU alerta sobre los peligros de los condimentos de supermercado</a></h4>
     <a href='https://computerhoy.com/noticias/no-todo-monte-oregano-ocu-alerta-peligros-condimentos-supermercado-1001117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/especias-1921543.jpg' alt='“No todo el monte es orégano”, la OCU alerta sobre los peligros de los condimentos de supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-922595'>Los 9 mejores juegos de deportes para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-922595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-2595117.jpg' alt='Los 9 mejores juegos de deportes para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-sigue-imparable-ya-supera-movistar-estas-son-plataformas-vistas-espana-1001051'>Filmin sigue imparable y ya supera a Movistar+: estas son las plataformas más vistas en España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/filmin-sigue-imparable-ya-supera-movistar-estas-son-plataformas-vistas-espana-1001051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guerra-streaming-2596015.jpg' alt='Filmin sigue imparable y ya supera a Movistar+: estas son las plataformas más vistas en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-sonido-logitech-z906-oferta-descuento-300-euros-1000231'>¿Qué tiene esos altavoces Logitech Z906 que varias tiendas lo han rebajado? Consigue este sistema de sonido 5.1 por 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sistema-sonido-logitech-z906-oferta-descuento-300-euros-1000231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-z906-2594265.jpg' alt='¿Qué tiene esos altavoces Logitech Z906 que varias tiendas lo han rebajado? Consigue este sistema de sonido 5.1 por 300 euros' />
     </a>
 </div>
 
