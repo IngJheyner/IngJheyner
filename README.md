@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797'>En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363'>Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-lidl-vs-compact-rapid-2590785.jpg' alt='Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309'>Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/turbo-electrico-porsche-2589327.jpg' alt='Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2595381.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
