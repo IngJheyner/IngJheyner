@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021'>NVIDIA da por perdida la negociación por la compra de ARM</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2065045.jpg' alt='NVIDIA da por perdida la negociación por la compra de ARM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-movil-plegable-samsung-galaxy-z-flip-3-amazon-1000907'>Si siempre quisiste tener un móvil plegable este es tu momento: Samsung Galaxy Z Flip 3 ahora cuesta 849 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-movil-plegable-samsung-galaxy-z-flip-3-amazon-1000907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487001.jpg' alt='Si siempre quisiste tener un móvil plegable este es tu momento: Samsung Galaxy Z Flip 3 ahora cuesta 849 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961'>Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971'>La biotecnología que transforma tus células para que te crezca de nuevo el pelo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='La biotecnología que transforma tus células para que te crezca de nuevo el pelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941'>Cosas que debes saber antes de comprar una freidora sin aceite: ¿es realmente lo que necesitas?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Cosas que debes saber antes de comprar una freidora sin aceite: ¿es realmente lo que necesitas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927'>Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vr-botas-2595709.jpg' alt='Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna' />
     </a>
 </div>
 
