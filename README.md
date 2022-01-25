@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estos-son-6-nuevos-productos-esperamos-ver-proxima-presentacion-apple-marzo-1000899'>Estas son las 6 novedades que esperamos ver en la próxima presentación de Apple en marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/estos-son-6-nuevos-productos-esperamos-ver-proxima-presentacion-apple-marzo-1000899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2595665.jpg' alt='Estas son las 6 novedades que esperamos ver en la próxima presentación de Apple en marzo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971'>La biotecnología que transforma tus células para que te crezca de nuevo el pelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='La biotecnología que transforma tus células para que te crezca de nuevo el pelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-movil-camara-vintage-como-fuera-carrete-adaptador-1000919'>Usa tu móvil con tu cámara vintage como si fuera el carrete con este adaptador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usa-movil-camara-vintage-como-fuera-carrete-adaptador-1000919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/camara-fotos-2595675.jpg' alt='Usa tu móvil con tu cámara vintage como si fuera el carrete con este adaptador' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941'>Cosas que debes saber antes de comprar una freidora sin aceite: ¿es realmente lo que necesitas?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Cosas que debes saber antes de comprar una freidora sin aceite: ¿es realmente lo que necesitas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865'>Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/hdmi-21-caracteristicas-compatibilidad-todo-debes-saber-conexion-video-indispensable-nuevo-tv-2325103.jpg' alt='Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927'>Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vr-botas-2595709.jpg' alt='Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-b-estas-son-restricciones-dgt-tiene-ti-ano-1000839'>¿Tienes un coche con etiqueta B? Estas son las restricciones que la DGT tiene para ti este año</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-b-estas-son-restricciones-dgt-tiene-ti-ano-1000839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/etiqueta-2572379.jpg' alt='¿Tienes un coche con etiqueta B? Estas son las restricciones que la DGT tiene para ti este año' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-suma-fiebre-wordle-easter-egg-1000923'>Google se suma a la fiebre de Wordle con este easter egg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-suma-fiebre-wordle-easter-egg-1000923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='Google se suma a la fiebre de Wordle con este easter egg' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825'>La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nfl-2595485.jpg' alt='La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-entender-gama-moviles-xiaomi-254362'>Cómo entender la gama de móviles de Xiaomi en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-entender-gama-moviles-xiaomi-254362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Cómo entender la gama de móviles de Xiaomi en 2022' />
     </a>
 </div>
 
