@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961'>Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001'>Cómo convertir Wordle en una aplicación para iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Cómo convertir Wordle en una aplicación para iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971'>La biotecnología que transforma tus células para que te crezca de nuevo el pelo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='La biotecnología que transforma tus células para que te crezca de nuevo el pelo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927'>Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresa-americana-desarrolla-unas-botas-realidad-virtual-te-permitiran-caminar-luna-1000927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vr-botas-2595709.jpg' alt='Una empresa americana desarrolla unas botas de realidad virtual que te permitirán caminar por la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-suma-fiebre-wordle-easter-egg-1000923'>Google se suma a la fiebre de Wordle con este easter egg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-suma-fiebre-wordle-easter-egg-1000923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='Google se suma a la fiebre de Wordle con este easter egg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-entender-gama-moviles-xiaomi-254362'>Cómo entender la gama de móviles de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-entender-gama-moviles-xiaomi-254362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Cómo entender la gama de móviles de Xiaomi en 2022' />
     </a>
 </div>
 
