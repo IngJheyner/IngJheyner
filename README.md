@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565'>10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trucos-bandejas-cubitos-hielo-2595175.jpg' alt='10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-aircar-recibe-certificacion-europea-1000561'>El coche volador AirCar recibe la certificación europea: ya puede volar por toda Europa (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-volador-aircar-recibe-certificacion-europea-1000561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-volador-aircar-recibe-certificacion-europea-ya-puede-volar-toda-europa-2595169.jpg' alt='El coche volador AirCar recibe la certificación europea: ya puede volar por toda Europa (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469'>El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532587.jpg' alt='El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-quieren-sea-siguiente-james-bond-1000303'>Fans quieren que este sea el siguiente James Bond</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fans-quieren-sea-siguiente-james-bond-1000303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/idris-elba-2587551.jpg' alt='Fans quieren que este sea el siguiente James Bond' />
     </a>
 </div>
 
