@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193'>Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/spotify-sigue-triunfando-estas-fueron-plataformas-escuchar-musica-utilizadas-2021-2596309.jpg' alt='Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983'>Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hogwarts-legacy-2588703.jpg' alt='Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185'>Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder</a></h4>
+    <a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-preguntas-ilegales-no-pueden-hacerte-entrevista-trabajo-como-responderlas-2596265.jpg' alt='Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183'>Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg' alt='Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977'>Volkswagen lanzará en febrero una nueva versión del Golf</a></h4>
     <a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-vw-golf-deportivo-2589153.jpg' alt='Volkswagen lanzará en febrero una nueva versión del Golf' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/especialistas-ya-hablan-criptoinvierno-significa-exactamente-1001177'>Los especialistas ya hablan de “criptoinvierno”: ¿qué significa exactamente?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/especialistas-ya-hablan-criptoinvierno-significa-exactamente-1001177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-criptoinvierno-2596211.jpg' alt='Los especialistas ya hablan de “criptoinvierno”: ¿qué significa exactamente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/nintendo-switch-2019-merece-pena-comprar-2022-998983'>Nintendo Switch (2019): ¿merece la pena comprar esta consola en 2022 incluso si es muy barata?</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/nintendo-switch-2019-merece-pena-comprar-2022-998983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nintendo-switch-2591877.jpg' alt='Nintendo Switch (2019): ¿merece la pena comprar esta consola en 2022 incluso si es muy barata?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/no-todo-monte-oregano-ocu-alerta-peligros-condimentos-supermercado-1001117'>“No todo el monte es orégano”, la OCU alerta sobre los peligros de los condimentos de supermercado</a></h4>
-    <a href='https://computerhoy.com/noticias/no-todo-monte-oregano-ocu-alerta-peligros-condimentos-supermercado-1001117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/especias-1921543.jpg' alt='“No todo el monte es orégano”, la OCU alerta sobre los peligros de los condimentos de supermercado' />
     </a>
 </div>
 
