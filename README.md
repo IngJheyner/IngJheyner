@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865'>Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/hdmi-21-caracteristicas-compatibilidad-todo-debes-saber-conexion-video-indispensable-nuevo-tv-2325103.jpg' alt='Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-b-estas-son-restricciones-dgt-tiene-ti-ano-1000839'>¿Tienes un coche con etiqueta B? Estas son las restricciones que la DGT tiene para ti este año</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-b-estas-son-restricciones-dgt-tiene-ti-ano-1000839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/etiqueta-2572379.jpg' alt='¿Tienes un coche con etiqueta B? Estas son las restricciones que la DGT tiene para ti este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825'>La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nfl-2595485.jpg' alt='La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813'>Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/dazn.jpg' alt='Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793'>Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797'>En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363'>Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-lidl-vs-compact-rapid-2590785.jpg' alt='Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779'>El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio' />
     </a>
 </div>
 
