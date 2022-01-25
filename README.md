@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565'>10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trucos-bandejas-cubitos-hielo-2595175.jpg' alt='10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/10-trucos-geniales-darle-nuevo-uso-bandejas-cubitos-hielo-2595377.jpg' alt='10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo' />
     </a>
 </div>
 
