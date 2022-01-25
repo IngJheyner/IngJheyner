@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estos-son-6-nuevos-productos-esperamos-ver-proxima-presentacion-apple-marzo-1000899'>Estas son las 6 novedades que esperamos ver en la próxima presentación de Apple en marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/estos-son-6-nuevos-productos-esperamos-ver-proxima-presentacion-apple-marzo-1000899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2595665.jpg' alt='Estas son las 6 novedades que esperamos ver en la próxima presentación de Apple en marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-movil-camara-vintage-como-fuera-carrete-adaptador-1000919'>Usa tu móvil con tu cámara vintage como si fuera el carrete con este adaptador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usa-movil-camara-vintage-como-fuera-carrete-adaptador-1000919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/camara-fotos-2595675.jpg' alt='Usa tu móvil con tu cámara vintage como si fuera el carrete con este adaptador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865'>Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hdmi-21a-diferencia-conectores-1000865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/hdmi-21-caracteristicas-compatibilidad-todo-debes-saber-conexion-video-indispensable-nuevo-tv-2325103.jpg' alt='Qué es HDMI 2.1a y qué lo diferencia de otras versiones: ¿hacen falta nuevos conectores?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825'>La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mala-pasada-ha-jugado-bitcoin-jugador-futbol-americano-1000825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nfl-2595485.jpg' alt='La mala pasada que le ha jugado Bitcoin a este jugador de fútbol americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813'>Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/dazn.jpg' alt='Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793'>Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo' />
     </a>
 </div>
 
