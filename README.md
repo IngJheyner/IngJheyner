@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813'>Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/dazn.jpg' alt='Esta plataforma podría subir un 30% el precio de suscripción y la culpa la tiene el fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793'>Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/superordenador-ai-usara-facebook-metaverso-rumbo-ser-rapido-mundo-1000793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Este es el superordenador de AI que usará Facebook para su Metaverso: rumbo a ser el más rápido del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797'>En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcion-mejores-amigos-twitter-flock-1000797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-2459337.jpg' alt='En Twitter trabajan en Flock, la función para que compartas tuits solo con tus 150 mejores amigos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779'>El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-afirma-sexta-extincion-masiva-ya-ha-comenzado-1000317'>Un estudio afirma que la sexta extinción masiva ya ha comenzado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-afirma-sexta-extincion-masiva-ya-ha-comenzado-1000317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/contaminacion-2410667.jpg' alt='Un estudio afirma que la sexta extinción masiva ya ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309'>Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/turbo-electrico-porsche-2589327.jpg' alt='Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche' />
     </a>
 </div>
 
