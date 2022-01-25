@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2595381.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2594887.jpg' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565'>10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/10-trucos-geniales-darle-nuevo-uso-bandejas-cubitos-hielo-2595377.jpg' alt='10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557'>Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador</a></h4>
     <a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienes-exceso-grasa-corporal-echale-culpa-abuelo-fumador-2595111.jpg' alt='Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551'>Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-1000551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lenovo-estaria-preparando-nuevo-telefono-gaming-llegaria-procesador-qualcomm-todavia-no-ha-anunciado-2595099.jpg' alt='Lenovo estaría preparando un nuevo teléfono gaming y llegaría con un procesador Qualcomm que todavía no se ha anunciado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469'>El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-5g-oferta-precio-minimo-1000469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532587.jpg' alt='El POCO M4 Pro 5G alcanza su precio mínimo y ya es una compra irresistible' />
     </a>
 </div>
 
