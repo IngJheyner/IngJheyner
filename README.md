@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trajes-neopreno-antitiburones-ya-son-realidad-no-evitan-bocado-pero-dientes-1001061'>Los trajes de neopreno antitiburones ya son una realidad, no evitan el bocado pero sí los dientes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trajes-neopreno-antitiburones-ya-son-realidad-no-evitan-bocado-pero-dientes-1001061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/neopreno-2595961.jpg' alt='Los trajes de neopreno antitiburones ya son una realidad, no evitan el bocado pero sí los dientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021'>NVIDIA da por perdida la negociación por la compra de ARM</a></h4>
     <a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2065045.jpg' alt='NVIDIA da por perdida la negociación por la compra de ARM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001'>Cómo convertir Wordle en una aplicación para iPhone y Android</a></h4>
     <a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Cómo convertir Wordle en una aplicación para iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971'>La biotecnología que transforma tus células para que te crezca de nuevo el pelo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/biotecnologia-transforma-celulas-te-crezca-nuevo-pelo-1000971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='La biotecnología que transforma tus células para que te crezca de nuevo el pelo' />
     </a>
 </div>
 
