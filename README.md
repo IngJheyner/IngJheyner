@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101'>El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193'>Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/spotify-sigue-triunfando-estas-fueron-plataformas-escuchar-musica-utilizadas-2021-2596309.jpg' alt='Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183'>Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg' alt='Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977'>Volkswagen lanzará en febrero una nueva versión del Golf</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/volkswagen-lanzara-febrero-nueva-version-golf-1000977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-vw-golf-deportivo-2589153.jpg' alt='Volkswagen lanzará en febrero una nueva versión del Golf' />
     </a>
 </div>
 
