@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199'>Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elgato-lanza-pedal-ordenador-adivinas-sirve-2596357.jpg' alt='Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101'>El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185'>Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder</a></h4>
     <a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-preguntas-ilegales-no-pueden-hacerte-entrevista-trabajo-como-responderlas-2596265.jpg' alt='Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183'>Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-claves-policia-nacional-evitar-skimming-cajeros-automaticos-1001183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg' alt='Las tres claves de la Policía Nacional para evitar el skimming en cajeros automáticos' />
     </a>
 </div>
 
