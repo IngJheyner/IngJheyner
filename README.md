@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363'>Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-lidl-vs-compact-rapid-2590785.jpg' alt='Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779'>El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-movil-plegable-google-precio-1000779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/telefono-plegable-google-aparece-geekbench-dando-pistas-acerca-lanzamiento-2580543.jpg' alt='El Pixel Notepad de Google podría venderse por 400 dólares menos que otros plegables: ya se conoce un posible precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-afirma-sexta-extincion-masiva-ya-ha-comenzado-1000317'>Un estudio afirma que la sexta extinción masiva ya ha comenzado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-afirma-sexta-extincion-masiva-ya-ha-comenzado-1000317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/contaminacion-2410667.jpg' alt='Un estudio afirma que la sexta extinción masiva ya ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309'>Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-turbo-electrico-doble-turbocompresor-ha-patentado-porsche-1000309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/turbo-electrico-porsche-2589327.jpg' alt='Este es el nuevo turbo eléctrico con doble turbocompresor que ha patentado Porsche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1000769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2595381.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2594887.jpg' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565'>10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-trucos-geniales-bandejas-cubitos-hielo-1000565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/10-trucos-geniales-darle-nuevo-uso-bandejas-cubitos-hielo-2595377.jpg' alt='10 trucos geniales para darle un nuevo uso a las bandejas de los cubitos de hielo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-aircar-recibe-certificacion-europea-1000561'>El coche volador AirCar recibe la certificación europea: ya puede volar por toda Europa (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-volador-aircar-recibe-certificacion-europea-1000561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-volador-aircar-recibe-certificacion-europea-ya-puede-volar-toda-europa-2595169.jpg' alt='El coche volador AirCar recibe la certificación europea: ya puede volar por toda Europa (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557'>Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/abuelo-fumador-exceso-grasa-corporal-nietas-1000557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienes-exceso-grasa-corporal-echale-culpa-abuelo-fumador-2595111.jpg' alt='Si tienes exceso de grasa corporal, échale la culpa a tu abuelo fumador' />
     </a>
 </div>
 
