@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-922595'>Los 9 mejores juegos de deportes para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-922595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/9-mejores-juegos-deportes-android-2022-tienes-descargar-ya-mismo-2595117.jpg' alt='Los 9 mejores juegos de deportes para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-sigue-imparable-ya-supera-movistar-estas-son-plataformas-vistas-espana-1001051'>Filmin sigue imparable y ya supera a Movistar+: estas son las plataformas más vistas en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/filmin-sigue-imparable-ya-supera-movistar-estas-son-plataformas-vistas-espana-1001051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guerra-streaming-2596015.jpg' alt='Filmin sigue imparable y ya supera a Movistar+: estas son las plataformas más vistas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-sonido-logitech-z906-oferta-descuento-300-euros-1000231'>¿Qué tiene esos altavoces Logitech Z906 que varias tiendas lo han rebajado? Consigue este sistema de sonido 5.1 por 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sistema-sonido-logitech-z906-oferta-descuento-300-euros-1000231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-z906-2594265.jpg' alt='¿Qué tiene esos altavoces Logitech Z906 que varias tiendas lo han rebajado? Consigue este sistema de sonido 5.1 por 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trajes-neopreno-antitiburones-ya-son-realidad-no-evitan-bocado-pero-dientes-1001061'>Los trajes de neopreno antitiburones ya son una realidad, no evitan el bocado pero sí los dientes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trajes-neopreno-antitiburones-ya-son-realidad-no-evitan-bocado-pero-dientes-1001061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/neopreno-2595961.jpg' alt='Los trajes de neopreno antitiburones ya son una realidad, no evitan el bocado pero sí los dientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021'>NVIDIA da por perdida la negociación por la compra de ARM</a></h4>
     <a href='https://computerhoy.com/noticias/nvidia-da-perdida-negociacion-compra-arm-puso-mundo-1001021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2065045.jpg' alt='NVIDIA da por perdida la negociación por la compra de ARM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-movil-plegable-samsung-galaxy-z-flip-3-amazon-1000907'>Si siempre quisiste tener un móvil plegable este es tu momento: Samsung Galaxy Z Flip 3 ahora cuesta 849 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-movil-plegable-samsung-galaxy-z-flip-3-amazon-1000907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487001.jpg' alt='Si siempre quisiste tener un móvil plegable este es tu momento: Samsung Galaxy Z Flip 3 ahora cuesta 849 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961'>Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/continuan-problemas-subtitulos-hbo-max-plataforma-admite-no-sabe-cuando-solucionaran-1000961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='Continúan los problemas con los subtítulos de HBO Max y la plataforma admite que no sabe cuándo los solucionarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001'>Cómo convertir Wordle en una aplicación para iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/como-convertir-wordle-aplicacion-iphone-android-1001001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Cómo convertir Wordle en una aplicación para iPhone y Android' />
     </a>
 </div>
 
