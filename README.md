@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205'>Los espectaculares coches tatuados del taller japonés Rohan Izawa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espectaculares-coches-tatuados-taller-japones-rohan-izawa-2596361.jpg' alt='Los espectaculares coches tatuados del taller japonés Rohan Izawa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199'>Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elgato-lanza-pedal-ordenador-adivinas-sirve-2596357.jpg' alt='Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983'>Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hogwarts-legacy-2588703.jpg' alt='Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185'>Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder</a></h4>
-    <a href='https://computerhoy.com/noticias/life/preguntas-ilegales-entrevista-trabajo-como-responder-1001185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-preguntas-ilegales-no-pueden-hacerte-entrevista-trabajo-como-responderlas-2596265.jpg' alt='Estas son las preguntas ilegales que no pueden hacerte en una entrevista de trabajo, y cómo responder' />
     </a>
 </div>
 
