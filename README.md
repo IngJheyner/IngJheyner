@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417'>Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama</a></h4>
+    <a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/neurologo-explica-te-duermes-enseguida-sofa-pero-te-cuesta-mundo-cama-2596557.jpg' alt='Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205'>Los espectaculares coches tatuados del taller japonés Rohan Izawa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espectaculares-coches-tatuados-taller-japones-rohan-izawa-2596361.jpg' alt='Los espectaculares coches tatuados del taller japonés Rohan Izawa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193'>Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/spotify-sigue-triunfando-estas-fueron-plataformas-escuchar-musica-utilizadas-2021-2596309.jpg' alt='Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983'>Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/warner-bros-reafirma-hogwarts-legacy-como-lanzamiento-2022-1000983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hogwarts-legacy-2588703.jpg' alt='Warner Bros reafirma Hogwarts Legacy como lanzamiento de 2022' />
     </a>
 </div>
 
