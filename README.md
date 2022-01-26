@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desenrollar-cable-auriculares-no-facil-gravedad-cero-esa-1001571'>Desenrollar el cable de los auriculares no es más fácil en gravedad cero según la ESA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desenrollar-cable-auriculares-no-facil-gravedad-cero-esa-1001571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espacio-2596799.jpg' alt='Desenrollar el cable de los auriculares no es más fácil en gravedad cero según la ESA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649'>Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-sound-joy-2596997.jpg' alt='Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/covid-persistente-estos-son-algunos-factores-aumentan-probabilidad-1001541'>Covid persistente: estos son algunos factores que aumentan su probabilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/covid-persistente-estos-son-algunos-factores-aumentan-probabilidad-1001541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-2583603.jpg' alt='Covid persistente: estos son algunos factores que aumentan su probabilidad' />
+    <h4><a href='https://computerhoy.com/noticias/disney-anuncia-lanzamiento-comedias-esperadas-amantes-sitcoms-1001613'>Disney+ anuncia el lanzamiento de una de las comedias más esperadas por los amantes de las sitcoms</a></h4>
+    <a href='https://computerhoy.com/noticias/disney-anuncia-lanzamiento-comedias-esperadas-amantes-sitcoms-1001613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-conoci-padre-2596961.jpg' alt='Disney+ anuncia el lanzamiento de una de las comedias más esperadas por los amantes de las sitcoms' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-movil-plegable-tipo-concha-ya-puede-comprar-espana-1001467'>Así es el Huawei P50 Pocket, el móvil plegable tipo concha que ya se puede comprar en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-movil-plegable-tipo-concha-ya-puede-comprar-espana-1001467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-p50-pocket-2596725.jpg' alt='Así es el Huawei P50 Pocket, el móvil plegable tipo concha que ya se puede comprar en España' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-actualiza-aplicacion-midgt-novedades-1001619'>La DGT actualiza la aplicación miDGT con 3 novedades que agradecerán también los futuros conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-actualiza-aplicacion-midgt-novedades-1001619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-movil-2596915.jpg' alt='La DGT actualiza la aplicación miDGT con 3 novedades que agradecerán también los futuros conductores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-huawei-p50-pro-llega-espana-camaras-altura-gama-premium-1001465'>El esperado Huawei P50 Pro llega a España con cámaras a la altura de la gama premium</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperado-huawei-p50-pro-llega-espana-camaras-altura-gama-premium-1001465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-p50-pro-2596673.jpg' alt='El esperado Huawei P50 Pro llega a España con cámaras a la altura de la gama premium' />
+    <h4><a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601'>Mere, el Lidl ruso de los superdescuentos abandona su aventura española</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mere-2596845.jpg' alt='Mere, el Lidl ruso de los superdescuentos abandona su aventura española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carrefour-thermomix-barata-cuisy-chef-1001543'>Carrefour rompe el mercado con su "Thermomix barata" que hace todo en la cocina por solo 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carrefour-thermomix-barata-cuisy-chef-1001543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuisy-chef-2596655.jpg' alt='Carrefour rompe el mercado con su "Thermomix barata" que hace todo en la cocina por solo 159 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-mirar-elegir-movil-por-su-camara-552401'>Qué es lo que debes tener en cuenta al elegir un móvil por su cámara en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/que-mirar-elegir-movil-por-su-camara-552401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518847.jpg' alt='Qué es lo que debes tener en cuenta al elegir un móvil por su cámara en 2022' />
     </a>
 </div>
 
