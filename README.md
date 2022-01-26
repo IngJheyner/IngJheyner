@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657'>Posiblemente estos son los tres mejores motores BMW de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/bmw-m5-e60-2292573.jpg' alt='Posiblemente estos son los tres mejores motores BMW de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767'>Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-encontrar-ubicacion-agencia-secreta-espionaje-alemana-1001823'>Usan un AirTag para encontrar la ubicación de una agencia secreta de espionaje alemana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airtag-encontrar-ubicacion-agencia-secreta-espionaje-alemana-1001823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg' alt='Usan un AirTag para encontrar la ubicación de una agencia secreta de espionaje alemana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tiene-menu-secreto-muy-practico-casi-nadie-utiliza-1001815'>WhatsApp tiene un menú secreto muy práctico que casi nadie utiliza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tiene-menu-secreto-muy-practico-casi-nadie-utiliza-1001815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2597515.jpg' alt='WhatsApp tiene un menú secreto muy práctico que casi nadie utiliza' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/son-nuevas-senales-dgt-significado-1001809'>Así son las nuevas señales de la DGT y este es su significado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/son-nuevas-senales-dgt-significado-1001809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/balizas-inteligentes-niebla-dgt-2597495.jpg' alt='Así son las nuevas señales de la DGT y este es su significado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teleoperadores-desvelan-gran-secreto-evites-hacer-ridiculo-cuando-te-llamen-1001759'>Teleoperadores desvelan su gran secreto para que evites hacer el ridículo cuando te llamen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teleoperadores-desvelan-gran-secreto-evites-hacer-ridiculo-cuando-te-llamen-1001759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/llamadas-spam.jpg' alt='Teleoperadores desvelan su gran secreto para que evites hacer el ridículo cuando te llamen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/premio-mejor-edificio-2021-ha-ganado-hospital-remoto-banglades-1001781'>El premio a mejor edificio de 2021 lo ha ganado un hospital remoto de Bangladés</a></h4>
-    <a href='https://computerhoy.com/noticias/life/premio-mejor-edificio-2021-ha-ganado-hospital-remoto-banglades-1001781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hospital-2597391.jpg' alt='El premio a mejor edificio de 2021 lo ha ganado un hospital remoto de Bangladés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/television-sigue-queriendo-stephen-king-ultimas-novelas-sera-adaptada-serie-1001745'>La televisión sigue queriendo a Stephen King y una de sus últimas novelas será adaptada a serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/television-sigue-queriendo-stephen-king-ultimas-novelas-sera-adaptada-serie-1001745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stephen-king-2597259.jpg' alt='La televisión sigue queriendo a Stephen King y una de sus últimas novelas será adaptada a serie' />
     </a>
 </div>
 
