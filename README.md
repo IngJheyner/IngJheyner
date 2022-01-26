@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-menos-20-euros-darle-nueva-vida-viejo-ordenador-grandes-ofertas-dia-amazon-1001531'>Un SSD por menos de 20 euros para darle nueva vida a tu viejo ordenador, una de las grandes ofertas del día en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-menos-20-euros-darle-nueva-vida-viejo-ordenador-grandes-ofertas-dia-amazon-1001531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/kingston-a400-ssd-2504335.jpg' alt='Un SSD por menos de 20 euros para darle nueva vida a tu viejo ordenador, una de las grandes ofertas del día en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-hace-historia-netflix-estreno-2021-1001461'>No mires arriba hace historia en Netflix tras un mes imbatible, pero no es el mejor estreno de 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-hace-historia-netflix-estreno-2021-1001461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='No mires arriba hace historia en Netflix tras un mes imbatible, pero no es el mejor estreno de 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-sube-carro-nft-ayudar-creadores-1001451'>YouTube se sube al carro de los NFT para "ayudar a los creadores"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-sube-carro-nft-ayudar-creadores-1001451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/nft-2357521.jpg' alt='YouTube se sube al carro de los NFT para "ayudar a los creadores"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-asistente-voz-orden-frase-rapida-1001447'>Google añade a su asistente de voz la frase rápida que más se suele necesitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-asistente-voz-orden-frase-rapida-1001447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/asistente-google-1976881.jpg' alt='Google añade a su asistente de voz la frase rápida que más se suele necesitar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-criptomonedas-facebook-meta-final-1001429'>El proyecto de criptomonedas de Meta, Libra, parece haber llegado a su final</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proyecto-criptomonedas-facebook-meta-final-1001429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='El proyecto de criptomonedas de Meta, Libra, parece haber llegado a su final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-influencers-instagram-estan-clonando-mascotas-1000999'>Los último de los influencers de Instagram: están clonando a sus mascotas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-influencers-instagram-estan-clonando-mascotas-1000999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/perros-corriendo-2453569.jpg' alt='Los último de los influencers de Instagram: están clonando a sus mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991'>Renault anuncia el momento en que fabricará solo coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/renault-megane-2575499.jpg' alt='Renault anuncia el momento en que fabricará solo coches eléctricos' />
     </a>
 </div>
 
