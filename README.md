@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-asistente-voz-orden-frase-rapida-1001447'>Google añade a su asistente de voz la frase rápida que más se suele necesitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-asistente-voz-orden-frase-rapida-1001447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/asistente-google-1976881.jpg' alt='Google añade a su asistente de voz la frase rápida que más se suele necesitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991'>Renault anuncia el momento en que fabricará solo coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/renault-megane-2575499.jpg' alt='Renault anuncia el momento en que fabricará solo coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2596559.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
