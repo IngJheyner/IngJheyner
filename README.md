@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2596559.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921'>Frigoríficos americanos de bajo consumo: estos son los 5 mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/frigorifico-americano-side-side-2595917.jpg' alt='Frigoríficos americanos de bajo consumo: estos son los 5 mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417'>Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama</a></h4>
     <a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/neurologo-explica-te-duermes-enseguida-sofa-pero-te-cuesta-mundo-cama-2596557.jpg' alt='Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199'>Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elgato-lanza-pedal-ordenador-adivinas-sirve-2596357.jpg' alt='Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101'>El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-256-gb-oferta-1001101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='El POCO F3 5G es uno de los mejores móviles del momento, y vuelve a bajar de precio para tentar a los indecisos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193'>Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-plataformas-escuchar-musica-mas-utilizadas-2021-1001193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/spotify-sigue-triunfando-estas-fueron-plataformas-escuchar-musica-utilizadas-2021-2596309.jpg' alt='Spotify sigue triunfando: estas fueron las plataformas para escuchar música más utilizadas en 2021' />
     </a>
 </div>
 
