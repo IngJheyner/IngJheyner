@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839'>Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-fecha-lanzamiento-25-febrero-1001861'>Valve revela la fecha de lanzamiento de su consola Steam Deck, así puedes conseguirla</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/steam-deck-fecha-lanzamiento-25-febrero-1001861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/valve-revela-fecha-lanzamiento-consola-steam-deck-puedes-conseguirla-2597615.jpg' alt='Valve revela la fecha de lanzamiento de su consola Steam Deck, así puedes conseguirla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837'>Android e iOS tendrán competencia y llegará de la mano de la India</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Android e iOS tendrán competencia y llegará de la mano de la India' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659'>La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-aristogatos-imagen-real-disney-1001851'>Disney+ adaptará a imagen real otro de los clásicos que marcaron tu infancia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/los-aristogatos-imagen-real-disney-1001851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/disney-adaptara-imagen-real-otro-clasicos-marcaron-infancia-2597601.jpg' alt='Disney+ adaptará a imagen real otro de los clásicos que marcaron tu infancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769'>Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414881.jpg' alt='Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T' />
     </a>
 </div>
 
