@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desenrollar-cable-auriculares-no-facil-gravedad-cero-esa-1001571'>Desenrollar el cable de los auriculares no es más fácil en gravedad cero según la ESA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desenrollar-cable-auriculares-no-facil-gravedad-cero-esa-1001571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espacio-2596799.jpg' alt='Desenrollar el cable de los auriculares no es más fácil en gravedad cero según la ESA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/covid-persistente-estos-son-algunos-factores-aumentan-probabilidad-1001541'>Covid persistente: estos son algunos factores que aumentan su probabilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/covid-persistente-estos-son-algunos-factores-aumentan-probabilidad-1001541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-2583603.jpg' alt='Covid persistente: estos son algunos factores que aumentan su probabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-movil-plegable-tipo-concha-ya-puede-comprar-espana-1001467'>Así es el Huawei P50 Pocket, el móvil plegable tipo concha que ya se puede comprar en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pocket-movil-plegable-tipo-concha-ya-puede-comprar-espana-1001467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-p50-pocket-2596725.jpg' alt='Así es el Huawei P50 Pocket, el móvil plegable tipo concha que ya se puede comprar en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-huawei-p50-pro-llega-espana-camaras-altura-gama-premium-1001465'>El esperado Huawei P50 Pro llega a España con cámaras a la altura de la gama premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperado-huawei-p50-pro-llega-espana-camaras-altura-gama-premium-1001465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-p50-pro-2596673.jpg' alt='El esperado Huawei P50 Pro llega a España con cámaras a la altura de la gama premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carrefour-thermomix-barata-cuisy-chef-1001543'>Carrefour rompe el mercado con su "Thermomix barata" que hace todo en la cocina por solo 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carrefour-thermomix-barata-cuisy-chef-1001543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cuisy-chef-2596655.jpg' alt='Carrefour rompe el mercado con su "Thermomix barata" que hace todo en la cocina por solo 159 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-lejos-terminar-2022-puede-ser-peor-ano-1001495'>La crisis de los semiconductores está lejos de terminar: 2022 puede ser su peor año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crisis-semiconductores-lejos-terminar-2022-puede-ser-peor-ano-1001495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tsmc-construira-chips-2-nm-2024-2421999.jpg' alt='La crisis de los semiconductores está lejos de terminar: 2022 puede ser su peor año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-hackear-billetera-2-millones-dolares-criptomonedas-porque-habian-olvidado-pin-1001535'>Consigue hackear una billetera con 2 millones de dólares en criptomonedas porque habían olvidado el PIN</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-hackear-billetera-2-millones-dolares-criptomonedas-porque-habian-olvidado-pin-1001535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-hacker-2460755.jpg' alt='Consigue hackear una billetera con 2 millones de dólares en criptomonedas porque habían olvidado el PIN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-menos-20-euros-darle-nueva-vida-viejo-ordenador-grandes-ofertas-dia-amazon-1001531'>Un SSD por menos de 20 euros para darle nueva vida a tu viejo ordenador, una de las grandes ofertas del día en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-menos-20-euros-darle-nueva-vida-viejo-ordenador-grandes-ofertas-dia-amazon-1001531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/kingston-a400-ssd-2504335.jpg' alt='Un SSD por menos de 20 euros para darle nueva vida a tu viejo ordenador, una de las grandes ofertas del día en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-hace-historia-netflix-estreno-2021-1001461'>No mires arriba hace historia en Netflix tras un mes imbatible, pero no es el mejor estreno de 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-mires-arriba-hace-historia-netflix-estreno-2021-1001461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='No mires arriba hace historia en Netflix tras un mes imbatible, pero no es el mejor estreno de 2021' />
     </a>
 </div>
 
