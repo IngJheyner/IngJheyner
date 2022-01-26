@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659'>La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-aristogatos-imagen-real-disney-1001851'>Disney+ adaptará a imagen real otro de los clásicos que marcaron tu infancia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/los-aristogatos-imagen-real-disney-1001851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/disney-adaptara-imagen-real-otro-clasicos-marcaron-infancia-2597601.jpg' alt='Disney+ adaptará a imagen real otro de los clásicos que marcaron tu infancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769'>Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414881.jpg' alt='Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657'>Posiblemente estos son los tres mejores motores BMW de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/bmw-m5-e60-2292573.jpg' alt='Posiblemente estos son los tres mejores motores BMW de la historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767'>Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-encontrar-ubicacion-agencia-secreta-espionaje-alemana-1001823'>Usan un AirTag para encontrar la ubicación de una agencia secreta de espionaje alemana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airtag-encontrar-ubicacion-agencia-secreta-espionaje-alemana-1001823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg' alt='Usan un AirTag para encontrar la ubicación de una agencia secreta de espionaje alemana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tiene-menu-secreto-muy-practico-casi-nadie-utiliza-1001815'>WhatsApp tiene un menú secreto muy práctico que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tiene-menu-secreto-muy-practico-casi-nadie-utiliza-1001815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2597515.jpg' alt='WhatsApp tiene un menú secreto muy práctico que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/son-nuevas-senales-dgt-significado-1001809'>Así son las nuevas señales de la DGT y este es su significado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/son-nuevas-senales-dgt-significado-1001809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/balizas-inteligentes-niebla-dgt-2597495.jpg' alt='Así son las nuevas señales de la DGT y este es su significado' />
     </a>
 </div>
 
