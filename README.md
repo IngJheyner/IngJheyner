@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631'>Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649'>Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-sound-joy-2596997.jpg' alt='Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601'>Mere, el Lidl ruso de los superdescuentos abandona su aventura española</a></h4>
     <a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mere-2596845.jpg' alt='Mere, el Lidl ruso de los superdescuentos abandona su aventura española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-mirar-elegir-movil-por-su-camara-552401'>Qué es lo que debes tener en cuenta al elegir un móvil por su cámara en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/que-mirar-elegir-movil-por-su-camara-552401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518847.jpg' alt='Qué es lo que debes tener en cuenta al elegir un móvil por su cámara en 2022' />
     </a>
 </div>
 
