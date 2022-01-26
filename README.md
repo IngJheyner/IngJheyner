@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837'>Android e iOS tendrán competencia y llegará de la mano de la India</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Android e iOS tendrán competencia y llegará de la mano de la India' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853'>El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/apple-watch-series-6-2258193.jpg' alt='El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659'>La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769'>Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-primeras-especificaciones-llegaria-oneplus-nord-2t-1001769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414881.jpg' alt='Se filtran las primeras especificaciones con las que llegaría el OnePlus Nord 2T' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657'>Posiblemente estos son los tres mejores motores BMW de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/posiblemente-estos-son-tres-mejores-motores-bmw-historia-1001657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/bmw-m5-e60-2292573.jpg' alt='Posiblemente estos son los tres mejores motores BMW de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767'>Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-da-marcha-atras-realme-pad-actualizara-forma-oficial-android-12-1001767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2582781.jpg' alt='Realme da marcha atrás y la realme Pad actualizará de forma oficial a Android 12' />
     </a>
 </div>
 
