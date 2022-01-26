@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-criptomonedas-facebook-meta-final-1001429'>El proyecto de criptomonedas de Meta, Libra, parece haber llegado a su final</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proyecto-criptomonedas-facebook-meta-final-1001429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='El proyecto de criptomonedas de Meta, Libra, parece haber llegado a su final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-influencers-instagram-estan-clonando-mascotas-1000999'>Los último de los influencers de Instagram: están clonando a sus mascotas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-influencers-instagram-estan-clonando-mascotas-1000999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/perros-corriendo-2453569.jpg' alt='Los último de los influencers de Instagram: están clonando a sus mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991'>Renault anuncia el momento en que fabricará solo coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renault-anuncia-momento-fabricara-solo-coches-electricos-1000991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/renault-megane-2575499.jpg' alt='Renault anuncia el momento en que fabricará solo coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1001419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2596559.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921'>Frigoríficos americanos de bajo consumo: estos son los 5 mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/frigorifico-americano-side-side-2595917.jpg' alt='Frigoríficos americanos de bajo consumo: estos son los 5 mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417'>Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama</a></h4>
-    <a href='https://computerhoy.com/noticias/life/neurologo-explica-dormir-en-sofa-pero-no-en-la-cama-1001417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/neurologo-explica-te-duermes-enseguida-sofa-pero-te-cuesta-mundo-cama-2596557.jpg' alt='Un neurólogo explica por qué te duermes enseguida en el sofá, pero te cuesta un mundo en la cama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205'>Los espectaculares coches tatuados del taller japonés Rohan Izawa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-tatuados-taller-japones-rohan-izawa-art-design-1001205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espectaculares-coches-tatuados-taller-japones-rohan-izawa-2596361.jpg' alt='Los espectaculares coches tatuados del taller japonés Rohan Izawa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199'>Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elgato-stream-deck-pedal-1001199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elgato-lanza-pedal-ordenador-adivinas-sirve-2596357.jpg' alt='Elgato lanza un pedal para ordenador, ¿adivinas para qué sirve? ' />
     </a>
 </div>
 
