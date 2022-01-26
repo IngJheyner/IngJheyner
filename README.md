@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-supervivencia-triple-trabaja-blizzard-saldra-pc-consolas-estetica-no-deja-indiferente-nadie-1001687'>El nuevo juego de supervivencia triple A en el que trabaja Blizzard saldrá para PC y consolas y su estética no deja indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-supervivencia-triple-trabaja-blizzard-saldra-pc-consolas-estetica-no-deja-indiferente-nadie-1001687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/blizzard-2597105.jpg' alt='El nuevo juego de supervivencia triple A en el que trabaja Blizzard saldrá para PC y consolas y su estética no deja indiferente a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosa-oferta-elon-musk-ha-hecho-mcdonalds-no-podra-rechazar-1001661'>La curiosa oferta que Elon Musk ha hecho a McDonald’s y que no podrá rechazar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/curiosa-oferta-elon-musk-ha-hecho-mcdonalds-no-podra-rechazar-1001661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2597041.jpg' alt='La curiosa oferta que Elon Musk ha hecho a McDonald’s y que no podrá rechazar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-redmi-note-11-xiaomi-conquistar-gama-media-1001463'>Así es la familia Redmi Note 11 de Xiaomi para conquistar la gama media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/familia-redmi-note-11-xiaomi-conquistar-gama-media-1001463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596977.jpg' alt='Así es la familia Redmi Note 11 de Xiaomi para conquistar la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631'>Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos' />
     </a>
 </div>
 
