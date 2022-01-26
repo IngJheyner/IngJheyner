@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosa-oferta-elon-musk-ha-hecho-mcdonalds-no-podra-rechazar-1001661'>La curiosa oferta que Elon Musk ha hecho a McDonald’s y que no podrá rechazar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curiosa-oferta-elon-musk-ha-hecho-mcdonalds-no-podra-rechazar-1001661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2597041.jpg' alt='La curiosa oferta que Elon Musk ha hecho a McDonald’s y que no podrá rechazar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionara-herramienta-apple-abrir-puertas-hoteles-iphone-apple-watch-1001695'>Así funcionará la herramienta de Apple para abrir las puertas de los hoteles con tu iPhone o Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionara-herramienta-apple-abrir-puertas-hoteles-iphone-apple-watch-1001695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-llave-hotel-2597121.jpg' alt='Así funcionará la herramienta de Apple para abrir las puertas de los hoteles con tu iPhone o Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-oled-c1-55-pulgadas-descuento-liquidacion-570-euros-1001557'>Liquidación por esta Smart TV de 55 pulgadas y panel OLED de LG: un descuento de 570 euros y envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-oled-c1-55-pulgadas-descuento-liquidacion-570-euros-1001557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lg-oled-c1-55-2596711.jpg' alt='Liquidación por esta Smart TV de 55 pulgadas y panel OLED de LG: un descuento de 570 euros y envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-redmi-note-11-xiaomi-conquistar-gama-media-1001463'>Así es la familia Redmi Note 11 de Xiaomi para conquistar la gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/familia-redmi-note-11-xiaomi-conquistar-gama-media-1001463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596977.jpg' alt='Así es la familia Redmi Note 11 de Xiaomi para conquistar la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631'>Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-prime-tiene-funcion-desconocida-te-ayudara-sobrevivir-final-google-fotos-1001631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon Prime tiene una función desconocida que te ayudará a sobrevivir al final de Google Fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649'>Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-amplia-gama-complementos-reloj-watch-gt-runner-altavoz-sound-joy-1001649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-sound-joy-2596997.jpg' alt='Huawei amplía su gama de complementos con el reloj Watch GT Runner y el altavoz Sound Joy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/disney-anuncia-lanzamiento-comedias-esperadas-amantes-sitcoms-1001613'>Disney+ anuncia el lanzamiento de una de las comedias más esperadas por los amantes de las sitcoms</a></h4>
-    <a href='https://computerhoy.com/noticias/disney-anuncia-lanzamiento-comedias-esperadas-amantes-sitcoms-1001613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-conoci-padre-2596961.jpg' alt='Disney+ anuncia el lanzamiento de una de las comedias más esperadas por los amantes de las sitcoms' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-actualiza-aplicacion-midgt-novedades-1001619'>La DGT actualiza la aplicación miDGT con 3 novedades que agradecerán también los futuros conductores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-actualiza-aplicacion-midgt-novedades-1001619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-movil-2596915.jpg' alt='La DGT actualiza la aplicación miDGT con 3 novedades que agradecerán también los futuros conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601'>Mere, el Lidl ruso de los superdescuentos abandona su aventura española</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mere-lidl-ruso-superdescuentos-abandona-aventura-espanola-1001601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mere-2596845.jpg' alt='Mere, el Lidl ruso de los superdescuentos abandona su aventura española' />
     </a>
 </div>
 
