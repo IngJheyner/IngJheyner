@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-desarrollan-inyeccion-elimina-obesidad-dentro-1002209'>Por primera vez desarrollan una inyección que elimina la obesidad desde dentro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-desarrollan-inyeccion-elimina-obesidad-dentro-1002209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/obesidad-2598123.jpg' alt='Por primera vez desarrollan una inyección que elimina la obesidad desde dentro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229'>SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegan-nuevas-formas-monetizar-podcast-spotify-publicidad-lugares-inesperados-1002221'>Llegan las nuevas formas de monetizar tu podcast en Spotify con publicidad en los lugares más inesperados</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/llegan-nuevas-formas-monetizar-podcast-spotify-publicidad-lugares-inesperados-1002221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/podcast-2560707.jpg' alt='Llegan las nuevas formas de monetizar tu podcast en Spotify con publicidad en los lugares más inesperados' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-promete-febrero-lleno-cine-ultima-pelicula-m-night-shyamalan-nominadas-goya-1002245'>Movistar+ promete un febrero lleno de cine con la última película de M. Night Shyamalan y las nominadas a los Goya</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-promete-febrero-lleno-cine-ultima-pelicula-m-night-shyamalan-nominadas-goya-1002245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/maixabel-2596277.jpg' alt='Movistar+ promete un febrero lleno de cine con la última película de M. Night Shyamalan y las nominadas a los Goya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189'>Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/varios-teslas-cargandose-supercharger-2413547.jpg' alt='Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339'>Guía de WhatsApp Web con todos los trucos y consejos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg' alt='Guía de WhatsApp Web con todos los trucos y consejos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-puede-operar-necesidad-ayuda-humana-1002153'>Este robot cirujano puede operar sin necesidad de ayuda humana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-puede-operar-necesidad-ayuda-humana-1002153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-cirujano-2598031.jpg' alt='Este robot cirujano puede operar sin necesidad de ayuda humana' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-rebaja-xiaomi-mi-tv-q1-75-pulgadas-1002141'>Xiaomi rebaja su enorme Smart TV con panel QLED y Android TV: es 300 euros más barata y con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-rebaja-xiaomi-mi-tv-q1-75-pulgadas-1002141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543083.jpg' alt='Xiaomi rebaja su enorme Smart TV con panel QLED y Android TV: es 300 euros más barata y con envío gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765'>Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lampara-led-pantalla-lymax-l1-2597563.jpg' alt='Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-5g-llegara-mercado-febrero-todo-sabemos-1002231'>OnePlus Nord 2 CE 5G llegará al mercado en febrero y esto es todo lo que sabemos de él</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-5g-llegara-mercado-febrero-todo-sabemos-1002231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/onepls-nord-2-ce-5g-2598257.jpg' alt='OnePlus Nord 2 CE 5G llegará al mercado en febrero y esto es todo lo que sabemos de él' />
     </a>
 </div>
 
