@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663'>Estos fueron los 10 coches más vendidos en España en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/seat-arona-2591171.jpg' alt='Estos fueron los 10 coches más vendidos en España en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077'>42 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/42-noticias-tecnologia-comenzar-manana-informado-ultimo-2597825.jpg' alt='42 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869'>Los ladrillos para salvar a las abejas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladrillos-proteger-abejas-2597625.jpg' alt='Los ladrillos para salvar a las abejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839'>Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización' />
     </a>
 </div>
 
