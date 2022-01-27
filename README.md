@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289'>La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bugatti-chiron-super-sport-corriendo-nurburgring-2573925.jpg' alt='La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455'>La última actualización de Google Maps hace que pierda una importante funcionalidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Google Maps hace que pierda una importante funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099'>¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dudando-movil-mano-2561331.jpg' alt='¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793'>10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-problemas-wifi-mac-936755'>Cómo solucionar problemas del WiFi en Mac </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-problemas-wifi-mac-936755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/wifi-mac-2481195.jpg' alt='Cómo solucionar problemas del WiFi en Mac ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejo-definitivo-afrontar-teletrabajo-primera-vez-1001033'>El consejo definitivo para afrontar el teletrabajo si es tu primera vez</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejo-definitivo-afrontar-teletrabajo-primera-vez-1001033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plantas-teletrabajo-2584829.jpg' alt='El consejo definitivo para afrontar el teletrabajo si es tu primera vez' />
     </a>
 </div>
 
