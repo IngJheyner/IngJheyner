@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-cpu-intel-core-12a-generacion-mas-rapidas-apple-m1-pro-m1-max-1002489'>Las nuevas CPU Intel Core de 12ª Generación son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499'>Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ha-puesto-moda-compra-ahora-paga-despues-ya-usan-amazon-paypal-bancos-como-santarder-zinia-2598863.jpg' alt='Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-cpu-intel-core-12a-generacion-mas-rapidas-apple-m1-pro-m1-max-1002489'>Las nuevas CPU Intel Core de 12ª Generación para portátiles son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-cpu-intel-core-12a-generacion-mas-rapidas-apple-m1-pro-m1-max-1002489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevas-cpu-intel-core-12a-generacion-son-rapidas-apple-m1-pro-m2-max-pero-handicap-2598851.jpg' alt='Las nuevas CPU Intel Core de 12ª Generación son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevas-cpu-intel-core-12a-generacion-son-rapidas-apple-m1-pro-m2-max-pero-handicap-2598851.jpg' alt='Las nuevas CPU Intel Core de 12ª Generación para portátiles son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293'>(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desencanto-temporada-4-2591009.jpg' alt='(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-abandonan-amazon-prime-video-febrero-2022-1002467'>¡Date prisa! Todas estas películas y series abandonan Prime Video en los próximos días</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-abandonan-amazon-prime-video-febrero-2022-1002467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/date-prisa-todas-estas-peliculas-abandonan-prime-video-proximos-dias-2598769.jpg' alt='¡Date prisa! Todas estas películas y series abandonan Prime Video en los próximos días' />
     </a>
 </div>
 
