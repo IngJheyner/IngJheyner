@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293'>(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desencanto-temporada-4-2591009.jpg' alt='(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-abandonan-amazon-prime-video-febrero-2022-1002467'>¡Date prisa! Todas estas películas y series abandonan Prime Video en los próximos días</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-abandonan-amazon-prime-video-febrero-2022-1002467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/date-prisa-todas-estas-peliculas-abandonan-prime-video-proximos-dias-2598769.jpg' alt='¡Date prisa! Todas estas películas y series abandonan Prime Video en los próximos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-excrementos-animales-minar-bitcoin-1002457'>Utilizan excrementos de animales para minar Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizan-excrementos-animales-minar-bitcoin-1002457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/minar-bitcoin-2598767.jpg' alt='Utilizan excrementos de animales para minar Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289'>La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h</a></h4>
     <a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bugatti-chiron-super-sport-corriendo-nurburgring-2573925.jpg' alt='La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455'>La última actualización de Google Maps hace que pierda una importante funcionalidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Google Maps hace que pierda una importante funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099'>¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dudando-movil-mano-2561331.jpg' alt='¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-emails-adjuntos-25-mb-gmail-970223'>Cómo mandar emails adjuntos de más de 25 MB en Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-emails-adjuntos-25-mb-gmail-970223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Cómo mandar emails adjuntos de más de 25 MB en Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793'>10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022' />
     </a>
 </div>
 
