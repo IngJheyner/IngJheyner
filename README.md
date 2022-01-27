@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475'>Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciclocomputador-sigma-2598801.jpg' alt='Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473'>Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-true-wireless-altavoces-portatiles-deportistas-2598787.jpg' alt='Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293'>(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desencanto-temporada-4-2591009.jpg' alt='(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizan-excrementos-animales-minar-bitcoin-1002457'>Utilizan excrementos de animales para minar Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizan-excrementos-animales-minar-bitcoin-1002457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/minar-bitcoin-2598767.jpg' alt='Utilizan excrementos de animales para minar Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289'>La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/velocidad-autobahn-preocupa-gobierno-aleman-ver-como-alcanzan-414-km-h-1002289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bugatti-chiron-super-sport-corriendo-nurburgring-2573925.jpg' alt='La velocidad en la Autobahn preocupa al Gobierno alemán tras ver cómo alcanzan los 414 Km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455'>La última actualización de Google Maps hace que pierda una importante funcionalidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-google-maps-hace-pierda-importante-funcionalidad-1002455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Google Maps hace que pierda una importante funcionalidad' />
     </a>
 </div>
 
