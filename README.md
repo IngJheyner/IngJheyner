@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101'>Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913'>¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-no-tiene-sentido-inventor-playstation-1001673'>El metaverso no tiene sentido para el inventor de PlayStation</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-no-tiene-sentido-inventor-playstation-1001673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El metaverso no tiene sentido para el inventor de PlayStation' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-pago-contactless-iphone-1002087'>La funcionalidad que más se echa en falta con el iPhone en las tiendas llegará en los próximos meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-pago-contactless-iphone-1002087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='La funcionalidad que más se echa en falta con el iPhone en las tiendas llegará en los próximos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663'>Estos fueron los 10 coches más vendidos en España en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/seat-arona-2591171.jpg' alt='Estos fueron los 10 coches más vendidos en España en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077'>42 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/42-noticias-tecnologia-comenzar-manana-informado-ultimo-2597825.jpg' alt='42 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625'>Estos son los mejores relojes para trail running</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-corriendo-montana-2597237.jpg' alt='Estos son los mejores relojes para trail running' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075'>Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plogging-tan-moda-suecia-estados-unidos-como-practicarlo-2597823.jpg' alt='Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869'>Los ladrillos para salvar a las abejas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladrillos-proteger-abejas-2597625.jpg' alt='Los ladrillos para salvar a las abejas' />
     </a>
 </div>
 
