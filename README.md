@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075'>Qué es el plogging, que está tan de moda en Suecia y Estados Unidos, y cómo practicarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plogging-tan-moda-suecia-estados-unidos-como-practicarlo-2597823.jpg' alt='Qué es el plogging, que está tan de moda en Suecia y Estados Unidos, y cómo practicarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869'>Los ladrillos para salvar a las abejas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladrillos-proteger-abejas-2597625.jpg' alt='Los ladrillos para salvar a las abejas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837'>Android e iOS tendrán competencia y llegará de la mano de la India</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Android e iOS tendrán competencia y llegará de la mano de la India' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853'>El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/apple-watch-series-6-2258193.jpg' alt='El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!' />
     </a>
 </div>
 
