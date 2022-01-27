@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273'>Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vivo-y75-5g-2598345.jpg' alt='Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171'>Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-s7-fe-2585175.jpg' alt='Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-confirma-miui-13-muy-cerca-estos-son-telefonos-actualizaran-1002275'>Xiaomi confirma que MIUI 13 está muy cerca: estos son los teléfonos que se actualizarán</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-confirma-miui-13-muy-cerca-estos-son-telefonos-actualizaran-1002275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-2575265.jpg' alt='Xiaomi confirma que MIUI 13 está muy cerca: estos son los teléfonos que se actualizarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229'>SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-promete-febrero-lleno-cine-ultima-pelicula-m-night-shyamalan-nominadas-goya-1002245'>Movistar+ promete un febrero lleno de cine con la última película de M. Night Shyamalan y las nominadas a los Goya</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-promete-febrero-lleno-cine-ultima-pelicula-m-night-shyamalan-nominadas-goya-1002245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/maixabel-2596277.jpg' alt='Movistar+ promete un febrero lleno de cine con la última película de M. Night Shyamalan y las nominadas a los Goya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339'>Guía de WhatsApp Web con todos los trucos y consejos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg' alt='Guía de WhatsApp Web con todos los trucos y consejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-rebaja-xiaomi-mi-tv-q1-75-pulgadas-1002141'>Xiaomi rebaja su enorme Smart TV con panel QLED y Android TV: es 300 euros más barata y con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-rebaja-xiaomi-mi-tv-q1-75-pulgadas-1002141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543083.jpg' alt='Xiaomi rebaja su enorme Smart TV con panel QLED y Android TV: es 300 euros más barata y con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-5g-llegara-mercado-febrero-todo-sabemos-1002231'>OnePlus Nord 2 CE 5G llegará al mercado en febrero y esto es todo lo que sabemos de él</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-ce-5g-llegara-mercado-febrero-todo-sabemos-1002231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/onepls-nord-2-ce-5g-2598257.jpg' alt='OnePlus Nord 2 CE 5G llegará al mercado en febrero y esto es todo lo que sabemos de él' />
     </a>
 </div>
 
