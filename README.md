@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-chromebook-trabajar-estudiar-proximo-modelo-google-sera-jugar-1002319'>Adiós a los Chromebook para trabajar y estudiar: el próximo modelo de Google será para jugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-chromebook-trabajar-estudiar-proximo-modelo-google-sera-jugar-1002319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromebook-2369045.jpg' alt='Adiós a los Chromebook para trabajar y estudiar: el próximo modelo de Google será para jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273'>Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vivo-y75-5g-2598345.jpg' alt='Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229'>SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spacex-perdio-control-cohete-hace-7-anos-chocara-luna-1002229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='SpaceX perdió el control de un cohete hace 7 años y chocará contra la Luna' />
     </a>
 </div>
 
