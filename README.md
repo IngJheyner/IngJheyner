@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105'>Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131'>En HBO Max ven positivo que Netflix suba los precios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='En HBO Max ven positivo que Netflix suba los precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813'>¿Subirá DAZN su precio en España cuando emita la Liga? Todo apunta que sí</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/dazn.jpg' alt='¿Subirá DAZN su precio en España cuando emita la Liga? Todo apunta que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101'>Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023</a></h4>
     <a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913'>¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-no-tiene-sentido-inventor-playstation-1001673'>El metaverso no tiene sentido para el inventor de PlayStation</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-no-tiene-sentido-inventor-playstation-1001673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El metaverso no tiene sentido para el inventor de PlayStation' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-pago-contactless-iphone-1002087'>La funcionalidad que más se echa en falta con el iPhone en las tiendas llegará en los próximos meses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-pago-contactless-iphone-1002087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg' alt='La funcionalidad que más se echa en falta con el iPhone en las tiendas llegará en los próximos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663'>Estos fueron los 10 coches más vendidos en España en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-fueron-10-coches-vendidos-espana-2021-1001663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/seat-arona-2591171.jpg' alt='Estos fueron los 10 coches más vendidos en España en 2021' />
     </a>
 </div>
 
