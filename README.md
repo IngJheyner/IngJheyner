@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reloj-retro-veras-hoy-casio-vuelta-anos-70-1002395'>Este es el reloj más retro que verás hoy y es de Casio, vuelta a los años 70</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reloj-retro-veras-hoy-casio-vuelta-anos-70-1002395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reloj-casio-2598571.jpg' alt='Este es el reloj más retro que verás hoy y es de Casio, vuelta a los años 70' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-gran-bateria-hemos-probado-oferta-209-euros-1002185'>Huawei Watch GT 3, un smartwatch con gran batería que hemos probado, está en oferta por 209 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-gran-bateria-hemos-probado-oferta-209-euros-1002185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='Huawei Watch GT 3, un smartwatch con gran batería que hemos probado, está en oferta por 209 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273'>Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-y75-5g-llega-como-modelo-gama-media-luchara-nuevos-redmi-1002273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vivo-y75-5g-2598345.jpg' alt='Vivo Y75 5G llega como modelo gama media y luchará contra los nuevos Redmi ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171'>Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-s7-fe-2585175.jpg' alt='Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla' />
     </a>
 </div>
 
