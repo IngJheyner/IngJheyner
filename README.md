@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189'>Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/varios-teslas-cargandose-supercharger-2413547.jpg' alt='Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-puede-operar-necesidad-ayuda-humana-1002153'>Este robot cirujano puede operar sin necesidad de ayuda humana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-puede-operar-necesidad-ayuda-humana-1002153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-cirujano-2598031.jpg' alt='Este robot cirujano puede operar sin necesidad de ayuda humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765'>Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lampara-led-pantalla-lymax-l1-2597563.jpg' alt='Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105'>Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131'>En HBO Max ven positivo que Netflix suba los precios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='En HBO Max ven positivo que Netflix suba los precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813'>¿Subirá DAZN su precio en España cuando emita la Liga? Todo apunta que sí</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-dazn-subir-precio-suscripcion-futbol-1000813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/dazn.jpg' alt='¿Subirá DAZN su precio en España cuando emita la Liga? Todo apunta que sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101'>Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-tesla-cybertruck-retrasa-2023-1002101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='Elon Musk ha confirmado que la Tesla Cybertruck se retrasa como mínimo a 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913'>¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-comprar-xiaomi-redmi-note-9-2022-1000913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='¿Merece la pena comprar el Xiaomi Redmi Note 9 en 2022?' />
     </a>
 </div>
 
