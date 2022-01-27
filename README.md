@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075'>Qué es el plogging, que está tan de moda en Suecia y Estados Unidos, y cómo practicarlo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075'>Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plogging-tan-moda-suecia-estados-unidos-como-practicarlo-2597823.jpg' alt='Qué es el plogging, que está tan de moda en Suecia y Estados Unidos, y cómo practicarlo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plogging-tan-moda-suecia-estados-unidos-como-practicarlo-2597823.jpg' alt='Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo' />
     </a>
 </div>
 
