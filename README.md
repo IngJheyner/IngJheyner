@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077'>42 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1002077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/42-noticias-tecnologia-comenzar-manana-informado-ultimo-2597825.jpg' alt='42 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625'>Estos son los mejores relojes para trail running</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-corriendo-montana-2597237.jpg' alt='Estos son los mejores relojes para trail running' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075'>Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/que-es-plogging-1002075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plogging-tan-moda-suecia-estados-unidos-como-practicarlo-2597823.jpg' alt='Qué es el plogging, que está arrasando en Suecia y Estados Unidos, y cómo practicarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839'>Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-fecha-lanzamiento-25-febrero-1001861'>Valve revela la fecha de lanzamiento de su consola Steam Deck, así puedes conseguirla</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/steam-deck-fecha-lanzamiento-25-febrero-1001861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/valve-revela-fecha-lanzamiento-consola-steam-deck-puedes-conseguirla-2597615.jpg' alt='Valve revela la fecha de lanzamiento de su consola Steam Deck, así puedes conseguirla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837'>Android e iOS tendrán competencia y llegará de la mano de la India</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-ios-tendran-competencia-llegara-mano-india-1001837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Android e iOS tendrán competencia y llegará de la mano de la India' />
     </a>
 </div>
 
