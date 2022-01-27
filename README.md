@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869'>Los ladrillos para salvar a las abejas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ladrillos-para-salvar-abejas-1001869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ladrillos-proteger-abejas-2597625.jpg' alt='Los ladrillos para salvar a las abejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839'>Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-android-otras-mejoras-llegan-windows-11-nueva-actualizacion-1001839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Aplicaciones Android y otras mejoras que llegan a Windows 11 en su nueva actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853'>El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-6-conexion-4g-lte-oferta-1001853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/apple-watch-series-6-2258193.jpg' alt='El reloj Apple Watch Series 6 con conexión 4G LTE tiene un descuento de 135 euros... ¡el 4G te sale gratis!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659'>La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/segunda-temporada-raised-wolves-temporada-llega-hbo-max-proxima-semana-1001659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='La segunda temporada de Raised by Wolves temporada llega HBO Max la próxima semana' />
     </a>
 </div>
 
