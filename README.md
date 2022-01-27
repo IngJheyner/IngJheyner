@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-desarrollan-inyeccion-elimina-obesidad-dentro-1002209'>Por primera vez desarrollan una inyección que elimina la obesidad desde dentro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-desarrollan-inyeccion-elimina-obesidad-dentro-1002209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/obesidad-2598123.jpg' alt='Por primera vez desarrollan una inyección que elimina la obesidad desde dentro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegan-nuevas-formas-monetizar-podcast-spotify-publicidad-lugares-inesperados-1002221'>Llegan las nuevas formas de monetizar tu podcast en Spotify con publicidad en los lugares más inesperados</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/llegan-nuevas-formas-monetizar-podcast-spotify-publicidad-lugares-inesperados-1002221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/podcast-2560707.jpg' alt='Llegan las nuevas formas de monetizar tu podcast en Spotify con publicidad en los lugares más inesperados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189'>Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/elon-musk-confirma-coste-reemplazar-baterias-coche-tesla-no-no-son-baratas-1002189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/varios-teslas-cargandose-supercharger-2413547.jpg' alt='Elon Musk confirma el coste de reemplazar las baterías de un coche Tesla y, no, no son baratas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765'>Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/lampara-led-escritorio-ha-sido-mi-mejor-compra-mes-1001765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lampara-led-pantalla-lymax-l1-2597563.jpg' alt='Por qué esta lámpara LED de escritorio ha sido mi mejor compra del mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105'>Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/despues-twitter-youtube-reddit-quien-apuesta-nft-como-usaran-red-social-1002105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Después de Twitter y YouTube es Reddit quien apuesta por los NFT: así es como se usarán en la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131'>En HBO Max ven positivo que Netflix suba los precios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-positivo-netflix-precios-1002131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='En HBO Max ven positivo que Netflix suba los precios' />
     </a>
 </div>
 
