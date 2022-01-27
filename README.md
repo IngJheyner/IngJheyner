@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-gran-bateria-hemos-probado-oferta-209-euros-1002185'>Huawei Watch GT 3, un smartwatch con gran batería que hemos probado, está en oferta por 209 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-smartwatch-gran-bateria-hemos-probado-oferta-209-euros-1002185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='Huawei Watch GT 3, un smartwatch con gran batería que hemos probado, está en oferta por 209 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/play-store-comienza-probar-descarga-juegos-windows-1002375'>Play Store comienza a probar la descarga de juegos para Windows </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/play-store-comienza-probar-descarga-juegos-windows-1002375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-google-play-store-2516857.jpg' alt='Play Store comienza a probar la descarga de juegos para Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-chromebook-trabajar-estudiar-proximo-modelo-google-sera-jugar-1002319'>Adiós a los Chromebook para trabajar y estudiar: el próximo modelo de Google será para jugar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adios-chromebook-trabajar-estudiar-proximo-modelo-google-sera-jugar-1002319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromebook-2369045.jpg' alt='Adiós a los Chromebook para trabajar y estudiar: el próximo modelo de Google será para jugar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171'>Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-175-euros-tablet-samsung-galaxy-tab-s7-fe-gracias-combinacion-descuento-cupon-puedes-conseguirla-1002171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-s7-fe-2585175.jpg' alt='Amazon ha rebajado 175 euros la tablet Samsung Galaxy Tab S7 FE gracias a la combinación de descuento y cupón: así puedes conseguirla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-confirma-miui-13-muy-cerca-estos-son-telefonos-actualizaran-1002275'>Xiaomi confirma que MIUI 13 está muy cerca: estos son los teléfonos que se actualizarán</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-confirma-miui-13-muy-cerca-estos-son-telefonos-actualizaran-1002275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tienes-movil-xiaomi-te-interesa-desveladas-fechas-actualizacion-miui-13-2575265.jpg' alt='Xiaomi confirma que MIUI 13 está muy cerca: estos son los teléfonos que se actualizarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
     </a>
 </div>
 
