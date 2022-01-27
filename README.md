@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099'>¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-ver-contrasenas-wifi-tiene-guardado-movil-android-981099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dudando-movil-mano-2561331.jpg' alt='¿Cómo podemos ver las contraseñas WiFi que tiene guardado nuestro móvil Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-emails-adjuntos-25-mb-gmail-970223'>Cómo mandar emails adjuntos de más de 25 MB en Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-emails-adjuntos-25-mb-gmail-970223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Cómo mandar emails adjuntos de más de 25 MB en Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793'>10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-nuevos-productos-xiaomi-son-baratos-van-arrasar-2022-1001793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='10 nuevos productos de Xiaomi que son baratos y van a arrasar en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejo-definitivo-afrontar-teletrabajo-primera-vez-1001033'>El consejo definitivo para afrontar el teletrabajo si es tu primera vez</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejo-definitivo-afrontar-teletrabajo-primera-vez-1001033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/plantas-teletrabajo-2584829.jpg' alt='El consejo definitivo para afrontar el teletrabajo si es tu primera vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-disparos-android-2022-tienes-descargar-ya-mismo-936131'>Los 9 mejores juegos de disparos para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/9-mejores-juegos-disparos-android-2022-tienes-descargar-ya-mismo-936131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/call-duty-mobile-2560283.jpg' alt='Los 9 mejores juegos de disparos para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-futuro-robots-no-coches-1002401'>Elon Musk lo tiene claro, el futuro está en los robots y no en los coches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-futuro-robots-no-coches-1002401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk lo tiene claro, el futuro está en los robots y no en los coches' />
     </a>
 </div>
 
