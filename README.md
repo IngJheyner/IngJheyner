@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semana-cocina-pequeno-electrodomestico-lidl-1002941'>Las mejores ofertas de la semana de la cocina y el pequeño electrodoméstico de Lidl</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semana-cocina-pequeno-electrodomestico-lidl-1002941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas de la semana de la cocina y el pequeño electrodoméstico de Lidl' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001'>Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/timo-2599733.jpg' alt='Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dura-realidad-nft-ha-descubierto-ubisoft-gamers-no-entienden-1002905'>La dura realidad sobre los NFT que ha descubierto Ubisoft: los gamers no los entienden</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dura-realidad-nft-ha-descubierto-ubisoft-gamers-no-entienden-1002905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ubisoft-quartz-2599457.jpg' alt='La dura realidad sobre los NFT que ha descubierto Ubisoft: los gamers no los entienden' />
+    <h4><a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997'>Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg' alt='Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-mando-distancia-2599171.jpg' alt='Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
+    <h4><a href='https://computerhoy.com/noticias/microsoft-consigue-parar-mayor-ataque-ddos-historia-internet-1002955'>Microsoft consigue parar el mayor ataque DDoS de la historia de internet</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-consigue-parar-mayor-ataque-ddos-historia-internet-1002955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/mapa-ataques-ransomware-2383271.jpg' alt='Microsoft consigue parar el mayor ataque DDoS de la historia de internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-iva-el-corte-ingles-1002815'>Mejores ofertas de los "Días sin IVA" de El Corte Inglés</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-iva-el-corte-ingles-1002815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dias-iva-corte-ingles-2599369.jpg' alt='Mejores ofertas de los "Días sin IVA" de El Corte Inglés' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809'>Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/disco-duro-externo-western-digital-2599205.jpg' alt='Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841'>Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/router-1841379.jpg' alt='Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-empresa-spacex-no-conforman-planea-lanzar-52-misiones-2022-1002969'>Elon Musk y su empresa SpaceX no se conforman y planea lanzar 52 misiones en este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-empresa-spacex-no-conforman-planea-lanzar-52-misiones-2022-1002969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/starship-space-x-boca-chica.jpg' alt='Elon Musk y su empresa SpaceX no se conforman y planea lanzar 52 misiones en este 2022' />
     </a>
 </div>
 
