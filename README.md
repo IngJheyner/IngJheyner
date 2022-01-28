@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717'>Labrador Retriever, la encimera autónoma que ayuda en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/labrador-retriever-robot-mayordomo-ayuda-casa-2599051.jpg' alt='Labrador Retriever, la encimera autónoma que ayuda en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715'>6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/8-cosas-puedes-limpiar-vodka-dejarlo-limpio-nunca-2599047.jpg' alt='6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475'>Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciclocomputador-sigma-2598801.jpg' alt='Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473'>Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-true-wireless-altavoces-portatiles-deportistas-2598787.jpg' alt='Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips' />
     </a>
 </div>
 
