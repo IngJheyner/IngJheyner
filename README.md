@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737'>Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/facebook-messenger-1880627.jpg' alt='Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-ikea-smart-home-1002411'>Productos que tienes que comprar en IKEA para montar una Smart Home</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-ikea-smart-home-1002411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Productos que tienes que comprar en IKEA para montar una Smart Home' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725'>Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max.jpg' alt='Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301'>Qué debes hacer cuando pisas una placa de hielo con el coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/debes-hacer-coche-pisa-placa-hielo-2592231.jpg' alt='Qué debes hacer cuando pisas una placa de hielo con el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2599053.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
     </a>
 </div>
 
