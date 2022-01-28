@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933'>6 videojuegos de motor muy esperados este año</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/porsche-917k-gulf-1969-gran-turismo-7-2592367.jpg' alt='6 videojuegos de motor muy esperados este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/enganos-supermercados-llenemos-carro-compra-1003101'>Los “engaños” de los supermercados para que llenemos más el carro de la compra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/enganos-supermercados-llenemos-carro-compra-1003101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carro-compra-2600055.jpg' alt='Los “engaños” de los supermercados para que llenemos más el carro de la compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097'>El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600051.jpg' alt='El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059'>Así es como Apple quiere evitar que nadie más utilice tus AirPods</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Así es como Apple quiere evitar que nadie más utilice tus AirPods' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845'>Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-smart-plug-2595513.jpg' alt='Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015'>Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2599783.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-filmin-pluto-tv-todas-genero-fantastico-1002903'>Qué películas ver este fin de semana en Prime Video, Filmin y Pluto TV: todas de género fantástico</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-filmin-pluto-tv-todas-genero-fantastico-1002903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peliculas-recomendadas-2599471.jpg' alt='Qué películas ver este fin de semana en Prime Video, Filmin y Pluto TV: todas de género fantástico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777'>El nuevo juego de Pokémon causa sensación y ya está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/leyendas-pokemon-arceus-2596707.jpg' alt='El nuevo juego de Pokémon causa sensación y ya está en oferta' />
     </a>
 </div>
 
