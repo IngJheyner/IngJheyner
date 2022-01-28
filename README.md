@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semana-cocina-pequeno-electrodomestico-lidl-1002941'>Las mejores ofertas de la semana de la cocina y el pequeño electrodoméstico de Lidl</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semana-cocina-pequeno-electrodomestico-lidl-1002941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas de la semana de la cocina y el pequeño electrodoméstico de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dura-realidad-nft-ha-descubierto-ubisoft-gamers-no-entienden-1002905'>La dura realidad sobre los NFT que ha descubierto Ubisoft: los gamers no los entienden</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dura-realidad-nft-ha-descubierto-ubisoft-gamers-no-entienden-1002905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ubisoft-quartz-2599457.jpg' alt='La dura realidad sobre los NFT que ha descubierto Ubisoft: los gamers no los entienden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-mando-distancia-2599171.jpg' alt='Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841'>Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/router-1841379.jpg' alt='Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-estrenado-netflix-serie-espanola-puede-triunfar-como-dark-1002843'>Se ha estrenado en Netflix la serie española que puede triunfar como Dark</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-estrenado-netflix-serie-espanola-puede-triunfar-como-dark-1002843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/feria-2515531.jpeg' alt='Se ha estrenado en Netflix la serie española que puede triunfar como Dark' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819'>Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2599215.jpg' alt='Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos' />
     </a>
 </div>
 
