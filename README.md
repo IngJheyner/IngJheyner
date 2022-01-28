@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059'>Así es como Apple quiere evitar que nadie más utilice tus AirPods</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Así es como Apple quiere evitar que nadie más utilice tus AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845'>Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-smart-plug-2595513.jpg' alt='Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015'>Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2599783.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777'>El nuevo juego de Pokémon causa sensación y ya está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/leyendas-pokemon-arceus-2596707.jpg' alt='El nuevo juego de Pokémon causa sensación y ya está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001'>Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/timo-2599733.jpg' alt='Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997'>Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg' alt='Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte' />
     </a>
 </div>
 
