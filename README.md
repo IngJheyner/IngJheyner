@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105'>Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/te-perdiste-oferta-lanzamiento-hbo-max-ahora-tienes-segunda-oportunidad-menos-6-euros-mes-2600059.jpg' alt='Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079'>WhatsApp quiere simplificar la forma de enviar imágenes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2576855.jpg' alt='WhatsApp quiere simplificar la forma de enviar imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933'>6 videojuegos de motor muy esperados este año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/porsche-917k-gulf-1969-gran-turismo-7-2592367.jpg' alt='6 videojuegos de motor muy esperados este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097'>El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600051.jpg' alt='El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059'>Así es como Apple quiere evitar que nadie más utilice tus AirPods</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-quiere-evitar-nadie-utilice-airpods-1003059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg' alt='Así es como Apple quiere evitar que nadie más utilice tus AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845'>Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-smart-plug-caracteristicas-precio-donde-comprarlo-1000845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-smart-plug-2595513.jpg' alt='Xiaomi Mi Smart Plug: características, precio y dónde comprarlo en España' />
     </a>
 </div>
 
