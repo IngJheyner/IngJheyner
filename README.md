@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819'>Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2599215.jpg' alt='Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/control-universal-apple-ya-realidad-entra-fase-beta-1002797'>El Control Universal de Apple ya es una realidad: entra en fase beta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/control-universal-apple-ya-realidad-entra-fase-beta-1002797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-utilizando-portatil-macbook-pro-16-pulgadas-2567915.jpg' alt='El Control Universal de Apple ya es una realidad: entra en fase beta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-autentica-ganga-baja-499-euros-equipa-tambien-ssd-512gb-1002155'>Este portátil con Ryzen 7 es una auténtica ganga: baja a 499 euros y equipa también SSD de 512GB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-autentica-ganga-baja-499-euros-equipa-tambien-ssd-512gb-1002155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-d515da-br777-2597975.jpg' alt='Este portátil con Ryzen 7 es una auténtica ganga: baja a 499 euros y equipa también SSD de 512GB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761'>Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2599093.jpg' alt='Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735'>Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoja-2599077.jpg' alt='Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737'>Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/facebook-messenger-1880627.jpg' alt='Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-ikea-smart-home-1002411'>Productos que tienes que comprar en IKEA para montar una Smart Home</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-ikea-smart-home-1002411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Productos que tienes que comprar en IKEA para montar una Smart Home' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725'>Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max.jpg' alt='Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta' />
     </a>
 </div>
 
