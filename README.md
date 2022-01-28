@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715'>6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/8-cosas-puedes-limpiar-vodka-dejarlo-limpio-nunca-2599047.jpg' alt='6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499'>Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia</a></h4>
     <a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ha-puesto-moda-compra-ahora-paga-despues-ya-usan-amazon-paypal-bancos-como-santarder-zinia-2598863.jpg' alt='Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473'>Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-true-wireless-altavoces-portatiles-deportistas-son-nuevos-dispositivos-philips-1002473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-true-wireless-altavoces-portatiles-deportistas-2598787.jpg' alt='Auriculares True Wireless y altavoces portátiles para deportistas: así son los nuevos dispositivos de Philips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293'>(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/desencanto-vuelve-netflix-9-febrero-nueva-temporada-1002293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/desencanto-temporada-4-2591009.jpg' alt='(Des)encanto vuelve a Netflix el 9 de febrero con su nueva temporada' />
     </a>
 </div>
 
