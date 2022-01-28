@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2599053.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717'>Labrador Retriever, la encimera autónoma que ayuda en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/labrador-retriever-robot-mayordomo-ayuda-casa-2599051.jpg' alt='Labrador Retriever, la encimera autónoma que ayuda en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499'>Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia</a></h4>
     <a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ha-puesto-moda-compra-ahora-paga-despues-ya-usan-amazon-paypal-bancos-como-santarder-zinia-2598863.jpg' alt='Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-cpu-intel-core-12a-generacion-mas-rapidas-apple-m1-pro-m1-max-1002489'>Las nuevas CPU Intel Core de 12ª Generación para portátiles son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-cpu-intel-core-12a-generacion-mas-rapidas-apple-m1-pro-m1-max-1002489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevas-cpu-intel-core-12a-generacion-son-rapidas-apple-m1-pro-m2-max-pero-handicap-2598851.jpg' alt='Las nuevas CPU Intel Core de 12ª Generación para portátiles son más rápidas que los Apple M1 Pro y M1 Max, pero con un hándicap' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475'>Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciclocomputador-gps-sigma-bicicleta-oferta-1002475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciclocomputador-sigma-2598801.jpg' alt='Este ciclocomputador con GPS es lo que necesitas para sacar el máximo partido a tus rutas en bicicleta, y ha bajado a 52 euros' />
     </a>
 </div>
 
