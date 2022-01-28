@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777'>El nuevo juego de Pokémon causa sensación y ya está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/leyendas-pokemon-arceus-2596707.jpg' alt='El nuevo juego de Pokémon causa sensación y ya está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001'>Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timos-facebook-twitter-instagram-alcanzaron-record-historico-690-millones-euros-1003001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/timo-2599733.jpg' alt='Los timos en Facebook, Twitter e Instagram alcanzaron un récord histórico: 690 millones de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809'>Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/disco-duro-externo-western-digital-2599205.jpg' alt='Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-empresa-spacex-no-conforman-planea-lanzar-52-misiones-2022-1002969'>Elon Musk y su empresa SpaceX no se conforman y planea lanzar 52 misiones en este 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-empresa-spacex-no-conforman-planea-lanzar-52-misiones-2022-1002969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/starship-space-x-boca-chica.jpg' alt='Elon Musk y su empresa SpaceX no se conforman y planea lanzar 52 misiones en este 2022' />
     </a>
 </div>
 
