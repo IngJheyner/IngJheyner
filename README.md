@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091'>Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-ceo-tesla-2556841.jpg' alt='Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119'>La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/policia-nacional-desmantela-granja-criptomonedas-sevilla-ganaba-3500-euros-mes-pagar-luz-2600261.jpg' alt='La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089'>Google Chrome traería de vuelta una de sus mejores características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome traería de vuelta una de sus mejores características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939'>Curiosidades de la primera película de Scream que deberías conocer</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/scream-2117267.jpg' alt='Curiosidades de la primera película de Scream que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105'>Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/te-perdiste-oferta-lanzamiento-hbo-max-ahora-tienes-segunda-oportunidad-menos-6-euros-mes-2600059.jpg' alt='Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079'>WhatsApp quiere simplificar la forma de enviar imágenes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2576855.jpg' alt='WhatsApp quiere simplificar la forma de enviar imágenes' />
     </a>
 </div>
 
