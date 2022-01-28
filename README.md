@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-mando-distancia-2599171.jpg' alt='Programación TV: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-iva-el-corte-ingles-1002815'>Mejores ofertas de los "Días sin IVA" de El Corte Inglés</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-iva-el-corte-ingles-1002815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dias-iva-corte-ingles-2599369.jpg' alt='Mejores ofertas de los "Días sin IVA" de El Corte Inglés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841'>Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-utilizar-dos-router-misma-red-wifi-ventajas-tiene-1002841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/router-1841379.jpg' alt='Cómo utilizar dos router en una misma red WiFi y qué ventajas tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-estrenado-netflix-serie-espanola-puede-triunfar-como-dark-1002843'>Se ha estrenado en Netflix la serie española que puede triunfar como Dark</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-estrenado-netflix-serie-espanola-puede-triunfar-como-dark-1002843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/feria-2515531.jpeg' alt='Se ha estrenado en Netflix la serie española que puede triunfar como Dark' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819'>Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-108-tipos-formato-fisico-raros-guardar-archivos-seguro-no-conoces-todos-1002819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2599215.jpg' alt='Estos son los 108 tipos de formato físico más raros para guardar archivos, seguro que no los conoces todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/control-universal-apple-ya-realidad-entra-fase-beta-1002797'>El Control Universal de Apple ya es una realidad: entra en fase beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/control-universal-apple-ya-realidad-entra-fase-beta-1002797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-utilizando-portatil-macbook-pro-16-pulgadas-2567915.jpg' alt='El Control Universal de Apple ya es una realidad: entra en fase beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-autentica-ganga-baja-499-euros-equipa-tambien-ssd-512gb-1002155'>Este portátil con Ryzen 7 es una auténtica ganga: baja a 499 euros y equipa también SSD de 512GB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ryzen-7-autentica-ganga-baja-499-euros-equipa-tambien-ssd-512gb-1002155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-d515da-br777-2597975.jpg' alt='Este portátil con Ryzen 7 es una auténtica ganga: baja a 499 euros y equipa también SSD de 512GB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761'>Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2599093.jpg' alt='Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735'>Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoja-2599077.jpg' alt='Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global' />
     </a>
 </div>
 
