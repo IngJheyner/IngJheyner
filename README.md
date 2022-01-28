@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015'>Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-prime-video-vecina-partida-rol-fundacion-1003015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/series-fin-semana-2599783.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV y Prime Video: Una vecina, una partida de rol y una Fundación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-filmin-pluto-tv-todas-genero-fantastico-1002903'>Qué películas ver este fin de semana en Prime Video, Filmin y Pluto TV: todas de género fantástico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-filmin-pluto-tv-todas-genero-fantastico-1002903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/peliculas-recomendadas-2599471.jpg' alt='Qué películas ver este fin de semana en Prime Video, Filmin y Pluto TV: todas de género fantástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777'>El nuevo juego de Pokémon causa sensación y ya está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-pokemon-causa-sensacion-ya-oferta-1002777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/leyendas-pokemon-arceus-2596707.jpg' alt='El nuevo juego de Pokémon causa sensación y ya está en oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997'>Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/dos-nuevos-estudios-unen-debate-existe-no-agua-liquida-marte-1002997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg' alt='Dos nuevos estudios se unen al debate de si existe o no agua líquida en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-consigue-parar-mayor-ataque-ddos-historia-internet-1002955'>Microsoft consigue parar el mayor ataque DDoS de la historia de internet</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-consigue-parar-mayor-ataque-ddos-historia-internet-1002955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/mapa-ataques-ransomware-2383271.jpg' alt='Microsoft consigue parar el mayor ataque DDoS de la historia de internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809'>Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-western-digital-12-tb-precio-liquidacion-amazon-90-euros-descuento-1002809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/disco-duro-externo-western-digital-2599205.jpg' alt='Este disco duro Western Digital de 12 TB está a precio de liquidación en Amazon con más de 90 euros de descuento' />
     </a>
 </div>
 
