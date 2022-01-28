@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725'>Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max.jpg' alt='Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alemania-presiona-google-apple-saquen-telegram-tiendas-aplicaciones-1002305'>Alemania presiona a Google y Apple para que saquen a Telegram de sus tiendas de aplicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alemania-presiona-google-apple-saquen-telegram-tiendas-aplicaciones-1002305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/telegram-2421579.jpg' alt='Alemania presiona a Google y Apple para que saquen a Telegram de sus tiendas de aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301'>Qué debes hacer cuando pisas una placa de hielo con el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/debes-hacer-coche-pisa-placa-hielo-2592231.jpg' alt='Qué debes hacer cuando pisas una placa de hielo con el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1002719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2599053.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717'>Labrador Retriever, la encimera autónoma que ayuda en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/labrador-retriever-encimera-autonoma-ayuda-casa-1002717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/labrador-retriever-robot-mayordomo-ayuda-casa-2599051.jpg' alt='Labrador Retriever, la encimera autónoma que ayuda en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715'>6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-cosas-limpiar-con-vodka-1002715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/8-cosas-puedes-limpiar-vodka-dejarlo-limpio-nunca-2599047.jpg' alt='6 cosas que puedes limpiar con vodka, y dejarlas más limpias que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499'>Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/compra-ahora-paga-despues-amazon-paypal-zinia-compra-plazos-sin-intereses-1002499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ha-puesto-moda-compra-ahora-paga-despues-ya-usan-amazon-paypal-bancos-como-santarder-zinia-2598863.jpg' alt='Por qué se ha puesto de moda el "Compra ahora, paga después" que ya usan Amazon, PayPal, y bancos como el Santarder con Zinia' />
     </a>
 </div>
 
