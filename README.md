@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761'>Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modelo-720-hacienda-criptomonedas-1002761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2599093.jpg' alt='Qué es el modelo 720 de Hacienda que han anulado y por qué aplauden los inversores de criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735'>Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-capturan-100-veces-co2-podrian-ser-clave-calentamiento-global-1002735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoja-2599077.jpg' alt='Hojas artificiales que capturan 100 veces más CO2 y podrían ser clave contra el calentamiento global' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737'>Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-messenger-seguridad-demandadas-1002737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/facebook-messenger-1880627.jpg' alt='Facebook Messenger recibe algunas de las mejoras de seguridad más demandadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725'>Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/face-id-desbloqueara-iphone-mascarilla-1002725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max.jpg' alt='Face ID se actualiza y por fin desbloqueará el iPhone con la mascarilla puesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alemania-presiona-google-apple-saquen-telegram-tiendas-aplicaciones-1002305'>Alemania presiona a Google y Apple para que saquen a Telegram de sus tiendas de aplicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alemania-presiona-google-apple-saquen-telegram-tiendas-aplicaciones-1002305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/telegram-2421579.jpg' alt='Alemania presiona a Google y Apple para que saquen a Telegram de sus tiendas de aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301'>Qué debes hacer cuando pisas una placa de hielo con el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/debes-hacer-cuando-pisas-placa-hielo-coche-1002301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/debes-hacer-coche-pisa-placa-hielo-2592231.jpg' alt='Qué debes hacer cuando pisas una placa de hielo con el coche' />
     </a>
 </div>
 
