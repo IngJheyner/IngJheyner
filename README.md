@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089'>Google Chrome traería de vuelta una de sus mejores características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome traería de vuelta una de sus mejores características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111'>Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-nothing-ear-1-2421549.jpg' alt='Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939'>Curiosidades de la primera película de Scream que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/scream-2117267.jpg' alt='Curiosidades de la primera película de Scream que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105'>Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/oferta-hbo-max-descuento-menos-6-euros-mes-1003105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/te-perdiste-oferta-lanzamiento-hbo-max-ahora-tienes-segunda-oportunidad-menos-6-euros-mes-2600059.jpg' alt='Si te perdiste la oferta de lanzamiento de HBO Max, ahora tienes una segunda oportunidad: menos de 6 euros al mes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079'>WhatsApp quiere simplificar la forma de enviar imágenes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-simplificar-forma-enviar-imagenes-1003079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2576855.jpg' alt='WhatsApp quiere simplificar la forma de enviar imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933'>6 videojuegos de motor muy esperados este año</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/6-videojuegos-motor-muy-esperados-ano-1002933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/porsche-917k-gulf-1969-gran-turismo-7-2592367.jpg' alt='6 videojuegos de motor muy esperados este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/enganos-supermercados-llenemos-carro-compra-1003101'>Los “engaños” de los supermercados para que llenemos más el carro de la compra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/enganos-supermercados-llenemos-carro-compra-1003101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carro-compra-2600055.jpg' alt='Los “engaños” de los supermercados para que llenemos más el carro de la compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097'>El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-pronostico-futuro-bitcoin-grandes-inversoras-wall-street-1003097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600051.jpg' alt='El sorprendente pronóstico sobre el futuro de Bitcoin de una de las grandes inversoras de Wall Street' />
     </a>
 </div>
 
