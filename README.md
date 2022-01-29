@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741'>COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-simulator-simulador-te-muestra-como-extenderia-covid-casa-trabajo-2599073.jpg' alt='COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/biblioteca-joanina-murcielagos-coimbra-1001469'>Esta universidad portuguesa utiliza murciélagos para proteger los libros de su antigua biblioteca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/biblioteca-joanina-murcielagos-coimbra-1001469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/universidad-portuguesa-utiliza-murcielagos-proteger-libros-antigua-biblioteca-2596597.jpg' alt='Esta universidad portuguesa utiliza murciélagos para proteger los libros de su antigua biblioteca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327'>Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primeras-casas-bioceramica-regeneran-duran-500-anos-2600449.jpg' alt='Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323'>Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/activa-modo-dios-alexa-todo-puedes-hacer-1001691'>Activa el modo Dios en tu Alexa y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/activa-modo-dios-alexa-todo-puedes-hacer-1001691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Activa el modo Dios en tu Alexa y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123'>Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-ssd-pcie-50-destinado-usuarios-alcanza-13000-mb-sg-2600263.jpg' alt='Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091'>Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-ceo-tesla-2556841.jpg' alt='Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119'>La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/policia-nacional-desmantela-granja-criptomonedas-sevilla-ganaba-3500-euros-mes-pagar-luz-2600261.jpg' alt='La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz ' />
     </a>
 </div>
 
