@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353'>WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-ipad-2600553.jpg' alt='WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sistemas-gasificar-crear-propia-agua-gas-casa-965671'>Sistemas para gasificar y crear tu propia agua con gas en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sistemas-gasificar-crear-propia-agua-gas-casa-965671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/agua-gas-2534811.jpg' alt='Sistemas para gasificar y crear tu propia agua con gas en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439'>Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capturas-pantalla-2521069.jpg' alt='Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741'>COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-simulator-simulador-te-muestra-como-extenderia-covid-casa-trabajo-2599073.jpg' alt='COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
     </a>
 </div>
 
