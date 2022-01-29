@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365'>Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357'>Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377'>Soundcore Liberty 3 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600499.jpg' alt='Soundcore Liberty 3 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353'>WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-ipad-2600553.jpg' alt='WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad' />
     </a>
 </div>
 
