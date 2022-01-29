@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439'>Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capturas-pantalla-2521069.jpg' alt='Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-p50-pro-review-opinion-1000373'>Huawei P50 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-p50-pro-review-opinion-1000373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Huawei P50 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/biblioteca-joanina-murcielagos-coimbra-1001469'>Esta universidad portuguesa utiliza murciélagos para proteger los libros de su antigua biblioteca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/biblioteca-joanina-murcielagos-coimbra-1001469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/universidad-portuguesa-utiliza-murcielagos-proteger-libros-antigua-biblioteca-2596597.jpg' alt='Esta universidad portuguesa utiliza murciélagos para proteger los libros de su antigua biblioteca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327'>Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primeras-casas-bioceramica-regeneran-duran-500-anos-2600449.jpg' alt='Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años' />
     </a>
 </div>
 
