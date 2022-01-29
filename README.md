@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419'>¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047'>Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422775.jpg' alt='Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387'>Qué es el modo fantasma de WhatsApp y cómo activarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Qué es el modo fantasma de WhatsApp y cómo activarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023'>Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381'>Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estamos-muertos-serie-netflix-2600595.jpg' alt='Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373'>La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento' />
     </a>
 </div>
 
