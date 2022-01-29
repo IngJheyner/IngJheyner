@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123'>Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-ssd-pcie-50-destinado-usuarios-alcanza-13000-mb-sg-2600263.jpg' alt='Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091'>Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bot-twitter-trae-cabeza-elon-musk-punto-haber-intentado-comprarlo-1003091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-ceo-tesla-2556841.jpg' alt='Este es el bot de Twitter que trae de cabeza a Elon Musk hasta el punto de haber intentado comprarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111'>Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-nothing-ear-1-2421549.jpg' alt='Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939'>Curiosidades de la primera película de Scream que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-primera-pelicula-scream-deberias-conocer-1002939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/scream-2117267.jpg' alt='Curiosidades de la primera película de Scream que deberías conocer' />
     </a>
 </div>
 
