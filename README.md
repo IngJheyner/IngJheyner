@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357'>Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973'>Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11s-2599717.jpg' alt='Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825'>Redmi Watch 2 Lite, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598843.jpg' alt='Redmi Watch 2 Lite, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377'>Soundcore Liberty 3 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600499.jpg' alt='Soundcore Liberty 3 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353'>WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-insinua-estan-trabajando-demandada-aplicacion-nativa-ipad-1003353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-ipad-2600553.jpg' alt='WhatsApp insinúa que están trabajando en la demandada aplicación nativa para iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sistemas-gasificar-crear-propia-agua-gas-casa-965671'>Sistemas para gasificar y crear tu propia agua con gas en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sistemas-gasificar-crear-propia-agua-gas-casa-965671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/agua-gas-2534811.jpg' alt='Sistemas para gasificar y crear tu propia agua con gas en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439'>Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/haz-mejores-capturas-pantalla-estas-5-aplicaciones-incluso-reconocen-texto-958439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capturas-pantalla-2521069.jpg' alt='Haz mejores capturas de pantalla con estas 5 aplicaciones que incluso reconocen texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-p50-pro-review-opinion-1000373'>Huawei P50 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-p50-pro-review-opinion-1000373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Huawei P50 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
     </a>
 </div>
 
