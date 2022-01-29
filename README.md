@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515'>Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halt-and-catch-fire-2595829.jpg' alt='Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023'>Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381'>Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estamos-muertos-serie-netflix-2600595.jpg' alt='Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365'>Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357'>Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-android-auto-2022-renovacion-interfaz-pantalla-dividida-todos-nuevas-opciones-1003357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Novedades de Android Auto para 2022: renovación de la interfaz, pantalla dividida para todos y nuevas opciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973'>Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11s-2599717.jpg' alt='Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos' />
     </a>
 </div>
 
