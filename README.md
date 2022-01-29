@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387'>Qué es el modo fantasma de WhatsApp y cómo activarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Qué es el modo fantasma de WhatsApp y cómo activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515'>Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halt-and-catch-fire-2595829.jpg' alt='Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373'>La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365'>Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar' />
     </a>
 </div>
 
