@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='7 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741'>COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/covid-simulator-simulador-coronavirus-steam-1002741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/covid-simulator-simulador-te-muestra-como-extenderia-covid-casa-trabajo-2599073.jpg' alt='COVID Simulator, el simulador que te muestra cómo se extendería el Covid en tu casa, o en tu trabajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327'>Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/primeras-casas-bioceramica-geoship--duran-500-anos-1003327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primeras-casas-bioceramica-regeneran-duran-500-anos-2600449.jpg' alt='Las primeras casas de biocerámica, que no contaminan, son baratas y duran 500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323'>Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento' />
     </a>
 </div>
 
