@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323'>Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/4-trucos-aparcar-parking-cuando-no-hay-sitio-psicologo-comportamiento-1003323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='Los 4 trucos definitivos para aparcar cuando no hay sitio, según un psicólogo del comportamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/activa-modo-dios-alexa-todo-puedes-hacer-1001691'>Activa el modo Dios en tu Alexa y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/activa-modo-dios-alexa-todo-puedes-hacer-1001691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Activa el modo Dios en tu Alexa y todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123'>Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-ssd-pcie-50-teamgroup-tforce-alcanza-13000-mb-sg-1003123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/primer-ssd-pcie-50-destinado-usuarios-alcanza-13000-mb-sg-2600263.jpg' alt='Este es el primer SSD PCIe 5.0 destinado a los usuarios, alcanza los 13.000 MB/sg' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119'>La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-desmantela-granja-criptomonedas-clandestina-sevilla-1003119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/policia-nacional-desmantela-granja-criptomonedas-sevilla-ganaba-3500-euros-mes-pagar-luz-2600261.jpg' alt='La Policía Nacional desmantela una granja de criptomonedas clandestina en Sevilla que ganaba 3.500 euros al mes sin pagar la luz ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089'>Google Chrome traería de vuelta una de sus mejores características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-traeria-vuelta-mejores-caracteristicas-1003089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome traería de vuelta una de sus mejores características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111'>Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-nothing-ear-1-cancelacion-ruido-activa-precio-minimo-historico-1003111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-nothing-ear-1-2421549.jpg' alt='Los impactantes auriculares Nothing ear (1) con cancelación de ruido activa bajan a su precio mínimo histórico, 74 euros' />
     </a>
 </div>
 
