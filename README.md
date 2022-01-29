@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381'>Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/razones-no-puedes-perderte-nueva-serie-surcoreana-zombis-ya-todo-fenomeno-netflix-1003381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estamos-muertos-serie-netflix-2600595.jpg' alt='Razones por las que no puedes perderte la nueva serie surcoreana de zombis y que ya es todo un fenómeno en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373'>La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973'>Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reserva-anticipada-xiaomi-redmi-note-11-note-11s-1002973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11s-2599717.jpg' alt='Ya puedes reservar los Redmi Note 11 y Note 11S en AliExpress con regalo para los más rápidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825'>Redmi Watch 2 Lite, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598843.jpg' alt='Redmi Watch 2 Lite, análisis y opinión' />
     </a>
 </div>
 
