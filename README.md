@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429'>El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roomba-981-2600667.jpg' alt='El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419'>¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515'>Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/filmin-grandes-series-1000515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halt-and-catch-fire-2595829.jpg' alt='Filmin no es solo para los más cinéfilos: 8 grandes series de la plataforma española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023'>Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-studio-oferta-descuento-1003023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Los auriculares con cancelación de ruido Huawei Freebuds Studio ahora a precio de liquidación: descuento de 150 euros y envío gratis' />
     </a>
 </div>
 
