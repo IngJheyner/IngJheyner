@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373'>La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-64gb-queda-solo-229-euros-cupon-descuento-1003373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='La Samsung Galaxy Tab A8 de 64GB se queda a sólo 229 euros con este cupón de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365'>Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dos-estafas-traves-bizum-estan-haciendo-estragos-debes-evitar-1003365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Las dos estafas a través de Bizum que están haciendo estragos y que debes evitar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825'>Redmi Watch 2 Lite, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/redmi-watch-2-lite-review-opinion-1001825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598843.jpg' alt='Redmi Watch 2 Lite, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377'>Soundcore Liberty 3 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/soundcore-liberty-3-pro-review-opinion-1000377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600499.jpg' alt='Soundcore Liberty 3 Pro, análisis y opinión' />
     </a>
 </div>
 
