@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-repetidor-senal-wifi-mejorar-conexion-casa-999537'>Consejos y guía para comprar un repetidor de señal WiFi y mejorar tu conexión en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-repetidor-senal-wifi-mejorar-conexion-casa-999537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/comprar-repetidor-wifi.jpg' alt='Consejos y guía para comprar un repetidor de señal WiFi y mejorar tu conexión en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363'>Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-xiaomi-360-security-camera-2k-pro-2600049.jpg' alt='Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423'>Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pinzas-roboticas-flexibles-2600645.jpg' alt='Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501'>Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/odb-2594983.jpg' alt='Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche' />
     </a>
 </div>
 
