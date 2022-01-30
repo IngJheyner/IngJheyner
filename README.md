@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757'>Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monitor-tasa-refresco-alta-historia-500-hz-2601179.jpg' alt='Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749'>Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiger-king-1911111.png' alt='Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665'>Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-predator-helios-300-ph315-53-2600925.jpg' alt='Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717'>La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conjunto-aplicaciones-2601053.jpg' alt='La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo' />
     </a>
 </div>
 
