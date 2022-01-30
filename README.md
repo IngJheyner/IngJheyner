@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745'>Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardar semanas en recibirlas </a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749'>Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiger-king-1911111.png' alt='Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673'>Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745'>Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardan semanas en recibirlas </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-explica-razon-no-muchos-usuarios-no-reciben-actualizaciones-windows-tardar-semanas-recibirlas-2601117.jpg' alt='Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardar semanas en recibirlas ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-explica-razon-no-muchos-usuarios-no-reciben-actualizaciones-windows-tardar-semanas-recibirlas-2601117.jpg' alt='Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardan semanas en recibirlas ' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717'>La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conjunto-aplicaciones-2601053.jpg' alt='La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-servira-cocteles-tan-solo-90-segundos-juegos-olimpicos-invierno-2022-1003713'>Este robot servirá cócteles en tan solo 90 segundos en los Juegos Olímpicos de Invierno 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-servira-cocteles-tan-solo-90-segundos-juegos-olimpicos-invierno-2022-1003713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/barman-robot-2601049.jpg' alt='Este robot servirá cócteles en tan solo 90 segundos en los Juegos Olímpicos de Invierno 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-todoterreno-carga-solar-solo-382-euros-sera-mejor-aliado-viajes-aventura-1003693'>Este reloj todoterreno con carga solar a solo 382 euros será tu mejor aliado en tus viajes de aventura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-todoterreno-carga-solar-solo-382-euros-sera-mejor-aliado-viajes-aventura-1003693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-6s-solar-2601013.jpg' alt='Este reloj todoterreno con carga solar a solo 382 euros será tu mejor aliado en tus viajes de aventura' />
     </a>
 </div>
 
