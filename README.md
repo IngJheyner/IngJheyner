@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081'>Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-algas-no-necesita-electricidad-reciben-energia-fotosintesis-2595967.jpg' alt='Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/instant-pot-duo-crisp-robot-cocina-olla-lenta-freidora-aceite-1003759'>Instant Pot Duo CRISP, robot de cocina + olla lenta + freidora sin aceite, a un precio sorprendente</a></h4>
     <a href='https://computerhoy.com/noticias/life/instant-pot-duo-crisp-robot-cocina-olla-lenta-freidora-aceite-1003759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instant-pot-duo-crips-electrodomestico-2-1-olla-coccion-lenta-freidora-aceite-precio-sorprendente-2601195.jpg' alt='Instant Pot Duo CRISP, robot de cocina + olla lenta + freidora sin aceite, a un precio sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673'>Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745'>Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardan semanas en recibirlas </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-explica-razon-no-muchos-usuarios-no-reciben-actualizaciones-windows-tardar-semanas-recibirlas-2601117.jpg' alt='Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardan semanas en recibirlas ' />
     </a>
 </div>
 
