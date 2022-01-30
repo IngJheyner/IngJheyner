@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341'>Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235'>Cómo registrarte y empezar a vender en Wallapop</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/271969-si-vendes-wallapop-tienes-que-pagar-impuestos-hacienda.jpg' alt='Cómo registrarte y empezar a vender en Wallapop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423'>Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pinzas-roboticas-flexibles-2600645.jpg' alt='Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425'>Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta</a></h4>
     <a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-2600651.jpg' alt='Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067'>Estas son las mejores Smart TV de 32 pulgadas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-tv-32-pulgadas-xiaomi-2599989.jpg' alt='Estas son las mejores Smart TV de 32 pulgadas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339'>Los mejores consejos para sacar el mejor partido a tu MacBook Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Los mejores consejos para sacar el mejor partido a tu MacBook Pro' />
     </a>
 </div>
 
