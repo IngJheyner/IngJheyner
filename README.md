@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101'>Cómo pasar toda la información cuando cambiamos de móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-2592145.jpg' alt='Cómo pasar toda la información cuando cambiamos de móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-repetidor-senal-wifi-mejorar-conexion-casa-999537'>Consejos y guía para comprar un repetidor de señal WiFi y mejorar tu conexión en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-repetidor-senal-wifi-mejorar-conexion-casa-999537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/comprar-repetidor-wifi.jpg' alt='Consejos y guía para comprar un repetidor de señal WiFi y mejorar tu conexión en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235'>Cómo registrarte y empezar a vender en Wallapop</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/271969-si-vendes-wallapop-tienes-que-pagar-impuestos-hacienda.jpg' alt='Cómo registrarte y empezar a vender en Wallapop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423'>Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pinzas-roboticas-flexibles-2600645.jpg' alt='Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano' />
     </a>
 </div>
 
