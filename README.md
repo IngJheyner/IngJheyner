@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745'>Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardar semanas en recibirlas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-explica-razon-usuarios-no-reciben-actualizaciones-windows-1003745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-explica-razon-no-muchos-usuarios-no-reciben-actualizaciones-windows-tardar-semanas-recibirlas-2601117.jpg' alt='Microsoft explica la razón por la que muchos usuarios no reciben las actualizaciones de Windows, o tardar semanas en recibirlas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665'>Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-predator-helios-300-ph315-53-2600925.jpg' alt='Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-todoterreno-carga-solar-solo-382-euros-sera-mejor-aliado-viajes-aventura-1003693'>Este reloj todoterreno con carga solar a solo 382 euros será tu mejor aliado en tus viajes de aventura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-todoterreno-carga-solar-solo-382-euros-sera-mejor-aliado-viajes-aventura-1003693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-6s-solar-2601013.jpg' alt='Este reloj todoterreno con carga solar a solo 382 euros será tu mejor aliado en tus viajes de aventura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689'>Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones' />
     </a>
 </div>
 
