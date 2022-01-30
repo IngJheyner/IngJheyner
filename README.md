@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423'>Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inventan-unas-pinzas-roboticas-flexibles-pueden-manejar-incluso-yemas-huevo-cabello-humano-1003423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pinzas-roboticas-flexibles-2600645.jpg' alt='Inventan unas pinzas robóticas flexibles que pueden manejar incluso yemas de huevo y hasta cabello humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501'>Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/odb-2594983.jpg' alt='Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425'>Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-2600651.jpg' alt='Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067'>Estas son las mejores Smart TV de 32 pulgadas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-tv-32-pulgadas-xiaomi-2599989.jpg' alt='Estas son las mejores Smart TV de 32 pulgadas que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339'>Los mejores consejos para sacar el mejor partido a tu MacBook Pro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Los mejores consejos para sacar el mejor partido a tu MacBook Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225'>La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casa-arbol-grande-mundo-tenia-8-pisos-80-habitaciones-quemo-15-minutos-2598219.jpg' alt='La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-1002173'>En el barril de vino más grande del mundo caben 219.000 litros, y tiene una pista de baile en la parte superior</a></h4>
-    <a href='https://computerhoy.com/noticias/life/barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-1002173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/n-barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-2598011.jpg' alt='En el barril de vino más grande del mundo caben 219.000 litros, y tiene una pista de baile en la parte superior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429'>El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roomba-981-2600667.jpg' alt='El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros' />
     </a>
 </div>
 
