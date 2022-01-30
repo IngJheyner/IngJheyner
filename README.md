@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067'>Estas son las mejores Smart TV de 32 pulgadas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-32-pulgadas-1003067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-tv-32-pulgadas-xiaomi-2599989.jpg' alt='Estas son las mejores Smart TV de 32 pulgadas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339'>Los mejores consejos para sacar el mejor partido a tu MacBook Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-consejos-sacar-mejor-partido-macbook-pro-1000339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Los mejores consejos para sacar el mejor partido a tu MacBook Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225'>La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casa-arbol-grande-mundo-tenia-8-pisos-80-habitaciones-quemo-15-minutos-2598219.jpg' alt='La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429'>El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-981-solo-379-euros-amazon-espectacular-descuento-620-euros-1003429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roomba-981-2600667.jpg' alt='El robot aspirador Roomba 981 está a solo 379 euros en Amazon con un espectacular descuento de 620 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419'>¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sigue-siendo-posible-bitcoin-alcance-100000-dolares-2022-1003419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='¿Sigue siendo posible que Bitcoin alcance los 100.000 dólares en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047'>Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422775.jpg' alt='Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya' />
     </a>
 </div>
 
