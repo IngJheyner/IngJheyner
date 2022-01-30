@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225'>La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/casa-arbol-mas-grande-mundo-horace-burgess-1002225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casa-arbol-grande-mundo-tenia-8-pisos-80-habitaciones-quemo-15-minutos-2598219.jpg' alt='La casa en el árbol más grande del mundo tenía 8 pisos y 80 habitaciones, se quemó en 15 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-1002173'>En el barril de vino más grande del mundo caben 219.000 litros, y tiene una pista de baile en la parte superior</a></h4>
     <a href='https://computerhoy.com/noticias/life/barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-1002173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/n-barril-vino-grande-mundo-caben-219000-litros-tiene-pista-baile-parte-superior-2598011.jpg' alt='En el barril de vino más grande del mundo caben 219.000 litros, y tiene una pista de baile en la parte superior' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047'>Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/huawei-p50-pro-razones-merece-mucho-pena-comprarlo-ya-1003047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-p50-p50-pro-ya-estan-aqui-llegan-sanpdragon-888-4g-interior-2422775.jpg' alt='Huawei P50 Pro: 5 razones por las que merece mucho la pena comprarlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387'>Qué es el modo fantasma de WhatsApp y cómo activarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Qué es el modo fantasma de WhatsApp y cómo activarlo' />
     </a>
 </div>
 
