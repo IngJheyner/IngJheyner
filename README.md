@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363'>Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-xiaomi-360-security-camera-2k-pro-2600049.jpg' alt='Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341'>Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501'>Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-comprar-sistema-obd-autodiagnostico-averias-coche-1000501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/odb-2594983.jpg' alt='Guía y todo lo que debes saber para comprar un sistema OBD de autodiagnóstico de averías del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425'>Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-1003425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tortuga-celebra-190-cumpleanos-animal-terrestre-viejo-planeta-2600651.jpg' alt='Esta tortuga celebra su 190 cumpleaños y es el animal terrestre más viejo de nuestro planeta' />
     </a>
 </div>
 
