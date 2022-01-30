@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717'>La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conjunto-aplicaciones-2601053.jpg' alt='La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-servira-cocteles-tan-solo-90-segundos-juegos-olimpicos-invierno-2022-1003713'>Este robot servirá cócteles en tan solo 90 segundos en los Juegos Olímpicos de Invierno 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-servira-cocteles-tan-solo-90-segundos-juegos-olimpicos-invierno-2022-1003713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/barman-robot-2601049.jpg' alt='Este robot servirá cócteles en tan solo 90 segundos en los Juegos Olímpicos de Invierno 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677'>Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101'>Cómo pasar toda la información cuando cambiamos de móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-2592145.jpg' alt='Cómo pasar toda la información cuando cambiamos de móvil Android' />
     </a>
 </div>
 
