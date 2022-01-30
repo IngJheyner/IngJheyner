@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665'>Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-acer-predator-helios-300-rtx-3070-oferta-1003665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/acer-predator-helios-300-ph315-53-2600925.jpg' alt='Si buscas un portátil con la mejor gráfica del momento entonces este Acer Predator Helios con una RTX3070 te interesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717'>La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-store-ahora-admite-aplicaciones-no-listadas-solo-son-accesibles-mediante-enlace-directo-1003717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conjunto-aplicaciones-2601053.jpg' alt='La App Store ahora admite aplicaciones no listadas que solo son accesibles mediante enlace directo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689'>Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677'>Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz' />
     </a>
 </div>
 
