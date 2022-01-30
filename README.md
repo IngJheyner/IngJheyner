@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689'>Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-dedica-robar-dinero-cuentas-bancarias-tiene-miles-instalaciones-1003689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Esta aplicación se dedica a robar el dinero de las cuentas bancarias y tiene miles de instalaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677'>Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fallo-google-maps-android-auto-hace-pierda-navegacion-voz-1003677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Este fallo en Google Maps en Android Auto hace que se pierda la navegación por voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101'>Cómo pasar toda la información cuando cambiamos de móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-pasar-toda-informacion-cuando-cambiamos-movil-android-999101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/movil-2592145.jpg' alt='Cómo pasar toda la información cuando cambiamos de móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363'>Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/reportajes/xiaomi-mi-360-home-security-camera-2k-pro-analisis-opinion-1000363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-xiaomi-360-security-camera-2k-pro-2600049.jpg' alt='Xiaomi Mi 360 Home Security Camera 2K Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341'>Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-watch-gt-runner-mejor-reloj-runners-1003341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei Watch GT Runner: por qué este nuevo reloj deportivo puede poner en apuros a Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235'>Cómo registrarte y empezar a vender en Wallapop</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-registrarte-empezar-vender-wallapop-997235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/271969-si-vendes-wallapop-tienes-que-pagar-impuestos-hacienda.jpg' alt='Cómo registrarte y empezar a vender en Wallapop' />
     </a>
 </div>
 
