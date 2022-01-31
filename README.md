@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/convierten-mascarillas-usadas-baterias-equiparables-litio-1004101'>Así se convierten las mascarillas usadas en baterías equiparables a las de litio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/convierten-mascarillas-usadas-baterias-equiparables-litio-1004101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mascarillas-ffp2-2239629.jpg' alt='Así se convierten las mascarillas usadas en baterías equiparables a las de litio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-quiere-restringir-ley-deepfakes-1004063'>China quiere restringir por ley los deepfakes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-quiere-restringir-ley-deepfakes-1004063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-detecta-deepfakes-2051863.jpg' alt='China quiere restringir por ley los deepfakes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-tambien-salud-tensiometro-superventas-1004083'>Lidl también apuesta por la salud con su último producto superventas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-tambien-salud-tensiometro-superventas-1004083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tensiometro-lidl-2601611.jpg' alt='Lidl también apuesta por la salud con su último producto superventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007'>Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991'>La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack</a></h4>
     <a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-bull-air-race-2601521.jpg' alt='La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-medidas-desinformacion-1004005'>Spotify toma medidas contra la desinformación, pero no eliminará ningún contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-medidas-desinformacion-1004005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Spotify toma medidas contra la desinformación, pero no eliminará ningún contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327'>Los mejores ordenadores portátiles baratos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/hombre-portatil-2331901.jpg' alt='Los mejores ordenadores portátiles baratos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/impresionante-filtro-hepa-tesla-model-1003951'>Así de impresionante es el filtro HEPA del Tesla Model Y</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/impresionante-filtro-hepa-tesla-model-1003951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-model-2601447.jpg' alt='Así de impresionante es el filtro HEPA del Tesla Model Y' />
     </a>
 </div>
 
