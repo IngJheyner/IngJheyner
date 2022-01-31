@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1003763'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1003763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2601237.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-43-pulgadas-puedes-comprar-1003657'>Estas son las mejores Smart TV de 43 pulgadas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-43-pulgadas-puedes-comprar-1003657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-43pus7406-2600921.jpg' alt='Estas son las mejores Smart TV de 43 pulgadas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081'>Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-algas-no-necesita-electricidad-reciben-energia-fotosintesis-2595967.jpg' alt='Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757'>Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monitor-tasa-refresco-alta-historia-500-hz-2601179.jpg' alt='Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749'>Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sentencia-confirmada-protagonista-tiger-king-netflix-21-anos-carcel-1003749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiger-king-1911111.png' alt='Sentencia confirmada: el protagonista de la serie documental Tiger King de Netflix, tendrá que pasar 21 años en la cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673'>Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-4k-smart-tv-stick-oferta-aliexpress-1003673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Ya puedes comprar la mejor alternativa a Chromecast y Fire TV: este stick HDMI de realme es compatible con 4K, tiene Google TV y cuesta 50 euros' />
     </a>
 </div>
 
