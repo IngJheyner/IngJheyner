@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/3-consejos-ahorrar-dinero-proximo-crucero-influencer-tiktok-1002949'>3 consejos para ahorrar dinero en tu próximo crucero, según una influencer de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-consejos-ahorrar-dinero-proximo-crucero-influencer-tiktok-1002949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mujeres-crucero-barco.jpg' alt='3 consejos para ahorrar dinero en tu próximo crucero, según una influencer de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/provincias-espanolas-menos-radares-1002945'>Las provincias españolas con más y menos radares</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/provincias-espanolas-menos-radares-1002945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/radares-antifrenazo-dgt-2565341.jpg' alt='Las provincias españolas con más y menos radares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1003763'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1003763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2601237.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081'>Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-algas-no-necesita-electricidad-fotosintesis-1001081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-algas-no-necesita-electricidad-reciben-energia-fotosintesis-2595967.jpg' alt='Este robot con algas no necesita electricidad: recibe la energía de la fotosíntesis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/instant-pot-duo-crisp-robot-cocina-olla-lenta-freidora-aceite-1003759'>Instant Pot Duo CRISP, robot de cocina + olla lenta + freidora sin aceite, a un precio sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/instant-pot-duo-crisp-robot-cocina-olla-lenta-freidora-aceite-1003759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instant-pot-duo-crips-electrodomestico-2-1-olla-coccion-lenta-freidora-aceite-precio-sorprendente-2601195.jpg' alt='Instant Pot Duo CRISP, robot de cocina + olla lenta + freidora sin aceite, a un precio sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757'>Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-boe-tasa-refresco-500-hz-1003757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monitor-tasa-refresco-alta-historia-500-hz-2601179.jpg' alt='Este es el monitor con la tasa de refresco más alta de la historia: 500 Hz' />
     </a>
 </div>
 
