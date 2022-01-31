@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-mercedes-van-llegar-mercado-partir-2022-1004145'>Los 5 Mercedes que van a llegar al mercado a partir de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-mercedes-van-llegar-mercado-partir-2022-1004145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercedes-eqe-2463349.jpg' alt='Los 5 Mercedes que van a llegar al mercado a partir de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/eternals-ha-creado-problema-marvel-tendra-resolver-proximas-peliculas-1004153'>Eternals ha creado un problema que Marvel tendrá que resolver en próximas películas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/eternals-ha-creado-problema-marvel-tendra-resolver-proximas-peliculas-1004153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eternals-thena-2594875.jpg' alt='Eternals ha creado un problema que Marvel tendrá que resolver en próximas películas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ipad-exito-pero-no-fue-primera-tablet-apple-1004355'>El iPad es un éxito, pero no fue la primera tablet de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/ipad-exito-pero-no-fue-primera-tablet-apple-1004355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='El iPad es un éxito, pero no fue la primera tablet de Apple' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391'>Así es la renovación de los portátiles MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-2602281.jpg' alt='Así es la renovación de los portátiles MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-google-nest-mini-buena-decision-aun-no-tienes-echo-dot-amazon-1002373'>Por qué comprar el Google Nest Mini es una buena decisión si aún no tienes un Echo Dot de Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-google-nest-mini-buena-decision-aun-no-tienes-echo-dot-amazon-1002373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-nest-mini-2598515.jpg' alt='Por qué comprar el Google Nest Mini es una buena decisión si aún no tienes un Echo Dot de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-compra-bungie-3600-millones-dolares-1004397'>Sony responde a Microsoft: compra Bungie por 3.600 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-compra-bungie-3600-millones-dolares-1004397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-responde-microsoft-bungie-une-playstation-2602283.jpg' alt='Sony responde a Microsoft: compra Bungie por 3.600 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325'>Se filtra la fecha y el precio del futuro OnePlus Nord 2T</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='Se filtra la fecha y el precio del futuro OnePlus Nord 2T' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jp-morgan-pega-hachazo-bitcoin-rebaja-drasticamente-objetivo-precio-1004395'>JP Morgan le pega un hachazo a Bitcoin y rebaja drásticamente su objetivo de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jp-morgan-pega-hachazo-bitcoin-rebaja-drasticamente-objetivo-precio-1004395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='JP Morgan le pega un hachazo a Bitcoin y rebaja drásticamente su objetivo de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323'>Google Chrome en Android quiere poner fin a uno de sus grandes problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google Chrome en Android quiere poner fin a uno de sus grandes problemas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-nueva-interfaz-android-auto-antes-estreno-nos-encanta-1004393'>Se filtra la nueva interfaz de Android Auto antes de su estreno, y nos encanta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-nueva-interfaz-android-auto-antes-estreno-nos-encanta-1004393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Se filtra la nueva interfaz de Android Auto antes de su estreno, y nos encanta' />
     </a>
 </div>
 
