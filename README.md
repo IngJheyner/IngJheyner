@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-exito-pero-no-fue-primera-tablet-apple-1004355'>El iPad es un éxito, pero no fue la primera tablet de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-exito-pero-no-fue-primera-tablet-apple-1004355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='El iPad es un éxito, pero no fue la primera tablet de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-google-nest-mini-buena-decision-aun-no-tienes-echo-dot-amazon-1002373'>Por qué comprar el Google Nest Mini es una buena decisión si aún no tienes un Echo Dot de Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-google-nest-mini-buena-decision-aun-no-tienes-echo-dot-amazon-1002373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-nest-mini-2598515.jpg' alt='Por qué comprar el Google Nest Mini es una buena decisión si aún no tienes un Echo Dot de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325'>Se filtra la fecha y el precio del futuro OnePlus Nord 2T</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='Se filtra la fecha y el precio del futuro OnePlus Nord 2T' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301'>Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pallete-toma-riendas-dela-gsma-garantiza-mwc-barcelona-2024-1004295'>Pallete toma las riendas de la GSMA y garantiza MWC en Barcelona hasta 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/pallete-toma-riendas-dela-gsma-garantiza-mwc-barcelona-2024-1004295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/telefonica-abre-escuela-programacion-gratuita-profesores-ni-horarios-ni-paro.jpg' alt='Pallete toma las riendas de la GSMA y garantiza MWC en Barcelona hasta 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201'>Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg' alt='Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6' />
     </a>
 </div>
 
