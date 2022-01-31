@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391'>Así es la renovación de los portátiles MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391'>Así es la renovación de los portátiles Honor MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-2602281.jpg' alt='Así es la renovación de los portátiles MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-2602281.jpg' alt='Así es la renovación de los portátiles Honor MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen' />
     </a>
 </div>
 
