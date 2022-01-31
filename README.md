@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161'>El nuevo reloj atómico de bolsillo que busca la DARPA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevo-reloj-atomico-espacial-usa-nasa-solo-retrasa-1-segundo-cada-10-millones-anos-2406207.jpg' alt='El nuevo reloj atómico de bolsillo que busca la DARPA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147'>Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013'>Estas son las mejores Smart TV de 75 pulgadas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hombre-viendo-smart-tv-salon-2601635.jpg' alt='Estas son las mejores Smart TV de 75 pulgadas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/test-rapido-covid-saliva-usa-movil-tan-eficaz-como-pcr-1004075'>El test rápido para COVID de saliva que usa el móvil y es tan eficaz como una PCR</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/test-rapido-covid-saliva-usa-movil-tan-eficaz-como-pcr-1004075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-detectar-covid-19-2589493.jpg' alt='El test rápido para COVID de saliva que usa el móvil y es tan eficaz como una PCR' />
     </a>
 </div>
 
