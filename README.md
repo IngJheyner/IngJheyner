@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239'>Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105'>Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-10-tabmax-2601649.jpg' alt='Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrarlo-oscuridad-otros-trucos-rapidos-iphone-te-facilitan-vida-1004219'>Cómo encontrarlo en la oscuridad y otros trucos rápidos para iPhone que te facilitan la vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrarlo-oscuridad-otros-trucos-rapidos-iphone-te-facilitan-vida-1004219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='Cómo encontrarlo en la oscuridad y otros trucos rápidos para iPhone que te facilitan la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161'>El nuevo reloj atómico de bolsillo que busca la DARPA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevo-reloj-atomico-espacial-usa-nasa-solo-retrasa-1-segundo-cada-10-millones-anos-2406207.jpg' alt='El nuevo reloj atómico de bolsillo que busca la DARPA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147'>Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-unicas-criptomonedas-podria-hacer-sombra-bitcoin-expertos-1004103'>Las dos únicas criptomonedas que podría hacer sombra a Bitcoin, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dos-unicas-criptomonedas-podria-hacer-sombra-bitcoin-expertos-1004103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2601639.jpg' alt='Las dos únicas criptomonedas que podría hacer sombra a Bitcoin, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873'>IKEA: historia, curiosidades y primer éxito de la mayor empresa de muebles del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='IKEA: historia, curiosidades y primer éxito de la mayor empresa de muebles del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013'>Estas son las mejores Smart TV de 75 pulgadas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hombre-viendo-smart-tv-salon-2601635.jpg' alt='Estas son las mejores Smart TV de 75 pulgadas que puedes comprar' />
     </a>
 </div>
 
