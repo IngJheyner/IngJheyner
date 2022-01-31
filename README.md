@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201'>Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg' alt='Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239'>Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161'>El nuevo reloj atómico de bolsillo que busca la DARPA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevo-reloj-atomico-espacial-usa-nasa-solo-retrasa-1-segundo-cada-10-millones-anos-2406207.jpg' alt='El nuevo reloj atómico de bolsillo que busca la DARPA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147'>Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT' />
     </a>
 </div>
 
