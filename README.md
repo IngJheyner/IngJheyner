@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/convierten-mascarillas-usadas-baterias-equiparables-litio-1004101'>Así se convierten las mascarillas usadas en baterías equiparables a las de litio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/convierten-mascarillas-usadas-baterias-equiparables-litio-1004101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mascarillas-ffp2-2239629.jpg' alt='Así se convierten las mascarillas usadas en baterías equiparables a las de litio' />
+    <h4><a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147'>Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/conduccion-modo-flow-tan-peligrosa-dgt-1004147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Qué es la conducción en modo ‘flow’ y por qué es tan peligrosa según la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-quiere-restringir-ley-deepfakes-1004063'>China quiere restringir por ley los deepfakes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-quiere-restringir-ley-deepfakes-1004063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-detecta-deepfakes-2051863.jpg' alt='China quiere restringir por ley los deepfakes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-unicas-criptomonedas-podria-hacer-sombra-bitcoin-expertos-1004103'>Las dos únicas criptomonedas que podría hacer sombra a Bitcoin, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dos-unicas-criptomonedas-podria-hacer-sombra-bitcoin-expertos-1004103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2601639.jpg' alt='Las dos únicas criptomonedas que podría hacer sombra a Bitcoin, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-tambien-salud-tensiometro-superventas-1004083'>Lidl también apuesta por la salud con su último producto superventas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-tambien-salud-tensiometro-superventas-1004083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tensiometro-lidl-2601611.jpg' alt='Lidl también apuesta por la salud con su último producto superventas' />
+    <h4><a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873'>IKEA: historia, curiosidades y primer éxito de la mayor empresa de muebles del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='IKEA: historia, curiosidades y primer éxito de la mayor empresa de muebles del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007'>Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013'>Estas son las mejores Smart TV de 75 pulgadas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smart-tv-75-pulgadas-puedes-comprar-1004013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hombre-viendo-smart-tv-salon-2601635.jpg' alt='Estas son las mejores Smart TV de 75 pulgadas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991'>La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-bull-air-race-2601521.jpg' alt='La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/test-rapido-covid-saliva-usa-movil-tan-eficaz-como-pcr-1004075'>El test rápido para COVID de saliva que usa el móvil y es tan eficaz como una PCR</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/test-rapido-covid-saliva-usa-movil-tan-eficaz-como-pcr-1004075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/test-detectar-covid-19-2589493.jpg' alt='El test rápido para COVID de saliva que usa el móvil y es tan eficaz como una PCR' />
     </a>
 </div>
 
