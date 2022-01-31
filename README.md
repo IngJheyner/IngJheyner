@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301'>Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pallete-toma-riendas-dela-gsma-garantiza-mwc-barcelona-2024-1004295'>Pallete toma las riendas de la GSMA y garantiza MWC en Barcelona hasta 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/pallete-toma-riendas-dela-gsma-garantiza-mwc-barcelona-2024-1004295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/telefonica-abre-escuela-programacion-gratuita-profesores-ni-horarios-ni-paro.jpg' alt='Pallete toma las riendas de la GSMA y garantiza MWC en Barcelona hasta 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201'>Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg' alt='Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105'>Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-10-tabmax-2601649.jpg' alt='Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrarlo-oscuridad-otros-trucos-rapidos-iphone-te-facilitan-vida-1004219'>Cómo encontrarlo en la oscuridad y otros trucos rápidos para iPhone que te facilitan la vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrarlo-oscuridad-otros-trucos-rapidos-iphone-te-facilitan-vida-1004219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='Cómo encontrarlo en la oscuridad y otros trucos rápidos para iPhone que te facilitan la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161'>El nuevo reloj atómico de bolsillo que busca la DARPA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-atomico-bolsillo-busca-darpa-1004161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nuevo-reloj-atomico-espacial-usa-nasa-solo-retrasa-1-segundo-cada-10-millones-anos-2406207.jpg' alt='El nuevo reloj atómico de bolsillo que busca la DARPA' />
     </a>
 </div>
 
