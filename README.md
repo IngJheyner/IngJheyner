@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413'>Criptoárboles solares, la solución limpia para las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptoarboles-solares-solucion-limpia-criptomonedas-2602309.jpg' alt='Criptoárboles solares, la solución limpia para las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-escuadron-suicida-james-gunn-estreno-gratis-hbo-max-1004405'>El Escuadrón Suicida de James Gunn se estrena mañana gratis para todos los suscriptores de HBO Max</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-escuadron-suicida-james-gunn-estreno-gratis-hbo-max-1004405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/escuadron-suicida-2423387.jpg' alt='El Escuadrón Suicida de James Gunn se estrena mañana gratis para todos los suscriptores de HBO Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391'>Así es la renovación de los portátiles Honor MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-1004391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renovacion-portatiles-magicbook-14-15-16-pulgadas-chips-amd-ryzen-2602281.jpg' alt='Así es la renovación de los portátiles Honor MagicBook de 14, 15 y 16 pulgadas con chips AMD Ryzen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-compra-bungie-3600-millones-dolares-1004397'>Sony responde a Microsoft: compra Bungie por 3.600 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-compra-bungie-3600-millones-dolares-1004397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-responde-microsoft-bungie-une-playstation-2602283.jpg' alt='Sony responde a Microsoft: compra Bungie por 3.600 millones de dólares' />
     </a>
 </div>
 
