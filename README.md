@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007'>Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-primer-trailer-serie-halo-paramont-vuelve-jefe-maestro-carne-hueso-1004007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Ya tenemos el primer tráiler de la serie de Halo de Paramont+: vuelve el Jefe Maestro en carne y hueso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991'>La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/red-bull-air-race-podria-tener-nueva-categoria-carreras-jetpack-1003991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-bull-air-race-2601521.jpg' alt='La Red Bull Air Race podría tener una nueva categoría: las carreras en jetpack' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-medidas-desinformacion-1004005'>Spotify toma medidas contra la desinformación, pero no eliminará ningún contenido</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-medidas-desinformacion-1004005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Spotify toma medidas contra la desinformación, pero no eliminará ningún contenido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/impresionante-filtro-hepa-tesla-model-1003951'>Así de impresionante es el filtro HEPA del Tesla Model Y</a></h4>
     <a href='https://computerhoy.com/noticias/motor/impresionante-filtro-hepa-tesla-model-1003951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-model-2601447.jpg' alt='Así de impresionante es el filtro HEPA del Tesla Model Y' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/copias-seguridad-ilimitadas-whatsapp-1003961'>Las copias de seguridad ilimitadas de WhatsApp podrían cambiar por completo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/copias-seguridad-ilimitadas-whatsapp-1003961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2601441.jpg' alt='Las copias de seguridad ilimitadas de WhatsApp podrían cambiar por completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-buscas-televisor-4k-barato-modelo-hisense-cuesta-solo-263-euros-amazon-1003973'>Chollo si buscas un televisor 4K barato: este modelo Hisense cuesta solo 263 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-buscas-televisor-4k-barato-modelo-hisense-cuesta-solo-263-euros-amazon-1003973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hisense-43a7100f-2600915.jpg' alt='Chollo si buscas un televisor 4K barato: este modelo Hisense cuesta solo 263 euros en Amazon' />
     </a>
 </div>
 
