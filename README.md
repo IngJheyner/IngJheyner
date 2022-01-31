@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325'>Se filtra la fecha y el precio del futuro OnePlus Nord 2T</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-precio-futuro-oneplus-nord-2t-1004325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='Se filtra la fecha y el precio del futuro OnePlus Nord 2T' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323'>Google Chrome en Android quiere poner fin a uno de sus grandes problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google Chrome en Android quiere poner fin a uno de sus grandes problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301'>Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201'>Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diferencias-ventajas-futuro-wifi-7-frente-actual-wifi-6-1004201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg' alt='Diferencias y ventajas del futuro WiFi 7 frente al actual WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239'>Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bizum-pago-pagar-comision-1004239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Bizum de pago: ¿podrías en el futuro tener que pagar una comisión cada vez que lo uses?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105'>Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-10-tabmax-oferta-tablet-android-barata-1004105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-10-tabmax-2601649.jpg' alt='Chollo en Amazon por esta tablet perfecta para que tus hijos vean vídeos: TCL 10 TABMAX por 184 euros' />
     </a>
 </div>
 
