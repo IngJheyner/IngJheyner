@@ -50,8 +50,16 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-exito-pero-no-fue-primera-tablet-apple-1004355'>El iPad es un éxito, pero no fue la primera tablet de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-exito-pero-no-fue-primera-tablet-apple-1004355' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/motor/5-mercedes-van-llegar-mercado-partir-2022-1004145'>Los 5 Mercedes que van a llegar al mercado a partir de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-mercedes-van-llegar-mercado-partir-2022-1004145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercedes-eqe-2463349.jpg' alt='Los 5 Mercedes que van a llegar al mercado a partir de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ipad-exito-pero-no-fue-primera-tablet-apple-1004355'>El iPad es un éxito, pero no fue la primera tablet de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/ipad-exito-pero-no-fue-primera-tablet-apple-1004355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='El iPad es un éxito, pero no fue la primera tablet de Apple' />
     </a>
 </div>
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323'>Google Chrome en Android quiere poner fin a uno de sus grandes problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-android-quiere-poner-fin-grandes-problemas-1004323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google Chrome en Android quiere poner fin a uno de sus grandes problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301'>Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno-7-familia-ve-luz-oficialmente-india-semana-1004301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/oppo-reno-7-pro-2540115.jpg' alt='Oppo Reno 7, la familia ve la luz oficialmente en la India esta semana' />
     </a>
 </div>
 
