@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dormimos-andamos-espana-cabeza-mundo-1004661'>Los que más dormimos y los que más andamos, España a la cabeza del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/dormimos-andamos-espana-cabeza-mundo-1004661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111411.jpg' alt='Los que más dormimos y los que más andamos, España a la cabeza del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-karaoke-microfonos-1004669'>Tesla apuesta por el "caraoke" para celebrar el Año Nuevo chino y pone a la venta un conjunto de micrófonos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-karaoke-microfonos-1004669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/karaoke-tesla-2602549.jpg' alt='Tesla apuesta por el "caraoke" para celebrar el Año Nuevo chino y pone a la venta un conjunto de micrófonos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649'>The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165'>El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen</a></h4>
     <a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cigarro-2601751.jpg' alt='El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-trucos-coche-no-averie-frio-1004159'>5 trucos para que tu coche no se averíe por el frío</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-trucos-coche-no-averie-frio-1004159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-consejos-clave-evitar-averias-coche-frio-2595851.jpg' alt='5 trucos para que tu coche no se averíe por el frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/noticias-tecnologicas-2602511.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
