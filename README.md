@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815'>La serie completa de Naruto en Blu-ray llegará a España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/naruto-naruto-uzumaki-2425679.jpg' alt='La serie completa de Naruto en Blu-ray llegará a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021'>Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-2603471.jpg' alt='Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999'>Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005'>Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ultima-novedad-youtube-music-competir-spotify-radios-recomendadas-2603419.jpg' alt='Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981'>No lo busques: Mercadona lo ha eliminado de su catálogo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-desesperado-2603357.jpg' alt='No lo busques: Mercadona lo ha eliminado de su catálogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723'>5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-montando-bicicleta-montana-electrica-2602665.jpg' alt='5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis' />
     </a>
 </div>
 
