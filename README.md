@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791'>El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/simbolo-juegos-olimpicos-2420967.jpg' alt='El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-leonardo-da-vinci-diseno-hace-530-anos-funciona-1004877'>Así es el dron que Leonardo da Vinci diseñó hace 530 años, y sí, funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-leonardo-da-vinci-diseno-hace-530-anos-funciona-1004877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/drone-2603081.jpg' alt='Así es el dron que Leonardo da Vinci diseñó hace 530 años, y sí, funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-guardar-copias-seguridad-whatsapp-movil-1004689'>5 pendrives para guardar copias de seguridad de WhatsApp y todos tus archivos del móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-guardar-copias-seguridad-whatsapp-movil-1004689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-usb-c-conectado-movil-2602641.jpg' alt='5 pendrives para guardar copias de seguridad de WhatsApp y todos tus archivos del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861'>Así es como la DGT quiere controlar que pagues por utilizar las autovías</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaje-2603043.jpg' alt='Así es como la DGT quiere controlar que pagues por utilizar las autovías' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851'>¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851'>¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)</a></h4>
+    <a href='https://computerhoy.com/noticias/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/buen-patron-2547731.jpg' alt='¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/blackberry-vendiendo-patentes-moviles-mensajeria-ello-puede-implicar-sector-1004811'>BlackBerry está vendiendo sus patentes móviles y de mensajería y lo que ello puede implicar en el sector</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/blackberry-vendiendo-patentes-moviles-mensajeria-ello-puede-implicar-sector-1004811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg' alt='BlackBerry está vendiendo sus patentes móviles y de mensajería y lo que ello puede implicar en el sector' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767'>Craob-X el portátil sin conectores físicos, ni siquiera para cargar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/craob-x-2602771.jpg' alt='Craob-X el portátil sin conectores físicos, ni siquiera para cargar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775'>La nueva app miDGT ya te permite pagar directamente las multas desde el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La nueva app miDGT ya te permite pagar directamente las multas desde el móvil' />
     </a>
 </div>
 
