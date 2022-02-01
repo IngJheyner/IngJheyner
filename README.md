@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999'>Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mini-ahora-puede-transformar-clasico-electrico-1004801'>Mini ahora puede transformar tu clásico en un eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mini-ahora-puede-transformar-clasico-electrico-1004801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proyecto-mini-recharged-2595529.jpg' alt='Mini ahora puede transformar tu clásico en un eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005'>Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ultima-novedad-youtube-music-competir-spotify-radios-recomendadas-2603419.jpg' alt='Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981'>No lo busques: Mercadona lo ha eliminado de su catálogo</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-desesperado-2603357.jpg' alt='No lo busques: Mercadona lo ha eliminado de su catálogo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723'>5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-montando-bicicleta-montana-electrica-2602665.jpg' alt='5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979'>¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejora-rendimiento-windows-11-2603341.jpg' alt='¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885'>7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945'>Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior' />
     </a>
 </div>
 
