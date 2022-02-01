@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981'>No lo busques: Mercadona lo ha eliminado de su catálogo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-busques-mercadona-ha-eliminado-catalogo-1004981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-desesperado-2603357.jpg' alt='No lo busques: Mercadona lo ha eliminado de su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723'>5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-montando-bicicleta-montana-electrica-2602665.jpg' alt='5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979'>¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejora-rendimiento-windows-11-2603341.jpg' alt='¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945'>Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205'>5 grandes películas que llegan a las plataformas en febrero y no deberías perderte</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dune-2509909.jpg' alt='5 grandes películas que llegan a las plataformas en febrero y no deberías perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193'>Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-2596913.jpg' alt='Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo' />
     </a>
 </div>
 
