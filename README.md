@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979'>¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hazlo-ya-ultima-actualizacion-windows-11-puede-hacer-pc-funcione-rapido-1004979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejora-rendimiento-windows-11-2603341.jpg' alt='¡Hazlo ya! La última actualización de Windows 11 puede hacer que tu PC funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885'>7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945'>Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-nuevo-diseno-gmail-google-va-instaurar-defecto-no-puedas-volver-experiencia-anterior-1004945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Así será el nuevo diseño de Gmail que Google va a instaurar por defecto para que no puedas volver a la experiencia anterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205'>5 grandes películas que llegan a las plataformas en febrero y no deberías perderte</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dune-2509909.jpg' alt='5 grandes películas que llegan a las plataformas en febrero y no deberías perderte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193'>Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-2596913.jpg' alt='Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/india-regula-criptomonedas-impuestos-altos-pais-30-1004925'>India regula las criptomonedas con los impuestos más altos del país: un 30%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/india-regula-criptomonedas-impuestos-altos-pais-30-1004925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-india-2558875.jpg' alt='India regula las criptomonedas con los impuestos más altos del país: un 30%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839'>5 criptomonedas emergentes que podrían hacerte ganar dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/terminologia-criptomonedas-2568177.jpg' alt='5 criptomonedas emergentes que podrían hacerte ganar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791'>El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/simbolo-juegos-olimpicos-2420967.jpg' alt='El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China' />
     </a>
 </div>
 
