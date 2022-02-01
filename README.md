@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839'>5 criptomonedas emergentes que podrían hacerte ganar dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/terminologia-criptomonedas-2568177.jpg' alt='5 criptomonedas emergentes que podrían hacerte ganar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791'>El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/simbolo-juegos-olimpicos-2420967.jpg' alt='El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861'>Así es como la DGT quiere controlar que pagues por utilizar las autovías</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaje-2603043.jpg' alt='Así es como la DGT quiere controlar que pagues por utilizar las autovías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851'>¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)</a></h4>
-    <a href='https://computerhoy.com/noticias/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/buen-patron-2547731.jpg' alt='¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)' />
     </a>
 </div>
 
