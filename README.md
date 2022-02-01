@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649'>The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robot-lidl-monsieur-cuisine-cecotec-connect-mambo-10090-comparativa-1002865'>Monsieur Cuisine Connect vs Cecotec Mambo 10090: ¿es la mejor alternativa al robot de cocina de Lidl?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/robot-lidl-monsieur-cuisine-cecotec-connect-mambo-10090-comparativa-1002865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monsieur-cousine-connect-cecotec-mambo-10090-2599267.jpg' alt='Monsieur Cuisine Connect vs Cecotec Mambo 10090: ¿es la mejor alternativa al robot de cocina de Lidl?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165'>El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen</a></h4>
     <a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cigarro-2601751.jpg' alt='El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/noticias-tecnologicas-2602511.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-huawei-1004231'>Estos son los mejores móviles baratos de Huawei que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-huawei-1004231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-nova-9-2542789.jpg' alt='Estos son los mejores móviles baratos de Huawei que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573'>El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-guardia-civil-eliminar-hielo-parabrisas-2602463.jpg' alt='El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas' />
     </a>
 </div>
 
