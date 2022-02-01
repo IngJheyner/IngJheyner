@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/noticias-tecnologicas-2602511.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-huawei-1004231'>Estos son los mejores móviles baratos de Huawei que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-huawei-1004231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-nova-9-2542789.jpg' alt='Estos son los mejores móviles baratos de Huawei que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573'>El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-guardia-civil-eliminar-hielo-parabrisas-2602463.jpg' alt='El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413'>Criptoárboles solares, la solución limpia para las criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptoarboles-solares-solucion-limpia-criptomonedas-2602309.jpg' alt='Criptoárboles solares, la solución limpia para las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-escuadron-suicida-james-gunn-estreno-gratis-hbo-max-1004405'>El Escuadrón Suicida de James Gunn se estrena mañana gratis para todos los suscriptores de HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/el-escuadron-suicida-james-gunn-estreno-gratis-hbo-max-1004405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/escuadron-suicida-2423387.jpg' alt='El Escuadrón Suicida de James Gunn se estrena mañana gratis para todos los suscriptores de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-cuesta-89-euros-1004341'>El radiador Grindinlux Homely con WiFI que se controla con el móvil baja a su precio mínimo, solo cuesta 89 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-cuesta-89-euros-1004341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-8999-euros-2602193.jpg' alt='El radiador Grindinlux Homely con WiFI que se controla con el móvil baja a su precio mínimo, solo cuesta 89 euros' />
     </a>
 </div>
 
