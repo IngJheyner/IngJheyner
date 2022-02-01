@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767'>Craob-X el portátil sin conectores físicos, ni siquiera para cargar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/craob-x-2602771.jpg' alt='Craob-X el portátil sin conectores físicos, ni siquiera para cargar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775'>La nueva app miDGT ya te permite pagar directamente las multas desde el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La nueva app miDGT ya te permite pagar directamente las multas desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/ultima-semana-rebajas-xiaomi-29-chollos-tardaremos-volver-ver-1004737'>Ultima semana de rebajas Xiaomi: 29 chollos que tardaremos en volver a ver</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ultima-semana-rebajas-xiaomi-29-chollos-tardaremos-volver-ver-1004737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/logo-xiaomi-2602705.jpg' alt='Ultima semana de rebajas Xiaomi: 29 chollos que tardaremos en volver a ver' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-usar-avatares-3d-meta-stories-instagram-1004745'>Ya se pueden usar los avatares 3D de Meta en las stories de Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-usar-avatares-3d-meta-stories-instagram-1004745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/avatares-meta-3d-2602739.jpg' alt='Ya se pueden usar los avatares 3D de Meta en las stories de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seran-samsung-galaxy-s22-ultimas-filtraciones-1004761'>Así serán los Samsung Galaxy S22 según las últimas filtraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seran-samsung-galaxy-s22-ultimas-filtraciones-1004761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-2602761.jpg' alt='Así serán los Samsung Galaxy S22 según las últimas filtraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-pastillas-acabaran-pinchazos-adios-vacunas-jeringuilla-1004699'>Estas son las pastillas que acabarán con los pinchazos: adiós a las vacunas con jeringuilla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-pastillas-acabaran-pinchazos-adios-vacunas-jeringuilla-1004699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pastilla-adelgazar-2446751.jpg' alt='Estas son las pastillas que acabarán con los pinchazos: adiós a las vacunas con jeringuilla' />
     </a>
 </div>
 
