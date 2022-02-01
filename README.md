@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/drones-autonomos-recogen-fruta-vuelo-1005033'>Los drones autónomos que recogen fruta al vuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/drones-autonomos-recogen-fruta-vuelo-1005033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/drones-autonomos-recogen-fruta-vuelo-2603489.jpg' alt='Los drones autónomos que recogen fruta al vuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-air-compatible-apple-pencil-oferta-1005027'>Este iPad Air de 10,9 pulgadas compatible con el Apple Pencil es ideal para dibujar, editar vídeo o ver series</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-air-compatible-apple-pencil-oferta-1005027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='Este iPad Air de 10,9 pulgadas compatible con el Apple Pencil es ideal para dibujar, editar vídeo o ver series' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021'>Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-2603471.jpg' alt='Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999'>Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz' />
     </a>
 </div>
 
