@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861'>Así es como la DGT quiere controlar que pagues por utilizar las autovías</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaje-2603043.jpg' alt='Así es como la DGT quiere controlar que pagues por utilizar las autovías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851'>¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hambre-cine-espanol-movistar-plus-pone-alcance-todas-nominadas-goya-listado-completo-1004851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/buen-patron-2547731.jpg' alt='¿Hambre de cine español? Movistar Plus+ pone a tu alcance todas las nominadas a los Goya (listado completo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/blackberry-vendiendo-patentes-moviles-mensajeria-ello-puede-implicar-sector-1004811'>BlackBerry está vendiendo sus patentes móviles y de mensajería y lo que ello puede implicar en el sector</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/blackberry-vendiendo-patentes-moviles-mensajeria-ello-puede-implicar-sector-1004811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg' alt='BlackBerry está vendiendo sus patentes móviles y de mensajería y lo que ello puede implicar en el sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767'>Craob-X el portátil sin conectores físicos, ni siquiera para cargar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/craob-x-portatil-conectores-fisicos-ni-siquiera-cargar-1004767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/craob-x-2602771.jpg' alt='Craob-X el portátil sin conectores físicos, ni siquiera para cargar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775'>La nueva app miDGT ya te permite pagar directamente las multas desde el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nueva-app-midgt-ya-te-permite-pagar-directamente-multas-movil-1004775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La nueva app miDGT ya te permite pagar directamente las multas desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ultima-semana-rebajas-xiaomi-29-chollos-tardaremos-volver-ver-1004737'>Ultima semana de rebajas Xiaomi: 29 chollos que tardaremos en volver a ver</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ultima-semana-rebajas-xiaomi-29-chollos-tardaremos-volver-ver-1004737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/logo-xiaomi-2602705.jpg' alt='Ultima semana de rebajas Xiaomi: 29 chollos que tardaremos en volver a ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mirilla-electronica-puerta-necesitas-lidl-mitad-precio-1004765'>La mirilla electrónica para la puerta que necesitas está en LIDL a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mirilla-electronica-puerta-necesitas-lidl-mitad-precio-1004765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-electronica-lidl-2602769.jpg' alt='La mirilla electrónica para la puerta que necesitas está en LIDL a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-usar-avatares-3d-meta-stories-instagram-1004745'>Ya se pueden usar los avatares 3D de Meta en las stories de Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-usar-avatares-3d-meta-stories-instagram-1004745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/avatares-meta-3d-2602739.jpg' alt='Ya se pueden usar los avatares 3D de Meta en las stories de Instagram' />
     </a>
 </div>
 
