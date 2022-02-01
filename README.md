@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165'>El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cigarro-2601751.jpg' alt='El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-trucos-coche-no-averie-frio-1004159'>5 trucos para que tu coche no se averíe por el frío</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-trucos-coche-no-averie-frio-1004159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/5-consejos-clave-evitar-averias-coche-frio-2595851.jpg' alt='5 trucos para que tu coche no se averíe por el frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1004617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/noticias-tecnologicas-2602511.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573'>El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-guardia-civil-eliminar-hielo-parabrisas-2602463.jpg' alt='El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quien-se-queda-herencia-no-hay-testamento-1004419'>¿Quién se queda con la herencia si no hay testamento? Esto es lo que dice la ley</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quien-se-queda-herencia-no-hay-testamento-1004419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-queda-herencia-no-hay-testamento-dice-ley-2602313.jpg' alt='¿Quién se queda con la herencia si no hay testamento? Esto es lo que dice la ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413'>Criptoárboles solares, la solución limpia para las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptoarboles-solares-solucion-limpia-criptomonedas-1004413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptoarboles-solares-solucion-limpia-criptomonedas-2602309.jpg' alt='Criptoárboles solares, la solución limpia para las criptomonedas' />
     </a>
 </div>
 
