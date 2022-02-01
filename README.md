@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573'>El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-genial-guardia-civil-eliminar-hielo-parabrisas-1004573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-guardia-civil-eliminar-hielo-parabrisas-2602463.jpg' alt='El truco genial que usa la Guardia Civil para eliminar el hielo del parabrisas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quien-se-queda-herencia-no-hay-testamento-1004419'>¿Quién se queda con la herencia si no hay testamento? Esto es lo que dice la ley</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-se-queda-herencia-no-hay-testamento-1004419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-queda-herencia-no-hay-testamento-dice-ley-2602313.jpg' alt='¿Quién se queda con la herencia si no hay testamento? Esto es lo que dice la ley' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-cuesta-89-euros-1004341'>El radiador Grindinlux Homely con WiFI que se controla con el móvil baja a su precio mínimo, solo cuesta 89 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-cuesta-89-euros-1004341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/radiador-grindinlux-homely-wifi-controla-movil-baja-precio-minimo-solo-8999-euros-2602193.jpg' alt='El radiador Grindinlux Homely con WiFI que se controla con el móvil baja a su precio mínimo, solo cuesta 89 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/eternals-ha-creado-problema-marvel-tendra-resolver-proximas-peliculas-1004153'>Eternals ha creado un problema que Marvel tendrá que resolver en próximas películas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/eternals-ha-creado-problema-marvel-tendra-resolver-proximas-peliculas-1004153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/eternals-thena-2594875.jpg' alt='Eternals ha creado un problema que Marvel tendrá que resolver en próximas películas' />
     </a>
 </div>
 
