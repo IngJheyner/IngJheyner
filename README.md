@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/dormimos-andamos-espana-cabeza-mundo-1004661'>Los que más dormimos y los que más andamos, España a la cabeza del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/dormimos-andamos-espana-cabeza-mundo-1004661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111411.jpg' alt='Los que más dormimos y los que más andamos, España a la cabeza del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-pastillas-acabaran-pinchazos-adios-vacunas-jeringuilla-1004699'>Estas son las pastillas que acabarán con los pinchazos: adiós a las vacunas con jeringuilla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-pastillas-acabaran-pinchazos-adios-vacunas-jeringuilla-1004699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pastilla-adelgazar-2446751.jpg' alt='Estas son las pastillas que acabarán con los pinchazos: adiós a las vacunas con jeringuilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-karaoke-microfonos-1004669'>Tesla apuesta por el "caraoke" para celebrar el Año Nuevo chino y pone a la venta un conjunto de micrófonos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-karaoke-microfonos-1004669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/karaoke-tesla-2602549.jpg' alt='Tesla apuesta por el "caraoke" para celebrar el Año Nuevo chino y pone a la venta un conjunto de micrófonos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-febrero-contenido-nuevos-canales-1004715'>Pluto TV multiplica en febrero su contenido gratuito con 7 nuevos canales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-febrero-contenido-nuevos-canales-1004715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pluto-tv-2602629.jpg' alt='Pluto TV multiplica en febrero su contenido gratuito con 7 nuevos canales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649'>The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/new-york-times-ha-comprado-wordle-ahora-seguira-siendo-gratuito-1004649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591549.jpg' alt='The New York Times ha comprado Wordle, y por ahora seguirá siendo gratuito' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-probar-como-quedara-ese-mueble-casa-pinterest-funcion-try-1004713'>Ya puedes probar cómo quedará ese mueble en tu casa con Pinterest y la función Try On</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-probar-como-quedara-ese-mueble-casa-pinterest-funcion-try-1004713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pinterest_1.jpg' alt='Ya puedes probar cómo quedará ese mueble en tu casa con Pinterest y la función Try On' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robot-lidl-monsieur-cuisine-cecotec-connect-mambo-10090-comparativa-1002865'>Monsieur Cuisine Connect vs Cecotec Mambo 10090: ¿es la mejor alternativa al robot de cocina de Lidl?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/robot-lidl-monsieur-cuisine-cecotec-connect-mambo-10090-comparativa-1002865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/monsieur-cousine-connect-cecotec-mambo-10090-2599267.jpg' alt='Monsieur Cuisine Connect vs Cecotec Mambo 10090: ¿es la mejor alternativa al robot de cocina de Lidl?' />
+    <h4><a href='https://computerhoy.com/listas/life/freidoras-aire-baratas-iniciarte-mundo-air-fryer-1004297'>15 freidoras de aire baratas para iniciarte en el mundo de las Air Fryer</a></h4>
+    <a href='https://computerhoy.com/listas/life/freidoras-aire-baratas-iniciarte-mundo-air-fryer-1004297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='15 freidoras de aire baratas para iniciarte en el mundo de las Air Fryer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165'>El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/exceso-grasa-corporal-puede-tener-ver-abuelos-fumasen-1004165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cigarro-2601751.jpg' alt='El exceso de grasa corporal puede tener que ver con que tus abuelos fumasen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-trabajos-relacionados-criptomonedas-demandados-1004671'>Estos son los 4 trabajos relacionados con criptomonedas más demandados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-trabajos-relacionados-criptomonedas-demandados-1004671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='Estos son los 4 trabajos relacionados con criptomonedas más demandados' />
     </a>
 </div>
 
