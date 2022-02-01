@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205'>5 grandes películas que llegan a las plataformas en febrero y no deberías perderte</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/grandes-peliculas-llegan-plataformas-streaming-febrero-1004205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dune-2509909.jpg' alt='5 grandes películas que llegan a las plataformas en febrero y no deberías perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193'>Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-996193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/9-mejores-juegos-plataformas-android-2022-tienes-descargar-ya-mismo-2596913.jpg' alt='Los 9 mejores juegos de plataformas para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/india-regula-criptomonedas-impuestos-altos-pais-30-1004925'>India regula las criptomonedas con los impuestos más altos del país: un 30%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/india-regula-criptomonedas-impuestos-altos-pais-30-1004925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bitcoin-india-2558875.jpg' alt='India regula las criptomonedas con los impuestos más altos del país: un 30%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839'>5 criptomonedas emergentes que podrían hacerte ganar dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-criptomonedas-emergentes-podrian-hacerte-ganar-dinero-1004839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/terminologia-criptomonedas-2568177.jpg' alt='5 criptomonedas emergentes que podrían hacerte ganar dinero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791'>El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivo-fbi-aconseja-deportistas-juegos-olimpicos-invierno-beijing-no-llevar-movil-china-1004791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/simbolo-juegos-olimpicos-2420967.jpg' alt='El motivo por el que el FBI aconseja a los deportistas de los Juegos Olímpicos de Invierno de Beijing no llevar su móvil a China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-leonardo-da-vinci-diseno-hace-530-anos-funciona-1004877'>Así es el dron que Leonardo da Vinci diseñó hace 530 años, y sí, funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-leonardo-da-vinci-diseno-hace-530-anos-funciona-1004877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/drone-2603081.jpg' alt='Así es el dron que Leonardo da Vinci diseñó hace 530 años, y sí, funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-guardar-copias-seguridad-whatsapp-movil-1004689'>5 pendrives para guardar copias de seguridad de WhatsApp y todos tus archivos del móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-guardar-copias-seguridad-whatsapp-movil-1004689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-usb-c-conectado-movil-2602641.jpg' alt='5 pendrives para guardar copias de seguridad de WhatsApp y todos tus archivos del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861'>Así es como la DGT quiere controlar que pagues por utilizar las autovías</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-dgt-controlar-pagues-autovias-1004861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaje-2603043.jpg' alt='Así es como la DGT quiere controlar que pagues por utilizar las autovías' />
     </a>
 </div>
 
