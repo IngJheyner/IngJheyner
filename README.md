@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/drones-autonomos-recogen-fruta-vuelo-1005033'>Los drones autónomos que recogen fruta al vuelo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039'>Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/epic-games-store-suma-194-millones-usuarios-pc-ha-regalado-765-millones-juegos-2603493.jpg' alt='Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/drones-autonomos-recogen-fruta-vuelo-1005033'>Los drones autónomos que recogen fruta al vuelo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/drones-autonomos-recogen-fruta-vuelo-1005033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/drones-autonomos-recogen-fruta-vuelo-2603489.jpg' alt='Los drones autónomos que recogen fruta al vuelo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/drones-autonomos-recogen-fruta-vuelo-2603489.jpg' alt='Los drones autónomos que recogen fruta al vuelo (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815'>La serie completa de Naruto en Blu-ray llegará a España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/naruto-naruto-uzumaki-2425679.jpg' alt='La serie completa de Naruto en Blu-ray llegará a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021'>Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-1005021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/crear-facilmente-stickers-animados-reacciones-mensajes-llegan-telegram-2603471.jpg' alt='Crear fácilmente stickers animados y las reacciones a mensajes llegan a Telegram' />
     </a>
 </div>
 
