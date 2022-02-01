@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-air-compatible-apple-pencil-oferta-1005027'>Este iPad Air de 10,9 pulgadas compatible con el Apple Pencil es ideal para dibujar, editar vídeo o ver series</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-air-compatible-apple-pencil-oferta-1005027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/apple-ipad-air-2020-2240279.jpg' alt='Este iPad Air de 10,9 pulgadas compatible con el Apple Pencil es ideal para dibujar, editar vídeo o ver series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-1005023'>Realme 9 Pro+ tendrá la función de sensor de pulso cardiaco en pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-1005023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-2603473.jpg' alt='Realme 9 Pro+ tendrá la función de sensor de pulso cardiaco en pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815'>La serie completa de Naruto en Blu-ray llegará a España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/naruto-naruto-uzumaki-2425679.jpg' alt='La serie completa de Naruto en Blu-ray llegará a España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999'>Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/orange-une-planes-despliegue-masivo-5g-red-700-mhz-1004999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Orange se une a los planes de despliegue masivo 5G en la red de 700 MHz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mini-ahora-puede-transformar-clasico-electrico-1004801'>Mini ahora puede transformar tu clásico en un eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mini-ahora-puede-transformar-clasico-electrico-1004801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/proyecto-mini-recharged-2595529.jpg' alt='Mini ahora puede transformar tu clásico en un eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005'>Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/novedad-youtube-music-radios-recomendadas-1005005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ultima-novedad-youtube-music-competir-spotify-radios-recomendadas-2603419.jpg' alt='Esta es la última novedad de YouTube Music para competir con Spotify: las radios recomendadas' />
     </a>
 </div>
 
