@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727'>La NASA tiene pensado estrellar la Estación Espacial Internacional en el Océano Pacífico, en el año 2031</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727'>La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nasa-tiene-pensado-estrellar-estacion-espacial-internacional-oceano-pacifico-ano-2031-2604693.jpg' alt='La NASA tiene pensado estrellar la Estación Espacial Internacional en el Océano Pacífico, en el año 2031' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nasa-tiene-pensado-estrellar-estacion-espacial-internacional-oceano-pacifico-ano-2031-2604693.jpg' alt='La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo' />
     </a>
 </div>
 
