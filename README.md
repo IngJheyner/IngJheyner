@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687'>Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera la ficción</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503'>Mortal Kombat tendrá secuela y ya se sabe quién la escribirá</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mortal-kombat-2021-2597573.jpg' alt='Mortal Kombat tendrá secuela y ya se sabe quién la escribirá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-solicitar-bono-alquiler-jovenes-1005713'>Cómo solicitar el bono de alquiler para jóvenes de 250 euros mensuales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-solicitar-bono-alquiler-jovenes-1005713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-solicitar-bono-joven-250-euros-mensuales-alquiler-2604603.jpg' alt='Cómo solicitar el bono de alquiler para jóvenes de 250 euros mensuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687'>Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera a la ficción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/vlc.jpg' alt='Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera la ficción' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/vlc.jpg' alt='Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera a la ficción' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/citroen-te-dejara-personalizar-ami-mediante-adhesivos-1005499'>Citroën te dejará personalizar tu Ami mediante adhesivos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/citroen-te-dejara-personalizar-ami-mediante-adhesivos-1005499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personalizacion-citroen-ami-2597095.jpg' alt='Citroën te dejará personalizar tu Ami mediante adhesivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bca-research-tira-suelos-precio-futuro-bitcoin-recomienda-mirar-otras-criptomonedas-1005695'>BCA Research tira por los suelos el precio futuro de Bitcoin y recomienda mirar a otras criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bca-research-tira-suelos-precio-futuro-bitcoin-recomienda-mirar-otras-criptomonedas-1005695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='BCA Research tira por los suelos el precio futuro de Bitcoin y recomienda mirar a otras criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-exito-pelicula-marvel-ha-disparado-beneficios-sony-1005613'>El sorprendente éxito de una película de Marvel ha disparado los beneficios de Sony</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-exito-pelicula-marvel-ha-disparado-beneficios-sony-1005613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-duende-verde-2566451.jpg' alt='El sorprendente éxito de una película de Marvel ha disparado los beneficios de Sony' />
     </a>
 </div>
 
