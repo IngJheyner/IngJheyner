@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empleado-mcdonalds-graba-video-secreto-como-preparar-big-mac-1005047'>Un empleado de McDonald's graba un vídeo secreto mostrando cómo se prepara un Big Mac</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empleado-mcdonalds-graba-video-secreto-como-preparar-big-mac-1005047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/empleado-mcdonalds-graba-video-secreto-mostrando-como-prepara-big-mac-2603497.jpg' alt='Un empleado de McDonald's graba un vídeo secreto mostrando cómo se prepara un Big Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039'>Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/epic-games-store-suma-194-millones-usuarios-pc-ha-regalado-765-millones-juegos-2603493.jpg' alt='Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-1005023'>Realme 9 Pro+ tendrá la función de sensor de pulso cardiaco en pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-1005023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-tendra-funcion-sensor-pulso-cardiaco-pantalla-2603473.jpg' alt='Realme 9 Pro+ tendrá la función de sensor de pulso cardiaco en pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815'>La serie completa de Naruto en Blu-ray llegará a España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-completa-naruto-blu-ray-llegara-espana-1004815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/naruto-naruto-uzumaki-2425679.jpg' alt='La serie completa de Naruto en Blu-ray llegará a España' />
     </a>
 </div>
 
