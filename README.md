@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-ya-obtiene-ingresos-anuncios-youtube-netflix-beneficios-1005375'>Google ya obtiene más ingresos con los anuncios en YouTube que Netflix beneficios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/google-ya-obtiene-ingresos-anuncios-youtube-netflix-beneficios-1005375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2603859.jpg' alt='Google ya obtiene más ingresos con los anuncios en YouTube que Netflix beneficios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-caracteristicas-poco-conocidas-gmail-te-haran-vida-facil-1005325'>Las 7 características poco conocidas de Gmail que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-caracteristicas-poco-conocidas-gmail-te-haran-vida-facil-1005325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/gmail-2317847.jpg' alt='Las 7 características poco conocidas de Gmail que te harán la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-estrena-diseno-incomodidades-1005329'>YouTube estrena diseño para acabar con una de sus mayores incomodidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-estrena-diseno-incomodidades-1005329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2603797.jpg' alt='YouTube estrena diseño para acabar con una de sus mayores incomodidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/han-descubierto-nueva-extrana-clase-agujero-negro-1004829'>Han descubierto una nueva y extraña clase de agujero negro</a></h4>
     <a href='https://computerhoy.com/noticias/life/han-descubierto-nueva-extrana-clase-agujero-negro-1004829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg' alt='Han descubierto una nueva y extraña clase de agujero negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/problemas-escribir-bien-nombres-algunas-marcas-automoviles-hundai-porche-wolkswagen-1004821'>Los problemas para escribir bien los nombres de algunas marcas de automóviles: Hundai, Porche, Wolkswagen...</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/problemas-escribir-bien-nombres-algunas-marcas-automoviles-hundai-porche-wolkswagen-1004821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/logotipo-volkswagen-2483943.jpg' alt='Los problemas para escribir bien los nombres de algunas marcas de automóviles: Hundai, Porche, Wolkswagen...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2603721.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
