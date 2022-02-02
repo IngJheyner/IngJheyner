@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727'>La NASA tiene pensado estrellar la Estación Espacial Internacional en el Océano Pacífico, en el año 2031</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nasa-tiene-pensado-estrellar-estacion-espacial-internacional-oceano-pacifico-ano-2031-2604693.jpg' alt='La NASA tiene pensado estrellar la Estación Espacial Internacional en el Océano Pacífico, en el año 2031' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nueva-samsung-galaxy-tab-s8-1005721'>Esto es todo lo que sabemos de la nueva Samsung Galaxy Tab S8</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nueva-samsung-galaxy-tab-s8-1005721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/todo-sabemos-nueva-samsung-galaxy-tab-s8-2604669.jpg' alt='Esto es todo lo que sabemos de la nueva Samsung Galaxy Tab S8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-yate-jeff-bezos-tan-grande-rotterdam-ha-visto-obligada-desmontar-puente-puedan-echarlo-mar-1005709'>El nuevo yate de Jeff Bezos es tan grande que Rotterdam se ha visto obligada a desmontar un puente para que puedan echarlo al mar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-yate-jeff-bezos-tan-grande-rotterdam-ha-visto-obligada-desmontar-puente-puedan-echarlo-mar-1005709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/jeff-bezos-fundador-amazon-2578703.jpg' alt='El nuevo yate de Jeff Bezos es tan grande que Rotterdam se ha visto obligada a desmontar un puente para que puedan echarlo al mar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503'>Mortal Kombat tendrá secuela y ya se sabe quién la escribirá</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mortal-kombat-2021-2597573.jpg' alt='Mortal Kombat tendrá secuela y ya se sabe quién la escribirá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-solicitar-bono-alquiler-jovenes-1005713'>Cómo solicitar el bono de alquiler para jóvenes de 250 euros mensuales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-solicitar-bono-alquiler-jovenes-1005713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-solicitar-bono-joven-250-euros-mensuales-alquiler-2604603.jpg' alt='Cómo solicitar el bono de alquiler para jóvenes de 250 euros mensuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687'>Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera a la ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/vlc.jpg' alt='Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera a la ficción' />
     </a>
 </div>
 
