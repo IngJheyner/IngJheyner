@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509'>La reacciones en Whatsapp podrían llegar más pronto de lo que creemos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='La reacciones en Whatsapp podrían llegar más pronto de lo que creemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-miles-coches-culpa-fallo-grave-seguridad-1005535'>Tesla vuelve a llamar a miles de coches por culpa de un fallo grave de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-miles-coches-culpa-fallo-grave-seguridad-1005535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/software-tesla-2278307.jpg' alt='Tesla vuelve a llamar a miles de coches por culpa de un fallo grave de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875'>5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-soundbar-31ch-2603097.jpg' alt='5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491'>La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/semaforo-rojo-2604091.jpg' alt='La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/drama-nft-80-creados-forma-gratuita-son-copia-spam-falsos-1005461'>El drama de los NFT: el 80% de los creados de forma gratuita son una copia, spam o falsos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/drama-nft-80-creados-forma-gratuita-son-copia-spam-falsos-1005461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guia-todo-debes-saber-crear-propios-archivos-nft-2599487.jpg' alt='El drama de los NFT: el 80% de los creados de forma gratuita son una copia, spam o falsos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463'>Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media</a></h4>
-    <a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media' />
     </a>
 </div>
 
