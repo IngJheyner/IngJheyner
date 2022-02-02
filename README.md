@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927'>5 estufas de gas baratas para ahorrar en la factura de la luz este invierno</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/llama-estufa-gas-2599537.jpg' alt='5 estufas de gas baratas para ahorrar en la factura de la luz este invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/han-descubierto-nueva-extrana-clase-agujero-negro-1004829'>Han descubierto una nueva y extraña clase de agujero negro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/han-descubierto-nueva-extrana-clase-agujero-negro-1004829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg' alt='Han descubierto una nueva y extraña clase de agujero negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/problemas-escribir-bien-nombres-algunas-marcas-automoviles-hundai-porche-wolkswagen-1004821'>Los problemas para escribir bien los nombres de algunas marcas de automóviles: Hundai, Porche, Wolkswagen...</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/problemas-escribir-bien-nombres-algunas-marcas-automoviles-hundai-porche-wolkswagen-1004821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/logotipo-volkswagen-2483943.jpg' alt='Los problemas para escribir bien los nombres de algunas marcas de automóviles: Hundai, Porche, Wolkswagen...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2603721.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825'>Radiador toallero: cuáles son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radiador-toallero-electrico-egso-2602847.jpg' alt='Radiador toallero: cuáles son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-cuentakilometros-trucado-1005285'>Estos son los coches de segunda mano con más probabilidades de tener el cuentakilómetros trucado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-segunda-mano-cuentakilometros-trucado-1005285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='Estos son los coches de segunda mano con más probabilidades de tener el cuentakilómetros trucado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empleado-mcdonalds-graba-video-secreto-como-preparar-big-mac-1005047'>Un empleado de McDonald's graba un vídeo secreto mostrando cómo se prepara un Big Mac</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empleado-mcdonalds-graba-video-secreto-como-preparar-big-mac-1005047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/empleado-mcdonalds-graba-video-secreto-mostrando-como-prepara-big-mac-2603497.jpg' alt='Un empleado de McDonald's graba un vídeo secreto mostrando cómo se prepara un Big Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039'>Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/epic-games-store-194-millones-usuarios-2021-1005039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/epic-games-store-suma-194-millones-usuarios-pc-ha-regalado-765-millones-juegos-2603493.jpg' alt='Epic Games Store suma 194 millones de usuarios de PC, ha regalado 765 millones de juegos en 2021' />
     </a>
 </div>
 
