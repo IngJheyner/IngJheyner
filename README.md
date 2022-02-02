@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-puede-desactivar-forma-remota-algunas-funciones-coches-utilizas-demasiado-1005433'>Tesla puede desactivar de forma remota algunas funciones de sus coches si las utilizas demasiado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-puede-desactivar-forma-remota-algunas-funciones-coches-utilizas-demasiado-1005433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Tesla puede desactivar de forma remota algunas funciones de sus coches si las utilizas demasiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-seguir-jugando-wordle-gratis-2024-aunque-nuevo-dueno-haga-pago-1005401'>Cómo asegurarte seguir jugando a Wordle gratis hasta 2024 aunque su nuevo dueño lo haga de pago</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-seguir-jugando-wordle-gratis-2024-aunque-nuevo-dueno-haga-pago-1005401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591547.jpg' alt='Cómo asegurarte seguir jugando a Wordle gratis hasta 2024 aunque su nuevo dueño lo haga de pago' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ya-ejerce-profesora-vuelo-inesperado-pilotos-militares-1005361'>La IA ya ejerce de profesora de vuelo ante lo inesperado para pilotos militares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-ya-ejerce-profesora-vuelo-inesperado-pilotos-militares-1005361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/avion%20de%20combate.jpg' alt='La IA ya ejerce de profesora de vuelo ante lo inesperado para pilotos militares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/conocido-streamer-youtube-estafa-suscriptores-500000-dolares-criptomonedas-comprarse-tesla-1005347'>Conocido streamer de YouTube estafa a sus suscriptores 500.000 dólares en criptomonedas para comprarse un Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/conocido-streamer-youtube-estafa-suscriptores-500000-dolares-criptomonedas-comprarse-tesla-1005347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ice-poseidon-2603827.jpg' alt='Conocido streamer de YouTube estafa a sus suscriptores 500.000 dólares en criptomonedas para comprarse un Tesla' />
     </a>
 </div>
 
