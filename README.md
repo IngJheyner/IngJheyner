@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-puede-desactivar-forma-remota-algunas-funciones-coches-utilizas-demasiado-1005433'>Tesla puede desactivar de forma remota algunas funciones de sus coches si las utilizas demasiado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-puede-desactivar-forma-remota-algunas-funciones-coches-utilizas-demasiado-1005433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Tesla puede desactivar de forma remota algunas funciones de sus coches si las utilizas demasiado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491'>La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/semaforo-rojo-2604091.jpg' alt='La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-seguir-jugando-wordle-gratis-2024-aunque-nuevo-dueno-haga-pago-1005401'>Cómo asegurarte seguir jugando a Wordle gratis hasta 2024 aunque su nuevo dueño lo haga de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-seguir-jugando-wordle-gratis-2024-aunque-nuevo-dueno-haga-pago-1005401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591547.jpg' alt='Cómo asegurarte seguir jugando a Wordle gratis hasta 2024 aunque su nuevo dueño lo haga de pago' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/drama-nft-80-creados-forma-gratuita-son-copia-spam-falsos-1005461'>El drama de los NFT: el 80% de los creados de forma gratuita son una copia, spam o falsos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/drama-nft-80-creados-forma-gratuita-son-copia-spam-falsos-1005461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guia-todo-debes-saber-crear-propios-archivos-nft-2599487.jpg' alt='El drama de los NFT: el 80% de los creados de forma gratuita son una copia, spam o falsos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-va-eliminar-molesta-opcion-seguramente-nunca-utilizas-1005395'>Netflix va a eliminar una molesta opción que seguramente nunca utilizas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-va-eliminar-molesta-opcion-seguramente-nunca-utilizas-1005395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/netflix-2603899.jpg' alt='Netflix va a eliminar una molesta opción que seguramente nunca utilizas' />
+    <h4><a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463'>Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-autovaciado-barato-mercado-espanol-cuesta-menos-300-euros-1004701'>Este es el robot aspirador con autovaciado más barato del mercado: es español y cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-autovaciado-barato-mercado-espanol-cuesta-menos-300-euros-1004701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-2290-ultra-home-2539383.jpg' alt='Este es el robot aspirador con autovaciado más barato del mercado: es español y cuesta menos de 300 euros' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/telefono-ambulatorio-2603897.jpg' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ya-ejerce-profesora-vuelo-inesperado-pilotos-militares-1005361'>La IA ya ejerce de profesora de vuelo ante lo inesperado para pilotos militares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-ya-ejerce-profesora-vuelo-inesperado-pilotos-militares-1005361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/avion%20de%20combate.jpg' alt='La IA ya ejerce de profesora de vuelo ante lo inesperado para pilotos militares' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-dos-nuevos-juegos-lista-ellos-paraguas-riot-games-1005421'>Netflix añade dos nuevos juegos a su lista, uno de ellos bajo el paraguas de Riot Games</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-dos-nuevos-juegos-lista-ellos-paraguas-riot-games-1005421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hextech-mayhem-2527429.jpg' alt='Netflix añade dos nuevos juegos a su lista, uno de ellos bajo el paraguas de Riot Games' />
     </a>
 </div>
 
