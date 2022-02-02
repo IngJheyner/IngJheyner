@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367'>Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comparativa-extensores-wifi-baratos-xiaomi-tp-link-2603953.jpg' alt='Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-razones-deberias-deshacerte-shiba-inu-dogecoins-1005541'>3 razones por las que deberías deshacerte de tus Shiba Inu y Dogecoins</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/3-razones-deberias-deshacerte-shiba-inu-dogecoins-1005541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dogecoin-2604177.jpg' alt='3 razones por las que deberías deshacerte de tus Shiba Inu y Dogecoins' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509'>La reacciones en Whatsapp podrían llegar más pronto de lo que creemos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='La reacciones en Whatsapp podrían llegar más pronto de lo que creemos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875'>5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-soundbar-31ch-2603097.jpg' alt='5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/starlink-lanza-nueva-tarifa-internet-superrapida-te-costara-500-euros-mes-1005513'>Starlink lanza una nueva tarifa de internet superrápida que te costará 500 euros al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/starlink-lanza-nueva-tarifa-internet-superrapida-te-costara-500-euros-mes-1005513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Starlink lanza una nueva tarifa de internet superrápida que te costará 500 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491'>La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/semaforo-rojo-2604091.jpg' alt='La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA' />
     </a>
 </div>
 
