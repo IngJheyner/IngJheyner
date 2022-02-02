@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875'>5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-soundbar-31ch-2603097.jpg' alt='5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/starlink-lanza-nueva-tarifa-internet-superrapida-te-costara-500-euros-mes-1005513'>Starlink lanza una nueva tarifa de internet superrápida que te costará 500 euros al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/starlink-lanza-nueva-tarifa-internet-superrapida-te-costara-500-euros-mes-1005513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Starlink lanza una nueva tarifa de internet superrápida que te costará 500 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491'>La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gestion-tiempo-rojo-semaforos-ia-1005491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/semaforo-rojo-2604091.jpg' alt='La gestión del tiempo en rojo de los semáforos mejoraría considerablemente gracias a esta IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463'>Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media</a></h4>
     <a href='https://computerhoy.com/noticias/cada-pulgada-nuevos-microled-samsung-cuesta-mismo-televisor-4k-gama-media-1005463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/embargada-3-enero-samsung-microled-2022-2575131.jpg' alt='Cada pulgada de los nuevos MicroLED de Samsung cuesta lo mismo que un televisor 4K de gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/telefono-ambulatorio-2603897.jpg' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-dos-nuevos-juegos-lista-ellos-paraguas-riot-games-1005421'>Netflix añade dos nuevos juegos a su lista, uno de ellos bajo el paraguas de Riot Games</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-dos-nuevos-juegos-lista-ellos-paraguas-riot-games-1005421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hextech-mayhem-2527429.jpg' alt='Netflix añade dos nuevos juegos a su lista, uno de ellos bajo el paraguas de Riot Games' />
     </a>
 </div>
 
