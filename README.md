@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-vuelve-clonar-productos-marca-vendidos-1005623'>Mercadona vuelve a clonar uno de los productos de marca más vendidos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-vuelve-clonar-productos-marca-vendidos-1005623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-mercadona-espana-2584903.jpg' alt='Mercadona vuelve a clonar uno de los productos de marca más vendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549'>La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/raised-wolves-2057555.jpg' alt='La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/3-razones-deberias-deshacerte-shiba-inu-dogecoins-1005541'>3 razones por las que deberías deshacerte de tus Shiba Inu y Dogecoins</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/3-razones-deberias-deshacerte-shiba-inu-dogecoins-1005541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dogecoin-2604177.jpg' alt='3 razones por las que deberías deshacerte de tus Shiba Inu y Dogecoins' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509'>Las reacciones en WhatsApp podrían llegar más pronto de lo que creemos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Las reacciones en WhatsApp podrían llegar más pronto de lo que creemos' />
     </a>
 </div>
 
