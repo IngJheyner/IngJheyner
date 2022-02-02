@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-estrena-diseno-incomodidades-1005329'>YouTube estrena diseño para acabar con una de sus mayores incomodidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-estrena-diseno-incomodidades-1005329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2603797.jpg' alt='YouTube estrena diseño para acabar con una de sus mayores incomodidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927'>5 estufas de gas baratas para ahorrar en la factura de la luz este invierno</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/llama-estufa-gas-2599537.jpg' alt='5 estufas de gas baratas para ahorrar en la factura de la luz este invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2603721.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825'>Radiador toallero: cuáles son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radiador-toallero-electrico-egso-2602847.jpg' alt='Radiador toallero: cuáles son los mejores que puedes comprar' />
     </a>
 </div>
 
