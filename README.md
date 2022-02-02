@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549'>La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/raised-wolves-2057555.jpg' alt='La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-pc-podria-utilizarse-rastrear-movimientos-1005621'>La tarjeta gráfica de tu PC podría utilizarse para rastrear tus movimientos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-pc-podria-utilizarse-rastrear-movimientos-1005621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/hacker-pide-100-millones-dolares-codigo-robado-xbox-series-x-proxima-gpu-pc-amd-1902003.jpg' alt='La tarjeta gráfica de tu PC podría utilizarse para rastrear tus movimientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367'>Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comparativa-extensores-wifi-baratos-xiaomi-tp-link-2603953.jpg' alt='Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509'>La reacciones en Whatsapp podrían llegar más pronto de lo que creemos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509'>Las reacciones en WhatsApp podrían llegar más pronto de lo que creemos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-podrian-llegar-pronto-creemos-1005509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='La reacciones en Whatsapp podrían llegar más pronto de lo que creemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-miles-coches-culpa-fallo-grave-seguridad-1005535'>Tesla vuelve a llamar a miles de coches por culpa de un fallo grave de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-miles-coches-culpa-fallo-grave-seguridad-1005535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/software-tesla-2278307.jpg' alt='Tesla vuelve a llamar a miles de coches por culpa de un fallo grave de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875'>5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-barra-sonido-subwoofer-xiaomi-soundbar-31ch-1004875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-soundbar-31ch-2603097.jpg' alt='5 razones por las que Xiaomi Soundbar 3.1ch puede convertirse en la barra de sonido más interesante de este año' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Las reacciones en WhatsApp podrían llegar más pronto de lo que creemos' />
     </a>
 </div>
 
