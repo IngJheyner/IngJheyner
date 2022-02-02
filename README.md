@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-packs-raton-teclado-puedes-comprar-1005469'>Mejores packs de ratón y teclado que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-packs-raton-teclado-puedes-comprar-1005469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/logitech-mk850-2604157.jpg' alt='Mejores packs de ratón y teclado que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687'>Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera la ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/domicilian-recibos-cuenta-recibir-donaciones-vlc-realidad-supera-ficcion-1005687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/vlc.jpg' alt='Domicilian recibos en la cuenta para recibir donaciones de VLC: la realidad supera la ficción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-vuelve-clonar-productos-marca-vendidos-1005623'>Mercadona vuelve a clonar uno de los productos de marca más vendidos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-vuelve-clonar-productos-marca-vendidos-1005623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/supermercado-mercadona-espana-2584903.jpg' alt='Mercadona vuelve a clonar uno de los productos de marca más vendidos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2-dias-12-horas-nuevo-limite-whatsapp-deberas-tener-cuenta-partir-ahora-1005701'>2 días y 12 horas: el nuevo límite de WhatsApp que deberás tener en cuenta a partir de ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2-dias-12-horas-nuevo-limite-whatsapp-deberas-tener-cuenta-partir-ahora-1005701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='2 días y 12 horas: el nuevo límite de WhatsApp que deberás tener en cuenta a partir de ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549'>La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-ciencia-ficcion-hbo-max-raised-wolves-1005549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/raised-wolves-2057555.jpg' alt='La gran serie de ciencia ficción de HBO Max regresa con muchas preguntas por resolver' />
+    <h4><a href='https://computerhoy.com/noticias/motor/citroen-te-dejara-personalizar-ami-mediante-adhesivos-1005499'>Citroën te dejará personalizar tu Ami mediante adhesivos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/citroen-te-dejara-personalizar-ami-mediante-adhesivos-1005499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personalizacion-citroen-ami-2597095.jpg' alt='Citroën te dejará personalizar tu Ami mediante adhesivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-pc-podria-utilizarse-rastrear-movimientos-1005621'>La tarjeta gráfica de tu PC podría utilizarse para rastrear tus movimientos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-pc-podria-utilizarse-rastrear-movimientos-1005621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/hacker-pide-100-millones-dolares-codigo-robado-xbox-series-x-proxima-gpu-pc-amd-1902003.jpg' alt='La tarjeta gráfica de tu PC podría utilizarse para rastrear tus movimientos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bca-research-tira-suelos-precio-futuro-bitcoin-recomienda-mirar-otras-criptomonedas-1005695'>BCA Research tira por los suelos el precio futuro de Bitcoin y recomienda mirar a otras criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bca-research-tira-suelos-precio-futuro-bitcoin-recomienda-mirar-otras-criptomonedas-1005695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='BCA Research tira por los suelos el precio futuro de Bitcoin y recomienda mirar a otras criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367'>Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-wifi-range-extender-pro-vs-tp-link-tl-wa855re-mejor-extensor-wifi-barato-1005367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comparativa-extensores-wifi-baratos-xiaomi-tp-link-2603953.jpg' alt='Xiaomi Mi WiFi Range Extender Pro vs TP-Link TL-WA855RE: cuál es el mejor extensor de WiFi barato y en qué se diferencian' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-exito-pelicula-marvel-ha-disparado-beneficios-sony-1005613'>El sorprendente éxito de una película de Marvel ha disparado los beneficios de Sony</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-exito-pelicula-marvel-ha-disparado-beneficios-sony-1005613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-duende-verde-2566451.jpg' alt='El sorprendente éxito de una película de Marvel ha disparado los beneficios de Sony' />
     </a>
 </div>
 
