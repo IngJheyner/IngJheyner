@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deepfake-youtuber-han-ayudado-mejorar-cgi-personaje-libro-boba-fett-1006085'>El deepfake y un youtuber han ayudado a mejorar el CGI de este personaje de El libro de Boba Fett</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deepfake-youtuber-han-ayudado-mejorar-cgi-personaje-libro-boba-fett-1006085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/libro-boba-fett-2580311.jpg' alt='El deepfake y un youtuber han ayudado a mejorar el CGI de este personaje de El libro de Boba Fett' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-estandar-wifi-superpoderes-detectar-gestos-1006117'>El próximo estándar WiFi podría dar superpoderes a tus dispositivos para que detecten los gestos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-estandar-wifi-superpoderes-detectar-gestos-1006117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-gestos-2605173.jpg' alt='El próximo estándar WiFi podría dar superpoderes a tus dispositivos para que detecten los gestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-articulos-twitter-podria-permitirnos-escribir-limite-caracteres-1006045'>La nueva función Artículos de Twitter podría permitirnos escribir sin límite de caracteres</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-articulos-twitter-podria-permitirnos-escribir-limite-caracteres-1006045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='La nueva función Artículos de Twitter podría permitirnos escribir sin límite de caracteres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuenta-atras-renta-2021-quien-tiene-obligacion-presentarla-cuando-podras-descargar-borrador-1006069'>Cuenta atrás para la Renta 2021: quién tiene obligación de presentarla y cuándo podrás descargar el borrador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuenta-atras-renta-2021-quien-tiene-obligacion-presentarla-cuando-podras-descargar-borrador-1006069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cuenta atrás para la Renta 2021: quién tiene obligación de presentarla y cuándo podrás descargar el borrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/microsoft-cancela-hololens-3-siembra-duda-futuro-realidad-virtual-1006017'>Microsoft cancela sus HoloLens 3 y siembra la duda sobre el futuro de la realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/microsoft-cancela-hololens-3-siembra-duda-futuro-realidad-virtual-1006017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/dims_2.jpeg' alt='Microsoft cancela sus HoloLens 3 y siembra la duda sobre el futuro de la realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/multa-1500-euros-dgt-subirte-coche-1006029'>La multa de hasta 1.500 euros que la DGT puede ponerte sin subirte al coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/multa-1500-euros-dgt-subirte-coche-1006029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multa-coche-2605007.jpg' alt='La multa de hasta 1.500 euros que la DGT puede ponerte sin subirte al coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-precio-saldo-asus-zenbook-13-rebajado-799-euros-1005641'>Un portátil con pantalla OLED y a precio de saldo: el ASUS ZenBook 13, rebajado a 799 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-precio-saldo-asus-zenbook-13-rebajado-799-euros-1005641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-zenbook-13-ux325ea-kg407t-2604443.jpg' alt='Un portátil con pantalla OLED y a precio de saldo: el ASUS ZenBook 13, rebajado a 799 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-absoluta-minero-solitario-consigue-minar-bitcoin-cuarto-caso-2022-1006033'>¡Locura absoluta! Un minero en solitario consigue minar un Bitcoin, el cuarto caso en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locura-absoluta-minero-solitario-consigue-minar-bitcoin-cuarto-caso-2022-1006033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mineros-criptomonedas-2261307.jpg' alt='¡Locura absoluta! Un minero en solitario consigue minar un Bitcoin, el cuarto caso en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/material-2d-ligero-plastico-fuerte-acero-ha-desarrollado-mit-1005989'>El material 2D más ligero que el plástico y más fuerte que el acero que ha desarrollado el MIT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/material-2d-ligero-plastico-fuerte-acero-ha-desarrollado-mit-1005989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/metal-liquido-1886765.jpg' alt='El material 2D más ligero que el plástico y más fuerte que el acero que ha desarrollado el MIT' />
     </a>
 </div>
 
