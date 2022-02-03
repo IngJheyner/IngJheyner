@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183'>Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jjoo-pekin-2605363.jpg' alt='Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231'>Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2605609.jpg' alt='Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189'>La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115'>1,3 millones por un NFT: cada vez más famosos se unen al club de los monos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bored-ape-2605171.jpg' alt='1,3 millones por un NFT: cada vez más famosos se unen al club de los monos ' />
     </a>
 </div>
 
