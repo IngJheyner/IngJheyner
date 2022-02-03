@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ha-resuelto-hardvard-problema-ajedrez-150-anos-1005519'>Se ha resuelto en Hardvard un problema de ajedrez tras 150 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ha-resuelto-hardvard-problema-ajedrez-150-anos-1005519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/ajedrez.jpg' alt='Se ha resuelto en Hardvard un problema de ajedrez tras 150 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-mitsubishi-asx-sera-fabricado-espana-1005511'>El nuevo Mitsubishi ASX será fabricado en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-mitsubishi-asx-sera-fabricado-espana-1005511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mitsubishi-asx-2598263.jpg' alt='El nuevo Mitsubishi ASX será fabricado en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005961'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2604903.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733'>Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma</a></h4>
     <a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-genial-consigue-platanos-tarden-tiempo-estropearse-necesitas-goma-2604705.jpg' alt='Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iswift-roboarm-brazo-robotico-ver-netflix-retrete-1005731'>iSwift Roboarm, el brazo robótico para ver Netflix mientras usas el retrete</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iswift-roboarm-brazo-robotico-ver-netflix-retrete-1005731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iswift-roboarm-brazo-robotico-ver-netflix-mientras-usas-retrete-2604701.jpg' alt='iSwift Roboarm, el brazo robótico para ver Netflix mientras usas el retrete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727'>La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nasa-tiene-pensado-estrellar-estacion-espacial-internacional-oceano-pacifico-ano-2031-2604693.jpg' alt='La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo' />
     </a>
 </div>
 
