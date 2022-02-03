@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733'>Para este hack genial que consigue que los plátanos tarden más tiempo en estropearse, necesitas una goma</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733'>Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma</a></h4>
     <a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-genial-consigue-platanos-tarden-tiempo-estropearse-necesitas-goma-2604705.jpg' alt='Para este hack genial que consigue que los plátanos tarden más tiempo en estropearse, necesitas una goma' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-genial-consigue-platanos-tarden-tiempo-estropearse-necesitas-goma-2604705.jpg' alt='Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma' />
     </a>
 </div>
 
