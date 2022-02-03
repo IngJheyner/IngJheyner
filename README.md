@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/barbacoas-electricas-menos-50-euros-son-perfectas-aprovechar-buen-tiempo-1006081'>Barbacoas eléctricas de menos de 50 euros que son perfectas para aprovechar el buen tiempo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/barbacoas-electricas-menos-50-euros-son-perfectas-aprovechar-buen-tiempo-1006081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/parrilla-electrica-2605147.jpg' alt='Barbacoas eléctricas de menos de 50 euros que son perfectas para aprovechar el buen tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podrian-anadir-ruido-patinetes-electricos-igual-anadio-coches-electricos-prevenir-accidentes-1006285'>Podrían añadir un ruido a los patinetes eléctricos al igual que se añadió a los coches eléctricos para prevenir accidentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podrian-anadir-ruido-patinetes-electricos-igual-anadio-coches-electricos-prevenir-accidentes-1006285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2558447.jpg' alt='Podrían añadir un ruido a los patinetes eléctricos al igual que se añadió a los coches eléctricos para prevenir accidentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183'>Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jjoo-pekin-2605363.jpg' alt='Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231'>Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2605609.jpg' alt='Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas' />
     </a>
 </div>
 
