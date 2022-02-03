@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/google-pixel-6-pro-review-opinion-1005583'>Google Pixel 6 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/google-pixel-6-pro-review-opinion-1005583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604441.jpg' alt='Google Pixel 6 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/monitores-144-hz-mejores-modelos-1005573'>Monitores 144 Hz: estos son los mejores que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/monitores-144-hz-mejores-modelos-1005573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/setup-gaming-monitor-pc-sobremesa-altavoces-portatil-2604321.jpg' alt='Monitores 144 Hz: estos son los mejores que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-pixel-6-pixel-6-pro-llegan-espana-mejor-experiencia-android-1005719'>Los Google Pixel 6 y Pixel 6 Pro llegan a España con la mejor experiencia Android y magia en la fotografía</a></h4>
+    <a href='https://computerhoy.com/noticias/google-pixel-6-pixel-6-pro-llegan-espana-mejor-experiencia-android-1005719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Los Google Pixel 6 y Pixel 6 Pro llegan a España con la mejor experiencia Android y magia en la fotografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-registra-perdida-usuarios-1005973'>Histórico: Facebook registra una pérdida de usuarios activos por primera vez en 18 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-registra-perdida-usuarios-1005973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='Histórico: Facebook registra una pérdida de usuarios activos por primera vez en 18 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ha-resuelto-hardvard-problema-ajedrez-150-anos-1005519'>Se ha resuelto en Hardvard un problema de ajedrez tras 150 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/ha-resuelto-hardvard-problema-ajedrez-150-anos-1005519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/ajedrez.jpg' alt='Se ha resuelto en Hardvard un problema de ajedrez tras 150 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-mitsubishi-asx-sera-fabricado-espana-1005511'>El nuevo Mitsubishi ASX será fabricado en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-mitsubishi-asx-sera-fabricado-espana-1005511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mitsubishi-asx-2598263.jpg' alt='El nuevo Mitsubishi ASX será fabricado en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005961'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1005961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2604903.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-consolas-portatiles-retro-1003003'>Consolas portátiles retro: estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/mejores-consolas-portatiles-retro-1003003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-game-watch-zelda-2532051.jpg' alt='Consolas portátiles retro: estas son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733'>Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hack-genial-platanos-goma-elastica-1005733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-genial-consigue-platanos-tarden-tiempo-estropearse-necesitas-goma-2604705.jpg' alt='Para este hack genial que consigue que los plátanos no se pongan negros, necesitas una goma' />
     </a>
 </div>
 
