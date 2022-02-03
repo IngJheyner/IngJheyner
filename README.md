@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrian-anadir-ruido-patinetes-electricos-igual-anadio-coches-electricos-prevenir-accidentes-1006285'>Podrían añadir un ruido a los patinetes eléctricos al igual que se añadió a los coches eléctricos para prevenir accidentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podrian-anadir-ruido-patinetes-electricos-igual-anadio-coches-electricos-prevenir-accidentes-1006285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2558447.jpg' alt='Podrían añadir un ruido a los patinetes eléctricos al igual que se añadió a los coches eléctricos para prevenir accidentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-carreras-android-2022-tienes-descargar-ya-mismo-984287'>Los 9 mejores juegos de carreras para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-carreras-android-2022-tienes-descargar-ya-mismo-984287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airspeeder-drones-voladores-piloto-disputar-carreras-estilo-formula-1-1917811.jpg' alt='Los 9 mejores juegos de carreras para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-descuento-segundo-altavoz-huawei-sound-joy-1006051'>Si te gustan las fiestas con altavoces Bluetooth, llévate un segundo Huawei Sound Joy con un descuento del 50%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-descuento-segundo-altavoz-huawei-sound-joy-1006051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-sound-joy-2596997.jpg' alt='Si te gustan las fiestas con altavoces Bluetooth, llévate un segundo Huawei Sound Joy con un descuento del 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183'>Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jjoo-pekin-2605363.jpg' alt='Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231'>Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2605609.jpg' alt='Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stock-google-pixel-6-pixel-6-pro-disponible-amazon-1006217'>Los nuevos Pixel 6 se estrenan en España con stock limitado, pero hay más que de sobra en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stock-google-pixel-6-pixel-6-pro-disponible-amazon-1006217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604441.jpg' alt='Los nuevos Pixel 6 se estrenan en España con stock limitado, pero hay más que de sobra en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sistema-conduccion-autonoma-toyota-hace-increibles-derrapes-evitar-obstaculos-1006203'>El sistema de conducción autónoma de Toyota hace increíbles derrapes para evitar obstáculos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sistema-conduccion-autonoma-toyota-hace-increibles-derrapes-evitar-obstaculos-1006203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toyota-derrape-2605387.jpg' alt='El sistema de conducción autónoma de Toyota hace increíbles derrapes para evitar obstáculos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189'>La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos' />
     </a>
 </div>
 
