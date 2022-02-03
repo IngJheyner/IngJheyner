@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189'>La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115'>1,3 millones por un NFT: cada vez más famosos se unen al club de los monos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bored-ape-2605171.jpg' alt='1,3 millones por un NFT: cada vez más famosos se unen al club de los monos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733'>Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224129.jpg' alt='Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-nueva-iniciativa-bill-gates-salvar-planeta-1006101'>La sorprendente nueva iniciativa de Bill Gates para salvar el planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-nueva-iniciativa-bill-gates-salvar-planeta-1006101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='La sorprendente nueva iniciativa de Bill Gates para salvar el planeta' />
     </a>
 </div>
 
