@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iswift-roboarm-brazo-robotico-ver-netflix-retrete-1005731'>iSwift Roboarm, el brazo robótico para ver Netflix mientras usas el retrete</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iswift-roboarm-brazo-robotico-ver-netflix-retrete-1005731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iswift-roboarm-brazo-robotico-ver-netflix-mientras-usas-retrete-2604701.jpg' alt='iSwift Roboarm, el brazo robótico para ver Netflix mientras usas el retrete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727'>La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estacion-espacial-internacional-oceano-pacifico-ano-2031-1005727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nasa-tiene-pensado-estrellar-estacion-espacial-internacional-oceano-pacifico-ano-2031-2604693.jpg' alt='La NASA anuncia que estrellará la Estación Espacial Internacional en el Océano Pacífico, y ya sabemos cuándo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-huawei-freebuds-4i-oferta-1005717'>El reloj Huawei Watch GT Runner tiene descuento, y de regalo los auriculares FreeBuds 4i con cancelación de ruido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-huawei-freebuds-4i-oferta-1005717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='El reloj Huawei Watch GT Runner tiene descuento, y de regalo los auriculares FreeBuds 4i con cancelación de ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503'>Mortal Kombat tendrá secuela y ya se sabe quién la escribirá</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mortal-kombat-tendra-secuela-ya-sabe-quien-escribira-1005503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mortal-kombat-2021-2597573.jpg' alt='Mortal Kombat tendrá secuela y ya se sabe quién la escribirá' />
     </a>
 </div>
 
