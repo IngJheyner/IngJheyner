@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bac-mono-tendra-motor-hidrogeno-1006155'>El BAC Mono tendrá un motor de hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bac-mono-tendra-motor-hidrogeno-1006155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bac-mono-fcev-2597969.jpg' alt='El BAC Mono tendrá un motor de hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/barbacoas-electricas-menos-50-euros-son-perfectas-aprovechar-buen-tiempo-1006081'>Barbacoas eléctricas de menos de 50 euros que son perfectas para aprovechar el buen tiempo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/barbacoas-electricas-menos-50-euros-son-perfectas-aprovechar-buen-tiempo-1006081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/parrilla-electrica-2605147.jpg' alt='Barbacoas eléctricas de menos de 50 euros que son perfectas para aprovechar el buen tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-descuento-segundo-altavoz-huawei-sound-joy-1006051'>Si te gustan las fiestas con altavoces Bluetooth, llévate un segundo Huawei Sound Joy con un descuento del 50%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-descuento-segundo-altavoz-huawei-sound-joy-1006051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-sound-joy-2596997.jpg' alt='Si te gustan las fiestas con altavoces Bluetooth, llévate un segundo Huawei Sound Joy con un descuento del 50%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183'>Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/casi-totalidad-nieve-juegos-olimpicos-invierno-beijing-artificial-genera-1006183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jjoo-pekin-2605363.jpg' alt='Casi la totalidad de nieve de los Juegos Olímpicos de invierno de Beijing es artificial y así se genera' />
     </a>
 </div>
 
