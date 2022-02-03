@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-cancela-hololens-3-siembra-duda-futuro-realidad-virtual-1006017'>Microsoft cancela sus HoloLens 3 y siembra la duda sobre el futuro de la realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-cancela-hololens-3-siembra-duda-futuro-realidad-virtual-1006017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/dims_2.jpeg' alt='Microsoft cancela sus HoloLens 3 y siembra la duda sobre el futuro de la realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/multa-1500-euros-dgt-subirte-coche-1006029'>La multa de hasta 1.500 euros que la DGT puede ponerte sin subirte al coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/multa-1500-euros-dgt-subirte-coche-1006029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multa-coche-2605007.jpg' alt='La multa de hasta 1.500 euros que la DGT puede ponerte sin subirte al coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-precio-saldo-asus-zenbook-13-rebajado-799-euros-1005641'>Un portátil con pantalla OLED y a precio de saldo: el ASUS ZenBook 13, rebajado a 799 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-precio-saldo-asus-zenbook-13-rebajado-799-euros-1005641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-zenbook-13-ux325ea-kg407t-2604443.jpg' alt='Un portátil con pantalla OLED y a precio de saldo: el ASUS ZenBook 13, rebajado a 799 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-absoluta-minero-solitario-consigue-minar-bitcoin-cuarto-caso-2022-1006033'>¡Locura absoluta! Un minero en solitario consigue minar un Bitcoin, el cuarto caso en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/locura-absoluta-minero-solitario-consigue-minar-bitcoin-cuarto-caso-2022-1006033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mineros-criptomonedas-2261307.jpg' alt='¡Locura absoluta! Un minero en solitario consigue minar un Bitcoin, el cuarto caso en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/material-2d-ligero-plastico-fuerte-acero-ha-desarrollado-mit-1005989'>El material 2D más ligero que el plástico y más fuerte que el acero que ha desarrollado el MIT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/material-2d-ligero-plastico-fuerte-acero-ha-desarrollado-mit-1005989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/metal-liquido-1886765.jpg' alt='El material 2D más ligero que el plástico y más fuerte que el acero que ha desarrollado el MIT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/corea-exito-juego-calamar-estamos-muertos-1005995'>Corea nos regala otro éxito incuestionable tras El juego del calamar, ¿igualará sus números?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/corea-exito-juego-calamar-estamos-muertos-1005995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estamos-muertos-2604601.jpg' alt='Corea nos regala otro éxito incuestionable tras El juego del calamar, ¿igualará sus números?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-609-computer-hoy-1001761'>¡Ya está en tu quiosco el número 609 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-609-computer-hoy-1001761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/computer-hoy-609-2598437.jpg' alt='¡Ya está en tu quiosco el número 609 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/google-pixel-6-pro-review-opinion-1005583'>Google Pixel 6 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/google-pixel-6-pro-review-opinion-1005583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604441.jpg' alt='Google Pixel 6 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/monitores-144-hz-mejores-modelos-1005573'>Monitores 144 Hz: estos son los mejores que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/monitores-144-hz-mejores-modelos-1005573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/setup-gaming-monitor-pc-sobremesa-altavoces-portatil-2604321.jpg' alt='Monitores 144 Hz: estos son los mejores que puedes comprar ahora mismo' />
     </a>
 </div>
 
