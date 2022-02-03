@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231'>Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-anuncia-rodara-primera-serie-espanola-pero-seguramente-no-esperabas-1006231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2605609.jpg' alt='Disney+ anuncia que rodará su primera serie española, pero seguramente no es lo que esperabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stock-google-pixel-6-pixel-6-pro-disponible-amazon-1006217'>Los nuevos Pixel 6 se estrenan en España con stock limitado, pero hay más que de sobra en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stock-google-pixel-6-pixel-6-pro-disponible-amazon-1006217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604441.jpg' alt='Los nuevos Pixel 6 se estrenan en España con stock limitado, pero hay más que de sobra en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sistema-conduccion-autonoma-toyota-hace-increibles-derrapes-evitar-obstaculos-1006203'>El sistema de conducción autónoma de Toyota hace increíbles derrapes para evitar obstáculos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sistema-conduccion-autonoma-toyota-hace-increibles-derrapes-evitar-obstaculos-1006203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toyota-derrape-2605387.jpg' alt='El sistema de conducción autónoma de Toyota hace increíbles derrapes para evitar obstáculos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189'>La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-google-deepmind-corrobora-bots-programan-ya-estan-altura-programadores-humanos-1006189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='La IA de Google Deepmind corrobora que los bots que programan ya están a la altura de los programadores humanos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115'>1,3 millones por un NFT: cada vez más famosos se unen al club de los monos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/13-millones-nft-cada-vez-famosos-unen-club-monos-1006115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bored-ape-2605171.jpg' alt='1,3 millones por un NFT: cada vez más famosos se unen al club de los monos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-puedes-ejecutar-linux-navegador-clara-demostracion-potencia-browsers-actuales-1006133'>Ya puedes ejecutar Linux en el navegador y es una clara demostración de la potencia de los browsers actuales</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-puedes-ejecutar-linux-navegador-clara-demostracion-potencia-browsers-actuales-1006133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/movil-linux.jpg' alt='Ya puedes ejecutar Linux en el navegador y es una clara demostración de la potencia de los browsers actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollos-xiaomi-poco-f3-redmi-10-1006047'>Chollos de Xiaomi: POCO F3 desde 289 euros y Redmi 10 desde 179 euros ¡solo hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollos-xiaomi-poco-f3-redmi-10-1006047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Chollos de Xiaomi: POCO F3 desde 289 euros y Redmi 10 desde 179 euros ¡solo hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733'>Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224129.jpg' alt='Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra' />
     </a>
 </div>
 
