@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363'>Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/perro-robot-2501249.jpg' alt='Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cecotec-chollo-1006365'>Casi la regalan: esta freidora sin aceite de Cecotec baja a solo 36 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cecotec-chollo-1006365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-regalan-freidora-aceite-cecotec-baja-solo-36-euros-2606011.jpg' alt='Casi la regalan: esta freidora sin aceite de Cecotec baja a solo 36 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-alternativas-spotify-amazon-music-1006361'>5 alternativas a Spotify y Amazon Music en las que también encontrarás música de calidad</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/5-alternativas-spotify-amazon-music-1006361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg' alt='5 alternativas a Spotify y Amazon Music en las que también encontrarás música de calidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-gunn-quiere-rodar-otra-serie-spin-escuadron-suicida-1006157'>James Gunn quiere rodar otra serie spin-off de El Escuadrón Suicida</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/james-gunn-quiere-rodar-otra-serie-spin-escuadron-suicida-1006157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/escuadron-suicida-2423389.jpg' alt='James Gunn quiere rodar otra serie spin-off de El Escuadrón Suicida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sale-luz-viejo-truco-google-maps-sorprendentemente-poca-gente-conoce-1006351'>Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sale-luz-viejo-truco-google-maps-sorprendentemente-poca-gente-conoce-1006351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-maps-2200309.jpg' alt='Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-corregido-importante-vulnerabilidad-incibe-recomienda-actualizar-cuanto-antes-1006349'>WhatsApp ha corregido una importante vulnerabilidad según INCIBE que recomienda actualizar cuanto antes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-corregido-importante-vulnerabilidad-incibe-recomienda-actualizar-cuanto-antes-1006349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='WhatsApp ha corregido una importante vulnerabilidad según INCIBE que recomienda actualizar cuanto antes' />
     </a>
 </div>
 
