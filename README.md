@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003'>GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gta-v-llegan-ps5-xbox-series-x-ray-tracing-gta-vi-oficialmente-desarrollo-2607197.jpg' alt='GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999'>El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/cascos-logo-spotify-fondo-2017311.jpg' alt='El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001'>Un informe indica que Google podría estar desmantelando Stadia como plataforma, de forma silenciosa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001'>Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Un informe indica que Google podría estar desmantelando Stadia como plataforma, de forma silenciosa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-honor-magicbook-x15-rebaja-1006995'>El portátil ultrafino Honor MagicBook X15 con 8 GB de RAM viene con Windows 10 instalado y baja a su precio mínimo, 499 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-honor-magicbook-x15-rebaja-1006995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='El portátil ultrafino Honor MagicBook X15 con 8 GB de RAM viene con Windows 10 instalado y baja a su precio mínimo, 499 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823'>Otra gran estrella se unirá al reparto de Fast & Furious 10</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/jason-momoa-aquaman-2369661.jpg' alt='Otra gran estrella se unirá al reparto de Fast & Furious 10' />
     </a>
 </div>
 
