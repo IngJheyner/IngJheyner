@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/principales-causas-soledad-manera-abordarla-1006165'>Las principales causas de la soledad y una manera de abordarla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/principales-causas-soledad-manera-abordarla-1006165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/soledad-tristeza-2246867.jpg' alt='Las principales causas de la soledad y una manera de abordarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/precio-estaban-asegurados-pulgares-fernando-alonso-1006163'>A este precio estaban asegurados los pulgares de Fernando Alonso</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/precio-estaban-asegurados-pulgares-fernando-alonso-1006163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fernando-alonso-2598765.jpg' alt='A este precio estaban asegurados los pulgares de Fernando Alonso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1006613'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1006613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2606321.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-espanolas-peseta-digital-rotomoon-1006611'>Qué ha pasado con las criptomonedas españolas Peseta Digital y RotoMoon, ¿dónde están ahora?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-espanolas-peseta-digital-rotomoon-1006611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/rotomoon-criptomoneda-forocoches-2322855.jpg' alt='Qué ha pasado con las criptomonedas españolas Peseta Digital y RotoMoon, ¿dónde están ahora?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-cocina-tarta-abierta-1006609'>Este sencillo truco evitará que se estropee una tarta abierta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-cocina-tarta-abierta-1006609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sencillo-truco-evitara-estropee-tarta-abierta-2606319.jpg' alt='Este sencillo truco evitará que se estropee una tarta abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383'>Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/entrenan-pilotos-grandes-cargueros-barcos-miniatura-2606099.jpg' alt='Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura' />
     </a>
 </div>
 
