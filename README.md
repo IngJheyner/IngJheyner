@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823'>Otra gran estrella se unirá al reparto de Fast & Furious 10</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/jason-momoa-aquaman-2369661.jpg' alt='Otra gran estrella se unirá al reparto de Fast & Furious 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunas-personas-estan-retirando-altavoces-airtags-supone-grave-problema-privacidad-1006977'>Algunas personas están retirando los altavoces a los AirTags y esto supone un grave problema de privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algunas-personas-estan-retirando-altavoces-airtags-supone-grave-problema-privacidad-1006977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Algunas personas están retirando los altavoces a los AirTags y esto supone un grave problema de privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-error-android-auto-hace-musica-suene-mucho-aburrida-1006989'>El último error de Android Auto hace que la música suene mucho más aburrida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-error-android-auto-hace-musica-suene-mucho-aburrida-1006989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El último error de Android Auto hace que la música suene mucho más aburrida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-pone-seria-nunca-compartas-whatsapp-1006987'>La Guardia Civil se pone seria: NUNCA compartas esto en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-pone-seria-nunca-compartas-whatsapp-1006987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-estafa-2607135.jpg' alt='La Guardia Civil se pone seria: NUNCA compartas esto en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/contenidos-nuevos-suscriptores-disney-plus-1006983'>Desvelan los contenidos que más suscriptores le han dado a Disney+, y el ganador te va a sorprender</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/contenidos-nuevos-suscriptores-disney-plus-1006983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desvelan-contenidos-suscriptores-han-dado-disney-ganador-te-va-sorprender-2607133.jpg' alt='Desvelan los contenidos que más suscriptores le han dado a Disney+, y el ganador te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-nissan-micra-solo-sera-electrico-empieza-nueva-epoca-1006821'>El nuevo Nissan Micra solo será eléctrico: empieza una nueva época</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-nissan-micra-solo-sera-electrico-empieza-nueva-epoca-1006821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-nissan-micra-2599519.jpg' alt='El nuevo Nissan Micra solo será eléctrico: empieza una nueva época' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-1006957'>Ahora podrás indicar que un tweet no te gusta gracias a este nuevo botón que ha integrado Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-1006957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-2607087.jpg' alt='Ahora podrás indicar que un tweet no te gusta gracias a este nuevo botón que ha integrado Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tarjeta-microsd-sandisk-ultra-64-gb-2606469.jpg' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907'>Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-ver-2606991.jpg' alt='Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes' />
     </a>
 </div>
 
