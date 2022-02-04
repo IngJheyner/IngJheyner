@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tarjeta-microsd-sandisk-ultra-64-gb-2606469.jpg' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907'>Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-ver-2606991.jpg' alt='Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-estrella-microsoft-baja-precio-iguala-macbook-air-subete-windows-11-solo-949-euros-1006677'>El portátil estrella de Microsoft baja de precio e iguala al MacBook Air: súbete a Windows 11 por solo 949 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-estrella-microsoft-baja-precio-iguala-macbook-air-subete-windows-11-solo-949-euros-1006677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355581.jpg' alt='El portátil estrella de Microsoft baja de precio e iguala al MacBook Air: súbete a Windows 11 por solo 949 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pistolas-inteligentes-evitar-suicidios-matanzas-demas-tragedias-eeuu-1006885'>Pistolas inteligentes para evitar suicidios, matanzas y demás tragedias en EE.UU.</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pistolas-inteligentes-evitar-suicidios-matanzas-demas-tragedias-eeuu-1006885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pistola-2606949.jpg' alt='Pistolas inteligentes para evitar suicidios, matanzas y demás tragedias en EE.UU.' />
     </a>
 </div>
 
