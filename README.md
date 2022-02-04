@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/distro-linux-mantenimiento-antigua-sigue-viva-29-anos-despues-llega-slackware-15-1006793'>La distro Linux con mantenimiento más antigua sigue viva 29 años después: llega Slackware 15</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/distro-linux-mantenimiento-antigua-sigue-viva-29-anos-despues-llega-slackware-15-1006793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='La distro Linux con mantenimiento más antigua sigue viva 29 años después: llega Slackware 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811'>Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/protected-3d-2606717.jpg' alt='Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787'>Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-find-x5-pro-2587873.jpg' alt='Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mejores-sartenes-baratas-menos-15-euros-ocu-1006713'>Las mejores sartenes baratas por menos de 15 euros según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/mejores-sartenes-baratas-menos-15-euros-ocu-1006713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sarten-antiadherente-2465857.jpg' alt='Las mejores sartenes baratas por menos de 15 euros según la OCU' />
     </a>
 </div>
 
