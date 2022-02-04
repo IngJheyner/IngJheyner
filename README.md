@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/no-esperes-nueva-consola-nintendo-switch-mitad-ciclo-vida-1006653'>No esperes nueva consola de Nintendo: "la switch está a mitad de ciclo de vida"</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/no-esperes-nueva-consola-nintendo-switch-mitad-ciclo-vida-1006653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='No esperes nueva consola de Nintendo: "la switch está a mitad de ciclo de vida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-precio-liquidacion-regalo-auriculares-1006665'>Consigue un Samsung Galaxy S21 5G y los auriculares Galaxy Buds Live a precio de liquidación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-precio-liquidacion-regalo-auriculares-1006665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217035.jpg' alt='Consigue un Samsung Galaxy S21 5G y los auriculares Galaxy Buds Live a precio de liquidación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-pronostican-primavera-complicada-bitcoin-retorno-minimos-1006687'>Analistas pronostican una primavera complicada para Bitcoin con un retorno a mínimos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/analistas-pronostican-primavera-complicada-bitcoin-retorno-minimos-1006687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Analistas pronostican una primavera complicada para Bitcoin con un retorno a mínimos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/efecto-acordeon-carretera-dgt-1006675'>Qué es el efecto acordeón y cómo evitarlo en carretera, según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/efecto-acordeon-carretera-dgt-1006675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/conductor-retencion-2606387.jpg' alt='Qué es el efecto acordeón y cómo evitarlo en carretera, según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-no-cubre-danos-iphone-mojan-aunque-anuncien-como-resistentes-agua-1006635'>Apple no cubre los daños de los iPhone si se mojan, aunque se anuncien como resistentes al agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-no-cubre-danos-iphone-mojan-aunque-anuncien-como-resistentes-agua-1006635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Apple no cubre los daños de los iPhone si se mojan, aunque se anuncien como resistentes al agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-une-netflix-tambien-sube-precio-cambiando-mercado-1006645'>Prime Video imita a Netflix y también será más caro, ¿está cambiando el mercado?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-une-netflix-tambien-sube-precio-cambiando-mercado-1006645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg' alt='Prime Video imita a Netflix y también será más caro, ¿está cambiando el mercado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/regletas-enchufes-usb-mejores-puedes-comprar-1006125'>Regletas con enchufes USB: estas son algunas de las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/regletas-enchufes-usb-mejores-puedes-comprar-1006125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/regleta-usb-2605803.jpg' alt='Regletas con enchufes USB: estas son algunas de las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robo-criptomonedas-millones-dolares-plataforma-wormhole-1006627'>Continúan los grandes robos de criptomonedas: ahora 320 millones de dólares a la plataforma Wormhole</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robo-criptomonedas-millones-dolares-plataforma-wormhole-1006627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg' alt='Continúan los grandes robos de criptomonedas: ahora 320 millones de dólares a la plataforma Wormhole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-6-review-opinion-1003971'>Google Pixel 6, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-6-review-opinion-1003971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604657.jpg' alt='Google Pixel 6, análisis y opinión' />
     </a>
 </div>
 
