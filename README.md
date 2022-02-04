@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383'>Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/entrenan-pilotos-grandes-cargueros-barcos-miniatura-2606099.jpg' alt='Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377'>Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-publica-23-posteres-senor-anillos-anillos-poder-son-alucinantes-galeria-2606069.jpg' alt='Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-alternativas-spotify-amazon-music-1006361'>5 alternativas a Spotify y Amazon Music en las que también encontrarás música de calidad</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/5-alternativas-spotify-amazon-music-1006361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg' alt='5 alternativas a Spotify y Amazon Music en las que también encontrarás música de calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-crear-logo-movil-1006339'>Las 7 mejores aplicaciones para crear un logo desde el móvil</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-crear-logo-movil-1006339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Las 7 mejores aplicaciones para crear un logo desde el móvil' />
     </a>
 </div>
 
