@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1006613'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1006613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2606321.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidoras-sin-aceite-baratas-ofertas-879741'>5 freidoras sin aceite tan baratas como la de Lidl que puedes comprar ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidoras-sin-aceite-baratas-ofertas-879741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/freidora-aceite-philips-xxl-2364919.jpg' alt='5 freidoras sin aceite tan baratas como la de Lidl que puedes comprar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-espanolas-peseta-digital-rotomoon-1006611'>Qué ha pasado con las criptomonedas españolas Peseta Digital y RotoMoon, ¿dónde están ahora?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-espanolas-peseta-digital-rotomoon-1006611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/rotomoon-criptomoneda-forocoches-2322855.jpg' alt='Qué ha pasado con las criptomonedas españolas Peseta Digital y RotoMoon, ¿dónde están ahora?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-cocina-tarta-abierta-1006609'>Este sencillo truco evitará que se estropee una tarta abierta</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-cocina-tarta-abierta-1006609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sencillo-truco-evitara-estropee-tarta-abierta-2606319.jpg' alt='Este sencillo truco evitará que se estropee una tarta abierta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383'>Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura</a></h4>
     <a href='https://computerhoy.com/noticias/motor/port-revel-entrenamiento-pilotos-barcos-miniatura-1006383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/entrenan-pilotos-grandes-cargueros-barcos-miniatura-2606099.jpg' alt='Así se entrenan los pilotos de grandes cargueros: con barcos en miniatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377'>Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-publica-23-posteres-senor-anillos-anillos-poder-son-alucinantes-galeria-2606069.jpg' alt='Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363'>Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/perro-robot-2501249.jpg' alt='Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cecotec-chollo-1006365'>Casi la regalan: esta freidora sin aceite de Cecotec baja a solo 36 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cecotec-chollo-1006365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-regalan-freidora-aceite-cecotec-baja-solo-36-euros-2606011.jpg' alt='Casi la regalan: esta freidora sin aceite de Cecotec baja a solo 36 euros' />
     </a>
 </div>
 
