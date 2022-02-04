@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377'>Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-23-posteres-senor-anillos-anillos-poder-galeria-1006377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-publica-23-posteres-senor-anillos-anillos-poder-son-alucinantes-galeria-2606069.jpg' alt='Amazon Prime Video publica 23 pósteres de El Señor de los Anillos: Los Anillos de Poder, y son alucinantes (galería)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363'>Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/patrulla-perros-robot-empezaran-vigilar-frontera-estados-unidos-1006363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/perro-robot-2501249.jpg' alt='Así es la patrulla de perros robot que empezarán a vigilar la frontera de Estados Unidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-crear-logo-movil-1006339'>Las 7 mejores aplicaciones para crear un logo desde el móvil</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-crear-logo-movil-1006339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-2547315.jpg' alt='Las 7 mejores aplicaciones para crear un logo desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-gunn-quiere-rodar-otra-serie-spin-escuadron-suicida-1006157'>James Gunn quiere rodar otra serie spin-off de El Escuadrón Suicida</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/james-gunn-quiere-rodar-otra-serie-spin-escuadron-suicida-1006157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/escuadron-suicida-2423389.jpg' alt='James Gunn quiere rodar otra serie spin-off de El Escuadrón Suicida' />
     </a>
 </div>
 
