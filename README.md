@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999'>El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/cascos-logo-spotify-fondo-2017311.jpg' alt='El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001'>Un informe indica que Google podría estar desmantelando Stadia como plataforma, de forma silenciosa</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Un informe indica que Google podría estar desmantelando Stadia como plataforma, de forma silenciosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-liquid-retina-xdr-macbook-pro-tiene-problema-brillo-apple-acaba-reconocer-1006993'>La pantalla Liquid Retina XDR de los MacBook Pro tiene un problema de brillo que Apple acaba de reconocer</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-liquid-retina-xdr-macbook-pro-tiene-problema-brillo-apple-acaba-reconocer-1006993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538039.jpg' alt='La pantalla Liquid Retina XDR de los MacBook Pro tiene un problema de brillo que Apple acaba de reconocer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823'>Otra gran estrella se unirá al reparto de Fast & Furious 10</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/otra-gran-estrella-unira-reparto-fast-furious-10-1006823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/jason-momoa-aquaman-2369661.jpg' alt='Otra gran estrella se unirá al reparto de Fast & Furious 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunas-personas-estan-retirando-altavoces-airtags-supone-grave-problema-privacidad-1006977'>Algunas personas están retirando los altavoces a los AirTags y esto supone un grave problema de privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algunas-personas-estan-retirando-altavoces-airtags-supone-grave-problema-privacidad-1006977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Algunas personas están retirando los altavoces a los AirTags y esto supone un grave problema de privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-error-android-auto-hace-musica-suene-mucho-aburrida-1006989'>El último error de Android Auto hace que la música suene mucho más aburrida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-error-android-auto-hace-musica-suene-mucho-aburrida-1006989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='El último error de Android Auto hace que la música suene mucho más aburrida' />
     </a>
 </div>
 
