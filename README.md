@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811'>Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/protected-3d-2606717.jpg' alt='Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con numero oculto en iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg' alt='Cómo llamar con numero oculto en iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/estrenamos-newsletter-chollos-gaming-unete-recibir-novedades-ofertas-1006173'>Estrenamos newsletter de chollos gaming: únete para recibir novedades y ofertas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/estrenamos-newsletter-chollos-gaming-unete-recibir-novedades-ofertas-1006173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gaming-setup-2605321.jpg' alt='Estrenamos newsletter de chollos gaming: únete para recibir novedades y ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787'>Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-find-x5-pro-2587873.jpg' alt='Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mejores-sartenes-baratas-menos-15-euros-ocu-1006713'>Las mejores sartenes baratas por menos de 15 euros según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/mejores-sartenes-baratas-menos-15-euros-ocu-1006713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sarten-antiadherente-2465857.jpg' alt='Las mejores sartenes baratas por menos de 15 euros según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-nevera-lidl-perfecta-mesa-1006757'>La mininevera de LIDL es perfecta para ponerla sobre una mesa y está en oferta a un 67% de su precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-nevera-lidl-perfecta-mesa-1006757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mininevera-2606487.jpg' alt='La mininevera de LIDL es perfecta para ponerla sobre una mesa y está en oferta a un 67% de su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/enola-holmes-2-punales-espalda-2-pinocho-netflix-anuncia-80-peliculas-2022-1006753'>Enola Holmes 2, Puñales por la espalda 2, Pinocho... Netflix anuncia más de 80 películas para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/enola-holmes-2-punales-espalda-2-pinocho-netflix-anuncia-80-peliculas-2022-1006753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/enola-holmes-2335111.jpg' alt='Enola Holmes 2, Puñales por la espalda 2, Pinocho... Netflix anuncia más de 80 películas para 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/no-esperes-nueva-consola-nintendo-switch-mitad-ciclo-vida-1006653'>No esperes nueva consola de Nintendo: "la switch está a mitad de ciclo de vida"</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/no-esperes-nueva-consola-nintendo-switch-mitad-ciclo-vida-1006653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='No esperes nueva consola de Nintendo: "la switch está a mitad de ciclo de vida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-precio-liquidacion-regalo-auriculares-1006665'>Consigue un Samsung Galaxy S21 5G y los auriculares Galaxy Buds Live a precio de liquidación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-precio-liquidacion-regalo-auriculares-1006665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217035.jpg' alt='Consigue un Samsung Galaxy S21 5G y los auriculares Galaxy Buds Live a precio de liquidación' />
     </a>
 </div>
 
