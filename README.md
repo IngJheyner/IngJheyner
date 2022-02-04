@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/contenidos-nuevos-suscriptores-disney-plus-1006983'>Desvelan los contenidos que más suscriptores le han dado a Disney+, y el ganador te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/contenidos-nuevos-suscriptores-disney-plus-1006983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desvelan-contenidos-suscriptores-han-dado-disney-ganador-te-va-sorprender-2607133.jpg' alt='Desvelan los contenidos que más suscriptores le han dado a Disney+, y el ganador te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-nissan-micra-solo-sera-electrico-empieza-nueva-epoca-1006821'>El nuevo Nissan Micra solo será eléctrico: empieza una nueva época</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-nissan-micra-solo-sera-electrico-empieza-nueva-epoca-1006821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nuevo-nissan-micra-2599519.jpg' alt='El nuevo Nissan Micra solo será eléctrico: empieza una nueva época' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-1006957'>Ahora podrás indicar que un tweet no te gusta gracias a este nuevo botón que ha integrado Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-1006957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ahora-podras-indicar-tweet-no-te-gusta-gracias-nuevo-boton-ha-integrado-twitter-2607087.jpg' alt='Ahora podrás indicar que un tweet no te gusta gracias a este nuevo botón que ha integrado Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tarjeta-microsd-sandisk-ultra-64-gb-2606469.jpg' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907'>Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-pluto-tv-disney-zombis-pareja-delincuentes-1006907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-ver-2606991.jpg' alt='Qué series ver este fin de semana en Netflix, Pluto TV y Disney+: unos zombis, una pareja y unos delincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-permitira-probar-nuevas-funciones-tal-vez-nunca-lleguen-existir-1006925'>Windows 11 te permitirá probar nuevas funciones que tal vez nunca lleguen a existir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-permitira-probar-nuevas-funciones-tal-vez-nunca-lleguen-existir-1006925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 te permitirá probar nuevas funciones que tal vez nunca lleguen a existir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-apple-tv-prime-video-hbo-max-te-gustan-emociones-fuertes-1006815'>Qué películas ver este fin de semana en Apple TV+, Prime Video y HBO Max si te gustan las emociones fuertes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-apple-tv-prime-video-hbo-max-te-gustan-emociones-fuertes-1006815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2606673.jpg' alt='Qué películas ver este fin de semana en Apple TV+, Prime Video y HBO Max si te gustan las emociones fuertes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-estrella-microsoft-baja-precio-iguala-macbook-air-subete-windows-11-solo-949-euros-1006677'>El portátil estrella de Microsoft baja de precio e iguala al MacBook Air: súbete a Windows 11 por solo 949 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-estrella-microsoft-baja-precio-iguala-macbook-air-subete-windows-11-solo-949-euros-1006677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355581.jpg' alt='El portátil estrella de Microsoft baja de precio e iguala al MacBook Air: súbete a Windows 11 por solo 949 euros' />
     </a>
 </div>
 
