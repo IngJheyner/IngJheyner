@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pistolas-inteligentes-evitar-suicidios-matanzas-demas-tragedias-eeuu-1006885'>Pistolas inteligentes para evitar suicidios, matanzas y demás tragedias en EE.UU.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pistolas-inteligentes-evitar-suicidios-matanzas-demas-tragedias-eeuu-1006885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pistola-2606949.jpg' alt='Pistolas inteligentes para evitar suicidios, matanzas y demás tragedias en EE.UU.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/15-regalos-san-valentin-perfectos-cualquier-geek-1006171'>15 regalos de San Valentín perfectos para cualquier geek</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/15-regalos-san-valentin-perfectos-cualquier-geek-1006171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/san-valentin-tecnologico-2605349.jpg' alt='15 regalos de San Valentín perfectos para cualquier geek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-pensando-obligar-todos-usuarios-actualizar-windows-10-ultimo-parche-seguridad-1006863'>Microsoft está pensando en obligar a todos los usuarios a actualizar Windows 10 al último parche de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-pensando-obligar-todos-usuarios-actualizar-windows-10-ultimo-parche-seguridad-1006863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/windows-update-2048261.jpg' alt='Microsoft está pensando en obligar a todos los usuarios a actualizar Windows 10 al último parche de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/distro-linux-mantenimiento-antigua-sigue-viva-29-anos-despues-llega-slackware-15-1006793'>La distro Linux con mantenimiento más antigua sigue viva 29 años después: llega Slackware 15</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/distro-linux-mantenimiento-antigua-sigue-viva-29-anos-despues-llega-slackware-15-1006793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='La distro Linux con mantenimiento más antigua sigue viva 29 años después: llega Slackware 15' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811'>Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-escaneo-impresion-3d-crear-protesis-personalizadas-jugadores-futbol-americano-1006811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/protected-3d-2606717.jpg' alt='Así se usa el escaneo e impresión 3D para crear prótesis personalizadas para jugadores de fútbol americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con numero oculto en iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg' alt='Cómo llamar con numero oculto en iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/estrenamos-newsletter-chollos-gaming-unete-recibir-novedades-ofertas-1006173'>Estrenamos newsletter de chollos gaming: únete para recibir novedades y ofertas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/estrenamos-newsletter-chollos-gaming-unete-recibir-novedades-ofertas-1006173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gaming-setup-2605321.jpg' alt='Estrenamos newsletter de chollos gaming: únete para recibir novedades y ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787'>Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-ya-ha-certificado-nuevos-find-x5-find-x5-pro-son-camaras-1006787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-find-x5-pro-2587873.jpg' alt='Oppo ya ha certificado los nuevos Find X5 y Find X5 Pro y así son sus cámaras' />
     </a>
 </div>
 
