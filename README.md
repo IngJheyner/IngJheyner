@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219'>Un experimento revela por qué nos cuesta dormir fuera de casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Un experimento revela por qué nos cuesta dormir fuera de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845'>Cómo hacer que Windows 11 no se suspenda</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suspender-windows-11-2531239.jpg' alt='Cómo hacer que Windows 11 no se suspenda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999'>El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/cascos-logo-spotify-fondo-2017311.jpg' alt='El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001'>Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa' />
     </a>
 </div>
 
