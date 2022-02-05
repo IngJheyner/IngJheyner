@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851'>20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015'>Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ingeniero-chino-construye-bateria-portatil-27000000-mah-puede-recargar-5000-moviles-2604973.jpg' alt='Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219'>Un experimento revela por qué nos cuesta dormir fuera de casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Un experimento revela por qué nos cuesta dormir fuera de casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005'>AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/airmini-ssd-inalambrico-wifi-6-rapido-mundo-2607201.jpg' alt='AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003'>GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gta-v-llegan-ps5-xbox-series-x-ray-tracing-gta-vi-oficialmente-desarrollo-2607197.jpg' alt='GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999'>El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ceo-spotify-pronuncia-acerca-plataforma-streaming-todavia-no-cuenta-sonido-hifi-1006999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/cascos-logo-spotify-fondo-2017311.jpg' alt='El CEO de Spotify se pronuncia acerca de por qué la plataforma de streaming todavía no cuenta con sonido HiFi' />
     </a>
 </div>
 
