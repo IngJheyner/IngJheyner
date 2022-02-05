@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg' alt='Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293'>Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg' alt='Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753'>Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolor-gloria-2601863.jpg' alt='Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289'>Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-avisa-posibles-golpes-calor-2607635.jpg' alt='Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251'>Mirillas electrónicas: estas son las mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-electronica-2607561.jpg' alt='Mirillas electrónicas: estas son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-qd-oled-999647'>¿Qué es la tecnología QD-OLED?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-qd-oled-999647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577517.jpg' alt='¿Qué es la tecnología QD-OLED?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283'>Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/murderville-2607619.jpg' alt='Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275'>La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/samsung-galaxy-tab-s7-2352357.jpg' alt='La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento' />
     </a>
 </div>
 
