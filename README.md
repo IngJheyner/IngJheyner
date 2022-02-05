@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259'>10 productos que debes comprar antes de que llegue el calor y suban de precio</a></h4>
+    <a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pelota-playa-piscina-estampa-verano-2607601.jpg' alt='10 productos que debes comprar antes de que llegue el calor y suban de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg' alt='Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289'>Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-avisa-posibles-golpes-calor-2607635.jpg' alt='Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251'>Mirillas electrónicas: estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-electronica-2607561.jpg' alt='Mirillas electrónicas: estas son las mejores que puedes comprar' />
     </a>
 </div>
 
