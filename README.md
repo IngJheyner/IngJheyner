@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949'>El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/msi-prestige-15-a11scx-019xes-2607083.jpg' alt='El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/timbre-inteligente-971427'>Timbres inalámbricos inteligentes con sintonías personalizables: cómo funcionan, instalación y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/timbre-inteligente-971427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/timbre-inteligente-2545647.jpg' alt='Timbres inalámbricos inteligentes con sintonías personalizables: cómo funcionan, instalación y consejos de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315'>Toshiba Dynabook Portege X30W, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-dynabook-portege-x30w-2607193.jpg' alt='Toshiba Dynabook Portege X30W, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541'>Cómo hacer que la papelera se vacíe automáticamente en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/papelera-2283469.jpg' alt='Cómo hacer que la papelera se vacíe automáticamente en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109'>Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851'>20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más' />
     </a>
 </div>
 
