@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333'>Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-vision-s-55-2607695.jpg' alt='Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321'>Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293'>Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg' alt='Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753'>Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolor-gloria-2601863.jpg' alt='Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas' />
     </a>
 </div>
 
