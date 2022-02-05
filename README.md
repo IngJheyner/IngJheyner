@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845'>Cómo hacer que Windows 11 no se suspenda</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suspender-windows-11-2531239.jpg' alt='Cómo hacer que Windows 11 no se suspenda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005'>AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/airmini-ssd-inalambrico-wifi-6-rapido-mundo-2607201.jpg' alt='AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003'>GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/gta-vi-oficialmente-desarrollo-gta-v-gta-online-ps5-xbox-series-x-1007003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gta-v-llegan-ps5-xbox-series-x-ray-tracing-gta-vi-oficialmente-desarrollo-2607197.jpg' alt='GTA VI oficialmente en desarrollo, GTA V y GTA Online llegan a PS5 y Xbox Series X con ray tracing y muchas mejoras ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001'>Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/informe-google-desmantelando-stadia-1007001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Un informe indica que Google podría estar desmantelando Stadia como plataforma comercial, de forma silenciosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-liquid-retina-xdr-macbook-pro-tiene-problema-brillo-apple-acaba-reconocer-1006993'>La pantalla Liquid Retina XDR de los MacBook Pro tiene un problema de brillo que Apple acaba de reconocer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-liquid-retina-xdr-macbook-pro-tiene-problema-brillo-apple-acaba-reconocer-1006993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538039.jpg' alt='La pantalla Liquid Retina XDR de los MacBook Pro tiene un problema de brillo que Apple acaba de reconocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-honor-magicbook-x15-rebaja-1006995'>El portátil ultrafino Honor MagicBook X15 con 8 GB de RAM viene con Windows 10 instalado y baja a su precio mínimo, 499 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-honor-magicbook-x15-rebaja-1006995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='El portátil ultrafino Honor MagicBook X15 con 8 GB de RAM viene con Windows 10 instalado y baja a su precio mínimo, 499 euros' />
     </a>
 </div>
 
