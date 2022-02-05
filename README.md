@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315'>Toshiba Dynabook Portege X30W, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-dynabook-portege-x30w-2607193.jpg' alt='Toshiba Dynabook Portege X30W, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851'>20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015'>Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ingeniero-chino-construye-bateria-portatil-27000000-mah-puede-recargar-5000-moviles-2604973.jpg' alt='Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles' />
     </a>
 </div>
 
