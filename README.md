@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653'>Cómo insertar datos en una tabla Excel desde la cámara de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/truco-enlazar-tabla-excel-word-tan-solo-3-clics-2326427.jpg' alt='Cómo insertar datos en una tabla Excel desde la cámara de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949'>El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/msi-prestige-15-a11scx-019xes-2607083.jpg' alt='El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541'>Cómo hacer que la papelera se vacíe automáticamente en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/papelera-2283469.jpg' alt='Cómo hacer que la papelera se vacíe automáticamente en Windows 11' />
     </a>
 </div>
 
