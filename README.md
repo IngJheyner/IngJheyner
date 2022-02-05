@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321'>Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259'>10 productos que debes comprar antes de que llegue el calor y suban de precio</a></h4>
     <a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pelota-playa-piscina-estampa-verano-2607601.jpg' alt='10 productos que debes comprar antes de que llegue el calor y suban de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753'>Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/10-ganadoras-goya-mejor-pelicula-plataformas-1003753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolor-gloria-2601863.jpg' alt='Las 10 últimas ganadoras del Goya a Mejor película: cuáles son y en qué plataformas puedes verlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289'>Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-avisa-posibles-golpes-calor-2607635.jpg' alt='Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor' />
     </a>
 </div>
 
