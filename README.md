@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275'>La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/samsung-galaxy-tab-s7-2352357.jpg' alt='La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265'>Chrome cambia de icono tras ocho años pero es probable que no te des cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg' alt='Chrome cambia de icono tras ocho años pero es probable que no te des cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255'>iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/iphone-2020-2090835.jpg' alt='iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653'>Cómo insertar datos en una tabla Excel desde la cámara de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/truco-enlazar-tabla-excel-word-tan-solo-3-clics-2326427.jpg' alt='Cómo insertar datos en una tabla Excel desde la cámara de tu móvil' />
     </a>
 </div>
 
