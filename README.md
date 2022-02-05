@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289'>Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-te-advierte-tiempo-antes-sufras-golpe-calor-1007289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-avisa-posibles-golpes-calor-2607635.jpg' alt='Este nuevo reloj inteligente te advierte a tiempo antes de que sufras un golpe de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251'>Mirillas electrónicas: estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mirillas-electronicas-estas-son-mejores-puedes-comprar-1007251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-electronica-2607561.jpg' alt='Mirillas electrónicas: estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-qd-oled-999647'>¿Qué es la tecnología QD-OLED?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-qd-oled-999647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-2022-2577517.jpg' alt='¿Qué es la tecnología QD-OLED?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283'>Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/murderville-2607619.jpg' alt='Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275'>La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/samsung-galaxy-tab-s7-2352357.jpg' alt='La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265'>Chrome cambia de icono tras ocho años pero es probable que no te des cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg' alt='Chrome cambia de icono tras ocho años pero es probable que no te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-16gb-ram-1tb-ssd-150-euros-descuento-1007243'>El Mac mini más rápido, con 16GB de RAM y 1TB de SSD ahora está rebajado 150 euros, su mejor precio histórico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-16gb-ram-1tb-ssd-150-euros-descuento-1007243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-mac-mini-2596071.jpg' alt='El Mac mini más rápido, con 16GB de RAM y 1TB de SSD ahora está rebajado 150 euros, su mejor precio histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671'>TicWatch Pro 3 Ultra 4G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607463.jpg' alt='TicWatch Pro 3 Ultra 4G, análisis y opinión' />
     </a>
 </div>
 
