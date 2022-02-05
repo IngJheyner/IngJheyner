@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541'>Cómo hacer que la papelera se vacíe automáticamente en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-papelera-vacie-automaticamente-windows-11-962541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/papelera-2283469.jpg' alt='Cómo hacer que la papelera se vacíe automáticamente en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109'>Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015'>Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bateria-portatil-27000000-mah-puede-recargar-5000-moviles-1006015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ingeniero-chino-construye-bateria-portatil-27000000-mah-puede-recargar-5000-moviles-2604973.jpg' alt='Un ingeniero chino construye una batería portátil de 27.000.000 mAh que puede recargar 5.000 móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219'>Un experimento revela por qué nos cuesta dormir fuera de casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/por-que-nos-cuesta-dormir-fuera-casa-1007219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Un experimento revela por qué nos cuesta dormir fuera de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845'>Cómo hacer que Windows 11 no se suspenda</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suspender-windows-11-2531239.jpg' alt='Cómo hacer que Windows 11 no se suspenda' />
     </a>
 </div>
 
