@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283'>Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/murderville-funciona-nuevo-concepto-serie-netflix-donde-prima-improvisacion-1007283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/murderville-2607619.jpg' alt='Murderville: así funciona el nuevo concepto de serie de Netflix donde prima la improvisación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275'>La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-queda-solo-499-euros-gracias-200-euros-descuento-1007275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/samsung-galaxy-tab-s7-2352357.jpg' alt='La Samsung Galaxy Tab S7 se queda a solo 499 euros gracias a sus 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671'>TicWatch Pro 3 Ultra 4G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607463.jpg' alt='TicWatch Pro 3 Ultra 4G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255'>iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/iphone-2020-2090835.jpg' alt='iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más' />
     </a>
 </div>
 
