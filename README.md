@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643'>El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años </a></h4>
+    <a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puertas-infierno-abiertas-hace-51-anos-estan-punto-extinguirse-2606351.jpg' alt='El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333'>Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-vision-s-55-2607695.jpg' alt='Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg' alt='Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293'>Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panel-expertos-pronostica-precio-bitcoin-2030-autentica-locura-1007293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg' alt='Panel de expertos pronostica el precio del Bitcoin en 2030 y es una auténtica locura' />
     </a>
 </div>
 
