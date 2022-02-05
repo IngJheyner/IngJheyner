@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265'>Chrome cambia de icono tras ocho años pero es probable que no te des cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-cambia-icono-ocho-anos-pero-probable-no-te-des-cuenta-1007265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg' alt='Chrome cambia de icono tras ocho años pero es probable que no te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-16gb-ram-1tb-ssd-150-euros-descuento-1007243'>El Mac mini más rápido, con 16GB de RAM y 1TB de SSD ahora está rebajado 150 euros, su mejor precio histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-16gb-ram-1tb-ssd-150-euros-descuento-1007243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-mac-mini-2596071.jpg' alt='El Mac mini más rápido, con 16GB de RAM y 1TB de SSD ahora está rebajado 150 euros, su mejor precio histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671'>TicWatch Pro 3 Ultra 4G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/ticwatch-pro-3-ultra-4g-review-opinion-1006671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607463.jpg' alt='TicWatch Pro 3 Ultra 4G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255'>iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-3-ipad-air-5-posibles-estrellas-evento-apple-8-marzo-hay-mucho-1007255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/iphone-2020-2090835.jpg' alt='iPhone SE 3 y iPad Air 5 posibles estrellas de un evento de Apple para el 8 de marzo y hay mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653'>Cómo insertar datos en una tabla Excel desde la cámara de tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-datos-tabla-excel-camara-movil-983653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/truco-enlazar-tabla-excel-word-tan-solo-3-clics-2326427.jpg' alt='Cómo insertar datos en una tabla Excel desde la cámara de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949'>El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultrabook-msi-prestige-15-oferta-menos-1000-euros-1006949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/msi-prestige-15-a11scx-019xes-2607083.jpg' alt='El portátil ultraligero de MSI con procesador Core i7 y 16GB de RAM ahora solo cuesta poco más de 1.000 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/timbre-inteligente-971427'>Timbres inalámbricos inteligentes con sintonías personalizables: cómo funcionan, instalación y consejos de compra</a></h4>
-    <a href='https://computerhoy.com/guia-compra/timbre-inteligente-971427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/timbre-inteligente-2545647.jpg' alt='Timbres inalámbricos inteligentes con sintonías personalizables: cómo funcionan, instalación y consejos de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315'>Toshiba Dynabook Portege X30W, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/toshiba-dynabook-portege-x30w-review-opinion-1006315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-dynabook-portege-x30w-2607193.jpg' alt='Toshiba Dynabook Portege X30W, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
     </a>
 </div>
 
