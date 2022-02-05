@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109'>Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/infografias-curiosas-lenguajes-mundo-1006109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Infografías curiosas sobra las casi 7.000 lenguas que se hablan en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851'>20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/20-chollos-fin-semana-no-te-puedes-perder-amazon-pccomponentes-aliexpress-1006851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-vacuum-cleaner-light-2547369.jpg' alt='20 chollos del fin de semana que no te puedes perder en Amazon, PcComponentes, AliExpress y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845'>Cómo hacer que Windows 11 no se suspenda</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-no-suspenda-963845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/suspender-windows-11-2531239.jpg' alt='Cómo hacer que Windows 11 no se suspenda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005'>AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airmini-ssd-inalambrico-wifi-6-1007005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/airmini-ssd-inalambrico-wifi-6-rapido-mundo-2607201.jpg' alt='AIRmini, el SSD inalámbrico con WiFi 6 más rápido del mundo ' />
     </a>
 </div>
 
