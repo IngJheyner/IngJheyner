@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601'>Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592583.jpg' alt='Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595'>Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zoom-2608247.jpg' alt='Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567'>Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-raspberry-pi-1007335'>¿No encuentras una Raspberry Pi? Estas son las mejores alternativas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-raspberry-pi-1007335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/raspberry-pi-4-model-b-2216259.jpg' alt='¿No encuentras una Raspberry Pi? Estas son las mejores alternativas' />
     </a>
 </div>
 
