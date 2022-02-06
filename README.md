@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337'>Los 10 mejores buscadores web: Internet es mucho más que Google</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscador-2590757.jpg' alt='Los 10 mejores buscadores web: Internet es mucho más que Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327'>Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/panel-holografico-toshiba-2607691.jpg' alt='Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cada-vez-sera-complicado-escalar-monte-everest-culpa-tiene-cambio-climatico-1007325'>Cada vez será más complicado escalar el Monte Everest y la culpa la tiene el cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-vez-sera-complicado-escalar-monte-everest-culpa-tiene-cambio-climatico-1007325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monte-everest-2607685.jpg' alt='Cada vez será más complicado escalar el Monte Everest y la culpa la tiene el cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169'>Cómo mejorar el rendimiento de tu SSD en Windows 11</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ssd-2588933.jpg' alt='Cómo mejorar el rendimiento de tu SSD en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Estas son las mejores tablets baratas de Samsung en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249'>Cómo comprar en Wallapop y cómo funcionan los envíos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='Cómo comprar en Wallapop y cómo funcionan los envíos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689'>Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves</a></h4>
-    <a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/condenado-10-meses-carcel-multa-250000-euros-guardar-tanque-garaje-usaba-como-quitanieves-2606399.jpg' alt='Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643'>El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años </a></h4>
-    <a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puertas-infierno-abiertas-hace-51-anos-estan-punto-extinguirse-2606351.jpg' alt='El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333'>Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-vision-s-55-2607695.jpg' alt='Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros' />
     </a>
 </div>
 
