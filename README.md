@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343'>Huawei P50 Pocket, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607989.jpg' alt='Huawei P50 Pocket, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337'>Los 10 mejores buscadores web: Internet es mucho más que Google</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscador-2590757.jpg' alt='Los 10 mejores buscadores web: Internet es mucho más que Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169'>Cómo mejorar el rendimiento de tu SSD en Windows 11</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ssd-2588933.jpg' alt='Cómo mejorar el rendimiento de tu SSD en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Estas son las mejores tablets baratas de Samsung en 2022' />
     </a>
 </div>
 
