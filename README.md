@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-galaxy-tab-s7-fe-2424445.jpg' alt='Estas son las mejores tablets baratas de Samsung en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249'>Cómo comprar en Wallapop y cómo funcionan los envíos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='Cómo comprar en Wallapop y cómo funcionan los envíos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333'>Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-cine-casa-imponente-television-55-pulgadas-solo-399-euros-1007333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-vision-s-55-2607695.jpg' alt='Ya puedes tener el cine en casa con esta imponente televisión de 55 pulgadas a solo 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321'>Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR' />
     </a>
 </div>
 
