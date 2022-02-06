@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689'>Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves</a></h4>
+    <a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/condenado-10-meses-carcel-multa-250000-euros-guardar-tanque-garaje-usaba-como-quitanieves-2606399.jpg' alt='Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643'>El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años </a></h4>
     <a href='https://computerhoy.com/noticias/life/puertas-infierno-incendio-gas-1006643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puertas-infierno-abiertas-hace-51-anos-estan-punto-extinguirse-2606351.jpg' alt='El presidente de Turkmenistán ordena cerrar las Puertas del Infierno, en llamas desde hace 51 años ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259'>10 productos que debes comprar antes de que llegue el calor y suban de precio</a></h4>
     <a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pelota-playa-piscina-estampa-verano-2607601.jpg' alt='10 productos que debes comprar antes de que llegue el calor y suban de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg' alt='Este es el año chino del Tigre, ¿cuál es tu horóscopo chino?' />
     </a>
 </div>
 
