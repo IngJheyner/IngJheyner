@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635'>Series dentro de otras series: ¿se ha equivocado Disney+ con lo ha hecho en el episodio 5 de El Libro de Boba Fett, o es su mejor baza?</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641'>La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569729.jpg' alt='La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635'>Series dentro de otras series: ¿se ha equivocado Disney+ con el episodio 5 de El Libro de Boba Fett, o es su mejor baza?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-dentro-otras-series-ha-equivocado-disney-ha-hecho-episodio-5-libro-boba-fett-mejor-baza-2608317.jpg' alt='Series dentro de otras series: ¿se ha equivocado Disney+ con lo ha hecho en el episodio 5 de El Libro de Boba Fett, o es su mejor baza?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-dentro-otras-series-ha-equivocado-disney-ha-hecho-episodio-5-libro-boba-fett-mejor-baza-2608317.jpg' alt='Series dentro de otras series: ¿se ha equivocado Disney+ con el episodio 5 de El Libro de Boba Fett, o es su mejor baza?' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629'>En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-ha-puesto-moda-segunda-pantalla-vertical-cuando-usas-ordenador-sirve-2608303.jpg' alt='En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601'>Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592583.jpg' alt='Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra' />
     </a>
 </div>
 
