@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635'>Series dentro de otras series: ¿se ha equivocado Disney+ con lo ha hecho en el episodio 5 de El Libro de Boba Fett, o es su mejor baza?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-dentro-otras-series-ha-equivocado-disney-ha-hecho-episodio-5-libro-boba-fett-mejor-baza-2608317.jpg' alt='Series dentro de otras series: ¿se ha equivocado Disney+ con lo ha hecho en el episodio 5 de El Libro de Boba Fett, o es su mejor baza?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537'>Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg' alt='Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601'>Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592583.jpg' alt='Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595'>Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zoom-2608247.jpg' alt='Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo' />
     </a>
 </div>
 
