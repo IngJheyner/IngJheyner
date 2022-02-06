@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643'>El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513201.jpg' alt='El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641'>La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569729.jpg' alt='La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193'>Cómo diseñar firmas llamativas de Gmail desde Google Drive</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ordenador-gmail-2380597.jpg' alt='Cómo diseñar firmas llamativas de Gmail desde Google Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629'>En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-ha-puesto-moda-segunda-pantalla-vertical-cuando-usas-ordenador-sirve-2608303.jpg' alt='En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?' />
     </a>
 </div>
 
