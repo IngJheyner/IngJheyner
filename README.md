@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/power-bank-999871'>Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más</a></h4>
+    <a href='https://computerhoy.com/guia-compra/power-bank-999871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/powebank-2593743.jpg' alt='Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-778-5g-wifi-6-movil-samsung-oferta-330-euros-pone-apuros-xiaomi-1007245'>Snapdragon 778, 5G y WiFi 6: este móvil Samsung está en oferta por 330 euros y pone en apuros a Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-778-5g-wifi-6-movil-samsung-oferta-330-euros-pone-apuros-xiaomi-1007245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m52-5g-2607531.jpg' alt='Snapdragon 778, 5G y WiFi 6: este móvil Samsung está en oferta por 330 euros y pone en apuros a Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343'>Huawei P50 Pocket, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607989.jpg' alt='Huawei P50 Pocket, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327'>Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/panel-holografico-toshiba-2607691.jpg' alt='Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-vez-sera-complicado-escalar-monte-everest-culpa-tiene-cambio-climatico-1007325'>Cada vez será más complicado escalar el Monte Everest y la culpa la tiene el cambio climático</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-vez-sera-complicado-escalar-monte-everest-culpa-tiene-cambio-climatico-1007325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monte-everest-2607685.jpg' alt='Cada vez será más complicado escalar el Monte Everest y la culpa la tiene el cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169'>Cómo mejorar el rendimiento de tu SSD en Windows 11</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-mejorar-rendimiento-ssd-windows-11-997169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ssd-2588933.jpg' alt='Cómo mejorar el rendimiento de tu SSD en Windows 11' />
     </a>
 </div>
 
