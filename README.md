@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249'>Cómo comprar en Wallapop y cómo funcionan los envíos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-wallapop-como-funcionan-envios-1002249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='Cómo comprar en Wallapop y cómo funcionan los envíos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689'>Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves</a></h4>
     <a href='https://computerhoy.com/noticias/life/condenado-carcel-multa-guardar-tanque-garaje-quitanieves-1006689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/condenado-10-meses-carcel-multa-250000-euros-guardar-tanque-garaje-usaba-como-quitanieves-2606399.jpg' alt='Un alemán de 84 años, condenado a 10 meses de cárcel y multa de 250.000 euros por guardar un tanque en su garaje, que usaba como quitanieves' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321'>Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-advierte-posible-error-brillo-limitado-nuevos-macbook-pro-pro-display-xdr-1007321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple advierte sobre un posible error de brillo limitado en los nuevos MacBook Pro y en el Pro Display XDR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259'>10 productos que debes comprar antes de que llegue el calor y suban de precio</a></h4>
-    <a href='https://computerhoy.com/listas/life/productos-debes-comprar-antes-llegue-calor-suban-precio-1007259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pelota-playa-piscina-estampa-verano-2607601.jpg' alt='10 productos que debes comprar antes de que llegue el calor y suban de precio' />
     </a>
 </div>
 
