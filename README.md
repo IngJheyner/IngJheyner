@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537'>Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg' alt='Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193'>Cómo diseñar firmas llamativas de Gmail desde Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ordenador-gmail-2380597.jpg' alt='Cómo diseñar firmas llamativas de Gmail desde Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629'>En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-twitter-diminuta-pantalla-vertical-pc-1007629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-ha-puesto-moda-segunda-pantalla-vertical-cuando-usas-ordenador-sirve-2608303.jpg' alt='En Japón se ha puesto de moda esta diminuta pantalla vertical cuando usas el ordenador, ¿para qué sirve?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601'>Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-primera-fotografia-publica-realizada-samsung-galaxy-s22-ultra-1007601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592583.jpg' alt='Esta podría ser la primera fotografía pública realizada por el Samsung Galaxy S22 Ultra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595'>Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/invitacion-zoom-trampa-pierdas-cuenta-correo-1007595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zoom-2608247.jpg' alt='Esta invitación de Zoom es una trampa para que pierdas tu cuenta de correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/medidor-calidad-aire-inteligente-necesita-salud-hogar-oferta-95-euros-1007579'>Este medidor de calidad del aire inteligente es lo que necesita la salud de tu hogar y está en oferta a 95 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/medidor-calidad-aire-inteligente-necesita-salud-hogar-oferta-95-euros-1007579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/medidor-calidad-aire-2608191.jpg' alt='Este medidor de calidad del aire inteligente es lo que necesita la salud de tu hogar y está en oferta a 95 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/comedias-rodadas-como-falsos-documentales-netflix-hbo-max-disney-filmin-1005007'>6 comedias que están rodadas como falsos documentales y que puedes encontrar en Netflix, HBO Max, Disney+ y Filmin</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/comedias-rodadas-como-falsos-documentales-netflix-hbo-max-disney-filmin-1005007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/office-2603421.jpg' alt='6 comedias que están rodadas como falsos documentales y que puedes encontrar en Netflix, HBO Max, Disney+ y Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567'>Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización' />
     </a>
 </div>
 
