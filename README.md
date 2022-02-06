@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567'>Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fallo-provoca-interfaz-android-auto-sea-desastre-ultima-actualizacion-1007567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Este fallo provoca que la interfaz de Android Auto sea un desastre tras la última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-raspberry-pi-1007335'>¿No encuentras una Raspberry Pi? Estas son las mejores alternativas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-raspberry-pi-1007335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/raspberry-pi-4-model-b-2216259.jpg' alt='¿No encuentras una Raspberry Pi? Estas son las mejores alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-pad-review-opinion-996225'>realme Pad, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-pad-review-opinion-996225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597545.jpg' alt='realme Pad, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-permitira-ocultar-forma-automatica-barra-tareas-como-parte-modo-tableta-1007561'>Windows 11 te permitirá ocultar de forma automática la barra de tareas como parte del modo tableta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-permitira-ocultar-forma-automatica-barra-tareas-como-parte-modo-tableta-1007561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Windows 11 te permitirá ocultar de forma automática la barra de tareas como parte del modo tableta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/power-bank-999871'>Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más</a></h4>
     <a href='https://computerhoy.com/guia-compra/power-bank-999871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/powebank-2593743.jpg' alt='Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-778-5g-wifi-6-movil-samsung-oferta-330-euros-pone-apuros-xiaomi-1007245'>Snapdragon 778, 5G y WiFi 6: este móvil Samsung está en oferta por 330 euros y pone en apuros a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-778-5g-wifi-6-movil-samsung-oferta-330-euros-pone-apuros-xiaomi-1007245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m52-5g-2607531.jpg' alt='Snapdragon 778, 5G y WiFi 6: este móvil Samsung está en oferta por 330 euros y pone en apuros a Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343'>Huawei P50 Pocket, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-p50-pocket-analisis-opinion-1007343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607989.jpg' alt='Huawei P50 Pocket, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337'>Los 10 mejores buscadores web: Internet es mucho más que Google</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-buscadores-web-internet-mucho-google-998337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/buscador-2590757.jpg' alt='Los 10 mejores buscadores web: Internet es mucho más que Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327'>Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-paneles-holograficos-toshiba-jamas-tengas-pulsar-ninguna-pantalla-1007327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/panel-holografico-toshiba-2607691.jpg' alt='Así funcionan los paneles holográficos de Toshiba para que jamás tengas que pulsar sobre ninguna pantalla' />
     </a>
 </div>
 
