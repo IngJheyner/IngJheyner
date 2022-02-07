@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887'>Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859'>Así se entrenan los astronautas de la NASA para misiones lunares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/astronautas-nasa-2608613.jpg' alt='Así se entrenan los astronautas de la NASA para misiones lunares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/explicacion-cientifica-mosquitos-color-1007875'>La explicación científica de por qué los mosquitos se sienten atraídos por camisetas de estos colores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/explicacion-cientifica-mosquitos-color-1007875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/antimosquitos-2608535.jpg' alt='La explicación científica de por qué los mosquitos se sienten atraídos por camisetas de estos colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-xiaomi-mejores-hemos-probado-oferta-solo-61-euros-1006733'>Este reloj Xiaomi es de los mejores que hemos probado y está en oferta por solo 61 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-xiaomi-mejores-hemos-probado-oferta-solo-61-euros-1006733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598825.jpg' alt='Este reloj Xiaomi es de los mejores que hemos probado y está en oferta por solo 61 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-sigue-dar-frutos-siendo-hemorragia-dinero-facebook-1007865'>El Metaverso sigue sin dar sus frutos y está siendo una hemorragia de dinero para Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-sigue-dar-frutos-siendo-hemorragia-dinero-facebook-1007865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mark-zuckerberg.jpg' alt='El Metaverso sigue sin dar sus frutos y está siendo una hemorragia de dinero para Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-amenaza-europa-retirar-facebook-instagram-no-puede-orientar-anuncios-1007849'>Meta amenaza a Europa con retirar Facebook e Instagram si no puede orientar los anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-amenaza-europa-retirar-facebook-instagram-no-puede-orientar-anuncios-1007849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/meta-2520675.jpg' alt='Meta amenaza a Europa con retirar Facebook e Instagram si no puede orientar los anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-bigbug-1007835'>Todos los estrenos de la semana en Netflix: llega una rebelión de las máquinas distinta a lo acostumbrado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-bigbug-1007835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bigbug-2608491.jpg' alt='Todos los estrenos de la semana en Netflix: llega una rebelión de las máquinas distinta a lo acostumbrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/san-valentin-te-puedes-llevar-portatil-ultraligero-huawei-matebook-x-pro-descuento-500-euros-1006795'>Por San Valentín te puedes llevar este portátil ultraligero Huawei MateBook X Pro con un descuento de 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/san-valentin-te-puedes-llevar-portatil-ultraligero-huawei-matebook-x-pro-descuento-500-euros-1006795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416877.jpg' alt='Por San Valentín te puedes llevar este portátil ultraligero Huawei MateBook X Pro con un descuento de 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-60-euros-descuento-auriculares-huawei-freebuds-4-gracias-codigo-exclusivo-1006781'>Consigue hasta 50 euros de descuento en los auriculares Huawei FreeBuds 4 gracias a este código exclusivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-60-euros-descuento-auriculares-huawei-freebuds-4-gracias-codigo-exclusivo-1006781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-freebuds-4-2358073.jpg' alt='Consigue hasta 50 euros de descuento en los auriculares Huawei FreeBuds 4 gracias a este código exclusivo' />
     </a>
 </div>
 
