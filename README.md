@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mejores-chollos-ofertas-semana-san-valentin-lidl-1008043'>Los mejores chollos y ofertas de la semana de San Valentín de Lidl</a></h4>
+    <a href='https://computerhoy.com/noticias/mejores-chollos-ofertas-semana-san-valentin-lidl-1008043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lidl-2609019.jpg' alt='Los mejores chollos y ofertas de la semana de San Valentín de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-movil-plegable-tipo-concha-pantalla-fuera-1008013'>Motorola prepara un móvil plegable tipo concha con la pantalla por fuera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-movil-plegable-tipo-concha-pantalla-fuera-1008013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-2608951.jpg' alt='Motorola prepara un móvil plegable tipo concha con la pantalla por fuera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027'>Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cargar-moviles.jpg' alt='Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-home-mini_0.jpg' alt='Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-499-euros-oferta-1007881'>Con 200 euros de descuento esta tablet Samsung Galaxy Tab S7 es el mejor rival del iPad Pro que vas a encontrar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-499-euros-oferta-1007881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/samsung-galaxy-tab-s7-analisis-opinion-2058415.jpg' alt='Con 200 euros de descuento esta tablet Samsung Galaxy Tab S7 es el mejor rival del iPad Pro que vas a encontrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/informa-onu-programa-misiles-corea-norte-financia-criptomonedas-robadas-1007987'>Según informa la ONU, el programa de misiles de Corea del Norte se financia con criptomonedas robadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/informa-onu-programa-misiles-corea-norte-financia-criptomonedas-robadas-1007987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/kim-jong-lider-corea-norte-1937115.jpg' alt='Según informa la ONU, el programa de misiles de Corea del Norte se financia con criptomonedas robadas' />
     </a>
 </div>
 
