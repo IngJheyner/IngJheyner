@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981'>Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barbacoa-2609011.jpg' alt='Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159'>Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143'>Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galeria-analisis-huawei-p-smart-2021-2180195.jpg' alt='Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975'>La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazfit-band-5-2608813.jpg' alt='La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi' />
     </a>
 </div>
 
