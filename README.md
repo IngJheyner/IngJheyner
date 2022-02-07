@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/matrix-resurrections-gratis-hbo-max-1008229'>Por qué Matrix Resurrections no está todavía gratis en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/matrix-resurrections-gratis-hbo-max-1008229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/matrix-resurrections-no-todavia-gratis-hbo-max-2609469.jpg' alt='Por qué Matrix Resurrections no está todavía gratis en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-tienen-claro-bitcoin-formando-suelo-no-techo-1008227'>Los expertos de Bloomberg lo tienen claro: Bitcoin está formando suelo y no un techo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-tienen-claro-bitcoin-formando-suelo-no-techo-1008227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='Los expertos de Bloomberg lo tienen claro: Bitcoin está formando suelo y no un techo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981'>Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores</a></h4>
     <a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barbacoa-2609011.jpg' alt='Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875'>Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ovnis-2606883.jpg' alt='Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147'>Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143'>Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galeria-analisis-huawei-p-smart-2021-2180195.jpg' alt='Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín' />
     </a>
 </div>
 
