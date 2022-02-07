@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039'>Los guionistas querían que saliese más un personaje de Spider-Man No Way Home</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Los guionistas querían que saliese más un personaje de Spider-Man No Way Home' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241'>Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estos-son-nuevos-lugares-donde-no-podra-fumar-2022-incluido-coche-propio-2609491.jpg' alt='Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231'>Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-ic-berlin-alian-sacar-nueva-gama-gafas-graduadas-1008031'>Mercedes e ic! berlin se alían para sacar una nueva gama de gafas graduadas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mercedes-ic-berlin-alian-sacar-nueva-gama-gafas-graduadas-1008031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-ic-berlin-mercedes-benz-2601869.jpg' alt='Mercedes e ic! berlin se alían para sacar una nueva gama de gafas graduadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/matrix-resurrections-gratis-hbo-max-1008229'>Por qué Matrix Resurrections no está todavía gratis en HBO Max</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/matrix-resurrections-gratis-hbo-max-1008229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/matrix-resurrections-no-todavia-gratis-hbo-max-2609469.jpg' alt='Por qué Matrix Resurrections no está todavía gratis en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-tienen-claro-bitcoin-formando-suelo-no-techo-1008227'>Los expertos de Bloomberg lo tienen claro: Bitcoin está formando suelo y no un techo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-tienen-claro-bitcoin-formando-suelo-no-techo-1008227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='Los expertos de Bloomberg lo tienen claro: Bitcoin está formando suelo y no un techo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981'>Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barbacoa-2609011.jpg' alt='Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159'>Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875'>Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ovnis-2606883.jpg' alt='Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe' />
     </a>
 </div>
 
