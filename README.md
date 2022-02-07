@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683'>Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/increibles-mascaras-futuristas-japones-ikeuchi-hiroto-2602577.jpg' alt='Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643'>El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513201.jpg' alt='El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537'>Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg' alt='Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193'>Cómo diseñar firmas llamativas de Gmail desde Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-disenar-firmas-llamativas-gmail-google-drive-1004193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ordenador-gmail-2380597.jpg' alt='Cómo diseñar firmas llamativas de Gmail desde Google Drive' />
     </a>
 </div>
 
