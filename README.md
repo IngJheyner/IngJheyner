@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147'>Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143'>Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p-smart-2021-movil-bateria-todo-dia-camara-48-megapixeles-rebajado-159-euros-san-valentin-1008143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galeria-analisis-huawei-p-smart-2021-2180195.jpg' alt='Huawei P Smart 2021, el móvil con batería para todo el día y cámara de 48 megapíxeles rebajado a 159 euros por San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975'>La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazfit-band-5-2608813.jpg' alt='La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fisica-no-era-cole-aqui-tienes-web-te-permite-ver-simulaciones-realistas-navegador-1008093'>Si la física no era lo tuyo en el cole aquí tienes una web que te permite ver simulaciones realistas desde el navegador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fisica-no-era-cole-aqui-tienes-web-te-permite-ver-simulaciones-realistas-navegador-1008093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/myphysicslab-2609165.jpg' alt='Si la física no era lo tuyo en el cole aquí tienes una web que te permite ver simulaciones realistas desde el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/personaliza-escritorio-multipantalla-protege-monitores-oled-aplicacion-gratuita-multiscreen-blank-1008077'>Personaliza tu escritorio multipantalla y protege monitores OLED con la aplicación gratuita Multiscreen Blank</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/personaliza-escritorio-multipantalla-protege-monitores-oled-aplicacion-gratuita-multiscreen-blank-1008077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multiscreen-blank-2609145.jpg' alt='Personaliza tu escritorio multipantalla y protege monitores OLED con la aplicación gratuita Multiscreen Blank' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/camera-lab-certifica-fotos-realme-9-pro-plus-estan-altura-pixel-6-s21-ultra-xiaomi-12-1008079'>Camera Lab certifica que las fotos del realme 9 Pro Plus están a la altura del Pixel 6, S21 Ultra o Xiaomi 12</a></h4>
-    <a href='https://computerhoy.com/noticias/camera-lab-certifica-fotos-realme-9-pro-plus-estan-altura-pixel-6-s21-ultra-xiaomi-12-1008079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-2609163.jpg' alt='Camera Lab certifica que las fotos del realme 9 Pro Plus están a la altura del Pixel 6, S21 Ultra o Xiaomi 12' />
     </a>
 </div>
 
