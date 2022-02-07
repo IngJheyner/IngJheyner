@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/foco-techo-altavoz-bluetooth-lidl-1007967'>Foco de techo y altavoz bluetooth, el nuevo y económico 2 en 1 de LIDL</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/foco-techo-altavoz-bluetooth-lidl-1007967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plafon-led-altavoz-bluetooth-2608755.jpg' alt='Foco de techo y altavoz bluetooth, el nuevo y económico 2 en 1 de LIDL' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027'>Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cargar-moviles.jpg' alt='Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/invertir-ahora-shiba-inu-aspectos-importantes-debes-tener-cuenta-1007959'>¿Invertir ahora en Shiba Inu? Aspectos importantes que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/invertir-ahora-shiba-inu-aspectos-importantes-debes-tener-cuenta-1007959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='¿Invertir ahora en Shiba Inu? Aspectos importantes que debes tener en cuenta' />
+    <h4><a href='https://computerhoy.com/noticias/life/debes-fijarte-antes-comprar-saber-prenda-ropa-buena-calidad-1007989'>En qué debes fijarte antes de comprar para saber si una prenda de ropa es de buena calidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-fijarte-antes-comprar-saber-prenda-ropa-buena-calidad-1007989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comprar-ropa-2269939.jpg' alt='En qué debes fijarte antes de comprar para saber si una prenda de ropa es de buena calidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dile-ia-3-grupos-favoritos-te-recomendara-musica-te-gustara-1007943'>Dile a esta IA tus 3 grupos favoritos y te recomendará la música que más te gustará</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dile-ia-3-grupos-favoritos-te-recomendara-musica-te-gustara-1007943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gnoosic-2608751.jpg' alt='Dile a esta IA tus 3 grupos favoritos y te recomendará la música que más te gustará' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-home-mini_0.jpg' alt='Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887'>Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-499-euros-oferta-1007881'>Con 200 euros de descuento esta tablet Samsung Galaxy Tab S7 es el mejor rival del iPad Pro que vas a encontrar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-s7-499-euros-oferta-1007881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/samsung-galaxy-tab-s7-analisis-opinion-2058415.jpg' alt='Con 200 euros de descuento esta tablet Samsung Galaxy Tab S7 es el mejor rival del iPad Pro que vas a encontrar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859'>Así se entrenan los astronautas de la NASA para misiones lunares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/astronautas-nasa-2608613.jpg' alt='Así se entrenan los astronautas de la NASA para misiones lunares' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/informa-onu-programa-misiles-corea-norte-financia-criptomonedas-robadas-1007987'>Según informa la ONU, el programa de misiles de Corea del Norte se financia con criptomonedas robadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/informa-onu-programa-misiles-corea-norte-financia-criptomonedas-robadas-1007987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/kim-jong-lider-corea-norte-1937115.jpg' alt='Según informa la ONU, el programa de misiles de Corea del Norte se financia con criptomonedas robadas' />
     </a>
 </div>
 
