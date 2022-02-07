@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-mayor-sostenibilidad-reciclara-redes-pesca-fabricar-galaxy-s22-1007819'>Samsung apuesta por una mayor sostenibilidad y reciclará redes de pesca para fabricar los Galaxy S22</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-mayor-sostenibilidad-reciclara-redes-pesca-fabricar-galaxy-s22-1007819' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-60-euros-descuento-auriculares-huawei-freebuds-4-gracias-codigo-exclusivo-1006781'>Consigue hasta 50 euros de descuento en los auriculares Huawei FreeBuds 4 gracias a este código exclusivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-60-euros-descuento-auriculares-huawei-freebuds-4-gracias-codigo-exclusivo-1006781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-freebuds-4-2358073.jpg' alt='Consigue hasta 50 euros de descuento en los auriculares Huawei FreeBuds 4 gracias a este código exclusivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-ax3-dual-core-router-wifi-6-rebaja-1006737'>El router con WiFi 6 más barato de Huawei ahora lo es más con un descuento de 44 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-wifi-ax3-dual-core-router-wifi-6-rebaja-1006737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-wifi-ax3-2040467.jpg' alt='El router con WiFi 6 más barato de Huawei ahora lo es más con un descuento de 44 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samgung-mueve-mayor-sostenibilidad-empieza-reciclar-redes-pesca-fabricar-moviles-1007819'>Samsung apuesta por una mayor sostenibilidad y reciclará redes de pesca para fabricar los Galaxy S22</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samgung-mueve-mayor-sostenibilidad-empieza-reciclar-redes-pesca-fabricar-moviles-1007819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592597.jpg' alt='Samsung apuesta por una mayor sostenibilidad y reciclará redes de pesca para fabricar los Galaxy S22' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuantas-veces-deberias-echarte-desodorante-1006835'>Cuántas veces deberías echarte desodorante</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantas-veces-deberias-echarte-desodorante-1006835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desodorante-2606721.jpg' alt='Cuántas veces deberías echarte desodorante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/restricciones-tienen-ahora-coches-etiqueta-c-1006827'>Qué restricciones tienen ahora los coches con etiqueta C</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/restricciones-tienen-ahora-coches-etiqueta-c-1006827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué restricciones tienen ahora los coches con etiqueta C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2608467.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
