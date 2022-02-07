@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lukos-monitor-portatil-4k-ultrapanoramico-1008255'>El primer monitor portátil 4K ultrapanorámico 32:9</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lukos-monitor-portatil-4k-ultrapanoramico-1008255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monitor-4k-ultrapanoramico-portatil-2609521.jpg' alt='El primer monitor portátil 4K ultrapanorámico 32:9' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-tablets-samsung-4-anos-actualizaciones-android-5-anos-parches-seguridad-1008247'>Estos son los móviles y tablets de Samsung que recibirán 4 años de actualizaciones de Android y 5 años de parches de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moviles-tablets-samsung-4-anos-actualizaciones-android-5-anos-parches-seguridad-1008247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592589.jpg' alt='Estos son los móviles y tablets de Samsung que recibirán 4 años de actualizaciones de Android y 5 años de parches de seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241'>Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio</a></h4>
     <a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estos-son-nuevos-lugares-donde-no-podra-fumar-2022-incluido-coche-propio-2609491.jpg' alt='Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231'>Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades' />
     </a>
 </div>
 
