@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159'>Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-trabaja-bateria-mejoras-muy-potentes-google-tv-chromecast-1008159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Google trabaja en una batería de mejoras muy potentes para Google TV y Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875'>Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ovnis-serie-filmin-1006875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ovnis-2606883.jpg' alt='Filmin estrena una serie que gustará a los aficionados de Expediente X o Fringe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147'>Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-caracteristicas-windows-11-microsoft-trabajando-secreto-1008147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Las nuevas características de Windows 11 en las que Microsoft está trabajando en secreto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975'>La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-amazfit-band-5-oferta-24-euros-1007975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazfit-band-5-2608813.jpg' alt='La pulsera de actividad Amazfit Band 5 solo cuesta 24 euros: más funciones y más barata que la pulsera de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escucha-podcast-ep-2x05-huawei-p50-pocket-pixel-6-1008135'>Escucha nuestro Podcast: Ep. 2x05 Huawei P50 Pocket y los Pixel 6 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escucha-podcast-ep-2x05-huawei-p50-pocket-pixel-6-1008135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/podcast-computerhoy-01.jpg' alt='Escucha nuestro Podcast: Ep. 2x05 Huawei P50 Pocket y los Pixel 6 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fisica-no-era-cole-aqui-tienes-web-te-permite-ver-simulaciones-realistas-navegador-1008093'>Si la física no era lo tuyo en el cole aquí tienes una web que te permite ver simulaciones realistas desde el navegador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fisica-no-era-cole-aqui-tienes-web-te-permite-ver-simulaciones-realistas-navegador-1008093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/myphysicslab-2609165.jpg' alt='Si la física no era lo tuyo en el cole aquí tienes una web que te permite ver simulaciones realistas desde el navegador' />
     </a>
 </div>
 
