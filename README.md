@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2608467.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejorar-cursos-online-udemy-desarrollar-videojuegos-unreal-engine-unity-cero-1006243'>Mejorar cursos online de Udemy para desarrollar videojuegos: Unreal Engine y Unity desde cero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejorar-cursos-online-udemy-desarrollar-videojuegos-unreal-engine-unity-cero-1006243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-desarrollo-videojuegos-2605487.jpg' alt='Mejorar cursos online de Udemy para desarrollar videojuegos: Unreal Engine y Unity desde cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683'>Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto</a></h4>
     <a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/increibles-mascaras-futuristas-japones-ikeuchi-hiroto-2602577.jpg' alt='Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641'>La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569729.jpg' alt='La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635'>Series dentro de otras series: ¿se ha equivocado Disney+ con el episodio 5 de El Libro de Boba Fett, o es su mejor baza?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-dentro-otras-series-episodio-5-libro-boba-fett-1007635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-dentro-otras-series-ha-equivocado-disney-ha-hecho-episodio-5-libro-boba-fett-mejor-baza-2608317.jpg' alt='Series dentro de otras series: ¿se ha equivocado Disney+ con el episodio 5 de El Libro de Boba Fett, o es su mejor baza?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537'>Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/auriculares-inalambricos-xiaomi-modelos-caracteristicas-1007537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg' alt='Auriculares inalámbricos Xiaomi: todos los modelos que vende y sus características' />
     </a>
 </div>
 
