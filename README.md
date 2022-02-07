@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/foco-techo-altavoz-bluetooth-lidl-1007967'>Foco de techo y altavoz bluetooth, el nuevo y económico 2 en 1 de LIDL</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/foco-techo-altavoz-bluetooth-lidl-1007967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plafon-led-altavoz-bluetooth-2608755.jpg' alt='Foco de techo y altavoz bluetooth, el nuevo y económico 2 en 1 de LIDL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/invertir-ahora-shiba-inu-aspectos-importantes-debes-tener-cuenta-1007959'>¿Invertir ahora en Shiba Inu? Aspectos importantes que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/invertir-ahora-shiba-inu-aspectos-importantes-debes-tener-cuenta-1007959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='¿Invertir ahora en Shiba Inu? Aspectos importantes que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dile-ia-3-grupos-favoritos-te-recomendara-musica-te-gustara-1007943'>Dile a esta IA tus 3 grupos favoritos y te recomendará la música que más te gustará</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dile-ia-3-grupos-favoritos-te-recomendara-musica-te-gustara-1007943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gnoosic-2608751.jpg' alt='Dile a esta IA tus 3 grupos favoritos y te recomendará la música que más te gustará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887'>Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estafan-15000-euros-mediante-smishing-pero-banco-niega-devolverle-dinero-1007887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Le estafan 15.000 euros mediante smishing pero el banco se niega a devolverle el dinero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859'>Así se entrenan los astronautas de la NASA para misiones lunares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/entrenan-astronautas-nasa-misiones-lunares-1007859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/astronautas-nasa-2608613.jpg' alt='Así se entrenan los astronautas de la NASA para misiones lunares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/explicacion-cientifica-mosquitos-color-1007875'>La explicación científica de por qué los mosquitos se sienten atraídos por camisetas de estos colores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/explicacion-cientifica-mosquitos-color-1007875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/antimosquitos-2608535.jpg' alt='La explicación científica de por qué los mosquitos se sienten atraídos por camisetas de estos colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-xiaomi-mejores-hemos-probado-oferta-solo-61-euros-1006733'>Este reloj Xiaomi es de los mejores que hemos probado y está en oferta por solo 61 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-xiaomi-mejores-hemos-probado-oferta-solo-61-euros-1006733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598825.jpg' alt='Este reloj Xiaomi es de los mejores que hemos probado y está en oferta por solo 61 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-sigue-dar-frutos-siendo-hemorragia-dinero-facebook-1007865'>El Metaverso sigue sin dar sus frutos y está siendo una hemorragia de dinero para Facebook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-sigue-dar-frutos-siendo-hemorragia-dinero-facebook-1007865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mark-zuckerberg.jpg' alt='El Metaverso sigue sin dar sus frutos y está siendo una hemorragia de dinero para Facebook' />
     </a>
 </div>
 
