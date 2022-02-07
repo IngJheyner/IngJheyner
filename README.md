@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-tablets-samsung-4-anos-actualizaciones-android-5-anos-parches-seguridad-1008247'>Estos son los móviles y tablets de Samsung que recibirán 4 años de actualizaciones de Android y 5 años de parches de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-tablets-samsung-4-anos-actualizaciones-android-5-anos-parches-seguridad-1008247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592589.jpg' alt='Estos son los móviles y tablets de Samsung que recibirán 4 años de actualizaciones de Android y 5 años de parches de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trituradora-batidora-leche-vegetal-descuento-1008149'>Esta trituradora y batidora para hacer leche vegetal te permite preparar tus propias bebidas sanas, por solo 140 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trituradora-batidora-leche-vegetal-descuento-1008149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/trituradora-batidora-hacer-leche-vegetal-te-permite-preparar-propias-bebidas-sanas-solo-140-euros-2609285.jpg' alt='Esta trituradora y batidora para hacer leche vegetal te permite preparar tus propias bebidas sanas, por solo 140 euros' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039'>Los guionistas querían que saliese más un personaje de Spider-Man No Way Home</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039'>Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Los guionistas querían que saliese más un personaje de Spider-Man No Way Home' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231'>Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-libera-android-auto-73-todos-usuarios-estas-son-todas-novedades-1008231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google libera Android Auto 7.3 a todos los usuarios y estas son todas las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-ic-berlin-alian-sacar-nueva-gama-gafas-graduadas-1008031'>Mercedes e ic! berlin se alían para sacar una nueva gama de gafas graduadas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mercedes-ic-berlin-alian-sacar-nueva-gama-gafas-graduadas-1008031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-ic-berlin-mercedes-benz-2601869.jpg' alt='Mercedes e ic! berlin se alían para sacar una nueva gama de gafas graduadas' />
     </a>
 </div>
 
