@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/personaliza-escritorio-multipantalla-protege-monitores-oled-aplicacion-gratuita-multiscreen-blank-1008077'>Personaliza tu escritorio multipantalla y protege monitores OLED con la aplicación gratuita Multiscreen Blank</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/personaliza-escritorio-multipantalla-protege-monitores-oled-aplicacion-gratuita-multiscreen-blank-1008077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multiscreen-blank-2609145.jpg' alt='Personaliza tu escritorio multipantalla y protege monitores OLED con la aplicación gratuita Multiscreen Blank' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/camera-lab-certifica-fotos-realme-9-pro-plus-estan-altura-pixel-6-s21-ultra-xiaomi-12-1008079'>Camera Lab certifica que las fotos del realme 9 Pro Plus están a la altura del Pixel 6, S21 Ultra o Xiaomi 12</a></h4>
+    <a href='https://computerhoy.com/noticias/camera-lab-certifica-fotos-realme-9-pro-plus-estan-altura-pixel-6-s21-ultra-xiaomi-12-1008079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-2609163.jpg' alt='Camera Lab certifica que las fotos del realme 9 Pro Plus están a la altura del Pixel 6, S21 Ultra o Xiaomi 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-version-chrome-99-podras-firmar-mano-documentos-plugins-externos-1008055'>Con la próxima versión de Chrome 99 podrás firmar a mano documentos sin plugins externos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proxima-version-chrome-99-podras-firmar-mano-documentos-plugins-externos-1008055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chrome-99-beta-2609083.jpg' alt='Con la próxima versión de Chrome 99 podrás firmar a mano documentos sin plugins externos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-phone-duel-movil-gaming-extremadamente-potente-precio-liquidacion-amazon-solo-te-costara-399-euros-1007935'>Lenovo Legion Phone Duel, un móvil gaming extremadamente potente está a precio de liquidación en Amazon: solo te costará 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-phone-duel-movil-gaming-extremadamente-potente-precio-liquidacion-amazon-solo-te-costara-399-euros-1007935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lenovo-legion-phone-duel-analisis-opinion-2248721.jpg' alt='Lenovo Legion Phone Duel, un móvil gaming extremadamente potente está a precio de liquidación en Amazon: solo te costará 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mejores-chollos-ofertas-semana-san-valentin-lidl-1008043'>Los mejores chollos y ofertas de la semana de San Valentín de Lidl</a></h4>
     <a href='https://computerhoy.com/noticias/mejores-chollos-ofertas-semana-san-valentin-lidl-1008043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lidl-2609019.jpg' alt='Los mejores chollos y ofertas de la semana de San Valentín de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-movil-plegable-tipo-concha-pantalla-fuera-1008013'>Motorola prepara un móvil plegable tipo concha con la pantalla por fuera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-movil-plegable-tipo-concha-pantalla-fuera-1008013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-2608951.jpg' alt='Motorola prepara un móvil plegable tipo concha con la pantalla por fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027'>Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quiza-deberias-quitar-habito-dejar-cargando-movil-noche-1008027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cargar-moviles.jpg' alt='Quizá deberías quitarte el hábito de dejar cargando el móvil por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/debes-fijarte-antes-comprar-saber-prenda-ropa-buena-calidad-1007989'>En qué debes fijarte antes de comprar para saber si una prenda de ropa es de buena calidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/debes-fijarte-antes-comprar-saber-prenda-ropa-buena-calidad-1007989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comprar-ropa-2269939.jpg' alt='En qué debes fijarte antes de comprar para saber si una prenda de ropa es de buena calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-home-mini_0.jpg' alt='Lista de los comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022' />
     </a>
 </div>
 
