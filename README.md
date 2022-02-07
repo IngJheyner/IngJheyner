@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-mayor-sostenibilidad-reciclara-redes-pesca-fabricar-galaxy-s22-1007819'>Samsung apuesta por una mayor sostenibilidad y reciclará redes de pesca para fabricar los Galaxy S22</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apuesta-mayor-sostenibilidad-reciclara-redes-pesca-fabricar-galaxy-s22-1007819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592597.jpg' alt='Samsung apuesta por una mayor sostenibilidad y reciclará redes de pesca para fabricar los Galaxy S22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-iphone-originales-donde-comprarlos-mejor-precio-1007637'>Cargadores iPhone originales: dónde comprarlos al mejor precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-iphone-originales-donde-comprarlos-mejor-precio-1007637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Cargadores iPhone originales: dónde comprarlos al mejor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuantas-veces-deberias-echarte-desodorante-1006835'>Cuántas veces deberías echarte desodorante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuantas-veces-deberias-echarte-desodorante-1006835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desodorante-2606721.jpg' alt='Cuántas veces deberías echarte desodorante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/restricciones-tienen-ahora-coches-etiqueta-c-1006827'>Qué restricciones tienen ahora los coches con etiqueta C</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/restricciones-tienen-ahora-coches-etiqueta-c-1006827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué restricciones tienen ahora los coches con etiqueta C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1007811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2608467.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejorar-cursos-online-udemy-desarrollar-videojuegos-unreal-engine-unity-cero-1006243'>Mejorar cursos online de Udemy para desarrollar videojuegos: Unreal Engine y Unity desde cero</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejorar-cursos-online-udemy-desarrollar-videojuegos-unreal-engine-unity-cero-1006243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-desarrollo-videojuegos-2605487.jpg' alt='Mejorar cursos online de Udemy para desarrollar videojuegos: Unreal Engine y Unity desde cero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683'>Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mascaras-futuristas-ikeuchi-hiroto-1004683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/increibles-mascaras-futuristas-japones-ikeuchi-hiroto-2602577.jpg' alt='Las increíbles máscaras futuristas del japonés Ikeuchi Hiroto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643'>El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-apple-watch-series-7-descuento-1007643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513201.jpg' alt='El nuevo reloj Apple Watch Series 7 recibe un descuento que baja su precio por debajo de los 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641'>La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locura-especulativa-nft-vendedores-compran-propios-nft-subir-precios-1007641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/software-uso-nina-12-anos-convertir-dibujos-nft-ganar-14-millones-euros-2569729.jpg' alt='La locura especulativa de los NFT roza el absurdo: vendedores compran sus propios NFT para subir los precios' />
     </a>
 </div>
 
