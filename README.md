@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257'>Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha</a></h4>
+    <a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/botones-camisas-mujer-estan-izquierda-hombres-derecha-2609523.jpg' alt='Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lukos-monitor-portatil-4k-ultrapanoramico-1008255'>El primer monitor portátil 4K ultrapanorámico 32:9</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lukos-monitor-portatil-4k-ultrapanoramico-1008255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monitor-4k-ultrapanoramico-portatil-2609521.jpg' alt='El primer monitor portátil 4K ultrapanorámico 32:9' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039'>Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241'>Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ley-antitabaco-2022-nuevos-lugares-donde-no-se-podra-fumar-incluido-coche-propio-1008241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estos-son-nuevos-lugares-donde-no-podra-fumar-2022-incluido-coche-propio-2609491.jpg' alt='Estos son los nuevos lugares en donde no se podrá fumar en 2022, incluido el coche propio' />
     </a>
 </div>
 
