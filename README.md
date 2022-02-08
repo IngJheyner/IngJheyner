@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871'>Sony estaría preparando unos auriculares con un diseño completamente novedoso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-2610369.jpg' alt='Sony estaría preparando unos auriculares con un diseño completamente novedoso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cocina-4-personas-baja-precio-1008877'>Esta freidora sin aceite cocina para 4 personas y baja de precio a 88,90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cocina-4-personas-baja-precio-1008877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cocina-4-personas-baja-precio-8890-euros-2610367.jpg' alt='Esta freidora sin aceite cocina para 4 personas y baja de precio a 88,90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579'>Una escena de The Mandalorian ya cuenta con su set de LEGO</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mandalorian-2485773.jpg' alt='Una escena de The Mandalorian ya cuenta con su set de LEGO' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861'>Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-compra-ai-music-ofrecer-musica-cambia-ritmo-tiempo-real-ritmo-cardiaco-estado-animo-salud-2610339.jpg' alt='Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dispositivo-dgt-sera-obligatorio-todos-coches-forma-inminente-1008857'>El dispositivo de la DGT que será obligatorio en todos los coches de forma inminente</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dispositivo-dgt-sera-obligatorio-todos-coches-forma-inminente-1008857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/conduccion-2610331.jpg' alt='El dispositivo de la DGT que será obligatorio en todos los coches de forma inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s22-ultra-filtra-completo-video-antes-presentacion-1008849'>El nuevo Samsung Galaxy S22 Ultra se filtra por completo en un vídeo antes de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s22-ultra-filtra-completo-video-antes-presentacion-1008849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='El nuevo Samsung Galaxy S22 Ultra se filtra por completo en un vídeo antes de su presentación' />
     </a>
 </div>
 
