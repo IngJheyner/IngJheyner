@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-ciberseguridad-udemy-1006785'>Mejores cursos online de ciberseguridad que puedes estudiar en Udemy: aprende una de las profesiones más demandadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-ciberseguridad-udemy-1006785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciberseguridad-2606595.jpg' alt='Mejores cursos online de ciberseguridad que puedes estudiar en Udemy: aprende una de las profesiones más demandadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257'>Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha</a></h4>
     <a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/botones-camisas-mujer-estan-izquierda-hombres-derecha-2609523.jpg' alt='Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trituradora-batidora-leche-vegetal-descuento-1008149'>Esta trituradora y batidora para hacer leche vegetal te permite preparar tus propias bebidas sanas, por solo 140 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trituradora-batidora-leche-vegetal-descuento-1008149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/trituradora-batidora-hacer-leche-vegetal-te-permite-preparar-propias-bebidas-sanas-solo-140-euros-2609285.jpg' alt='Esta trituradora y batidora para hacer leche vegetal te permite preparar tus propias bebidas sanas, por solo 140 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039'>Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/guionistas-querian-saliese-personaje-spider-man-no-way-home-1008039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2565807.jpg' alt='Los guionistas querían que saliese más un personaje de Spider-Man: No Way Home' />
     </a>
 </div>
 
