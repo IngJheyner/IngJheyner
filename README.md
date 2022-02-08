@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevos-honor-60-inspiran-iphone-pro-disenar-modulo-fotografico-1008591'>Los nuevos Honor 60 SE se inspiran en los iPhone Pro para diseñar su módulo fotográfico</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevos-honor-60-inspiran-iphone-pro-disenar-modulo-fotografico-1008591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-60-2609877.jpg' alt='Los nuevos Honor 60 SE se inspiran en los iPhone Pro para diseñar su módulo fotográfico' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653'>Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elisabeth-moss-nuevos-estrenos-tiene-preparado-apple-tv-proximos-meses-1008551'>Elisabeth Moss entre los nuevos estrenos que tiene preparado Apple TV+ para los próximos meses</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/elisabeth-moss-nuevos-estrenos-tiene-preparado-apple-tv-proximos-meses-1008551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shining-girls-2609811.jpg' alt='Elisabeth Moss entre los nuevos estrenos que tiene preparado Apple TV+ para los próximos meses' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-retira-compra-arm-dos-anos-negociaciones-negativas-1008625'>NVIDIA se retira de la compra de ARM tras dos años de negociaciones y negativas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-retira-compra-arm-dos-anos-negociaciones-negativas-1008625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2065045.jpg' alt='NVIDIA se retira de la compra de ARM tras dos años de negociaciones y negativas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/saca-artista-digital-tienes-dentro-tablet-huawei-matepad-11-lapiz-digital-479-euros-1008155'>Saca el artista digital que tienes dentro con esta tablet Huawei MatePad 11 con lápiz digital por 479 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/saca-artista-digital-tienes-dentro-tablet-huawei-matepad-11-lapiz-digital-479-euros-1008155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-review-matepad-11-2417279.jpg' alt='Saca el artista digital que tienes dentro con esta tablet Huawei MatePad 11 con lápiz digital por 479 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635'>Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stablecoin-2562781.jpg' alt='Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-anuncia-creando-tesla-store-competir-apple-android-1008541'>Tesla anuncia que está creando una Tesla Store para competir con Apple y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-anuncia-creando-tesla-store-competir-apple-android-1008541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='Tesla anuncia que está creando una Tesla Store para competir con Apple y Android' />
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-cecotec'>Comprar un robot aspirador de Cecotec: guía actualizada con todos los modelos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador-cecotec' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-2290-ultra-home-2539383.jpg' alt='Comprar un robot aspirador de Cecotec: guía actualizada con todos los modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-walkingpad-a1-cinta-andar-correr-1008511'>Xiaomi Walkingpad A1: así es la cinta de andar y correr que arrasa silenciosamente en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-walkingpad-a1-cinta-andar-correr-1008511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-walkingpad-a1-2609777.jpg' alt='Xiaomi Walkingpad A1: así es la cinta de andar y correr que arrasa silenciosamente en España' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32gb-ram-windows-11-vuele-portatil-ultraligero-lg-tiene-ahora-450eu-descuento-amazon-1007941'>32GB de RAM para que Windows 11 vuele: este portátil ultraligero de LG tiene ahora 450€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32gb-ram-windows-11-vuele-portatil-ultraligero-lg-tiene-ahora-450eu-descuento-amazon-1007941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='32GB de RAM para que Windows 11 vuele: este portátil ultraligero de LG tiene ahora 450€ de descuento en Amazon' />
     </a>
 </div>
 
