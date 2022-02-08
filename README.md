@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevos-honor-60-inspiran-iphone-pro-disenar-modulo-fotografico-1008591'>Los nuevos Honor 60 SE se inspiran en los iPhone Pro para diseñar su módulo fotográfico</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevos-honor-60-inspiran-iphone-pro-disenar-modulo-fotografico-1008591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-60-2609877.jpg' alt='Los nuevos Honor 60 SE se inspiran en los iPhone Pro para diseñar su módulo fotográfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elisabeth-moss-nuevos-estrenos-tiene-preparado-apple-tv-proximos-meses-1008551'>Elisabeth Moss entre los nuevos estrenos que tiene preparado Apple TV+ para los próximos meses</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/elisabeth-moss-nuevos-estrenos-tiene-preparado-apple-tv-proximos-meses-1008551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shining-girls-2609811.jpg' alt='Elisabeth Moss entre los nuevos estrenos que tiene preparado Apple TV+ para los próximos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/saca-artista-digital-tienes-dentro-tablet-huawei-matepad-11-lapiz-digital-479-euros-1008155'>Saca el artista digital que tienes dentro con esta tablet Huawei MatePad 11 con lápiz digital por 479 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/saca-artista-digital-tienes-dentro-tablet-huawei-matepad-11-lapiz-digital-479-euros-1008155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-review-matepad-11-2417279.jpg' alt='Saca el artista digital que tienes dentro con esta tablet Huawei MatePad 11 con lápiz digital por 479 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-walkingpad-a1-cinta-andar-correr-1008511'>Xiaomi Walkingpad A1: así es la cinta de andar y correr que arrasa silenciosamente en España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-walkingpad-a1-cinta-andar-correr-1008511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-walkingpad-a1-2609777.jpg' alt='Xiaomi Walkingpad A1: así es la cinta de andar y correr que arrasa silenciosamente en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/problemas-estrenos-warnermedia-demandada-matrix-resurrections-1008521'>Más problemas para los estrenos simultáneos: WarnerMedia demandada por lanzar Matrix Resurrections en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/problemas-estrenos-warnermedia-demandada-matrix-resurrections-1008521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566691.jpg' alt='Más problemas para los estrenos simultáneos: WarnerMedia demandada por lanzar Matrix Resurrections en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-busqueda-vida-extraterrestre-termina-conclusion-decepcionante-1008497'>La mayor búsqueda de vida extraterrestre termina con una conclusión decepcionante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mayor-busqueda-vida-extraterrestre-termina-conclusion-decepcionante-1008497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/antenas-espacio-1883859.jpg' alt='La mayor búsqueda de vida extraterrestre termina con una conclusión decepcionante' />
     </a>
 </div>
 
