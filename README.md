@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sabes-sirven-estas-piezas-golf-gti-clubsport-1008575'>¿Sabes para qué sirven estas piezas del Golf GTI Clubsport?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sabes-sirven-estas-piezas-golf-gti-clubsport-1008575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anadidos-plastico-aleta-volskwagen-golf-gti-clubsport-2603297.jpg' alt='¿Sabes para qué sirven estas piezas del Golf GTI Clubsport?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-1008817'>Tap to Pay: así es la nueva característica que convierte al iPhone en un terminal TPV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-1008817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-2610291.jpg' alt='Tap to Pay: así es la nueva característica que convierte al iPhone en un terminal TPV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m12-vs-galaxy-m22-cual-mejor-diferencias-1008527'>Samsung Galaxy M12 vs Galaxy M22, ¿cuál es mejor y en qué se diferencian?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m12-vs-galaxy-m22-cual-mejor-diferencias-1008527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m12-vs-galaxy-m22-2609823.jpg' alt='Samsung Galaxy M12 vs Galaxy M22, ¿cuál es mejor y en qué se diferencian?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805'>Motorola anuncia la fecha de presentación del nuevo Moto Edge X30</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-anuncia-fecha-presentacion-nuevo-motorola-edge-x30-2610229.jpg' alt='Motorola anuncia la fecha de presentación del nuevo Moto Edge X30' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-triunfa-oscar-2022-16-nominaciones-1008801'>Netflix triunfa en los Oscar y consigue 16 nominaciones gracias a dos películas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-triunfa-oscar-2022-16-nominaciones-1008801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='Netflix triunfa en los Oscar y consigue 16 nominaciones gracias a dos películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-demanda-2100-millones-euros-dar-prioridad-compras-busquedas-1008783'>Google se enfrenta a una demanda de 2.100 millones de euros por dar prioridad a las compras en las búsquedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-demanda-2100-millones-euros-dar-prioridad-compras-busquedas-1008783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google se enfrenta a una demanda de 2.100 millones de euros por dar prioridad a las compras en las búsquedas' />
     </a>
 </div>
 
