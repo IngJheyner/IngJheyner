@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/super-bowl-siglo-xix-ir-ver-choque-trenes-1008789'>La Super Bowl del siglo XIX: ir a ver un choque de trenes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/super-bowl-siglo-xix-ir-ver-choque-trenes-1008789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/trenes-2610237.jpg' alt='La Super Bowl del siglo XIX: ir a ver un choque de trenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805'>Motorola anuncia la fecha de presentación del nuevo Moto Edge X30</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-anuncia-fecha-presentacion-nuevo-motorola-edge-x30-2610229.jpg' alt='Motorola anuncia la fecha de presentación del nuevo Moto Edge X30' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-irobot-roomba-e6192-oferta-299-euros-1008619'>Vuelve las ofertas de los robots aspiradores Roomba: 200 euros de descuento por esta Roomba e6192 compatible con Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-irobot-roomba-e6192-oferta-299-euros-1008619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/irobot-roomba-e6-2609941.jpg' alt='Vuelve las ofertas de los robots aspiradores Roomba: 200 euros de descuento por esta Roomba e6192 compatible con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737'>Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/jueces-anulan-mitad-multas-dgt-ha-duplicado-denuncias-ultimos-anos-2433129.jpg' alt='Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte' />
     </a>
 </div>
 
