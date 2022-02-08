@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705'>Los 6 motivos por los que no comprar un teclado bluetooth</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/manos-teclado-2102503.jpg' alt='Los 6 motivos por los que no comprar un teclado bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-neo-qled-65-pulgadas-descuento-625-euros-1008605'>El chollo del día es este descuento de 626 euros en esta Smart TV Samsung Neo QLED de 65 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-neo-qled-65-pulgadas-descuento-625-euros-1008605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-neo-qled-4k-qn85a-2609905.jpg' alt='El chollo del día es este descuento de 626 euros en esta Smart TV Samsung Neo QLED de 65 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685'>Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653'>Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-retira-compra-arm-dos-anos-negociaciones-negativas-1008625'>NVIDIA se retira de la compra de ARM tras dos años de negociaciones y negativas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-retira-compra-arm-dos-anos-negociaciones-negativas-1008625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/arm-nvidia-2065045.jpg' alt='NVIDIA se retira de la compra de ARM tras dos años de negociaciones y negativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635'>Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stablecoin-2562781.jpg' alt='Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin' />
     </a>
 </div>
 
