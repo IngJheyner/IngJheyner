@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/problemas-estrenos-warnermedia-demandada-matrix-resurrections-1008521'>Más problemas para los estrenos simultáneos: WarnerMedia demandada por lanzar Matrix Resurrections en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/problemas-estrenos-warnermedia-demandada-matrix-resurrections-1008521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/matrix-resurrections-2566691.jpg' alt='Más problemas para los estrenos simultáneos: WarnerMedia demandada por lanzar Matrix Resurrections en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-busqueda-vida-extraterrestre-termina-conclusion-decepcionante-1008497'>La mayor búsqueda de vida extraterrestre termina con una conclusión decepcionante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mayor-busqueda-vida-extraterrestre-termina-conclusion-decepcionante-1008497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/antenas-espacio-1883859.jpg' alt='La mayor búsqueda de vida extraterrestre termina con una conclusión decepcionante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-unpacked-metaverso-1008489'>Samsung anuncia que el Unpacked 2022 también podrá verse en el metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-unpacked-metaverso-1008489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='Samsung anuncia que el Unpacked 2022 también podrá verse en el metaverso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/signal-suma-novedad-migrar-whatsapp-1008479'>Signal suma una novedad que casi parece imposible que llegue a WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/signal-suma-novedad-migrar-whatsapp-1008479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/signal-whatsapp-telegram-2609731.jpg' alt='Signal suma una novedad que casi parece imposible que llegue a WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimentos-puedes-comer-antes-dormir-perder-peso-1008051'>Alimentos que puedes comer antes de dormir para perder peso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimentos-puedes-comer-antes-dormir-perder-peso-1008051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/almendras-2481039.jpg' alt='Alimentos que puedes comer antes de dormir para perder peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/fraudes-seguro-coche-han-multiplicado-coronavirus-1008049'>Los fraudes en el seguro de coche se han multiplicado con el coronavirus</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/fraudes-seguro-coche-han-multiplicado-coronavirus-1008049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/accidentes-laborales-trafico-2547107.jpg' alt='Los fraudes en el seguro de coche se han multiplicado con el coronavirus' />
     </a>
 </div>
 
