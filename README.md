@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685'>Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-nuevos-expertbook-b3-flip-b7-flip-portatiles-profesionales-1008659'>ASUS anuncia los nuevos ExpertBook B3 Flip y B7 Flip, sus portátiles más profesionales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-nuevos-expertbook-b3-flip-b7-flip-portatiles-profesionales-1008659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-expertbook-2609969.jpg' alt='ASUS anuncia los nuevos ExpertBook B3 Flip y B7 Flip, sus portátiles más profesionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653'>Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635'>Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-stablecoins-muchos-expertos-consideran-mejor-inversion-bitcoin-1008635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stablecoin-2562781.jpg' alt='Qué son las Stablecoins y por qué muchos expertos las consideran una mejor inversión que Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-cecotec'>Comprar un robot aspirador de Cecotec: guía actualizada con todos los modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador-cecotec' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/conga-2290-ultra-home-2539383.jpg' alt='Comprar un robot aspirador de Cecotec: guía actualizada con todos los modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32gb-ram-windows-11-vuele-portatil-ultraligero-lg-tiene-ahora-450eu-descuento-amazon-1007941'>32GB de RAM para que Windows 11 vuele: este portátil ultraligero de LG tiene ahora 450€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32gb-ram-windows-11-vuele-portatil-ultraligero-lg-tiene-ahora-450eu-descuento-amazon-1007941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='32GB de RAM para que Windows 11 vuele: este portátil ultraligero de LG tiene ahora 450€ de descuento en Amazon' />
     </a>
 </div>
 
