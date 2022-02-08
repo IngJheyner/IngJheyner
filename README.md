@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-unpacked-metaverso-1008489'>Samsung anuncia que el Unpacked 2022 también podrá verse en el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-unpacked-metaverso-1008489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='Samsung anuncia que el Unpacked 2022 también podrá verse en el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mandos-baratos-nintendo-switch-1008157'>Mandos baratos para Nintendo Switch: estos son los mejores de menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mandos-baratos-nintendo-switch-1008157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mando-nintendo-switch-2609385.jpg' alt='Mandos baratos para Nintendo Switch: estos son los mejores de menos de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/signal-suma-novedad-migrar-whatsapp-1008479'>Signal suma una novedad que casi parece imposible que llegue a WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/signal-suma-novedad-migrar-whatsapp-1008479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/signal-whatsapp-telegram-2609731.jpg' alt='Signal suma una novedad que casi parece imposible que llegue a WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-puedes-comer-antes-dormir-perder-peso-1008051'>Alimentos que puedes comer antes de dormir para perder peso</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-puedes-comer-antes-dormir-perder-peso-1008051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/almendras-2481039.jpg' alt='Alimentos que puedes comer antes de dormir para perder peso' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/fraudes-seguro-coche-han-multiplicado-coronavirus-1008049'>Los fraudes en el seguro de coche se han multiplicado con el coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/motor/fraudes-seguro-coche-han-multiplicado-coronavirus-1008049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/accidentes-laborales-trafico-2547107.jpg' alt='Los fraudes en el seguro de coche se han multiplicado con el coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1008467'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1008467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2609725.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-ciberseguridad-udemy-1006785'>Mejores cursos online de ciberseguridad que puedes estudiar en Udemy: aprende una de las profesiones más demandadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-ciberseguridad-udemy-1006785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciberseguridad-2606595.jpg' alt='Mejores cursos online de ciberseguridad que puedes estudiar en Udemy: aprende una de las profesiones más demandadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257'>Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha</a></h4>
-    <a href='https://computerhoy.com/noticias/life/botones-camisas-mujer-estan-izquierda-hombres-derecha-1008257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/botones-camisas-mujer-estan-izquierda-hombres-derecha-2609523.jpg' alt='Por qué los botones de las camisas de mujer están a izquierda, y los de los hombres a la derecha' />
     </a>
 </div>
 
