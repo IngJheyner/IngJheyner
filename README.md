@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sabes-sirven-estas-piezas-golf-gti-clubsport-1008575'>¿Sabes para qué sirven estas piezas del Golf GTI Clubsport?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sabes-sirven-estas-piezas-golf-gti-clubsport-1008575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anadidos-plastico-aleta-volskwagen-golf-gti-clubsport-2603297.jpg' alt='¿Sabes para qué sirven estas piezas del Golf GTI Clubsport?' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579'>Una escena de The Mandalorian ya cuenta con su set de LEGO</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mandalorian-2485773.jpg' alt='Una escena de The Mandalorian ya cuenta con su set de LEGO' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-1008817'>Tap to Pay: así es la nueva característica que convierte al iPhone en un terminal TPV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-1008817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-2610291.jpg' alt='Tap to Pay: así es la nueva característica que convierte al iPhone en un terminal TPV' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-todos-daban-muerta-pero-parece-resurgir-cenizas-1008859'>La criptomoneda que todos daban por muerta pero parece resurgir de sus cenizas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-todos-daban-muerta-pero-parece-resurgir-cenizas-1008859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg' alt='La criptomoneda que todos daban por muerta pero parece resurgir de sus cenizas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m12-vs-galaxy-m22-cual-mejor-diferencias-1008527'>Samsung Galaxy M12 vs Galaxy M22, ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m12-vs-galaxy-m22-cual-mejor-diferencias-1008527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m12-vs-galaxy-m22-2609823.jpg' alt='Samsung Galaxy M12 vs Galaxy M22, ¿cuál es mejor y en qué se diferencian?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861'>Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-compra-ai-music-ofrecer-musica-cambia-ritmo-tiempo-real-ritmo-cardiaco-estado-animo-salud-2610339.jpg' alt='Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/super-bowl-siglo-xix-ir-ver-choque-trenes-1008789'>La Super Bowl del siglo XIX: ir a ver un choque de trenes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/super-bowl-siglo-xix-ir-ver-choque-trenes-1008789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/trenes-2610237.jpg' alt='La Super Bowl del siglo XIX: ir a ver un choque de trenes' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dispositivo-dgt-sera-obligatorio-todos-coches-forma-inminente-1008857'>El dispositivo de la DGT que será obligatorio en todos los coches de forma inminente</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dispositivo-dgt-sera-obligatorio-todos-coches-forma-inminente-1008857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/conduccion-2610331.jpg' alt='El dispositivo de la DGT que será obligatorio en todos los coches de forma inminente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805'>Motorola anuncia la fecha de presentación del nuevo Moto Edge X30</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-anuncia-fecha-presentacion-nuevo-motorola-edge-x30-2610229.jpg' alt='Motorola anuncia la fecha de presentación del nuevo Moto Edge X30' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s22-ultra-filtra-completo-video-antes-presentacion-1008849'>El nuevo Samsung Galaxy S22 Ultra se filtra por completo en un vídeo antes de su presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s22-ultra-filtra-completo-video-antes-presentacion-1008849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='El nuevo Samsung Galaxy S22 Ultra se filtra por completo en un vídeo antes de su presentación' />
     </a>
 </div>
 
