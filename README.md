@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885'>Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horizon-forbidden-west-2590053.jpg' alt='Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-qualcomm-asocian-desarrollar-vehiculos-todavia-inteligentes-1008881'>Ferrari y Qualcomm se asocian para desarrollar vehículos todavía más inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ferrari-qualcomm-asocian-desarrollar-vehiculos-todavia-inteligentes-1008881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/qualcomm-2205461.jpg' alt='Ferrari y Qualcomm se asocian para desarrollar vehículos todavía más inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871'>Sony estaría preparando unos auriculares con un diseño completamente novedoso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-2610369.jpg' alt='Sony estaría preparando unos auriculares con un diseño completamente novedoso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579'>Una escena de The Mandalorian ya cuenta con su set de LEGO</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/escena-mandalorian-ya-cuenta-set-lego-1008579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mandalorian-2485773.jpg' alt='Una escena de The Mandalorian ya cuenta con su set de LEGO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-todos-daban-muerta-pero-parece-resurgir-cenizas-1008859'>La criptomoneda que todos daban por muerta pero parece resurgir de sus cenizas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-todos-daban-muerta-pero-parece-resurgir-cenizas-1008859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg' alt='La criptomoneda que todos daban por muerta pero parece resurgir de sus cenizas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861'>Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-compra-ai-music-inteligencia-artificial-musica-1008861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-compra-ai-music-ofrecer-musica-cambia-ritmo-tiempo-real-ritmo-cardiaco-estado-animo-salud-2610339.jpg' alt='Apple compra AI Music para ofrecer música con inteligencia artificial que cambia el ritmo según tus pulsaciones o estado de ánimo' />
     </a>
 </div>
 
