@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737'>Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/jueces-anulan-mitad-multas-dgt-ha-duplicado-denuncias-ultimos-anos-2433129.jpg' alt='Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/analisis-opinion-xbox-series-s-vale-pena-2022-1007853'>Análisis de Xbox Series S en 2022, ¿vale la pena?</a></h4>
+    <a href='https://computerhoy.com/reportajes/analisis-opinion-xbox-series-s-vale-pena-2022-1007853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Análisis de Xbox Series S en 2022, ¿vale la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705'>Los 6 motivos por los que no comprar un teclado bluetooth</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/manos-teclado-2102503.jpg' alt='Los 6 motivos por los que no comprar un teclado bluetooth' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685'>Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-nuevos-expertbook-b3-flip-b7-flip-portatiles-profesionales-1008659'>ASUS anuncia los nuevos ExpertBook B3 Flip y B7 Flip, sus portátiles más profesionales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-nuevos-expertbook-b3-flip-b7-flip-portatiles-profesionales-1008659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-expertbook-2609969.jpg' alt='ASUS anuncia los nuevos ExpertBook B3 Flip y B7 Flip, sus portátiles más profesionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653'>Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tinder-solidariza-solteros-menos-jovenes-cara-san-valentin-abandona-diferencia-precios-premium-edad-1008653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Tinder se solidariza con los solteros menos jóvenes de cara a San Valentín, abandona la diferencia de precios premium por edad' />
     </a>
 </div>
 
