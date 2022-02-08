@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805'>Motorola anuncia la fecha de presentación del nuevo Moto Edge X30</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-anuncia-fecha-presentacion-nuevo-moto-edge-x30-1008805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-anuncia-fecha-presentacion-nuevo-motorola-edge-x30-2610229.jpg' alt='Motorola anuncia la fecha de presentación del nuevo Moto Edge X30' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-triunfa-oscar-2022-16-nominaciones-1008801'>Netflix triunfa en los Oscar y consigue 16 nominaciones gracias a dos películas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-triunfa-oscar-2022-16-nominaciones-1008801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2571135.jpg' alt='Netflix triunfa en los Oscar y consigue 16 nominaciones gracias a dos películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-demanda-2100-millones-euros-dar-prioridad-compras-busquedas-1008783'>Google se enfrenta a una demanda de 2.100 millones de euros por dar prioridad a las compras en las búsquedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-demanda-2100-millones-euros-dar-prioridad-compras-busquedas-1008783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google se enfrenta a una demanda de 2.100 millones de euros por dar prioridad a las compras en las búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-irobot-roomba-e6192-oferta-299-euros-1008619'>Vuelve las ofertas de los robots aspiradores Roomba: 200 euros de descuento por esta Roomba e6192 compatible con Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-irobot-roomba-e6192-oferta-299-euros-1008619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/irobot-roomba-e6-2609941.jpg' alt='Vuelve las ofertas de los robots aspiradores Roomba: 200 euros de descuento por esta Roomba e6192 compatible con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737'>Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-seguir-utilizando-movil-mientras-conduces-dgt-pueda-multarte-1008737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/jueces-anulan-mitad-multas-dgt-ha-duplicado-denuncias-ultimos-anos-2433129.jpg' alt='Cómo seguir utilizando el móvil mientras conduces sin que la DGT pueda multarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/analisis-opinion-xbox-series-s-vale-pena-2022-1007853'>Análisis de Xbox Series S en 2022, ¿vale la pena?</a></h4>
-    <a href='https://computerhoy.com/reportajes/analisis-opinion-xbox-series-s-vale-pena-2022-1007853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Análisis de Xbox Series S en 2022, ¿vale la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705'>Los 6 motivos por los que no comprar un teclado bluetooth</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-motivos-no-comprar-teclado-bluetooth-1008705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/manos-teclado-2102503.jpg' alt='Los 6 motivos por los que no comprar un teclado bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-neo-qled-65-pulgadas-descuento-625-euros-1008605'>El chollo del día es este descuento de 626 euros en esta Smart TV Samsung Neo QLED de 65 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-neo-qled-65-pulgadas-descuento-625-euros-1008605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-neo-qled-4k-qn85a-2609905.jpg' alt='El chollo del día es este descuento de 626 euros en esta Smart TV Samsung Neo QLED de 65 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685'>Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hay-interior-nft-exactamente-estas-comprando-1008685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/son-juegos-nft-play-earn-jugar-ganar-dinero-generan-tanta-polemica-2551305.jpg' alt='Qué hay en el interior de un NFT y qué es exactamente lo que estás comprando' />
     </a>
 </div>
 
