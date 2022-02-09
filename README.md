@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621'>Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/presentacion-realme-serie-9-2609931.jpg' alt='Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143'>Los comandos de voz "Hey PlayStation" llegan a la PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Los comandos de voz "Hey PlayStation" llegan a la PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833'>MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-air-2020-m1-vs-matebook-d15-2606723.jpg' alt='MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/eso-cuesta-llenar-deposito-diez-coches-vendidos-1008585'>Esto es lo que cuesta llenar el depósito de los diez coches más vendidos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/eso-cuesta-llenar-deposito-diez-coches-vendidos-1008585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuanto-cuesta-llenar-deposito-diez-coches-vendidos-espana-2604461.jpg' alt='Esto es lo que cuesta llenar el depósito de los diez coches más vendidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2610615.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
