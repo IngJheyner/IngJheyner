@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281'>Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-unpacked-samsung-nosotros-nueva-familia-galaxy-s22-galaxy-tab-s8-1009283'>Sigue en directo el Unpacked de Samsung con nosotros: nueva familia Galaxy S22 y Galaxy Tab S8</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-unpacked-samsung-nosotros-nueva-familia-galaxy-s22-galaxy-tab-s8-1009283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='Sigue en directo el Unpacked de Samsung con nosotros: nueva familia Galaxy S22 y Galaxy Tab S8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257'>¿Es Bitcoin vulnerable a la computación cuántica?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='¿Es Bitcoin vulnerable a la computación cuántica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-empezado-fabricar-panales-oled-futuros-ipads-1009235'>LG ha empezado a fabricar los panales OLED de los futuros iPads</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-empezado-fabricar-panales-oled-futuros-ipads-1009235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562515.jpg' alt='LG ha empezado a fabricar los panales OLED de los futuros iPads' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175'>Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle</a></h4>
     <a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/kia%20niro.jpg' alt='Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/documentales-netflix-despues-estafador-tinder-1009169'>Documentales de Netflix que no deberías perderte si te has quedado con ganas de más después de El estafador de Tinder</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/documentales-netflix-despues-estafador-tinder-1009169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafador-tinder-2610667.jpg' alt='Documentales de Netflix que no deberías perderte si te has quedado con ganas de más después de El estafador de Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/43000-millones-euros-terminar-crisis-semiconductores-solucion-europa-1009147'>43.000 millones de euros para terminar con la crisis de los semiconductores: así es la solución de Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/43000-millones-euros-terminar-crisis-semiconductores-solucion-europa-1009147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/5-razones-europa-no-existen-companias-como-google-facebook.jpg' alt='43.000 millones de euros para terminar con la crisis de los semiconductores: así es la solución de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621'>Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/presentacion-realme-serie-9-2609931.jpg' alt='Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143'>Los comandos de voz "Hey PlayStation" llegan a la PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Los comandos de voz "Hey PlayStation" llegan a la PS5' />
     </a>
 </div>
 
