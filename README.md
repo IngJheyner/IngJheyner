@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cae-precio-iphone-13-128gb-oferta-amazon-65eu-descuento-1009315'>Cae el precio del iPhone 13 de 128GB, que está en oferta en Amazon con 65€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cae-precio-iphone-13-128gb-oferta-amazon-65eu-descuento-1009315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492363.jpg' alt='Cae el precio del iPhone 13 de 128GB, que está en oferta en Amazon con 65€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/twitter-va-incorporar-caracteristica-youtube-netflix-hara-vida-sencilla-1009351'>Twitter va a incorporar una característica de YouTube y Netflix que hará nuestra vida más sencilla</a></h4>
+    <a href='https://computerhoy.com/noticias/twitter-va-incorporar-caracteristica-youtube-netflix-hara-vida-sencilla-1009351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/twitter-nueva-caracteristica-2610921.jpg' alt='Twitter va a incorporar una característica de YouTube y Netflix que hará nuestra vida más sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523'>Las mejores páginas para descargar música gratis de forma legal</a></h4>
     <a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chica-escuchando-musica-2610741.jpg' alt='Las mejores páginas para descargar música gratis de forma legal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321'>El boom de las criptomonedas tiene totalmente enganchados a los millenials</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/ganar-dinero-criptomonedas.jpg' alt='El boom de las criptomonedas tiene totalmente enganchados a los millenials' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-conexion-fibra-lenta-contratado-solucionarlo-1009301'>Motivos por los que tu conexión de fibra es más lenta de lo contratado y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivos-conexion-fibra-lenta-contratado-solucionarlo-1009301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-fibra-optica-2610861.jpg' alt='Motivos por los que tu conexión de fibra es más lenta de lo contratado y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281'>Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra' />
     </a>
 </div>
 
