@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523'>Las mejores páginas para descargar música gratis de forma legal</a></h4>
+    <a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chica-escuchando-musica-2610741.jpg' alt='Las mejores páginas para descargar música gratis de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-puedes-regalar-san-valentin-1009149'>Mejores relojes inteligentes que puedes regalar por San Valentín</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-puedes-regalar-san-valentin-1009149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Mejores relojes inteligentes que puedes regalar por San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321'>El boom de las criptomonedas tiene totalmente enganchados a los millenials</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/ganar-dinero-criptomonedas.jpg' alt='El boom de las criptomonedas tiene totalmente enganchados a los millenials' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281'>Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-unpacked-samsung-nosotros-nueva-familia-galaxy-s22-galaxy-tab-s8-1009283'>Sigue en directo el Unpacked de Samsung con nosotros: nueva familia Galaxy S22 y Galaxy Tab S8</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-unpacked-samsung-nosotros-nueva-familia-galaxy-s22-galaxy-tab-s8-1009283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtra-fecha-evento-samsung-unpacked-donde-presentaran-galaxy-s22-2594947.jpg' alt='Sigue en directo el Unpacked de Samsung con nosotros: nueva familia Galaxy S22 y Galaxy Tab S8' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257'>¿Es Bitcoin vulnerable a la computación cuántica?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='¿Es Bitcoin vulnerable a la computación cuántica?' />
     </a>
 </div>
 
