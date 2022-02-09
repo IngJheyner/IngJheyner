@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pornografia-va-hacer-usuarios-twitter-reddit-tengan-verificar-datos-personales-1009403'>Cómo la pornografía va a hacer que los usuarios de Twitter y Reddit tengan que verificar sus datos personales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-pornografia-va-hacer-usuarios-twitter-reddit-tengan-verificar-datos-personales-1009403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lector-dni-2489171.jpg' alt='Cómo la pornografía va a hacer que los usuarios de Twitter y Reddit tengan que verificar sus datos personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-gratuitos-2022-ocu-son-fiables-1009327'>Los mejores antivirus gratuitos de 2022 según la OCU: ¿son fiables?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-gratuitos-2022-ocu-son-fiables-1009327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/antivirus-pc-movil-2602675.jpg' alt='Los mejores antivirus gratuitos de 2022 según la OCU: ¿son fiables?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-kindle-3-meses-gratis-kindle-unlimited-oferta-1009287'>Este Amazon Kindle viene con 3 meses gratis de Kindle Unlimited, un regalo perfecto para San Valentín</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-kindle-3-meses-gratis-kindle-unlimited-oferta-1009287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/amazon-kindle-2304831.jpg' alt='Este Amazon Kindle viene con 3 meses gratis de Kindle Unlimited, un regalo perfecto para San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/simulador-donde-aprenden-conducir-coches-autonomos-1009365'>Así es el simulador donde aprenden a conducir los coches autónomos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/simulador-donde-aprenden-conducir-coches-autonomos-1009365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-autonomo-2611033.jpg' alt='Así es el simulador donde aprenden a conducir los coches autónomos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cae-precio-iphone-13-128gb-oferta-amazon-65eu-descuento-1009315'>Cae el precio del iPhone 13 de 128GB, que está en oferta en Amazon con 65€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cae-precio-iphone-13-128gb-oferta-amazon-65eu-descuento-1009315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492363.jpg' alt='Cae el precio del iPhone 13 de 128GB, que está en oferta en Amazon con 65€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/twitter-va-incorporar-caracteristica-youtube-netflix-hara-vida-sencilla-1009351'>Twitter va a incorporar una característica de YouTube y Netflix que hará nuestra vida más sencilla</a></h4>
-    <a href='https://computerhoy.com/noticias/twitter-va-incorporar-caracteristica-youtube-netflix-hara-vida-sencilla-1009351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/twitter-nueva-caracteristica-2610921.jpg' alt='Twitter va a incorporar una característica de YouTube y Netflix que hará nuestra vida más sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523'>Las mejores páginas para descargar música gratis de forma legal</a></h4>
-    <a href='https://computerhoy.com/listas/internet/mejores-webs-descargar-musica-gratis-legal-67523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chica-escuchando-musica-2610741.jpg' alt='Las mejores páginas para descargar música gratis de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-puedes-regalar-san-valentin-1009149'>Mejores relojes inteligentes que puedes regalar por San Valentín</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-puedes-regalar-san-valentin-1009149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Mejores relojes inteligentes que puedes regalar por San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321'>El boom de las criptomonedas tiene totalmente enganchados a los millenials</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/ganar-dinero-criptomonedas.jpg' alt='El boom de las criptomonedas tiene totalmente enganchados a los millenials' />
     </a>
 </div>
 
