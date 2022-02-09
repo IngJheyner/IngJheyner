@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115'>Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/recogefrutas-manual-fiskars-1008891'>El recogefrutas manual para quienes no les gusta subirse a los árboles</a></h4>
     <a href='https://computerhoy.com/noticias/life/recogefrutas-manual-fiskars-1008891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/recogefrutas-manual-2610401.jpg' alt='El recogefrutas manual para quienes no les gusta subirse a los árboles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871'>Sony estaría preparando unos auriculares con un diseño completamente novedoso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-2610369.jpg' alt='Sony estaría preparando unos auriculares con un diseño completamente novedoso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cocina-4-personas-baja-precio-1008877'>Esta freidora sin aceite cocina para 4 personas y baja de precio a 88,90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-cocina-4-personas-baja-precio-1008877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cocina-4-personas-baja-precio-8890-euros-2610367.jpg' alt='Esta freidora sin aceite cocina para 4 personas y baja de precio a 88,90 euros' />
     </a>
 </div>
 
