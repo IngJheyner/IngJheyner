@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321'>El boom de las criptomonedas tiene totalmente enganchados a los millenials</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/boom-criptomonedas-tiene-totalmente-enganchados-millenials-1009321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/ganar-dinero-criptomonedas.jpg' alt='El boom de las criptomonedas tiene totalmente enganchados a los millenials' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-conexion-fibra-lenta-contratado-solucionarlo-1009301'>Motivos por los que tu conexión de fibra es más lenta de lo contratado y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivos-conexion-fibra-lenta-contratado-solucionarlo-1009301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-fibra-optica-2610861.jpg' alt='Motivos por los que tu conexión de fibra es más lenta de lo contratado y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281'>Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/cianuro-ironia-como-veneno-pudo-ser-clave-creacion-vida-tierra-1009281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='Cianuro y la ironía de cómo un veneno pudo ser clave para la creación de la vida en la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257'>¿Es Bitcoin vulnerable a la computación cuántica?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-vulnerable-computacion-cuantica-1009257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='¿Es Bitcoin vulnerable a la computación cuántica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-empezado-fabricar-panales-oled-futuros-ipads-1009235'>LG ha empezado a fabricar los panales OLED de los futuros iPads</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-empezado-fabricar-panales-oled-futuros-ipads-1009235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562515.jpg' alt='LG ha empezado a fabricar los panales OLED de los futuros iPads' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175'>Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/kia%20niro.jpg' alt='Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle' />
     </a>
 </div>
 
