@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833'>MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-air-2020-m1-vs-matebook-d15-2606723.jpg' alt='MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tormenta-geomagnetica-ha-destruido-40-satelites-starlink-1009127'>Una tormenta geomagnética ha destruído 40 satélites de Starlink</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tormenta-geomagnetica-ha-destruido-40-satelites-starlink-1009127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Una tormenta geomagnética ha destruído 40 satélites de Starlink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/eso-cuesta-llenar-deposito-diez-coches-vendidos-1008585'>Esto es lo que cuesta llenar el depósito de los diez coches más vendidos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/eso-cuesta-llenar-deposito-diez-coches-vendidos-1008585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuanto-cuesta-llenar-deposito-diez-coches-vendidos-espana-2604461.jpg' alt='Esto es lo que cuesta llenar el depósito de los diez coches más vendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2610615.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>7 portátiles para trabajar que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538043.jpg' alt='7 portátiles para trabajar que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115'>Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/recogefrutas-manual-fiskars-1008891'>El recogefrutas manual para quienes no les gusta subirse a los árboles</a></h4>
-    <a href='https://computerhoy.com/noticias/life/recogefrutas-manual-fiskars-1008891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/recogefrutas-manual-2610401.jpg' alt='El recogefrutas manual para quienes no les gusta subirse a los árboles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885'>Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horizon-forbidden-west-2590053.jpg' alt='Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5' />
     </a>
 </div>
 
