@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1009117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2610615.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>7 portátiles para trabajar que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538043.jpg' alt='7 portátiles para trabajar que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115'>Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-mas-eficaz-reducir-colesterol-sin-medicamentos-1009115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='Este es el método más eficaz para reducir el colesterol sin medicamentos, según la escuela médica de Harvard' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885'>Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/horizon-forbidden-west-ps5-como-ahorrar-10-euros-1008885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horizon-forbidden-west-2590053.jpg' alt='Así puedes ahorrarte 10 euros en cualquier tienda si vas a comprar Horizon Forbidden West en PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-qualcomm-asocian-desarrollar-vehiculos-todavia-inteligentes-1008881'>Ferrari y Qualcomm se asocian para desarrollar vehículos todavía más inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ferrari-qualcomm-asocian-desarrollar-vehiculos-todavia-inteligentes-1008881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/qualcomm-2205461.jpg' alt='Ferrari y Qualcomm se asocian para desarrollar vehículos todavía más inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871'>Sony estaría preparando unos auriculares con un diseño completamente novedoso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-1008871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-estaria-preparando-auriculares-diseno-completamente-novedoso-2610369.jpg' alt='Sony estaría preparando unos auriculares con un diseño completamente novedoso' />
     </a>
 </div>
 
