@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175'>Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/kia-hyundai-piden-propietarios-500000-coches-aparquen-calle-1009175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/kia%20niro.jpg' alt='Kia y Hyundai piden a los propietarios de 500.000 de sus coches que aparquen en la calle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/documentales-netflix-despues-estafador-tinder-1009169'>Documentales de Netflix que no deberías perderte si te has quedado con ganas de más después de El estafador de Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/documentales-netflix-despues-estafador-tinder-1009169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafador-tinder-2610667.jpg' alt='Documentales de Netflix que no deberías perderte si te has quedado con ganas de más después de El estafador de Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/43000-millones-euros-terminar-crisis-semiconductores-solucion-europa-1009147'>43.000 millones de euros para terminar con la crisis de los semiconductores: así es la solución de Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/43000-millones-euros-terminar-crisis-semiconductores-solucion-europa-1009147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/5-razones-europa-no-existen-companias-como-google-facebook.jpg' alt='43.000 millones de euros para terminar con la crisis de los semiconductores: así es la solución de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621'>Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/descubre-como-nuevo-realme-9-pro-camara-flagship-evento-16-febrero-1008621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/presentacion-realme-serie-9-2609931.jpg' alt='Descubre cómo es nuevo realme 9 Pro+ y su cámara flagship en su evento del 16 de febrero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143'>Los comandos de voz "Hey PlayStation" llegan a la PS5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/comandos-voz-hey-playstation-ps5-1009143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Los comandos de voz "Hey PlayStation" llegan a la PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833'>MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/macbook-air-2020-m1-vs-matebook-d15-portatil-huawei-buena-alternativa-barata-1006833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-air-2020-m1-vs-matebook-d15-2606723.jpg' alt='MacBook Air (2020) con M1 vs Matebook D15: ¿es el portátil Huawei una buena alternativa barata?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tormenta-geomagnetica-ha-destruido-40-satelites-starlink-1009127'>Una tormenta geomagnética ha destruído 40 satélites de Starlink</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tormenta-geomagnetica-ha-destruido-40-satelites-starlink-1009127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='Una tormenta geomagnética ha destruído 40 satélites de Starlink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
     </a>
 </div>
 
