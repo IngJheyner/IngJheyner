@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977'>El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/calefactor-enchufe-2612107.jpg' alt='El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943'>Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933'>Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/reactor-nuclear.jpg' alt='Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887'>Bill Gates publicará un libro con consejos para evitar otra pandemia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates publicará un libro con consejos para evitar otra pandemia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-revision-miles-coches-porque-conductores-mueren-frio-1009863'>Tesla vuelve a llamar a revisión a miles de coches porque los conductores se mueren de frío</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-vuelve-llamar-revision-miles-coches-porque-conductores-mueren-frio-1009863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-nieve-2611909.jpg' alt='Tesla vuelve a llamar a revisión a miles de coches porque los conductores se mueren de frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/verificacion-dos-pasos-funciona-google-1009857'>La verificación en dos pasos funciona y en Google afirman que han disminuido un 50% las cuentas comprometidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/verificacion-dos-pasos-funciona-google-1009857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/verificacion-dos-pasos-2611879.jpg' alt='La verificación en dos pasos funciona y en Google afirman que han disminuido un 50% las cuentas comprometidas' />
     </a>
 </div>
 
