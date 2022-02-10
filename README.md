@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-1010217'>La nueva característica de Tinder para encontrar el amor son las citas a ciegas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-1010217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-2612793.jpg' alt='La nueva característica de Tinder para encontrar el amor son las citas a ciegas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237'>El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-2612803.jpg' alt='El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bocetos-adelantan-como-sera-skoda-fabia-monte-carlo-1010007'>Unos bocetos adelantan cómo será el Skoda Fabia Monte Carlo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bocetos-adelantan-como-sera-skoda-fabia-monte-carlo-1010007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bocetos-skoda-fabia-monte-carlo-2605019.jpg' alt='Unos bocetos adelantan cómo será el Skoda Fabia Monte Carlo' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013'>Este año comenzará el rodaje de la próxima entrega de Scream</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/scream-2022-2499265.jpg' alt='Este año comenzará el rodaje de la próxima entrega de Scream' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957'>Auriculares inalámbricos que puedes regalar en San Valentín</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Auriculares inalámbricos que puedes regalar en San Valentín' />
+    <h4><a href='https://computerhoy.com/noticias/life/lild-ya-tiene-cola-comprar-producto-poco-habitual-todavia-no-ha-salido-venta-1010259'>Lild ya tiene cola para comprar un producto poco habitual que todavía no ha salido a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lild-ya-tiene-cola-comprar-producto-poco-habitual-todavia-no-ha-salido-venta-1010259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ramo-tulipanes-2612833.jpg' alt='Lild ya tiene cola para comprar un producto poco habitual que todavía no ha salido a la venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeras-imagenes-serie-senor-anillos-anillos-de-poder-1010209'>Primeras imágenes de la serie El Señor de los Anillos: Los Anillos de Poder, que no dejan indiferente a nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primeras-imagenes-serie-senor-anillos-anillos-de-poder-1010209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612709.jpg' alt='Primeras imágenes de la serie El Señor de los Anillos: Los Anillos de Poder, que no dejan indiferente a nadie' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-ya-no-solo-problemas-android-auto-1010257'>Google Maps ya no está solo con sus problemas con Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-ya-no-solo-problemas-android-auto-1010257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Google Maps ya no está solo con sus problemas con Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185'>YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-fecha-estreno-series-star-wars-2022-1010245'>Tras el anuncio de Obi-Wan Kenobi, estas son todas las series de Star Wars en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-fecha-estreno-series-star-wars-2022-1010245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anuncio-obi-wan-kenobi-estas-son-todas-series-star-wars-2022-2612817.jpg' alt='Tras el anuncio de Obi-Wan Kenobi, estas son todas las series de Star Wars en 2022' />
     </a>
 </div>
 
