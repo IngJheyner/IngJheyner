@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185'>YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/subasta-derechos-senor-anillos-poder-crear-peliculas-series-videojuegos-1010167'>A subasta los derechos de El Señor de los Anillos para poder crear películas, series y videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/subasta-derechos-senor-anillos-poder-crear-peliculas-series-videojuegos-1010167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-2612631.jpg' alt='A subasta los derechos de El Señor de los Anillos para poder crear películas, series y videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233'>Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genshin-impact-2587801.jpg' alt='Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087'>Cómo limpiar correctamente un robot de cocina para que quede perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-gridinlux-2563651.jpg' alt='Cómo limpiar correctamente un robot de cocina para que quede perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-poco-x3-pro-256gb-minimo-historico-1009937'>Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256 GB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-poco-x3-pro-256gb-minimo-historico-1009937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2279553.jpg' alt='Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256 GB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071'>Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar</a></h4>
-    <a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garming-instinct-2-2612275.jpg' alt='Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar' />
     </a>
 </div>
 
