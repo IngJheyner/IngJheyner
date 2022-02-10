@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989'>El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071'>Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar</a></h4>
+    <a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garming-instinct-2-2612275.jpg' alt='Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019'>El increíble registro de Bizum que pone a España como referente en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El increíble registro de Bizum que pone a España como referente en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989'>El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2612113.jpg' alt='El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-cable-hdmi-ps5-xbox-series-x-oferta-1009927'>Si tienes una PS5 o Xbox Series X, necesitas sí o sí este cable HDMI para sacarle partido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-cable-hdmi-ps5-xbox-series-x-oferta-1009927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cable-hdmi-21-snowkids-2612061.jpg' alt='Si tienes una PS5 o Xbox Series X, necesitas sí o sí este cable HDMI para sacarle partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977'>El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/calefactor-enchufe-2612107.jpg' alt='El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943'>Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído' />
     </a>
 </div>
 
