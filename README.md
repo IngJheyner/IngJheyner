@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957'>Auriculares inalámbricos que puedes regalar en San Valentín</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Auriculares inalámbricos que puedes regalar en San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeras-imagenes-serie-senor-anillos-anillos-de-poder-1010209'>Primeras imágenes de la serie El Señor de los Anillos: Los Anillos de Poder, que no dejan indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primeras-imagenes-serie-senor-anillos-anillos-de-poder-1010209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612709.jpg' alt='Primeras imágenes de la serie El Señor de los Anillos: Los Anillos de Poder, que no dejan indiferente a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185'>YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233'>Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genshin-impact-2587801.jpg' alt='Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769'>Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2596993.jpg' alt='Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087'>Cómo limpiar correctamente un robot de cocina para que quede perfecto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-gridinlux-2563651.jpg' alt='Cómo limpiar correctamente un robot de cocina para que quede perfecto' />
     </a>
 </div>
 
