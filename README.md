@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263'>Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-1010275'>Detienen a los autores del mayor robo y blanqueo de bitcoins de la historia: 4.300 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-1010275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-4600-millones-euros-2612863.jpg' alt='Detienen a los autores del mayor robo y blanqueo de bitcoins de la historia: 4.300 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267'>Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/robot-aspirador-4-1-create-netbot-s15-baja-solo-139eu-2612847.jpg' alt='Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013'>Este año comenzará el rodaje de la próxima entrega de Scream</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/scream-2022-2499265.jpg' alt='Este año comenzará el rodaje de la próxima entrega de Scream' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lild-ya-tiene-cola-comprar-producto-poco-habitual-todavia-no-ha-salido-venta-1010259'>Lild ya tiene cola para comprar un producto poco habitual que todavía no ha salido a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lild-ya-tiene-cola-comprar-producto-poco-habitual-todavia-no-ha-salido-venta-1010259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ramo-tulipanes-2612833.jpg' alt='Lild ya tiene cola para comprar un producto poco habitual que todavía no ha salido a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-ya-no-solo-problemas-android-auto-1010257'>Google Maps ya no está solo con sus problemas con Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-ya-no-solo-problemas-android-auto-1010257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Google Maps ya no está solo con sus problemas con Android Auto' />
     </a>
 </div>
 
