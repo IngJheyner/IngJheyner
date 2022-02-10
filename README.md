@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-1010217'>La nueva característica de Tinder para encontrar el amor son las citas a ciegas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-1010217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nueva-caracteristica-tinder-encontrar-amor-son-citas-ciegas-2612793.jpg' alt='La nueva característica de Tinder para encontrar el amor son las citas a ciegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bocetos-adelantan-como-sera-skoda-fabia-monte-carlo-1010007'>Unos bocetos adelantan cómo será el Skoda Fabia Monte Carlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bocetos-adelantan-como-sera-skoda-fabia-monte-carlo-1010007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bocetos-skoda-fabia-monte-carlo-2605019.jpg' alt='Unos bocetos adelantan cómo será el Skoda Fabia Monte Carlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957'>Auriculares inalámbricos que puedes regalar en San Valentín</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-regalar-san-valentin-1009957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Auriculares inalámbricos que puedes regalar en San Valentín' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185'>YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-anuncia-nuevas-formas-monetizar-creadores-contenidos-da-mucho-protagonismo-shorts-1010185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube anuncia nuevas formas de monetizar para sus creadores de contenidos y da mucho más protagonismo a los Shorts' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/subasta-derechos-senor-anillos-poder-crear-peliculas-series-videojuegos-1010167'>A subasta los derechos de El Señor de los Anillos para poder crear películas, series y videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/subasta-derechos-senor-anillos-poder-crear-peliculas-series-videojuegos-1010167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-2612631.jpg' alt='A subasta los derechos de El Señor de los Anillos para poder crear películas, series y videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233'>Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genshin-impact-2587801.jpg' alt='Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo' />
     </a>
 </div>
 
