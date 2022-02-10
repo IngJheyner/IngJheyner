@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769'>Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2596993.jpg' alt='Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087'>Cómo limpiar correctamente un robot de cocina para que quede perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-correctamente-robot-cocina-quede-perfecto-1010087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-cocina-gridinlux-2563651.jpg' alt='Cómo limpiar correctamente un robot de cocina para que quede perfecto' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-poco-x3-pro-256gb-minimo-historico-1009937'>Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256GB de almacenamiento</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-poco-x3-pro-256gb-minimo-historico-1009937'>Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256 GB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-poco-x3-pro-256gb-minimo-historico-1009937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2279553.jpg' alt='Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256GB de almacenamiento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/poco-x3-pro-2279553.jpg' alt='Se desploma el precio del POCO X3 Pro: llévatelo por solo 199 euros con 256 GB de almacenamiento' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019'>El increíble registro de Bizum que pone a España como referente en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El increíble registro de Bizum que pone a España como referente en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989'>El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2612113.jpg' alt='El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño' />
     </a>
 </div>
 
