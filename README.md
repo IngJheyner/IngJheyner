@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933'>Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/reactor-nuclear.jpg' alt='Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10-5g-revienta-precios-amazon-cae-menos-200-euros-envio-dia-1009171'>El Xiaomi Redmi Note 10 con 5G revienta precios en Amazon: cae a menos de 200 euros con envío en un día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10-5g-revienta-precios-amazon-cae-menos-200-euros-envio-dia-1009171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/redmi-note-10-5g-analisis-opinion-2360639.jpg' alt='El Xiaomi Redmi Note 10 con 5G revienta precios en Amazon: cae a menos de 200 euros con envío en un día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887'>Bill Gates publicará un libro con consejos para evitar otra pandemia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates publicará un libro con consejos para evitar otra pandemia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/verificacion-dos-pasos-funciona-google-1009857'>La verificación en dos pasos funciona y en Google afirman que han disminuido un 50% las cuentas comprometidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/verificacion-dos-pasos-funciona-google-1009857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/verificacion-dos-pasos-2611879.jpg' alt='La verificación en dos pasos funciona y en Google afirman que han disminuido un 50% las cuentas comprometidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-largos-ps5-oferta-1009475'>10 juegos de PS5 con cientos de horas de juego que además están en oferta</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-largos-ps5-oferta-1009475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/assassins-creed-valhalla-2611349.jpg' alt='10 juegos de PS5 con cientos de horas de juego que además están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/futurama-regresa-nueva-temporada-confirmado-como-ver-1009845'>Futurama regresa con una nueva temporada: todo lo confirmado y cómo se podrá ver</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/futurama-regresa-nueva-temporada-confirmado-como-ver-1009845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/futurama-callese-coja-mi-dinero-2257421.jpg' alt='Futurama regresa con una nueva temporada: todo lo confirmado y cómo se podrá ver' />
     </a>
 </div>
 
