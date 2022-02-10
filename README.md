@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233'>Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-rpgs-android-2022-tienes-descargar-ya-mismo-970233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/genshin-impact-2587801.jpg' alt='Los 9 mejores juegos RPGs para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769'>Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4i-gratis-nuevo-smartwatch-watch-gt-runner-1008769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2596993.jpg' alt='Huawei te regala unos auriculares FreeBuds 4i por la compra de este nuevo reloj inteligente Huawei Watch GT Runner' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071'>Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar</a></h4>
     <a href='https://computerhoy.com/noticias/garmin-tiene-nuevo-smartwatch-instinct-2-bateria-ilimitada-gracias-carga-solar-1010071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garming-instinct-2-2612275.jpg' alt='Garmin tiene un nuevo smartwatch, Instinct 2, con batería ilimitada gracias a su carga solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019'>El increíble registro de Bizum que pone a España como referente en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/increible-registro-bizum-pone-espana-como-referente-europa-1010019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg' alt='El increíble registro de Bizum que pone a España como referente en Europa' />
     </a>
 </div>
 
