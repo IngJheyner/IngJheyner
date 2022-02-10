@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-largos-ps5-oferta-1009475'>10 juegos de PS5 con cientos de horas de juego que además están en oferta</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-largos-ps5-oferta-1009475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/assassins-creed-valhalla-2611349.jpg' alt='10 juegos de PS5 con cientos de horas de juego que además están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/futurama-regresa-nueva-temporada-confirmado-como-ver-1009845'>Futurama regresa con una nueva temporada: todo lo confirmado y cómo se podrá ver</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/futurama-regresa-nueva-temporada-confirmado-como-ver-1009845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/futurama-callese-coja-mi-dinero-2257421.jpg' alt='Futurama regresa con una nueva temporada: todo lo confirmado y cómo se podrá ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/juegos-moviles-generan-dinero-consolas-pc-combinados-1009349'>Los juegos móviles generan más dinero que las consolas y el PC combinados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/juegos-moviles-generan-dinero-consolas-pc-combinados-1009349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juegos-movil-2610915.jpg' alt='Los juegos móviles generan más dinero que las consolas y el PC combinados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ford-invierte-20000-millones-dolares-coche-electrico-1009337'>Ford invierte 20.000 millones de dólares más en el coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ford-invierte-20000-millones-dolares-coche-electrico-1009337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ford-aumenta-20000-millones-dolares-inversion-coche-electrico-2605329.jpg' alt='Ford invierte 20.000 millones de dólares más en el coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1009833'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1009833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2611861.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chollos-smart-tv-amazon-1009347'>7 chollos en Smart TV que no durarán mucho más en Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/chollos-smart-tv-amazon-1009347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/smart-tv-4k-salon-2175153.jpg' alt='7 chollos en Smart TV que no durarán mucho más en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-forma-hacer-ejercicio-reducir-ansiedad-ciencia-1009827'>Esta es la mejor forma de hacer ejercicio para reducir la ansiedad, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-forma-hacer-ejercicio-reducir-ansiedad-ciencia-1009827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejor-forma-hacer-ejercicio-reducir-ansiedad-ciencia-2611857.jpg' alt='Esta es la mejor forma de hacer ejercicio para reducir la ansiedad, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eelume-serpiente-marina-robotica-vigila-mares-1009593'>Eelume, la serpiente marina robótica que vigila los mares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eelume-serpiente-marina-robotica-vigila-mares-1009593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/eelume-serpiente-marina-robot-vigila-mares-2611649.jpg' alt='Eelume, la serpiente marina robótica que vigila los mares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-youtubers-rendimiento-bateria-1009575'>Steam Deck ya está en manos de los youtubers: asombra su rendimiento, pero cuidado con la batería...</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/steam-deck-youtubers-rendimiento-bateria-1009575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='Steam Deck ya está en manos de los youtubers: asombra su rendimiento, pero cuidado con la batería...' />
     </a>
 </div>
 
