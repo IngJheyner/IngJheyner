@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989'>El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oficial-ya-tenemos-fecha-lanzamiento-diseno-1009989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2612113.jpg' alt='El OnePlus Nord CE 2 5G es oficial: ya tenemos fecha de lanzamiento y diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203'>Cómo descargar un vídeo de YouTube en tu PC (2022)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2612035.jpg' alt='Cómo descargar un vídeo de YouTube en tu PC (2022)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-cable-hdmi-ps5-xbox-series-x-oferta-1009927'>Si tienes una PS5 o Xbox Series X, necesitas sí o sí este cable HDMI para sacarle partido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-cable-hdmi-ps5-xbox-series-x-oferta-1009927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cable-hdmi-21-snowkids-2612061.jpg' alt='Si tienes una PS5 o Xbox Series X, necesitas sí o sí este cable HDMI para sacarle partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977'>El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/calefactor-pequeno-lidl-enchufe-1009977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/calefactor-enchufe-2612107.jpg' alt='El calefactor más pequeño del mercado es de LIDL, ocupa el espacio de un enchufe y cuesta menos de 15 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943'>Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-escuchar-secreto-audios-whatsapp-no-notifique-como-oido-1009943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Trucos para escuchar en secreto audios WhatsApp y que no se notifique como oído' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933'>Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-nos-deja-paso-solucionar-crisis-climatica-energetica-1009933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/reactor-nuclear.jpg' alt='Este nuevo récord nos deja a un paso de solucionar la crisis climática y energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10-5g-revienta-precios-amazon-cae-menos-200-euros-envio-dia-1009171'>El Xiaomi Redmi Note 10 con 5G revienta precios en Amazon: cae a menos de 200 euros con envío en un día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-10-5g-revienta-precios-amazon-cae-menos-200-euros-envio-dia-1009171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/redmi-note-10-5g-analisis-opinion-2360639.jpg' alt='El Xiaomi Redmi Note 10 con 5G revienta precios en Amazon: cae a menos de 200 euros con envío en un día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887'>Bill Gates publicará un libro con consejos para evitar otra pandemia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bill-gates-publicara-libro-consejos-pandemia-1009887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Bill Gates publicará un libro con consejos para evitar otra pandemia' />
     </a>
 </div>
 
