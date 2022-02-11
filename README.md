@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893'>Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891'>Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/western-digital-pierde-65-millones-tb-memoria-ram-contaminada-anticipa-nueva-escasez-ssd-2614047.jpg' alt='Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879'>El nuevo aviso de WhatsApp que nunca desearás recibir</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='El nuevo aviso de WhatsApp que nunca desearás recibir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877'>El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/patinete-cecotec-bongo-serie-connected-baja-270-euros-ya-vendido-amazon-2614003.jpg' alt='El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon' />
     </a>
 </div>
 
