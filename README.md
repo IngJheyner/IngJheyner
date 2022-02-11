@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699'>La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/last-us-2579129.jpg' alt='La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-android-13-permitiria-varios-usuarios-usen-mismo-telefono-1010861'>La nueva característica de Android 13 permitiría que varios usuarios usen el mismo teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-android-13-permitiria-varios-usuarios-usen-mismo-telefono-1010861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='La nueva característica de Android 13 permitiría que varios usuarios usen el mismo teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865'>Disney+ pone fecha a su próximo gran estreno cinematográfico</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-pone-fecha-proximo-gran-estreno-cinematografico-2613987.jpg' alt='Disney+ pone fecha a su próximo gran estreno cinematográfico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659'>Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/9-mejores-peliculas-ver-pareja-san-valentin-1008223'>Las 9 mejores películas para ver en pareja para San Valentín</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/9-mejores-peliculas-ver-pareja-san-valentin-1008223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/land-2609467.jpg' alt='Las 9 mejores películas para ver en pareja para San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811'>Si tienes un iPhone o iPad deberías actualizarlo lo antes posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Si tienes un iPhone o iPad deberías actualizarlo lo antes posible' />
     </a>
 </div>
 
