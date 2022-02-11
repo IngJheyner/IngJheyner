@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-reparar-problema-windows-11-hora-1010507'>La próxima actualización de Windows 11 va a reparar un problema con la hora que despista a los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-reparar-problema-windows-11-hora-1010507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='La próxima actualización de Windows 11 va a reparar un problema con la hora que despista a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jugadores-poker-estan-conquistado-metaverso-1010017'>Los jugadores de póker están conquistado el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jugadores-poker-estan-conquistado-metaverso-1010017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poker-2612197.jpg' alt='Los jugadores de póker están conquistado el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-caracteristicas-muy-poco-conocidas-alpine-a110-1010015'>5 características muy poco conocidas del Alpine A110</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-caracteristicas-muy-poco-conocidas-alpine-a110-1010015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alpine-a110-2607049.jpg' alt='5 características muy poco conocidas del Alpine A110' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2613091.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195'>15 ofertas de Amazon para el fin de semana que sí vas a querer comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-pagando-apple-watch-2612699.jpg' alt='15 ofertas de Amazon para el fin de semana que sí vas a querer comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287'>¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aceite-oliva-prolonga-vida-estudio-ha-durado-decadas-nos-da-respuesta-2612889.jpg' alt='¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283'>Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-2612867.jpg' alt='Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263'>Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix' />
     </a>
 </div>
 
