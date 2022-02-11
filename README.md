@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283'>Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-2612867.jpg' alt='Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263'>Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237'>El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-2612803.jpg' alt='El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013'>Este año comenzará el rodaje de la próxima entrega de Scream</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ano-comenzara-rodaje-proxima-entrega-scream-1010013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/scream-2022-2499265.jpg' alt='Este año comenzará el rodaje de la próxima entrega de Scream' />
     </a>
 </div>
 
