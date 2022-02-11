@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865'>Disney+ pone fecha a su próximo gran estreno cinematográfico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-pone-fecha-proximo-gran-estreno-cinematografico-2613987.jpg' alt='Disney+ pone fecha a su próximo gran estreno cinematográfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-moviles-potentes-llevamos-2022-antutu-1010847'>Estos son los móviles más potentes de lo que llevamos de 2022 según AnTuTu</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-moviles-potentes-llevamos-2022-antutu-1010847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-ultra-2610941.jpg' alt='Estos son los móviles más potentes de lo que llevamos de 2022 según AnTuTu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659'>Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811'>Si tienes un iPhone o iPad deberías actualizarlo lo antes posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Si tienes un iPhone o iPad deberías actualizarlo lo antes posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-comic-vuelta-groening-mercenario-1010797'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un comic, la vuelta de Groening y un mercenario</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-comic-vuelta-groening-mercenario-1010797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-fin-semana-2613815.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un comic, la vuelta de Groening y un mercenario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/lanzamientos-recientes-ver-fin-semana-netflix-prime-video-apple-tv-1010683'>Qué lanzamientos recientes ver este fin de semana en Netflix, Prime Video y Apple TV+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/lanzamientos-recientes-ver-fin-semana-netflix-prime-video-apple-tv-1010683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2613531.jpg' alt='Qué lanzamientos recientes ver este fin de semana en Netflix, Prime Video y Apple TV+' />
     </a>
 </div>
 
