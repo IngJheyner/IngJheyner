@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-pelicula-presente-tecnologico-kimi-1010207'>HBO Max ha estrenado la película que mejor define nuestro presente tecnológico, y casi nadie se ha enterado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-pelicula-presente-tecnologico-kimi-1010207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/kimi-2613287.jpg' alt='HBO Max ha estrenado la película que mejor define nuestro presente tecnológico, y casi nadie se ha enterado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/infringir-patentes-altavoces-google-condenada-pagar-20-millones-mismo-motivo-nest-1010613'>Tras infringir patentes con los altavoces, Google es condenada a pagar 20 millones por el mismo motivo por los Nest</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/infringir-patentes-altavoces-google-condenada-pagar-20-millones-mismo-motivo-nest-1010613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nest-2613319.jpg' alt='Tras infringir patentes con los altavoces, Google es condenada a pagar 20 millones por el mismo motivo por los Nest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-inteligente-hemos-probado-ultimamente-capaz-plantarle-cara-apple-watch-solo-299eu-1009899'>Este es el mejor reloj inteligente que hemos probado últimamente, capaz de plantarle cara al Apple Watch y por solo 299€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-inteligente-hemos-probado-ultimamente-capaz-plantarle-cara-apple-watch-solo-299eu-1009899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg' alt='Este es el mejor reloj inteligente que hemos probado últimamente, capaz de plantarle cara al Apple Watch y por solo 299€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/descubren-ha-sido-secuestrada-juego-palabras-wordle-1010563'>Descubren que ha sido secuestrada gracias al juego de palabras Wordle</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-ha-sido-secuestrada-juego-palabras-wordle-1010563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Descubren que ha sido secuestrada gracias al juego de palabras Wordle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-109-euros-san-valentin-1008781'>Llévate los auriculares con cancelación de ruido Huawei FreeBuds Pro por solo 109€ con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-oferta-109-euros-san-valentin-1008781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='Llévate los auriculares con cancelación de ruido Huawei FreeBuds Pro por solo 109€ con este código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-tambien-apuesta-metaverso-realidad-virtual-creando-xr-labs-europa-1010549'>Qualcomm también apuesta por el Metaverso y la realidad virtual creando el XR Labs en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-tambien-apuesta-metaverso-realidad-virtual-creando-xr-labs-europa-1010549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/qualcomm.jpg' alt='Qualcomm también apuesta por el Metaverso y la realidad virtual creando el XR Labs en Europa' />
     </a>
 </div>
 
