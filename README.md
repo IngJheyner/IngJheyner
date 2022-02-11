@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881'>El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nestle-jungly-2614007.jpg' alt='El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879'>El nuevo aviso de WhatsApp que nunca desearás recibir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='El nuevo aviso de WhatsApp que nunca desearás recibir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877'>El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/patinete-cecotec-bongo-serie-connected-baja-270-euros-ya-vendido-amazon-2614003.jpg' alt='El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-trabajando-oxygenos-13-descartaria-fusion-oxygenos-coloros-1010875'>OnePlus estaría trabajando en OxygenOS 13 y esto descartaría la fusión de OxygenOS con ColorOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-trabajando-oxygenos-13-descartaria-fusion-oxygenos-coloros-1010875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582723.jpg' alt='OnePlus estaría trabajando en OxygenOS 13 y esto descartaría la fusión de OxygenOS con ColorOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699'>La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/last-us-2579129.jpg' alt='La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-android-13-permitiria-varios-usuarios-usen-mismo-telefono-1010861'>La nueva característica de Android 13 permitiría que varios usuarios usen el mismo teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-android-13-permitiria-varios-usuarios-usen-mismo-telefono-1010861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='La nueva característica de Android 13 permitiría que varios usuarios usen el mismo teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865'>Disney+ pone fecha a su próximo gran estreno cinematográfico</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/west-side-story-fecha-estreno-disney-plus-1010865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-pone-fecha-proximo-gran-estreno-cinematografico-2613987.jpg' alt='Disney+ pone fecha a su próximo gran estreno cinematográfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-moviles-potentes-llevamos-2022-antutu-1010847'>Estos son los móviles más potentes de lo que llevamos de 2022 según AnTuTu</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-moviles-potentes-llevamos-2022-antutu-1010847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-ultra-2610941.jpg' alt='Estos son los móviles más potentes de lo que llevamos de 2022 según AnTuTu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659'>Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!' />
     </a>
 </div>
 
