@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabias-hay-astronauta-robot-estacion-espacial-internacional-13-datos-curiosos-poco-conocidos-iss-1010619'>¿Sabías que hay un astronauta robot en la Estación Espacial Internacional? 13 datos curiosos y poco conocidos de la ISS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sabias-hay-astronauta-robot-estacion-espacial-internacional-13-datos-curiosos-poco-conocidos-iss-1010619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/estacion-espacial-internacional-lego-1872201.jpg' alt='¿Sabías que hay un astronauta robot en la Estación Espacial Internacional? 13 datos curiosos y poco conocidos de la ISS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-revela-consumir-ciertos-alimentos-podria-alargarte-vida-13-anos-1010653'>Un estudio revela que consumir ciertos alimentos podría alargarte la vida hasta 13 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-revela-consumir-ciertos-alimentos-podria-alargarte-vida-13-anos-1010653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/8-alimentos-debes-tomar-recuperarte-enfermedad-operacion-2462571.jpg' alt='Un estudio revela que consumir ciertos alimentos podría alargarte la vida hasta 13 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-recuperar-fortuna-bitcoin-ayuda-hackers-1010595'>Consigue recuperar una fortuna en Bitcoin con la ayuda de unos hackers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-recuperar-fortuna-bitcoin-ayuda-hackers-1010595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='Consigue recuperar una fortuna en Bitcoin con la ayuda de unos hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-pelicula-presente-tecnologico-kimi-1010207'>HBO Max ha estrenado la película que mejor define nuestro presente tecnológico, y casi nadie se ha enterado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-pelicula-presente-tecnologico-kimi-1010207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/kimi-2613287.jpg' alt='HBO Max ha estrenado la película que mejor define nuestro presente tecnológico, y casi nadie se ha enterado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/infringir-patentes-altavoces-google-condenada-pagar-20-millones-mismo-motivo-nest-1010613'>Tras infringir patentes con los altavoces, Google es condenada a pagar 20 millones por el mismo motivo por los Nest</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/infringir-patentes-altavoces-google-condenada-pagar-20-millones-mismo-motivo-nest-1010613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nest-2613319.jpg' alt='Tras infringir patentes con los altavoces, Google es condenada a pagar 20 millones por el mismo motivo por los Nest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-inteligente-hemos-probado-ultimamente-capaz-plantarle-cara-apple-watch-solo-299eu-1009899'>Este es el mejor reloj inteligente que hemos probado últimamente, capaz de plantarle cara al Apple Watch y por solo 299€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-reloj-inteligente-hemos-probado-ultimamente-capaz-plantarle-cara-apple-watch-solo-299eu-1009899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg' alt='Este es el mejor reloj inteligente que hemos probado últimamente, capaz de plantarle cara al Apple Watch y por solo 299€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nft-llegan-tambien-onlyfans-aunque-no-como-estas-pensando-1010569'>Los NFT llegan también a OnlyFans aunque no como estás pensando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nft-llegan-tambien-onlyfans-aunque-no-como-estas-pensando-1010569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='Los NFT llegan también a OnlyFans aunque no como estás pensando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-ha-sido-secuestrada-juego-palabras-wordle-1010563'>Descubren que ha sido secuestrada gracias al juego de palabras Wordle</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-ha-sido-secuestrada-juego-palabras-wordle-1010563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Descubren que ha sido secuestrada gracias al juego de palabras Wordle' />
     </a>
 </div>
 
