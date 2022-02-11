@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659'>Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iphone-reacondicionados-rebajados-precio-amazon-1010659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Corre, que vuelan: estos iPhone reacondicionados están muy rebajados de precio en Amazon ¡y con garantía!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/9-mejores-peliculas-ver-pareja-san-valentin-1008223'>Las 9 mejores películas para ver en pareja para San Valentín</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/9-mejores-peliculas-ver-pareja-san-valentin-1008223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/land-2609467.jpg' alt='Las 9 mejores películas para ver en pareja para San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811'>Si tienes un iPhone o iPad deberías actualizarlo lo antes posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ipad-deberias-actualizarlo-antes-posible-1010811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Si tienes un iPhone o iPad deberías actualizarlo lo antes posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-comic-vuelta-groening-mercenario-1010797'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un comic, la vuelta de Groening y un mercenario</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-comic-vuelta-groening-mercenario-1010797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-fin-semana-2613815.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un comic, la vuelta de Groening y un mercenario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lanzamientos-recientes-ver-fin-semana-netflix-prime-video-apple-tv-1010683'>Qué lanzamientos recientes ver este fin de semana en Netflix, Prime Video y Apple TV+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lanzamientos-recientes-ver-fin-semana-netflix-prime-video-apple-tv-1010683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2613531.jpg' alt='Qué lanzamientos recientes ver este fin de semana en Netflix, Prime Video y Apple TV+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/apple-days-mediamarkt-estos-son-mejores-productos-apple-descuentos-puedes-conseguir-1010631'>Apple Days en MediaMarkt: estos son los mejores productos de Apple con descuentos que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/apple-days-mediamarkt-estos-son-mejores-productos-apple-descuentos-puedes-conseguir-1010631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487661.jpg' alt='Apple Days en MediaMarkt: estos son los mejores productos de Apple con descuentos que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/productos-cecotec-983103'>Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más</a></h4>
-    <a href='https://computerhoy.com/guia-compra/productos-cecotec-983103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-traves-video-planes-conquistar-marte-1010761'>Elon Musk revela a través de un vídeo sus planes para conquistar Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-traves-video-planes-conquistar-marte-1010761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='Elon Musk revela a través de un vídeo sus planes para conquistar Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-guardia-civil-detectar-billetes-falsos-segundos-1010261'>El truco de la Guardia Civil para detectar billetes falsos en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-guardia-civil-detectar-billetes-falsos-segundos-1010261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='El truco de la Guardia Civil para detectar billetes falsos en segundos' />
     </a>
 </div>
 
