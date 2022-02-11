@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-terminara-molestas-vibraciones-haptica-modo-no-molestar-1010779'>Android 13 terminará con las molestas vibraciones háptica en el modo No Molestar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-terminara-molestas-vibraciones-haptica-modo-no-molestar-1010779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 terminará con las molestas vibraciones háptica en el modo No Molestar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-android-auto-xiaomi-lanza-carwith-1010673'>¡Tiembla Android Auto! Xiaomi lanza CarWith</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-android-auto-xiaomi-lanza-carwith-1010673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/logo-xiaomi-2602705.jpg' alt='¡Tiembla Android Auto! Xiaomi lanza CarWith' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-p1e-55-pulgadas-led-oferta-424-euros-1010607'>La última Smart TV de Xiaomi de 55 pulgadas con Android TV ha bajado de precio: PcComponentes la tiene a 424€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-p1e-55-pulgadas-led-oferta-424-euros-1010607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-tv-p1e-55-2613323.jpg' alt='La última Smart TV de Xiaomi de 55 pulgadas con Android TV ha bajado de precio: PcComponentes la tiene a 424€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737'>La OCU lo tiene claro: “Si te cobran, cambia de banco"</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cajero-banco-2515733.jpg' alt='La OCU lo tiene claro: “Si te cobran, cambia de banco"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711'>El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche</a></h4>
     <a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/pedales-coche.jpg' alt='El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/que-es-refurbished-74609'>¿Qué son los productos Refurbished?</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/que-es-refurbished-74609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='¿Qué son los productos Refurbished?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-oneplus-nord-2-323-euros-1010599'>OnePlus Nord 2 5G, uno de los mejores móviles baratos del momento, solo cuesta 323€ con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-oneplus-nord-2-323-euros-1010599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414355.jpg' alt='OnePlus Nord 2 5G, uno de los mejores móviles baratos del momento, solo cuesta 323€ con este código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/te-gusto-wordle-pues-aqui-tienes-nerdle-version-similar-fans-matematicas-1010625'>¿Te gustó Wordle? pues aquí tienes Nerdle, una versión similar para los fans de las matemáticas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/te-gusto-wordle-pues-aqui-tienes-nerdle-version-similar-fans-matematicas-1010625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nerdle-6-2608659.jpg' alt='¿Te gustó Wordle? pues aquí tienes Nerdle, una versión similar para los fans de las matemáticas' />
     </a>
 </div>
 
