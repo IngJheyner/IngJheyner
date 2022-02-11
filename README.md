@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-terminara-molestas-vibraciones-haptica-modo-no-molestar-1010779'>Android 13 terminará con las molestas vibraciones háptica en el modo No Molestar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-terminara-molestas-vibraciones-haptica-modo-no-molestar-1010779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 terminará con las molestas vibraciones háptica en el modo No Molestar' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/apple-days-mediamarkt-estos-son-mejores-productos-apple-descuentos-puedes-conseguir-1010631'>Apple Days en MediaMarkt: estos son los mejores productos de Apple con descuentos que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/apple-days-mediamarkt-estos-son-mejores-productos-apple-descuentos-puedes-conseguir-1010631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487661.jpg' alt='Apple Days en MediaMarkt: estos son los mejores productos de Apple con descuentos que puedes conseguir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-android-auto-xiaomi-lanza-carwith-1010673'>¡Tiembla Android Auto! Xiaomi lanza CarWith</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-android-auto-xiaomi-lanza-carwith-1010673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/logo-xiaomi-2602705.jpg' alt='¡Tiembla Android Auto! Xiaomi lanza CarWith' />
+    <h4><a href='https://computerhoy.com/guia-compra/productos-cecotec-983103'>Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más</a></h4>
+    <a href='https://computerhoy.com/guia-compra/productos-cecotec-983103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='Guía y consejos para comprar productos Cecotec: gamas, garantía, servicio técnico y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-p1e-55-pulgadas-led-oferta-424-euros-1010607'>La última Smart TV de Xiaomi de 55 pulgadas con Android TV ha bajado de precio: PcComponentes la tiene a 424€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tv-p1e-55-pulgadas-led-oferta-424-euros-1010607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-tv-p1e-55-2613323.jpg' alt='La última Smart TV de Xiaomi de 55 pulgadas con Android TV ha bajado de precio: PcComponentes la tiene a 424€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-traves-video-planes-conquistar-marte-1010761'>Elon Musk revela a través de un vídeo sus planes para conquistar Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-revela-traves-video-planes-conquistar-marte-1010761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/spacex-tiene-super-heavy-proceso-pruebas-2426603.jpg' alt='Elon Musk revela a través de un vídeo sus planes para conquistar Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737'>La OCU lo tiene claro: “Si te cobran, cambia de banco"</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cajero-banco-2515733.jpg' alt='La OCU lo tiene claro: “Si te cobran, cambia de banco"' />
+    <h4><a href='https://computerhoy.com/noticias/life/truco-guardia-civil-detectar-billetes-falsos-segundos-1010261'>El truco de la Guardia Civil para detectar billetes falsos en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-guardia-civil-detectar-billetes-falsos-segundos-1010261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='El truco de la Guardia Civil para detectar billetes falsos en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711'>El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/pedales-coche.jpg' alt='El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-pronostican-ya-podriamos-haber-visto-precio-bitcoin-1010251'>Analistas pronostican que ya podríamos haber visto el precio más bajo de Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/analistas-pronostican-ya-podriamos-haber-visto-precio-bitcoin-1010251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2612835.jpg' alt='Analistas pronostican que ya podríamos haber visto el precio más bajo de Bitcoin' />
     </a>
 </div>
 
