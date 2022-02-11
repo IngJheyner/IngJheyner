@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891'>Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/western-digital-pierde-65-millones-tb-memoria-ram-contaminada-anticipa-nueva-escasez-ssd-2614047.jpg' alt='Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-1010887'>Motorola apostaría por el stylus en su nuevo teléfono de gama alta para competir con el Samsung Galaxy S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-1010887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-2614043.jpg' alt='Motorola apostaría por el stylus en su nuevo teléfono de gama alta para competir con el Samsung Galaxy S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881'>El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión</a></h4>
     <a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nestle-jungly-2614007.jpg' alt='El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877'>El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-electrico-cecotec-bongo-serie-a-connected-rebaja-1010877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/patinete-cecotec-bongo-serie-connected-baja-270-euros-ya-vendido-amazon-2614003.jpg' alt='El patinete eléctrico Cecotec Bongo Serie A Connected baja a 270 euros y ya es el más vendido de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-trabajando-oxygenos-13-descartaria-fusion-oxygenos-coloros-1010875'>OnePlus estaría trabajando en OxygenOS 13 y esto descartaría la fusión de OxygenOS con ColorOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-estaria-trabajando-oxygenos-13-descartaria-fusion-oxygenos-coloros-1010875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582723.jpg' alt='OnePlus estaría trabajando en OxygenOS 13 y esto descartaría la fusión de OxygenOS con ColorOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699'>La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-last-us-tendra-importante-cambio-respecto-videojuegos-1010699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/last-us-2579129.jpg' alt='La serie de The Last of Us tendrá un importante cambio respecto a los videojuegos' />
     </a>
 </div>
 
