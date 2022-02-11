@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287'>¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aceite-oliva-prolonga-vida-estudio-ha-durado-decadas-nos-da-respuesta-2612889.jpg' alt='¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283'>Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-1010283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lanmodo-vast-m1-night-vision-dashcam-mejor-vision-nocturna-2612867.jpg' alt='Lanmodo Vast M1 Night Vision, la dashcam con la mejor visión nocturna (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267'>Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/robot-aspirador-4-1-create-netbot-s15-baja-solo-139eu-2612847.jpg' alt='Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237'>El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-1010237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-aparece-test-rendimiento-mostrando-todo-potencial-2612803.jpg' alt='El Honor Magic 4 aparece en un test de rendimiento mostrando todo su potencial' />
     </a>
 </div>
 
