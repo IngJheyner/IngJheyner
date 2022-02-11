@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/azufre-clave-triplicar-capacidad-baterias-coches-electricos-1010533'>El azufre, la clave para triplicar la capacidad de las baterías de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/azufre-clave-triplicar-capacidad-baterias-coches-electricos-1010533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/baterias-sodio-compensar-escasez-litio-2432865.jpg' alt='El azufre, la clave para triplicar la capacidad de las baterías de los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cierra-currents-plataforma-trato-sustituir-google-1010513'>Google cierra Currents, la plataforma con la que trató de sustituir a Google+</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cierra-currents-plataforma-trato-sustituir-google-1010513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/google-currents-1960479.jpg' alt='Google cierra Currents, la plataforma con la que trató de sustituir a Google+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-2022-merece-pena-comprarlo-1008733'>iPhone SE en 2022: ¿merece la pena comprarlo?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iphone-2022-merece-pena-comprarlo-1008733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/iphone-2020-1956037.jpeg' alt='iPhone SE en 2022: ¿merece la pena comprarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-reparar-problema-windows-11-hora-1010507'>La próxima actualización de Windows 11 va a reparar un problema con la hora que despista a los usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-reparar-problema-windows-11-hora-1010507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='La próxima actualización de Windows 11 va a reparar un problema con la hora que despista a los usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jugadores-poker-estan-conquistado-metaverso-1010017'>Los jugadores de póker están conquistado el metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jugadores-poker-estan-conquistado-metaverso-1010017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poker-2612197.jpg' alt='Los jugadores de póker están conquistado el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-caracteristicas-muy-poco-conocidas-alpine-a110-1010015'>5 características muy poco conocidas del Alpine A110</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-caracteristicas-muy-poco-conocidas-alpine-a110-1010015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alpine-a110-2607049.jpg' alt='5 características muy poco conocidas del Alpine A110' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2613091.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195'>15 ofertas de Amazon para el fin de semana que sí vas a querer comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-pagando-apple-watch-2612699.jpg' alt='15 ofertas de Amazon para el fin de semana que sí vas a querer comprar' />
     </a>
 </div>
 
