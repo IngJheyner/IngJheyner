@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737'>La OCU lo tiene claro: “Si te cobran, cambia de banco"</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-tiene-claro-te-cobran-cambia-banco-1010737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cajero-banco-2515733.jpg' alt='La OCU lo tiene claro: “Si te cobran, cambia de banco"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711'>El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche</a></h4>
     <a href='https://computerhoy.com/noticias/truco-dgt-ahorrar-gasolina-utilizando-forma-eficiente-pedales-coche-1010711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/pedales-coche.jpg' alt='El truco de la DGT para ahorrar gasolina utilizando de forma eficiente los pedales del coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/te-gusto-wordle-pues-aqui-tienes-nerdle-version-similar-fans-matematicas-1010625'>¿Te gustó Wordle? pues aquí tienes Nerdle, una versión similar para los fans de las matemáticas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/te-gusto-wordle-pues-aqui-tienes-nerdle-version-similar-fans-matematicas-1010625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nerdle-6-2608659.jpg' alt='¿Te gustó Wordle? pues aquí tienes Nerdle, una versión similar para los fans de las matemáticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabias-hay-astronauta-robot-estacion-espacial-internacional-13-datos-curiosos-poco-conocidos-iss-1010619'>¿Sabías que hay un astronauta robot en la Estación Espacial Internacional? 13 datos curiosos y poco conocidos de la ISS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sabias-hay-astronauta-robot-estacion-espacial-internacional-13-datos-curiosos-poco-conocidos-iss-1010619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/estacion-espacial-internacional-lego-1872201.jpg' alt='¿Sabías que hay un astronauta robot en la Estación Espacial Internacional? 13 datos curiosos y poco conocidos de la ISS' />
     </a>
 </div>
 
