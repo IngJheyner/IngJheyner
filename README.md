@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1010501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2613091.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195'>15 ofertas de Amazon para el fin de semana que sí vas a querer comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-amazon-fin-semana-1010195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-pagando-apple-watch-2612699.jpg' alt='15 ofertas de Amazon para el fin de semana que sí vas a querer comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287'>¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta</a></h4>
     <a href='https://computerhoy.com/noticias/life/aceite-oliva-prolonga-vida-estudio-1010287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aceite-oliva-prolonga-vida-estudio-ha-durado-decadas-nos-da-respuesta-2612889.jpg' alt='¿El aceite de oliva prolonga la vida? Un estudio que ha durado décadas, nos da la respuesta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263'>Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ahora-puedes-ver-gratis-pluto-tv-serie-ciencia-ficcion-ha-desaparecido-netflix-1010263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Ahora puedes ver gratis en Pluto TV la serie de ciencia ficción que ha desaparecido de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-1010275'>Detienen a los autores del mayor robo y blanqueo de bitcoins de la historia: 4.300 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-1010275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/detienen-autores-mayor-robo-blanqueo-bitcoins-historia-4600-millones-euros-2612863.jpg' alt='Detienen a los autores del mayor robo y blanqueo de bitcoins de la historia: 4.300 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267'>Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-4-1-create-netbot-s15-oferta-1010267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/robot-aspirador-4-1-create-netbot-s15-baja-solo-139eu-2612847.jpg' alt='Este robot aspirador 4 en 1 Create Netbot S15 baja a solo 139€' />
     </a>
 </div>
 
