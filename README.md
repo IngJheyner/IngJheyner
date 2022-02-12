@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113'>El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-no-no-duelan-piernas-mientras-limpias-solo-cuesta-par-euros-2614265.jpg' alt='El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897'>Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/retrete-inteligente-hace-todo-ti-menos-cosa-2614053.jpg' alt='Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069'>El teclado con teclas de aire para que no te duelan los dedos mientras tecleas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/teclado-teclas-aire-no-te-duelan-dedos-mientras-tecleas-2609099.jpg' alt='El teclado con teclas de aire para que no te duelan los dedos mientras tecleas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891'>Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/western-digital-pierde-65-millones-tb-memoria-ram-contaminada-anticipa-nueva-escasez-ssd-2614047.jpg' alt='Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-1010887'>Motorola apostaría por el stylus en su nuevo teléfono de gama alta para competir con el Samsung Galaxy S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-1010887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motorola-apostaria-stylus-nuevo-telefono-gama-alta-competir-samsung-galaxy-s22-ultra-2614043.jpg' alt='Motorola apostaría por el stylus en su nuevo teléfono de gama alta para competir con el Samsung Galaxy S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881'>El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nestle-jungly-2614007.jpg' alt='El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión' />
     </a>
 </div>
 
