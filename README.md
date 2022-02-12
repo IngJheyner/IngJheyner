@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069'>El teclado con teclas de aire para que no te duelan los dedos mientras tecleas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/teclado-teclas-aire-no-te-duelan-dedos-mientras-tecleas-2609099.jpg' alt='El teclado con teclas de aire para que no te duelan los dedos mientras tecleas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893'>Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881'>El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión</a></h4>
     <a href='https://computerhoy.com/noticias/life/fuera-producto-alimentacion-buscado-amenaza-repetir-exito-nueva-version-1010881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nestle-jungly-2614007.jpg' alt='El que fuera producto de alimentación más buscado amenaza con repetir éxito con su nueva versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879'>El nuevo aviso de WhatsApp que nunca desearás recibir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-aviso-whatsapp-nunca-desearas-recibir-1010879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-malware-2566017.jpg' alt='El nuevo aviso de WhatsApp que nunca desearás recibir' />
     </a>
 </div>
 
