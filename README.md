@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219'>Este error en Android Auto hace que Spotify no se comporte como esperas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Este error en Android Auto hace que Spotify no se comporte como esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841'>7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tacones-lejanos-2610321.jpg' alt='7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191'>Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837'>Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217043.jpg' alt='Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22' />
     </a>
 </div>
 
