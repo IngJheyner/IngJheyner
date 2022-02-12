@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345'>Guía para comprar un robot de cocina y procesadores de alimentos para bebés</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/procesador-alimentos-bebes-2498531.jpg' alt='Guía para comprar un robot de cocina y procesadores de alimentos para bebés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853'>Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351973.jpg' alt='Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-series-3-merece-pena-comprarlo-1008675'>Apple Watch Series 3 en 2022, ¿merece la pena comprarlo?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-series-3-merece-pena-comprarlo-1008675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610045.jpg' alt='Apple Watch Series 3 en 2022, ¿merece la pena comprarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699'>WiFi 7: todo lo que sabemos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg' alt='WiFi 7: todo lo que sabemos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cybercat-cybertruck-tesla-catamaran-1009187'>El Cybertruck de Tesla podrá usarse como un catamarán</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cybercat-cybertruck-tesla-catamaran-1009187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cybertruck-tesla-podra-usarse-como-catamaran-2610683.jpg' alt='El Cybertruck de Tesla podrá usarse como un catamarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113'>El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-no-no-duelan-piernas-mientras-limpias-solo-cuesta-par-euros-2614265.jpg' alt='El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897'>Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/retrete-inteligente-hace-todo-ti-menos-cosa-2614053.jpg' alt='Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)' />
     </a>
 </div>
 
