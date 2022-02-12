@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841'>7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tacones-lejanos-2610321.jpg' alt='7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563'>5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg' alt='5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195'>Los motivos por los que hay que probar que no somos un robot en Internet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motivos-hay-probar-no-somos-robot-internet-2614445.jpg' alt='Los motivos por los que hay que probar que no somos un robot en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191'>Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837'>Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217043.jpg' alt='Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-studios-producira-serie-blade-runner-2099-sera-secuela-directa-blade-runner-2049-ridley-scott-mando-1011183'>Amazon Studios producirá la serie Blade Runner 2099: será una secuela directa de Blade Runner 2049 con Ridley Scott al mando</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-studios-producira-serie-blade-runner-2099-sera-secuela-directa-blade-runner-2049-ridley-scott-mando-1011183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/blade-runner-2049-2614395.jpg' alt='Amazon Studios producirá la serie Blade Runner 2099: será una secuela directa de Blade Runner 2049 con Ridley Scott al mando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167'>POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532593.jpg' alt='POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161'>Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg' alt='Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras' />
     </a>
 </div>
 
