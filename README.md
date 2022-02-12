@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223'>Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nintendo-switch-sports-2614551.jpg' alt='Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219'>Este error en Android Auto hace que Spotify no se comporte como esperas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Este error en Android Auto hace que Spotify no se comporte como esperas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195'>Los motivos por los que hay que probar que no somos un robot en Internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motivos-hay-probar-no-somos-robot-internet-2614445.jpg' alt='Los motivos por los que hay que probar que no somos un robot en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191'>Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales' />
     </a>
 </div>
 
