@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091'>¿Qué es la Web3 y cuáles son sus pilares?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2585263.jpg' alt='¿Qué es la Web3 y cuáles son sus pilares?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427'>Cómo solucionar el error "El servidor DNS no responde" en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dns-windows-2517491.jpg' alt='Cómo solucionar el error "El servidor DNS no responde" en Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345'>Guía para comprar un robot de cocina y procesadores de alimentos para bebés</a></h4>
     <a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/procesador-alimentos-bebes-2498531.jpg' alt='Guía para comprar un robot de cocina y procesadores de alimentos para bebés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853'>Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351973.jpg' alt='Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€' />
     </a>
 </div>
 
