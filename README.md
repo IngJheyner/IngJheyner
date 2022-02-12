@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427'>Cómo solucionar el error "El servidor DNS no responde" en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dns-windows-2517491.jpg' alt='Cómo solucionar el error "El servidor DNS no responde" en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-pendrives-usb-tipo-c-ultrarrapidos-macbook-portatiles-ultima-generacion-1010155'>10 pendrives USB Tipo C ultrarrápidos para los MacBook y portátiles de última generación</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-pendrives-usb-tipo-c-ultrarrapidos-macbook-portatiles-ultima-generacion-1010155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-macbook-pro-conexiones-usb-c-2612619.jpg' alt='10 pendrives USB Tipo C ultrarrápidos para los MacBook y portátiles de última generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/microsoft-surface-pro-8-review-opinion-1010193'>Microsoft Surface Pro 8, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/microsoft-surface-pro-8-review-opinion-1010193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Microsoft Surface Pro 8, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853'>Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-6-oferta-san-valentin-1010853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-band-6-analisis-opinion-2351973.jpg' alt='Huawei Band 6 es una de las mejores pulseras para ponerte en forma o saber cuántas calorías quemas al día y ahora solo cuesta 39,99€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-series-3-merece-pena-comprarlo-1008675'>Apple Watch Series 3 en 2022, ¿merece la pena comprarlo?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-series-3-merece-pena-comprarlo-1008675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610045.jpg' alt='Apple Watch Series 3 en 2022, ¿merece la pena comprarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699'>WiFi 7: todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg' alt='WiFi 7: todo lo que sabemos' />
     </a>
 </div>
 
