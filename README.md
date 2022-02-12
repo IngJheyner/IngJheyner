@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cybercat-cybertruck-tesla-catamaran-1009187'>El Cybertruck de Tesla podrá usarse como un catamarán</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cybercat-cybertruck-tesla-catamaran-1009187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cybertruck-tesla-podra-usarse-como-catamaran-2610683.jpg' alt='El Cybertruck de Tesla podrá usarse como un catamarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113'>El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/hack-no-duelan-rodillas-mientras-limpias-1011113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hack-no-no-duelan-piernas-mientras-limpias-solo-cuesta-par-euros-2614265.jpg' alt='El hack para que no te duelan las rodillas mientras limpias, solo cuesta un par de euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069'>El teclado con teclas de aire para que no te duelan los dedos mientras tecleas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/teclado-teclas-aire-no-te-duelan-dedos-mientras-tecleas-2609099.jpg' alt='El teclado con teclas de aire para que no te duelan los dedos mientras tecleas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893'>Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-chip-acelerador-blockchain-criptomonedas-1010893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel anuncia un chip para minar criptomonedas 1.000 veces más rápido que las tarjetas gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891'>Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/western-digital-kioxia-pierden-16-millones-tb-memoria-ram-contaminada-ssd-1010891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/western-digital-pierde-65-millones-tb-memoria-ram-contaminada-anticipa-nueva-escasez-ssd-2614047.jpg' alt='Western Digital y Kioxia pierden 16 millones de TB de memoria NAND Flash contaminada, anticipando una nueva escasez de SSD' />
     </a>
 </div>
 
