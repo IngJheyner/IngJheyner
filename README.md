@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167'>POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532593.jpg' alt='POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161'>Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg' alt='Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091'>¿Qué es la Web3 y cuáles son sus pilares?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2585263.jpg' alt='¿Qué es la Web3 y cuáles son sus pilares?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427'>Cómo solucionar el error "El servidor DNS no responde" en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dns-windows-2517491.jpg' alt='Cómo solucionar el error "El servidor DNS no responde" en Windows' />
     </a>
 </div>
 
