@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575'>En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-venden-sujetacabezas-usan-mucho-movil-nintendo-switch-2613193.jpg' alt='En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223'>Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nintendo-switch-sports-2614551.jpg' alt='Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563'>5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg' alt='5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195'>Los motivos por los que hay que probar que no somos un robot en Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivos-hay-probar-no-somos-robot-internet-1011195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motivos-hay-probar-no-somos-robot-internet-2614445.jpg' alt='Los motivos por los que hay que probar que no somos un robot en Internet' />
     </a>
 </div>
 
