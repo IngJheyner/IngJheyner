@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699'>WiFi 7: todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-todo-sabemos-1008699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg' alt='WiFi 7: todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897'>Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/retrete-inteligente-vovo-1010897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/retrete-inteligente-hace-todo-ti-menos-cosa-2614053.jpg' alt='Este retrete inteligente lo hace todo por tí, menos una cosa... (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069'>El teclado con teclas de aire para que no te duelan los dedos mientras tecleas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclado-teclas-aire-air-type-1008069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/teclado-teclas-aire-no-te-duelan-dedos-mientras-tecleas-2609099.jpg' alt='El teclado con teclas de aire para que no te duelan los dedos mientras tecleas' />
     </a>
 </div>
 
