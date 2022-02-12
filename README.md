@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161'>Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg' alt='Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309'>TCL 20L+, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-20l-2601007.jpg' alt='TCL 20L+, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-mensajes-texto-no-funciona-android-auto-ultimas-actualizaciones-1011159'>La funcionalidad de mensajes de texto no funciona en Android Auto tras las últimas actualizaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-mensajes-texto-no-funciona-android-auto-ultimas-actualizaciones-1011159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La funcionalidad de mensajes de texto no funciona en Android Auto tras las últimas actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091'>¿Qué es la Web3 y cuáles son sus pilares?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2585263.jpg' alt='¿Qué es la Web3 y cuáles son sus pilares?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427'>Cómo solucionar el error "El servidor DNS no responde" en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-error-servidor-dns-no-responde-windows-956427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dns-windows-2517491.jpg' alt='Cómo solucionar el error "El servidor DNS no responde" en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-pendrives-usb-tipo-c-ultrarrapidos-macbook-portatiles-ultima-generacion-1010155'>10 pendrives USB Tipo C ultrarrápidos para los MacBook y portátiles de última generación</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-pendrives-usb-tipo-c-ultrarrapidos-macbook-portatiles-ultima-generacion-1010155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-macbook-pro-conexiones-usb-c-2612619.jpg' alt='10 pendrives USB Tipo C ultrarrápidos para los MacBook y portátiles de última generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/microsoft-surface-pro-8-review-opinion-1010193'>Microsoft Surface Pro 8, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/microsoft-surface-pro-8-review-opinion-1010193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Microsoft Surface Pro 8, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345'>Guía para comprar un robot de cocina y procesadores de alimentos para bebés</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-cocina-bebes-946345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/procesador-alimentos-bebes-2498531.jpg' alt='Guía para comprar un robot de cocina y procesadores de alimentos para bebés' />
     </a>
 </div>
 
