@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191'>Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tipo-estafas-son-han-crecido-2021-tienes-redes-sociales-1011191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Este tipo de estafas son las que más han crecido en 2021, y las tienes en tus redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837'>Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217043.jpg' alt='Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161'>Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiburon-wall-street-asegura-bitcoin-seguro-frente-catastrofes-financieras-1011161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg' alt='Tiburón de Wall Street asegura que Bitcoin es un seguro frente a catástrofes financieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309'>TCL 20L+, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-20l-2601007.jpg' alt='TCL 20L+, análisis y opinión' />
     </a>
 </div>
 
