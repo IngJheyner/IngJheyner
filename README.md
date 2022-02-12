@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837'>Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/merece-pena-samsung-galaxy-s21-vs-galaxy-s22-1010837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/samsung-galaxy-s21-analisis-opinion-2217043.jpg' alt='Por qué merece la pena el Samsung Galaxy S21 ahora que baja de precio por el lanzamiento del S22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-studios-producira-serie-blade-runner-2099-sera-secuela-directa-blade-runner-2049-ridley-scott-mando-1011183'>Amazon Studios producirá la serie Blade Runner 2099: será una secuela directa de Blade Runner 2049 con Ridley Scott al mando</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-studios-producira-serie-blade-runner-2099-sera-secuela-directa-blade-runner-2049-ridley-scott-mando-1011183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/blade-runner-2049-2614395.jpg' alt='Amazon Studios producirá la serie Blade Runner 2099: será una secuela directa de Blade Runner 2049 con Ridley Scott al mando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167'>POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-mejores-terminales-todoterreno-xiaomi-oferta-solo-208-euros-1011167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-poco-m4-pro-2532593.jpg' alt='POCO M4 Pro: uno de los mejores terminales todoterreno de Xiaomi en oferta a solo 208 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309'>TCL 20L+, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/tcl-20l-review-opinion-990309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tcl-20l-2601007.jpg' alt='TCL 20L+, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-mensajes-texto-no-funciona-android-auto-ultimas-actualizaciones-1011159'>La funcionalidad de mensajes de texto no funciona en Android Auto tras las últimas actualizaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-mensajes-texto-no-funciona-android-auto-ultimas-actualizaciones-1011159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La funcionalidad de mensajes de texto no funciona en Android Auto tras las últimas actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091'>¿Qué es la Web3 y cuáles son sus pilares?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/que-es-web3-993091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/web3-2585263.jpg' alt='¿Qué es la Web3 y cuáles son sus pilares?' />
     </a>
 </div>
 
