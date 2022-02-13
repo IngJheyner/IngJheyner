@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547'>Motorola G31, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-motorola-g31-2613915.jpg' alt='Motorola G31, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tp-link-2309705.jpg' alt='Los mejores routers de 2022 por rango de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087'>5 webs para crear tus propios juegos de palabras y lógica tipo Wordle</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puzzle-2609161.jpg' alt='5 webs para crear tus propios juegos de palabras y lógica tipo Wordle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959'>Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/opinion-xcloud-game-pass-iphone-2328013.jpg' alt='Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer' />
     </a>
 </div>
 
