@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/probar-smartwatches-deberia-ser-disciplina-olimpica-1003325'>Probar smartwatches debería ser disciplina olímpica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/probar-smartwatches-deberia-ser-disciplina-olimpica-1003325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/huawei-watch-gt-2e-analisis-opinion-1928059.jpg' alt='Probar smartwatches debería ser disciplina olímpica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-funciones-ps5-puede-hacer-mientras-suspension-1008025'>Las cinco funciones que la PS5 puede hacer mientras está en suspensión</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cinco-funciones-ps5-puede-hacer-mientras-suspension-1008025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Las cinco funciones que la PS5 puede hacer mientras está en suspensión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819'>Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489'>Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/olla-presion-freidora-aire-caliente-todo-solo-162-euros-1011475'>Olla a presión y freidora de aire caliente todo en uno a solo 162 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/olla-presion-freidora-aire-caliente-todo-solo-162-euros-1011475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/instant-pot-duo-crisp-air-fryer-2614895.jpg' alt='Olla a presión y freidora de aire caliente todo en uno a solo 162 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467'>Estos son todos los ganadores de los Premios Goya 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2022-2614889.jpg' alt='Estos son todos los ganadores de los Premios Goya 2022' />
     </a>
 </div>
 
