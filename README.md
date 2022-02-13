@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467'>Estos son todos los ganadores de los Premios Goya 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2022-2614889.jpg' alt='Estos son todos los ganadores de los Premios Goya 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-gamberras-netflix-hbo-max-prime-video-1008597'>8 series gamberras que puedes encontrar en Netflix, HBO Max y Prime Video</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-gamberras-netflix-hbo-max-prime-video-1008597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pacificador-2611537.jpg' alt='8 series gamberras que puedes encontrar en Netflix, HBO Max y Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663'>5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garmin-instinct-2-2613725.jpg' alt='5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-alternativa-google-maps-android-auto-recibe-gran-actualizacion-estas-son-nuevas-funciones-1011457'>La mejor alternativa a Google Maps en Android Auto recibe una gran actualización y estas son sus nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-alternativa-google-maps-android-auto-recibe-gran-actualizacion-estas-son-nuevas-funciones-1011457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tomtom-go-navigation-2614879.jpg' alt='La mejor alternativa a Google Maps en Android Auto recibe una gran actualización y estas son sus nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185'>Lo que sabemos de Android 13 "Tiramisú"</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Lo que sabemos de Android 13 "Tiramisú"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547'>Motorola G31, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-motorola-g31-2613915.jpg' alt='Motorola G31, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tp-link-2309705.jpg' alt='Los mejores routers de 2022 por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-1011221'>Este reloj inteligente es capaz de analizar el sudor y advertirnos si estamos muy estresados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-1011221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-2614549.jpg' alt='Este reloj inteligente es capaz de analizar el sudor y advertirnos si estamos muy estresados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217'>Ver la televisión antes de dormir mejora la calidad del sueño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-viendo-television-cama-2614495.jpg' alt='Ver la televisión antes de dormir mejora la calidad del sueño' />
     </a>
 </div>
 
