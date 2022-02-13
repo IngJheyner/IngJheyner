@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515'>En los Razzies 2022 Bruce Willis está nominado por tantas películas, que han creado una categoría solo para él</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/razzies-ano-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-2614957.jpg' alt='En los Razzies 2022 Bruce Willis está nominado por tantas películas, que han creado una categoría solo para él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091'>4 auriculares baratos que hemos probado y que recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='4 auriculares baratos que hemos probado y que recomendamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-funciones-ps5-puede-hacer-mientras-suspension-1008025'>Las cinco funciones que la PS5 puede hacer mientras está en suspensión</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cinco-funciones-ps5-puede-hacer-mientras-suspension-1008025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Las cinco funciones que la PS5 puede hacer mientras está en suspensión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819'>Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros' />
     </a>
 </div>
 
