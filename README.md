@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539'>Cómo convertir un viejo móvil Android en un repetidor WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='Cómo convertir un viejo móvil Android en un repetidor WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575'>En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch</a></h4>
     <a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-venden-sujetacabezas-usan-mucho-movil-nintendo-switch-2613193.jpg' alt='En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841'>7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tacones-lejanos-2610321.jpg' alt='7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563'>5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-xiaomi-mi-band-hemos-probado-merecen-pena-1008563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg' alt='5 alternativas a la Xiaomi Mi Band que hemos probado y merecen la pena' />
     </a>
 </div>
 
