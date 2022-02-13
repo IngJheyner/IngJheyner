@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185'>Lo que sabemos de Android 13 "Tiramisú"</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Lo que sabemos de Android 13 "Tiramisú"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547'>Motorola G31, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/motorola-g31-review-opinion-1010547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-motorola-g31-2613915.jpg' alt='Motorola G31, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217'>Ver la televisión antes de dormir mejora la calidad del sueño</a></h4>
     <a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-viendo-television-cama-2614495.jpg' alt='Ver la televisión antes de dormir mejora la calidad del sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087'>5 webs para crear tus propios juegos de palabras y lógica tipo Wordle</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puzzle-2609161.jpg' alt='5 webs para crear tus propios juegos de palabras y lógica tipo Wordle' />
     </a>
 </div>
 
