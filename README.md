@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489'>Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/olla-presion-freidora-aire-caliente-todo-solo-162-euros-1011475'>Olla a presión y freidora de aire caliente todo en uno a solo 162 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/olla-presion-freidora-aire-caliente-todo-solo-162-euros-1011475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/instant-pot-duo-crisp-air-fryer-2614895.jpg' alt='Olla a presión y freidora de aire caliente todo en uno a solo 162 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467'>Estos son todos los ganadores de los Premios Goya 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2022-2614889.jpg' alt='Estos son todos los ganadores de los Premios Goya 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663'>5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garmin-instinct-2-2613725.jpg' alt='5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-alternativa-google-maps-android-auto-recibe-gran-actualizacion-estas-son-nuevas-funciones-1011457'>La mejor alternativa a Google Maps en Android Auto recibe una gran actualización y estas son sus nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-alternativa-google-maps-android-auto-recibe-gran-actualizacion-estas-son-nuevas-funciones-1011457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tomtom-go-navigation-2614879.jpg' alt='La mejor alternativa a Google Maps en Android Auto recibe una gran actualización y estas son sus nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185'>Lo que sabemos de Android 13 "Tiramisú"</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sabemos-android-13-tiramisu-1009185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Lo que sabemos de Android 13 "Tiramisú"' />
     </a>
 </div>
 
