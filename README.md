@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515'>En los Razzies 2022 Bruce Willis está nominado por tantas películas, que han creado una categoría solo para él</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515'>En los Razzies 2022 Bruce Willis está nominado a peor actor en tantas películas, que han creado una categoría solo para él</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/razzies-ano-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-2614957.jpg' alt='En los Razzies 2022 Bruce Willis está nominado por tantas películas, que han creado una categoría solo para él' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/razzies-ano-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-2614957.jpg' alt='En los Razzies 2022 Bruce Willis está nominado a peor actor en tantas películas, que han creado una categoría solo para él' />
     </a>
 </div>
 
