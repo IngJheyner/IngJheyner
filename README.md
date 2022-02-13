@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217'>Ver la televisión antes de dormir mejora la calidad del sueño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-viendo-television-cama-2614495.jpg' alt='Ver la televisión antes de dormir mejora la calidad del sueño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087'>5 webs para crear tus propios juegos de palabras y lógica tipo Wordle</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-webs-crear-propios-juegos-palabras-logica-tipo-wordle-1008087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puzzle-2609161.jpg' alt='5 webs para crear tus propios juegos de palabras y lógica tipo Wordle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959'>Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/opinion-xcloud-game-pass-iphone-2328013.jpg' alt='Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mastaba-escultura-mas-grande-mundo-christo-1009869'>La escultura más inmensa del mundo será más grande que la Gran Pirámide de Giza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mastaba-escultura-mas-grande-mundo-christo-1009869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escultura-inmensa-mundo-sera-grande-gran-piramide-giza-2611893.jpg' alt='La escultura más inmensa del mundo será más grande que la Gran Pirámide de Giza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539'>Cómo convertir un viejo móvil Android en un repetidor WiFi</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='Cómo convertir un viejo móvil Android en un repetidor WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575'>En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sujetacabezas-usan-movil-nintendo-switch-japon-1010575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/japon-venden-sujetacabezas-usan-mucho-movil-nintendo-switch-2613193.jpg' alt='En Japón venden este sujetacabezas para los que usan mucho el móvil o la Nintendo Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223'>Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juegos-esperados-nintendo-switch-llega-amazon-preventa-1011223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nintendo-switch-sports-2614551.jpg' alt='Uno de los juegos más esperados para Nintendo Switch llega a Amazon en preventa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219'>Este error en Android Auto hace que Spotify no se comporte como esperas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-hace-spotify-no-comporte-como-esperas-1011219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Este error en Android Auto hace que Spotify no se comporte como esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841'>7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-clasicas-disponibles-gratis-rtve-play-1008841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tacones-lejanos-2610321.jpg' alt='7 películas clásicas que deberías haber visto y tienes disponibles gratis en RTVE Play' />
     </a>
 </div>
 
