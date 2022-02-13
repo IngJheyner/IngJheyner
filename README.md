@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/tp-link-2309705.jpg' alt='Los mejores routers de 2022 por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-1011221'>Este reloj inteligente es capaz de analizar el sudor y advertirnos si estamos muy estresados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-1011221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-inteligente-capaz-analizar-sudor-advertirnos-estamos-muy-estresados-2614549.jpg' alt='Este reloj inteligente es capaz de analizar el sudor y advertirnos si estamos muy estresados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217'>Ver la televisión antes de dormir mejora la calidad del sueño</a></h4>
     <a href='https://computerhoy.com/noticias/life/ver-television-antes-dormir-mejora-calidad-sueno-1011217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-viendo-television-cama-2614495.jpg' alt='Ver la televisión antes de dormir mejora la calidad del sueño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959'>Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/suscribirte-game-pass-mejor-inversion-puedes-hacer-eres-gamer-1009959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/opinion-xcloud-game-pass-iphone-2328013.jpg' alt='Por qué suscribirte a Game Pass es la mejor inversión que puedes hacer si eres gamer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mastaba-escultura-mas-grande-mundo-christo-1009869'>La escultura más inmensa del mundo será más grande que la Gran Pirámide de Giza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mastaba-escultura-mas-grande-mundo-christo-1009869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escultura-inmensa-mundo-sera-grande-gran-piramide-giza-2611893.jpg' alt='La escultura más inmensa del mundo será más grande que la Gran Pirámide de Giza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539'>Cómo convertir un viejo móvil Android en un repetidor WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-viejo-movil-android-repetidor-wifi-1005539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='Cómo convertir un viejo móvil Android en un repetidor WiFi' />
     </a>
 </div>
 
