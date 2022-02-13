@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091'>4 auriculares baratos que hemos probado y que recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='4 auriculares baratos que hemos probado y que recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cent-mercado-nft-detiene-actividad-estafas-falsificaciones-1011511'>Uno de los mercados NFT más populares detiene su actividad porque se ha inundado de estafas y falsificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cent-mercado-nft-detiene-actividad-estafas-falsificaciones-1011511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mercados-nft-populares-detiene-actividad-porque-ha-inundado-estafas-falsificaciones-2614951.jpg' alt='Uno de los mercados NFT más populares detiene su actividad porque se ha inundado de estafas y falsificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/probar-smartwatches-deberia-ser-disciplina-olimpica-1003325'>Probar smartwatches debería ser disciplina olímpica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/probar-smartwatches-deberia-ser-disciplina-olimpica-1003325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/huawei-watch-gt-2e-analisis-opinion-1928059.jpg' alt='Probar smartwatches debería ser disciplina olímpica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819'>Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-ganadoras-premios-goya-2022-1011499'>Dónde ver las películas ganadoras de los Premios Goya 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-ganadoras-premios-goya-2022-1011499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2614939.jpg' alt='Dónde ver las películas ganadoras de los Premios Goya 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489'>Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022' />
     </a>
 </div>
 
