@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819'>Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ponte-forma-remo-cecotec-drumfit-rower-7000-regatta-269-euros-1010819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Ponte en forma con esta máquina de remo Cecotec DrumFit Rower 7000 Regatta perfecta para iniciarse por 269 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-ganadoras-premios-goya-2022-1011499'>Dónde ver las películas ganadoras de los Premios Goya 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-peliculas-ganadoras-premios-goya-2022-1011499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2614939.jpg' alt='Dónde ver las películas ganadoras de los Premios Goya 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489'>Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-cambios-llegaran-barra-tareas-windows-11-2022-1011489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Estas son todas las novedades y cambios que llegarán a la barra de tareas de Windows 11 en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467'>Estos son todos los ganadores de los Premios Goya 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-ganadores-premios-goya-2022-1011467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/premios-goya-2022-2614889.jpg' alt='Estos son todos los ganadores de los Premios Goya 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-gamberras-netflix-hbo-max-prime-video-1008597'>8 series gamberras que puedes encontrar en Netflix, HBO Max y Prime Video</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-gamberras-netflix-hbo-max-prime-video-1008597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pacificador-2611537.jpg' alt='8 series gamberras que puedes encontrar en Netflix, HBO Max y Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663'>5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-garmin-instinct-2-mejor-reloj-inteligente-aventuras-1010663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/garmin-instinct-2-2613725.jpg' alt='5 motivos por los que Garmin Instinct 2 se convierte en el mejor reloj inteligente para aventuras' />
     </a>
 </div>
 
