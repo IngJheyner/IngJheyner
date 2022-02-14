@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/salen-fotos-borrosas-movil-como-evitarlo-978013'>Por qué salen las fotos borrosas con tu móvil y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/salen-fotos-borrosas-movil-como-evitarlo-978013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fotos-borrosas-2556261.jpg' alt='Por qué salen las fotos borrosas con tu móvil y cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ideas-aplicaciones-tener-saludable-organizada-vida-pareja-1011931'>Ideas y aplicaciones para tener una saludable y más organizada vida en pareja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ideas-aplicaciones-tener-saludable-organizada-vida-pareja-1011931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pareja-cocinando-cocina-color-blanco-2452295.jpg' alt='Ideas y aplicaciones para tener una saludable y más organizada vida en pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891'>El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alienware-2615621.jpg' alt='El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875'>Las mejores ofertas semanales y chollos del outlet de Lidl</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas semanales y chollos del outlet de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-filtrado-completo-preparado-lanzamiento-jueves-1011907'>OnePlus Nord CE 2 filtrado al completo, preparado para su lanzamiento este jueves</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-filtrado-completo-preparado-lanzamiento-jueves-1011907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2612113.jpg' alt='OnePlus Nord CE 2 filtrado al completo, preparado para su lanzamiento este jueves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847'>Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/estafa-inversion-2336691.jpg' alt='Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero' />
     </a>
 </div>
 
