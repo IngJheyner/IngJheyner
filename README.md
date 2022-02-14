@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909'>Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inaugura-casa-loca-guatavita-colombia-donde-todo-boca-abajo-2612017.jpg' alt='Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-14-core-i7-16gb-ram-descuento-raton-bluetooth-regalo-1011525'>El portátil Huawei MateBook D 14 con Core i7 y 16GB de RAM, con 100 euros de descuento y ratón bluetooth de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-14-core-i7-16gb-ram-descuento-raton-bluetooth-regalo-1011525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-huawei-matebook-d-14-core-i7-16gb-ram-100-euros-descuento-raton-bluetooth-regalo-2614991.jpg' alt='El portátil Huawei MateBook D 14 con Core i7 y 16GB de RAM, con 100 euros de descuento y ratón bluetooth de regalo' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si en el futuro tuvieras que desbloquear núcleos y memoria caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si en el futuro tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si en el futuro tuvieras que desbloquear núcleos y memoria caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si en el futuro tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091'>4 auriculares baratos que hemos probado y que recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='4 auriculares baratos que hemos probado y que recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cent-mercado-nft-detiene-actividad-estafas-falsificaciones-1011511'>Uno de los mercados NFT más populares detiene su actividad porque se ha inundado de estafas y falsificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cent-mercado-nft-detiene-actividad-estafas-falsificaciones-1011511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mercados-nft-populares-detiene-actividad-porque-ha-inundado-estafas-falsificaciones-2614951.jpg' alt='Uno de los mercados NFT más populares detiene su actividad porque se ha inundado de estafas y falsificaciones' />
     </a>
 </div>
 
