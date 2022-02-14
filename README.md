@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2615157.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-virtuales-san-valentin-no-necesitan-envio-puedes-comprar-ahora-mismo-1011455'>10 regalos virtuales de San Valentín que no necesitan envío y que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-virtuales-san-valentin-no-necesitan-envio-puedes-comprar-ahora-mismo-1011455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-sujetando-regalo-navidad-sorpresa-2567665.jpg' alt='10 regalos virtuales de San Valentín que no necesitan envío y que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909'>Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inaugura-casa-loca-guatavita-colombia-donde-todo-boca-abajo-2612017.jpg' alt='Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515'>En los Razzies 2022 Bruce Willis está nominado a peor actor en tantas películas, que han creado una categoría solo para él</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/razzies-2022-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-1011515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/razzies-ano-bruce-willis-nominado-tantas-peliculas-han-creado-categoria-solo-2614957.jpg' alt='En los Razzies 2022 Bruce Willis está nominado a peor actor en tantas películas, que han creado una categoría solo para él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091'>4 auriculares baratos que hemos probado y que recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/4-auriculares-baratos-hemos-probado-recomendamos-1010091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='4 auriculares baratos que hemos probado y que recomendamos' />
     </a>
 </div>
 
