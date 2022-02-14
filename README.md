@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/salen-fotos-borrosas-movil-como-evitarlo-978013'>Por qué salen las fotos borrosas con tu móvil y cómo evitarlo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/salen-fotos-borrosas-movil-como-evitarlo-978013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fotos-borrosas-2556261.jpg' alt='Por qué salen las fotos borrosas con tu móvil y cómo evitarlo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949'>Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/viendo-television-2582033.jpg' alt='Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ideas-aplicaciones-tener-saludable-organizada-vida-pareja-1011931'>Ideas y aplicaciones para tener una saludable y más organizada vida en pareja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ideas-aplicaciones-tener-saludable-organizada-vida-pareja-1011931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pareja-cocinando-cocina-color-blanco-2452295.jpg' alt='Ideas y aplicaciones para tener una saludable y más organizada vida en pareja' />
+    <h4><a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987'>Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein</a></h4>
+    <a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/carne-2156679.jpg' alt='Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891'>El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alienware-2615621.jpg' alt='El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-te-muestra-resultados-no-otros-903379'>Los 9 mejores juegos de estrategia para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-te-muestra-resultados-no-otros-903379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/9-mejores-juegos-estrategia-android-2022-tienes-descargar-ya-mismo-2614993.jpg' alt='Los 9 mejores juegos de estrategia para Android de 2022 y que tienes que descargar ya mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundcore-life-q30-tienen-cancelacion-ruido-activa-solo-te-costaran-67-euros-1011761'>Los auriculares Soundcore Life Q30 tienen cancelación de ruido activa y solo te costarán 67 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundcore-life-q30-tienen-cancelacion-ruido-activa-solo-te-costaran-67-euros-1011761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438225.jpg' alt='Los auriculares Soundcore Life Q30 tienen cancelación de ruido activa y solo te costarán 67 euros' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993'>Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/podcast-computerhoy-01.jpg' alt='Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875'>Las mejores ofertas semanales y chollos del outlet de Lidl</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas semanales y chollos del outlet de Lidl' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-core-no1-chip-dedicado-funciones-gaming-proximo-movil-red-magic-7-1011983'>Red Core No.1, el chip dedicado para funciones gaming en el próximo móvil Red Magic 7</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-core-no1-chip-dedicado-funciones-gaming-proximo-movil-red-magic-7-1011983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-nubia-red-magic-6-2322563.jpg' alt='Red Core No.1, el chip dedicado para funciones gaming en el próximo móvil Red Magic 7' />
     </a>
 </div>
 
