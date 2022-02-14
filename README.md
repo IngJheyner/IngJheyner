@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625'>Cómo empezar un Podcast: materiales, micro y software necesarios</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/podcast-2560707.jpg' alt='Cómo empezar un Podcast: materiales, micro y software necesarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-senor-anillos-anillos-poder-amazon-puede-dar-campanazo-1011735'>Este es el primer tráiler de El Señor de los Anillos: Los Anillos de Poder, y Amazon puede dar el campanazo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-senor-anillos-anillos-poder-amazon-puede-dar-campanazo-1011735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Este es el primer tráiler de El Señor de los Anillos: Los Anillos de Poder, y Amazon puede dar el campanazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719'>Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lampara-inteligente-google-dlight-2615191.jpg' alt='Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703'>Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/matanza-texas-2022-2615173.jpg' alt='Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fallos-provocan-pizza-casera-no-salga-como-te-gustaria-1010719'>Fallos que provocan que tu pizza casera no salga como te gustaría</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fallos-provocan-pizza-casera-no-salga-como-te-gustaria-1010719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/pizza-horno-1968797.jpg' alt='Fallos que provocan que tu pizza casera no salga como te gustaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707'>El patinete que tienes en casa podría ser ilegal en 2027</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/itv-patinetes-electricos-2580493.jpg' alt='El patinete que tienes en casa podría ser ilegal en 2027' />
     </a>
 </div>
 
