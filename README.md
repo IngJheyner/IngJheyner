@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-funciones-nuevas-android-12-tienes-conocer-probar-1002755'>Estas son las funciones nuevas de Android 12 que tienes que conocer y probar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-funciones-nuevas-android-12-tienes-conocer-probar-1002755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Estas son las funciones nuevas de Android 12 que tienes que conocer y probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001'>Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987'>Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein</a></h4>
     <a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/carne-2156679.jpg' alt='Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-te-muestra-resultados-no-otros-903379'>Los 9 mejores juegos de estrategia para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-sepas-te-muestra-resultados-no-otros-903379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/9-mejores-juegos-estrategia-android-2022-tienes-descargar-ya-mismo-2614993.jpg' alt='Los 9 mejores juegos de estrategia para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993'>Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/podcast-computerhoy-01.jpg' alt='Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH' />
     </a>
 </div>
 
