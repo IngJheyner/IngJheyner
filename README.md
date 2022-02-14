@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859'>Las medidas de llantas que puedes poner, y las que no</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859' target='_blank'>
+        <img width='30%' src='https://computerhoy.com/sites/computerhoy.com/public/bmw-m4-gts-llantas-portada.jpg' alt='Las medidas de llantas que puedes poner, y las que no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calendario-lunar-2022-1012071'>Calendario Lunar 2022: cuándo cambia la Luna de fase</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calendario-lunar-2022-1012071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/calendario-lunar-2022-cuando-cambia-luna-fase-2616029.jpg' alt='Calendario Lunar 2022: cuándo cambia la Luna de fase' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-android-auto-afecta-indicador-temperatura-1012061'>Este nuevo error de Android Auto afecta al indicador de temperatura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-android-auto-afecta-indicador-temperatura-1012061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Este nuevo error de Android Auto afecta al indicador de temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-explorador-archivos-windows-965705'>Qué hacer si no funciona el explorador de archivos en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-explorador-archivos-windows-965705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/chica-usando-windows-2534905.jpg' alt='Qué hacer si no funciona el explorador de archivos en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-funciones-nuevas-android-12-tienes-conocer-probar-1002755'>Estas son las funciones nuevas de Android 12 que tienes que conocer y probar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-funciones-nuevas-android-12-tienes-conocer-probar-1002755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Estas son las funciones nuevas de Android 12 que tienes que conocer y probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001'>Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949'>Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/viendo-television-2582033.jpg' alt='Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987'>Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein</a></h4>
-    <a href='https://computerhoy.com/noticias/crear-filetes-nada-transformando-co2-aire-propone-air-protein-1011987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/carne-2156679.jpg' alt='Crear filetes de la nada transformando el CO2 del aire es lo que propone Air Protein' />
     </a>
 </div>
 
