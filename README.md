@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-escaneo-3d-cara-prepara-huawei-patente-1011747'>El móvil con escaneo 3D de cara que prepara Huawei según su patente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-escaneo-3d-cara-prepara-huawei-patente-1011747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-3d-2615269.jpg' alt='El móvil con escaneo 3D de cara que prepara Huawei según su patente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollazo-nuevo-macbook-pro-m1-pro-baja-250-euros-golpe-amazon-1011749'>Chollazo en el nuevo MacBook Pro con M1 Pro: baja 250 euros de golpe en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollazo-nuevo-macbook-pro-m1-pro-baja-250-euros-golpe-amazon-1011749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538063.jpg' alt='Chollazo en el nuevo MacBook Pro con M1 Pro: baja 250 euros de golpe en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625'>Cómo empezar un Podcast: materiales, micro y software necesarios</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/podcast-2560707.jpg' alt='Cómo empezar un Podcast: materiales, micro y software necesarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719'>Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lampara-inteligente-google-dlight-2615191.jpg' alt='Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549'>Amplificador WiFi Movistar: características y alternativas que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-smart-wifi-6-2611477.jpg' alt='Amplificador WiFi Movistar: características y alternativas que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703'>Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/matanza-texas-2022-2615173.jpg' alt='Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)' />
     </a>
 </div>
 
