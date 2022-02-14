@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si en el futuro tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si en el futuro tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
     </a>
 </div>
 
