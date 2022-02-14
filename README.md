@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-escaneo-3d-cara-prepara-huawei-patente-1011747'>El móvil con escaneo 3D de cara que prepara Huawei según su patente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-escaneo-3d-cara-prepara-huawei-patente-1011747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-3d-2615269.jpg' alt='El móvil con escaneo 3D de cara que prepara Huawei según su patente' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-turismo-ultima-hazana-ia-ya-conduce-mejor-mejores-pilotos-mundo-juego-1011829'>Gran Turismo es la última hazaña de la IA, ya conduce mejor que los mejores pilotos del mundo en el juego</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-turismo-ultima-hazana-ia-ya-conduce-mejor-mejores-pilotos-mundo-juego-1011829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gran-turismo-7-paraiso-coleccionismo-410-coches-todas-epocas-2611951.jpg' alt='Gran Turismo es la última hazaña de la IA, ya conduce mejor que los mejores pilotos del mundo en el juego' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollazo-nuevo-macbook-pro-m1-pro-baja-250-euros-golpe-amazon-1011749'>Chollazo en el nuevo MacBook Pro con M1 Pro: baja 250 euros de golpe en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollazo-nuevo-macbook-pro-m1-pro-baja-250-euros-golpe-amazon-1011749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538063.jpg' alt='Chollazo en el nuevo MacBook Pro con M1 Pro: baja 250 euros de golpe en Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-sigue-apostando-autonomia-precio-nokia-g21-pantalla-90-hz-camara-50-mpx-1011789'>Nokia sigue apostando por la autonomía y precio con su Nokia G21 con pantalla 90 Hz y cámara 50 Mpx </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nokia-sigue-apostando-autonomia-precio-nokia-g21-pantalla-90-hz-camara-50-mpx-1011789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nokia-g21-2615317.jpg' alt='Nokia sigue apostando por la autonomía y precio con su Nokia G21 con pantalla 90 Hz y cámara 50 Mpx ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625'>Cómo empezar un Podcast: materiales, micro y software necesarios</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-empezar-podcast-materiales-micro-software-necesarios-980625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/podcast-2560707.jpg' alt='Cómo empezar un Podcast: materiales, micro y software necesarios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-baterias-litio-densas-mercado-amprius-tienen-73-carga-tesla-ocupando-menos-espacio-1011817'>Así son las baterías de litio más densas del mercado: las Amprius tienen un 73% más de carga que las de Tesla, ocupando menos espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-baterias-litio-densas-mercado-amprius-tienen-73-carga-tesla-ocupando-menos-espacio-1011817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amprius-2615311.jpg' alt='Así son las baterías de litio más densas del mercado: las Amprius tienen un 73% más de carga que las de Tesla, ocupando menos espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-senor-anillos-anillos-poder-amazon-puede-dar-campanazo-1011735'>Este es el primer tráiler de El Señor de los Anillos: Los Anillos de Poder, y Amazon puede dar el campanazo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-senor-anillos-anillos-poder-amazon-puede-dar-campanazo-1011735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Este es el primer tráiler de El Señor de los Anillos: Los Anillos de Poder, y Amazon puede dar el campanazo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-deportiva-huawei-band-6-pantalla-grande-mercado-precio-ganga-lidl-1011797'>La pulsera deportiva Huawei Band 6 con la pantalla más grande del mercado a precio de ganga en LIDL</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-deportiva-huawei-band-6-pantalla-grande-mercado-precio-ganga-lidl-1011797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honor-band-6-analisis-opinion-2496847.jpg' alt='La pulsera deportiva Huawei Band 6 con la pantalla más grande del mercado a precio de ganga en LIDL' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719'>Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lampara-inteligente-google-dlight-2615191.jpg' alt='Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta' />
+    <h4><a href='https://computerhoy.com/noticias/motor/pregunta-trampa-dgt-cuantos-chalecos-reflectantes-debes-llevar-coche-1011799'>La pregunta trampa de la DGT: ¿cuántos chalecos reflectantes debes llevar en el coche?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pregunta-trampa-dgt-cuantos-chalecos-reflectantes-debes-llevar-coche-1011799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/chaleco-reflectante-2212115.jpg' alt='La pregunta trampa de la DGT: ¿cuántos chalecos reflectantes debes llevar en el coche?' />
     </a>
 </div>
 
