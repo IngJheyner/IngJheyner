@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549'>Amplificador WiFi Movistar: características y alternativas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-smart-wifi-6-2611477.jpg' alt='Amplificador WiFi Movistar: características y alternativas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703'>Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-leatherface-victimas-1011703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/matanza-texas-2022-2615173.jpg' alt='Todos los estrenos de la semana en Netflix: nos reencontramos con Leatherface (y sus víctimas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fallos-provocan-pizza-casera-no-salga-como-te-gustaria-1010719'>Fallos que provocan que tu pizza casera no salga como te gustaría</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fallos-provocan-pizza-casera-no-salga-como-te-gustaria-1010719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/pizza-horno-1968797.jpg' alt='Fallos que provocan que tu pizza casera no salga como te gustaría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707'>El patinete que tienes en casa podría ser ilegal en 2027</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/itv-patinetes-electricos-2580493.jpg' alt='El patinete que tienes en casa podría ser ilegal en 2027' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2615157.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-virtuales-san-valentin-no-necesitan-envio-puedes-comprar-ahora-mismo-1011455'>10 regalos virtuales de San Valentín que no necesitan envío y que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-regalos-virtuales-san-valentin-no-necesitan-envio-puedes-comprar-ahora-mismo-1011455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-sujetando-regalo-navidad-sorpresa-2567665.jpg' alt='10 regalos virtuales de San Valentín que no necesitan envío y que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909'>Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/casa-loca-guatavita-colombia-casa-al-reves-1009909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inaugura-casa-loca-guatavita-colombia-donde-todo-boca-abajo-2612017.jpg' alt='Se inaugura La Casa Loca de Guatavita, en Colombia, en donde todo está boca abajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-14-core-i7-16gb-ram-descuento-raton-bluetooth-regalo-1011525'>El portátil Huawei MateBook D 14 con Core i7 y 16GB de RAM, con 100 euros de descuento y ratón bluetooth de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-14-core-i7-16gb-ram-descuento-raton-bluetooth-regalo-1011525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-huawei-matebook-d-14-core-i7-16gb-ram-100-euros-descuento-raton-bluetooth-regalo-2614991.jpg' alt='El portátil Huawei MateBook D 14 con Core i7 y 16GB de RAM, con 100 euros de descuento y ratón bluetooth de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519'>¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-sapphire-rapids-cpu-microtransacciones-1011519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/futuro-tuvieras-desbloquear-nucleos-memoria-cache-cpu-microtransacciones-intel-acaba-presentarla-2614971.jpg' alt='¿Y si tuvieras que desbloquear núcleos y caché de tu CPU con microtransacciones? Intel acaba de anunciar un modelo así' />
     </a>
 </div>
 
