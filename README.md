@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001'>Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pese-no-te-creas-new-york-times-no-ha-hecho-wordle-dificil-1012001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Pese a que no te lo creas, The New York Times no ha hecho Wordle más difícil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949'>Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-saber-plataforma-streaming-te-interesa-no-pagar-dinero-innecesario-992949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/viendo-television-2582033.jpg' alt='Cómo saber qué plataforma de streaming te interesa y no pagar dinero innecesario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993'>Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tenemos-nuevo-podcast-surface-pro-8-moto-g31-premios-ch-1011993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/podcast-computerhoy-01.jpg' alt='Tenemos nuevo episodio del Podcast: Surface Pro 8, Moto G31 y Premios CH' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-core-no1-chip-dedicado-funciones-gaming-proximo-movil-red-magic-7-1011983'>Red Core No.1, el chip dedicado para funciones gaming en el próximo móvil Red Magic 7</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/red-core-no1-chip-dedicado-funciones-gaming-proximo-movil-red-magic-7-1011983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-nubia-red-magic-6-2322563.jpg' alt='Red Core No.1, el chip dedicado para funciones gaming en el próximo móvil Red Magic 7' />
     </a>
 </div>
 
