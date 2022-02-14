@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093'>La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/espia-gris-2616091.jpg' alt='La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863'>Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067'>Xiaomi lanza un increíble mini PC que solo pesa 250 gramos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-ningmei-mini-pc-cr80-2616025.jpg' alt='Xiaomi lanza un increíble mini PC que solo pesa 250 gramos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077'>Trucos muy raros para dormir pero que sorprendentemente funcionan</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Trucos muy raros para dormir pero que sorprendentemente funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859'>Las medidas de llantas que puedes poner, y las que no</a></h4>
     <a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859' target='_blank'>
-        <img width='30%' src='https://computerhoy.com/sites/computerhoy.com/public/bmw-m4-gts-llantas-portada.jpg' alt='Las medidas de llantas que puedes poner, y las que no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calendario-lunar-2022-1012071'>Calendario Lunar 2022: cuándo cambia la Luna de fase</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calendario-lunar-2022-1012071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/calendario-lunar-2022-cuando-cambia-luna-fase-2616029.jpg' alt='Calendario Lunar 2022: cuándo cambia la Luna de fase' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-android-auto-afecta-indicador-temperatura-1012061'>Este nuevo error de Android Auto afecta al indicador de temperatura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-android-auto-afecta-indicador-temperatura-1012061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Este nuevo error de Android Auto afecta al indicador de temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-explorador-archivos-windows-965705'>Qué hacer si no funciona el explorador de archivos en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-explorador-archivos-windows-965705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/chica-usando-windows-2534905.jpg' alt='Qué hacer si no funciona el explorador de archivos en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llantas-coche-2616067.jpg' alt='Las medidas de llantas que puedes poner, y las que no' />
     </a>
 </div>
 
