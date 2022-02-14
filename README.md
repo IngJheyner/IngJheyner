@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101'>El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-lenovo-legion-y90-bestia-18-gb-ram-1-tb-almacenamiento-2616105.jpg' alt='El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097'>Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-neo-2256533.jpg' alt='Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067'>Xiaomi lanza un increíble mini PC que solo pesa 250 gramos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-ningmei-mini-pc-cr80-2616025.jpg' alt='Xiaomi lanza un increíble mini PC que solo pesa 250 gramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077'>Trucos muy raros para dormir pero que sorprendentemente funcionan</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Trucos muy raros para dormir pero que sorprendentemente funcionan' />
     </a>
 </div>
 
