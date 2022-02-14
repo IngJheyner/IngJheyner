@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719'>Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-dispositivo-inteligente-google-venta-lampara-1011719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lampara-inteligente-google-dlight-2615191.jpg' alt='Este es el último dispositivo inteligente de Google, pero no se pondrá a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549'>Amplificador WiFi Movistar: características y alternativas que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amplificador-wifi-movistar-caracteristicas-alternativas-1009549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-smart-wifi-6-2611477.jpg' alt='Amplificador WiFi Movistar: características y alternativas que merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707'>El patinete que tienes en casa podría ser ilegal en 2027</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-tienes-casa-podria-ser-ilegal-2027-1010707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/itv-patinetes-electricos-2580493.jpg' alt='El patinete que tienes en casa podría ser ilegal en 2027' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1011695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2615157.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
