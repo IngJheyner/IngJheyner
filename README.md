@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891'>El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-monitor-qd-oled-ya-tiene-precio-barato-esperabamos-1011891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alienware-2615621.jpg' alt='El primer monitor QD-OLED ya tiene precio y es más barato de lo que esperábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundcore-life-q30-tienen-cancelacion-ruido-activa-solo-te-costaran-67-euros-1011761'>Los auriculares Soundcore Life Q30 tienen cancelación de ruido activa y solo te costarán 67 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundcore-life-q30-tienen-cancelacion-ruido-activa-solo-te-costaran-67-euros-1011761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438225.jpg' alt='Los auriculares Soundcore Life Q30 tienen cancelación de ruido activa y solo te costarán 67 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875'>Las mejores ofertas semanales y chollos del outlet de Lidl</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas semanales y chollos del outlet de Lidl' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847'>Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/estafa-inversion-2336691.jpg' alt='Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-mantiene-finalmente-estrategia-software-diferenciandose-oppo-anunciar-oxygenos-13-1011877'>OnePlus mantiene finalmente su estrategia software diferenciándose de Oppo al anunciar OxygenOS 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-mantiene-finalmente-estrategia-software-diferenciandose-oppo-anunciar-oxygenos-13-1011877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='OnePlus mantiene finalmente su estrategia software diferenciándose de Oppo al anunciar OxygenOS 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/detalles-fotografia-108-mpx-estas-pinturas-carboncillo-1011821'>Más detalles que una fotografía de 108 Mpx con estas pinturas al carboncillo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/detalles-fotografia-108-mpx-estas-pinturas-carboncillo-1011821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lente-fotografia-sensor-2615489.jpg' alt='Más detalles que una fotografía de 108 Mpx con estas pinturas al carboncillo' />
     </a>
 </div>
 
