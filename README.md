@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875'>Las mejores ofertas semanales y chollos del outlet de Lidl</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-ofertas-semanales-chollos-outlet-lidl-1011875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lidl-2599587.jpg' alt='Las mejores ofertas semanales y chollos del outlet de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-filtrado-completo-preparado-lanzamiento-jueves-1011907'>OnePlus Nord CE 2 filtrado al completo, preparado para su lanzamiento este jueves</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-filtrado-completo-preparado-lanzamiento-jueves-1011907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2612113.jpg' alt='OnePlus Nord CE 2 filtrado al completo, preparado para su lanzamiento este jueves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847'>Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esquemas-ponzi-como-debes-huir-criptomonedas-usen-evitar-perder-dinero-1011847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/estafa-inversion-2336691.jpg' alt='Los esquemas Ponzi o cómo debes huir de criptomonedas que los usen para evitar perder dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-mantiene-finalmente-estrategia-software-diferenciandose-oppo-anunciar-oxygenos-13-1011877'>OnePlus mantiene finalmente su estrategia software diferenciándose de Oppo al anunciar OxygenOS 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-mantiene-finalmente-estrategia-software-diferenciandose-oppo-anunciar-oxygenos-13-1011877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-2582727.jpg' alt='OnePlus mantiene finalmente su estrategia software diferenciándose de Oppo al anunciar OxygenOS 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/detalles-fotografia-108-mpx-estas-pinturas-carboncillo-1011821'>Más detalles que una fotografía de 108 Mpx con estas pinturas al carboncillo</a></h4>
     <a href='https://computerhoy.com/noticias/life/detalles-fotografia-108-mpx-estas-pinturas-carboncillo-1011821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lente-fotografia-sensor-2615489.jpg' alt='Más detalles que una fotografía de 108 Mpx con estas pinturas al carboncillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-compactos-puedes-comprar-2021-912687'>Los mejores móviles compactos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-compactos-puedes-comprar-2021-912687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/moviles-compactos-2438511.jpg' alt='Los mejores móviles compactos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s21-fe-precio-derribo-amazon-roza-ya-600-euros-gracias-cupon-1011765'>El nuevo Samsung Galaxy S21 FE, a precio de derribo en Amazon: roza ya los 600 euros gracias a un cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-s21-fe-precio-derribo-amazon-roza-ya-600-euros-gracias-cupon-1011765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592599.jpg' alt='El nuevo Samsung Galaxy S21 FE, a precio de derribo en Amazon: roza ya los 600 euros gracias a un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-rodara-serie-documental-mayor-robo-bitcoin-1011833'>Netflix rodará una serie documental sobre el mayor robo de bitcoin de la historia y sus llamativos ladrones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-rodara-serie-documental-mayor-robo-bitcoin-1011833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/robo-bitcoin-2615355.jpg' alt='Netflix rodará una serie documental sobre el mayor robo de bitcoin de la historia y sus llamativos ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-turismo-ultima-hazana-ia-ya-conduce-mejor-mejores-pilotos-mundo-juego-1011829'>Gran Turismo es la última hazaña de la IA, ya conduce mejor que los mejores pilotos del mundo en el juego</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-turismo-ultima-hazana-ia-ya-conduce-mejor-mejores-pilotos-mundo-juego-1011829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gran-turismo-7-paraiso-coleccionismo-410-coches-todas-epocas-2611951.jpg' alt='Gran Turismo es la última hazaña de la IA, ya conduce mejor que los mejores pilotos del mundo en el juego' />
     </a>
 </div>
 
