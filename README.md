@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097'>Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-neo-2256533.jpg' alt='Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093'>La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/espia-gris-2616091.jpg' alt='La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077'>Trucos muy raros para dormir pero que sorprendentemente funcionan</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-muy-raros-dormir-pero-sorprendentemente-funcionan-1012077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/experimento-revela-nos-cuesta-dormir-fuera-casa-2607413.jpg' alt='Trucos muy raros para dormir pero que sorprendentemente funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859'>Las medidas de llantas que puedes poner, y las que no</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/medidas-llantas-puedes-poner-no-1011859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llantas-coche-2616067.jpg' alt='Las medidas de llantas que puedes poner, y las que no' />
     </a>
 </div>
 
