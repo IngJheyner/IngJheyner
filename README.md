@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mg-celebrara-centenario-2024-nuevo-deportivo-electrico-1012539'>MG celebrará su centenario en 2024 con un nuevo deportivo eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mg-celebrara-centenario-2024-nuevo-deportivo-electrico-1012539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mg-cyberster-concept-2295657.jpg' alt='MG celebrará su centenario en 2024 con un nuevo deportivo eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705'>Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pendrive_0.jpg' alt='Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727'>La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio</a></h4>
     <a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405'>Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-qled-55a7gq-2616483.jpg' alt='Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€' />
     </a>
 </div>
 
