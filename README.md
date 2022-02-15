@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315'>Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deberias-introducir-bola-papel-aluminio-lavavajillas-cada-lavado-2616317.jpg' alt='Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105'>Subsoccer, el fútbol para jugar sentados que se inventó en España</a></h4>
     <a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/subsoccer-futbol-jugar-sentados-invento-espana-2616111.jpg' alt='Subsoccer, el fútbol para jugar sentados que se inventó en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093'>La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/espia-gris-2616091.jpg' alt='La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863'>Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados' />
     </a>
 </div>
 
