@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769'>Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727'>La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio</a></h4>
     <a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483'>El genial truco de Bill Gates para conseguir memorizar todo lo que lee</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='El genial truco de Bill Gates para conseguir memorizar todo lo que lee' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529'>El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles' />
     </a>
 </div>
 
