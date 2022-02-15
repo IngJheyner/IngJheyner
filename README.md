@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905'>Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apps-android-llegan-hoy-todos-usuarios-windows-11-puedes-descargarlas-2617401.jpg' alt='Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899'>Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bombilla-inteligente-xiaomi-2472531.jpg' alt='Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889'>WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/whatsapp-2364249.jpg' alt='WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885'>Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-conduciendo-2617371.jpg' alt='Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas' />
     </a>
 </div>
 
