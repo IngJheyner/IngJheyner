@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495'>Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/universo-shin-japan-heories-2616661.jpg' alt='Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/expertos-recomiendan-utilizar-siempre-tarjeta-credito-lugar-debito-1012465'>Por qué los expertos recomiendan utilizar siempre la tarjeta de crédito en lugar de la de débito</a></h4>
+    <a href='https://computerhoy.com/noticias/life/expertos-recomiendan-utilizar-siempre-tarjeta-credito-lugar-debito-1012465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Por qué los expertos recomiendan utilizar siempre la tarjeta de crédito en lugar de la de débito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393'>Cómo descargar música de YouTube y canciones gratis sin programas</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-youtube-2616491.jpg' alt='Cómo descargar música de YouTube y canciones gratis sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-windows-cuesta-solo-99-euros-buscas-ordenador-barato-nadie-da-1011855'>Este Mini PC tiene Windows y cuesta solo 99 euros: si buscas un ordenador barato, nadie da más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-windows-cuesta-solo-99-euros-buscas-ordenador-barato-nadie-da-1011855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wintel-pro-mini-pc-2615445.jpg' alt='Este Mini PC tiene Windows y cuesta solo 99 euros: si buscas un ordenador barato, nadie da más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457'>¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apagon-2616543.jpg' alt='¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ofrece-como-opcion-doblar-almacenamiento-interno-moviles-servicios-tecnicos-instalando-nuevos-chips-memoria-1012409'>Huawei ofrece doblar el almacenamiento de sus móviles en sus servicios técnicos instalando nuevos chips internos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ofrece-como-opcion-doblar-almacenamiento-interno-moviles-servicios-tecnicos-instalando-nuevos-chips-memoria-1012409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607917.jpg' alt='Huawei ofrece doblar el almacenamiento de sus móviles en sus servicios técnicos instalando nuevos chips internos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443'>La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/catcoin-2616587.jpg' alt='La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ni-triangulos-ni-luz-v16-obligatorios-hacer-averia-carretera-moto-dgt-1012449'>Ni triángulos ni luz V16 obligatorios: qué hacer tras una avería en carretera en moto según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/ni-triangulos-ni-luz-v16-obligatorios-hacer-averia-carretera-moto-dgt-1012449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Ni triángulos ni luz V16 obligatorios: qué hacer tras una avería en carretera en moto según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379'>Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías</a></h4>
-    <a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/mui_tabla_de_madera_inteligente.jpg' alt='Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías' />
     </a>
 </div>
 
