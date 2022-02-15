@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665'>Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483'>El genial truco de Bill Gates para conseguir memorizar todo lo que lee</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='El genial truco de Bill Gates para conseguir memorizar todo lo que lee' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529'>El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/worldle-l-version-geografica-popular-wordle-te-muestra-forma-pais-1012587'>Worldle (con L), la versión geográfica del popular Wordle que te muestra la forma del país</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/worldle-l-version-geografica-popular-wordle-te-muestra-forma-pais-1012587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mapa-mundi-2616779.jpg' alt='Worldle (con L), la versión geográfica del popular Wordle que te muestra la forma del país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495'>Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/universo-shin-japan-heories-2616661.jpg' alt='Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/expertos-recomiendan-utilizar-siempre-tarjeta-credito-lugar-debito-1012465'>Por qué los expertos recomiendan utilizar siempre la tarjeta de crédito en lugar de la de débito</a></h4>
-    <a href='https://computerhoy.com/noticias/life/expertos-recomiendan-utilizar-siempre-tarjeta-credito-lugar-debito-1012465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Por qué los expertos recomiendan utilizar siempre la tarjeta de crédito en lugar de la de débito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393'>Cómo descargar música de YouTube y canciones gratis sin programas</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/software/como-descargar-musica-youtube-programas-41393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-youtube-2616491.jpg' alt='Cómo descargar música de YouTube y canciones gratis sin programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-windows-cuesta-solo-99-euros-buscas-ordenador-barato-nadie-da-1011855'>Este Mini PC tiene Windows y cuesta solo 99 euros: si buscas un ordenador barato, nadie da más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-windows-cuesta-solo-99-euros-buscas-ordenador-barato-nadie-da-1011855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wintel-pro-mini-pc-2615445.jpg' alt='Este Mini PC tiene Windows y cuesta solo 99 euros: si buscas un ordenador barato, nadie da más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457'>¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apagon-2616543.jpg' alt='¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería ' />
     </a>
 </div>
 
