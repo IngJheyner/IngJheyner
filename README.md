@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457'>¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/miedo-gran-apagon-nueva-miniserie-hbo-max-1012457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apagon-2616543.jpg' alt='¿Tienes miedo al gran apagón? La nueva miniserie de HBO Max te cuenta cómo sería ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ofrece-como-opcion-doblar-almacenamiento-interno-moviles-servicios-tecnicos-instalando-nuevos-chips-memoria-1012409'>Huawei ofrece doblar el almacenamiento de sus móviles en sus servicios técnicos instalando nuevos chips internos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ofrece-como-opcion-doblar-almacenamiento-interno-moviles-servicios-tecnicos-instalando-nuevos-chips-memoria-1012409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607917.jpg' alt='Huawei ofrece doblar el almacenamiento de sus móviles en sus servicios técnicos instalando nuevos chips internos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443'>La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/catcoin-2616587.jpg' alt='La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379'>Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías</a></h4>
     <a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/mui_tabla_de_madera_inteligente.jpg' alt='Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lofi-generador-aleatorio-musica-libre-gratuita-1012397'>Lofi es un generador aleatorio de música libre y gratuita perfecta para tus vídeos online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lofi-generador-aleatorio-musica-libre-gratuita-1012397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-escuchando-musica-ordenador-2616425.jpg' alt='Lofi es un generador aleatorio de música libre y gratuita perfecta para tus vídeos online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wifi-cortes-todos-rincones-casa-pack-routers-wifi-mesh-41-euros-1011785'>WiFi sin cortes en TODOS los rincones de tu casa con este pack de routers WiFi Mesh ¡por 41 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wifi-cortes-todos-rincones-casa-pack-routers-wifi-mesh-41-euros-1011785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/tenda-nova-mw3-mesh-2091817.jpg' alt='WiFi sin cortes en TODOS los rincones de tu casa con este pack de routers WiFi Mesh ¡por 41 euros!' />
     </a>
 </div>
 
