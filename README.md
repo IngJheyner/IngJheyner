@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727'>La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405'>Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-qled-55a7gq-2616483.jpg' alt='Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665'>Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529'>El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles</a></h4>
     <a href='https://computerhoy.com/noticias/pixel-plegable-llegara-mercado-otono-marcara-linea-seguir-cada-vez-popular-formato-moviles-1012529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El Pixel plegable llegará al mercado en otoño y marcará la línea a seguir de este, cada vez más popular, formato de móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/worldle-l-version-geografica-popular-wordle-te-muestra-forma-pais-1012587'>Worldle (con L), la versión geográfica del popular Wordle que te muestra la forma del país</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/worldle-l-version-geografica-popular-wordle-te-muestra-forma-pais-1012587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mapa-mundi-2616779.jpg' alt='Worldle (con L), la versión geográfica del popular Wordle que te muestra la forma del país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495'>Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-universo-estilo-marvel-reunira-figuras-miticas-como-godzilla-evangelion-ultraman-kamen-rider-1012495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/universo-shin-japan-heories-2616661.jpg' alt='Un nuevo universo al estilo Marvel reunirá figuras míticas como Godzilla, Evangelion, Ultraman y Kamen Rider' />
     </a>
 </div>
 
