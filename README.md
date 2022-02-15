@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705'>Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pendrive_0.jpg' alt='Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/sony-linkbuds-son-curiosos-auriculares-forma-anillo-acaba-presentar-sony-1012851'>Sony LinkBuds: así son los curiosos auriculares con forma de anillo que acaba de presentar Sony</a></h4>
+    <a href='https://computerhoy.com/noticias/sony-linkbuds-son-curiosos-auriculares-forma-anillo-acaba-presentar-sony-1012851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-2617347.jpg' alt='Sony LinkBuds: así son los curiosos auriculares con forma de anillo que acaba de presentar Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769'>Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405'>Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-hisense-qled-55-pulgadas-oferta-452-euros-1012405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-qled-55a7gq-2616483.jpg' alt='Si quieres una Smart TV con panel QLED pero más barata que las de Samsung, esta Hisense de 55" solo cuesta 452€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665'>Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-podras-utilizar-apps-movil-windows-chromebooks-haciendo-mirroring-mismas-1012665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Con Android 13 podrás utilizar las apps de tu móvil en Windows y Chromebooks haciendo un mirroring de las mismas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483'>El genial truco de Bill Gates para conseguir memorizar todo lo que lee</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-bill-gates-conseguir-memorizar-todo-lee-1012483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='El genial truco de Bill Gates para conseguir memorizar todo lo que lee' />
     </a>
 </div>
 
