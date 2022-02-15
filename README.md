@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2616319.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/maquinas-ruido-blanco-que-son-mejores-modelos-1012013'>Máquinas de ruido blanco: qué son, cómo pueden ayudarte a dormir y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/maquinas-ruido-blanco-que-son-mejores-modelos-1012013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-durmiendo-cama-2615993.jpg' alt='Máquinas de ruido blanco: qué son, cómo pueden ayudarte a dormir y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315'>Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deberias-introducir-bola-papel-aluminio-lavavajillas-cada-lavado-2616317.jpg' alt='Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101'>El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-lenovo-legion-y90-bestia-18-gb-ram-1-tb-almacenamiento-2616105.jpg' alt='El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097'>Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-neo-smartwatch-retro-rebajas-1012097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-neo-2256533.jpg' alt='Amazfit Neo, el smartwatch más retro, baja a solo 23,90 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093'>La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/el-espia-gris-pelicula-mas-cara-netflix-1012093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/espia-gris-2616091.jpg' alt='La película más cara de la historia de Netflix llegará este año y ya tiene título y reparto' />
     </a>
 </div>
 
