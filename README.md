@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105'>Subsoccer, el fútbol para jugar sentados que se inventó en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/subsoccer-futbol-jugar-sentados-invento-espana-2616111.jpg' alt='Subsoccer, el fútbol para jugar sentados que se inventó en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101'>El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-lenovo-legion-y90-bestia-18-gb-ram-1-tb-almacenamiento-2616105.jpg' alt='El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863'>Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/algunos-mejores-momentos-spider-man-no-way-home-fueron-improvisados-1011863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spider-man-no-way-home-2503121.jpg' alt='Algunos de los mejores momentos de Spider-Man: No Way Home fueron improvisados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067'>Xiaomi lanza un increíble mini PC que solo pesa 250 gramos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-mini-pc-solo-pesa-250-gramos-1012067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-ningmei-mini-pc-cr80-2616025.jpg' alt='Xiaomi lanza un increíble mini PC que solo pesa 250 gramos' />
     </a>
 </div>
 
