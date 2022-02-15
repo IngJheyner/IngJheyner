@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899'>Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bombilla-inteligente-xiaomi-2472531.jpg' alt='Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/detienen-hombre-83-anos-llevaban-70-anos-conduciendo-sin-carnet-seguro-1012895'>Detienen a un hombre de 83 años que llevaban 70 años conduciendo sin carnet, sin seguro, y sin pasar la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/detienen-hombre-83-anos-llevaban-70-anos-conduciendo-sin-carnet-seguro-1012895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/70-anos-carnet-2600857.jpg' alt='Detienen a un hombre de 83 años que llevaban 70 años conduciendo sin carnet, sin seguro, y sin pasar la ITV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885'>Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-conduciendo-2617371.jpg' alt='Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-pelicula-bioshock-1012883'>Netflix anuncia una película de uno de los videojuegos más queridos, y los fans se echan a temblar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-pelicula-bioshock-1012883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/netflix-anuncia-pelicula-videojuegos-queridos-fans-echan-temblar-2617369.jpg' alt='Netflix anuncia una película de uno de los videojuegos más queridos, y los fans se echan a temblar' />
     </a>
 </div>
 
