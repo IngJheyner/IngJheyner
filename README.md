@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mg-celebrara-centenario-2024-nuevo-deportivo-electrico-1012539'>MG celebrará su centenario en 2024 con un nuevo deportivo eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mg-celebrara-centenario-2024-nuevo-deportivo-electrico-1012539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mg-cyberster-concept-2295657.jpg' alt='MG celebrará su centenario en 2024 con un nuevo deportivo eléctrico' />
+    <h4><a href='https://computerhoy.com/noticias/motor/detienen-hombre-83-anos-llevaban-70-anos-conduciendo-sin-carnet-seguro-1012895'>Detienen a un hombre de 83 años que llevaban 70 años conduciendo sin carnet, sin seguro, y sin pasar la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/detienen-hombre-83-anos-llevaban-70-anos-conduciendo-sin-carnet-seguro-1012895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/70-anos-carnet-2600857.jpg' alt='Detienen a un hombre de 83 años que llevaban 70 años conduciendo sin carnet, sin seguro, y sin pasar la ITV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705'>Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-error-unidad-protegida-escritura-pendrive-windows-973705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pendrive_0.jpg' alt='Cómo arreglar el error de "La unidad está protegida contra escritura" en un pendrive en Windows' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-estara-llena-humor-directora-1012545'>La serie de She-Hulk estará llena de humor, según su directora</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-estara-llena-humor-directora-1012545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/she-hulk-tatiana-maslany-2531391.jpg' alt='La serie de She-Hulk estará llena de humor, según su directora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/sony-linkbuds-son-curiosos-auriculares-forma-anillo-acaba-presentar-sony-1012851'>Sony LinkBuds: así son los curiosos auriculares con forma de anillo que acaba de presentar Sony</a></h4>
-    <a href='https://computerhoy.com/noticias/sony-linkbuds-son-curiosos-auriculares-forma-anillo-acaba-presentar-sony-1012851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-2617347.jpg' alt='Sony LinkBuds: así son los curiosos auriculares con forma de anillo que acaba de presentar Sony' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889'>WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/whatsapp-2364249.jpg' alt='WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769'>Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ventana-coches-combustion-crean-gasolina-co2-ambiente-manera-mil-veces-eficiente-1012769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Una ventana para los coches de combustión: crean gasolina desde CO2 ambiente de manera mil veces más eficiente' />
+    <h4><a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885'>Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/7-mandamientos-nueva-ley-trafico-dgt-debes-aprender-evitar-multas-1012885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-conduciendo-2617371.jpg' alt='Los 7 mandamientos de la nueva Ley de Tráfico de la DGT que debes aprender para evitar multas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727'>La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reinvencion-navaja-suiza-multiusos-kickstarter-modulos-magneticos-personalizable-titanio-1012727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La reinvención de la navaja suiza multiusos en Kickstarter: módulos magnéticos, personalizable y de titanio' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-pelicula-bioshock-1012883'>Netflix anuncia una película de uno de los videojuegos más queridos, y los fans se echan a temblar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-pelicula-bioshock-1012883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/netflix-anuncia-pelicula-videojuegos-queridos-fans-echan-temblar-2617369.jpg' alt='Netflix anuncia una película de uno de los videojuegos más queridos, y los fans se echan a temblar' />
     </a>
 </div>
 
