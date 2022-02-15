@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559'>El código maldito de la DGT que debes evitar a toda costa en tu carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='El código maldito de la DGT que debes evitar a toda costa en tu carnet de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-nuevos-mac-apple-presentara-marzo-1012375'>Los tres nuevos Mac que Apple presentará en marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tres-nuevos-mac-apple-presentara-marzo-1012375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-apple-macbook-air-2589009.jpg' alt='Los tres nuevos Mac que Apple presentará en marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-poco-f4-gt-miui-13-bateria-4560-mah-audio-hi-fi-1012359'>Así es el nuevo POCO F4 GT: MIUI 13, batería de 4.560 mAh y audio Hi-Fi</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-poco-f4-gt-miui-13-bateria-4560-mah-audio-hi-fi-1012359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-f4-gt-2616373.jpg' alt='Así es el nuevo POCO F4 GT: MIUI 13, batería de 4.560 mAh y audio Hi-Fi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341'>Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/emoji-url-2616351.jpg' alt='Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841'>Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-d-15-2615937.jpg' alt='Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-cambiar-me-gusta-organices-chats-1012323'>Instagram va a cambiar los Me gusta en las Stories para que organices mejor los chats</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-cambiar-me-gusta-organices-chats-1012323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ocultar-likes-instagram-2413881.jpg' alt='Instagram va a cambiar los Me gusta en las Stories para que organices mejor los chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-evitara-jovenes-consuman-contenidos-potencialmente-inapropiados-1011871'>TikTok evitará que los más jóvenes consuman contenidos potencialmente inapropiados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-evitara-jovenes-consuman-contenidos-potencialmente-inapropiados-1011871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tiktok-cambia-normas-proteger-menores-edad-2437589.jpg' alt='TikTok evitará que los más jóvenes consuman contenidos potencialmente inapropiados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869'>Por qué está subiendo tanto el precio de la gasolina: los 3 motivos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-gasolineras-donde-gasolina-cuesta-menos-euro-1895573.jpg' alt='Por qué está subiendo tanto el precio de la gasolina: los 3 motivos' />
     </a>
 </div>
 
