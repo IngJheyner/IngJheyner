@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341'>Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/emoji-url-2616351.jpg' alt='Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841'>Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-d-15-2615937.jpg' alt='Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869'>Por qué está subiendo tanto el precio de la gasolina: los 3 motivos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-gasolineras-donde-gasolina-cuesta-menos-euro-1895573.jpg' alt='Por qué está subiendo tanto el precio de la gasolina: los 3 motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2616319.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
