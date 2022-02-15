@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841'>Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-d-15-2615937.jpg' alt='Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-cambiar-me-gusta-organices-chats-1012323'>Instagram va a cambiar los Me gusta en las Stories para que organices mejor los chats</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-cambiar-me-gusta-organices-chats-1012323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ocultar-likes-instagram-2413881.jpg' alt='Instagram va a cambiar los Me gusta en las Stories para que organices mejor los chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-evitara-jovenes-consuman-contenidos-potencialmente-inapropiados-1011871'>TikTok evitará que los más jóvenes consuman contenidos potencialmente inapropiados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-evitara-jovenes-consuman-contenidos-potencialmente-inapropiados-1011871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tiktok-cambia-normas-proteger-menores-edad-2437589.jpg' alt='TikTok evitará que los más jóvenes consuman contenidos potencialmente inapropiados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869'>Por qué está subiendo tanto el precio de la gasolina: los 3 motivos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/subiendo-tanto-precio-gasolina-3-motivos-1011869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-gasolineras-donde-gasolina-cuesta-menos-euro-1895573.jpg' alt='Por qué está subiendo tanto el precio de la gasolina: los 3 motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1012317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2616319.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/maquinas-ruido-blanco-que-son-mejores-modelos-1012013'>Máquinas de ruido blanco: qué son, cómo pueden ayudarte a dormir y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/maquinas-ruido-blanco-que-son-mejores-modelos-1012013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-durmiendo-cama-2615993.jpg' alt='Máquinas de ruido blanco: qué son, cómo pueden ayudarte a dormir y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315'>Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-bola-papel-aluminio-lavavajillas-1012315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deberias-introducir-bola-papel-aluminio-lavavajillas-cada-lavado-2616317.jpg' alt='Por qué deberías introducir una bola de papel de aluminio en el lavavajillas en cada lavado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105'>Subsoccer, el fútbol para jugar sentados que se inventó en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/subsoccer-futbol-jugar-sentados-1012105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/subsoccer-futbol-jugar-sentados-invento-espana-2616111.jpg' alt='Subsoccer, el fútbol para jugar sentados que se inventó en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101'>El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-y90-movil-gaming-18-gb-ram-1-tb-almacenamiento-1012101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-lenovo-legion-y90-bestia-18-gb-ram-1-tb-almacenamiento-2616105.jpg' alt='El móvil Lenovo Legion Y90, una "bestia" con 18 GB de RAM y 1 TB de almacenamiento' />
     </a>
 </div>
 
