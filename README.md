@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559'>El código maldito de la DGT que debes evitar a toda costa en tu carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/1065-numero-maldito-dgt-nadie-desea-tener-carnet-conducir-996559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='El código maldito de la DGT que debes evitar a toda costa en tu carnet de conducir' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443'>La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rivalidad-perros-gatos-llega-criptomonedas-catcoin-vs-shiba-inu-dogecoin-1012443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/catcoin-2616587.jpg' alt='La rivalidad entre perros y gatos llega a las criptomonedas: Catcoin vs. Shiba Inu y Dogecoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-nuevos-mac-apple-presentara-marzo-1012375'>Los tres nuevos Mac que Apple presentará en marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tres-nuevos-mac-apple-presentara-marzo-1012375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portatil-apple-macbook-air-2589009.jpg' alt='Los tres nuevos Mac que Apple presentará en marzo' />
+    <h4><a href='https://computerhoy.com/noticias/ni-triangulos-ni-luz-v16-obligatorios-hacer-averia-carretera-moto-dgt-1012449'>Ni triángulos ni luz V16 obligatorios: qué hacer tras una avería en carretera en moto según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/ni-triangulos-ni-luz-v16-obligatorios-hacer-averia-carretera-moto-dgt-1012449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/motorista-hora-punta-2517547.jpg' alt='Ni triángulos ni luz V16 obligatorios: qué hacer tras una avería en carretera en moto según la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-poco-f4-gt-miui-13-bateria-4560-mah-audio-hi-fi-1012359'>Así es el nuevo POCO F4 GT: MIUI 13, batería de 4.560 mAh y audio Hi-Fi</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-poco-f4-gt-miui-13-bateria-4560-mah-audio-hi-fi-1012359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-f4-gt-2616373.jpg' alt='Así es el nuevo POCO F4 GT: MIUI 13, batería de 4.560 mAh y audio Hi-Fi' />
+    <h4><a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379'>Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías</a></h4>
+    <a href='https://computerhoy.com/noticias/madera-convierte-casa-hogar-inteligente-no-necesita-ni-corriente-electrica-ni-baterias-1012379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/mui_tabla_de_madera_inteligente.jpg' alt='Esta madera convierte nuestra casa en un hogar inteligente y no necesita ni corriente eléctrica ni baterías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341'>Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/url-emojis-opera-escribir-ninguna-letra-1012341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/emoji-url-2616351.jpg' alt='Las URL con emojis llegan a Opera: no hará falta escribir ninguna letra' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lofi-generador-aleatorio-musica-libre-gratuita-1012397'>Lofi es un generador aleatorio de música libre y gratuita perfecta para tus vídeos online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lofi-generador-aleatorio-musica-libre-gratuita-1012397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-escuchando-musica-ordenador-2616425.jpg' alt='Lofi es un generador aleatorio de música libre y gratuita perfecta para tus vídeos online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841'>Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-huawei-matebook-d15-2022-1011841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-d-15-2615937.jpg' alt='Por qué el nuevo Huawei Matebook D15 puede ser el portátil redondo con Windows 11 ¡y por 699€!' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wifi-cortes-todos-rincones-casa-pack-routers-wifi-mesh-41-euros-1011785'>WiFi sin cortes en TODOS los rincones de tu casa con este pack de routers WiFi Mesh ¡por 41 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wifi-cortes-todos-rincones-casa-pack-routers-wifi-mesh-41-euros-1011785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/tenda-nova-mw3-mesh-2091817.jpg' alt='WiFi sin cortes en TODOS los rincones de tu casa con este pack de routers WiFi Mesh ¡por 41 euros!' />
     </a>
 </div>
 
