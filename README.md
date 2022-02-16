@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575'>Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-estrena-nueva-freidora-aceite-35-litros-capacidad-solo-89eu-2618687.jpg' alt='Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337'>Robert Pattinson despierta la curiosidad sobre la introducción de The Batman</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2596985.jpg' alt='Robert Pattinson despierta la curiosidad sobre la introducción de The Batman' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557'>Grandes noticias si tienes un Chromecast y eres usuario de iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Grandes noticias si tienes un Chromecast y eres usuario de iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331'>Sale a subasta el primer Toyota-Shelby 2000 GT de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toyota-shelby-2000-gt-1967-2610391.jpg' alt='Sale a subasta el primer Toyota-Shelby 2000 GT de la historia' />
     </a>
 </div>
 
