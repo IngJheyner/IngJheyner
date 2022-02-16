@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205'>Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aws-2617683.jpg' alt='Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-os-flex-sistema-operativo-pc-mac-antiguo-1013245'>Google ha lanzado Chrome OS Flex, un sistema operativo para revivir tu PC o Mac antiguo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-os-flex-sistema-operativo-pc-mac-antiguo-1013245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-acer-chromebook-spin-513-2462491.jpg' alt='Google ha lanzado Chrome OS Flex, un sistema operativo para revivir tu PC o Mac antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/productos-rebajas-xiaomi-precio-ganga-1012775'>37 productos de las rebajas de Xiaomi que están ahora a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/productos-rebajas-xiaomi-precio-ganga-1012775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='37 productos de las rebajas de Xiaomi que están ahora a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187'>Tomar café reduce el colesterol malo y la tasa de mortalidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tazas-cafe-2617673.jpg' alt='Tomar café reduce el colesterol malo y la tasa de mortalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159'>El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nothing-ear-1-2420223.jpg' alt='El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenado-segunda-temporada-serie-videojuego-halo-1013145'>Todavía no se ha estrenado y ya han anunciado la segunda temporada de esta esperada serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenado-segunda-temporada-serie-videojuego-halo-1013145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Todavía no se ha estrenado y ya han anunciado la segunda temporada de esta esperada serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701'>Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg' alt='Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022' />
     </a>
 </div>
 
