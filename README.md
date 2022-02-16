@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2617603.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651'>Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597035.jpg' alt='Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143'>Las mejores apps para Android Auto de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg' alt='Las mejores apps para Android Auto de 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915'>SpeeChin, el dispositivo para dar órdenes de voz en silencio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/speechin-dispositivo-dar-ordenes-voz-silencio-2617411.jpg' alt='SpeeChin, el dispositivo para dar órdenes de voz en silencio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905'>Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apps-android-llegan-hoy-todos-usuarios-windows-11-puedes-descargarlas-2617401.jpg' alt='Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899'>Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-led-xiaomi-oferta-1012899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bombilla-inteligente-xiaomi-2472531.jpg' alt='Atentos a este chollo de Xiaomi: su bombilla inteligente blanca por menos de 8 euros' />
     </a>
 </div>
 
