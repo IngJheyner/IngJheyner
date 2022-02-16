@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571'>Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ocurre-motor-cuando-conduces-bajas-revoluciones-1012565'>Qué le ocurre al motor cuando conduces a bajas revoluciones</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ocurre-motor-cuando-conduces-bajas-revoluciones-1012565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/perjudicas-motor-conduces-bajas-revoluciones-1982465.jpg' alt='Qué le ocurre al motor cuando conduces a bajas revoluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2617603.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143'>Las mejores apps para Android Auto de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg' alt='Las mejores apps para Android Auto de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calambres-nocturnos-sindrome-piernas-inquietas-remedio-1012921'>Si duermes mal por las noches por culpa de las piernas, necesitas... una pastilla de jabón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calambres-nocturnos-sindrome-piernas-inquietas-remedio-1012921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/duermes-mal-noches-necesitas-pastilla-jabon-2617425.jpg' alt='Si duermes mal por las noches por culpa de las piernas, necesitas... una pastilla de jabón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915'>SpeeChin, el dispositivo para dar órdenes de voz en silencio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/speechin-dispositivo-dar-ordenes-voz-silencio-2617411.jpg' alt='SpeeChin, el dispositivo para dar órdenes de voz en silencio' />
     </a>
 </div>
 
