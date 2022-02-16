@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579'>Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nintendo-3ds-2069383.jpg' alt='Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575'>Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-estrena-nueva-freidora-aceite-35-litros-capacidad-solo-89eu-2618687.jpg' alt='Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563'>Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-6-series-superheroes-marvel-desaparecen-netflix-febrero-2618681.jpg' alt='Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557'>Grandes noticias si tienes un Chromecast y eres usuario de iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Grandes noticias si tienes un Chromecast y eres usuario de iPhone' />
     </a>
 </div>
 
