@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stop-alergias-purificador-xiaomi-rebajado-solo-89eu-perfecto-respirar-tranquilo-casa-1012389'>Stop alergias: este purificador Xiaomi está rebajado a solo 89€ y es perfecto para respirar tranquilo en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stop-alergias-purificador-xiaomi-rebajado-solo-89eu-perfecto-respirar-tranquilo-casa-1012389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-air-purifier-3c-2270867.jpg' alt='Stop alergias: este purificador Xiaomi está rebajado a solo 89€ y es perfecto para respirar tranquilo en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293'>Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/virgin-galactic-2617871.jpg' alt='Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mecanico-habitual-lista-talleres-fiables-dgt-1013261'>Cómo saber si tu mecánico habitual está en la lista de talleres fiables para la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-saber-mecanico-habitual-lista-talleres-fiables-dgt-1013261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Cómo saber si tu mecánico habitual está en la lista de talleres fiables para la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205'>Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aws-2617683.jpg' alt='Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-os-flex-sistema-operativo-pc-mac-antiguo-1013245'>Google ha lanzado Chrome OS Flex, un sistema operativo para revivir tu PC o Mac antiguo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-os-flex-sistema-operativo-pc-mac-antiguo-1013245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-acer-chromebook-spin-513-2462491.jpg' alt='Google ha lanzado Chrome OS Flex, un sistema operativo para revivir tu PC o Mac antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/productos-rebajas-xiaomi-precio-ganga-1012775'>37 productos de las rebajas de Xiaomi que están ahora a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/productos-rebajas-xiaomi-precio-ganga-1012775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='37 productos de las rebajas de Xiaomi que están ahora a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187'>Tomar café reduce el colesterol malo y la tasa de mortalidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tazas-cafe-2617673.jpg' alt='Tomar café reduce el colesterol malo y la tasa de mortalidad' />
     </a>
 </div>
 
