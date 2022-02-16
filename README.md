@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557'>Grandes noticias si tienes un Chromecast y eres usuario de iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Grandes noticias si tienes un Chromecast y eres usuario de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331'>Sale a subasta el primer Toyota-Shelby 2000 GT de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toyota-shelby-2000-gt-1967-2610391.jpg' alt='Sale a subasta el primer Toyota-Shelby 2000 GT de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611'>realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-stick-4k-vs-google-chromecast-2020-2609901.jpg' alt='realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-89-euros-1013237'>Si quieres montar una Smart Home con HomeKit, este es el primer producto que debes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-89-euros-1013237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/homepod-mini-iphone-2266099.jpg' alt='Si quieres montar una Smart Home con HomeKit, este es el primer producto que debes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-9-pro-review-opinion-1013373'>realme 9 Pro+, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-9-pro-review-opinion-1013373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg' alt='realme 9 Pro+, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409'>Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk' />
     </a>
 </div>
 
