@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611'>realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-stick-4k-vs-google-chromecast-2020-2609901.jpg' alt='realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/echo-buds-2a-generacion-son-intento-amazon-hacerse-hueco-mercado-auriculares-1013465'>Los Echo Buds de 2ª generación son el verdadero intento de Amazon de hacerse un hueco en el mercado de los auriculares</a></h4>
     <a href='https://computerhoy.com/noticias/echo-buds-2a-generacion-son-intento-amazon-hacerse-hueco-mercado-auriculares-1013465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/echo-buds-2-2618521.jpg' alt='Los Echo Buds de 2ª generación son el verdadero intento de Amazon de hacerse un hueco en el mercado de los auriculares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409'>Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presentara-honor-magic-4-28-febrero-mobile-world-congress-2022-1013439'>Honor presentará el Honor Magic 4 el 28 de febrero en Mobile World Congress 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-presentara-honor-magic-4-28-febrero-mobile-world-congress-2022-1013439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-2618445.jpg' alt='Honor presentará el Honor Magic 4 el 28 de febrero en Mobile World Congress 2022' />
     </a>
 </div>
 
