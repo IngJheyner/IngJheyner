@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-realme-presentara-familia-realme-gt2-durante-mwc-barcelona-1013405'>Es oficial: realme presentará la familia realme GT2 durante el MWC de Barcelona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oficial-realme-presentara-familia-realme-gt2-durante-mwc-barcelona-1013405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt2-pro-2577575.jpg' alt='Es oficial: realme presentará la familia realme GT2 durante el MWC de Barcelona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577'>Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio</a></h4>
     <a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/autorradio-bluetooth-norauto-2616757.jpg' alt='Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345'>El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/google-pay.jpg' alt='El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297'>Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2617943.jpg' alt='Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo' />
     </a>
 </div>
 
