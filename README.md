@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-9-pro-review-opinion-1013373'>realme 9 Pro+, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-9-pro-review-opinion-1013373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg' alt='realme 9 Pro+, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409'>Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/europa-lanzara-sistema-conexion-internet-satelite-hacer-sombra-starlink-elon-musk-1013409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Europa lanzará un sistema de conexión a Internet por satélite para hacer sombra a Starlink de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presentara-honor-magic-4-28-febrero-mobile-world-congress-2022-1013439'>Honor presentará el Honor Magic 4 el 28 de febrero en Mobile World Congress 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-presentara-honor-magic-4-28-febrero-mobile-world-congress-2022-1013439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-2618445.jpg' alt='Honor presentará el Honor Magic 4 el 28 de febrero en Mobile World Congress 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-realme-presentara-familia-realme-gt2-durante-mwc-barcelona-1013405'>Es oficial: realme presentará la familia realme GT2 durante el MWC de Barcelona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficial-realme-presentara-familia-realme-gt2-durante-mwc-barcelona-1013405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt2-pro-2577575.jpg' alt='Es oficial: realme presentará la familia realme GT2 durante el MWC de Barcelona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577'>Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio</a></h4>
     <a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/autorradio-bluetooth-norauto-2616757.jpg' alt='Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-manera-quitar-pegatinas-portatil-cualquier-dispositivo-1013389'>La mejor manera de quitar pegatinas de tu portátil o cualquier dispositivo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-manera-quitar-pegatinas-portatil-cualquier-dispositivo-1013389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ordenador-pegatinas-2618075.jpg' alt='La mejor manera de quitar pegatinas de tu portátil o cualquier dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/llegan-realme-9-pro-android-12-camaras-prometen-estar-gama-alta-1013363'>Así son los realme 9 Pro con Android 12 y cámaras que prometen estar a la altura de la gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/llegan-realme-9-pro-android-12-camaras-prometen-estar-gama-alta-1013363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-2618031.jpg' alt='Así son los realme 9 Pro con Android 12 y cámaras que prometen estar a la altura de la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345'>El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/google-pay.jpg' alt='El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar' />
     </a>
 </div>
 
