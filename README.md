@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159'>El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nothing-ear-1-2420223.jpg' alt='El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenado-segunda-temporada-serie-videojuego-halo-1013145'>Todavía no se ha estrenado y ya han anunciado la segunda temporada de esta esperada serie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estrenado-segunda-temporada-serie-videojuego-halo-1013145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Todavía no se ha estrenado y ya han anunciado la segunda temporada de esta esperada serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701'>Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg' alt='Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-modo-seguro-desplegando-twitter-actives-1013139'>Cómo es el Modo seguro que está desplegando Twitter y que te afecta aunque no lo actives</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-modo-seguro-desplegando-twitter-actives-1013139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-quiere-eliminar-completo-odio-red-social-hacerlo-ha-creado-modo-seguro-2456967.jpg' alt='Cómo es el Modo seguro que está desplegando Twitter y que te afecta aunque no lo actives' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571'>Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ocurre-motor-cuando-conduces-bajas-revoluciones-1012565'>Qué le ocurre al motor cuando conduces a bajas revoluciones</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ocurre-motor-cuando-conduces-bajas-revoluciones-1012565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/perjudicas-motor-conduces-bajas-revoluciones-1982465.jpg' alt='Qué le ocurre al motor cuando conduces a bajas revoluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1013125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2617603.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651'>Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597035.jpg' alt='Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143'>Las mejores apps para Android Auto de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-android-auto-2022-1006143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg' alt='Las mejores apps para Android Auto de 2022' />
     </a>
 </div>
 
