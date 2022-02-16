@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577'>Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/viejo-coche-no-tiene-bluetooth-puedes-solucionarlo-solo-20-euros-autorradio-1012577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/autorradio-bluetooth-norauto-2616757.jpg' alt='Si tu viejo coche no tiene Bluetooth, puedes solucionarlo por solo 20 euros con esta autorradio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-manera-quitar-pegatinas-portatil-cualquier-dispositivo-1013389'>La mejor manera de quitar pegatinas de tu portátil o cualquier dispositivo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-manera-quitar-pegatinas-portatil-cualquier-dispositivo-1013389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ordenador-pegatinas-2618075.jpg' alt='La mejor manera de quitar pegatinas de tu portátil o cualquier dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/llegan-realme-9-pro-android-12-camaras-prometen-estar-gama-alta-1013363'>Así son los realme 9 Pro con Android 12 y cámaras que prometen estar a la altura de la gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/llegan-realme-9-pro-android-12-camaras-prometen-estar-gama-alta-1013363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-2618031.jpg' alt='Así son los realme 9 Pro con Android 12 y cámaras que prometen estar a la altura de la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345'>El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rediseno-google-pay-llega-todos-android-facilita-seleccion-tarjeta-nfc-usar-1013345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/google-pay.jpg' alt='El rediseño de Google Pay que llega a todos los Android y facilita la selección de tarjeta NFC a usar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297'>Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2617943.jpg' alt='Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/harina-grillo-productos-supermercado-1013319'>La harina de grillo y todos los productos que trae consigo y veremos en el supermercado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/harina-grillo-productos-supermercado-1013319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/harina-2617923.jpg' alt='La harina de grillo y todos los productos que trae consigo y veremos en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stop-alergias-purificador-xiaomi-rebajado-solo-89eu-perfecto-respirar-tranquilo-casa-1012389'>Stop alergias: este purificador Xiaomi está rebajado a solo 89€ y es perfecto para respirar tranquilo en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stop-alergias-purificador-xiaomi-rebajado-solo-89eu-perfecto-respirar-tranquilo-casa-1012389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-air-purifier-3c-2270867.jpg' alt='Stop alergias: este purificador Xiaomi está rebajado a solo 89€ y es perfecto para respirar tranquilo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293'>Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/virgin-galactic-2617871.jpg' alt='Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares' />
     </a>
 </div>
 
