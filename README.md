@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¡Aquí NO! El grave error que mucho cometen al usar Bizum y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187'>Tomar café reduce el colesterol malo y la tasa de mortalidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tomar-cafe-reduce-colesterol-malo-tasa-mortalidad-1013187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tazas-cafe-2617673.jpg' alt='Tomar café reduce el colesterol malo y la tasa de mortalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159'>El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ceo-nothing-podria-haber-filtrado-querer-proximo-gadget-compania-1013159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nothing-ear-1-2420223.jpg' alt='El CEO de Nothing podría haber filtrado sin querer el próximo gadget de la compañía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701'>Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg' alt='Mejores Mini PC con procesadores Ryzen que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-modo-seguro-desplegando-twitter-actives-1013139'>Cómo es el Modo seguro que está desplegando Twitter y que te afecta aunque no lo actives</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-modo-seguro-desplegando-twitter-actives-1013139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twitter-quiere-eliminar-completo-odio-red-social-hacerlo-ha-creado-modo-seguro-2456967.jpg' alt='Cómo es el Modo seguro que está desplegando Twitter y que te afecta aunque no lo actives' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571'>Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/red-social-datos-comparte-terceros-youtube-instagram-1012571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Esta es la red social que más datos tuyos comparte con terceros, más que YouTube o Instagram' />
     </a>
 </div>
 
