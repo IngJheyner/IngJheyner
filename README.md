@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915'>SpeeChin, el dispositivo para dar órdenes de voz en silencio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/speechin-dispositivo-dar-ordenes-voz-silencio-1012915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/speechin-dispositivo-dar-ordenes-voz-silencio-2617411.jpg' alt='SpeeChin, el dispositivo para dar órdenes de voz en silencio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905'>Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apps-android-windows-11-como-descargarlas-1012905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apps-android-llegan-hoy-todos-usuarios-windows-11-puedes-descargarlas-2617401.jpg' alt='Las apps de Android llegan hoy a todos los usuarios de Windows 11: así puedes descargarlas  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-estara-llena-humor-directora-1012545'>La serie de She-Hulk estará llena de humor, según su directora</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-estara-llena-humor-directora-1012545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/she-hulk-tatiana-maslany-2531391.jpg' alt='La serie de She-Hulk estará llena de humor, según su directora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889'>WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-claudica-antes-criticas-revertira-ultimas-supuestas-mejoras-1012889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/whatsapp-2364249.jpg' alt='WhatsApp claudica antes las críticas y revertirá una de sus últimas supuestas mejoras' />
     </a>
 </div>
 
