@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337'>Robert Pattinson despierta la curiosidad sobre la introducción de The Batman</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2596985.jpg' alt='Robert Pattinson despierta la curiosidad sobre la introducción de The Batman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-creciendo-sombra-bitcoin-recomendadas-expertos-1013565'>Criptomonedas que están creciendo a la sombra de Bitcoin recomendadas por los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-creciendo-sombra-bitcoin-recomendadas-expertos-1013565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altcoins-2618683.jpg' alt='Criptomonedas que están creciendo a la sombra de Bitcoin recomendadas por los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563'>Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-6-series-superheroes-marvel-desaparecen-netflix-febrero-2618681.jpg' alt='Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557'>Grandes noticias si tienes un Chromecast y eres usuario de iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grandes-noticias-tienes-chromecast-eres-usuario-iphone-1013557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Grandes noticias si tienes un Chromecast y eres usuario de iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331'>Sale a subasta el primer Toyota-Shelby 2000 GT de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sale-subasta-primer-toyota-shelby-2000-gt-historia-1013331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toyota-shelby-2000-gt-1967-2610391.jpg' alt='Sale a subasta el primer Toyota-Shelby 2000 GT de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611'>realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/realme-4k-smart-tv-stick-vs-google-chromecast-2020-cual-mejor-1008611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-stick-4k-vs-google-chromecast-2020-2609901.jpg' alt='realme 4K Smart TV Stick vs Google Chromecast 2020: ¿cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/echo-buds-2a-generacion-son-intento-amazon-hacerse-hueco-mercado-auriculares-1013465'>Los Echo Buds de 2ª generación son el verdadero intento de Amazon de hacerse un hueco en el mercado de los auriculares</a></h4>
-    <a href='https://computerhoy.com/noticias/echo-buds-2a-generacion-son-intento-amazon-hacerse-hueco-mercado-auriculares-1013465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/echo-buds-2-2618521.jpg' alt='Los Echo Buds de 2ª generación son el verdadero intento de Amazon de hacerse un hueco en el mercado de los auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-89-euros-1013237'>Si quieres montar una Smart Home con HomeKit, este es el primer producto que debes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-89-euros-1013237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/homepod-mini-iphone-2266099.jpg' alt='Si quieres montar una Smart Home con HomeKit, este es el primer producto que debes comprar' />
     </a>
 </div>
 
