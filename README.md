@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297'>Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dune-estrena-hbo-max-acompanada-serie-profundiza-universo-1013297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2617943.jpg' alt='Dune se estrena en HBO Max acompañada de una serie que profundiza en este universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/harina-grillo-productos-supermercado-1013319'>La harina de grillo y todos los productos que trae consigo y veremos en el supermercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/harina-grillo-productos-supermercado-1013319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/harina-2617923.jpg' alt='La harina de grillo y todos los productos que trae consigo y veremos en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293'>Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/turismo-espacial-puedes-hacer-virgin-450000-dolares-1013293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/virgin-galactic-2617871.jpg' alt='Así es el turismo espacial que puedes hacer con Virgin por 450.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mecanico-habitual-lista-talleres-fiables-dgt-1013261'>Cómo saber si tu mecánico habitual está en la lista de talleres fiables para la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-saber-mecanico-habitual-lista-talleres-fiables-dgt-1013261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Cómo saber si tu mecánico habitual está en la lista de talleres fiables para la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205'>Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sirviendo-webs-velocidad-luz-novedad-microsegundos-amazon-aws-vives-cerca-1013205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aws-2617683.jpg' alt='Sirviendo webs a la velocidad de la luz, la novedad en microsegundos de Amazon AWS si vives cerca' />
     </a>
 </div>
 
