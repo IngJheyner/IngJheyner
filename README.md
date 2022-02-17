@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sobrecogedor-anuncio-compartido-guardia-civil-te-invita-reflexionar-1013915'>El sobrecogedor anuncio compartido por la Guardia Civil que te invita a reflexionar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sobrecogedor-anuncio-compartido-guardia-civil-te-invita-reflexionar-1013915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ley-seguridad-vial-2407997.jpg' alt='El sobrecogedor anuncio compartido por la Guardia Civil que te invita a reflexionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/costara-familia-xiaomi-12-europa-equipara-resto-marcas-premium-1013895'>Esto es lo que costará la familia Xiaomi 12 en Europa y se equipara al resto de marcas prémium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/costara-familia-xiaomi-12-europa-equipara-resto-marcas-premium-1013895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Esto es lo que costará la familia Xiaomi 12 en Europa y se equipara al resto de marcas prémium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887'>El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cibercrimen-2619047.jpg' alt='El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383'>Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-echo-show-15-2617997.jpg' alt='Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-mwc-2022-teaser-anuncia-posibles-novedades-portatiles-1013879'>Samsung se prepara para el MWC 2022 con un teaser que anuncia posibles novedades en portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-mwc-2022-teaser-anuncia-posibles-novedades-portatiles-1013879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2619031.jpg' alt='Samsung se prepara para el MWC 2022 con un teaser que anuncia posibles novedades en portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827'>El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar' />
     </a>
 </div>
 
