@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2618913.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-1tb-puedes-comprar-1011887'>Mejores pendrives de 1TB que puedes comprar para poner a salvo todos tus datos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-1tb-puedes-comprar-1011887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Mejores pendrives de 1TB que puedes comprar para poner a salvo todos tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593'>¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar</a></h4>
     <a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quieres-quitarte-refrescos-comerciales-refresco-natural-gas-no-tiene-calorias-puedes-prepararlo-mismo-forma-sencilla-2618723.jpg' alt='¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587'>El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zeppelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-2618709.jpg' alt='El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579'>Las tiendas de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nintendo-3ds-2069383.jpg' alt='Las tiendas de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575'>Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-estrena-nueva-freidora-aceite-35-litros-capacidad-solo-89eu-2618687.jpg' alt='Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€' />
     </a>
 </div>
 
