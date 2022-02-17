@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sobrecogedor-anuncio-compartido-guardia-civil-te-invita-reflexionar-1013915'>El sobrecogedor anuncio compartido por la Guardia Civil que te invita a reflexionar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sobrecogedor-anuncio-compartido-guardia-civil-te-invita-reflexionar-1013915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ley-seguridad-vial-2407997.jpg' alt='El sobrecogedor anuncio compartido por la Guardia Civil que te invita a reflexionar' />
+    <h4><a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979'>Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control</a></h4>
+    <a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/costara-familia-xiaomi-12-europa-equipara-resto-marcas-premium-1013895'>Esto es lo que costará la familia Xiaomi 12 en Europa y se equipara al resto de marcas prémium</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/costara-familia-xiaomi-12-europa-equipara-resto-marcas-premium-1013895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Esto es lo que costará la familia Xiaomi 12 en Europa y se equipara al resto de marcas prémium' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/absurdo-nuevo-bulo-whatsapp-no-debes-creer-ni-seguir-difundiendo-1014003'>El absurdo nuevo bulo sobre WhatsApp que no debes creer ni seguir difundiendo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/absurdo-nuevo-bulo-whatsapp-no-debes-creer-ni-seguir-difundiendo-1014003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2619375.jpg' alt='El absurdo nuevo bulo sobre WhatsApp que no debes creer ni seguir difundiendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887'>El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cibercrimen-2619047.jpg' alt='El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-altspacevr-hacer-universo-realidad-virtual-lugar-seguro-1013957'>Microsoft actualiza AltSpaceVR para hacer de su universo de realidad virtual un lugar más seguro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-altspacevr-hacer-universo-realidad-virtual-lugar-seguro-1013957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altspacevr-2619217.jpg' alt='Microsoft actualiza AltSpaceVR para hacer de su universo de realidad virtual un lugar más seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-muestra-nuevo-find-x5-pro-oficialmente-antes-presentacion-filtraciones-aciertan-1013881'>Oppo muestra su nuevo Find X5 Pro oficialmente antes de su presentación, las filtraciones aciertan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-muestra-nuevo-find-x5-pro-oficialmente-antes-presentacion-filtraciones-aciertan-1013881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oppo-find-x5-2619037.jpg' alt='Oppo muestra su nuevo Find X5 Pro oficialmente antes de su presentación, las filtraciones aciertan' />
+    <h4><a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935'>La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228891.jpg' alt='La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383'>Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-echo-show-15-2617997.jpg' alt='Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia' />
+    <h4><a href='https://computerhoy.com/guia-compra/compresor-aire-portatil-935825'>Consejos para comprar un compresor de aire portátil</a></h4>
+    <a href='https://computerhoy.com/guia-compra/compresor-aire-portatil-935825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mi-portable-pump-compresor-aire-portatil-2479595.jpg' alt='Consejos para comprar un compresor de aire portátil' />
     </a>
 </div>
 
