@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589'>Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/queda-motor-cuando-llevas-135000-kilometros-cambiar-aceite-no-pruebes-coche-2618711.jpg' alt='Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587'>El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zeppelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-2618709.jpg' alt='El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579'>Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nintendo-3ds-2069383.jpg' alt='Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337'>Robert Pattinson despierta la curiosidad sobre la introducción de The Batman</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2596985.jpg' alt='Robert Pattinson despierta la curiosidad sobre la introducción de The Batman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-creciendo-sombra-bitcoin-recomendadas-expertos-1013565'>Criptomonedas que están creciendo a la sombra de Bitcoin recomendadas por los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-creciendo-sombra-bitcoin-recomendadas-expertos-1013565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altcoins-2618683.jpg' alt='Criptomonedas que están creciendo a la sombra de Bitcoin recomendadas por los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563'>Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-superheroes-marvel-desaparecen-netflix-febrero-1013563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-6-series-superheroes-marvel-desaparecen-netflix-febrero-2618681.jpg' alt='Estas son las 6 series de superhéroes de Marvel que desaparecen de Netflix en febrero' />
     </a>
 </div>
 
