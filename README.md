@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/secador-pelo-dyson-5-caracteristicas-hacen-sea-modelo-buscado-1013955'>Secador de pelo Dyson: 5 características que hacen que sea el modelo más buscado</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/secador-pelo-dyson-5-caracteristicas-hacen-sea-modelo-buscado-1013955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peluquera-secando-pelo-secador-dyson-supersonic-2619215.jpg' alt='Secador de pelo Dyson: 5 características que hacen que sea el modelo más buscado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-redmi-note-11-11s-llegan-espana-precio-derribo-gran-relacion-calidad-precio-1014169'>Redmi Note 11 y 11S llegan a España a precio de derribo y con una gran relación calidad-precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-redmi-note-11-11s-llegan-espana-precio-derribo-gran-relacion-calidad-precio-1014169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596973.jpg' alt='Redmi Note 11 y 11S llegan a España a precio de derribo y con una gran relación calidad-precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087'>Cuidado al usar LinkedIn, ahora es el paraíso de los piratas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='Cuidado al usar LinkedIn, ahora es el paraíso de los piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973'>Crean la primera plataforma que permite clonar un NFT antes de venderlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nft-2619261.jpg' alt='Crean la primera plataforma que permite clonar un NFT antes de venderlo' />
     </a>
 </div>
 
