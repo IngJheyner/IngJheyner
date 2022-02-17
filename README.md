@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221'>Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nuevo-efecto-2000-va-afectar-todos-navegadores-muchas-webs-podrian-caerse-2619899.jpg' alt='Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213'>Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deja-contar-cuerda-saltar-tiene-app-te-dice-cuantas-calorias-quemas-saltos-llevas-solo-15-euros-2619889.jpg' alt='Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incorpora-nueva-funcion-muy-demandada-pero-momento-solo-pocos-1014199'>WhatsApp incorpora una nueva función muy demandada pero de momento solo para unos pocos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incorpora-nueva-funcion-muy-demandada-pero-momento-solo-pocos-1014199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp incorpora una nueva función muy demandada pero de momento solo para unos pocos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-disparando-silenciosamente-sombra-bitcoin-1014197'>Criptomonedas que se están disparando silenciosamente a la sombra de Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-disparando-silenciosamente-sombra-bitcoin-1014197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altcoins-2619877.jpg' alt='Criptomonedas que se están disparando silenciosamente a la sombra de Bitcoin' />
     </a>
 </div>
 
