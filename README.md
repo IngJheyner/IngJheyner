@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651'>Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597035.jpg' alt='Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/entrega-premios-computerhoy-2021-ganadores-1014189'>Entrega de los Premios ComputerHoy 2021: estos son todos lo ganadores</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/entrega-premios-computerhoy-2021-ganadores-1014189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/entrega-premios-computerhoy-2021-estos-son-todos-ganadores-2619871.jpg' alt='Entrega de los Premios ComputerHoy 2021: estos son todos lo ganadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/secador-pelo-dyson-5-caracteristicas-hacen-sea-modelo-buscado-1013955'>Secador de pelo Dyson: 5 características que hacen que sea el modelo más buscado</a></h4>
     <a href='https://computerhoy.com/reportajes/life/secador-pelo-dyson-5-caracteristicas-hacen-sea-modelo-buscado-1013955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peluquera-secando-pelo-secador-dyson-supersonic-2619215.jpg' alt='Secador de pelo Dyson: 5 características que hacen que sea el modelo más buscado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045'>Freidora sin aceite o horno de aire: ¿qué es mejor?</a></h4>
     <a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2619477.jpg' alt='Freidora sin aceite o horno de aire: ¿qué es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019'>Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-iphone-2077375.jpg' alt='Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087'>Cuidado al usar LinkedIn, ahora es el paraíso de los piratas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='Cuidado al usar LinkedIn, ahora es el paraíso de los piratas' />
     </a>
 </div>
 
