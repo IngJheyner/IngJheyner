@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019'>Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-iphone-2077375.jpg' alt='Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087'>Cuidado al usar LinkedIn, ahora es el paraíso de los piratas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='Cuidado al usar LinkedIn, ahora es el paraíso de los piratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189'>Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sandisk-ultra-3d-2617675.jpg' alt='Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021'>Así es CoolWalk, la mayor revolución en Android Auto de toda su historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Así es CoolWalk, la mayor revolución en Android Auto de toda su historia' />
     </a>
 </div>
 
