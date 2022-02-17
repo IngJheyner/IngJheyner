@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887'>El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptocrimen-bate-records-alcanza-cifra-11000-millones-dolares-robados-2021-1013887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cibercrimen-2619047.jpg' alt='El criptocrimen bate récords y alcanza la cifra de 11.000 millones de dólares robados en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-muestra-nuevo-find-x5-pro-oficialmente-antes-presentacion-filtraciones-aciertan-1013881'>Oppo muestra su nuevo Find X5 Pro oficialmente antes de su presentación, las filtraciones aciertan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-muestra-nuevo-find-x5-pro-oficialmente-antes-presentacion-filtraciones-aciertan-1013881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oppo-find-x5-2619037.jpg' alt='Oppo muestra su nuevo Find X5 Pro oficialmente antes de su presentación, las filtraciones aciertan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383'>Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-show-15-venta-oficial-249-euros-1013383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-echo-show-15-2617997.jpg' alt='Ya te puedes hacer con el nuevo Echo Show de 15 pulgadas por 249€: Alexa en pantalla grande para organizar a toda la familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-mwc-2022-teaser-anuncia-posibles-novedades-portatiles-1013879'>Samsung se prepara para el MWC 2022 con un teaser que anuncia posibles novedades en portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-mwc-2022-teaser-anuncia-posibles-novedades-portatiles-1013879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2619031.jpg' alt='Samsung se prepara para el MWC 2022 con un teaser que anuncia posibles novedades en portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827'>El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-610-computer-hoy-1009399'>¡Ya está en tu quiosco el número 610 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-610-computer-hoy-1009399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/computer-hoy-610-2616525.jpg' alt='¡Ya está en tu quiosco el número 610 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-especialistas-alejan-bitcoin-meses-caidas-inversiones-1013831'>Los grandes especialistas se alejan del bitcoin tras meses de caídas y vuelven a las inversiones de siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-especialistas-alejan-bitcoin-meses-caidas-inversiones-1013831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='Los grandes especialistas se alejan del bitcoin tras meses de caídas y vuelven a las inversiones de siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-dolce-gusto-puedes-comprar-1013273'>Mejores cafeteras de cápsulas Dolce Gusto que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-dolce-gusto-puedes-comprar-1013273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/taza-cafe-mesa-junto-portatil-2617927.jpg' alt='Mejores cafeteras de cápsulas Dolce Gusto que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-9i-review-opinion-1012677'>realme 9i, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-9i-review-opinion-1012677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-9i-2618393.jpg' alt='realme 9i, análisis y opinión' />
     </a>
 </div>
 
