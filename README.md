@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579'>Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579'>Las tiendas de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/tiendas-digitales-nintendo-3ds-wii-cierran-1000-juegos-desaparecen-1013579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nintendo-3ds-2069383.jpg' alt='Las tiendas digitales de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nintendo-3ds-2069383.jpg' alt='Las tiendas de Nintendo 3DS y Wii-U cierran: 1.000 juegos desaparecen para siempre, y otros solo están en suscripción en Switch' />
     </a>
 </div>
 
