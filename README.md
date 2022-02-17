@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045'>Freidora sin aceite o horno de aire: ¿qué es mejor?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2619477.jpg' alt='Freidora sin aceite o horno de aire: ¿qué es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019'>Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-muy-probable-estes-cargando-mal-iphone-cualquier-otro-movil-1014019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-iphone-2077375.jpg' alt='Según Apple es muy probable que estés cargando mal tu iPhone (y cualquier otro móvil)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047'>Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciudad-2619489.jpg' alt='Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189'>Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sandisk-ultra-3d-2617675.jpg' alt='Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio' />
     </a>
 </div>
 
