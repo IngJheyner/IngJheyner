@@ -60,7 +60,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209'>Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-nadie-conoce-cual-fue-mejor-pelicula-terror-2021-pero-ahora-puedes-ver-netflix-2619887.jpg' alt='Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-nadie-conoce-cual-fue-mejor-pelicula-terror-2021-pero-ahora-puedes-ver-netflix-2619893.jpg' alt='Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix' />
     </a>
 </div>
 
