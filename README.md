@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213'>Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deja-contar-cuerda-saltar-tiene-app-te-dice-cuantas-calorias-quemas-saltos-llevas-solo-15-euros-2619889.jpg' alt='Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209'>Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-nadie-conoce-cual-fue-mejor-pelicula-terror-2021-pero-ahora-puedes-ver-netflix-2619887.jpg' alt='Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-original-dragon-ball-regresa-espana-1013377'>La serie original de Dragon Ball regresa a España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-original-dragon-ball-regresa-espana-1013377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dragon-ball-regresa-espana-serie-original-volvera-emitir-television-gracias-comedy-central-2612365.jpg' alt='La serie original de Dragon Ball regresa a España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-disparando-silenciosamente-sombra-bitcoin-1014197'>Criptomonedas que se están disparando silenciosamente a la sombra de Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-estan-disparando-silenciosamente-sombra-bitcoin-1014197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altcoins-2619877.jpg' alt='Criptomonedas que se están disparando silenciosamente a la sombra de Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651'>Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-11-pro-motivos-merece-pena-1001651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597035.jpg' alt='Xiaomi Redmi Note 11 Pro: 5 motivos por los que merece mucho la pena comprarlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/entrega-premios-computerhoy-2021-ganadores-1014189'>Entrega de los Premios ComputerHoy 2021: estos son todos lo ganadores</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/entrega-premios-computerhoy-2021-ganadores-1014189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/entrega-premios-computerhoy-2021-estos-son-todos-ganadores-2619871.jpg' alt='Entrega de los Premios ComputerHoy 2021: estos son todos lo ganadores' />
     </a>
 </div>
 
