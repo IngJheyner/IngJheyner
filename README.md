@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593'>¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quieres-quitarte-refrescos-comerciales-refresco-natural-gas-no-tiene-calorias-puedes-prepararlo-mismo-forma-sencilla-2618723.jpg' alt='¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589'>Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/queda-motor-cuando-llevas-135000-kilometros-cambiar-aceite-no-pruebes-coche-2618711.jpg' alt='Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575'>Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cecotec-cecofry-advance-inoxdark-lanzamiento-precio-1013575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-estrena-nueva-freidora-aceite-35-litros-capacidad-solo-89eu-2618687.jpg' alt='Cecotec Cecofry Advance InoxDark, la nueva freidora sin aceite de 3,5 litros de capacidad, por solo 89€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337'>Robert Pattinson despierta la curiosidad sobre la introducción de The Batman</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/robert-pattinson-despierta-curiosidad-introduccion-batman-1013337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2596985.jpg' alt='Robert Pattinson despierta la curiosidad sobre la introducción de The Batman' />
     </a>
 </div>
 
