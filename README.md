@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087'>Cuidado al usar LinkedIn, ahora es el paraíso de los piratas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-usar-linkedin-ahora-paraiso-piratas-1014087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='Cuidado al usar LinkedIn, ahora es el paraíso de los piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973'>Crean la primera plataforma que permite clonar un NFT antes de venderlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nft-2619261.jpg' alt='Crean la primera plataforma que permite clonar un NFT antes de venderlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047'>Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciudad-2619489.jpg' alt='Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189'>Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-pondra-ordenador-530-mb-segundo-ahora-casi-mitad-precio-1013189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sandisk-ultra-3d-2617675.jpg' alt='Este SSD pondrá tu ordenador a 530 MB por segundo y ahora está casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021'>Así es CoolWalk, la mayor revolución en Android Auto de toda su historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Así es CoolWalk, la mayor revolución en Android Auto de toda su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979'>Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control</a></h4>
-    <a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/absurdo-nuevo-bulo-whatsapp-no-debes-creer-ni-seguir-difundiendo-1014003'>El absurdo nuevo bulo sobre WhatsApp que no debes creer ni seguir difundiendo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/absurdo-nuevo-bulo-whatsapp-no-debes-creer-ni-seguir-difundiendo-1014003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2619375.jpg' alt='El absurdo nuevo bulo sobre WhatsApp que no debes creer ni seguir difundiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-altspacevr-hacer-universo-realidad-virtual-lugar-seguro-1013957'>Microsoft actualiza AltSpaceVR para hacer de su universo de realidad virtual un lugar más seguro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-altspacevr-hacer-universo-realidad-virtual-lugar-seguro-1013957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altspacevr-2619217.jpg' alt='Microsoft actualiza AltSpaceVR para hacer de su universo de realidad virtual un lugar más seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935'>La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228891.jpg' alt='La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros' />
     </a>
 </div>
 
