@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tomar-demasiado-paracetamol-puede-provocar-problemas-audicion-1013357'>Tomar demasiado paracetamol puede provocar problemas de audición</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tomar-demasiado-paracetamol-puede-provocar-problemas-audicion-1013357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dolor-oido-2617975.jpg' alt='Tomar demasiado paracetamol puede provocar problemas de audición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/triumph-te-1-sera-primera-moto-electrica-marca-1013349'>Triumph TE-1: así será la primera moto eléctrica de la marca</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/triumph-te-1-sera-primera-moto-electrica-marca-1013349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/triumph-te-1-2612435.jpg' alt='Triumph TE-1: así será la primera moto eléctrica de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2618913.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-1tb-puedes-comprar-1011887'>Mejores pendrives de 1TB que puedes comprar para poner a salvo todos tus datos</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-1tb-puedes-comprar-1011887'>Mejores pendrives de 1 TB que puedes comprar para poner a salvo todos tus datos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-1tb-puedes-comprar-1011887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Mejores pendrives de 1TB que puedes comprar para poner a salvo todos tus datos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Mejores pendrives de 1 TB que puedes comprar para poner a salvo todos tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593'>¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593'>¿Quieres dejar los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar</a></h4>
     <a href='https://computerhoy.com/noticias/life/refresco-natural-gas-sin-calorias-limon-jengibre-1013593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quieres-quitarte-refrescos-comerciales-refresco-natural-gas-no-tiene-calorias-puedes-prepararlo-mismo-forma-sencilla-2618723.jpg' alt='¿Quieres quitarte de los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589'>Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/motor-135000-kilometros-sin-cambiar-aceite-1013589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/queda-motor-cuando-llevas-135000-kilometros-cambiar-aceite-no-pruebes-coche-2618711.jpg' alt='Así queda el motor cuando llevas 135.000 Kilómetros sin cambiar el aceite: no lo pruebes en tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587'>El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/zepelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-1013587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zeppelin-submarino-electrico-135-metros-transportara-petroleo-gas-co2-2618709.jpg' alt='El "zepelín" submarino eléctrico de 135 metros que transportará petróleo, gas y CO2 (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quieres-quitarte-refrescos-comerciales-refresco-natural-gas-no-tiene-calorias-puedes-prepararlo-mismo-forma-sencilla-2618723.jpg' alt='¿Quieres dejar los refrescos comerciales? Este refresco natural con gas no tiene calorías, y es sencillo de preparar' />
     </a>
 </div>
 
