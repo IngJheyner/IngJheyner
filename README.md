@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827'>El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/armagedon-era-descubierto-primer-asteroide-cuadruple-sistema-solar-1013827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='El armagedón era esto: descubierto el primer asteroide cuádruple del sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-610-computer-hoy-1009399'>¡Ya está en tu quiosco el número 610 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-610-computer-hoy-1009399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/computer-hoy-610-2616525.jpg' alt='¡Ya está en tu quiosco el número 610 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-especialistas-alejan-bitcoin-meses-caidas-inversiones-1013831'>Los grandes especialistas se alejan del bitcoin tras meses de caídas y vuelven a las inversiones de siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-especialistas-alejan-bitcoin-meses-caidas-inversiones-1013831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='Los grandes especialistas se alejan del bitcoin tras meses de caídas y vuelven a las inversiones de siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-dolce-gusto-puedes-comprar-1013273'>Mejores cafeteras de cápsulas Dolce Gusto que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-dolce-gusto-puedes-comprar-1013273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/taza-cafe-mesa-junto-portatil-2617927.jpg' alt='Mejores cafeteras de cápsulas Dolce Gusto que puedes comprar en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/realme-9i-review-opinion-1012677'>realme 9i, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/realme-9i-review-opinion-1012677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-9i-2618393.jpg' alt='realme 9i, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-retrasa-menos-ano-serie-last-us-2022-1013811'>HBO Max retrasa al menos un año su gran apuesta y no podrás ver en 2022 la serie The Last of Us</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-retrasa-menos-ano-serie-last-us-2022-1013811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/last-us-1961455.jpg' alt='HBO Max retrasa al menos un año su gran apuesta y no podrás ver en 2022 la serie The Last of Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tomar-demasiado-paracetamol-puede-provocar-problemas-audicion-1013357'>Tomar demasiado paracetamol puede provocar problemas de audición</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tomar-demasiado-paracetamol-puede-provocar-problemas-audicion-1013357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dolor-oido-2617975.jpg' alt='Tomar demasiado paracetamol puede provocar problemas de audición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/triumph-te-1-sera-primera-moto-electrica-marca-1013349'>Triumph TE-1: así será la primera moto eléctrica de la marca</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/triumph-te-1-sera-primera-moto-electrica-marca-1013349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/triumph-te-1-2612435.jpg' alt='Triumph TE-1: así será la primera moto eléctrica de la marca' />
     </a>
 </div>
 
