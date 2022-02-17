@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021'>Así es CoolWalk, la mayor revolución en Android Auto de toda su historia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coolwalk-mayor-revolucion-android-auto-toda-historia-1014021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Así es CoolWalk, la mayor revolución en Android Auto de toda su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979'>Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control</a></h4>
     <a href='https://computerhoy.com/noticias/multas-1000-euros-te-pueden-poner-vas-patinete-te-paran-control-1013979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/patinete-electrico-2562223.jpg' alt='Las multas de hasta 1.000 euros que te pueden poner si vas en patinete y te paran en un control' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935'>La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros</a></h4>
     <a href='https://computerhoy.com/noticias/luz-emergencia-v16-osram-lidl-precio-regalo-menos-11-euros-1013935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228891.jpg' alt='La luz de emergencia V16 Osram de LIDL está a precio de regalo, menos de 11 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/compresor-aire-portatil-935825'>Consejos para comprar un compresor de aire portátil</a></h4>
-    <a href='https://computerhoy.com/guia-compra/compresor-aire-portatil-935825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mi-portable-pump-compresor-aire-portatil-2479595.jpg' alt='Consejos para comprar un compresor de aire portátil' />
     </a>
 </div>
 
