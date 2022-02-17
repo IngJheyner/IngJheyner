@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-redmi-note-11-11s-llegan-espana-precio-derribo-gran-relacion-calidad-precio-1014169'>Redmi Note 11 y 11S llegan a España a precio de derribo y con una gran relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-redmi-note-11-11s-llegan-espana-precio-derribo-gran-relacion-calidad-precio-1014169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596973.jpg' alt='Redmi Note 11 y 11S llegan a España a precio de derribo y con una gran relación calidad-precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045'>Freidora sin aceite o horno de aire: ¿qué es mejor?</a></h4>
     <a href='https://computerhoy.com/noticias/life/freidora-aceite-horno-aire-mejor-1014045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2619477.jpg' alt='Freidora sin aceite o horno de aire: ¿qué es mejor?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973'>Crean la primera plataforma que permite clonar un NFT antes de venderlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-primera-plataforma-permite-clonar-nft-antes-venderlo-1013973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nft-2619261.jpg' alt='Crean la primera plataforma que permite clonar un NFT antes de venderlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047'>Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trama-policiaca-hbo-max-trae-vuelta-creador-mejores-series-historia-1014047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciudad-2619489.jpg' alt='Con una trama policíaca, HBO Max trae de vuelta al creador de una de las mejores series de la historia' />
     </a>
 </div>
 
