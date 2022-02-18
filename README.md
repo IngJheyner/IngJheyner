@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691'>Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651'>WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621'>AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amd-ryzen-6000-2620375.jpg' alt='AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295'>Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/numero-ves-acertijo-viral-volviendo-loco-redes-1014627'>¿Qué número ves? El acertijo viral que está volviendo loco a las redes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/numero-ves-acertijo-viral-volviendo-loco-redes-1014627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/twitter-viral-2620395.jpg' alt='¿Qué número ves? El acertijo viral que está volviendo loco a las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553'>Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT' />
     </a>
 </div>
 
