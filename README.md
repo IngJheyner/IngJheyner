@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733'>Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bloqueo-dos-anos-usuario-espanol-todas-redes-sociales-peticion-juzgado-ello-implica-1014701'>El bloqueo de dos años a un usuario español en todas las redes sociales a petición de un juzgado y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bloqueo-dos-anos-usuario-espanol-todas-redes-sociales-peticion-juzgado-ello-implica-1014701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/redes-sociales-2620505.jpg' alt='El bloqueo de dos años a un usuario español en todas las redes sociales a petición de un juzgado y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-solo-hoy-xiaomi-mi-watch-gps-solo-te-costara-99-euros-envio-gratis-1014571'>Ofertón sólo hoy: Xiaomi Mi Watch con GPS solo te costará 99 euros con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferton-solo-hoy-xiaomi-mi-watch-gps-solo-te-costara-99-euros-envio-gratis-1014571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232541.jpg' alt='Ofertón sólo hoy: Xiaomi Mi Watch con GPS solo te costará 99 euros con envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691'>Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651'>WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621'>AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amd-ryzen-6000-2620375.jpg' alt='AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-fuentes-word-256415'>Cómo instalar y agregar nuevas fuentes en Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-fuentes-word-256415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo instalar y agregar nuevas fuentes en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295'>Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr' />
     </a>
 </div>
 
