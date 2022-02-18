@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445'>5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-eliminar-carpetas-menu-inicio-windows-11-911049'>Cómo añadir y eliminar carpetas del menú de inicio de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-eliminar-carpetas-menu-inicio-windows-11-911049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/carpetas-menu-inicio-windows-11-2430881.jpg' alt='Cómo añadir y eliminar carpetas del menú de inicio de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221'>Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nuevo-efecto-2000-va-afectar-todos-navegadores-muchas-webs-podrian-caerse-2619899.jpg' alt='Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213'>Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuerda-saltar-inteligente-chollo-1014213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deja-contar-cuerda-saltar-tiene-app-te-dice-cuantas-calorias-quemas-saltos-llevas-solo-15-euros-2619889.jpg' alt='Deja de contar: esta cuerda para saltar tiene app y te dice cuántas calorías quemas y los saltos que llevas... ¡por solo 15 euros!' />
     </a>
 </div>
 
