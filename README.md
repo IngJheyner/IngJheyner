@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553'>Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirven-moviles-rodar-peliculas-apple-lanza-corto-artes-marciales-grabado-iphone-13-pro-demostrarlo-1014609'>¿Sirven los móviles para rodar películas? Apple lanza un corto de artes marciales grabado con el iPhone 13 Pro para demostrarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sirven-moviles-rodar-peliculas-apple-lanza-corto-artes-marciales-grabado-iphone-13-pro-demostrarlo-1014609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-13-pro-2620365.jpg' alt='¿Sirven los móviles para rodar películas? Apple lanza un corto de artes marciales grabado con el iPhone 13 Pro para demostrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581'>Aprobada la primera app de móvil para la administración de insulina en diabéticos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/app-insulina-2620259.jpg' alt='Aprobada la primera app de móvil para la administración de insulina en diabéticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513'>Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-conectado-wd-my-cloud-ex2-ultra-oferta-1014117'>Este disco duro conectado de 4 TB es perfecto para crear tu propia nube: WD My Cloud EX2 Ultra ahora cuesta menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-conectado-wd-my-cloud-ex2-ultra-oferta-1014117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wd-my-cloud-ex2-ultra-2619693.jpg' alt='Este disco duro conectado de 4 TB es perfecto para crear tu propia nube: WD My Cloud EX2 Ultra ahora cuesta menos de 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-solar-paneles-solares-no-necesitan-luz-directa-sol-1014497'>El futuro de la energía solar: paneles solares que no necesitan luz directa del sol</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-solar-paneles-solares-no-necesitan-luz-directa-sol-1014497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/paneles-solares-2620185.jpg' alt='El futuro de la energía solar: paneles solares que no necesitan luz directa del sol' />
     </a>
 </div>
 
