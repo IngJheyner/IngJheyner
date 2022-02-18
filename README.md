@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835'>Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pensando-ya-buen-tiempo-altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-2620977.jpg' alt='Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831'>Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/te-cuesta-mucho-ahorrar-tienes-probar-tecnica-1-no-imaginas-2620971.jpg' alt='Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671'>Las principales películas de Ivan Reitman, además de Cazafantasmas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ivan-reitman-2615337.jpg' alt='Las principales películas de Ivan Reitman, además de Cazafantasmas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827'>Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder</a></h4>
     <a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-comiendo-yogurt-2620939.jpg' alt='Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-compra-podsights-chartable-1014825'>Si tienes un podcast, es hora de tomarse en serio a Spotify para monetizarlo: ha comprado Podsights y Chartable</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-compra-podsights-chartable-1014825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tienes-podcast-hora-tomarse-spotify-serio-monetizarlo-ha-comprado-podsights-chartable-2620935.jpg' alt='Si tienes un podcast, es hora de tomarse en serio a Spotify para monetizarlo: ha comprado Podsights y Chartable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/realme-8-pro-2271943.jpg' alt='Estos son los mejores móviles realme para comprar en 2022' />
     </a>
 </div>
 
