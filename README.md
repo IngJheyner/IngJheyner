@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621'>AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/amd-ryzen-6000-tecnologia-zen3-plantar-cara-intel-core-12a-gen-portatiles-1014621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amd-ryzen-6000-2620375.jpg' alt='AMD Ryzen 6000 y su tecnología Zen3+ para plantar cara a los Intel Core 12ª gen en portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-fuentes-word-256415'>Cómo instalar y agregar nuevas fuentes en Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-fuentes-word-256415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo instalar y agregar nuevas fuentes en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295'>Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-va-garmin-rebaja-nuevo-gt-runner-299eu-reloj-perfecto-correr-1013295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei va a por Garmin: rebaja su nuevo GT Runner a 299€, un reloj perfecto para correr' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/numero-ves-acertijo-viral-volviendo-loco-redes-1014627'>¿Qué número ves? El acertijo viral que está volviendo loco a las redes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/numero-ves-acertijo-viral-volviendo-loco-redes-1014627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/twitter-viral-2620395.jpg' alt='¿Qué número ves? El acertijo viral que está volviendo loco a las redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553'>Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dime-etiqueta-tienes-te-dire-como-te-afecta-nueva-senal-dgt-1014553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Dime qué etiqueta tienes y te diré cómo te afecta esta nueva señal de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirven-moviles-rodar-peliculas-apple-lanza-corto-artes-marciales-grabado-iphone-13-pro-demostrarlo-1014609'>¿Sirven los móviles para rodar películas? Apple lanza un corto de artes marciales grabado con el iPhone 13 Pro para demostrarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sirven-moviles-rodar-peliculas-apple-lanza-corto-artes-marciales-grabado-iphone-13-pro-demostrarlo-1014609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-13-pro-2620365.jpg' alt='¿Sirven los móviles para rodar películas? Apple lanza un corto de artes marciales grabado con el iPhone 13 Pro para demostrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581'>Aprobada la primera app de móvil para la administración de insulina en diabéticos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/app-insulina-2620259.jpg' alt='Aprobada la primera app de móvil para la administración de insulina en diabéticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-apuesta-hdr-windows-11-nueva-herramienta-calibracion-1014521'>Microsoft apuesta de lleno por el HDR en Windows 11 y así es su nueva herramienta de calibración</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-apuesta-hdr-windows-11-nueva-herramienta-calibracion-1014521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft apuesta de lleno por el HDR en Windows 11 y así es su nueva herramienta de calibración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513'>Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1' />
     </a>
 </div>
 
