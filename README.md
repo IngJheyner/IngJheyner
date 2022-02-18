@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671'>Las principales películas de Ivan Reitman, además de Cazafantasmas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ivan-reitman-2615337.jpg' alt='Las principales películas de Ivan Reitman, además de Cazafantasmas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829'>Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827'>Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder</a></h4>
     <a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-comiendo-yogurt-2620939.jpg' alt='Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/realme-8-pro-2271943.jpg' alt='Estos son los mejores móviles realme para comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-titanes-fuerzas-espaciales-especia-1014751'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: titanes, fuerzas espaciales y especia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-titanes-fuerzas-espaciales-especia-1014751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-ver-fin-semana-2620711.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: titanes, fuerzas espaciales y especia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-movistar-netflix-estar-dia-novedades-1014641'>Qué películas ver este fin de semana en HBO Max, Movistar+ y Netflix para estar al día con las novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-movistar-netflix-estar-dia-novedades-1014641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dune-2464287.jpg' alt='Qué películas ver este fin de semana en HBO Max, Movistar+ y Netflix para estar al día con las novedades' />
     </a>
 </div>
 
