@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/no-habra-nueva-generacion-estos-modelos-audi-1013859'>No habrá nueva generación de estos modelos de Audi</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-podria-obligar-abrir-cuenta-microsoft-1014451'>Windows 11 podrá obligarte a abrir una cuenta de Microsoft para acceder a algunas novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-podria-obligar-abrir-cuenta-microsoft-1014451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620095.jpg' alt='Windows 11 podrá obligarte a abrir una cuenta de Microsoft para acceder a algunas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-recuperar-pan-ha-quedado-duro-1013867'>El mejor truco para recuperar el pan que se ha quedado duro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-truco-recuperar-pan-ha-quedado-duro-1013867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/romper-pan-duro-2619017.jpg' alt='El mejor truco para recuperar el pan que se ha quedado duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/no-habra-nueva-generacion-estos-modelos-audi-1013859'>No habrá nuevas generaciones de estos modelos de Audi</a></h4>
     <a href='https://computerhoy.com/noticias/motor/no-habra-nueva-generacion-estos-modelos-audi-1013859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-q2-2613975.jpg' alt='No habrá nueva generación de estos modelos de Audi' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-q2-2613975.jpg' alt='No habrá nuevas generaciones de estos modelos de Audi' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1014447'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1014447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2620093.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/router-wifi-2053479.jpg' alt='Estos son los cinco mejores routers con WiFi Mesh de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-resetear-contrasena-cuenta-gmail-986243'>Cómo resetear la contraseña de tu cuenta Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-resetear-contrasena-cuenta-gmail-986243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/gmail-2507711.jpg' alt='Cómo resetear la contraseña de tu cuenta Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445'>5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento' />
     </a>
 </div>
 
