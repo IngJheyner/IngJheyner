@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/realme-8-pro-2271943.jpg' alt='Estos son los mejores móviles realme para comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-titanes-fuerzas-espaciales-especia-1014751'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: titanes, fuerzas espaciales y especia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-titanes-fuerzas-espaciales-especia-1014751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-ver-fin-semana-2620711.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: titanes, fuerzas espaciales y especia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-ventajas-aporta-versiones-anteriores-1004229'>¿Qué es el WiFi 7 y qué ventajas aporta sobre sus versiones anteriores?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-ventajas-aporta-versiones-anteriores-1004229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/k2j1GZPmic3lGfxE8oY.jpg' alt='¿Qué es el WiFi 7 y qué ventajas aporta sobre sus versiones anteriores?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725'>Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuidado-estos-alimentos-te-ayudan-envejecer-rapido-2167719.jpg' alt='Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura' />
     </a>
 </div>
 
