@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-resetear-contrasena-cuenta-gmail-986243'>Cómo resetear la contraseña de tu cuenta Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-resetear-contrasena-cuenta-gmail-986243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/gmail-2507711.jpg' alt='Cómo resetear la contraseña de tu cuenta Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445'>5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-cosas-lavavajillas-expertos-mantenimiento-1014445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='5 cosas que debes hacer con tu lavavajillas para que dure más años, según varios expertos en mantenimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-guardar-audios-recibes-whatsapp-1013401'>Cómo descargar y guardar los audios que recibes en WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-guardar-audios-recibes-whatsapp-1013401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Cómo descargar y guardar los audios que recibes en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221'>Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nuevo-efecto-2000-va-afectar-todos-navegadores-muchas-webs-podrian-caerse-2619899.jpg' alt='Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar' />
     </a>
 </div>
 
