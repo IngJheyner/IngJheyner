@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581'>Aprobada la primera app de móvil para la administración de insulina en diabéticos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aprobada-primera-app-movil-administracion-insulina-diabeticos-1014581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/app-insulina-2620259.jpg' alt='Aprobada la primera app de móvil para la administración de insulina en diabéticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-apuesta-hdr-windows-11-nueva-herramienta-calibracion-1014521'>Microsoft apuesta de lleno por el HDR en Windows 11 y así es su nueva herramienta de calibración</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-apuesta-hdr-windows-11-nueva-herramienta-calibracion-1014521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft apuesta de lleno por el HDR en Windows 11 y así es su nueva herramienta de calibración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513'>Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-sabemos-como-cuando-terminara-stranger-things-netflix-apuesta-formula-2-1-1014513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Ya sabemos cómo y cuándo terminará Stranger Things: Netflix apuesta por una fórmula 2 + 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disco-duro-conectado-wd-my-cloud-ex2-ultra-oferta-1014117'>Este disco duro conectado de 4 TB es perfecto para crear tu propia nube: WD My Cloud EX2 Ultra ahora cuesta menos de 300€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disco-duro-conectado-wd-my-cloud-ex2-ultra-oferta-1014117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wd-my-cloud-ex2-ultra-2619693.jpg' alt='Este disco duro conectado de 4 TB es perfecto para crear tu propia nube: WD My Cloud EX2 Ultra ahora cuesta menos de 300€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-solar-paneles-solares-no-necesitan-luz-directa-sol-1014497'>El futuro de la energía solar: paneles solares que no necesitan luz directa del sol</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-solar-paneles-solares-no-necesitan-luz-directa-sol-1014497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/paneles-solares-2620185.jpg' alt='El futuro de la energía solar: paneles solares que no necesitan luz directa del sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-apple-merced-piratas-chip-t2-ha-sido-hackeado-1014481'>Los Mac de Apple a la merced de los piratas: el chip T2 ha sido hackeado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-apple-merced-piratas-chip-t2-ha-sido-hackeado-1014481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Los Mac de Apple a la merced de los piratas: el chip T2 ha sido hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wordle-gratis-compra-pagando-precio-1014469'>Wordle sigue siendo gratis tras cambiar de dueño, pero ya estás pagando un precio solo con jugar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wordle-gratis-compra-pagando-precio-1014469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wordle-2620109.jpg' alt='Wordle sigue siendo gratis tras cambiar de dueño, pero ya estás pagando un precio solo con jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
     </a>
 </div>
 
