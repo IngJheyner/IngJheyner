@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725'>Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuidado-estos-alimentos-te-ayudan-envejecer-rapido-2167719.jpg' alt='Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733'>Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691'>Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651'>WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-actualizacion-mejorar-vista-previa-documentos-1014651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/whatsapp-2439993.jpg' alt='WhatsApp ya está trabajando en una actualización para mejorar la vista previa de los documentos' />
     </a>
 </div>
 
