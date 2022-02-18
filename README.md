@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-movistar-netflix-estar-dia-novedades-1014641'>Qué películas ver este fin de semana en HBO Max, Movistar+ y Netflix para estar al día con las novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-movistar-netflix-estar-dia-novedades-1014641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dune-2464287.jpg' alt='Qué películas ver este fin de semana en HBO Max, Movistar+ y Netflix para estar al día con las novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-echo-buds-motivos-mejores-auriculares-alexa-1014573'>Amazon Echo Buds, 5 motivos por los que pueden ser los mejores auriculares con Alexa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-echo-buds-motivos-mejores-auriculares-alexa-1014573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-echo-buds-2620251.jpg' alt='Amazon Echo Buds, 5 motivos por los que pueden ser los mejores auriculares con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-ventajas-aporta-versiones-anteriores-1004229'>¿Qué es el WiFi 7 y qué ventajas aporta sobre sus versiones anteriores?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/wifi-7-ventajas-aporta-versiones-anteriores-1004229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/k2j1GZPmic3lGfxE8oY.jpg' alt='¿Qué es el WiFi 7 y qué ventajas aporta sobre sus versiones anteriores?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725'>Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura</a></h4>
     <a href='https://computerhoy.com/noticias/life/vives-playa-envejeces-lento-vives-montana-ciencia-ya-puede-medir-cuanto-altura-1014725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cuidado-estos-alimentos-te-ayudan-envejecer-rapido-2167719.jpg' alt='Si vives en la playa envejeces más lento que si vives en la montaña y la Ciencia ya puede medir cuánto, según la altura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733'>Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-nuevo-movil-top-frontier-estos-son-detalles-camara-194-mpx-1014733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/motorola-frontier-2587891.jpg' alt='Motorola prepara su nuevo móvil top Frontier y estos son los detalles de su cámara de 194 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bloqueo-dos-anos-usuario-espanol-todas-redes-sociales-peticion-juzgado-ello-implica-1014701'>El bloqueo de dos años a un usuario español en todas las redes sociales a petición de un juzgado y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bloqueo-dos-anos-usuario-espanol-todas-redes-sociales-peticion-juzgado-ello-implica-1014701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/redes-sociales-2620505.jpg' alt='El bloqueo de dos años a un usuario español en todas las redes sociales a petición de un juzgado y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-solo-hoy-xiaomi-mi-watch-gps-solo-te-costara-99-euros-envio-gratis-1014571'>Ofertón sólo hoy: Xiaomi Mi Watch con GPS solo te costará 99 euros con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferton-solo-hoy-xiaomi-mi-watch-gps-solo-te-costara-99-euros-envio-gratis-1014571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232541.jpg' alt='Ofertón sólo hoy: Xiaomi Mi Watch con GPS solo te costará 99 euros con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691'>Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-promete-procesadores-arrow-lake-fabricados-tecnologia-18-nanometros-2024-1014691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel promete procesadores Arrow Lake fabricados con tecnología de 1,8 nanómetros para 2024' />
     </a>
 </div>
 
