@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-apple-merced-piratas-chip-t2-ha-sido-hackeado-1014481'>Los Mac de Apple a la merced de los piratas: el chip T2 ha sido hackeado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-apple-merced-piratas-chip-t2-ha-sido-hackeado-1014481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Los Mac de Apple a la merced de los piratas: el chip T2 ha sido hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wordle-gratis-compra-pagando-precio-1014469'>Wordle sigue siendo gratis tras cambiar de dueño, pero ya estás pagando un precio solo con jugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wordle-gratis-compra-pagando-precio-1014469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wordle-2620109.jpg' alt='Wordle sigue siendo gratis tras cambiar de dueño, pero ya estás pagando un precio solo con jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-recuperar-pan-ha-quedado-duro-1013867'>El mejor truco para recuperar el pan que se ha quedado duro</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-truco-recuperar-pan-ha-quedado-duro-1013867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/romper-pan-duro-2619017.jpg' alt='El mejor truco para recuperar el pan que se ha quedado duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/no-habra-nueva-generacion-estos-modelos-audi-1013859'>No habrá nuevas generaciones de estos modelos de Audi</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/no-habra-nueva-generacion-estos-modelos-audi-1013859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-q2-2613975.jpg' alt='No habrá nuevas generaciones de estos modelos de Audi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1014447'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1014447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2620093.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
