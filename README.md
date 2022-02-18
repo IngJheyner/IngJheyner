@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839'>Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835'>Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pensando-ya-buen-tiempo-altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-2620977.jpg' alt='Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829'>Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827'>Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nocilla-turron-llega-ultima-locura-mercadona-yogures-sabor-kinder-1014827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-comiendo-yogurt-2620939.jpg' alt='Tras la Nocilla y el turrón llega la última locura de Mercadona: yogures con sabor a kinder' />
     </a>
 </div>
 
