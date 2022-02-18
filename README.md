@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/z-triton-2-caravana-barco-bicicleta-1014229'>La barcocicleta, ya a la venta: caravana, barco y bicicleta, todo en uno (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/z-triton-2-caravana-barco-bicicleta-1014229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barcocicleta-ya-venta-caravana-barco-bicicleta-todo-2619903.jpg' alt='La barcocicleta, ya a la venta: caravana, barco y bicicleta, todo en uno (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-guardar-audios-recibes-whatsapp-1013401'>Cómo descargar y guardar los audios que recibes en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-guardar-audios-recibes-whatsapp-1013401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='Cómo descargar y guardar los audios que recibes en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221'>Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-efecto-2000-navegadores-version-100-1014221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nuevo-efecto-2000-va-afectar-todos-navegadores-muchas-webs-podrian-caerse-2619899.jpg' alt='Un nuevo Efecto 2000 va a afectar a todos los navegadores, muchas webs podrían dejar de funcionar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209'>Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/historia-de-lo-oculto-mejor-pelicula-terror-2021-netflix-1014209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/casi-nadie-conoce-cual-fue-mejor-pelicula-terror-2021-pero-ahora-puedes-ver-netflix-2619893.jpg' alt='Casi nadie conoce cuál fue la mejor película de terror de 2021, pero ahora la puedes ver en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-original-dragon-ball-regresa-espana-1013377'>La serie original de Dragon Ball regresa a España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-original-dragon-ball-regresa-espana-1013377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dragon-ball-regresa-espana-serie-original-volvera-emitir-television-gracias-comedy-central-2612365.jpg' alt='La serie original de Dragon Ball regresa a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incorpora-nueva-funcion-muy-demandada-pero-momento-solo-pocos-1014199'>WhatsApp incorpora una nueva función muy demandada pero de momento solo para unos pocos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incorpora-nueva-funcion-muy-demandada-pero-momento-solo-pocos-1014199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='WhatsApp incorpora una nueva función muy demandada pero de momento solo para unos pocos' />
     </a>
 </div>
 
