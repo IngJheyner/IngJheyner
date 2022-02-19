@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103'>Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-pad-2621447.jpg' alt='Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093'>Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083'>Estos serían los teléfonos Xiaomi que actualizarían a Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='Estos serían los teléfonos Xiaomi que actualizarían a Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319'>Así puedes instalar apps que no están en la tienda en el iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/altstore-2536929.jpg' alt='Así puedes instalar apps que no están en la tienda en el iPhone' />
     </a>
 </div>
 
