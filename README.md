@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325'>4 robots aspiradores que hemos probado y recomendamos para tu casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-realme-techlife-vacuum-2391145.jpg' alt='4 robots aspiradores que hemos probado y recomendamos para tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/vaporeta-922777'>Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/vaporeta-922777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vanl-2620831.jpg' alt='Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997'>Las primeras 9 cosas que debes hacer con un móvil nuevo Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/movil_0.jpg' alt='Las primeras 9 cosas que debes hacer con un móvil nuevo Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545'>Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ordenador-bolsillo-puedes-construir-mismo-te-hara-sentir-como-verdadero-hacker-2620221.jpg' alt='Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047'>HUUVER, el tanque volador autónomo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huuver-tanque-volador-autonomo-2621197.jpg' alt='HUUVER, el tanque volador autónomo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845'>¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunas-sartenes-cazuelas-acero-inoxidable-oxidan-puedes-evitarlo-2621003.jpg' alt='¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo' />
     </a>
 </div>
 
