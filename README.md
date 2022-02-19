@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483'>Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuando-heineken-fabricaba-botellas-cerveza-podian-usarse-como-ladrillo-2620127.jpg' alt='Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tramite-ley-proteccion-animal-adios-tiendas-mascotas-prision-maltrato-curso-adoptar-perro-1014841'>A trámite la Ley de Protección Animal: adiós a las tiendas de mascotas, más prisión por maltrato, y habrá que hacer un curso para tener perro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tramite-ley-proteccion-animal-adios-tiendas-mascotas-prision-maltrato-curso-adoptar-perro-1014841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-anos-vive-perro-raza-2571851.jpg' alt='A trámite la Ley de Protección Animal: adiós a las tiendas de mascotas, más prisión por maltrato, y habrá que hacer un curso para tener perro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839'>Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate</a></h4>
     <a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831'>Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/te-cuesta-mucho-ahorrar-tienes-probar-tecnica-1-no-imaginas-2620971.jpg' alt='Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671'>Las principales películas de Ivan Reitman, además de Cazafantasmas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/principales-peliculas-ivan-reitman-ademas-cazafantasmas-1014671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ivan-reitman-2615337.jpg' alt='Las principales películas de Ivan Reitman, además de Cazafantasmas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829'>Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-probar-antes-nadie-ultima-version-android-auto-llega-cargada-novedades-1014829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Cómo probar antes que nadie la última versión de Android Auto que llega cargada de novedades' />
     </a>
 </div>
 
