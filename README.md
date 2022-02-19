@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167'>Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/instax-mini-40-2621547.jpg' alt='Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151'>Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125'>Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-trata-captar-senal-red-movil-2621495.jpg' alt='Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121'>Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/walton-goggins-2621481.jpg' alt='Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video' />
     </a>
 </div>
 
