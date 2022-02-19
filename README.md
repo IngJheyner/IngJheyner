@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569'>Creative SXFI Carrier, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creative-sxfi-carrier-2620929.jpg' alt='Creative SXFI Carrier, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325'>4 robots aspiradores que hemos probado y recomendamos para tu casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-realme-techlife-vacuum-2391145.jpg' alt='4 robots aspiradores que hemos probado y recomendamos para tu casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681'>Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-basico-alcatel-kaios-2620501.jpg' alt='Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545'>Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ordenador-bolsillo-puedes-construir-mismo-te-hara-sentir-como-verdadero-hacker-2620221.jpg' alt='Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker' />
     </a>
 </div>
 
