@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083'>Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plataformas-2616095.jpg' alt='Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-intel-core-i5-1013253'>Mejores portátiles baratos con Intel Core i5 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-intel-core-i5-1013253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='Mejores portátiles baratos con Intel Core i5 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125'>Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-trata-captar-senal-red-movil-2621495.jpg' alt='Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113'>La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toma-decisiones-2621477.jpg' alt='La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103'>Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-pad-2621447.jpg' alt='Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093'>Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos' />
     </a>
 </div>
 
