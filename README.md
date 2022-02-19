@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319'>Así puedes instalar apps que no están en la tienda en el iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/altstore-2536929.jpg' alt='Así puedes instalar apps que no están en la tienda en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-solucionar-error-bateria-no-detectada-windows-946379'>7 maneras de solucionar el error "batería no detectada" en Windows </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-solucionar-error-bateria-no-detectada-windows-946379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/como-comprobar-estado-bateria-portatil-windows-10-trucos-alargar-vida-util-2266139.jpg' alt='7 maneras de solucionar el error "batería no detectada" en Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569'>Creative SXFI Carrier, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creative-sxfi-carrier-2620929.jpg' alt='Creative SXFI Carrier, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/vaporeta-922777'>Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar</a></h4>
     <a href='https://computerhoy.com/guia-compra/vaporeta-922777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vanl-2620831.jpg' alt='Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997'>Las primeras 9 cosas que debes hacer con un móvil nuevo Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/movil_0.jpg' alt='Las primeras 9 cosas que debes hacer con un móvil nuevo Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681'>Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-basico-alcatel-kaios-2620501.jpg' alt='Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos' />
     </a>
 </div>
 
