@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047'>HUUVER, el tanque volador autónomo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huuver-tanque-volador-autonomo-2621197.jpg' alt='HUUVER, el tanque volador autónomo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845'>¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunas-sartenes-cazuelas-acero-inoxidable-oxidan-puedes-evitarlo-2621003.jpg' alt='¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839'>Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate</a></h4>
     <a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835'>Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pensando-ya-buen-tiempo-altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-2620977.jpg' alt='Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros' />
     </a>
 </div>
 
