@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151'>Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083'>Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plataformas-2616095.jpg' alt='Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121'>Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/walton-goggins-2621481.jpg' alt='Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113'>La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toma-decisiones-2621477.jpg' alt='La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años' />
     </a>
 </div>
 
