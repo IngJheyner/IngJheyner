@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121'>Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/walton-goggins-2621481.jpg' alt='Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113'>La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ciencia-deja-claro-no-pierde-velocidad-cerebral-partir-20-anos-1015113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/toma-decisiones-2621477.jpg' alt='La ciencia deja claro que no se pierde velocidad cerebral a partir de los 20 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103'>Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-ofrece-diversion-productividad-todos-solo-249-euros-1015103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-pad-2621447.jpg' alt='Esta tablet realme Pad ofrece diversión y productividad para todos a solo 249 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717'>Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-qicycle-2620507.jpg' alt='Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s22-ultra-review-opinion-1014489'>Samsung Galaxy S22 Ultra, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-s22-ultra-review-opinion-1014489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-galaxy-s22-ultra-2620799.jpg' alt='Samsung Galaxy S22 Ultra, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083'>Estos serían los teléfonos Xiaomi que actualizarían a Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='Estos serían los teléfonos Xiaomi que actualizarían a Android 13' />
     </a>
 </div>
 
