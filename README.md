@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093'>Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717'>Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-qicycle-2620507.jpg' alt='Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s22-ultra-review-opinion-1014489'>Samsung Galaxy S22 Ultra, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-s22-ultra-review-opinion-1014489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-galaxy-s22-ultra-2620799.jpg' alt='Samsung Galaxy S22 Ultra, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083'>Estos serían los teléfonos Xiaomi que actualizarían a Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-telefonos-xiaomi-actualizarian-android-13-1015083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg' alt='Estos serían los teléfonos Xiaomi que actualizarían a Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319'>Así puedes instalar apps que no están en la tienda en el iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-instalar-apps-no-estan-tienda-iphone-966319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/altstore-2536929.jpg' alt='Así puedes instalar apps que no están en la tienda en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-solucionar-error-bateria-no-detectada-windows-946379'>7 maneras de solucionar el error "batería no detectada" en Windows </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-solucionar-error-bateria-no-detectada-windows-946379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/como-comprobar-estado-bateria-portatil-windows-10-trucos-alargar-vida-util-2266139.jpg' alt='7 maneras de solucionar el error "batería no detectada" en Windows ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569'>Creative SXFI Carrier, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/creative-sxfi-carrier-review-opinion-1013569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creative-sxfi-carrier-2620929.jpg' alt='Creative SXFI Carrier, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325'>4 robots aspiradores que hemos probado y recomendamos para tu casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-hemos-probado-recomendamos-1013325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-realme-techlife-vacuum-2391145.jpg' alt='4 robots aspiradores que hemos probado y recomendamos para tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/vaporeta-922777'>Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/vaporeta-922777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vanl-2620831.jpg' alt='Todo lo que debes saber antes de comprar una vaporeta de limpieza de mano para el hogar' />
     </a>
 </div>
 
