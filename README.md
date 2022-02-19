@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125'>Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-trata-captar-senal-red-movil-2621495.jpg' alt='Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121'>Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-conocemos-actores-principales-esperada-serie-fallout-amazon-prime-video-1015121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/walton-goggins-2621481.jpg' alt='Ya conocemos a uno de los actores principales de la esperada serie de Fallout para Amazon Prime Video' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093'>Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tres-factores-macroeconomicos-augurarian-futuro-muy-negro-bitcoin-expertos-1015093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='Tres factores macroeconómicos que augurarían un futuro muy negro para Bitcoin según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717'>Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/muevete-ciudad-contaminar-bici-electrica-plegable-xiaomi-oferta-899-euros-1014717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-qicycle-2620507.jpg' alt='Muévete por tu ciudad sin contaminar: la bici eléctrica plegable de Xiaomi está en oferta por 899 euros' />
     </a>
 </div>
 
