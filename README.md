@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997'>Las primeras 9 cosas que debes hacer con un móvil nuevo Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeras-9-cosas-debes-hacer-movil-nuevo-android-998997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/movil_0.jpg' alt='Las primeras 9 cosas que debes hacer con un móvil nuevo Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681'>Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/telefonos-moviles-mayores-whatsapp-facebook-baratos-1014681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-basico-alcatel-kaios-2620501.jpg' alt='Teléfonos móviles para mayores que pueden con WhatsApp, Facebook y que son bastante baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545'>Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/penkesu-ordenador-bolsillo-hacker-1014545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ordenador-bolsillo-puedes-construir-mismo-te-hara-sentir-como-verdadero-hacker-2620221.jpg' alt='Este ordenador de bolsillo que puedes construir tú mismo, te hará sentir como un verdadero hacker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047'>HUUVER, el tanque volador autónomo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/huuver-tanque-volador-autonomo-video-1015047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huuver-tanque-volador-autonomo-2621197.jpg' alt='HUUVER, el tanque volador autónomo (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845'>¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunas-sartenes-cazuelas-acero-inoxidable-oxidan-puedes-evitarlo-2621003.jpg' alt='¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483'>Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuando-heineken-fabricaba-botellas-cerveza-podian-usarse-como-ladrillo-2620127.jpg' alt='Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tramite-ley-proteccion-animal-adios-tiendas-mascotas-prision-maltrato-curso-adoptar-perro-1014841'>A trámite la Ley de Protección Animal: adiós a las tiendas de mascotas, más prisión por maltrato, y habrá que hacer un curso para tener perro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tramite-ley-proteccion-animal-adios-tiendas-mascotas-prision-maltrato-curso-adoptar-perro-1014841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estos-son-anos-vive-perro-raza-2571851.jpg' alt='A trámite la Ley de Protección Animal: adiós a las tiendas de mascotas, más prisión por maltrato, y habrá que hacer un curso para tener perro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839'>Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/arde-buque-4000-coches-deportivos-porsche-lamborghini-bugatti-audi-baterias-electricas-1014839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Arde un buque con 4.000 coches deportivos de Porsche, Lamborghini, Bugatti y Audi, las baterías eléctricas dificultan el rescate' />
     </a>
 </div>
 
