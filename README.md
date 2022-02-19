@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845'>¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/acero-inoxidable-oxida-causa-prevencion-1014845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunas-sartenes-cazuelas-acero-inoxidable-oxidan-puedes-evitarlo-2621003.jpg' alt='¿Por qué algunas sartenes, cuchillos o tijeras de acero inoxidable, se oxidan? Así puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483'>Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos</a></h4>
     <a href='https://computerhoy.com/noticias/life/heineken-wobo-botella-ladrillo-1014483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuando-heineken-fabricaba-botellas-cerveza-podian-usarse-como-ladrillo-2620127.jpg' alt='Cuando Heineken fabricaba botellas de cerveza que podían usarse como ladrillos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835'>Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-1014835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pensando-ya-buen-tiempo-altavoz-bluetooth-exteriores-reproductor-mp3-radio-fm-baja-solo-15-euros-2620977.jpg' alt='Pensando ya en el buen tiempo, este altavoz bluetooth para exteriores con reproductor MP3 y radio FM baja a solo 15 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831'>Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-ahorrar-tecnica-porcentaje-1014831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/te-cuesta-mucho-ahorrar-tienes-probar-tecnica-1-no-imaginas-2620971.jpg' alt='Si se te cuesta mucho ahorrar, tienes que probar la Técnica del 1%: no es lo que imaginas' />
     </a>
 </div>
 
