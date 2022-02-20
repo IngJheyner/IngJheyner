@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-cambiar-voz-dispositivo-alexa-990745'>Así puedes cambiar la voz a tu dispositivo con Alexa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-cambiar-voz-dispositivo-alexa-990745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/asistente-alexa-amazon-estrena-windows-10.png' alt='Así puedes cambiar la voz a tu dispositivo con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869'>Cómo desactivar el feedback háptico al tocar la pantalla en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Cómo desactivar el feedback háptico al tocar la pantalla en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151'>Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-modo-eficiencia-administrador-tareas-windows-11-agradecera-autonomia-pc-1015151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2548695.jpg' alt='Así funciona el nuevo modo de eficiencia del administrador de tareas de Windows 11, y lo agradecerá la autonomía de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083'>Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plataformas-2616095.jpg' alt='Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento' />
     </a>
 </div>
 
