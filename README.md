@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459'>Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tramos-luz-horarios-debes-evitar-como-consultar-precios-oficiales-tiempo-real-2616573.jpg' alt='Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-ikohs-35-libros-oferta-1015479'>La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 libros, y cuesta menos de 95€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-ikohs-35-libros-oferta-1015479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cocina-4-personas-baja-precio-8890-euros-2610367.jpg' alt='La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 libros, y cuesta menos de 95€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-cuphead-netflix-1015475'>Cuphead, la deliciosa serie basada en el popular videojuego que homenajea a la animación de hace un siglo, con toques de Bob Esponja</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-cuphead-netflix-1015475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuphead-deliciosa-serie-basada-popular-videojuego-homenajea-animacion-hace-siglo-toques-bob-esponja-2622051.jpg' alt='Cuphead, la deliciosa serie basada en el popular videojuego que homenajea a la animación de hace un siglo, con toques de Bob Esponja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-cientos-nfts-opensea-1015461'>Roban cientos de NFTs de OpenSea por valor de casi 2 millones de dólares en solo 3 horas, y aún no saben cómo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roban-cientos-nfts-opensea-1015461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg' alt='Roban cientos de NFTs de OpenSea por valor de casi 2 millones de dólares en solo 3 horas, y aún no saben cómo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447'>Cómo comprar de forma segura en Wallapop</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/wallapop.jpg' alt='Cómo comprar de forma segura en Wallapop' />
     </a>
 </div>
 
