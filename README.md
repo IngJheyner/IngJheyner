@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-cientos-nfts-opensea-1015461'>Roban cientos de NFTs de OpenSea por valor de casi 2 millones de dólares en solo 3 horas, y aún no saben cómo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roban-cientos-nfts-opensea-1015461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg' alt='Roban cientos de NFTs de OpenSea por valor de casi 2 millones de dólares en solo 3 horas, y aún no saben cómo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447'>Cómo comprar de forma segura en Wallapop</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/wallapop.jpg' alt='Cómo comprar de forma segura en Wallapop' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233'>Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejores-peliculas-espanolas-terror-puedes-ver-netflix-hbo-max-prime-video-filmin-2612801.jpg' alt='Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437'>Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aplicacion-citas-2621955.jpg' alt='Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413'>El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a52s-5g-2467169.jpg' alt='El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros' />
     </a>
 </div>
 
