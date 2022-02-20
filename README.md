@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-cuphead-netflix-1015475'>Cuphead, la deliciosa serie basada en el popular videojuego que homenajea a la animación de hace un siglo, con toques de Bob Esponja</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-cuphead-netflix-1015475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuphead-deliciosa-serie-basada-popular-videojuego-homenajea-animacion-hace-siglo-toques-bob-esponja-2622051.jpg' alt='Cuphead, la deliciosa serie basada en el popular videojuego que homenajea a la animación de hace un siglo, con toques de Bob Esponja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467'>Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-estrena-nuevo-tipo-letra-comoda-leer-2622015.jpg' alt='Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447'>Cómo comprar de forma segura en Wallapop</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/wallapop.jpg' alt='Cómo comprar de forma segura en Wallapop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801'>Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo</a></h4>
-    <a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cables-desorganizados-mesa-2620881.jpg' alt='Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo' />
     </a>
 </div>
 
