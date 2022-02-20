@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-1014601'>Barreras antirruido, puentes y hasta tiendas de campaña: así están reciclando las turbinas eólicas viejas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-1014601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-2620315.jpg' alt='Barreras antirruido, puentes y hasta tiendas de campaña: así están reciclando las turbinas eólicas viejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459'>Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real</a></h4>
     <a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tramos-luz-horarios-debes-evitar-como-consultar-precios-oficiales-tiempo-real-2616573.jpg' alt='Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-ikohs-35-libros-oferta-1015479'>La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 libros, y cuesta menos de 95€</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-ikohs-35-libros-oferta-1015479'>La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 litros, y cuesta menos de 95€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-caliente-ikohs-35-libros-oferta-1015479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cocina-4-personas-baja-precio-8890-euros-2610367.jpg' alt='La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 libros, y cuesta menos de 95€' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cocina-4-personas-baja-precio-8890-euros-2610367.jpg' alt='La elegante freidora de aire caliente Ikohs Create tiene una capacidad de 3,5 litros, y cuesta menos de 95€' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467'>Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-estrena-nuevo-tipo-letra-comoda-leer-2622015.jpg' alt='Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
     </a>
 </div>
 
