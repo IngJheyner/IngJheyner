@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801'>Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo</a></h4>
+    <a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cables-desorganizados-mesa-2620881.jpg' alt='Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233'>Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejores-peliculas-espanolas-terror-puedes-ver-netflix-hbo-max-prime-video-filmin-2612801.jpg' alt='Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437'>Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aplicacion-citas-2621955.jpg' alt='Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423'>Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403'>El buscador de Windows 11 será más rápido y preciso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='El buscador de Windows 11 será más rápido y preciso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077'>Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nilox-j5-2621363.jpg' alt='Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros' />
     </a>
 </div>
 
