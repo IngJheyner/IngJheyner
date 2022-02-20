@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619'>Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-2620367.jpg' alt='Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789'>Los mejores navegadores GPS para Android Auto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/vincular-navegador-coche-1983429.jpg' alt='Los mejores navegadores GPS para Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965'>Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar</a></h4>
     <a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/piedra-egipcia-hace-3200-anos-lista-excusas-ponian-trabajadores-no-ir-trabajar-algunas-te-van-sorprender-2619245.jpg' alt='Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167'>Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/instax-mini-40-2621547.jpg' alt='Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida' />
     </a>
 </div>
 
