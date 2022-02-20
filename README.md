@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oled-cajas-carton-sarcofago-tutankamon-analizan-ultimos-tv-1012813'>OLED, cajas de cartón y el sarcófago de Tutankamón: así se analizan los últimos TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/oled-cajas-carton-sarcofago-tutankamon-analizan-ultimos-tv-1012813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557109.jpg' alt='OLED, cajas de cartón y el sarcófago de Tutankamón: así se analizan los últimos TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079'>Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dashcam-2621403.jpg' alt='Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155'>Crean un niño androide capaz de expresar y transmitir seis expresiones faciales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nikola-nino-androide-2621529.jpg' alt='Crean un niño androide capaz de expresar y transmitir seis expresiones faciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157'>Crean una cerveza sin alcohol que sabe tan bien como la normal</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cerveza-2621531.jpg' alt='Crean una cerveza sin alcohol que sabe tan bien como la normal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/significa-exactamente-suspender-ordenador-windows-implica-1013307'>Qué significa exactamente suspender un ordenador Windows y qué implica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/significa-exactamente-suspender-ordenador-windows-implica-1013307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/suspender-windows-2617881.jpg' alt='Qué significa exactamente suspender un ordenador Windows y qué implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cascos-bluetooth-patinete-bicicleta-1014767'>Mejores cascos con Bluetooth para tu patinete o bicicleta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cascos-bluetooth-patinete-bicicleta-1014767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-casco-bici-gafas-proteccion-2620843.jpg' alt='Mejores cascos con Bluetooth para tu patinete o bicicleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619'>Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-2620367.jpg' alt='Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789'>Los mejores navegadores GPS para Android Auto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/vincular-navegador-coche-1983429.jpg' alt='Los mejores navegadores GPS para Android Auto' />
     </a>
 </div>
 
