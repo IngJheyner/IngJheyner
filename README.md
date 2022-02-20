@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413'>El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a52s-5g-2467169.jpg' alt='El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423'>Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403'>El buscador de Windows 11 será más rápido y preciso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='El buscador de Windows 11 será más rápido y preciso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395'>En un futuro los AirPods te dirán si estás haciendo bien los ejercicios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/personas-gimnasio-2621871.jpg' alt='En un futuro los AirPods te dirán si estás haciendo bien los ejercicios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285'>Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/musica-movil-2570877.jpg' alt='Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705'>Los 17 mejores juegos Android para jugar offline o sin conexión</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jugando-movil-2571569.jpg' alt='Los 17 mejores juegos Android para jugar offline o sin conexión' />
     </a>
 </div>
 
