@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403'>El buscador de Windows 11 será más rápido y preciso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscador-windows-11-sera-rapido-preciso-1015403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='El buscador de Windows 11 será más rápido y preciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077'>Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nilox-j5-2621363.jpg' alt='Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395'>En un futuro los AirPods te dirán si estás haciendo bien los ejercicios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/personas-gimnasio-2621871.jpg' alt='En un futuro los AirPods te dirán si estás haciendo bien los ejercicios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285'>Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/musica-movil-2570877.jpg' alt='Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705'>Los 17 mejores juegos Android para jugar offline o sin conexión</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jugando-movil-2571569.jpg' alt='Los 17 mejores juegos Android para jugar offline o sin conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gaming/msi-pulse-gl76-analisis-opinion-1011731'>MSI Pulse GL76, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/gaming/msi-pulse-gl76-analisis-opinion-1011731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-msi-pulse-gl76-2615543.jpg' alt='MSI Pulse GL76, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oled-cajas-carton-sarcofago-tutankamon-analizan-ultimos-tv-1012813'>OLED, cajas de cartón y el sarcófago de Tutankamón: así se analizan los últimos TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/oled-cajas-carton-sarcofago-tutankamon-analizan-ultimos-tv-1012813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/philips-oled-806-55-analisis-opinion-2557109.jpg' alt='OLED, cajas de cartón y el sarcófago de Tutankamón: así se analizan los últimos TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079'>Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dashcam-2621403.jpg' alt='Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando' />
     </a>
 </div>
 
