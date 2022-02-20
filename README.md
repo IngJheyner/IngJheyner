@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447'>Cómo comprar de forma segura en Wallapop</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprar-forma-segura-wallapop-1002447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/wallapop.jpg' alt='Cómo comprar de forma segura en Wallapop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801'>Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo</a></h4>
     <a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cables-desorganizados-mesa-2620881.jpg' alt='Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413'>El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a52s-5g-2467169.jpg' alt='El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423'>Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-avisan-inteligencia-artificial-ya-capaz-crear-caras-confiables-persona-real-1015423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Científicos avisan que la Inteligencia Artificial ya es capaz de crear caras más confiables que las de una persona real' />
     </a>
 </div>
 
