@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705'>Los 17 mejores juegos Android para jugar offline o sin conexión</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jugando-movil-2571569.jpg' alt='Los 17 mejores juegos Android para jugar offline o sin conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/gaming/msi-pulse-gl76-analisis-opinion-1011731'>MSI Pulse GL76, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/gaming/msi-pulse-gl76-analisis-opinion-1011731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-msi-pulse-gl76-2615543.jpg' alt='MSI Pulse GL76, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155'>Crean un niño androide capaz de expresar y transmitir seis expresiones faciales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nikola-nino-androide-2621529.jpg' alt='Crean un niño androide capaz de expresar y transmitir seis expresiones faciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157'>Crean una cerveza sin alcohol que sabe tan bien como la normal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cerveza-2621531.jpg' alt='Crean una cerveza sin alcohol que sabe tan bien como la normal' />
     </a>
 </div>
 
