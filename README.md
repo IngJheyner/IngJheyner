@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157'>Crean una cerveza sin alcohol que sabe tan bien como la normal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-cerveza-alcohol-sabe-tan-bien-como-normal-1015157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cerveza-2621531.jpg' alt='Crean una cerveza sin alcohol que sabe tan bien como la normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/significa-exactamente-suspender-ordenador-windows-implica-1013307'>Qué significa exactamente suspender un ordenador Windows y qué implica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/significa-exactamente-suspender-ordenador-windows-implica-1013307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/suspender-windows-2617881.jpg' alt='Qué significa exactamente suspender un ordenador Windows y qué implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cascos-bluetooth-patinete-bicicleta-1014767'>Mejores cascos con Bluetooth para tu patinete o bicicleta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cascos-bluetooth-patinete-bicicleta-1014767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-casco-bici-gafas-proteccion-2620843.jpg' alt='Mejores cascos con Bluetooth para tu patinete o bicicleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619'>Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-1014619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descubren-tratamiento-enzimas-permite-organos-donados-sean-compatibles-cualquier-paciente-2620367.jpg' alt='Descubren un tratamiento con enzimas que permite que los órganos donados sean compatibles con cualquier paciente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789'>Los mejores navegadores GPS para Android Auto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-navegadores-gps-android-auto-991789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/vincular-navegador-coche-1983429.jpg' alt='Los mejores navegadores GPS para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-cambiar-voz-dispositivo-alexa-990745'>Así puedes cambiar la voz a tu dispositivo con Alexa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-cambiar-voz-dispositivo-alexa-990745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/asistente-alexa-amazon-estrena-windows-10.png' alt='Así puedes cambiar la voz a tu dispositivo con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869'>Cómo desactivar el feedback háptico al tocar la pantalla en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Cómo desactivar el feedback háptico al tocar la pantalla en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965'>Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/piedra-egipcia-hace-3200-anos-lista-excusas-ponian-trabajadores-no-ir-trabajar-algunas-te-van-sorprender-2619245.jpg' alt='Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar' />
     </a>
 </div>
 
