@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285'>Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-fiesta-reproduciendo-musica-sincronizada-todos-moviles-986285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/musica-movil-2570877.jpg' alt='Cómo montar una fiesta reproduciendo música sincronizada desde todos los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705'>Los 17 mejores juegos Android para jugar offline o sin conexión</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/17-mejores-juegos-android-jugar-offline-conexion-986705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/jugando-movil-2571569.jpg' alt='Los 17 mejores juegos Android para jugar offline o sin conexión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079'>Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-coche-1015079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dashcam-2621403.jpg' alt='Cámaras de vigilancia para coche: estas son las mejores para saber quién te lo está rayando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155'>Crean un niño androide capaz de expresar y transmitir seis expresiones faciales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-nino-androide-capaz-expresar-transmitir-seis-expresiones-faciales-1015155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nikola-nino-androide-2621529.jpg' alt='Crean un niño androide capaz de expresar y transmitir seis expresiones faciales' />
     </a>
 </div>
 
