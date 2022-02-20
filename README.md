@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467'>Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roboto-serif-google-fonts-nuevo-tipo-letra-1015467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-estrena-nuevo-tipo-letra-comoda-leer-2622015.jpg' alt='Google estrena un nuevo tipo de letra, la más cómoda para leer, y ya puedes descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801'>Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo</a></h4>
     <a href='https://computerhoy.com/listas/life/mejores-accesorios-organizacion-cables-ikea-1014801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cables-desorganizados-mesa-2620881.jpg' alt='Ni un cable suelto: estos accesorios de Ikea te ayudarán a organizar tu espacio de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233'>Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-espanolas-terror-puedes-ver-netflix-disney-prime-video-filmin-1010233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejores-peliculas-espanolas-terror-puedes-ver-netflix-hbo-max-prime-video-filmin-2612801.jpg' alt='Las 7 mejores películas españolas de terror que puedes ver en Netflix, Disney+, Prime Video y Filmin' />
     </a>
 </div>
 
