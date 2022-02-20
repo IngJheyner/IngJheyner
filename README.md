@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437'>Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tipo-fotos-son-jamas-deberias-poner-aplicaciones-citas-1015437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aplicacion-citas-2621955.jpg' alt='Este tipo de fotos son las que jamás deberías poner en aplicaciones de citas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413'>El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/flamante-samsung-galaxy-a52s-5g-encuentra-oferta-solo-333-euros-1015413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a52s-5g-2467169.jpg' alt='El flamante Samsung Galaxy A52s 5G se encuentra en oferta a solo 333 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077'>Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/bici-electrica-nilox-j5-perfecta-usarla-ciudad-ahora-solo-cuesta-660-euros-1015077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nilox-j5-2621363.jpg' alt='Esta bici eléctrica Nilox J5 es perfecta para usarla por la ciudad y ahora solo cuesta 660 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395'>En un futuro los AirPods te dirán si estás haciendo bien los ejercicios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-airpods-te-diran-estas-haciendo-bien-ejercicios-1015395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/personas-gimnasio-2621871.jpg' alt='En un futuro los AirPods te dirán si estás haciendo bien los ejercicios' />
     </a>
 </div>
 
