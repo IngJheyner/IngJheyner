@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869'>Cómo desactivar el feedback háptico al tocar la pantalla en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-feedback-haptico-tocar-pantalla-android-984869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/marcando-movil-2567981.jpg' alt='Cómo desactivar el feedback háptico al tocar la pantalla en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965'>Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/piedra-egipcia-excusas-trabajadores-no-ir-trabajar-1013965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/piedra-egipcia-hace-3200-anos-lista-excusas-ponian-trabajadores-no-ir-trabajar-algunas-te-van-sorprender-2619245.jpg' alt='Esta piedra egipcia de hace 3.200 años recoge las sorprendentes excusas que ponían los trabajadores para no ir a trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167'>Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-instantanea-estilo-retro-99-euros-dara-toque-particular-vida-1015167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/instax-mini-40-2621547.jpg' alt='Esta cámara instantánea de estilo retro a 99 euros dará un toque particular a tu vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083'>Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/vida-fuera-netflix-plataformas-streaming-menos-conocidas-1012083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plataformas-2616095.jpg' alt='Hay vida fuera de Netflix: plataformas menos conocidas que tienes a tu alcance en este momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-intel-core-i5-1013253'>Mejores portátiles baratos con Intel Core i5 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-intel-core-i5-1013253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='Mejores portátiles baratos con Intel Core i5 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125'>Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intenta-hijos-desconecten-internet-accidentalmente-corta-conexion-toda-ciudad-1015125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-trata-captar-senal-red-movil-2621495.jpg' alt='Intenta que sus hijos se desconecten de Internet y accidentalmente corta la conexión de toda su ciudad' />
     </a>
 </div>
 
