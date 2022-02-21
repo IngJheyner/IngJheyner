@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661'>Una nueva red social está a punto de llegar, y lo hace con polémica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truth-social-2622261.jpg' alt='Una nueva red social está a punto de llegar, y lo hace con polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471'>5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salon-muebles-lampara-pie-2622059.jpg' alt='5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675'>La mitad de los coches eléctricos matriculados se vende en China</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/recargar-coche-electrico-2497053.jpg' alt='La mitad de los coches eléctricos matriculados se vende en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-1015633'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-1015633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2622217.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
