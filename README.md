@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-llegara-abril-espana-i5-11a-gen-16-gb-ram-carga-rapida-65-w-1015865'>El realme Book Prime llegará en abril a España: i5 de 11ª Gen, 16 GB de RAM y carga rápida de 65 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-llegara-abril-espana-i5-11a-gen-16-gb-ram-carga-rapida-65-w-1015865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563251.jpg' alt='El realme Book Prime llegará en abril a España: i5 de 11ª Gen, 16 GB de RAM y carga rápida de 65 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dilema-hacker-criptomonedas-infinitas-2-millones-dolares-metalico-1015849'>El dilema de un hacker: criptomonedas infinitas o 2 millones de dólares en metálico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dilema-hacker-criptomonedas-infinitas-2-millones-dolares-metalico-1015849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-ethereum-2622549.jpg' alt='El dilema de un hacker: criptomonedas infinitas o 2 millones de dólares en metálico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/material-revolucionara-seguridad-coches-chalecos-antibala-ademas-podra-ser-fuente-energia-1015867'>El material que revolucionará la seguridad en coches, chalecos antibala y que además podrá ser fuente de energía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/material-revolucionara-seguridad-coches-chalecos-antibala-ademas-podra-ser-fuente-energia-1015867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/meta-material-goma-universidad-massachusetts-amherst-2605359.jpg' alt='El material que revolucionará la seguridad en coches, chalecos antibala y que además podrá ser fuente de energía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-como-vera-samsung-galaxy-book-pro-2-360-1015829'>Se filtra cómo se verá el Samsung Galaxy Book Pro 2 360</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-como-vera-samsung-galaxy-book-pro-2-360-1015829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-book-pro-2-360-2622523.jpg' alt='Se filtra cómo se verá el Samsung Galaxy Book Pro 2 360' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-abandonan-netflix-febrero-1015815'>Es la última semana para que veas estas series que abandonan Netflix en febrero</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-abandonan-netflix-febrero-1015815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/personajes-marvel-que-queremos-ver-juego-como-spider-man-ps4_3.jpg' alt='Es la última semana para que veas estas series que abandonan Netflix en febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='192.168.1.1: Cómo acceder al router para modificar su configuración' />
     </a>
 </div>
 
