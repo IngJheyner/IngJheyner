@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089'>Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gita-robot-te-sigue-llevar-compra-te-sientes-mitad-calle-2623127.jpg' alt='Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079'>POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-2623121.jpg' alt='POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847'>Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/muerte-nilo-prohiben-estreno-pelicula-libano-kuwait-papel-gal-gadot-2614931.jpg' alt='Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071'>Apple podría haber abandonado una de las funciones más esperadas del iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/face-id-iphone-2623065.jpg' alt='Apple podría haber abandonado una de las funciones más esperadas del iPhone 14' />
     </a>
 </div>
 
