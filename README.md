@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-televisores-samsung-neo-qled-4k-8k-2022-1016043'>Samsung estrena en España la nueva generación de televisores Samsung Neo QLED 4K y 8K para 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-televisores-samsung-neo-qled-4k-8k-2022-1016043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-estrena-espana-nueva-generacion-televisores-samsung-neo-qled-4k-8k-2022-2623023.jpg' alt='Samsung estrena en España la nueva generación de televisores Samsung Neo QLED 4K y 8K para 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-macbook-reacondicionado-mejor-precio-garantia-1014547'>Dónde comprar un MacBook reacondicionado al mejor precio y con garantía</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-macbook-reacondicionado-mejor-precio-garantia-1014547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='Dónde comprar un MacBook reacondicionado al mejor precio y con garantía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-samsung-lista-podran-utilizar-expert-raw-1016013'>Comprueba si tu móvil Samsung está en la lista de los que podrán utilizar Expert RAW</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-samsung-lista-podran-utilizar-expert-raw-1016013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Comprueba si tu móvil Samsung está en la lista de los que podrán utilizar Expert RAW' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-nasa-destruccion-estacion-espacial-internacional-1015981'>Así prepara la NASA la destrucción de la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prepara-nasa-destruccion-estacion-espacial-internacional-1015981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/estacion-espacial-internacional.jpg' alt='Así prepara la NASA la destrucción de la Estación Espacial Internacional' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dueno-mercadona-financia-marca-ropa-futurista-no-mancha-huele-arruga-1015993'>El dueño de Mercadona financia una marca de ropa futurista que no se mancha, huele o arruga</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/dueno-mercadona-financia-marca-ropa-futurista-no-mancha-huele-arruga-1015993'>El dueño de Mercadona financia una marca de ropa futurista que no se mancha, huele ni arruga</a></h4>
     <a href='https://computerhoy.com/noticias/life/dueno-mercadona-financia-marca-ropa-futurista-no-mancha-huele-arruga-1015993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lavar-ropa-mano-2463419.jpg' alt='El dueño de Mercadona financia una marca de ropa futurista que no se mancha, huele o arruga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-deberias-realizar-cada-dia-evitar-spyware-movil-android-1015945'>El sencillo gesto que deberías realizar cada día para evitar spyware en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-deberias-realizar-cada-dia-evitar-spyware-movil-android-1015945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-tiene-mundo-vilo-2410989.jpg' alt='El sencillo gesto que deberías realizar cada día para evitar spyware en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873'>La app con la que no te pasarás de parada de autobús si te quedas dormido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nevermiss-2622695.jpg' alt='La app con la que no te pasarás de parada de autobús si te quedas dormido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927'>La inteligencia artificial como principal aliada en la conservación de la vida animal </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vida-animal-2622799.jpg' alt='La inteligencia artificial como principal aliada en la conservación de la vida animal ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lavar-ropa-mano-2463419.jpg' alt='El dueño de Mercadona financia una marca de ropa futurista que no se mancha, huele ni arruga' />
     </a>
 </div>
 
