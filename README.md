@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761'>Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/kebap-2622421.jpg' alt='Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-no-abandona-mercado-smartphone-filtrado-nuevo-sony-xperia-5-iv-1015763'>Sony no abandona el mercado smartphone: filtrado el nuevo Sony Xperia 5 IV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-no-abandona-mercado-smartphone-filtrado-nuevo-sony-xperia-5-iv-1015763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sony-xperia-5-iii-analisis-opinion-2481339.jpg' alt='Sony no abandona el mercado smartphone: filtrado el nuevo Sony Xperia 5 IV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-no-todo-mundo-conoce-evitar-whatsapp-te-sature-movil-1015747'>El sencillo truco que no todo el mundo conoce para evitar que WhatsApp te sature el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-no-todo-mundo-conoce-evitar-whatsapp-te-sature-movil-1015747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-estafa-2607135.jpg' alt='El sencillo truco que no todo el mundo conoce para evitar que WhatsApp te sature el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385'>Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-rs670n4bc2-2621815.jpg' alt='Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697'>Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/caras-falsas-fake.jpg' alt='Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mejor-dia-semana-echar-gasolina-barato-combustible-1015689'>Este es el mejor día de la semana para echar gasolina: cuándo es más barato el combustible</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mejor-dia-semana-echar-gasolina-barato-combustible-1015689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gasolinera-2622287.jpg' alt='Este es el mejor día de la semana para echar gasolina: cuándo es más barato el combustible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vacunas-cancer-herpes-varicela-tecnologia-arnm-servicio-medicina-1015663'>Vacunas contra el cáncer, herpes y varicela: la tecnología ARNm al servicio de la medicina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vacunas-cancer-herpes-varicela-tecnologia-arnm-servicio-medicina-1015663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/adn.jpg' alt='Vacunas contra el cáncer, herpes y varicela: la tecnología ARNm al servicio de la medicina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661'>Una nueva red social está a punto de llegar, y lo hace con polémica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truth-social-2622261.jpg' alt='Una nueva red social está a punto de llegar, y lo hace con polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471'>5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salon-muebles-lampara-pie-2622059.jpg' alt='5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)' />
     </a>
 </div>
 
