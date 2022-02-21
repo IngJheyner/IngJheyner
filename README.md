@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-deberias-realizar-cada-dia-evitar-spyware-movil-android-1015945'>El sencillo gesto que deberías realizar cada día para evitar spyware en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-deberias-realizar-cada-dia-evitar-spyware-movil-android-1015945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-tiene-mundo-vilo-2410989.jpg' alt='El sencillo gesto que deberías realizar cada día para evitar spyware en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873'>La app con la que no te pasarás de parada de autobús si te quedas dormido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nevermiss-2622695.jpg' alt='La app con la que no te pasarás de parada de autobús si te quedas dormido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-veremos-nuevos-poco-mwc-apuntan-maneras-ser-otra-generacion-muy-recomendable-1015925'>Ya es oficial veremos los nuevos POCO en el MWC y apuntan maneras para ser otra generación muy recomendable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-veremos-nuevos-poco-mwc-apuntan-maneras-ser-otra-generacion-muy-recomendable-1015925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532639.jpg' alt='Ya es oficial veremos los nuevos POCO en el MWC y apuntan maneras para ser otra generación muy recomendable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-quiere-comprarle-dazn-45-derechos-laliga-futbol-ello-necesita-1400-millones-euros-1015897'>Telefónica quiere comprarle a DAZN su 45% de los derechos de LaLiga de futbol, para ello necesita 1.400 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefonica-quiere-comprarle-dazn-45-derechos-laliga-futbol-ello-necesita-1400-millones-euros-1015897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Telefónica quiere comprarle a DAZN su 45% de los derechos de LaLiga de futbol, para ello necesita 1.400 millones de euros' />
     </a>
 </div>
 
