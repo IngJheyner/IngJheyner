@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079'>POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-2623121.jpg' alt='POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077'>Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ahora-mejor-momento-comprar-ventilador-stock-precios-bajos-modelo-pie-solo-cuesta-33-euros-2623077.jpg' alt='Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071'>Apple podría haber abandonado una de las funciones más esperadas del iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/face-id-iphone-2623065.jpg' alt='Apple podría haber abandonado una de las funciones más esperadas del iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cinematograficos-movistar-plus-marzo-1016067'>Estrenos cinematográficos de Movistar Plus+ en marzo: nominadas al Oscar, cine familiar y jinetes justicieros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cinematograficos-movistar-plus-marzo-1016067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estrenos-cinematograficos-movistar-plus-marzo-nominadas-oscar-cine-familiar-jinetes-justicieros-2623063.jpg' alt='Estrenos cinematográficos de Movistar Plus+ en marzo: nominadas al Oscar, cine familiar y jinetes justicieros' />
     </a>
 </div>
 
