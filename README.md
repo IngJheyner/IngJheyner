@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471'>5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salon-muebles-lampara-pie-2622059.jpg' alt='5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-universo-vikingos-1015643'>Todos los estrenos de la semana en Netflix: ¿echabas en falta el universo de Vikingos?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-universo-vikingos-1015643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vikingos-valhalla-2583205.jpg' alt='Todos los estrenos de la semana en Netflix: ¿echabas en falta el universo de Vikingos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-ha-llegado-momento-cambiar-sarten-1014679'>Cómo saber si ha llegado el momento de cambiar de sartén</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-ha-llegado-momento-cambiar-sarten-1014679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-sarten-2533811.jpg' alt='Cómo saber si ha llegado el momento de cambiar de sartén' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675'>La mitad de los coches eléctricos matriculados se vende en China</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/recargar-coche-electrico-2497053.jpg' alt='La mitad de los coches eléctricos matriculados se vende en China' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-1015633'>39 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/39-noticias-tecnologia-comenzar-manana-informado-ultimo-1015633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/39-noticias-tecnologia-comenzar-manana-informado-ultimo-2622217.jpg' alt='39 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-jbl-1015383'>Altavoces Bluetooth JBL: estos son los mejores de esta marca</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-jbl-1015383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/jbl-flip-4-2480769.jpg' alt='Altavoces Bluetooth JBL: estos son los mejores de esta marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-1014601'>Barreras antirruido, puentes y hasta tiendas de campaña: así están reciclando las turbinas eólicas viejas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-1014601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barreras-antirruido-puentes-tiendas-campana-estan-reciclando-turbinas-eolicas-viejas-2620315.jpg' alt='Barreras antirruido, puentes y hasta tiendas de campaña: así están reciclando las turbinas eólicas viejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459'>Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tramos-luz-horarios-precios-oficiales-1012459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tramos-luz-horarios-debes-evitar-como-consultar-precios-oficiales-tiempo-real-2616573.jpg' alt='Tramos de la luz: horarios que debes evitar y cómo consultar los precios oficiales en tiempo real' />
     </a>
 </div>
 
