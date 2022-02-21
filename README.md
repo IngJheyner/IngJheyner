@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873'>La app con la que no te pasarás de parada de autobús si te quedas dormido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-no-te-pasaras-parada-autobus-te-quedas-dormido-1015873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nevermiss-2622695.jpg' alt='La app con la que no te pasarás de parada de autobús si te quedas dormido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927'>La inteligencia artificial como principal aliada en la conservación de la vida animal </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vida-animal-2622799.jpg' alt='La inteligencia artificial como principal aliada en la conservación de la vida animal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-hay-casi-ningun-smartphone-blanco-1015765'>¿Por qué no hay casi ningún smartphone blanco?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-hay-casi-ningun-smartphone-blanco-1015765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/viendo-movil-2563711.jpg' alt='¿Por qué no hay casi ningún smartphone blanco?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-veremos-nuevos-poco-mwc-apuntan-maneras-ser-otra-generacion-muy-recomendable-1015925'>Ya es oficial veremos los nuevos POCO en el MWC y apuntan maneras para ser otra generación muy recomendable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-veremos-nuevos-poco-mwc-apuntan-maneras-ser-otra-generacion-muy-recomendable-1015925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-poco-m4-pro-5g-2532639.jpg' alt='Ya es oficial veremos los nuevos POCO en el MWC y apuntan maneras para ser otra generación muy recomendable' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefonica-quiere-comprarle-dazn-45-derechos-laliga-futbol-ello-necesita-1400-millones-euros-1015897'>Telefónica quiere comprarle a DAZN su 45% de los derechos de LaLiga de futbol, para ello necesita 1.400 millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefonica-quiere-comprarle-dazn-45-derechos-laliga-futbol-ello-necesita-1400-millones-euros-1015897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Telefónica quiere comprarle a DAZN su 45% de los derechos de LaLiga de futbol, para ello necesita 1.400 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-go-portatil-barato-windows-11-cuesta-534eu-apenas-pesa-1-kg-1015391'>El Microsoft Surface Laptop Go es un portátil barato y con Windows 11: cuesta 534€ y apenas pesa 1 kg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-surface-laptop-go-portatil-barato-windows-11-cuesta-534eu-apenas-pesa-1-kg-1015391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/microsoft-surface-laptop-go-2219113.jpg' alt='El Microsoft Surface Laptop Go es un portátil barato y con Windows 11: cuesta 534€ y apenas pesa 1 kg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-llegara-abril-espana-i5-11a-gen-16-gb-ram-carga-rapida-65-w-1015865'>El realme Book Prime llegará en abril a España: i5 de 11ª Gen, 16 GB de RAM y carga rápida de 65 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-llegara-abril-espana-i5-11a-gen-16-gb-ram-carga-rapida-65-w-1015865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563251.jpg' alt='El realme Book Prime llegará en abril a España: i5 de 11ª Gen, 16 GB de RAM y carga rápida de 65 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dilema-hacker-criptomonedas-infinitas-2-millones-dolares-metalico-1015849'>El dilema de un hacker: criptomonedas infinitas o 2 millones de dólares en metálico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dilema-hacker-criptomonedas-infinitas-2-millones-dolares-metalico-1015849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-ethereum-2622549.jpg' alt='El dilema de un hacker: criptomonedas infinitas o 2 millones de dólares en metálico' />
     </a>
 </div>
 
