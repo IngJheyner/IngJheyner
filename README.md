@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-lavadora-evitar-olor-moho-1015771'>Cómo lavar una lavadora y evitar el olor a moho</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-lavar-lavadora-evitar-olor-moho-1015771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/separar-ropa-lavadora-2454363.jpg' alt='Cómo lavar una lavadora y evitar el olor a moho' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/material-revolucionara-seguridad-coches-chalecos-antibala-ademas-podra-ser-fuente-energia-1015867'>El material que revolucionará la seguridad en coches, chalecos antibala y que además podrá ser fuente de energía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/material-revolucionara-seguridad-coches-chalecos-antibala-ademas-podra-ser-fuente-energia-1015867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/meta-material-goma-universidad-massachusetts-amherst-2605359.jpg' alt='El material que revolucionará la seguridad en coches, chalecos antibala y que además podrá ser fuente de energía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761'>Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/kebap-2622421.jpg' alt='Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías' />
+    <h4><a href='https://computerhoy.com/noticias/life/utilizar-movil-comprobar-fugas-otros-mitos-microondas-ocu-1015807'>Utilizar el móvil para comprobar fugas y otros mitos sobre el microondas según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/utilizar-movil-comprobar-fugas-otros-mitos-microondas-ocu-1015807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microondas-2073879.jpg' alt='Utilizar el móvil para comprobar fugas y otros mitos sobre el microondas según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-no-abandona-mercado-smartphone-filtrado-nuevo-sony-xperia-5-iv-1015763'>Sony no abandona el mercado smartphone: filtrado el nuevo Sony Xperia 5 IV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-no-abandona-mercado-smartphone-filtrado-nuevo-sony-xperia-5-iv-1015763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sony-xperia-5-iii-analisis-opinion-2481339.jpg' alt='Sony no abandona el mercado smartphone: filtrado el nuevo Sony Xperia 5 IV' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-como-vera-samsung-galaxy-book-pro-2-360-1015829'>Se filtra cómo se verá el Samsung Galaxy Book Pro 2 360</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-como-vera-samsung-galaxy-book-pro-2-360-1015829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-book-pro-2-360-2622523.jpg' alt='Se filtra cómo se verá el Samsung Galaxy Book Pro 2 360' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-no-todo-mundo-conoce-evitar-whatsapp-te-sature-movil-1015747'>El sencillo truco que no todo el mundo conoce para evitar que WhatsApp te sature el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-no-todo-mundo-conoce-evitar-whatsapp-te-sature-movil-1015747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-estafa-2607135.jpg' alt='El sencillo truco que no todo el mundo conoce para evitar que WhatsApp te sature el móvil' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-abandonan-netflix-febrero-1015815'>Es la última semana para que veas estas series que abandonan Netflix en febrero</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-abandonan-netflix-febrero-1015815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/personajes-marvel-que-queremos-ver-juego-como-spider-man-ps4_3.jpg' alt='Es la última semana para que veas estas series que abandonan Netflix en febrero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385'>Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-rs670n4bc2-2621815.jpg' alt='Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='192.168.1.1: Cómo acceder al router para modificar su configuración' />
     </a>
 </div>
 
