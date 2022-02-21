@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697'>Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/caras-falsas-fake.jpg' alt='Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mejor-dia-semana-echar-gasolina-barato-combustible-1015689'>Este es el mejor día de la semana para echar gasolina: cuándo es más barato el combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mejor-dia-semana-echar-gasolina-barato-combustible-1015689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gasolinera-2622287.jpg' alt='Este es el mejor día de la semana para echar gasolina: cuándo es más barato el combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vacunas-cancer-herpes-varicela-tecnologia-arnm-servicio-medicina-1015663'>Vacunas contra el cáncer, herpes y varicela: la tecnología ARNm al servicio de la medicina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vacunas-cancer-herpes-varicela-tecnologia-arnm-servicio-medicina-1015663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/adn.jpg' alt='Vacunas contra el cáncer, herpes y varicela: la tecnología ARNm al servicio de la medicina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661'>Una nueva red social está a punto de llegar, y lo hace con polémica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-red-social-truth-social-trump-1015661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truth-social-2622261.jpg' alt='Una nueva red social está a punto de llegar, y lo hace con polémica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471'>5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/lamparas-pie-perfectas-casa-como-convertirlas-inteligentes-1015471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salon-muebles-lampara-pie-2622059.jpg' alt='5 lámparas de pie perfectas para tu casa (y cómo convertirlas en inteligentes)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-universo-vikingos-1015643'>Todos los estrenos de la semana en Netflix: ¿echabas en falta el universo de Vikingos?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-universo-vikingos-1015643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vikingos-valhalla-2583205.jpg' alt='Todos los estrenos de la semana en Netflix: ¿echabas en falta el universo de Vikingos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-ha-llegado-momento-cambiar-sarten-1014679'>Cómo saber si ha llegado el momento de cambiar de sartén</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-ha-llegado-momento-cambiar-sarten-1014679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-sarten-2533811.jpg' alt='Cómo saber si ha llegado el momento de cambiar de sartén' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675'>La mitad de los coches eléctricos matriculados se vende en China</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mitad-coches-electricos-matriculados-vende-china-1014675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/recargar-coche-electrico-2497053.jpg' alt='La mitad de los coches eléctricos matriculados se vende en China' />
     </a>
 </div>
 
