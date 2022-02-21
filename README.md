@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847'>Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/muerte-nilo-prohiben-estreno-pelicula-libano-kuwait-papel-gal-gadot-2614931.jpg' alt='Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071'>Apple podría haber abandonado una de las funciones más esperadas del iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-haber-abandonado-funciones-esperadas-iphone-14-1016071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/face-id-iphone-2623065.jpg' alt='Apple podría haber abandonado una de las funciones más esperadas del iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cinematograficos-movistar-plus-marzo-1016067'>Estrenos cinematográficos de Movistar Plus+ en marzo: nominadas al Oscar, cine familiar y jinetes justicieros</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cinematograficos-movistar-plus-marzo-1016067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estrenos-cinematograficos-movistar-plus-marzo-nominadas-oscar-cine-familiar-jinetes-justicieros-2623063.jpg' alt='Estrenos cinematográficos de Movistar Plus+ en marzo: nominadas al Oscar, cine familiar y jinetes justicieros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/takumi-son-5-hombres-fabrican-mano-motores-nissan-gt-r-1015843'>Los Takumi son los 5 hombres que fabrican a mano los motores del Nissan GT-R</a></h4>
     <a href='https://computerhoy.com/noticias/motor/takumi-son-5-hombres-fabrican-mano-motores-nissan-gt-r-1015843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuatro-cinco-takumi-nissan-2616053.jpg' alt='Los Takumi son los 5 hombres que fabrican a mano los motores del Nissan GT-R' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-ha-llegado-momento-cambiar-router-wifi-1016031'>Cómo saber si ha llegado el momento de cambiar tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-ha-llegado-momento-cambiar-router-wifi-1016031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-fibra-optica-2610861.jpg' alt='Cómo saber si ha llegado el momento de cambiar tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-televisores-samsung-neo-qled-4k-8k-2022-1016043'>Samsung estrena en España la nueva generación de televisores Samsung Neo QLED 4K y 8K para 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-televisores-samsung-neo-qled-4k-8k-2022-1016043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-estrena-espana-nueva-generacion-televisores-samsung-neo-qled-4k-8k-2022-2623023.jpg' alt='Samsung estrena en España la nueva generación de televisores Samsung Neo QLED 4K y 8K para 2022' />
     </a>
 </div>
 
