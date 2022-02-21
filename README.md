@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-lavadora-evitar-olor-moho-1015771'>Cómo lavar una lavadora y evitar el olor a moho</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-lavar-lavadora-evitar-olor-moho-1015771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/separar-ropa-lavadora-2454363.jpg' alt='Cómo lavar una lavadora y evitar el olor a moho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761'>Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías</a></h4>
     <a href='https://computerhoy.com/noticias/life/productos-mercadona-no-encontraras-estanterias-1015761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/kebap-2622421.jpg' alt='Deja de buscar: productos de Mercadona que ya no encontrarás más en sus estanterías' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385'>Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/siempre-sonaste-frigorifico-americano-ahora-hay-muy-barato-cuesta-599-euros-vende-amazon-1015385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hisense-rs670n4bc2-2621815.jpg' alt='Si siempre soñaste con un frigorífico americano, ahora hay uno muy barato: cuesta 599 euros y lo vende Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697'>Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/caras-falsas-creadas-ia-indistinguibles-incluso-expertos-1015697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/caras-falsas-fake.jpg' alt='Las caras falsas creadas por IA ya son indistinguibles incluso para los expertos' />
     </a>
 </div>
 
