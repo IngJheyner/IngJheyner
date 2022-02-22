@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095'>Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creadores-tiktok-van-amazon-aliexpress-fanno-tienda-productos-precios-chollo-2623143.jpg' alt='Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089'>Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gita-robot-te-sigue-llevar-compra-te-sientes-mitad-calle-2623127.jpg' alt='Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-samsung-galaxy-s22-no-libran-problemas-carga-rapida-1016059'>Los nuevos Samsung Galaxy S22 no se libran de los problemas con la carga rápida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-samsung-galaxy-s22-no-libran-problemas-carga-rapida-1016059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620797.jpg' alt='Los nuevos Samsung Galaxy S22 no se libran de los problemas con la carga rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847'>Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/muerte-nilo-ha-sido-prohibida-varios-paises-papel-gal-gadot-1015847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/muerte-nilo-prohiben-estreno-pelicula-libano-kuwait-papel-gal-gadot-2614931.jpg' alt='Muerte en el Nilo ha sido prohibida en varios países por el papel de Gal Gadot ' />
     </a>
 </div>
 
