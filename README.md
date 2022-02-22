@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-probando-modo-aun-oscuro-buscador-sustituye-gris-negro-1016299'>Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-probando-modo-aun-oscuro-buscador-sustituye-gris-negro-1016299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-modo-oscuro-2166101.jpg' alt='Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863'>Este cambio en la retina podría ser un signo oculto de alzhéimer</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Este cambio en la retina podría ser un signo oculto de alzhéimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-i3-dejara-fabricarse-verano-estos-motivos-1015859'>El BMW i3 dejará de fabricarse en verano por estos motivos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-i3-dejara-fabricarse-verano-estos-motivos-1015859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/bmw-i3.jpg' alt='El BMW i3 dejará de fabricarse en verano por estos motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2623319.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785'>Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557267.jpg' alt='Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283'>¿Se puede morir de una patada o un golpe muy fuerte en los testículos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puede-morir-patada-testiculos-2623317.jpg' alt='¿Se puede morir de una patada o un golpe muy fuerte en los testículos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095'>Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creadores-tiktok-van-amazon-aliexpress-fanno-tienda-productos-precios-chollo-2623143.jpg' alt='Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089'>Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gita-robot-te-sigue-llevar-compra-te-sientes-mitad-calle-2623127.jpg' alt='Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)' />
     </a>
 </div>
 
