@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489'>La incertidumbre Shiba Inu: razones vender ahora o comprar más</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-oppo-deja-ver-antes-presentacion-oficial-casi-11-pulgadas-snapdragon-870-1016597'>La tablet de Oppo se deja ver antes de su presentación oficial: casi 11 pulgadas y Snapdragon 870</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-oppo-deja-ver-antes-presentacion-oficial-casi-11-pulgadas-snapdragon-870-1016597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='La tablet de Oppo se deja ver antes de su presentación oficial: casi 11 pulgadas y Snapdragon 870' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-estrena-oferta-amazon-deja-nuevo-superventas-179-euros-1016515'>El Xiaomi Redmi Note 11 se estrena con oferta en Amazon, que deja el nuevo superventas en 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-estrena-oferta-amazon-deja-nuevo-superventas-179-euros-1016515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596977.jpg' alt='El Xiaomi Redmi Note 11 se estrena con oferta en Amazon, que deja el nuevo superventas en 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/indicios-movil-iphone-android-ha-sido-hackeado-puedes-hacer-cortarlo-1016449'>Indicios de que tu móvil iPhone o Android ha sido hackeado y qué puedes hacer para cortarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/indicios-movil-iphone-android-ha-sido-hackeado-puedes-hacer-cortarlo-1016449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/hackeo-directivos-2150965.jpg' alt='Indicios de que tu móvil iPhone o Android ha sido hackeado y qué puedes hacer para cortarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489'>La incertidumbre Shiba Inu: razones para vender ahora o comprar más</a></h4>
     <a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='La incertidumbre Shiba Inu: razones vender ahora o comprar más' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='La incertidumbre Shiba Inu: razones para vender ahora o comprar más' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acciones-rapidas-mejorar-velocidad-conexion-wifi-cambiar-router-1016493'>Acciones rápidas para mejorar la velocidad de tu conexión WiFi sin cambiar el router</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acciones-rapidas-mejorar-velocidad-conexion-wifi-cambiar-router-1016493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Acciones rápidas para mejorar la velocidad de tu conexión WiFi sin cambiar el router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-romanticas-como-criptoestafadores-han-convertido-aplicaciones-citas-nuevo-objetivo-1016513'>Las "estafas románticas" y cómo los criptoestafadores han convertido las aplicaciones de citas en su nuevo objetivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafas-romanticas-como-criptoestafadores-han-convertido-aplicaciones-citas-nuevo-objetivo-1016513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Las "estafas románticas" y cómo los criptoestafadores han convertido las aplicaciones de citas en su nuevo objetivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-miniseries-exclusivas-netflix-ver-enteras-fin-semana-811891'>Las mejores miniseries de Netflix exclusivas para ver del tirón en un fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-miniseries-exclusivas-netflix-ver-enteras-fin-semana-811891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Las mejores miniseries de Netflix exclusivas para ver del tirón en un fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-buds-pro-oferta-99-euros-1016393'>Amazon liquida unos de los mejores auriculares de Samsung: estos Galaxy Buds Pro ahora solo cuestan 92€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-buds-pro-oferta-99-euros-1016393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samusng-galaxy-buds-pro-2249059.jpg' alt='Amazon liquida unos de los mejores auriculares de Samsung: estos Galaxy Buds Pro ahora solo cuestan 92€' />
     </a>
 </div>
 
