@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2623319.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785'>Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557267.jpg' alt='Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283'>¿Se puede morir de una patada o un golpe muy fuerte en los testículos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puede-morir-patada-testiculos-2623317.jpg' alt='¿Se puede morir de una patada o un golpe muy fuerte en los testículos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089'>Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gita-robot-piaggio-video-1016089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gita-robot-te-sigue-llevar-compra-te-sientes-mitad-calle-2623127.jpg' alt='Gita, el robot de Piaggio que te sigue para llevar la compra, o para que te sientes en mitad de la calle (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079'>POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-1016079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-tambien-apuntaria-lanzar-relojes-inteligentes-haria-poco-watch-2623121.jpg' alt='POCO también se apuntaría a lanzar relojes inteligentes y lo haría con el POCO Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077'>Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ahora-mejor-momento-comprar-ventilador-stock-precios-bajos-modelo-pie-solo-cuesta-33-euros-2623077.jpg' alt='Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros' />
     </a>
 </div>
 
