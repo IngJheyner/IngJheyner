@@ -50,8 +50,32 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-probando-modo-aun-oscuro-buscador-sustituye-gris-negro-1016299'>Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-probando-modo-aun-oscuro-buscador-sustituye-gris-negro-1016299' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-poco-x4-pro-snapdragon-695-panel-oled-carga-rapida-67-w-1016323'>Amazon confirma el Poco X4 Pro: Snapdragon 695, panel OLED y carga rápida de 67 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-poco-x4-pro-snapdragon-695-panel-oled-carga-rapida-67-w-1016323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/poco-x3-gt-presenta-procesador-mediatek-2415889.jpg' alt='Amazon confirma el Poco X4 Pro: Snapdragon 695, panel OLED y carga rápida de 67 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-fin-discusiones-dejara-abandonar-conversaciones-1016313'>Twitter quiere poner fin a algunas notificaciones y te dejará abandonar por completo las conversaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-fin-discusiones-dejara-abandonar-conversaciones-1016313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/enfado-movil-2623335.jpg' alt='Twitter quiere poner fin a algunas notificaciones y te dejará abandonar por completo las conversaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-packs-pilas-aaa-recargables-1015877'>Mejores packs de pilas AAA recargables que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-packs-pilas-aaa-recargables-1015877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pilas-reciclar-2622899.jpg' alt='Mejores packs de pilas AAA recargables que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-ha-creado-modo-aun-oscuro-buscador-1016299'>Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-ha-creado-modo-aun-oscuro-buscador-1016299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-modo-oscuro-2166101.jpg' alt='Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro' />
     </a>
 </div>
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863'>Este cambio en la retina podría ser un signo oculto de alzhéimer</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Este cambio en la retina podría ser un signo oculto de alzhéimer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-i3-dejara-fabricarse-verano-estos-motivos-1015859'>El BMW i3 dejará de fabricarse en verano por estos motivos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-i3-dejara-fabricarse-verano-estos-motivos-1015859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/bmw-i3.jpg' alt='El BMW i3 dejará de fabricarse en verano por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1016287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2623319.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785'>Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-kindle-1015785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557267.jpg' alt='Fundas para Kindle: estas son las mejores que puedes comprar para sus distintas versiones' />
     </a>
 </div>
 
