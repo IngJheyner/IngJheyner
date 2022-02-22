@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643'>Sony desvela el aspecto y el nombre final de sus nuevas gafas de realidad virtual PlayStation VR2, y son revolucionarias</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643'>Sony desvela el aspecto de sus nuevas gafas de realidad virtual PlayStation VR2, y esconden muchas sorpresas en su interior</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony desvela el aspecto y el nombre final de sus nuevas gafas de realidad virtual PlayStation VR2, y son revolucionarias' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony desvela el aspecto de sus nuevas gafas de realidad virtual PlayStation VR2, y esconden muchas sorpresas en su interior' />
     </a>
 </div>
 
