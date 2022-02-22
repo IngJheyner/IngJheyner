@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283'>¿Se puede morir de una patada o un golpe muy fuerte en los testículos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/se-puede-morir-patada-testiculos-1016283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puede-morir-patada-testiculos-2623317.jpg' alt='¿Se puede morir de una patada o un golpe muy fuerte en los testículos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095'>Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/creadores-tiktok-tienda-fanno-precios-chollo-1016095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/creadores-tiktok-van-amazon-aliexpress-fanno-tienda-productos-precios-chollo-2623143.jpg' alt='Los creadores de TikTok van a por Amazon y AliExpress con Fanno, su tienda de productos a precios chollo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077'>Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-cecotec-oferta-1016077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ahora-mejor-momento-comprar-ventilador-stock-precios-bajos-modelo-pie-solo-cuesta-33-euros-2623077.jpg' alt='Ahora es el mejor momento para comprar un ventilador, con stock y precios bajos: este modelo de pie solo cuesta 33 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-samsung-galaxy-s22-no-libran-problemas-carga-rapida-1016059'>Los nuevos Samsung Galaxy S22 no se libran de los problemas con la carga rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-samsung-galaxy-s22-no-libran-problemas-carga-rapida-1016059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620797.jpg' alt='Los nuevos Samsung Galaxy S22 no se libran de los problemas con la carga rápida' />
     </a>
 </div>
 
