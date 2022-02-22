@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-mas-pequena-mundo-grano-sal-1016751'>La batería más pequeña del mundo tiene el tamaño de un grano de sal, y está pensada para metértela en el cuerpo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-mas-pequena-mundo-grano-sal-1016751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bateria-pequena-mundo-tiene-tamano-grano-sal-pensada-metertela-cuerpo-2624357.jpg' alt='La batería más pequeña del mundo tiene el tamaño de un grano de sal, y está pensada para metértela en el cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-snapdragon-wear-5100-5100-daran-vida-relojes-inteligentes-ano-1016747'>Todo lo que sabemos acerca de los nuevos Snapdragon Wear 5100 y 5100+ que darán vida a los relojes inteligentes de este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-snapdragon-wear-5100-5100-daran-vida-relojes-inteligentes-ano-1016747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='Todo lo que sabemos acerca de los nuevos Snapdragon Wear 5100 y 5100+ que darán vida a los relojes inteligentes de este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745'>No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539'>La saga continúa: Sega y Paramount confirman Sonic La Película 3</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sonic-2-2568845.jpg' alt='La saga continúa: Sega y Paramount confirman Sonic La Película 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-app-limpieza-movil-eliminala-ahora-mismo-troyano-1016725'>Si tienes está app de limpieza en tu móvil elimínala ahora mismo, es un troyano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-app-limpieza-movil-eliminala-ahora-mismo-troyano-1016725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Si tienes está app de limpieza en tu móvil elimínala ahora mismo, es un troyano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719'>Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/otra-vida-2624223.jpg' alt='Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales' />
     </a>
 </div>
 
