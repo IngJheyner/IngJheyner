@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cuidado-casco-moto-multa-200-euros-4-puntos-te-pueden-poner-dgt-1016459'>Cuidado con el casco de tu moto: la multa de 200 euros y 4 puntos que te pueden poner, según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/cuidado-casco-moto-multa-200-euros-4-puntos-te-pueden-poner-dgt-1016459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-moto-2284441.jpg' alt='Cuidado con el casco de tu moto: la multa de 200 euros y 4 puntos que te pueden poner, según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-ganar-mejores-series-ozark-1016447'>Netflix vuelve a triunfar y una de sus mejores series se ha coronado como lo más visto</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-ganar-mejores-series-ozark-1016447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ozark-2623627.jpg' alt='Netflix vuelve a triunfar y una de sus mejores series se ha coronado como lo más visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-nas-asustor-desconectalo-inmediatamente-pueden-secuestrar-datos-1016391'>Si tienes un NAS Asustor desconéctalo inmediatamente o pueden secuestrar tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-nas-asustor-desconectalo-inmediatamente-pueden-secuestrar-datos-1016391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nas-2623511.jpg' alt='Si tienes un NAS Asustor desconéctalo inmediatamente o pueden secuestrar tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ajuste-whatsapp-protege-cuenta-miradas-indiscretas-nadie-suele-activar-1016401'>El ajuste de WhatsApp que protege tu cuenta de miradas indiscretas y que nadie suele activar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ajuste-whatsapp-protege-cuenta-miradas-indiscretas-nadie-suele-activar-1016401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='El ajuste de WhatsApp que protege tu cuenta de miradas indiscretas y que nadie suele activar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panasonic-lumix-gh6-nueva-bestia-mirrorless-25-mpx-m43-perfecta-video-1016379'>Panasonic Lumix GH6, así es la nueva bestia mirrorless de 25 Mpx M43, perfecta para vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panasonic-lumix-gh6-nueva-bestia-mirrorless-25-mpx-m43-perfecta-video-1016379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/panasonic-lumix-gh6-2623435.jpg' alt='Panasonic Lumix GH6, así es la nueva bestia mirrorless de 25 Mpx M43, perfecta para vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/liquidacion-portatiles-amazon-asus-acer-dell-microsoft-1015851'>Liquidación en portátiles en Amazon: ASUS, Acer y Dell rebajan decenas de modelos</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/liquidacion-portatiles-amazon-asus-acer-dell-microsoft-1015851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/portatil-dell-xps-cafeteria-2395275.jpg' alt='Liquidación en portátiles en Amazon: ASUS, Acer y Dell rebajan decenas de modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/generacion-neumaticos-aire-coches-electricos-michelin-1016353'>Así será la siguiente generación de neumáticos sin aire para coches eléctricos, según Michelin</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/generacion-neumaticos-aire-coches-electricos-michelin-1016353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/neumaticos-2623423.jpg' alt='Así será la siguiente generación de neumáticos sin aire para coches eléctricos, según Michelin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-resistencia-estructural-no-dobla-mitad-test-jerryrigeverything-1016365'>El OnePlus 10 Pro y su resistencia estructural, o no: se dobla por la mitad en el test de JerryRigEverything</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-resistencia-estructural-no-dobla-mitad-test-jerryrigeverything-1016365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2623431.jpg' alt='El OnePlus 10 Pro y su resistencia estructural, o no: se dobla por la mitad en el test de JerryRigEverything' />
     </a>
 </div>
 
