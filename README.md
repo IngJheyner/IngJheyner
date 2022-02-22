@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545'>¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-afirma-coche-electrico-destruira-medio-millon-empleos-2553737.jpg' alt='¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-apple-macnificos-estos-accesorios-tienen-precios-bajos-1016435'>Liquidación en productos para Apple en Macnificos: estos accesorios tienen los precios más bajos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-apple-macnificos-estos-accesorios-tienen-precios-bajos-1016435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escritorio-productos-apple-2623631.jpg' alt='Liquidación en productos para Apple en Macnificos: estos accesorios tienen los precios más bajos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/slack-ha-caido-todo-mundo-no-companeros-jefe-pasen-ti-1016645'>Slack se ha caído en todo el mundo, no es que tus compañeros y jefe pasen de ti</a></h4>
+    <a href='https://computerhoy.com/noticias/slack-ha-caido-todo-mundo-no-companeros-jefe-pasen-ti-1016645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/slack-1904293.jpg' alt='Slack se ha caído en todo el mundo, no es que tus compañeros y jefe pasen de ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643'>Sony desvela el aspecto y el nombre final de sus nuevas gafas de realidad virtual PlayStation VR2, y son revolucionarias</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony desvela el aspecto y el nombre final de sus nuevas gafas de realidad virtual PlayStation VR2, y son revolucionarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-conocimientos-musicales-divertida-web-1016527'>Por a prueba tus conocimientos musicales con esta divertida web</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prueba-conocimientos-musicales-divertida-web-1016527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/musica-2623765.jpg' alt='Por a prueba tus conocimientos musicales con esta divertida web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-oppo-deja-ver-antes-presentacion-oficial-casi-11-pulgadas-snapdragon-870-1016597'>La tablet de Oppo se deja ver antes de su presentación oficial: casi 11 pulgadas y Snapdragon 870</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-oppo-deja-ver-antes-presentacion-oficial-casi-11-pulgadas-snapdragon-870-1016597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-oppo-2450773.jpg' alt='La tablet de Oppo se deja ver antes de su presentación oficial: casi 11 pulgadas y Snapdragon 870' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-estrena-oferta-amazon-deja-nuevo-superventas-179-euros-1016515'>El Xiaomi Redmi Note 11 se estrena con oferta en Amazon, que deja el nuevo superventas en 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-estrena-oferta-amazon-deja-nuevo-superventas-179-euros-1016515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-note-11-2596977.jpg' alt='El Xiaomi Redmi Note 11 se estrena con oferta en Amazon, que deja el nuevo superventas en 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/indicios-movil-iphone-android-ha-sido-hackeado-puedes-hacer-cortarlo-1016449'>Indicios de que tu móvil iPhone o Android ha sido hackeado y qué puedes hacer para cortarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/indicios-movil-iphone-android-ha-sido-hackeado-puedes-hacer-cortarlo-1016449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/hackeo-directivos-2150965.jpg' alt='Indicios de que tu móvil iPhone o Android ha sido hackeado y qué puedes hacer para cortarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489'>La incertidumbre Shiba Inu: razones para vender ahora o comprar más</a></h4>
-    <a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='La incertidumbre Shiba Inu: razones para vender ahora o comprar más' />
     </a>
 </div>
 
