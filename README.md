@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-resistencia-estructural-no-dobla-mitad-test-jerryrigeverything-1016365'>El OnePlus 10 Pro y su resistencia estructural, o no: se dobla por la mitad en el test de JerryRigEverything</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-resistencia-estructural-no-dobla-mitad-test-jerryrigeverything-1016365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2623431.jpg' alt='El OnePlus 10 Pro y su resistencia estructural, o no: se dobla por la mitad en el test de JerryRigEverything' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-poco-x4-pro-snapdragon-695-panel-oled-carga-rapida-67-w-1016323'>Amazon confirma el Poco X4 Pro: Snapdragon 695, panel OLED y carga rápida de 67 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-poco-x4-pro-snapdragon-695-panel-oled-carga-rapida-67-w-1016323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/poco-x3-gt-presenta-procesador-mediatek-2415889.jpg' alt='Amazon confirma el Poco X4 Pro: Snapdragon 695, panel OLED y carga rápida de 67 W' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-ha-creado-modo-aun-oscuro-buscador-1016299'>Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-ha-creado-modo-aun-oscuro-buscador-1016299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-modo-oscuro-2166101.jpg' alt='Google está probando un modo aún más oscuro para su buscador que sustituye el gris por el negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863'>Este cambio en la retina podría ser un signo oculto de alzhéimer</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambio-retina-podria-ser-signo-oculto-alzheimer-1015863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Este cambio en la retina podría ser un signo oculto de alzhéimer' />
     </a>
 </div>
 
