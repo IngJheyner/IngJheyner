@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745'>No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reels-llegan-facebook-intentar-competir-popularidad-tiktok-1016743'>Los Reels llegan a Facebook para intentar competir con la popularidad de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reels-llegan-facebook-intentar-competir-popularidad-tiktok-1016743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reels-llegan-facebook-intentar-competir-popularidad-tiktok-2624351.jpg' alt='Los Reels llegan a Facebook para intentar competir con la popularidad de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539'>La saga continúa: Sega y Paramount confirman Sonic La Película 3</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sonic-2-2568845.jpg' alt='La saga continúa: Sega y Paramount confirman Sonic La Película 3' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719'>Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/otra-vida-2624223.jpg' alt='Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acontra-plus-nueva-plataforma-streaming-regala-entradas-cine-1016727'>Se estrena acontra+, una nueva plataforma de streaming que te regala entradas de cine</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/acontra-plus-nueva-plataforma-streaming-regala-entradas-cine-1016727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estrena-acontra-nueva-plataforma-streaming-te-regala-entradas-cine-2624267.jpg' alt='Se estrena acontra+, una nueva plataforma de streaming que te regala entradas de cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-apple-podria-contar-piloto-automatico-competir-tesla-1016683'>El coche de Apple podría contar con piloto automático para competir con Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coche-apple-podria-contar-piloto-automatico-competir-tesla-1016683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/modo-centinela-tesla-2115973.jpg' alt='El coche de Apple podría contar con piloto automático para competir con Tesla' />
     </a>
 </div>
 
