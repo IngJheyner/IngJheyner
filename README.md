@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661'>Es probable que no te interese actualizar tu Amazon Fire TV a la última versión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Es probable que no te interese actualizar tu Amazon Fire TV a la última versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/crisis-chips-podria-durar-esperado-tsmc-tiene-problemas-fabricacion-3nm-1016665'>La crisis de los chips podría durar más de lo esperado: TSMC tiene problemas en la fabricación en 3nm</a></h4>
+    <a href='https://computerhoy.com/noticias/crisis-chips-podria-durar-esperado-tsmc-tiene-problemas-fabricacion-3nm-1016665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg' alt='La crisis de los chips podría durar más de lo esperado: TSMC tiene problemas en la fabricación en 3nm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629'>10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo</a></h4>
+    <a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ps-vita-2624087.jpg' alt='10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647'>Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/redmi-k50-pro-2623995.jpg' alt='Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545'>¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-afirma-coche-electrico-destruira-medio-millon-empleos-2553737.jpg' alt='¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-apple-macnificos-estos-accesorios-tienen-precios-bajos-1016435'>Liquidación en productos para Apple en Macnificos: estos accesorios tienen los precios más bajos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-apple-macnificos-estos-accesorios-tienen-precios-bajos-1016435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escritorio-productos-apple-2623631.jpg' alt='Liquidación en productos para Apple en Macnificos: estos accesorios tienen los precios más bajos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/slack-ha-caido-todo-mundo-no-companeros-jefe-pasen-ti-1016645'>Slack se ha caído en todo el mundo, no es que tus compañeros y jefe pasen de ti</a></h4>
-    <a href='https://computerhoy.com/noticias/slack-ha-caido-todo-mundo-no-companeros-jefe-pasen-ti-1016645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/slack-1904293.jpg' alt='Slack se ha caído en todo el mundo, no es que tus compañeros y jefe pasen de ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643'>Sony desvela el aspecto de sus nuevas gafas de realidad virtual PlayStation VR2, y esconden muchas sorpresas en su interior</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-realidad-virtual-diseno-final-1016643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony desvela el aspecto de sus nuevas gafas de realidad virtual PlayStation VR2, y esconden muchas sorpresas en su interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-conocimientos-musicales-divertida-web-1016527'>Por a prueba tus conocimientos musicales con esta divertida web</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prueba-conocimientos-musicales-divertida-web-1016527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/musica-2623765.jpg' alt='Por a prueba tus conocimientos musicales con esta divertida web' />
     </a>
 </div>
 
