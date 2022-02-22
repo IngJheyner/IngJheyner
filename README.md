@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dmc-12-marty-mcfly-tendra-heredero-delorean-envolved-1016535'>El DMC-12 de Marty McFly tendrá un heredero: DeLorean Envolved</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dmc-12-marty-mcfly-tendra-heredero-delorean-envolved-1016535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/delorean-envolved-2617075.jpg' alt='El DMC-12 de Marty McFly tendrá un heredero: DeLorean Envolved' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603'>Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/silla-escritorio-2620333.jpg' alt='Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629'>10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo</a></h4>
     <a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ps-vita-2624087.jpg' alt='10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647'>Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/redmi-k50-pro-2623995.jpg' alt='Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto' />
     </a>
 </div>
 
