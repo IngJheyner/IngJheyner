@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuidado-casco-moto-multa-200-euros-4-puntos-te-pueden-poner-dgt-1016459'>Cuidado con el casco de tu moto: la multa de 200 euros y 4 puntos que te pueden poner, según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/cuidado-casco-moto-multa-200-euros-4-puntos-te-pueden-poner-dgt-1016459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-moto-2284441.jpg' alt='Cuidado con el casco de tu moto: la multa de 200 euros y 4 puntos que te pueden poner, según la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489'>La incertidumbre Shiba Inu: razones vender ahora o comprar más</a></h4>
+    <a href='https://computerhoy.com/noticias/incertidumbre-shiba-inu-razones-vender-ahora-comprar-1016489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2563483.jpg' alt='La incertidumbre Shiba Inu: razones vender ahora o comprar más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-ganar-mejores-series-ozark-1016447'>Netflix vuelve a triunfar y una de sus mejores series se ha coronado como lo más visto</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-ganar-mejores-series-ozark-1016447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ozark-2623627.jpg' alt='Netflix vuelve a triunfar y una de sus mejores series se ha coronado como lo más visto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acciones-rapidas-mejorar-velocidad-conexion-wifi-cambiar-router-1016493'>Acciones rápidas para mejorar la velocidad de tu conexión WiFi sin cambiar el router</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acciones-rapidas-mejorar-velocidad-conexion-wifi-cambiar-router-1016493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Acciones rápidas para mejorar la velocidad de tu conexión WiFi sin cambiar el router' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-nas-asustor-desconectalo-inmediatamente-pueden-secuestrar-datos-1016391'>Si tienes un NAS Asustor desconéctalo inmediatamente o pueden secuestrar tus datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-nas-asustor-desconectalo-inmediatamente-pueden-secuestrar-datos-1016391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nas-2623511.jpg' alt='Si tienes un NAS Asustor desconéctalo inmediatamente o pueden secuestrar tus datos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-romanticas-como-criptoestafadores-han-convertido-aplicaciones-citas-nuevo-objetivo-1016513'>Las "estafas románticas" y cómo los criptoestafadores han convertido las aplicaciones de citas en su nuevo objetivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estafas-romanticas-como-criptoestafadores-han-convertido-aplicaciones-citas-nuevo-objetivo-1016513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estafas-romanticas-2614437.jpg' alt='Las "estafas románticas" y cómo los criptoestafadores han convertido las aplicaciones de citas en su nuevo objetivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ajuste-whatsapp-protege-cuenta-miradas-indiscretas-nadie-suele-activar-1016401'>El ajuste de WhatsApp que protege tu cuenta de miradas indiscretas y que nadie suele activar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ajuste-whatsapp-protege-cuenta-miradas-indiscretas-nadie-suele-activar-1016401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='El ajuste de WhatsApp que protege tu cuenta de miradas indiscretas y que nadie suele activar' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-miniseries-exclusivas-netflix-ver-enteras-fin-semana-811891'>Las mejores miniseries de Netflix exclusivas para ver del tirón en un fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-miniseries-exclusivas-netflix-ver-enteras-fin-semana-811891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Las mejores miniseries de Netflix exclusivas para ver del tirón en un fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panasonic-lumix-gh6-nueva-bestia-mirrorless-25-mpx-m43-perfecta-video-1016379'>Panasonic Lumix GH6, así es la nueva bestia mirrorless de 25 Mpx M43, perfecta para vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panasonic-lumix-gh6-nueva-bestia-mirrorless-25-mpx-m43-perfecta-video-1016379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/panasonic-lumix-gh6-2623435.jpg' alt='Panasonic Lumix GH6, así es la nueva bestia mirrorless de 25 Mpx M43, perfecta para vídeo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-buds-pro-oferta-99-euros-1016393'>Amazon liquida unos de los mejores auriculares de Samsung: estos Galaxy Buds Pro ahora solo cuestan 92€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-buds-pro-oferta-99-euros-1016393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samusng-galaxy-buds-pro-2249059.jpg' alt='Amazon liquida unos de los mejores auriculares de Samsung: estos Galaxy Buds Pro ahora solo cuestan 92€' />
     </a>
 </div>
 
