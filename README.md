@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dmc-12-marty-mcfly-tendra-heredero-delorean-envolved-1016535'>El DMC-12 de Marty McFly tendrá un heredero: DeLorean Envolved</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dmc-12-marty-mcfly-tendra-heredero-delorean-envolved-1016535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/delorean-envolved-2617075.jpg' alt='El DMC-12 de Marty McFly tendrá un heredero: DeLorean Envolved' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539'>La saga continúa: Sega y Paramount confirman Sonic La Película 3</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/saga-continua-sega-paramount-confirman-sonic-pelicula-3-1016539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sonic-2-2568845.jpg' alt='La saga continúa: Sega y Paramount confirman Sonic La Película 3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603'>Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/silla-escritorio-2620333.jpg' alt='Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-app-limpieza-movil-eliminala-ahora-mismo-troyano-1016725'>Si tienes está app de limpieza en tu móvil elimínala ahora mismo, es un troyano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-app-limpieza-movil-eliminala-ahora-mismo-troyano-1016725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Si tienes está app de limpieza en tu móvil elimínala ahora mismo, es un troyano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661'>Es probable que no te interese actualizar tu Amazon Fire TV a la última versión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Es probable que no te interese actualizar tu Amazon Fire TV a la última versión' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719'>Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-cancelar-sorpresa-otra-grandes-series-originales-1016719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/otra-vida-2624223.jpg' alt='Netflix vuelve a cancelar por sorpresa otra de sus grandes series originales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/crisis-chips-podria-durar-esperado-tsmc-tiene-problemas-fabricacion-3nm-1016665'>La crisis de los chips podría durar más de lo esperado: TSMC tiene problemas en la fabricación en 3nm</a></h4>
-    <a href='https://computerhoy.com/noticias/crisis-chips-podria-durar-esperado-tsmc-tiene-problemas-fabricacion-3nm-1016665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg' alt='La crisis de los chips podría durar más de lo esperado: TSMC tiene problemas en la fabricación en 3nm' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acontra-plus-nueva-plataforma-streaming-regala-entradas-cine-1016727'>Se estrena acontra+, una nueva plataforma de streaming que te regala entradas de cine</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acontra-plus-nueva-plataforma-streaming-regala-entradas-cine-1016727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estrena-acontra-nueva-plataforma-streaming-te-regala-entradas-cine-2624267.jpg' alt='Se estrena acontra+, una nueva plataforma de streaming que te regala entradas de cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629'>10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo</a></h4>
-    <a href='https://computerhoy.com/noticias/10-anos-playstation-vita-historia-portatil-futurista-fracaso-1016629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ps-vita-2624087.jpg' alt='10 años de PlayStation Vita, una portátil futurista que se quedó a las puertas del triunfo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-apple-podria-contar-piloto-automatico-competir-tesla-1016683'>El coche de Apple podría contar con piloto automático para competir con Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coche-apple-podria-contar-piloto-automatico-competir-tesla-1016683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/modo-centinela-tesla-2115973.jpg' alt='El coche de Apple podría contar con piloto automático para competir con Tesla' />
     </a>
 </div>
 
