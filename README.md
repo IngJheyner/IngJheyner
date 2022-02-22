@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603'>Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sillas-escritorio-ikea-amazon-1014603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/silla-escritorio-2620333.jpg' alt='Mejores sillas de escritorio que puedes comprar en Amazon, Ikea y otras tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661'>Es probable que no te interese actualizar tu Amazon Fire TV a la última versión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/probable-no-te-interese-actualizar-amazon-fire-tv-ultima-version-1016661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Es probable que no te interese actualizar tu Amazon Fire TV a la última versión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647'>Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-redmi-k50-pro-no-tiene-nada-ver-habiamos-visto-1016647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/redmi-k50-pro-2623995.jpg' alt='Se filtra el diseño del Redmi K50 Pro y no tiene nada que ver con lo que habíamos visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545'>¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-ano-debes-hacer-te-interese-comprar-coche-electrico-1016545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-afirma-coche-electrico-destruira-medio-millon-empleos-2553737.jpg' alt='¿Cuántos kilómetros al año debes hacer para que te interese comprar un coche eléctrico?' />
     </a>
 </div>
 
