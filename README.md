@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tomar-magnesio-como-hacerlo-1016761'>Por qué deberías tomar magnesio, y cómo hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tomar-magnesio-como-hacerlo-1016761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deberias-tomar-magnesio-como-hacerlo-2624371.jpg' alt='Por qué deberías tomar magnesio, y cómo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/wateray-speaker-altavoz-agua-1016757'>El altavoz que tienes que llenar con agua (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/wateray-speaker-altavoz-agua-1016757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/altavoz-tienes-llenar-agua-2624369.jpg' alt='El altavoz que tienes que llenar con agua (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745'>No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reels-llegan-facebook-intentar-competir-popularidad-tiktok-1016743'>Los Reels llegan a Facebook para intentar competir con la popularidad de TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reels-llegan-facebook-intentar-competir-popularidad-tiktok-1016743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reels-llegan-facebook-intentar-competir-popularidad-tiktok-2624351.jpg' alt='Los Reels llegan a Facebook para intentar competir con la popularidad de TikTok' />
     </a>
 </div>
 
