@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-podria-empezar-integrar-steam-disfrutar-mejores-juegos-coches-1017051'>Tesla podría empezar a integrar Steam para disfrutar de los mejores juegos en sus coches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-podria-empezar-integrar-steam-disfrutar-mejores-juegos-coches-1017051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-2624673.jpg' alt='Tesla podría empezar a integrar Steam para disfrutar de los mejores juegos en sus coches' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477'>Dónde comprar el nuevo Redmi Note 11 al mejor precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597005.jpg' alt='Dónde comprar el nuevo Redmi Note 11 al mejor precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/multa-dgt-te-expones-cada-vez-abres-puerta-coche-1017085'>La multa de la DGT a la que te expones cada vez que abres la puerta del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/multa-dgt-te-expones-cada-vez-abres-puerta-coche-1017085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La multa de la DGT a la que te expones cada vez que abres la puerta del coche' />
+    <h4><a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069'>España destaca en la lista de las ciudades más saludables de mundo ocupando las dos primeras posiciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/8-alimentos-debes-tomar-recuperarte-enfermedad-operacion-2462571.jpg' alt='España destaca en la lista de las ciudades más saludables de mundo ocupando las dos primeras posiciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuatro-cosas-haces-continuamente-whatsapp-no-sabias-son-ilegales-1017015'>Cuatro cosas que haces continuamente en WhatsApp y que no sabías que son ilegales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuatro-cosas-haces-continuamente-whatsapp-no-sabias-son-ilegales-1017015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2508141.jpg' alt='Cuatro cosas que haces continuamente en WhatsApp y que no sabías que son ilegales' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo usar el traductor de Google y trucos ocultos para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/traductor-google-2624827.jpg' alt='Cómo usar el traductor de Google y trucos ocultos para sacarle el máximo partido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-colapso-poblacion-tierra-viajes-marte-1017061'>Elon Musk advierte de un colapso en la población de la Tierra que afectaría a los viajes a Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-colapso-poblacion-tierra-viajes-marte-1017061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-2624711.jpg' alt='Elon Musk advierte de un colapso en la población de la Tierra que afectaría a los viajes a Marte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-qled-android-televisor-55-tiene-150eu-descuento-convierte-ganga-1017025'>Panel QLED y Android: este televisor de 55" tiene 150€ de descuento y se convierte en una ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panel-qled-android-televisor-55-tiene-150eu-descuento-convierte-ganga-1017025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tcl-55c721-2624629.jpg' alt='Panel QLED y Android: este televisor de 55" tiene 150€ de descuento y se convierte en una ganga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iqoo-9-iqoo-9-son-nuevos-smartphones-compania-china-competir-2022-1017057'>Los iQOO 9 e iQOO 9 SE son los nuevos smartphones de la compañía china para competir en este 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iqoo-9-iqoo-9-son-nuevos-smartphones-compania-china-competir-2022-1017057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iqoo-9-2624709.jpg' alt='Los iQOO 9 e iQOO 9 SE son los nuevos smartphones de la compañía china para competir en este 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-quitar-marca-agua-windows-11-ordenador-no-cumple-requisitos-1017089'>Cómo quitar la marca de agua de Windows 11 si tu ordenador no cumple los requisitos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-quitar-marca-agua-windows-11-ordenador-no-cumple-requisitos-1017089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Cómo quitar la marca de agua de Windows 11 si tu ordenador no cumple los requisitos' />
     </a>
 </div>
 
