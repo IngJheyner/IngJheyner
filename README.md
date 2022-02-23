@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1016943'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1016943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2624541.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/profesional-peinando-mujer-secador-rodillo-2624009.jpg' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tomar-magnesio-como-hacerlo-1016761'>Por qué deberías tomar magnesio, y cómo hacerlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/tomar-magnesio-como-hacerlo-1016761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/deberias-tomar-magnesio-como-hacerlo-2624371.jpg' alt='Por qué deberías tomar magnesio, y cómo hacerlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-mas-pequena-mundo-grano-sal-1016751'>La batería más pequeña del mundo tiene el tamaño de un grano de sal, y está pensada para metértela en el cuerpo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bateria-mas-pequena-mundo-grano-sal-1016751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bateria-pequena-mundo-tiene-tamano-grano-sal-pensada-metertela-cuerpo-2624357.jpg' alt='La batería más pequeña del mundo tiene el tamaño de un grano de sal, y está pensada para metértela en el cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-snapdragon-wear-5100-5100-daran-vida-relojes-inteligentes-ano-1016747'>Todo lo que sabemos acerca de los nuevos Snapdragon Wear 5100 y 5100+ que darán vida a los relojes inteligentes de este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-snapdragon-wear-5100-5100-daran-vida-relojes-inteligentes-ano-1016747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='Todo lo que sabemos acerca de los nuevos Snapdragon Wear 5100 y 5100+ que darán vida a los relojes inteligentes de este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745'>No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/-purificador-aire-inteligente-levoit-cupon-descuento-1016745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='No debería faltar en ninguna casa: un purificador de aire inteligente, con cupón de descuento en Amazon' />
     </a>
 </div>
 
