@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-admite-wifigate-pixel-6-promete-solucion-marzo-1017035'>Google admite el wifigate de los Pixel 6 y promete solución en marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-admite-wifigate-pixel-6-promete-solucion-marzo-1017035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604653.jpg' alt='Google admite el wifigate de los Pixel 6 y promete solución en marzo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-podria-empezar-integrar-steam-disfrutar-mejores-juegos-coches-1017051'>Tesla podría empezar a integrar Steam para disfrutar de los mejores juegos en sus coches</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tesla-podria-empezar-integrar-steam-disfrutar-mejores-juegos-coches-1017051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-2624673.jpg' alt='Tesla podría empezar a integrar Steam para disfrutar de los mejores juegos en sus coches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-pago-fortuna-historia-anna-delvey-quien-anna-no-ha-podido-disfrutar-1016993'>Netflix pagó una fortuna por su historia a Anna Delvey de “¿Quién es Anna?” que no ha podido disfrutar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-pago-fortuna-historia-anna-delvey-quien-anna-no-ha-podido-disfrutar-1016993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-anna-2624611.jpg' alt='Netflix pagó una fortuna por su historia a Anna Delvey de “¿Quién es Anna?” que no ha podido disfrutar' />
+    <h4><a href='https://computerhoy.com/noticias/motor/multa-dgt-te-expones-cada-vez-abres-puerta-coche-1017085'>La multa de la DGT a la que te expones cada vez que abres la puerta del coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/multa-dgt-te-expones-cada-vez-abres-puerta-coche-1017085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La multa de la DGT a la que te expones cada vez que abres la puerta del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-solo-239eu-barato-xiaomi-tiene-incluso-bateria-velocidad-1015803'>Este patinete de solo 239€ es más barato que el de Xiaomi y tiene incluso más batería y velocidad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-solo-239eu-barato-xiaomi-tiene-incluso-bateria-velocidad-1015803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/patinete-electrico-olsson-spectre-85-2622463.jpg' alt='Este patinete de solo 239€ es más barato que el de Xiaomi y tiene incluso más batería y velocidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuatro-cosas-haces-continuamente-whatsapp-no-sabias-son-ilegales-1017015'>Cuatro cosas que haces continuamente en WhatsApp y que no sabías que son ilegales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuatro-cosas-haces-continuamente-whatsapp-no-sabias-son-ilegales-1017015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2508141.jpg' alt='Cuatro cosas que haces continuamente en WhatsApp y que no sabías que son ilegales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hyperloop-cambia-estrategia-llevar-pasajeros-acabar-crisis-suministros-1000-km-h-1017011'>Hyperloop cambia su estrategia: de llevar pasajeros a acabar con la crisis de suministros a más de 1.000 km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hyperloop-cambia-estrategia-llevar-pasajeros-acabar-crisis-suministros-1000-km-h-1017011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hyperloop-2624619.jpg' alt='Hyperloop cambia su estrategia: de llevar pasajeros a acabar con la crisis de suministros a más de 1.000 km/h' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-colapso-poblacion-tierra-viajes-marte-1017061'>Elon Musk advierte de un colapso en la población de la Tierra que afectaría a los viajes a Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-colapso-poblacion-tierra-viajes-marte-1017061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-2624711.jpg' alt='Elon Musk advierte de un colapso en la población de la Tierra que afectaría a los viajes a Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respaldo-masaje-shiatsu-lidl-perfecto-teletrabajo-1016991'>El respaldo de masaje shiatsu de LIDL es perfecto para el teletrabajo y ahora está al 50%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respaldo-masaje-shiatsu-lidl-perfecto-teletrabajo-1016991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/medisana-respaldo-masaje-shiatsu-2624599.jpg' alt='El respaldo de masaje shiatsu de LIDL es perfecto para el teletrabajo y ahora está al 50%' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iqoo-9-iqoo-9-son-nuevos-smartphones-compania-china-competir-2022-1017057'>Los iQOO 9 e iQOO 9 SE son los nuevos smartphones de la compañía china para competir en este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iqoo-9-iqoo-9-son-nuevos-smartphones-compania-china-competir-2022-1017057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iqoo-9-2624709.jpg' alt='Los iQOO 9 e iQOO 9 SE son los nuevos smartphones de la compañía china para competir en este 2022' />
     </a>
 </div>
 
