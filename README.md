@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347'>El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimo-gran-exito-hbo-max-tendra-segunda-temporada-1017107'>El último gran éxito de HBO Max tendrá segunda temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ultimo-gran-exito-hbo-max-tendra-segunda-temporada-1017107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peacemaker-2573841.jpg' alt='El último gran éxito de HBO Max tendrá segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343'>La DGT podría revertir la polémica norma de los adelantamientos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT podría revertir la polémica norma de los adelantamientos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339'>Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/prime-video-renueva-series-terror-importantes-espana-2625553.jpg' alt='Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mg-cyberster-nace-plantarle-cara-tesla-roadster-podra-1017101'>El MG Cyberster nace para plantarle cara al Tesla Roadster, ¿podrá?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mg-cyberster-nace-plantarle-cara-tesla-roadster-podra-1017101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mg-cyberster-2295191.jpg' alt='El MG Cyberster nace para plantarle cara al Tesla Roadster, ¿podrá?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-1017331'>Filtradas las primeras imágenes y especificaciones de los Google Pixel 7 y Pixel 7 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-1017331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-2625541.jpg' alt='Filtradas las primeras imágenes y especificaciones de los Google Pixel 7 y Pixel 7 Pro' />
     </a>
 </div>
 
