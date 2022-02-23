@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233'>¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/soldados-francia-2169655.jpg' alt='¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-7-nuevas-criptomonedas-podrian-dar-gran-salto-marzo-expertos-1017125'>Estas son las 7 nuevas criptomonedas que podrían dar el gran salto en marzo, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-7-nuevas-criptomonedas-podrian-dar-gran-salto-marzo-expertos-1017125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/criptomonedas-2624955.jpg' alt='Estas son las 7 nuevas criptomonedas que podrían dar el gran salto en marzo, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199'>Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bolsillos-pantalones.jpg' alt='Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157'>The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/beta-test-2625025.jpg' alt='The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-operativo-gratuito-llevan-todos-ordenadores-gamer-actualiza-6-anos-despues-1017131'>El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza... 6 años después</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sistema-operativo-gratuito-llevan-todos-ordenadores-gamer-actualiza-6-anos-despues-1017131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-strix-2576041.jpg' alt='El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza... 6 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477'>Dónde comprar el nuevo Redmi Note 11 al mejor precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597005.jpg' alt='Dónde comprar el nuevo Redmi Note 11 al mejor precio' />
     </a>
 </div>
 
