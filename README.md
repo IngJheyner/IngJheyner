@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-cumple-esperado-1016971'>Los usuarios empiezan a compartir sus experiencias con el robot Astro de Amazon: cumple con lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-cumple-esperado-1016971' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/respaldo-masaje-shiatsu-lidl-perfecto-teletrabajo-ahora-50-1016991'>El respaldo de masaje shiatsu de LIDL es perfecto para el teletrabajo y ahora está al 50%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/respaldo-masaje-shiatsu-lidl-perfecto-teletrabajo-ahora-50-1016991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/medisana-respaldo-masaje-shiatsu-2624599.jpg' alt='El respaldo de masaje shiatsu de LIDL es perfecto para el teletrabajo y ahora está al 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/contenidos-generados-ia-no-pueden-tener-copyright-1016973'>Los contenidos generados por IA no pueden tener copyright</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/contenidos-generados-ia-no-pueden-tener-copyright-1016973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/gomaespuma-inteligente-robots-2402683.jpg' alt='Los contenidos generados por IA no pueden tener copyright' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-1016971'>Los usuarios empiezan a compartir sus experiencias con el robot Astro de Amazon: cumple con lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-1016971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-astro-2486273.jpg' alt='Los usuarios empiezan a compartir sus experiencias con el robot Astro de Amazon: cumple con lo esperado' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-tiempo-eligiendo-prueba-otra-funcion-descubras-contenido-1016955'>Netflix quiere que no pierdas tiempo eligiendo y prueba otra función más para que descubras contenido</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-tiempo-eligiendo-prueba-otra-funcion-descubras-contenido-1016955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fast-laughs-2624549.jpg' alt='Netflix quiere que no pierdas tiempo eligiendo y prueba otra función más para que descubras contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-metamates-me-quiere-mark-zuckerberg-hable-compania-1016547'>Meta, Metamates, Me... Así quiere Mark Zuckerberg que se hable en la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-metamates-me-quiere-mark-zuckerberg-hable-compania-1016547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Meta, Metamates, Me... Así quiere Mark Zuckerberg que se hable en la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-elegir-casco-proteccion-bicis-vmp-homologado-1016541'>Cómo elegir un casco de protección para bicis y VMP que esté homologado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-elegir-casco-proteccion-bicis-vmp-homologado-1016541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/casco-luces-led-posteriores-2311663.jpg' alt='Cómo elegir un casco de protección para bicis y VMP que esté homologado' />
     </a>
 </div>
 
