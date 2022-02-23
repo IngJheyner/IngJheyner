@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197'>OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-tws-2625043.jpg' alt='OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157'>The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/beta-test-2625025.jpg' alt='The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-operativo-gratuito-llevan-todos-ordenadores-gamer-actualiza-6-anos-despues-1017131'>El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza... 6 años después</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sistema-operativo-gratuito-llevan-todos-ordenadores-gamer-actualiza-6-anos-despues-1017131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/asus-strix-2576041.jpg' alt='El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza... 6 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477'>Dónde comprar el nuevo Redmi Note 11 al mejor precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597005.jpg' alt='Dónde comprar el nuevo Redmi Note 11 al mejor precio' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069'>España destaca en la lista de las ciudades más saludables de mundo ocupando las dos primeras posiciones</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069'>España destaca en la lista de las ciudades más saludables del mundo ocupando las dos primeras posiciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/8-alimentos-debes-tomar-recuperarte-enfermedad-operacion-2462571.jpg' alt='España destaca en la lista de las ciudades más saludables de mundo ocupando las dos primeras posiciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo usar el traductor de Google y trucos ocultos para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/traductor-google-2624827.jpg' alt='Cómo usar el traductor de Google y trucos ocultos para sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-qled-android-televisor-55-tiene-150eu-descuento-convierte-ganga-1017025'>Panel QLED y Android: este televisor de 55" tiene 150€ de descuento y se convierte en una ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panel-qled-android-televisor-55-tiene-150eu-descuento-convierte-ganga-1017025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tcl-55c721-2624629.jpg' alt='Panel QLED y Android: este televisor de 55" tiene 150€ de descuento y se convierte en una ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-quitar-marca-agua-windows-11-ordenador-no-cumple-requisitos-1017089'>Cómo quitar la marca de agua de Windows 11 si tu ordenador no cumple los requisitos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-quitar-marca-agua-windows-11-ordenador-no-cumple-requisitos-1017089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Cómo quitar la marca de agua de Windows 11 si tu ordenador no cumple los requisitos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/8-alimentos-debes-tomar-recuperarte-enfermedad-operacion-2462571.jpg' alt='España destaca en la lista de las ciudades más saludables del mundo ocupando las dos primeras posiciones' />
     </a>
 </div>
 
