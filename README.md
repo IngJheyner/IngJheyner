@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-cumple-esperado-1016971'>Los usuarios empiezan a compartir sus experiencias con el robot Astro de Amazon: cumple con lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-empiezan-compartir-experiencias-robot-astro-amazon-cumple-esperado-1016971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-astro-2486273.jpg' alt='Los usuarios empiezan a compartir sus experiencias con el robot Astro de Amazon: cumple con lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Mejores móviles plegables que puedes comprar ya en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-elegir-casco-proteccion-bicis-vmp-homologado-1016541'>Cómo elegir un casco de protección para bicis y VMP que esté homologado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-elegir-casco-proteccion-bicis-vmp-homologado-1016541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/casco-luces-led-posteriores-2311663.jpg' alt='Cómo elegir un casco de protección para bicis y VMP que esté homologado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1016943'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1016943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2624541.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
