@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199'>Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bolsillos-pantalones.jpg' alt='Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197'>OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-tws-2625043.jpg' alt='OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477'>Dónde comprar el nuevo Redmi Note 11 al mejor precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/donde-comprar-xiaomi-redmi-note-11-mejor-precio-1015477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-11-pro-2597005.jpg' alt='Dónde comprar el nuevo Redmi Note 11 al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069'>España destaca en la lista de las ciudades más saludables del mundo ocupando las dos primeras posiciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espana-destaca-lista-ciudades-saludables-mundo-ocupando-dos-primeras-posiciones-1017069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/8-alimentos-debes-tomar-recuperarte-enfermedad-operacion-2462571.jpg' alt='España destaca en la lista de las ciudades más saludables del mundo ocupando las dos primeras posiciones' />
     </a>
 </div>
 
