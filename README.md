@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-megafabrica-baterias-coches-electricos-sagunto-1017315'>Volkswagen construirá una gigafábrica de baterías de coches eléctricos en Sagunto, creando 3.500 puestos de trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/volkswagen-megafabrica-baterias-coches-electricos-sagunto-1017315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volkswagen-construira-gigafabrica-baterias-coches-electricos-sagunto-creando-3500-puestos-trabajo-2625473.jpg' alt='Volkswagen construirá una gigafábrica de baterías de coches eléctricos en Sagunto, creando 3.500 puestos de trabajo' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343'>La DGT podría revertir la polémica norma de los adelantamientos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT podría revertir la polémica norma de los adelantamientos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/5-afeitadoras-corporales-hombre-buen-precio-1015857'>5 afeitadoras corporales para hombre a buen precio (e incluso las podrás usar bajo la ducha)</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/5-afeitadoras-corporales-hombre-buen-precio-1015857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/afeitadora-2622573.jpg' alt='5 afeitadoras corporales para hombre a buen precio (e incluso las podrás usar bajo la ducha)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337'>Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-1017277'>Crea una inteligencia artificial capaz de traducir el lenguaje de signos en tiempo real</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-1017277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-2625463.jpg' alt='Crea una inteligencia artificial capaz de traducir el lenguaje de signos en tiempo real' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339'>Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/prime-video-renueva-series-terror-importantes-espana-2625553.jpg' alt='Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-7-review-opinion-1015695'>Nubia RedMagic 7, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/nubia-redmagic-7-review-opinion-1015695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-redmagic-7-2625431.jpg' alt='Nubia RedMagic 7, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/motor/mg-cyberster-nace-plantarle-cara-tesla-roadster-podra-1017101'>El MG Cyberster nace para plantarle cara al Tesla Roadster, ¿podrá?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mg-cyberster-nace-plantarle-cara-tesla-roadster-podra-1017101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mg-cyberster-2295191.jpg' alt='El MG Cyberster nace para plantarle cara al Tesla Roadster, ¿podrá?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-1017331'>Filtradas las primeras imágenes y especificaciones de los Google Pixel 7 y Pixel 7 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-1017331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-2625541.jpg' alt='Filtradas las primeras imágenes y especificaciones de los Google Pixel 7 y Pixel 7 Pro' />
     </a>
 </div>
 
