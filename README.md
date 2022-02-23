@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-megafabrica-baterias-coches-electricos-sagunto-1017315'>Volkswagen construirá una gigafábrica de baterías de coches eléctricos en Sagunto, creando 3.500 puestos de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/volkswagen-megafabrica-baterias-coches-electricos-sagunto-1017315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volkswagen-construira-gigafabrica-baterias-coches-electricos-sagunto-creando-3500-puestos-trabajo-2625473.jpg' alt='Volkswagen construirá una gigafábrica de baterías de coches eléctricos en Sagunto, creando 3.500 puestos de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/5-afeitadoras-corporales-hombre-buen-precio-1015857'>5 afeitadoras corporales para hombre a buen precio (e incluso las podrás usar bajo la ducha)</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/5-afeitadoras-corporales-hombre-buen-precio-1015857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/afeitadora-2622573.jpg' alt='5 afeitadoras corporales para hombre a buen precio (e incluso las podrás usar bajo la ducha)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-1017277'>Crea una inteligencia artificial capaz de traducir el lenguaje de signos en tiempo real</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-1017277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/crea-inteligencia-artificial-capaz-traducir-lenguaje-signos-tiempo-real-2625463.jpg' alt='Crea una inteligencia artificial capaz de traducir el lenguaje de signos en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-7-review-opinion-1015695'>Nubia RedMagic 7, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/nubia-redmagic-7-review-opinion-1015695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-redmagic-7-2625431.jpg' alt='Nubia RedMagic 7, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/certificacion-moviles-google-performance-class-12-1017187'>Qué es la certificación para móviles Google Performance Class 12</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/certificacion-moviles-google-performance-class-12-1017187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Qué es la certificación para móviles Google Performance Class 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233'>¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/soldados-francia-2169655.jpg' alt='¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-7-nuevas-criptomonedas-podrian-dar-gran-salto-marzo-expertos-1017125'>Estas son las 7 nuevas criptomonedas que podrían dar el gran salto en marzo, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-7-nuevas-criptomonedas-podrian-dar-gran-salto-marzo-expertos-1017125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/criptomonedas-2624955.jpg' alt='Estas son las 7 nuevas criptomonedas que podrían dar el gran salto en marzo, según los expertos' />
     </a>
 </div>
 
