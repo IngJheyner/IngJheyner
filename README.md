@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363'>Bombilla inteligente de Ikea con regulador por 10€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bombilla-inteligente-ikea-regulador-10eu-2625583.jpg' alt='Bombilla inteligente de Ikea con regulador por 10€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347'>El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337'>Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339'>Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/historias-para-no-dormir-segunda-temporada-amazon-prime-video-1017339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/prime-video-renueva-series-terror-importantes-espana-2625553.jpg' alt='Prime Video ya rueda la segunda temporada de una de las series de terror más importantes de España' />
     </a>
 </div>
 
