@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367'>Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-2625587.jpg' alt='Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2gether-1017369'>Descarga una película pirata, y le roban 6 millones de euros en criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2gether-1017369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2625589.jpg' alt='Descarga una película pirata, y le roban 6 millones de euros en criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361'>Apple ha dotado a Siri de una nueva voz y así es como suena</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg' alt='Apple ha dotado a Siri de una nueva voz y así es como suena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363'>Bombilla inteligente de Ikea con regulador por 10€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bombilla-inteligente-ikea-regulador-10eu-2625583.jpg' alt='Bombilla inteligente de Ikea con regulador por 10€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347'>El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimo-gran-exito-hbo-max-tendra-segunda-temporada-1017107'>El último gran éxito de HBO Max tendrá segunda temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ultimo-gran-exito-hbo-max-tendra-segunda-temporada-1017107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/peacemaker-2573841.jpg' alt='El último gran éxito de HBO Max tendrá segunda temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343'>La DGT podría revertir la polémica norma de los adelantamientos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-podria-revertir-polemica-norma-adelantamientos-1017343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT podría revertir la polémica norma de los adelantamientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337'>Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-elimina-sorpresa-modo-chrome-permite-ahorrar-datos-tarifa-1017337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google elimina por sorpresa el modo de Chrome que permite ahorrar datos en tu tarifa' />
     </a>
 </div>
 
