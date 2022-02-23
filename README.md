@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/certificacion-moviles-google-performance-class-12-1017187'>Qué es la certificación para móviles Google Performance Class 12</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/certificacion-moviles-google-performance-class-12-1017187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/logo-android-12-2506305.jpg' alt='Qué es la certificación para móviles Google Performance Class 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233'>¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/afectaria-guerra-rusia-ucrania-crisis-semiconductores-opina-micron-1017233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/soldados-francia-2169655.jpg' alt='¿Afectaría una guerra entre Rusia y Ucrania a la crisis de semiconductores? Esto es lo que opina Micron' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199'>Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/medidas-tendrias-tomar-android-antes-te-roben-pierdas-movil-1017199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bolsillos-pantalones.jpg' alt='Medidas tendrías que tomar en tu Android antes de que te roben o pierdas el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197'>OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-tws-negro-dorado-seran-proximos-auriculares-compania-china-1017197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-tws-2625043.jpg' alt='OnePlus Nord TWS en negro y dorado: así serán los próximos auriculares de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157'>The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-thriller-filmin-me-gusta-big-data-beta-test-1017157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/beta-test-2625025.jpg' alt='The Beta Test es el nuevo thriller de Filmin que te avisa sobre los peligros de los Me gusta y el big data' />
     </a>
 </div>
 
