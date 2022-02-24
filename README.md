@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383'>Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejor-lavavajillas-detergente-polvo-gel-pastillas-2625613.jpg' alt='Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/liquid-3-mobiliario-urbano-convierte-co2-oxigeno-microalgas-1017379'>Mobiliario urbano que convierte el CO2 en oxígeno, gracias a unas microalgas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/liquid-3-mobiliario-urbano-convierte-co2-oxigeno-microalgas-1017379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/liquid-3-2625609.jpg' alt='Mobiliario urbano que convierte el CO2 en oxígeno, gracias a unas microalgas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361'>Apple ha dotado a Siri de una nueva voz y así es como suena</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg' alt='Apple ha dotado a Siri de una nueva voz y así es como suena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363'>Bombilla inteligente de Ikea con regulador por 10€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bombilla-inteligente-ikea-regulador-10eu-2625583.jpg' alt='Bombilla inteligente de Ikea con regulador por 10€' />
     </a>
 </div>
 
