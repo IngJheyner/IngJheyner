@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-listados-terroristas-creadores-competencia-1017633'>OnlyFans podría haber incluido en listas negras de terroristas a creadores de la competencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-listados-terroristas-creadores-competencia-1017633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='OnlyFans podría haber incluido en listas negras de terroristas a creadores de la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/11-pequenos-electrodomesticos-precio-chollo-aliexpress-air-fryer-cafeteras-batidoras-mucho-1017093'>11 pequeños electrodomésticos a precio de chollo en AliExpress: Air Fryer, cafeteras, batidoras y mucho más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/11-pequenos-electrodomesticos-precio-chollo-aliexpress-air-fryer-cafeteras-batidoras-mucho-1017093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/plancha-vertical-vapor-2624849.jpg' alt='11 pequeños electrodomésticos a precio de chollo en AliExpress: Air Fryer, cafeteras, batidoras y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tienes-jefe-toxico-estas-5-pistas-te-aclaran-1017117'>¿Tienes un jefe tóxico? Estas 5 pistas te lo aclaran</a></h4>
     <a href='https://computerhoy.com/noticias/life/tienes-jefe-toxico-estas-5-pistas-te-aclaran-1017117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/discusion-oficina-2624893.jpg' alt='¿Tienes un jefe tóxico? Estas 5 pistas te lo aclaran' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ha-solucionado-vulnerabilidad-afectaba-100-millones-moviles-1017617'>Samsung ha solucionado una vulnerabilidad que afectaba a más de 100 millones de móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ha-solucionado-vulnerabilidad-afectaba-100-millones-moviles-1017617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/samsung-galaxy-s20-opinion-1861393.jpg' alt='Samsung ha solucionado una vulnerabilidad que afectaba a más de 100 millones de móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/marca-ofrece-mejor-gama-suv-espana-skoda-ford-1017111'>Qué marca ofrece mejor gama SUV en España, ¿Skoda o Ford?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/marca-ofrece-mejor-gama-suv-espana-skoda-ford-1017111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/skoda-ford-gama-suv-2619085.jpg' alt='Qué marca ofrece mejor gama SUV en España, ¿Skoda o Ford?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1017607'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1017607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2625815.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-fotos-acuaticas-1017261'>Mejores cámaras de fotos acuáticas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-fotos-acuaticas-1017261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/camara-acuatica-gopro-2625223.jpg' alt='Mejores cámaras de fotos acuáticas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383'>Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejor-lavavajillas-detergente-polvo-gel-pastillas-2625613.jpg' alt='Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas' />
     </a>
 </div>
 
