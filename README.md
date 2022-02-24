@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849'>Es muy probable que a partir de ahora pagues más por Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2626357.jpg' alt='Es muy probable que a partir de ahora pagues más por Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-watch-free-oppo-enco-x2-son-nuevo-smartwatch-nuevos-auriculares-acompanaran-oppo-find-x5-1017807'>Oppo Watch Free y Oppo Enco X2 son el nuevo smartwatch y los nuevos auriculares que acompañarán al Oppo Find X5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-watch-free-oppo-enco-x2-son-nuevo-smartwatch-nuevos-auriculares-acompanaran-oppo-find-x5-1017807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oppo-watch-free-2626289.jpg' alt='Oppo Watch Free y Oppo Enco X2 son el nuevo smartwatch y los nuevos auriculares que acompañarán al Oppo Find X5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815'>Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nitro-pepsi-2626297.jpg' alt='Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-resto-criptomonedas-sufren-noche-tragica-unico-activo-alza-1017757'>Bitcoin y el resto de criptomonedas sufren una noche trágica con un único activo en alza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-resto-criptomonedas-sufren-noche-tragica-unico-activo-alza-1017757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='Bitcoin y el resto de criptomonedas sufren una noche trágica con un único activo en alza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941'>Comprar una freidora sin aceite: todo lo que debes saber: ¿es realmente lo que necesitas?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cosas-comprar-freidora-aceite-1000941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-mellerware-aceite-crunchy-2424475.jpg' alt='Comprar una freidora sin aceite: todo lo que debes saber: ¿es realmente lo que necesitas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-pro-find-x5-primeras-impresiones-toma-contacto-1017679'>Oppo Find X5 Pro y Find X5, primeras impresiones y toma de contacto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-pro-find-x5-primeras-impresiones-toma-contacto-1017679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626153.jpg' alt='Oppo Find X5 Pro y Find X5, primeras impresiones y toma de contacto' />
     </a>
 </div>
 
