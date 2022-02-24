@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1017607'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1017607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2625815.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-fotos-acuaticas-1017261'>Mejores cámaras de fotos acuáticas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-fotos-acuaticas-1017261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/camara-acuatica-gopro-2625223.jpg' alt='Mejores cámaras de fotos acuáticas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383'>Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-detergente-lavavajillas-polvo-gel-pastillas-1017383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mejor-lavavajillas-detergente-polvo-gel-pastillas-2625613.jpg' alt='Qué es mejor para el lavavajillas: detergente en polvo, gel o pastillas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367'>Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-2625587.jpg' alt='Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2gether-1017369'>Descarga una película pirata, y le roban 6 millones de euros en criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2gether-1017369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descarga-pelicula-pirata-roban-6-millones-euros-criptomonedas-2625589.jpg' alt='Descarga una película pirata, y le roban 6 millones de euros en criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361'>Apple ha dotado a Siri de una nueva voz y así es como suena</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-ha-dotado-siri-nueva-voz-como-suena-1017361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg' alt='Apple ha dotado a Siri de una nueva voz y así es como suena' />
     </a>
 </div>
 
