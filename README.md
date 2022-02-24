@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-mejorar-cobertura-movil-dentro-casa-1017743'>Trucos para mejorar la cobertura móvil dentro de casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-mejorar-cobertura-movil-dentro-casa-1017743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cobertura-2626155.jpg' alt='Trucos para mejorar la cobertura móvil dentro de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-hubble-nasa-captura-espectacular-colision-fusion-3-galaxias-1017729'>El telescopio Hubble de la NASA captura la espectacular colisión y fusión de 3 galaxias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telescopio-hubble-nasa-captura-espectacular-colision-fusion-3-galaxias-1017729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/radiotelescopio-1991719.jpg' alt='El telescopio Hubble de la NASA captura la espectacular colisión y fusión de 3 galaxias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/lamentablemente-ultima-primera-autovia-pago-espana-1017723'>Lamentablemente no será la última: así es la primera autovía de pago que ya funciona en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/lamentablemente-ultima-primera-autovia-pago-espana-1017723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/autovia-peaje-radar-2626011.jpg' alt='Lamentablemente no será la última: así es la primera autovía de pago que ya funciona en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-solo-bombas-municion-pesada-ucrania-denuncia-ataques-ddos-webs-oficiales-1017719'>No solo con bombas y munición pesada: Ucrania denuncia ataques DDoS a sus webs oficiales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-solo-bombas-municion-pesada-ucrania-denuncia-ataques-ddos-webs-oficiales-1017719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/7-mayores-ataques-ddos-historia-internet_2.jpg' alt='No solo con bombas y munición pesada: Ucrania denuncia ataques DDoS a sus webs oficiales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-presentacion-oppo-find-x5-nosotros-yt-twitch-fb-twitter-mucho-1017725'>Sigue en directo la presentación de los Oppo Find X5 con nosotros: YT, Twitch, FB, Twitter y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sigue-directo-presentacion-oppo-find-x5-nosotros-yt-twitch-fb-twitter-mucho-1017725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/find-x5-directo-2626015.jpg' alt='Sigue en directo la presentación de los Oppo Find X5 con nosotros: YT, Twitch, FB, Twitter y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-5g-nueva-red-interfiere-medidores-aviones-1017689'>Malas noticias para el 5G: la nueva red interfiere con los medidores de los aviones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-5g-nueva-red-interfiere-medidores-aviones-1017689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/avion-air-france-2295075.jpg' alt='Malas noticias para el 5G: la nueva red interfiere con los medidores de los aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/secretos-amish-limpiar-merece-pena-intentar-1017675'>Secretos Amish para limpiar que merece la pena intentar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/secretos-amish-limpiar-merece-pena-intentar-1017675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amish-2625897.jpg' alt='Secretos Amish para limpiar que merece la pena intentar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-fecha-episodios-finales-ozark-1017655'>Netflix pone fecha a los episodios finales de una de sus series más vistas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-fecha-episodios-finales-ozark-1017655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ozark-2198381.jpg' alt='Netflix pone fecha a los episodios finales de una de sus series más vistas' />
     </a>
 </div>
 
