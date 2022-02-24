@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teleobjetivo-canon-alcance-mundo-cuesta-coche-1017863'>Este es el teleobjetivo de Canon con más alcance del mundo y cuesta más que un coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teleobjetivo-canon-alcance-mundo-cuesta-coche-1017863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/canon-teleobjetivo-2626377.jpg' alt='Este es el teleobjetivo de Canon con más alcance del mundo y cuesta más que un coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/raton-logitech-ergo-m575-mitad-precio-amazon-1015717'>Este revolucionario ratón de Logitech está a mitad de precio en Amazon y te ahorrará dolores de muñeca</a></h4>
+    <a href='https://computerhoy.com/noticias/raton-logitech-ergo-m575-mitad-precio-amazon-1015717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-ergo-m575-2587513.jpg' alt='Este revolucionario ratón de Logitech está a mitad de precio en Amazon y te ahorrará dolores de muñeca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849'>Es muy probable que a partir de ahora pagues más por Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2626357.jpg' alt='Es muy probable que a partir de ahora pagues más por Disney+' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815'>Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nitro-pepsi-2626297.jpg' alt='Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-cosas-no-debes-hacer-nunca-whatsapp-bloqueada-cuenta-1017783'>10 cosas que no debes hacer nunca en WhatsApp si no quieres ver bloqueada tu cuenta para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-cosas-no-debes-hacer-nunca-whatsapp-bloqueada-cuenta-1017783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='10 cosas que no debes hacer nunca en WhatsApp si no quieres ver bloqueada tu cuenta para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-resto-criptomonedas-sufren-noche-tragica-unico-activo-alza-1017757'>Bitcoin y el resto de criptomonedas sufren una noche trágica con un único activo en alza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-resto-criptomonedas-sufren-noche-tragica-unico-activo-alza-1017757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='Bitcoin y el resto de criptomonedas sufren una noche trágica con un único activo en alza' />
     </a>
 </div>
 
