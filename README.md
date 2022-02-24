@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/liquid-3-mobiliario-urbano-convierte-co2-oxigeno-microalgas-1017379'>Mobiliario urbano que convierte el CO2 en oxígeno, gracias a unas microalgas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/liquid-3-mobiliario-urbano-convierte-co2-oxigeno-microalgas-1017379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/liquid-3-2625609.jpg' alt='Mobiliario urbano que convierte el CO2 en oxígeno, gracias a unas microalgas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367'>Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-1017367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/monederos-criptomonedas-llegan-navegadores-moviles-hacen-mano-opera-2625587.jpg' alt='Los monederos para criptomonedas llegan a los navegadores móviles y lo hacen de la mano de Opera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363'>Bombilla inteligente de Ikea con regulador por 10€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-ikea-regulador-chollo-1017363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bombilla-inteligente-ikea-regulador-10eu-2625583.jpg' alt='Bombilla inteligente de Ikea con regulador por 10€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347'>El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plan-meta-desarrollar-traductor-universal-utilizando-inteligencia-artificial-1017347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='El nuevo plan de Meta es desarrollar un traductor universal utilizando la inteligencia artificial' />
     </a>
 </div>
 
