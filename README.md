@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/secretos-amish-limpiar-merece-pena-intentar-1017675'>Secretos Amish para limpiar que merece la pena intentar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/secretos-amish-limpiar-merece-pena-intentar-1017675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amish-2625897.jpg' alt='Secretos Amish para limpiar que merece la pena intentar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-fecha-episodios-finales-ozark-1017655'>Netflix pone fecha a los episodios finales de una de sus series más vistas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-fecha-episodios-finales-ozark-1017655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ozark-2198381.jpg' alt='Netflix pone fecha a los episodios finales de una de sus series más vistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-listados-terroristas-creadores-competencia-1017633'>OnlyFans podría haber incluido en listas negras de terroristas a creadores de la competencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-polemica-onlyfans-listados-terroristas-creadores-competencia-1017633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='OnlyFans podría haber incluido en listas negras de terroristas a creadores de la competencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tienes-jefe-toxico-estas-5-pistas-te-aclaran-1017117'>¿Tienes un jefe tóxico? Estas 5 pistas te lo aclaran</a></h4>
     <a href='https://computerhoy.com/noticias/life/tienes-jefe-toxico-estas-5-pistas-te-aclaran-1017117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/discusion-oficina-2624893.jpg' alt='¿Tienes un jefe tóxico? Estas 5 pistas te lo aclaran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ha-solucionado-vulnerabilidad-afectaba-100-millones-moviles-1017617'>Samsung ha solucionado una vulnerabilidad que afectaba a más de 100 millones de móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ha-solucionado-vulnerabilidad-afectaba-100-millones-moviles-1017617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/samsung-galaxy-s20-opinion-1861393.jpg' alt='Samsung ha solucionado una vulnerabilidad que afectaba a más de 100 millones de móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/marca-ofrece-mejor-gama-suv-espana-skoda-ford-1017111'>Qué marca ofrece mejor gama SUV en España, ¿Skoda o Ford?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/marca-ofrece-mejor-gama-suv-espana-skoda-ford-1017111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/skoda-ford-gama-suv-2619085.jpg' alt='Qué marca ofrece mejor gama SUV en España, ¿Skoda o Ford?' />
     </a>
 </div>
 
