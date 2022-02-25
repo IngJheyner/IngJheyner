@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teleobjetivo-canon-alcance-mundo-cuesta-coche-1017863'>Este es el teleobjetivo de Canon con más alcance del mundo y cuesta más que un coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teleobjetivo-canon-alcance-mundo-cuesta-coche-1017863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/canon-teleobjetivo-2626377.jpg' alt='Este es el teleobjetivo de Canon con más alcance del mundo y cuesta más que un coche' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1018275'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1018275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2627083.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/raton-logitech-ergo-m575-mitad-precio-amazon-1015717'>Este revolucionario ratón de Logitech está a mitad de precio en Amazon y te ahorrará dolores de muñeca</a></h4>
-    <a href='https://computerhoy.com/noticias/raton-logitech-ergo-m575-mitad-precio-amazon-1015717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/logitech-ergo-m575-2587513.jpg' alt='Este revolucionario ratón de Logitech está a mitad de precio en Amazon y te ahorrará dolores de muñeca' />
+    <h4><a href='https://computerhoy.com/reportajes/life/lavavajillas-sobremesa-perfectos-pisos-pequenos-1017907'>5 lavavajillas de sobremesa perfectos para pisos pequeños</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/lavavajillas-sobremesa-perfectos-pisos-pequenos-1017907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lavavajilla-sobremesa-2626525.jpg' alt='5 lavavajillas de sobremesa perfectos para pisos pequeños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849'>Es muy probable que a partir de ahora pagues más por Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/muy-probable-partir-ahora-pagues-disney-1017849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/disney-2626357.jpg' alt='Es muy probable que a partir de ahora pagues más por Disney+' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-pc-como-nuevo-necesidad-reinstalar-windows-11-990145'>Cómo dejar tu PC como nuevo sin necesidad de reinstalar Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-pc-como-nuevo-necesidad-reinstalar-windows-11-990145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='Cómo dejar tu PC como nuevo sin necesidad de reinstalar Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-watch-free-oppo-enco-x2-son-nuevo-smartwatch-nuevos-auriculares-acompanaran-oppo-find-x5-1017807'>Oppo Watch Free y Oppo Enco X2 son el nuevo smartwatch y los nuevos auriculares que acompañarán al Oppo Find X5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-watch-free-oppo-enco-x2-son-nuevo-smartwatch-nuevos-auriculares-acompanaran-oppo-find-x5-1017807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oppo-watch-free-2626289.jpg' alt='Oppo Watch Free y Oppo Enco X2 son el nuevo smartwatch y los nuevos auriculares que acompañarán al Oppo Find X5' />
+    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-1018271'>El truco genial para limpiar la alcachofa de la ducha y los grifos de forma sencilla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-1018271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-2627061.jpg' alt='El truco genial para limpiar la alcachofa de la ducha y los grifos de forma sencilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815'>Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pepsi-lanza-nitro-primer-refresco-comercial-cola-infusionado-nitrogeno-1017815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nitro-pepsi-2626297.jpg' alt='Pepsi lanza NITRO, el primer refresco comercial de cola infusionado con nitrógeno' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-palabras-estrategias-wordle-espanol-1016521'>Las mejores palabras y estrategias para Wordle en español</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-palabras-estrategias-wordle-espanol-1016521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Las mejores palabras y estrategias para Wordle en español' />
     </a>
 </div>
 
