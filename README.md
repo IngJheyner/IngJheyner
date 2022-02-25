@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/fue-coche-electrico-vendido-europa-2021-1018505'>Este fue el coche eléctrico más vendido de Europa en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/fue-coche-electrico-vendido-europa-2021-1018505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-model-3-2595833.jpg' alt='Este fue el coche eléctrico más vendido de Europa en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401'>5 radios con pantalla para tu coche que son más baratas de lo que pensabas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='5 radios con pantalla para tu coche que son más baratas de lo que pensabas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-fin-semana-2627983.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487'>Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2627781.jpg' alt='Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022' />
     </a>
 </div>
 
