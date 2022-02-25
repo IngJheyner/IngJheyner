@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699'>Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ya-puedes-reservar-nuevo-oppo-find-x5-find-x5-pro-amazon-auriculares-smartwatch-gratis-2628275.jpg' alt='Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679'>Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681'>Las mejores frases para iniciar una conversación en Tinder</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Las mejores frases para iniciar una conversación en Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/todo-debes-saber-velolaser-radares-efectivos-dgt-1018673'>Todo lo que debes saber de los velolaser, los radares más efectivos de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/todo-debes-saber-velolaser-radares-efectivos-dgt-1018673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Todo lo que debes saber de los velolaser, los radares más efectivos de la DGT' />
     </a>
 </div>
 
