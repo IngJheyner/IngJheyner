@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-glass-ya-estan-fase-pruebas-internas-apple-no-descarta-lanzar-gafas-ar-mismo-2022-1018375'>Las Apple Glass ya están en fase de pruebas internas y Apple no descarta lanzar sus gafas AR este mismo 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-glass-ya-estan-fase-pruebas-internas-apple-no-descarta-lanzar-gafas-ar-mismo-2022-1018375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las Apple Glass ya están en fase de pruebas internas y Apple no descarta lanzar sus gafas AR este mismo 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ucrania-busca-reforzar-ciberseguridad-colapso-inminente-infraestructuras-1018361'>Ucrania busca reforzar su ciberseguridad ante un colapso inminente de sus infraestructuras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ucrania-busca-reforzar-ciberseguridad-colapso-inminente-infraestructuras-1018361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tanques-ucranianos-movilizan-afueras-kiev-ataque-rusia-2625881.jpg' alt='Ucrania busca reforzar su ciberseguridad ante un colapso inminente de sus infraestructuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-pierde-series-quedan-disney-1018349'>Prime Video también pierde series que se quedan en Disney+, esta es la última</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-pierde-series-quedan-disney-1018349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hijos-anarquia-2627201.jpg' alt='Prime Video también pierde series que se quedan en Disney+, esta es la última' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>¡Aquí NO! El grave error que muchos cometen al usar Bizum y que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¡Aquí NO! El grave error que muchos cometen al usar Bizum y que debes evitar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/costara-realme-gt2-realme-gt2-pro-espana-directos-gama-alta-1018317'>Esto es lo que costará el realme GT2 y realme GT2 Pro en España: directos a la gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/costara-realme-gt2-realme-gt2-pro-espana-directos-gama-alta-1018317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-2-pro-2577537.jpg' alt='Esto es lo que costará el realme GT2 y realme GT2 Pro en España: directos a la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-prueba-novedad-cambiar-barra-tareas-1018307'>Windows 11 prueba una novedad que puede cambiar por completo la barra de tareas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-prueba-novedad-cambiar-barra-tareas-1018307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 prueba una novedad que puede cambiar por completo la barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ya-son-exito-duplican-reservas-series-anteriores-1018285'>Los Galaxy S22 ya son un éxito y duplican las reservas de series anteriores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s22-ya-son-exito-duplican-reservas-series-anteriores-1018285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-galaxy-s22-ultra-2620799.jpg' alt='Los Galaxy S22 ya son un éxito y duplican las reservas de series anteriores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/auriculares-inalambricos-gimnasio-2623585.jpg' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
     </a>
 </div>
 
