@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511'>Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-16-2627845.jpg' alt='Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537'>Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/facebook-2627809.jpg' alt='Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491'>Rusia es vetada del MWC tras el inicio de la guerra con Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg' alt='Rusia es vetada del MWC tras el inicio de la guerra con Ucrania' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212'>Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reiki-2627509.jpg' alt='Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-barato-baja-precio-minimo-historico-1017307'>Este Apple Watch SE es uno de los más baratos y baja a su precio mínimo histórico, desde tan solo 259€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-barato-baja-precio-minimo-historico-1017307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-2625499.jpg' alt='Este Apple Watch SE es uno de los más baratos y baja a su precio mínimo histórico, desde tan solo 259€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-sistema-realidad-virtual-tecnologia-holografica-1018445'>Samsung prepara un sistema de realidad virtual con tecnología holográfica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-sistema-realidad-virtual-tecnologia-holografica-1018445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gafas-realidad-virtual-apple-podrian-llegar-2022-costarian-solo-3000-dolares-2221997.jpg' alt='Samsung prepara un sistema de realidad virtual con tecnología holográfica' />
     </a>
 </div>
 
