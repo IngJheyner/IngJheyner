@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571'>El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-2627915.jpg' alt='El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-cast-app-todo-usuario-android-auto-debe-conocer-1018467'>Qué es y cómo funciona Cast, la app que todo usuario de Android Auto debe conocer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-cast-app-todo-usuario-android-auto-debe-conocer-1018467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Qué es y cómo funciona Cast, la app que todo usuario de Android Auto debe conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389'>Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anker-622-magnetic-battery-maggo-2627387.jpg' alt='Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511'>Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-16-2627845.jpg' alt='Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537'>Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/facebook-2627809.jpg' alt='Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491'>Rusia es vetada del MWC tras el inicio de la guerra con Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg' alt='Rusia es vetada del MWC tras el inicio de la guerra con Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-doblar-camiseta-jersey-polo-camisa-solo-2-segundos-1018447'>El genial truco viral para doblar una camiseta, jersey, polo o camisa en solo 2 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-doblar-camiseta-jersey-polo-camisa-solo-2-segundos-1018447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/doblar-ropa-2186521.jpg' alt='El genial truco viral para doblar una camiseta, jersey, polo o camisa en solo 2 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212'>Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reiki-2627509.jpg' alt='Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?' />
     </a>
 </div>
 
