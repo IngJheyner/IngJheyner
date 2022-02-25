@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>¡Aquí NO! El grave error que muchos cometen al usar Bizum y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='¡Aquí NO! El grave error que muchos cometen al usar Bizum y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/costara-realme-gt2-realme-gt2-pro-espana-directos-gama-alta-1018317'>Esto es lo que costará el realme GT2 y realme GT2 Pro en España: directos a la gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/costara-realme-gt2-realme-gt2-pro-espana-directos-gama-alta-1018317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-gt-2-pro-2577537.jpg' alt='Esto es lo que costará el realme GT2 y realme GT2 Pro en España: directos a la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-prueba-novedad-cambiar-barra-tareas-1018307'>Windows 11 prueba una novedad que puede cambiar por completo la barra de tareas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-prueba-novedad-cambiar-barra-tareas-1018307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 prueba una novedad que puede cambiar por completo la barra de tareas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/auriculares-inalambricos-gimnasio-2623585.jpg' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/son-realmente-felices-naciones-felices-mundo-estudio-cuestiona-1017845'>¿Son realmente felices las naciones más felices del mundo? Un estudio lo cuestiona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/son-realmente-felices-naciones-felices-mundo-estudio-cuestiona-1017845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/felicidad-bosque-2626349.jpg' alt='¿Son realmente felices las naciones más felices del mundo? Un estudio lo cuestiona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-coches-te-puedes-comprar-vez-tesla-model-3-1017837'>5 coches que puedes comprar en vez del Tesla Model 3</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-coches-te-puedes-comprar-vez-tesla-model-3-1017837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562335.jpg' alt='5 coches que puedes comprar en vez del Tesla Model 3' />
     </a>
 </div>
 
