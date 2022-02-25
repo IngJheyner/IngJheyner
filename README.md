@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703'>NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699'>Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ya-puedes-reservar-nuevo-oppo-find-x5-find-x5-pro-amazon-auriculares-smartwatch-gratis-2628275.jpg' alt='Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513'>El director de The Batman quiere crear su propio "Bat-verso"</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='El director de The Batman quiere crear su propio "Bat-verso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681'>Las mejores frases para iniciar una conversación en Tinder</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Las mejores frases para iniciar una conversación en Tinder' />
     </a>
 </div>
 
