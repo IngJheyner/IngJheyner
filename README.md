@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/son-realmente-felices-naciones-felices-mundo-estudio-cuestiona-1017845'>¿Son realmente felices las naciones más felices del mundo? Un estudio lo cuestiona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/son-realmente-felices-naciones-felices-mundo-estudio-cuestiona-1017845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/felicidad-bosque-2626349.jpg' alt='¿Son realmente felices las naciones más felices del mundo? Un estudio lo cuestiona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-coches-te-puedes-comprar-vez-tesla-model-3-1017837'>5 coches que puedes comprar en vez del Tesla Model 3</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-coches-te-puedes-comprar-vez-tesla-model-3-1017837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562335.jpg' alt='5 coches que puedes comprar en vez del Tesla Model 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1018275'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1018275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2627083.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-pc-como-nuevo-necesidad-reinstalar-windows-11-990145'>Cómo dejar tu PC como nuevo sin necesidad de reinstalar Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-dejar-pc-como-nuevo-necesidad-reinstalar-windows-11-990145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='Cómo dejar tu PC como nuevo sin necesidad de reinstalar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-1018271'>El truco genial para limpiar la alcachofa de la ducha y los grifos de forma sencilla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-1018271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/truco-genial-limpiar-alcachofa-ducha-grifos-forma-sencilla-2627061.jpg' alt='El truco genial para limpiar la alcachofa de la ducha y los grifos de forma sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-palabras-estrategias-wordle-espanol-1016521'>Las mejores palabras y estrategias para Wordle en español</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-palabras-estrategias-wordle-espanol-1016521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591545.jpg' alt='Las mejores palabras y estrategias para Wordle en español' />
     </a>
 </div>
 
