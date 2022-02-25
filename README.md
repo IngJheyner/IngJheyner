@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401'>5 radios con pantalla para tu coche que son más baratas de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='5 radios con pantalla para tu coche que son más baratas de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/magsafe-apple-llega-android-nubia-z40-pro-1018613'>El Magsafe de Apple llega a Android con el nubia Z40 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/magsafe-apple-llega-android-nubia-z40-pro-1018613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/magsafe-apple-llega-android-nubia-z40-pro-2628113.jpg' alt='El Magsafe de Apple llega a Android con el nubia Z40 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-evitar-acumule-polvo-ademas-hacer-casa-huela-mejor-1018591'>El genial truco para evitar que se acumule el polvo y además hacer que tu casa huela mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-evitar-acumule-polvo-ademas-hacer-casa-huela-mejor-1018591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mesa-mucha-suciedad-polvo-acumulado-2627975.jpg' alt='El genial truco para evitar que se acumule el polvo y además hacer que tu casa huela mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-fin-semana-2627983.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487'>Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2627781.jpg' alt='Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453'>Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/midea-s8-2627627.jpg' alt='Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571'>El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-2627915.jpg' alt='El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-cast-app-todo-usuario-android-auto-debe-conocer-1018467'>Qué es y cómo funciona Cast, la app que todo usuario de Android Auto debe conocer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-cast-app-todo-usuario-android-auto-debe-conocer-1018467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Qué es y cómo funciona Cast, la app que todo usuario de Android Auto debe conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389'>Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anker-622-magnetic-battery-maggo-2627387.jpg' alt='Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€' />
     </a>
 </div>
 
