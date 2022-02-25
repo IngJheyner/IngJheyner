@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487'>Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-filmin-hbo-max-prime-video-antes-mwc-2022-1018487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peliculas-recomendadas-2627781.jpg' alt='Qué películas ver este fin de semana en Filmin, HBO Max y Prime Video antes del MWC 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453'>Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/midea-s8-2627627.jpg' alt='Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389'>Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bateria-magsafe-iphone-anker-622-oferta-amazon-1018389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/anker-622-magnetic-battery-maggo-2627387.jpg' alt='Si tienes un iPhone 12 o 13 vas a necesitar esta batería externa que además es un dock por 47€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511'>Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-16-2627845.jpg' alt='Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000' />
     </a>
 </div>
 
