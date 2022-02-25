@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453'>Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/midea-s8-robot-aspirador-mejora-calidad-aire-hogar-primavera-1018453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/midea-s8-2627627.jpg' alt='Midea S8+, el robot aspirador que mejora la calidad del aire de tu hogar en primavera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571'>El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-m4-pro-deja-ver-dias-antes-presentacion-pantalla-super-amoled-1000-nits-altavoces-estereo-1018571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-2627915.jpg' alt='El Poco M4 Pro se deja ver días antes de su presentación: pantalla super AMOLED, 1.000 nits y altavoces estéreo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511'>Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-16-nuevo-portatil-16-pulgadas-compania-china-llega-ryzen-5000-1018511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-16-2627845.jpg' alt='Huawei MateBook 16, el nuevo portátil de 16 pulgadas de la compañía china que llega con Ryzen 5000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537'>Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-habilita-bloqueo-perfil-proteger-usuarios-ucranianos-1018537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/facebook-2627809.jpg' alt='Facebook habilita el bloqueo de perfil para proteger a los usuarios ucranianos' />
     </a>
 </div>
 
