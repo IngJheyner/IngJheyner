@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/fue-coche-electrico-vendido-europa-2021-1018505'>Este fue el coche eléctrico más vendido de Europa en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/fue-coche-electrico-vendido-europa-2021-1018505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tesla-model-3-2595833.jpg' alt='Este fue el coche eléctrico más vendido de Europa en 2021' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679'>Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401'>5 radios con pantalla para tu coche que son más baratas de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/radios-pantalla-coche-baratas-1018401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='5 radios con pantalla para tu coche que son más baratas de lo que pensabas' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/periodos-prueba-gratis-plataformas-streaming-1018687'>Puedes pasar medio año viendo series y películas gratis en plataformas de streaming... y repetir las veces que quieras</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/periodos-prueba-gratis-plataformas-streaming-1018687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puedes-pasar-casi-ano-viendo-series-gratis-plataformas-streaming-2628223.jpg' alt='Puedes pasar medio año viendo series y películas gratis en plataformas de streaming... y repetir las veces que quieras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/magsafe-apple-llega-android-nubia-z40-pro-1018613'>El Magsafe de Apple llega a Android con el nubia Z40 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/magsafe-apple-llega-android-nubia-z40-pro-1018613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/magsafe-apple-llega-android-nubia-z40-pro-2628113.jpg' alt='El Magsafe de Apple llega a Android con el nubia Z40 Pro' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513'>El director de The Batman quiere crear su propio "Bat-verso"</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='El director de The Batman quiere crear su propio "Bat-verso"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-evitar-acumule-polvo-ademas-hacer-casa-huela-mejor-1018591'>El genial truco para evitar que se acumule el polvo y además hacer que tu casa huela mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-evitar-acumule-polvo-ademas-hacer-casa-huela-mejor-1018591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mesa-mucha-suciedad-polvo-acumulado-2627975.jpg' alt='El genial truco para evitar que se acumule el polvo y además hacer que tu casa huela mejor' />
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681'>Las mejores frases para iniciar una conversación en Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-frases-iniciar-conversacion-tinder-1018681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='Las mejores frases para iniciar una conversación en Tinder' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-familia-mafiosa-oficina-antiheroe-1018589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/series-fin-semana-2627983.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una familia mafiosa, una oficina, y un antihéroe' />
+    <h4><a href='https://computerhoy.com/noticias/motor/todo-debes-saber-velolaser-radares-efectivos-dgt-1018673'>Todo lo que debes saber de los velolaser, los radares más efectivos de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/todo-debes-saber-velolaser-radares-efectivos-dgt-1018673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Todo lo que debes saber de los velolaser, los radares más efectivos de la DGT' />
     </a>
 </div>
 
