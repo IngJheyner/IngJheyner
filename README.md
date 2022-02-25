@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491'>Rusia es vetada del MWC tras el inicio de la guerra con Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/rusia-vetada-mwc-inicio-guerra-ucrania-1018491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg' alt='Rusia es vetada del MWC tras el inicio de la guerra con Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-doblar-camiseta-jersey-polo-camisa-solo-2-segundos-1018447'>El genial truco viral para doblar una camiseta, jersey, polo o camisa en solo 2 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-doblar-camiseta-jersey-polo-camisa-solo-2-segundos-1018447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/doblar-ropa-2186521.jpg' alt='El genial truco viral para doblar una camiseta, jersey, polo o camisa en solo 2 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212'>Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reiki-2627509.jpg' alt='Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-sistema-realidad-virtual-tecnologia-holografica-1018445'>Samsung prepara un sistema de realidad virtual con tecnología holográfica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-prepara-sistema-realidad-virtual-tecnologia-holografica-1018445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gafas-realidad-virtual-apple-podrian-llegar-2022-costarian-solo-3000-dolares-2221997.jpg' alt='Samsung prepara un sistema de realidad virtual con tecnología holográfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigan-elon-musk-posible-delito-trafico-informacion-privilegiada-1018427'>Investigan a Elon Musk por un posible delito de tráfico de información privilegiada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigan-elon-musk-posible-delito-trafico-informacion-privilegiada-1018427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Investigan a Elon Musk por un posible delito de tráfico de información privilegiada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-limpiar-interior-lavavajillas-ningun-esfuerzo-cada-cuanto-tiempo-deberias-hacerlo-1018417'>El truco para limpiar el interior del lavavajillas sin ningún esfuerzo y cada cuánto tiempo deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-limpiar-interior-lavavajillas-ningun-esfuerzo-cada-cuanto-tiempo-deberias-hacerlo-1018417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/detergente-lavavajillas-2496659.jpg' alt='El truco para limpiar el interior del lavavajillas sin ningún esfuerzo y cada cuánto tiempo deberías hacerlo' />
     </a>
 </div>
 
