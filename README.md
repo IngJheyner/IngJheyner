@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039'>El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-gts-2e-2259155.jpg' alt='El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535'>Aplicaciones que no deberían faltar en tu Android Auto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Aplicaciones que no deberían faltar en tu Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737'>Películas y series que adelantaron lo que podría llegar a ser el metaverso</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ready-player-one-2624293.jpg' alt='Películas y series que adelantaron lo que podría llegar a ser el metaverso' />
     </a>
 </div>
 
