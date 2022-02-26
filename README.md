@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919'>G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/g-case-armadura-iron-man-nintendo-switch-2628493.jpg' alt='G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bici-spinning-2628045.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-juegos-similares-wordle-1017123'>6 juegos similares a Wordle</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-juegos-similares-wordle-1017123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591543.jpg' alt='6 juegos similares a Wordle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509'>10 trucos para mejorar la gestión de archivos en Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='10 trucos para mejorar la gestión de archivos en Mac' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917'>El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/video-viral-ensenan-como-hacer-ropa-interior-usando-bolsa-plastico-como-patron-2628489.jpg' alt='El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/esterilizador-electrico-bebes-943747'>Consejos y guía para comprar un esterilizador eléctrico para bebés</a></h4>
-    <a href='https://computerhoy.com/guia-compra/esterilizador-electrico-bebes-943747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/esterilizador-2494077.jpg' alt='Consejos y guía para comprar un esterilizador eléctrico para bebés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723'>Quita el fondo de tus fotografías de manera sencilla y gratis </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/haciendo-foto-2620527.jpg' alt='Quita el fondo de tus fotografías de manera sencilla y gratis ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/videos-invasion-rusia-ucrania-son-famoso-videojuego-arma-iii-1018705'>Algunos de los vídeos más vistos de la invasión de Rusia en Ucrania son de un famoso videojuego</a></h4>
-    <a href='https://computerhoy.com/noticias/life/videos-invasion-rusia-ucrania-son-famoso-videojuego-arma-iii-1018705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunos-videos-vistos-invasion-rusia-ucrania-son-famoso-videojuego-2628279.jpg' alt='Algunos de los vídeos más vistos de la invasión de Rusia en Ucrania son de un famoso videojuego' />
     </a>
 </div>
 
