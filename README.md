@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969'>Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fruteria-supermercado-2515431.jpg' alt='Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397'>Huawei MateBook 16, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='Huawei MateBook 16, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959'>¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/exchange-1007319'>¿Qué es el Exchange?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/exchange-1007319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/exhcnage-2627901.jpg' alt='¿Qué es el Exchange?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mito-muerte-podria-ser-verdad-1018621'>La primera grabación de ondas cerebrales en el momento de morir, demuestra que un mito sobre la muerte podría ser verdad</a></h4>
     <a href='https://computerhoy.com/noticias/life/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mito-muerte-podria-ser-verdad-1018621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mitos-muerte-son-reales-2628047.jpg' alt='La primera grabación de ondas cerebrales en el momento de morir, demuestra que un mito sobre la muerte podría ser verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-review-opinion-1016731'>Sony LinkBuds, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-review-opinion-1016731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-analisis-opinion-2624345.jpg' alt='Sony LinkBuds, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-cosori-caracteristicas-alternativas-air-fryer-1016339'>Freidora de aire Cosori de 5,5L: características y alternativas a la Air Fryer de moda</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-cosori-caracteristicas-alternativas-air-fryer-1016339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='Freidora de aire Cosori de 5,5L: características y alternativas a la Air Fryer de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejor-configuracion-mantener-pc-windows-11-organizado-989573'>Esta es la mejor configuración para mantener tu PC Windows 11 organizado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejor-configuracion-mantener-pc-windows-11-organizado-989573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Esta es la mejor configuración para mantener tu PC Windows 11 organizado' />
     </a>
 </div>
 
