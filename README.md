@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737'>Películas y series que adelantaron lo que podría llegar a ser el metaverso</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ready-player-one-2624293.jpg' alt='Películas y series que adelantaron lo que podría llegar a ser el metaverso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977'>Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tp-link-archer-tx50e-tarjeta-red-pcle-ax3000-2628577.jpg' alt='Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969'>Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fruteria-supermercado-2515431.jpg' alt='Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro' />
     </a>
 </div>
 
