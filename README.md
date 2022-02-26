@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-review-opinion-1016731'>Sony LinkBuds, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-review-opinion-1016731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-analisis-opinion-2624345.jpg' alt='Sony LinkBuds, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-cosori-caracteristicas-alternativas-air-fryer-1016339'>Freidora de aire Cosori de 5,5L: características y alternativas a la Air Fryer de moda</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-cosori-caracteristicas-alternativas-air-fryer-1016339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='Freidora de aire Cosori de 5,5L: características y alternativas a la Air Fryer de moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejor-configuracion-mantener-pc-windows-11-organizado-989573'>Esta es la mejor configuración para mantener tu PC Windows 11 organizado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejor-configuracion-mantener-pc-windows-11-organizado-989573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-11-2558243.jpg' alt='Esta es la mejor configuración para mantener tu PC Windows 11 organizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-certificado-digital-fabrica-nacional-moneda-timbre-fnmt-976153'>Cómo solicitar el certificado digital de la Fábrica Nacional de la Moneda y Timbre (FNMT)</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-certificado-digital-fabrica-nacional-moneda-timbre-fnmt-976153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fabrica-nacional-moneda-timbre-fnmt-2553071.jpg' alt='Cómo solicitar el certificado digital de la Fábrica Nacional de la Moneda y Timbre (FNMT)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919'>G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/g-case-armadura-iron-man-nintendo-switch-2628493.jpg' alt='G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bici-spinning-2628045.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-juegos-similares-wordle-1017123'>6 juegos similares a Wordle</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-juegos-similares-wordle-1017123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591543.jpg' alt='6 juegos similares a Wordle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509'>10 trucos para mejorar la gestión de archivos en Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='10 trucos para mejorar la gestión de archivos en Mac' />
     </a>
 </div>
 
