@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917'>El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/video-viral-ensenan-como-hacer-ropa-interior-usando-bolsa-plastico-como-patron-2628489.jpg' alt='El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/esterilizador-electrico-bebes-943747'>Consejos y guía para comprar un esterilizador eléctrico para bebés</a></h4>
+    <a href='https://computerhoy.com/guia-compra/esterilizador-electrico-bebes-943747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/esterilizador-2494077.jpg' alt='Consejos y guía para comprar un esterilizador eléctrico para bebés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723'>Quita el fondo de tus fotografías de manera sencilla y gratis </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/haciendo-foto-2620527.jpg' alt='Quita el fondo de tus fotografías de manera sencilla y gratis ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703'>NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699'>Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x5-find-x5-pro-auriculares-smartwatch-gratis-1018699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ya-puedes-reservar-nuevo-oppo-find-x5-find-x5-pro-amazon-auriculares-smartwatch-gratis-2628275.jpg' alt='Ya puedes reservar los nuevos Oppo Find X5 y Find X5 Pro en Amazon... ¡con auriculares y smartwatch gratis!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679'>Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica' />
     </a>
 </div>
 
