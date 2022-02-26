@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737'>Películas y series que adelantaron lo que podría llegar a ser el metaverso</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ready-player-one-2624293.jpg' alt='Películas y series que adelantaron lo que podría llegar a ser el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997'>Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/euphoria-2628621.jpg' alt='Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969'>Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fruteria-supermercado-2515431.jpg' alt='Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397'>Huawei MateBook 16, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='Huawei MateBook 16, análisis y opinión' />
     </a>
 </div>
 
