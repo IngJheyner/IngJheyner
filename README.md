@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381'>Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barcos-pasajeros-grandes-historia-ciudades-flotantes-10000-habitantes-2627381.jpg' alt='Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041'>7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/7-cosas-hace-20-anos-no-haciamos-son-perdida-tiempo-2628713.jpg' alt='7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619'>5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-oppo-find-x5-2626137.jpg' alt='5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021'>Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados </a></h4>
-    <a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-saber-ahora-mismo-proxima-declaracion-renta-2021-22-te-saldra-pagar-devolver-2628681.jpg' alt='Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados ' />
     </a>
 </div>
 
