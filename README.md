@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723'>Quita el fondo de tus fotografías de manera sencilla y gratis </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quita-fondo-fotografias-manera-sencilla-gratis-1014723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/haciendo-foto-2620527.jpg' alt='Quita el fondo de tus fotografías de manera sencilla y gratis ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/videos-invasion-rusia-ucrania-son-famoso-videojuego-arma-iii-1018705'>Algunos de los vídeos más vistos de la invasión de Rusia en Ucrania son de un famoso videojuego</a></h4>
+    <a href='https://computerhoy.com/noticias/life/videos-invasion-rusia-ucrania-son-famoso-videojuego-arma-iii-1018705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/algunos-videos-vistos-invasion-rusia-ucrania-son-famoso-videojuego-2628279.jpg' alt='Algunos de los vídeos más vistos de la invasión de Rusia en Ucrania son de un famoso videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703'>NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-ciberataque-1018703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='NVIDIA sufre un ciberataque que ha desactivado parte de sus sistemas durante dos días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679'>Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-quiere-envies-contrasenas-ya-trabajando-caracteristica-1018679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google Chrome quiere que envíes tus contraseñas y ya está trabajando en esta característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/periodos-prueba-gratis-plataformas-streaming-1018687'>Puedes pasar medio año viendo series y películas gratis en plataformas de streaming... y repetir las veces que quieras</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/periodos-prueba-gratis-plataformas-streaming-1018687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/puedes-pasar-casi-ano-viendo-series-gratis-plataformas-streaming-2628223.jpg' alt='Puedes pasar medio año viendo series y películas gratis en plataformas de streaming... y repetir las veces que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513'>El director de The Batman quiere crear su propio "Bat-verso"</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/director-batman-quiere-crear-propio-bat-verso-1018513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='El director de The Batman quiere crear su propio "Bat-verso"' />
     </a>
 </div>
 
