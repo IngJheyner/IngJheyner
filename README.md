@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-certificado-digital-fabrica-nacional-moneda-timbre-fnmt-976153'>Cómo solicitar el certificado digital de la Fábrica Nacional de la Moneda y Timbre (FNMT)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-certificado-digital-fabrica-nacional-moneda-timbre-fnmt-976153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fabrica-nacional-moneda-timbre-fnmt-2553071.jpg' alt='Cómo solicitar el certificado digital de la Fábrica Nacional de la Moneda y Timbre (FNMT)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919'>G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/g-case-armadura-iron-man-nintendo-switch-video-1018919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/g-case-armadura-iron-man-nintendo-switch-2628493.jpg' alt='G-Case, una armadura de Iron Man para la Nintendo Switch (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509'>10 trucos para mejorar la gestión de archivos en Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-trucos-mejorar-gestion-archivos-mac-954509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='10 trucos para mejorar la gestión de archivos en Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917'>El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-viral-coser-ropa-interior-usando-bolsa-plastico-como-patron-1018917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/video-viral-ensenan-como-hacer-ropa-interior-usando-bolsa-plastico-como-patron-2628489.jpg' alt='El vídeo viral con el que enseñan cómo hacer ropa interior usando una bolsa de plástico como patrón' />
     </a>
 </div>
 
