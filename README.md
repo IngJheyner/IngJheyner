@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535'>Aplicaciones que no deberían faltar en tu Android Auto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Aplicaciones que no deberían faltar en tu Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619'>5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-oppo-find-x5-2626137.jpg' alt='5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737'>Películas y series que adelantaron lo que podría llegar a ser el metaverso</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-adelantaron-metaverso-1016737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ready-player-one-2624293.jpg' alt='Películas y series que adelantaron lo que podría llegar a ser el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997'>Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/euphoria-2628621.jpg' alt='Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus' />
     </a>
 </div>
 
