@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041'>7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/7-cosas-hace-20-anos-no-haciamos-son-perdida-tiempo-2628713.jpg' alt='7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039'>El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-gts-2e-2259155.jpg' alt='El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021'>Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados </a></h4>
     <a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-saber-ahora-mismo-proxima-declaracion-renta-2021-22-te-saldra-pagar-devolver-2628681.jpg' alt='Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes' />
     </a>
 </div>
 
