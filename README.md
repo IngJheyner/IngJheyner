@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989'>El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977'>Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tp-link-archer-tx50e-tarjeta-red-pcle-ax3000-2628577.jpg' alt='Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969'>Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-justifica-politica-no-ofertas-defiende-acusaciones-supermercado-caro-1018969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/fruteria-supermercado-2515431.jpg' alt='Mercadona justifica su política de no ofertas y se defiende de las acusaciones de supermercado caro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959'>¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/exchange-1007319'>¿Qué es el Exchange?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/exchange-1007319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/exhcnage-2627901.jpg' alt='¿Qué es el Exchange?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mito-muerte-podria-ser-verdad-1018621'>La primera grabación de ondas cerebrales en el momento de morir, demuestra que un mito sobre la muerte podría ser verdad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mito-muerte-podria-ser-verdad-1018621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primera-grabacion-ondas-cerebrales-momento-morir-demuestra-mitos-muerte-son-reales-2628047.jpg' alt='La primera grabación de ondas cerebrales en el momento de morir, demuestra que un mito sobre la muerte podría ser verdad' />
     </a>
 </div>
 
