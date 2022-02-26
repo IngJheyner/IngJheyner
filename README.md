@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997'>Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/euphoria-2628621.jpg' alt='Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989'>El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia</a></h4>
     <a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397'>Huawei MateBook 16, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-matebook-16-review-opinion-1018397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='Huawei MateBook 16, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959'>¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/posible-eliminar-reenviado-mensajes-whatsapp-1018959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='¿Es posible eliminar el “Reenviado” de los mensajes de WhatsApp?' />
     </a>
 </div>
 
