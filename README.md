@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le han robado, e instala un ransomware en el PC de los ciberdelincuentes' />
     </a>
 </div>
 
