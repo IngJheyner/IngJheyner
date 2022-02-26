@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619'>5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/oppo-find-x5-5g-razones-mejor-movil-premium-1018619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-oppo-find-x5-2626137.jpg' alt='5 razones por las que OPPO Find X5 5G puede ser el mejor móvil de gama premium del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021'>Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados </a></h4>
+    <a href='https://computerhoy.com/noticias/life/declaracion-renta-2021-22-como-saber-pagar-o-devolver-1019021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-saber-ahora-mismo-proxima-declaracion-renta-2021-22-te-saldra-pagar-devolver-2628681.jpg' alt='Cómo saber ahora mismo si la próxima declaración de la Renta 2021/22 te saldrá a pagar o devolver, sin claves ni certificados ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013'>NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-contraataca-ransomware-ciberdelincuentes-1019013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='NVIDIA contraataca: encripta 1 TB de datos que supuestamente le habían robado, e instala un ransomware en el PC de los ciberdelincuentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997'>Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-comentada-twitter-decada-no-ni-netflix-ni-disney-plus-1018997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/euphoria-2628621.jpg' alt='Esta es la serie más comentada en Twitter en la década, y no es ni de Netflix ni de Disney Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989'>El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pais-ejemplar-bill-gates-pone-como-referencia-poder-evitar-proxima-gran-pandemia-1018989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='El país ejemplar que Bill Gates pone como referencia para poder evitar la próxima gran pandemia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977'>Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-sobremesa-tambien-puede-conectar-redes-wifi-6-adaptador-solo-44-euros-1018977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tp-link-archer-tx50e-tarjeta-red-pcle-ax3000-2628577.jpg' alt='Tu PC de sobremesa también se puede conectar a redes WiFi 6 con este adaptador por solo 44 euros' />
     </a>
 </div>
 
