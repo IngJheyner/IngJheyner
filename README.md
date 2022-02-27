@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023'>Estas son las mejores cafeteras superautomáticas que puedes comprar ahora</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/taza-cafe-2628705.jpg' alt='Estas son las mejores cafeteras superautomáticas que puedes comprar ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tribu-no-contactados-amazonas-corre-gran-peligro-1018281'>Descubren una nueva tribu de no contactados en el Amazonas, y corre un gran peligro: así actúan las autoridades</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tribu-no-contactados-amazonas-corre-gran-peligro-1018281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descubren-nueva-tribu-no-contactados-amazonas-actuan-autoridades-2627089.jpg' alt='Descubren una nueva tribu de no contactados en el Amazonas, y corre un gran peligro: así actúan las autoridades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509'>Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/editando-video-2616685.jpg' alt='Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381'>Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes</a></h4>
     <a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barcos-pasajeros-grandes-historia-ciudades-flotantes-10000-habitantes-2627381.jpg' alt='Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041'>7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-cosas-hace-20-anos-no-haciamos-movil-perdida-tiempo-1019041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/7-cosas-hace-20-anos-no-haciamos-son-perdida-tiempo-2628713.jpg' alt='7 cosas que hace 20 años no hacíamos, y son una pérdida de tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039'>El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-gts-2e-2259155.jpg' alt='El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros' />
     </a>
 </div>
 
