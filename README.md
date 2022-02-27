@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201'>¿Por qué se agota la batería del smartphone tan rápido?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargar-movil-2625047.jpg' alt='¿Por qué se agota la batería del smartphone tan rápido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-ordenador-barato-mini-pc-menos-200-euros-tiene-windows-10-ssd-1018435'>Si buscas un ordenador barato, este Mini PC de menos de 200 euros tiene Windows 10 y SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-ordenador-barato-mini-pc-menos-200-euros-tiene-windows-10-ssd-1018435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-herobox-2022167.jpg' alt='Si buscas un ordenador barato, este Mini PC de menos de 200 euros tiene Windows 10 y SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759'>De un Ferrari a un utilitario, así pasar de un móvil de 1.000 euros a uno de 200</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='De un Ferrari a un utilitario, así pasar de un móvil de 1.000 euros a uno de 200' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035'>Las guerras del siglo XXI se pueden seguir en un mapa online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/guerras-siglo-xxi-pueden-seguir-mapa-online-2628707.jpg' alt='Las guerras del siglo XXI se pueden seguir en un mapa online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045'>Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado</a></h4>
     <a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cutre-caseta-perro-oxidada-ha-vendido-christies-44000-euros-razon-tejado-2628715.jpg' alt='Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pasa-cuenta-whatsapp-morir-usuario-1017855'>Qué pasa con una cuenta de WhatsApp tras morir su usuario</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pasa-cuenta-whatsapp-morir-usuario-1017855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-cuando-falleces-2626371.jpg' alt='Qué pasa con una cuenta de WhatsApp tras morir su usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023'>Estas son las mejores cafeteras superautomáticas que puedes comprar ahora</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/taza-cafe-2628705.jpg' alt='Estas son las mejores cafeteras superautomáticas que puedes comprar ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tribu-no-contactados-amazonas-corre-gran-peligro-1018281'>Descubren una nueva tribu de no contactados en el Amazonas, y corre un gran peligro: así actúan las autoridades</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tribu-no-contactados-amazonas-corre-gran-peligro-1018281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descubren-nueva-tribu-no-contactados-amazonas-actuan-autoridades-2627089.jpg' alt='Descubren una nueva tribu de no contactados en el Amazonas, y corre un gran peligro: así actúan las autoridades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509'>Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/editando-video-2616685.jpg' alt='Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones' />
     </a>
 </div>
 
