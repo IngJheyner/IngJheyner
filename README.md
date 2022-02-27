@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327'>Apple piensa en un Mac dentro de un teclado, según esta patente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg' alt='Apple piensa en un Mac dentro de un teclado, según esta patente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707'>Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/super-dispositivo-huawei-2629293.jpg' alt='Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323'>WhatsApp te permitirá unirte a videollamadas mediante un simple enlace</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg' alt='WhatsApp te permitirá unirte a videollamadas mediante un simple enlace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-compres-dash-cam-coche-usa-viejo-movil-1006209'>No compres una dash cam para el coche usa tu viejo móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/no-compres-dash-cam-coche-usa-viejo-movil-1006209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-dash-cam-2605397.jpg' alt='No compres una dash cam para el coche usa tu viejo móvil' />
     </a>
 </div>
 
