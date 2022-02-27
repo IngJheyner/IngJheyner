@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759'>De un Ferrari a un utilitario, así pasar de un móvil de 1.000 euros a uno de 200</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759'>De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='De un Ferrari a un utilitario, así pasar de un móvil de 1.000 euros a uno de 200' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200' />
     </a>
 </div>
 
