@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295'>Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/carplay-2629035.jpg' alt='Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-activa-starlink-ucrania-tiempo-record-peticion-muy-especial-1019287'>Elon Musk activa Starlink en Ucrania en tiempo récord tras una petición muy especial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-activa-starlink-ucrania-tiempo-record-peticion-muy-especial-1019287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Elon Musk activa Starlink en Ucrania en tiempo récord tras una petición muy especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/te-ha-gustado-cuphead-serie-netflix-momento-comprarte-juego-1019269'>Si te ha gustado Cuphead, la serie de Netflix, es el momento de comprarte el juego</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/te-ha-gustado-cuphead-serie-netflix-momento-comprarte-juego-1019269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuphead-netflix-2628965.jpg' alt='Si te ha gustado Cuphead, la serie de Netflix, es el momento de comprarte el juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo encontrar la clave de licencia en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169'>Termostatos WiFi con asistente de voz para hacer tu caldera inteligente</a></h4>
     <a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/termostato-inteligente-2614365.jpg' alt='Termostatos WiFi con asistente de voz para hacer tu caldera inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201'>¿Por qué se agota la batería del smartphone tan rápido?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargar-movil-2625047.jpg' alt='¿Por qué se agota la batería del smartphone tan rápido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-ordenador-barato-mini-pc-menos-200-euros-tiene-windows-10-ssd-1018435'>Si buscas un ordenador barato, este Mini PC de menos de 200 euros tiene Windows 10 y SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-ordenador-barato-mini-pc-menos-200-euros-tiene-windows-10-ssd-1018435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-herobox-2022167.jpg' alt='Si buscas un ordenador barato, este Mini PC de menos de 200 euros tiene Windows 10 y SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759'>De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200' />
     </a>
 </div>
 
