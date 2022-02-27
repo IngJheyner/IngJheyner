@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-limpia-automaticamente-solo-cuesta-269-euros-1019301'>Este robot aspirador se limpia automáticamente y solo cuesta 269 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-limpia-automaticamente-solo-cuesta-269-euros-1019301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conga-2290-ultra-home-2593745.jpg' alt='Este robot aspirador se limpia automáticamente y solo cuesta 269 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-basadas-clasicos-ciencia-ficcion-1016049'>8 series y películas basadas en clásicos de la ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-basadas-clasicos-ciencia-ficcion-1016049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2623043.jpg' alt='8 series y películas basadas en clásicos de la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295'>Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/carplay-2629035.jpg' alt='Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/te-ha-gustado-cuphead-serie-netflix-momento-comprarte-juego-1019269'>Si te ha gustado Cuphead, la serie de Netflix, es el momento de comprarte el juego</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/te-ha-gustado-cuphead-serie-netflix-momento-comprarte-juego-1019269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuphead-netflix-2628965.jpg' alt='Si te ha gustado Cuphead, la serie de Netflix, es el momento de comprarte el juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo encontrar la clave de licencia en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169'>Termostatos WiFi con asistente de voz para hacer tu caldera inteligente</a></h4>
-    <a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/termostato-inteligente-2614365.jpg' alt='Termostatos WiFi con asistente de voz para hacer tu caldera inteligente' />
     </a>
 </div>
 
