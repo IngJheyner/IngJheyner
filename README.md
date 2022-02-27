@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-hibrido-macbook-ipad-teclado-tactil-1019387'>Apple trabajaría en un híbrido de MacBook y iPad con teclado táctil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-hibrido-macbook-ipad-teclado-tactil-1019387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-2021-2375639.jpg' alt='Apple trabajaría en un híbrido de MacBook y iPad con teclado táctil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369'>La última actualización de Android Auto rompe todas las notificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La última actualización de Android Auto rompe todas las notificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-barbacoas-electricas-baratas-aprovechar-primeros-dias-buen-tiempo-1017143'>5 barbacoas eléctricas baratas para aprovechar los primeros días de buen tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-barbacoas-electricas-baratas-aprovechar-primeros-dias-buen-tiempo-1017143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barbacoa-carne-comida-2624927.jpg' alt='5 barbacoas eléctricas baratas para aprovechar los primeros días de buen tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331'>Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter' />
     </a>
 </div>
 
