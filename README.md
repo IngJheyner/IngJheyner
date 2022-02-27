@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo encontrar la clave de licencia en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169'>Termostatos WiFi con asistente de voz para hacer tu caldera inteligente</a></h4>
     <a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/termostato-inteligente-2614365.jpg' alt='Termostatos WiFi con asistente de voz para hacer tu caldera inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759'>De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ferrari-utilitario-pasar-movil-1000-euros-200-1008759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='De un Ferrari a un utilitario, así es pasar de un móvil de 1.000 euros a uno de 200' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035'>Las guerras del siglo XXI se pueden seguir en un mapa online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/guerras-siglo-xxi-pueden-seguir-mapa-online-2628707.jpg' alt='Las guerras del siglo XXI se pueden seguir en un mapa online' />
     </a>
 </div>
 
