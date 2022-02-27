@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509'>Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/editando-video-2616685.jpg' alt='Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reclamar-algo-va-mal-compraventa-wallapop-1002331'>Cómo reclamar si algo va mal en la compraventa en Wallapop</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-reclamar-algo-va-mal-compraventa-wallapop-1002331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wallapop-informacion-2598557.jpg' alt='Cómo reclamar si algo va mal en la compraventa en Wallapop' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039'>El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-amazfit-gts-2e-oferta-1019039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazfit-gts-2e-2259155.jpg' alt='El reloj Amazfit GTS 2e recibe un descuento, y baja de los 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535'>Aplicaciones que no deberían faltar en tu Android Auto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-no-deberian-faltar-android-auto-993535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Aplicaciones que no deberían faltar en tu Android Auto' />
     </a>
 </div>
 
