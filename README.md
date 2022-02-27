@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-resucitara-frank-bullitt-secuela-directa-pelicula-1968-1019321'>Steven Spielberg “resucitará” a Frank Bullitt en una secuela directa de la película de 1968</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-resucitara-frank-bullitt-secuela-directa-pelicula-1968-1019321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bullit-2629087.jpg' alt='Steven Spielberg “resucitará” a Frank Bullitt en una secuela directa de la película de 1968' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707'>Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/super-dispositivo-huawei-2629293.jpg' alt='Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-limpia-automaticamente-solo-cuesta-269-euros-1019301'>Este robot aspirador se limpia automáticamente y solo cuesta 269 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-limpia-automaticamente-solo-cuesta-269-euros-1019301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conga-2290-ultra-home-2593745.jpg' alt='Este robot aspirador se limpia automáticamente y solo cuesta 269 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-matebook-actualizan-nuevas-pantallas-disenos-eficientes-movilidad-profesional-1019031'>Huawei MateBook X Pro y Matebook E se actualizan con nuevas pantallas y diseños más eficientes para la movilidad profesional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-matebook-actualizan-nuevas-pantallas-disenos-eficientes-movilidad-profesional-1019031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-x-2629177.jpg' alt='Huawei MateBook X Pro y Matebook E se actualizan con nuevas pantallas y diseños más eficientes para la movilidad profesional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-basadas-clasicos-ciencia-ficcion-1016049'>8 series y películas basadas en clásicos de la ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-peliculas-basadas-clasicos-ciencia-ficcion-1016049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2623043.jpg' alt='8 series y películas basadas en clásicos de la ciencia ficción' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matestation-x-matepad-paper-son-dispositivos-huawei-ponen-diana-imac-kindle-1019049'>Huawei MateStation X y MatePad Paper: así son los dispositivos de Huawei que ponen la diana en los iMac y en los Kindle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matestation-x-matepad-paper-son-dispositivos-huawei-ponen-diana-imac-kindle-1019049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matestation-x-2629171.jpg' alt='Huawei MateStation X y MatePad Paper: así son los dispositivos de Huawei que ponen la diana en los iMac y en los Kindle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295'>Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/misterioso-error-carplay-bloqueando-todas-aplicaciones-ciertos-usuarios-1019295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/carplay-2629035.jpg' alt='Este misterioso error de CarPlay está bloqueando todas las aplicaciones a ciertos usuarios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323'>WhatsApp te permitirá unirte a videollamadas mediante un simple enlace</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg' alt='WhatsApp te permitirá unirte a videollamadas mediante un simple enlace' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-activa-starlink-ucrania-tiempo-record-peticion-muy-especial-1019287'>Elon Musk activa Starlink en Ucrania en tiempo récord tras una petición muy especial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-activa-starlink-ucrania-tiempo-record-peticion-muy-especial-1019287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Elon Musk activa Starlink en Ucrania en tiempo récord tras una petición muy especial' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-compres-dash-cam-coche-usa-viejo-movil-1006209'>No compres una dash cam para el coche usa tu viejo móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/no-compres-dash-cam-coche-usa-viejo-movil-1006209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-dash-cam-2605397.jpg' alt='No compres una dash cam para el coche usa tu viejo móvil' />
     </a>
 </div>
 
