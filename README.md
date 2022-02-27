@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045'>Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cutre-caseta-perro-oxidada-ha-vendido-christies-44000-euros-razon-tejado-2628715.jpg' alt='Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pasa-cuenta-whatsapp-morir-usuario-1017855'>Qué pasa con una cuenta de WhatsApp tras morir su usuario</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pasa-cuenta-whatsapp-morir-usuario-1017855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-cuando-falleces-2626371.jpg' alt='Qué pasa con una cuenta de WhatsApp tras morir su usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023'>Estas son las mejores cafeteras superautomáticas que puedes comprar ahora</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-superautomaticas-1019023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/taza-cafe-2628705.jpg' alt='Estas son las mejores cafeteras superautomáticas que puedes comprar ahora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509'>Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/edita-videos-gratis-estas-5-webs-dejar-marca-agua-ni-limitaciones-1012509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/editando-video-2616685.jpg' alt='Edita vídeos gratis desde estas 5 webs sin dejar marca de agua ni limitaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reclamar-algo-va-mal-compraventa-wallapop-1002331'>Cómo reclamar si algo va mal en la compraventa en Wallapop</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reclamar-algo-va-mal-compraventa-wallapop-1002331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/wallapop-informacion-2598557.jpg' alt='Cómo reclamar si algo va mal en la compraventa en Wallapop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381'>Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/barcos-pasajeros-grandes-historia-1831-ciudades-flotantes-10000-habitantes-1018381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barcos-pasajeros-grandes-historia-ciudades-flotantes-10000-habitantes-2627381.jpg' alt='Los barcos de pasajeros más grandes de la historia, desde 1831: ciudades flotantes de 10.000 habitantes' />
     </a>
 </div>
 
