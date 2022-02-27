@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353'>TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tcl-series-30-2629313.jpg' alt='TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-samsung-galaxy-book2-pro-360-dos-nuevos-portatiles-profesionales-teletrabajo-1019237'>Samsung Galaxy Book2 Pro y Samsung Galaxy Book2 Pro 360, dos nuevos portátiles profesionales para el teletrabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-samsung-galaxy-book2-pro-360-dos-nuevos-portatiles-profesionales-teletrabajo-1019237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-book2-pro-galaxy-book2-pro-360-2629085.jpg' alt='Samsung Galaxy Book2 Pro y Samsung Galaxy Book2 Pro 360, dos nuevos portátiles profesionales para el teletrabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-barbacoas-electricas-baratas-aprovechar-primeros-dias-buen-tiempo-1017143'>5 barbacoas eléctricas baratas para aprovechar los primeros días de buen tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-barbacoas-electricas-baratas-aprovechar-primeros-dias-buen-tiempo-1017143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/barbacoa-carne-comida-2624927.jpg' alt='5 barbacoas eléctricas baratas para aprovechar los primeros días de buen tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331'>Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327'>Apple piensa en un Mac dentro de un teclado, según esta patente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg' alt='Apple piensa en un Mac dentro de un teclado, según esta patente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707'>Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/super-dispositivo-tecnologia-inalambrica-huawei-crear-oficina-inteligente-1018707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/super-dispositivo-huawei-2629293.jpg' alt='Super Dispositivo, la tecnología inalámbrica de Huawei para crear una oficina más inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-matebook-actualizan-nuevas-pantallas-disenos-eficientes-movilidad-profesional-1019031'>Huawei MateBook X Pro y Matebook E se actualizan con nuevas pantallas y diseños más eficientes para la movilidad profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-matebook-actualizan-nuevas-pantallas-disenos-eficientes-movilidad-profesional-1019031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-x-2629177.jpg' alt='Huawei MateBook X Pro y Matebook E se actualizan con nuevas pantallas y diseños más eficientes para la movilidad profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matestation-x-matepad-paper-son-dispositivos-huawei-ponen-diana-imac-kindle-1019049'>Huawei MateStation X y MatePad Paper: así son los dispositivos de Huawei que ponen la diana en los iMac y en los Kindle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matestation-x-matepad-paper-son-dispositivos-huawei-ponen-diana-imac-kindle-1019049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matestation-x-2629171.jpg' alt='Huawei MateStation X y MatePad Paper: así son los dispositivos de Huawei que ponen la diana en los iMac y en los Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323'>WhatsApp te permitirá unirte a videollamadas mediante un simple enlace</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-unirte-videollamadas-mediante-simple-enlace-1019323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg' alt='WhatsApp te permitirá unirte a videollamadas mediante un simple enlace' />
     </a>
 </div>
 
