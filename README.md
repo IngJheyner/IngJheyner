@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369'>La última actualización de Android Auto rompe todas las notificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La última actualización de Android Auto rompe todas las notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353'>TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tcl-series-30-2629313.jpg' alt='TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331'>Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-colocar-advertencias-contenido-cada-tuits-twitter-1019331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Ahora vas a poder colocar advertencias de contenido en cada uno de tus tuits en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327'>Apple piensa en un Mac dentro de un teclado, según esta patente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-piensa-mac-dentro-teclado-patente-1019327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg' alt='Apple piensa en un Mac dentro de un teclado, según esta patente' />
     </a>
 </div>
 
