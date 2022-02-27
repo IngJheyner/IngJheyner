@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169'>Termostatos WiFi con asistente de voz para hacer tu caldera inteligente</a></h4>
+    <a href='https://computerhoy.com/guia-compra/termostato-inteligente-asistente-1011169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/termostato-inteligente-2614365.jpg' alt='Termostatos WiFi con asistente de voz para hacer tu caldera inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201'>¿Por qué se agota la batería del smartphone tan rápido?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/agota-bateria-smartphone-tan-rapido-1017201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargar-movil-2625047.jpg' alt='¿Por qué se agota la batería del smartphone tan rápido?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035'>Las guerras del siglo XXI se pueden seguir en un mapa online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/guerras-siglo-xxi-pueden-seguir-mapa-online-ucrania-1019035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/guerras-siglo-xxi-pueden-seguir-mapa-online-2628707.jpg' alt='Las guerras del siglo XXI se pueden seguir en un mapa online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045'>Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/caseta-perro-oxidada-aguas-zarcas-meteorito-1019045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cutre-caseta-perro-oxidada-ha-vendido-christies-44000-euros-razon-tejado-2628715.jpg' alt='Esta caseta de perro oxidada se ha vendido en Christie's por 44.000 euros, y la razón está en su tejado' />
     </a>
 </div>
 
