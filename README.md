@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643'>Todos los estrenos de la semana con la serie documental que no querrás ver si compartes piso</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-desata-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-ltpo-2k-camara-microscopica-1019563'>realme se desata con los realme GT 2 Pro con Snapdragon 8 Gen 1, pantalla LTPO 2K y cámara microscópica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-desata-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-ltpo-2k-camara-microscopica-1019563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-gt-2-2629761.jpg' alt='realme se desata con los realme GT 2 Pro con Snapdragon 8 Gen 1, pantalla LTPO 2K y cámara microscópica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/realme-gt-2-pro-review-opinion-1018655'>realme GT 2 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-gt-2-pro-review-opinion-1018655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-gt-2-pro-2629747.jpg' alt='realme GT 2 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/parte-frigorifico-nadie-limpia-podria-afectar-negativamente-factura-luz-1019725'>La parte del frigorífico que nadie limpia y que podría afectar negativamente a tu factura de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/parte-frigorifico-nadie-limpia-podria-afectar-negativamente-factura-luz-1019725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/frigorifico-nevera-2423429.jpg' alt='La parte del frigorífico que nadie limpia y que podría afectar negativamente a tu factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/starbucks-dilema-hielo-tiktok-quien-tiene-razon-1019697'>Starbucks y el dilema del hielo en TikTok: ¿quién tiene razón?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/starbucks-dilema-hielo-tiktok-quien-tiene-razon-1019697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/starbucks-2507571.jpg' alt='Starbucks y el dilema del hielo en TikTok: ¿quién tiene razón?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643'>Todos los estrenos de la semana en Netflix con la serie documental que no querrás ver si compartes piso</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peor-companero-piso-imaginable-2629847.jpg' alt='Todos los estrenos de la semana con la serie documental que no querrás ver si compartes piso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-rapidos-multiplican-seguridad-movil-android-segundos-1019605'>5 ajustes rápidos que multiplican la seguridad de un móvil Android en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-rapidos-multiplican-seguridad-movil-android-segundos-1019605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/aplicaciones-android-2301997.jpg' alt='5 ajustes rápidos que multiplican la seguridad de un móvil Android en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-16gb-ram-ryzen-7-baja-100eu-amazon-asus-perfecto-teletrabajo-1019597'>Este portátil con 16GB de RAM y Ryzen 7 baja 100€ en Amazon: es de ASUS y perfecto para el teletrabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-16gb-ram-ryzen-7-baja-100eu-amazon-asus-perfecto-teletrabajo-1019597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-zenbook-14-2629797.jpg' alt='Este portátil con 16GB de RAM y Ryzen 7 baja 100€ en Amazon: es de ASUS y perfecto para el teletrabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607'>¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573'>El gran reto de la reconocimiento facial: reconocer rostros según envejecen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El gran reto de la reconocimiento facial: reconocer rostros según envejecen' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peor-companero-piso-imaginable-2629847.jpg' alt='Todos los estrenos de la semana en Netflix con la serie documental que no querrás ver si compartes piso' />
     </a>
 </div>
 
