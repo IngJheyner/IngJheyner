@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-m4-pro-llegan-mwc-gran-relacion-calidad-precio-nuevos-acabados-1019401'>Los Poco X4 Pro y M4 Pro llegan en el MWC con una gran relación calidad-precio y nuevos  acabados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-m4-pro-llegan-mwc-gran-relacion-calidad-precio-nuevos-acabados-1019401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-x4-pro-mwc-2022-2629429.jpg' alt='Los Poco X4 Pro y M4 Pro llegan en el MWC con una gran relación calidad-precio y nuevos  acabados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mejor-aplicacion-gps-android-auto-google-maps-waze-1019633'>Cuál es la mejor aplicación GPS para Android Auto: ¿Google Maps o Waze? </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-mejor-aplicacion-gps-android-auto-google-maps-waze-1019633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-maps-vs-waze-2629821.jpg' alt='Cuál es la mejor aplicación GPS para Android Auto: ¿Google Maps o Waze? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-presenta-smart-tv-4k-baratas-32-50-pulgadas-menos-500-euros-competir-xiaomi-1019845'>realme presenta sus Smart TV 4K baratas: 32 y 50 pulgadas por menos de 500 euros para competir con Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-presenta-smart-tv-4k-baratas-32-50-pulgadas-menos-500-euros-competir-xiaomi-1019845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-smart-tv-4k-2630275.jpg' alt='realme presenta sus Smart TV 4K baratas: 32 y 50 pulgadas por menos de 500 euros para competir con Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795'>Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/killing-eve-2606815.jpg' alt='Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813'>Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-ideapad-gaming-3-2477947.jpg' alt='Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estrategia-infalible-seguir-proxima-visita-ikea-ahorrar-tiempo-dinero-1019769'>La estrategia infalible a seguir en tu próxima visita a IKEA para ahorrar tiempo y dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estrategia-infalible-seguir-proxima-visita-ikea-ahorrar-tiempo-dinero-1019769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='La estrategia infalible a seguir en tu próxima visita a IKEA para ahorrar tiempo y dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/urbanista-los-angeles-auriculares-cancelacion-ruido-carga-solar-1019385'>Estos auriculares tienen cancelación de ruido y se cargan con energía solar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/urbanista-los-angeles-auriculares-cancelacion-ruido-carga-solar-1019385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/urbanista-angeles-2629385.jpg' alt='Estos auriculares tienen cancelación de ruido y se cargan con energía solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escoba-electrica-superventas-lidl-barre-recoge-1019755'>La escoba eléctrica superventas de Lidl por menos de 30 euros que barre y recoge en una sola pasada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escoba-electrica-superventas-lidl-barre-recoge-1019755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escoba-electrica-recargable-lidl-2630003.jpg' alt='La escoba eléctrica superventas de Lidl por menos de 30 euros que barre y recoge en una sola pasada' />
     </a>
 </div>
 
