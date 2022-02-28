@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959'>Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dazn-2579363.jpg' alt='Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-iphone-perdido-hace-decada-interior-inodoro-estado-sorprendente-1019947'>Encuentran un iPhone perdido hace una década en el interior del inodoro y su estado es sorprendente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/encuentran-iphone-perdido-hace-decada-interior-inodoro-estado-sorprendente-1019947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-2020-2610065.jpg' alt='Encuentran un iPhone perdido hace una década en el interior del inodoro y su estado es sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905'>ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zte-blade-v40-2630361.jpg' alt='ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-revoluciona-carga-rapida-0-100-15-minutos-supervooc-150-w-ya-trabajan-cargadores-240-w-1019381'>Oppo revoluciona la carga rápida: de 0 a 100% en 15 minutos con SuperVOOC de 150 W y ya trabajan en cargadores de 240 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-revoluciona-carga-rapida-0-100-15-minutos-supervooc-150-w-ya-trabajan-cargadores-240-w-1019381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-oppo-find-x5-2626139.jpg' alt='Oppo revoluciona la carga rápida: de 0 a 100% en 15 minutos con SuperVOOC de 150 W y ya trabajan en cargadores de 240 W' />
     </a>
 </div>
 
