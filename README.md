@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921'>Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-mini-generador-solar-portatil-ideal-acampadas-barbacoas-2630441.jpg' alt='Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-series-peliculas-estreno-marzo-1020059'>Estas son todas las series y películas que se estrenan en Amazon Prime Video en marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-series-peliculas-estreno-marzo-1020059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-marzo-2630773.jpg' alt='Estas son todas las series y películas que se estrenan en Amazon Prime Video en marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829'>Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iron-man-3-2622903.jpg' alt='Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043'>Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2588371.jpg' alt='Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957'>OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630073.jpg' alt='OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033'>Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/gasolinera.jpg' alt='Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero' />
     </a>
 </div>
 
