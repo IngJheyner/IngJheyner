@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829'>Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iron-man-3-2622903.jpg' alt='Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045'>Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lagartos-pastas-canela-mercadona-2630715.jpg' alt='Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043'>Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2588371.jpg' alt='Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957'>OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630073.jpg' alt='OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033'>Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/gasolinera.jpg' alt='Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/donde-momento-tesla-roadster-elon-musk-envio-espacio-1019827'>Dónde está en este momento el Tesla Roadster que Elon Musk envió al espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/donde-momento-tesla-roadster-elon-musk-envio-espacio-1019827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-roadster-spacex-2622419.jpg' alt='Dónde está en este momento el Tesla Roadster que Elon Musk envió al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-youtube-ahora-permitira-subir-videos-10-minutos-duracion-1020015'>TikTok quiere ser YouTube y ahora permitirá subir vídeos de hasta 10 minutos de duración</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-youtube-ahora-permitira-subir-videos-10-minutos-duracion-1020015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiktok-2578381.jpg' alt='TikTok quiere ser YouTube y ahora permitirá subir vídeos de hasta 10 minutos de duración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/recomendaciones-expertos-hacer-caso-ataque-nuclear-1019981'>Recomendaciones de los expertos y qué hacer en caso de ataque nuclear</a></h4>
-    <a href='https://computerhoy.com/noticias/life/recomendaciones-expertos-hacer-caso-ataque-nuclear-1019981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Recomendaciones de los expertos y qué hacer en caso de ataque nuclear' />
     </a>
 </div>
 
