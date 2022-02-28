@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/honor-anuncia-mundialmente-familia-honor-magic4-mwc-2022-modelo-pro-como-buque-insignia-1019859'>Honor anuncia mundialmente la familia Honor Magic4 en el MWC 2022 con el modelo Pro como buque insignia</a></h4>
+    <a href='https://computerhoy.com/noticias/honor-anuncia-mundialmente-familia-honor-magic4-mwc-2022-modelo-pro-como-buque-insignia-1019859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic4-2630287.jpg' alt='Honor anuncia mundialmente la familia Honor Magic4 en el MWC 2022 con el modelo Pro como buque insignia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-m4-pro-llegan-mwc-gran-relacion-calidad-precio-nuevos-acabados-1019401'>Los Poco X4 Pro y M4 Pro llegan en el MWC con una gran relación calidad-precio y nuevos  acabados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-m4-pro-llegan-mwc-gran-relacion-calidad-precio-nuevos-acabados-1019401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-x4-pro-mwc-2022-2629429.jpg' alt='Los Poco X4 Pro y M4 Pro llegan en el MWC con una gran relación calidad-precio y nuevos  acabados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795'>Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/killing-eve-2606815.jpg' alt='Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813'>Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-ideapad-gaming-3-2477947.jpg' alt='Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos' />
     </a>
 </div>
 
