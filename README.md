@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/7-moviles-muy-potentes-jugar-hemos-probado-recomendamos-1017789'>7 móviles muy potentes para jugar que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/7-moviles-muy-potentes-jugar-hemos-probado-recomendamos-1017789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-redmagic-7-2625423.jpg' alt='7 móviles muy potentes para jugar que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959'>Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dazn-2579363.jpg' alt='Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/guardia-civil-recuerda-cuanto-tiempo-antelacion-puedes-renovar-dni-pasaporte-1019919'>La Guardia Civil recuerda con cuánto tiempo de antelación puedes renovar tu DNI o pasaporte</a></h4>
     <a href='https://computerhoy.com/noticias/life/guardia-civil-recuerda-cuanto-tiempo-antelacion-puedes-renovar-dni-pasaporte-1019919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dni-40-policia-nacional-2374929.jpg' alt='La Guardia Civil recuerda con cuánto tiempo de antelación puedes renovar tu DNI o pasaporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905'>ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zte-blade-v40-2630361.jpg' alt='ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita' />
     </a>
 </div>
 
