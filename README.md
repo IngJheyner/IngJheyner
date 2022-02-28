@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905'>ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zte-presenta-nueva-familia-smartphones-mwc-2022-zte-blade-v40-5g-blade-v40-pro-blade-v40-blade-v40-vita-1019905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zte-blade-v40-2630361.jpg' alt='ZTE presenta su nueva familia de smartphones en el MWC 2022: ZTE Blade V40 5G, Blade V40 Pro, Blade V40 y Blade V40 Vita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-revoluciona-carga-rapida-0-100-15-minutos-supervooc-150-w-ya-trabajan-cargadores-240-w-1019381'>Oppo revoluciona la carga rápida: de 0 a 100% en 15 minutos con SuperVOOC de 150 W y ya trabajan en cargadores de 240 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-revoluciona-carga-rapida-0-100-15-minutos-supervooc-150-w-ya-trabajan-cargadores-240-w-1019381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-oppo-find-x5-2626139.jpg' alt='Oppo revoluciona la carga rápida: de 0 a 100% en 15 minutos con SuperVOOC de 150 W y ya trabajan en cargadores de 240 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/honor-anuncia-mundialmente-familia-honor-magic4-mwc-2022-modelo-pro-como-buque-insignia-1019859'>Honor anuncia mundialmente la familia Honor Magic4 en el MWC 2022 con el modelo Pro como buque insignia</a></h4>
     <a href='https://computerhoy.com/noticias/honor-anuncia-mundialmente-familia-honor-magic4-mwc-2022-modelo-pro-como-buque-insignia-1019859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic4-2630287.jpg' alt='Honor anuncia mundialmente la familia Honor Magic4 en el MWC 2022 con el modelo Pro como buque insignia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mejor-aplicacion-gps-android-auto-google-maps-waze-1019633'>Cuál es la mejor aplicación GPS para Android Auto: ¿Google Maps o Waze? </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-mejor-aplicacion-gps-android-auto-google-maps-waze-1019633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-maps-vs-waze-2629821.jpg' alt='Cuál es la mejor aplicación GPS para Android Auto: ¿Google Maps o Waze? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-presenta-smart-tv-4k-baratas-32-50-pulgadas-menos-500-euros-competir-xiaomi-1019845'>realme presenta sus Smart TV 4K baratas: 32 y 50 pulgadas por menos de 500 euros para competir con Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-presenta-smart-tv-4k-baratas-32-50-pulgadas-menos-500-euros-competir-xiaomi-1019845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-smart-tv-4k-2630275.jpg' alt='realme presenta sus Smart TV 4K baratas: 32 y 50 pulgadas por menos de 500 euros para competir con Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795'>Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/killing-eve-2606815.jpg' alt='Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas' />
     </a>
 </div>
 
