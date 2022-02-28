@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nokia-c21-c21-plus-nuevo-nokia-c2-opciones-asequibles-android-go-1019391'>Así son los Nokia C21, C21 Plus y el nuevo Nokia C2, opciones asequibles con Android Go</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-nokia-c21-c21-plus-nuevo-nokia-c2-opciones-asequibles-android-go-1019391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nokia-c2-2629473.jpg' alt='Así son los Nokia C21, C21 Plus y el nuevo Nokia C2, opciones asequibles con Android Go' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669'>El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes</a></h4>
     <a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondo-mar-alienigena-video-nos-descubre-60-animales-abisales-algunos-nunca-vistos-antes-2628177.jpg' alt='El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-hibrido-macbook-ipad-teclado-tactil-1019387'>Apple trabajaría en un híbrido de MacBook y iPad con teclado táctil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-hibrido-macbook-ipad-teclado-tactil-1019387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-2021-2375639.jpg' alt='Apple trabajaría en un híbrido de MacBook y iPad con teclado táctil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369'>La última actualización de Android Auto rompe todas las notificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La última actualización de Android Auto rompe todas las notificaciones' />
     </a>
 </div>
 
