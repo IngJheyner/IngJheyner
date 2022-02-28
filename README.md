@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683'>Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-2625935.jpg' alt='Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-avisa-nuevo-tendremos-otra-pandemia-diferente-1018533'>Bill Gates avisa de nuevo: "tendremos otra pandemia" diferente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bill-gates-avisa-nuevo-tendremos-otra-pandemia-diferente-1018533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Bill Gates avisa de nuevo: "tendremos otra pandemia" diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-conseguir-coche-etiqueta-circule-menos-restricciones-1018519'>Cómo conseguir que un coche sin etiqueta circule con menos restricciones</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-conseguir-coche-etiqueta-circule-menos-restricciones-1018519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/zona-bajas-emisiones-barcelona.jpg' alt='Cómo conseguir que un coche sin etiqueta circule con menos restricciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2629613.jpg' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-ce-2-mejor-movil-gama-media-1019377'>OnePlus Nord CE 2: 5 razones por las que es el nuevo móvil rey de la gama media</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-ce-2-mejor-movil-gama-media-1019377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629381.jpg' alt='OnePlus Nord CE 2: 5 razones por las que es el nuevo móvil rey de la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nokia-c21-c21-plus-nuevo-nokia-c2-opciones-asequibles-android-go-1019391'>Así son los Nokia C21, C21 Plus y el nuevo Nokia C2, opciones asequibles con Android Go</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nokia-c21-c21-plus-nuevo-nokia-c2-opciones-asequibles-android-go-1019391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nokia-c2-2629473.jpg' alt='Así son los Nokia C21, C21 Plus y el nuevo Nokia C2, opciones asequibles con Android Go' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669'>El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondo-mar-alienigena-video-nos-descubre-60-animales-abisales-algunos-nunca-vistos-antes-2628177.jpg' alt='El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-deberias-instalar-movil-hijos-1002971'>Las aplicaciones que deberías instalar en el móvil de tus hijos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-deberias-instalar-movil-hijos-1002971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-mirando-movil-2599677.jpg' alt='Las aplicaciones que deberías instalar en el móvil de tus hijos' />
     </a>
 </div>
 
