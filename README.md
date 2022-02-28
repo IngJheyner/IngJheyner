@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-desata-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-ltpo-2k-camara-microscopica-1019563'>realme se desata con los realme GT 2 Pro con Snapdragon 8 Gen 1, pantalla LTPO 2K y cámara microscópica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-desata-realme-gt-2-pro-snapdragon-8-gen-1-pantalla-ltpo-2k-camara-microscopica-1019563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-gt-2-2629761.jpg' alt='realme se desata con los realme GT 2 Pro con Snapdragon 8 Gen 1, pantalla LTPO 2K y cámara microscópica' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795'>Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-regresado-hbo-max-serie-mejor-quimica-asesina-policia-protagonistas-1019795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/killing-eve-2606815.jpg' alt='Ha regresado a HBO Max la serie con la mejor química entre la asesina y la policía protagonistas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-gt-2-pro-review-opinion-1018655'>realme GT 2 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-gt-2-pro-review-opinion-1018655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-gt-2-pro-2629747.jpg' alt='realme GT 2 Pro, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813'>Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-nos-ha-mostrado-lenovo-mwc-2022-portatiles-convertibles-pantallas-telefonos-1019813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/lenovo-ideapad-gaming-3-2477947.jpg' alt='Todo lo que nos ha mostrado Lenovo en el MWC 2022: portátiles, convertibles, pantallas y teléfonos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/parte-frigorifico-nadie-limpia-podria-afectar-negativamente-factura-luz-1019725'>La parte del frigorífico que nadie limpia y que podría afectar negativamente a tu factura de la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/life/parte-frigorifico-nadie-limpia-podria-afectar-negativamente-factura-luz-1019725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/frigorifico-nevera-2423429.jpg' alt='La parte del frigorífico que nadie limpia y que podría afectar negativamente a tu factura de la luz' />
+    <h4><a href='https://computerhoy.com/noticias/life/estrategia-infalible-seguir-proxima-visita-ikea-ahorrar-tiempo-dinero-1019769'>La estrategia infalible a seguir en tu próxima visita a IKEA para ahorrar tiempo y dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estrategia-infalible-seguir-proxima-visita-ikea-ahorrar-tiempo-dinero-1019769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='La estrategia infalible a seguir en tu próxima visita a IKEA para ahorrar tiempo y dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/starbucks-dilema-hielo-tiktok-quien-tiene-razon-1019697'>Starbucks y el dilema del hielo en TikTok: ¿quién tiene razón?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/starbucks-dilema-hielo-tiktok-quien-tiene-razon-1019697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/starbucks-2507571.jpg' alt='Starbucks y el dilema del hielo en TikTok: ¿quién tiene razón?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/urbanista-los-angeles-auriculares-cancelacion-ruido-carga-solar-1019385'>Estos auriculares tienen cancelación de ruido y se cargan con energía solar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/urbanista-los-angeles-auriculares-cancelacion-ruido-carga-solar-1019385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/urbanista-angeles-2629385.jpg' alt='Estos auriculares tienen cancelación de ruido y se cargan con energía solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643'>Todos los estrenos de la semana en Netflix con la serie documental que no querrás ver si compartes piso</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peor-companero-piso-imaginable-2629847.jpg' alt='Todos los estrenos de la semana en Netflix con la serie documental que no querrás ver si compartes piso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/escoba-electrica-superventas-lidl-barre-recoge-1019755'>La escoba eléctrica superventas de Lidl por menos de 30 euros que barre y recoge en una sola pasada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/escoba-electrica-superventas-lidl-barre-recoge-1019755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/escoba-electrica-recargable-lidl-2630003.jpg' alt='La escoba eléctrica superventas de Lidl por menos de 30 euros que barre y recoge en una sola pasada' />
     </a>
 </div>
 
