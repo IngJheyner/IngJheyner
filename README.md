@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567'>Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683'>Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-2625935.jpg' alt='Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2629613.jpg' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-ce-2-mejor-movil-gama-media-1019377'>OnePlus Nord CE 2: 5 razones por las que es el nuevo móvil rey de la gama media</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-ce-2-mejor-movil-gama-media-1019377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629381.jpg' alt='OnePlus Nord CE 2: 5 razones por las que es el nuevo móvil rey de la gama media' />
     </a>
 </div>
 
