@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/7-moviles-muy-potentes-jugar-hemos-probado-recomendamos-1017789'>7 móviles muy potentes para jugar que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/7-moviles-muy-potentes-jugar-hemos-probado-recomendamos-1017789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-redmagic-7-2625423.jpg' alt='7 móviles muy potentes para jugar que hemos probado y recomendamos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957'>OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-da-marcha-atras-oxygenos-seguira-siendo-capa-personalizacion-moviles-1019957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630073.jpg' alt='OnePlus da marcha atrás y OxygenOS seguirá siendo la capa de personalización de sus móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959'>Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dazn-anuncia-nuevos-precios-todos-clientes-proximo-17-marzo-1019959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dazn-2579363.jpg' alt='Dazn anuncia nuevos precios para todos sus clientes desde el próximo 17 de marzo' />
+    <h4><a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033'>Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mejor-peor-dia-repostar-gasolina-ahorrar-dinero-1020033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/gasolinera.jpg' alt='Cuál es el mejor y el peor día para repostar gasolina, si quieres ahorrar dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-iphone-perdido-hace-decada-interior-inodoro-estado-sorprendente-1019947'>Encuentran un iPhone perdido hace una década en el interior del inodoro y su estado es sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-iphone-perdido-hace-decada-interior-inodoro-estado-sorprendente-1019947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-2020-2610065.jpg' alt='Encuentran un iPhone perdido hace una década en el interior del inodoro y su estado es sorprendente' />
+    <h4><a href='https://computerhoy.com/noticias/motor/donde-momento-tesla-roadster-elon-musk-envio-espacio-1019827'>Dónde está en este momento el Tesla Roadster que Elon Musk envió al espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/donde-momento-tesla-roadster-elon-musk-envio-espacio-1019827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-roadster-spacex-2622419.jpg' alt='Dónde está en este momento el Tesla Roadster que Elon Musk envió al espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/exempleado-desvela-redes-secretos-seguramente-mcdonalds-no-quiere-sepas-1019939'>Exempleado desvela en redes los secretos que seguramente McDonald’s no quiere que sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/exempleado-desvela-redes-secretos-seguramente-mcdonalds-no-quiere-sepas-1019939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mcdonalds.jpg' alt='Exempleado desvela en redes los secretos que seguramente McDonald’s no quiere que sepas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-youtube-ahora-permitira-subir-videos-10-minutos-duracion-1020015'>TikTok quiere ser YouTube y ahora permitirá subir vídeos de hasta 10 minutos de duración</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-youtube-ahora-permitira-subir-videos-10-minutos-duracion-1020015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tiktok-2578381.jpg' alt='TikTok quiere ser YouTube y ahora permitirá subir vídeos de hasta 10 minutos de duración' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/guardia-civil-recuerda-cuanto-tiempo-antelacion-puedes-renovar-dni-pasaporte-1019919'>La Guardia Civil recuerda con cuánto tiempo de antelación puedes renovar tu DNI o pasaporte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/guardia-civil-recuerda-cuanto-tiempo-antelacion-puedes-renovar-dni-pasaporte-1019919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dni-40-policia-nacional-2374929.jpg' alt='La Guardia Civil recuerda con cuánto tiempo de antelación puedes renovar tu DNI o pasaporte' />
+    <h4><a href='https://computerhoy.com/noticias/life/recomendaciones-expertos-hacer-caso-ataque-nuclear-1019981'>Recomendaciones de los expertos y qué hacer en caso de ataque nuclear</a></h4>
+    <a href='https://computerhoy.com/noticias/life/recomendaciones-expertos-hacer-caso-ataque-nuclear-1019981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Recomendaciones de los expertos y qué hacer en caso de ataque nuclear' />
     </a>
 </div>
 
