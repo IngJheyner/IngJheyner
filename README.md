@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643'>Todos los estrenos de la semana con la serie documental que no querrás ver si compartes piso</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-serie-documental-compartes-piso-1019643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peor-companero-piso-imaginable-2629847.jpg' alt='Todos los estrenos de la semana con la serie documental que no querrás ver si compartes piso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-rapidos-multiplican-seguridad-movil-android-segundos-1019605'>5 ajustes rápidos que multiplican la seguridad de un móvil Android en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-rapidos-multiplican-seguridad-movil-android-segundos-1019605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/aplicaciones-android-2301997.jpg' alt='5 ajustes rápidos que multiplican la seguridad de un móvil Android en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-16gb-ram-ryzen-7-baja-100eu-amazon-asus-perfecto-teletrabajo-1019597'>Este portátil con 16GB de RAM y Ryzen 7 baja 100€ en Amazon: es de ASUS y perfecto para el teletrabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-16gb-ram-ryzen-7-baja-100eu-amazon-asus-perfecto-teletrabajo-1019597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/asus-zenbook-14-2629797.jpg' alt='Este portátil con 16GB de RAM y Ryzen 7 baja 100€ en Amazon: es de ASUS y perfecto para el teletrabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607'>¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573'>El gran reto de la reconocimiento facial: reconocer rostros según envejecen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El gran reto de la reconocimiento facial: reconocer rostros según envejecen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-demuestra-medidas-guerra-ucrania-posible-eliminar-fake-news-1019585'>Facebook demuestra con sus medidas en la guerra en Ucrania que es posible eliminar las fake news</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-demuestra-medidas-guerra-ucrania-posible-eliminar-fake-news-1019585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/facebook-fake-news-2629787.jpg' alt='Facebook demuestra con sus medidas en la guerra en Ucrania que es posible eliminar las fake news' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567'>Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683'>Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-2625935.jpg' alt='Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy' />
     </a>
 </div>
 
