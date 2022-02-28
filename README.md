@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669'>El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fondo-mar-series-alienigena-video-1018669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondo-mar-alienigena-video-nos-descubre-60-animales-abisales-algunos-nunca-vistos-antes-2628177.jpg' alt='El fondo del mar es alienígena: un increíble vídeo muestra docenas de seres abisales, algunos nunca vistos antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-deberias-instalar-movil-hijos-1002971'>Las aplicaciones que deberías instalar en el móvil de tus hijos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-deberias-instalar-movil-hijos-1002971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-mirando-movil-2599677.jpg' alt='Las aplicaciones que deberías instalar en el móvil de tus hijos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369'>La última actualización de Android Auto rompe todas las notificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-rompe-todas-notificaciones-1019369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La última actualización de Android Auto rompe todas las notificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353'>TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-series-30-refuerza-presencia-gama-media-entrada-5-nuevos-moviles-mwc-1019353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tcl-series-30-2629313.jpg' alt='TCL Series 30 refuerza su presencia en la gama media y de entrada con 5 nuevos móviles en el MWC' />
     </a>
 </div>
 
