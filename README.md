@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607'>¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/preparate-te-espera-10-funciones-llegaran-muy-pronto-whatsapp-1019607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='¡Prepárate para lo que te espera! 10 funciones que llegarán muy pronto a WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573'>El gran reto de la reconocimiento facial: reconocer rostros según envejecen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-reto-reconocimiento-facial-reconocer-rostros-envejecen-1019573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El gran reto de la reconocimiento facial: reconocer rostros según envejecen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-demuestra-medidas-guerra-ucrania-posible-eliminar-fake-news-1019585'>Facebook demuestra con sus medidas en la guerra en Ucrania que es posible eliminar las fake news</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-demuestra-medidas-guerra-ucrania-posible-eliminar-fake-news-1019585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/facebook-fake-news-2629787.jpg' alt='Facebook demuestra con sus medidas en la guerra en Ucrania que es posible eliminar las fake news' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567'>Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/contaminacion-provoca-bitcoin-solucion-1019567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='Se dispara la contaminación que provoca el bitcoin y no hay solución a corto plazo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683'>Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-desarrollo-aplicaciones-android-puedes-hacer-udemy-1017683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-2625935.jpg' alt='Mejores cursos online de desarrollo de aplicaciones para Android que puedes hacer en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-avisa-nuevo-tendremos-otra-pandemia-diferente-1018533'>Bill Gates avisa de nuevo: "tendremos otra pandemia" diferente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bill-gates-avisa-nuevo-tendremos-otra-pandemia-diferente-1018533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Bill Gates avisa de nuevo: "tendremos otra pandemia" diferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-conseguir-coche-etiqueta-circule-menos-restricciones-1018519'>Cómo conseguir que un coche sin etiqueta circule con menos restricciones</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-conseguir-coche-etiqueta-circule-menos-restricciones-1018519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/zona-bajas-emisiones-barcelona.jpg' alt='Cómo conseguir que un coche sin etiqueta circule con menos restricciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1019547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2629613.jpg' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
