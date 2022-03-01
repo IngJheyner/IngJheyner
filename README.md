@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549'>NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-corregir-posicion-molesta-barra-busqueda-safari-ios-15-iphone-1020517'>Cómo corregir la posición de la molesta barra de búsqueda de Safari en iOS 15 para iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-corregir-posicion-molesta-barra-busqueda-safari-ios-15-iphone-1020517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Cómo corregir la posición de la molesta barra de búsqueda de Safari en iOS 15 para iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773'>Honor Magic 4 Pro, primeras impresiones y toma de contacto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/opinion-honor-magic-4-pro-2631447.jpg' alt='Honor Magic 4 Pro, primeras impresiones y toma de contacto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447'>Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/starlink.jpg' alt='Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869'>Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-no-necesita-hdmi-inalambrico-ahora-tiene-100eu-descuento-1019709'>Este monitor de Huawei no necesita HDMI: es inalámbrico y ahora tiene 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-no-necesita-hdmi-inalambrico-ahora-tiene-100eu-descuento-1019709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-mateview-2543793.jpg' alt='Este monitor de Huawei no necesita HDMI: es inalámbrico y ahora tiene 100€ de descuento' />
     </a>
 </div>
 
