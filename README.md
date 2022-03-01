@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275'>Stride Senze, el bastón autónomo inteligente para personas mayores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stride-senze-baston-autonomo-inteligente-personas-mayores-2631041.jpg' alt='Stride Senze, el bastón autónomo inteligente para personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pais-todo-mundo-coincide-coca-cola-sabe-mejor-1020029'>El país en el que todo el mundo coincide que la Coca Cola sabe mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pais-todo-mundo-coincide-coca-cola-sabe-mejor-1020029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/botella-coca-cola-2630697.jpg' alt='El país en el que todo el mundo coincide que la Coca Cola sabe mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231'>Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-2630987.jpg' alt='Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921'>Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-mini-generador-solar-portatil-ideal-acampadas-barbacoas-2630441.jpg' alt='Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-series-peliculas-estreno-marzo-1020059'>Estas son todas las series y películas que se estrenan en Amazon Prime Video en marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-series-peliculas-estreno-marzo-1020059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-marzo-2630773.jpg' alt='Estas son todas las series y películas que se estrenan en Amazon Prime Video en marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829'>Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iron-man-3-2622903.jpg' alt='Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película' />
     </a>
 </div>
 
