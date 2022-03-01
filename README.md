@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529'>Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minecraft-2631433.jpg' alt='Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-xiaomi-ya-barata-mi-band-6-parece-reloj-inteligente-1019777'>La nueva pulsera de Xiaomi ya es más barata que la Mi Band 6 ¡y parece un reloj inteligente!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-xiaomi-ya-barata-mi-band-6-parece-reloj-inteligente-1019777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591277.jpg' alt='La nueva pulsera de Xiaomi ya es más barata que la Mi Band 6 ¡y parece un reloj inteligente!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549'>NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773'>Honor Magic 4 Pro, primeras impresiones y toma de contacto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/opinion-honor-magic-4-pro-2631447.jpg' alt='Honor Magic 4 Pro, primeras impresiones y toma de contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/euphoria-ya-calificada-hbo-max-como-serie-mayor-audiencia-18-anos-solo-detras-otra-grandes-conocidas-1020501'>Euphoria ya es calificada por HBO Max como la serie de mayor audiencia en 18 años, solo por detrás de otra de sus grandes conocidas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/euphoria-ya-calificada-hbo-max-como-serie-mayor-audiencia-18-anos-solo-detras-otra-grandes-conocidas-1020501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/euphoria-2586195.jpg' alt='Euphoria ya es calificada por HBO Max como la serie de mayor audiencia en 18 años, solo por detrás de otra de sus grandes conocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447'>Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/starlink.jpg' alt='Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo' />
     </a>
 </div>
 
