@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-1020653'>Autonomía de hasta diez días y resistencia al agua IP67 para el nuevo Sonos Roam SL</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-1020653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-2631693.jpg' alt='Autonomía de hasta diez días y resistencia al agua IP67 para el nuevo Sonos Roam SL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-unilateral-rusia-podria-tener-consecuencias-incluso-marte-1020647'>La guerra unilateral de Rusia podría tener consecuencias incluso en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerra-unilateral-rusia-podria-tener-consecuencias-incluso-marte-1020647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/aterrizaje-perseverance-marte-2237357.jpg' alt='La guerra unilateral de Rusia podría tener consecuencias incluso en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significan-circulos-colores-muchos-envases-comida-1020603'>Qué significan los círculos de colores de muchos envases de comida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significan-circulos-colores-muchos-envases-comida-1020603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bolsa-patatas-2631625.jpg' alt='Qué significan los círculos de colores de muchos envases de comida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-1020637'>Auriculares inalámbricos, relojes inteligentes y cargadores multidispositivo: así son las novedades en tecnología de Aldi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-1020637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-2631651.jpg' alt='Auriculares inalámbricos, relojes inteligentes y cargadores multidispositivo: así son las novedades en tecnología de Aldi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643'>Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-ingenioso-gadget-te-ayuda-conciliar-sueno-dormir-mejor-1020585'>Lidl lanza un ingenioso gadget que te ayuda a conciliar el sueño y dormir mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-lanza-ingenioso-gadget-te-ayuda-conciliar-sueno-dormir-mejor-1020585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dormir-2488381.jpg' alt='Lidl lanza un ingenioso gadget que te ayuda a conciliar el sueño y dormir mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-apple-macbook-pro-chip-m1-minimo-historico-1020439'>Aprovéchate de este chollo porque no durará: MacBook Pro con chip M1 alcanza su mínimo histórico por 1.029 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-apple-macbook-pro-chip-m1-minimo-historico-1020439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/macbook-pro-13-2020-1933681.jpg' alt='Aprovéchate de este chollo porque no durará: MacBook Pro con chip M1 alcanza su mínimo histórico por 1.029 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comunidades-autonomas-permiten-deducirse-gastos-escolares-renta-2021-22-1020409'>Comunidades autónomas que permiten deducirse los gastos escolares en la Renta 2021/22</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comunidades-autonomas-permiten-deducirse-gastos-escolares-renta-2021-22-1020409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/ahorrar-declaracion-renta-1859175.jpg' alt='Comunidades autónomas que permiten deducirse los gastos escolares en la Renta 2021/22' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529'>Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minecraft-2631433.jpg' alt='Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes ' />
     </a>
 </div>
 
