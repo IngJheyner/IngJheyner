@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627'>Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kodak-printomatic-2297979.jpg' alt='Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-promesa-ucrania-1020349'>Elon Musk cumple su promesa a Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-promesa-ucrania-1020349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2631191.jpg' alt='Elon Musk cumple su promesa a Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325'>Android 13 implementará una nueva función que los iPhone tienen desde hace años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-pixel-6-2605607.jpg' alt='Android 13 implementará una nueva función que los iPhone tienen desde hace años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacker-rastreaba-avion-elon-musk-tiene-nuevo-objetivo-millonarios-rusos-1020313'>El hacker que rastreaba el avión de Elon Musk tiene un nuevo objetivo: los millonarios rusos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hacker-rastreaba-avion-elon-musk-tiene-nuevo-objetivo-millonarios-rusos-1020313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/avion-aire-2423499.jpg' alt='El hacker que rastreaba el avión de Elon Musk tiene un nuevo objetivo: los millonarios rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309'>Toyota ha parado sus fábricas en Japón por un ciberataque</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fabrica-toyota-2631109.jpg' alt='Toyota ha parado sus fábricas en Japón por un ciberataque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-monitor-34-pulgadas-panoramico-curvo-oferta-1019943'>Pantalla de 34 pulgadas y barra de sonido todo en uno: este Huawei MateView GT es el monitor que necesitabas con un descuento de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-monitor-34-pulgadas-panoramico-curvo-oferta-1019943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-mateview-gt-32-2630581.jpg' alt='Pantalla de 34 pulgadas y barra de sonido todo en uno: este Huawei MateView GT es el monitor que necesitabas con un descuento de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057'>15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-sosteniendo-mando-xbox-2630799.jpg' alt='15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-pulgadas-220-euros-descuento-1017975'>Este portátil Huawei de 14 pulgadas con Core i5 de 11ª generación y 16 GB de RAM ha bajado de precio 220 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-pulgadas-220-euros-descuento-1017975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-14-2626713.jpg' alt='Este portátil Huawei de 14 pulgadas con Core i5 de 11ª generación y 16 GB de RAM ha bajado de precio 220 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293'>La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robert-pattinson-batman-2597263.jpg' alt='La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman' />
     </a>
 </div>
 
