@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trabajar-netflix-similar-juegos-hambre-ceo-1020417'>Trabajar para Netflix es similar a Los juegos del hambre, según su CEO</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trabajar-netflix-similar-juegos-hambre-ceo-1020417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reed-hastings-ceo-netflix-2078185.jpg' alt='Trabajar para Netflix es similar a Los juegos del hambre, según su CEO' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-64-gb-oferta-349-euros-1017965'>La tablet Huawei MatePad 11 solo cuesta 349 euros y además te regalan dos accesorios muy importantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-64-gb-oferta-349-euros-1017965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-11-2626691.jpg' alt='La tablet Huawei MatePad 11 solo cuesta 349 euros y además te regalan dos accesorios muy importantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/numero-137-grandes-misterios-fisica-1020329'>Por qué el número 137 es uno de los grandes misterios de la física</a></h4>
-    <a href='https://computerhoy.com/noticias/life/numero-137-grandes-misterios-fisica-1020329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fisica-2631195.jpg' alt='Por qué el número 137 es uno de los grandes misterios de la física' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-ryzen-7-16gb-ram-oferta-1019969'>Este portátil Huawei MateBook 14 con el potente procesador AMD Ryzen 7 y 16GB de RAM va a ser tu próximo portátil porque solo cuesta 849 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-ryzen-7-16gb-ram-oferta-1019969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-14-2630587.jpg' alt='Este portátil Huawei MateBook 14 con el potente procesador AMD Ryzen 7 y 16GB de RAM va a ser tu próximo portátil porque solo cuesta 849 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627'>Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kodak-printomatic-2297979.jpg' alt='Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/linkedin-quiere-romper-estigma-hacer-paron-carrera-nueva-funcion-1020451'>LinkedIn quiere romper el estigma de hacer un parón en tu carrera con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/linkedin-quiere-romper-estigma-hacer-paron-carrera-nueva-funcion-1020451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='LinkedIn quiere romper el estigma de hacer un parón en tu carrera con esta nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-promesa-ucrania-1020349'>Elon Musk cumple su promesa a Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-promesa-ucrania-1020349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2631191.jpg' alt='Elon Musk cumple su promesa a Ucrania' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tm6-black-limited-edition-nueva-version-limitada-exclusiva-thermomix-color-negro-1020453'>TM6 Black Limited Edition, la nueva versión limitada y exclusiva de Thermomix en color negro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tm6-black-limited-edition-nueva-version-limitada-exclusiva-thermomix-color-negro-1020453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tm6-black-limited-edition-2631273.jpg' alt='TM6 Black Limited Edition, la nueva versión limitada y exclusiva de Thermomix en color negro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325'>Android 13 implementará una nueva función que los iPhone tienen desde hace años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-pixel-6-2605607.jpg' alt='Android 13 implementará una nueva función que los iPhone tienen desde hace años' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-eliminando-modo-consumo-datos-chrome-android-1020411'>Por qué Google está eliminando el modo de bajo consumo de datos en Chrome para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-eliminando-modo-consumo-datos-chrome-android-1020411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Por qué Google está eliminando el modo de bajo consumo de datos en Chrome para Android' />
     </a>
 </div>
 
