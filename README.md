@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751'>El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/steam-deck-gabe-newell-valve-2408183.jpg' alt='El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-55-a1-baja-precio-minimo-historico-1020745'>Es la oportunidad que buscabas: el televisor LG OLED 55 A1 baja a su precio mínimo histórico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-55-a1-baja-precio-minimo-historico-1020745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Es la oportunidad que buscabas: el televisor LG OLED 55 A1 baja a su precio mínimo histórico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aumentan-estafas-relacionadas-bitcoin-guerra-ucrania-1020727'>Aumentan las estafas relacionadas con Bitcoin y la guerra de Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aumentan-estafas-relacionadas-bitcoin-guerra-ucrania-1020727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Aumentan las estafas relacionadas con Bitcoin y la guerra de Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-planta-cara-tiktok-eliminando-igtv-centrandose-reels-1020721'>Instagram planta cara a TikTok eliminando IGTV y centrándose en los Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-planta-cara-tiktok-eliminando-igtv-centrandose-reels-1020721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Instagram planta cara a TikTok eliminando IGTV y centrándose en los Reels' />
     </a>
 </div>
 
