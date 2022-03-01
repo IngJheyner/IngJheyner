@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643'>Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-ingenioso-gadget-te-ayuda-conciliar-sueno-dormir-mejor-1020585'>Lidl lanza un ingenioso gadget que te ayuda a conciliar el sueño y dormir mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-lanza-ingenioso-gadget-te-ayuda-conciliar-sueno-dormir-mejor-1020585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dormir-2488381.jpg' alt='Lidl lanza un ingenioso gadget que te ayuda a conciliar el sueño y dormir mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-apple-macbook-pro-chip-m1-minimo-historico-1020439'>Aprovéchate de este chollo porque no durará: MacBook Pro con chip M1 alcanza su mínimo histórico por 1.029 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-apple-macbook-pro-chip-m1-minimo-historico-1020439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/macbook-pro-13-2020-1933681.jpg' alt='Aprovéchate de este chollo porque no durará: MacBook Pro con chip M1 alcanza su mínimo histórico por 1.029 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/comunidades-autonomas-permiten-deducirse-gastos-escolares-renta-2021-22-1020409'>Comunidades autónomas que permiten deducirse los gastos escolares en la Renta 2021/22</a></h4>
     <a href='https://computerhoy.com/noticias/life/comunidades-autonomas-permiten-deducirse-gastos-escolares-renta-2021-22-1020409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/ahorrar-declaracion-renta-1859175.jpg' alt='Comunidades autónomas que permiten deducirse los gastos escolares en la Renta 2021/22' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529'>Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/minecraft-centro-nobel-paz-asocian-lanzar-version-videojuego-destinada-jovenes-1020529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minecraft-2631433.jpg' alt='Minecraft y el Centro Nobel de la Paz se asocian para lanzar una versión del videojuego destinada a los más jóvenes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-xiaomi-ya-barata-mi-band-6-parece-reloj-inteligente-1019777'>La nueva pulsera de Xiaomi ya es más barata que la Mi Band 6 ¡y parece un reloj inteligente!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-xiaomi-ya-barata-mi-band-6-parece-reloj-inteligente-1019777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591277.jpg' alt='La nueva pulsera de Xiaomi ya es más barata que la Mi Band 6 ¡y parece un reloj inteligente!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549'>NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-sufre-robo-informacion-historico-filtran-codigo-fuente-dlss-1020549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nos-engano-nvidia-gtc-keynote-2437867.jpg' alt='NVIDIA sufre un robo de información histórico y filtran el código fuente del DLSS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-corregir-posicion-molesta-barra-busqueda-safari-ios-15-iphone-1020517'>Cómo corregir la posición de la molesta barra de búsqueda de Safari en iOS 15 para iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-corregir-posicion-molesta-barra-busqueda-safari-ios-15-iphone-1020517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Cómo corregir la posición de la molesta barra de búsqueda de Safari en iOS 15 para iPhone' />
     </a>
 </div>
 
