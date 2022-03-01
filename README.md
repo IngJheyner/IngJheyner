@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309'>Toyota ha parado sus fábricas en Japón por un ciberataque</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fabrica-toyota-2631109.jpg' alt='Toyota ha parado sus fábricas en Japón por un ciberataque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-monitor-34-pulgadas-panoramico-curvo-oferta-1019943'>Pantalla de 34 pulgadas y barra de sonido todo en uno: este Huawei MateView GT es el monitor que necesitabas con un descuento de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-monitor-34-pulgadas-panoramico-curvo-oferta-1019943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-mateview-gt-32-2630581.jpg' alt='Pantalla de 34 pulgadas y barra de sonido todo en uno: este Huawei MateView GT es el monitor que necesitabas con un descuento de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057'>15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-sosteniendo-mando-xbox-2630799.jpg' alt='15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293'>La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robert-pattinson-batman-2597263.jpg' alt='La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/factores-geneticos-comparten-depresion-alzheimer-1019847'>Los factores genéticos que comparten la depresión y el alzhéimer </a></h4>
-    <a href='https://computerhoy.com/noticias/life/factores-geneticos-comparten-depresion-alzheimer-1019847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/depresion-tristeza-2388021.jpg' alt='Los factores genéticos que comparten la depresión y el alzhéimer ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cupra-apuesta-metaverso-espera-gran-incremento-ventas-1019839'>Cupra apuesta por el metaverso y espera un gran incremento de ventas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cupra-apuesta-metaverso-espera-gran-incremento-ventas-1019839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cupra-4-aniversario-metahype-2624067.jpg' alt='Cupra apuesta por el metaverso y espera un gran incremento de ventas' />
     </a>
 </div>
 
