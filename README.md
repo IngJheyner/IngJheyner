@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trabajar-netflix-similar-juegos-hambre-ceo-1020417'>Trabajar para Netflix es similar a Los juegos del hambre, según su CEO</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trabajar-netflix-similar-juegos-hambre-ceo-1020417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reed-hastings-ceo-netflix-2078185.jpg' alt='Trabajar para Netflix es similar a Los juegos del hambre, según su CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/numero-137-grandes-misterios-fisica-1020329'>Por qué el número 137 es uno de los grandes misterios de la física</a></h4>
+    <a href='https://computerhoy.com/noticias/life/numero-137-grandes-misterios-fisica-1020329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fisica-2631195.jpg' alt='Por qué el número 137 es uno de los grandes misterios de la física' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627'>Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelven-camaras-instantaneas-son-baratas-kodak-cuesta-solo-58-euros-amazon-1019627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/kodak-printomatic-2297979.jpg' alt='Vuelven las cámaras instantáneas, y son baratas: esta de Kodak cuesta solo 58 euros en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325'>Android 13 implementará una nueva función que los iPhone tienen desde hace años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-nueva-funcion-iphone-linterna-1020325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-pixel-6-2605607.jpg' alt='Android 13 implementará una nueva función que los iPhone tienen desde hace años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacker-rastreaba-avion-elon-musk-tiene-nuevo-objetivo-millonarios-rusos-1020313'>El hacker que rastreaba el avión de Elon Musk tiene un nuevo objetivo: los millonarios rusos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hacker-rastreaba-avion-elon-musk-tiene-nuevo-objetivo-millonarios-rusos-1020313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/avion-aire-2423499.jpg' alt='El hacker que rastreaba el avión de Elon Musk tiene un nuevo objetivo: los millonarios rusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309'>Toyota ha parado sus fábricas en Japón por un ciberataque</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/toyota-ha-parado-fabricas-japon-ciberataque-1020309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fabrica-toyota-2631109.jpg' alt='Toyota ha parado sus fábricas en Japón por un ciberataque' />
     </a>
 </div>
 
