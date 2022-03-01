@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1020281'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1020281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2631043.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-primavera-xiaomi-estas-son-mejores-ofertas-1020027'>Rebajas de Primavera de Xiaomi: estas son sus mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/rebajas-primavera-xiaomi-estas-son-mejores-ofertas-1020027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rebajas-primavera-xiaomi-2630745.jpg' alt='Rebajas de Primavera de Xiaomi: estas son sus mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275'>Stride Senze, el bastón autónomo inteligente para personas mayores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stride-senze-baston-autonomo-inteligente-personas-mayores-2631041.jpg' alt='Stride Senze, el bastón autónomo inteligente para personas mayores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231'>Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-2630987.jpg' alt='Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071'>Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuidado-herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-2630843.jpg' alt='Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921'>Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-mini-generador-solar-portatil-ideal-acampadas-barbacoas-2630441.jpg' alt='Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas' />
     </a>
 </div>
 
