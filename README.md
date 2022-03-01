@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-64-gb-oferta-349-euros-1017965'>La tablet Huawei MatePad 11 solo cuesta 349 euros y además te regalan dos accesorios muy importantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-11-64-gb-oferta-349-euros-1017965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-11-2626691.jpg' alt='La tablet Huawei MatePad 11 solo cuesta 349 euros y además te regalan dos accesorios muy importantes' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773'>Honor Magic 4 Pro, primeras impresiones y toma de contacto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/honor-magic-4-pro-primeras-impresiones-toma-contacto-1019773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/opinion-honor-magic-4-pro-2631447.jpg' alt='Honor Magic 4 Pro, primeras impresiones y toma de contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-ryzen-7-16gb-ram-oferta-1019969'>Este portátil Huawei MateBook 14 con el potente procesador AMD Ryzen 7 y 16GB de RAM va a ser tu próximo portátil porque solo cuesta 849 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-ryzen-7-16gb-ram-oferta-1019969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-14-2630587.jpg' alt='Este portátil Huawei MateBook 14 con el potente procesador AMD Ryzen 7 y 16GB de RAM va a ser tu próximo portátil porque solo cuesta 849 euros' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/euphoria-ya-calificada-hbo-max-como-serie-mayor-audiencia-18-anos-solo-detras-otra-grandes-conocidas-1020501'>Euphoria ya es calificada por HBO Max como la serie de mayor audiencia en 18 años, solo por detrás de otra de sus grandes conocidas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/euphoria-ya-calificada-hbo-max-como-serie-mayor-audiencia-18-anos-solo-detras-otra-grandes-conocidas-1020501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/euphoria-2586195.jpg' alt='Euphoria ya es calificada por HBO Max como la serie de mayor audiencia en 18 años, solo por detrás de otra de sus grandes conocidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/linkedin-quiere-romper-estigma-hacer-paron-carrera-nueva-funcion-1020451'>LinkedIn quiere romper el estigma de hacer un parón en tu carrera con esta nueva función</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/linkedin-quiere-romper-estigma-hacer-paron-carrera-nueva-funcion-1020451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='LinkedIn quiere romper el estigma de hacer un parón en tu carrera con esta nueva función' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447'>Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tan-importante-llegada-starlink-ucrania-dificultades-rusia-intervenirlo-1020447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/starlink.jpg' alt='Por qué es tan importante la llegada de Starlink a Ucrania y las dificultades de Rusia para intervenirlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tm6-black-limited-edition-nueva-version-limitada-exclusiva-thermomix-color-negro-1020453'>TM6 Black Limited Edition, la nueva versión limitada y exclusiva de Thermomix en color negro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tm6-black-limited-edition-nueva-version-limitada-exclusiva-thermomix-color-negro-1020453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tm6-black-limited-edition-2631273.jpg' alt='TM6 Black Limited Edition, la nueva versión limitada y exclusiva de Thermomix en color negro' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869'>Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-eliminando-modo-consumo-datos-chrome-android-1020411'>Por qué Google está eliminando el modo de bajo consumo de datos en Chrome para Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-eliminando-modo-consumo-datos-chrome-android-1020411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Por qué Google está eliminando el modo de bajo consumo de datos en Chrome para Android' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-no-necesita-hdmi-inalambrico-ahora-tiene-100eu-descuento-1019709'>Este monitor de Huawei no necesita HDMI: es inalámbrico y ahora tiene 100€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-no-necesita-hdmi-inalambrico-ahora-tiene-100eu-descuento-1019709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-mateview-2543793.jpg' alt='Este monitor de Huawei no necesita HDMI: es inalámbrico y ahora tiene 100€ de descuento' />
     </a>
 </div>
 
