@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-no-consigue-superar-iphone-13-pruebas-caida-1020675'>El Samsung Galaxy S22 no consigue superar al iPhone 13 en la pruebas de caída</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-no-consigue-superar-iphone-13-pruebas-caida-1020675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627231.jpg' alt='El Samsung Galaxy S22 no consigue superar al iPhone 13 en la pruebas de caída' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-fijos-identificador-llamadas-puedes-comprar-1020441'>Mejores teléfonos fijos con identificador de llamadas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-fijos-identificador-llamadas-puedes-comprar-1020441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telefono-fijo-oficina-2631465.jpg' alt='Mejores teléfonos fijos con identificador de llamadas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-1020653'>Autonomía de hasta diez días y resistencia al agua IP67 para el nuevo Sonos Roam SL</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-1020653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/autonomia-diez-dias-resistencia-agua-ip67-nuevo-sonos-roam-sl-2631693.jpg' alt='Autonomía de hasta diez días y resistencia al agua IP67 para el nuevo Sonos Roam SL' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significan-circulos-colores-muchos-envases-comida-1020603'>Qué significan los círculos de colores de muchos envases de comida</a></h4>
     <a href='https://computerhoy.com/noticias/life/significan-circulos-colores-muchos-envases-comida-1020603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bolsa-patatas-2631625.jpg' alt='Qué significan los círculos de colores de muchos envases de comida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-1020637'>Auriculares inalámbricos, relojes inteligentes y cargadores multidispositivo: así son las novedades en tecnología de Aldi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-1020637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/auriculares-inalambricos-relojes-inteligentes-cargadores-multidispositivo-son-novedades-tecnologia-aldi-2631651.jpg' alt='Auriculares inalámbricos, relojes inteligentes y cargadores multidispositivo: así son las novedades en tecnología de Aldi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643'>Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-nueva-funcionalidad-meses-quejas-1020643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Windows 11 se actualiza con una nueva funcionalidad tras meses de quejas' />
     </a>
 </div>
 
