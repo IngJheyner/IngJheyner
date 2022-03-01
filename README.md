@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-55-a1-baja-precio-minimo-historico-1020745'>Es la oportunidad que buscabas: el televisor LG OLED 55 A1 baja a su precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-55-a1-baja-precio-minimo-historico-1020745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Es la oportunidad que buscabas: el televisor LG OLED 55 A1 baja a su precio mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/1899-nueva-serie-netflix-creadores-dark-1020737'>¿Se puede repetir el éxito de Dark? Esta serie de Netflix espera conseguirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/1899-nueva-serie-netflix-creadores-dark-1020737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/puede-repetir-exito-dark-serie-netflix-espera-conseguirlo-2631809.jpg' alt='¿Se puede repetir el éxito de Dark? Esta serie de Netflix espera conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487'>Este fue el peor día en el rodaje de The Batman para Robert Pattinson</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/batman-riddler-2627579.jpg' alt='Este fue el peor día en el rodaje de The Batman para Robert Pattinson' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-planta-cara-tiktok-eliminando-igtv-centrandose-reels-1020721'>Instagram planta cara a TikTok eliminando IGTV y centrándose en los Reels</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-planta-cara-tiktok-eliminando-igtv-centrandose-reels-1020721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Instagram planta cara a TikTok eliminando IGTV y centrándose en los Reels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calle-solo-pueden-circular-coches-unica-marca-revoluciona-twitter-1020723'>La calle por la que solo pueden circular los coches de una única marca que revoluciona Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calle-solo-pueden-circular-coches-unica-marca-revoluciona-twitter-1020723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calle-solo-pueden-circular-coches-unica-marca-revoluciona-twitter-2631783.jpg' alt='La calle por la que solo pueden circular los coches de una única marca que revoluciona Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-xiaomi-12-llegaria-antes-esperado-1020709'>Los últimos rumores apuntan a que el Xiaomi 12 llegaría antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-xiaomi-12-llegaria-antes-esperado-1020709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524235.jpg' alt='Los últimos rumores apuntan a que el Xiaomi 12 llegaría antes de lo esperado' />
     </a>
 </div>
 
