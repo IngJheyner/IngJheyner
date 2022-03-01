@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071'>Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuidado-herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-2630843.jpg' alt='Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921'>Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-generador-solar-portatil-ideal-acampadas-barbacoas-1019921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-mini-generador-solar-portatil-ideal-acampadas-barbacoas-2630441.jpg' alt='Llega el buen tiempo, y este mini generador solar portátil es ideal para las acampadas o las barbacoas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045'>Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito</a></h4>
     <a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lagartos-pastas-canela-mercadona-2630715.jpg' alt='Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043'>Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-sorprendentemente-estan-beneficiando-caida-bitcoin-1020043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2588371.jpg' alt='Criptomonedas que sorprendentemente se están beneficiando de la caída del Bitcoin' />
     </a>
 </div>
 
