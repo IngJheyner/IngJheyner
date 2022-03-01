@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231'>Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-2630987.jpg' alt='Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071'>Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-1020071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cuidado-herramienta-desbloquea-tarjetas-rtx-minar-criptomonedas-malware-2630843.jpg' alt='Cuidado con esta herramienta que desbloquea las tarjetas RTX para minar criptomonedas: es malware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829'>Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/robert-downey-jr-director-iron-man-3-preparan-nueva-pelicula-1019829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iron-man-3-2622903.jpg' alt='Robert Downey Jr. y el director de Iron Man 3 preparan una nueva película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045'>Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/life/llegan-espana-primeros-productos-exclusivos-mercadona-portugal-son-todo-exito-1020045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lagartos-pastas-canela-mercadona-2630715.jpg' alt='Llegan a España los primeros productos exclusivos de Mercadona Portugal y son todo un éxito' />
     </a>
 </div>
 
