@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1020281'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1020281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2631043.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057'>15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/15-juegos-switch-ps5-ps4-xbox-estan-oferta-menos-20-euros-1020057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-sosteniendo-mando-xbox-2630799.jpg' alt='15 juegos de Switch, PS5, PS4 y Xbox que están en oferta por menos de 20 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-primavera-xiaomi-estas-son-mejores-ofertas-1020027'>Rebajas de Primavera de Xiaomi: estas son sus mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/rebajas-primavera-xiaomi-estas-son-mejores-ofertas-1020027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rebajas-primavera-xiaomi-2630745.jpg' alt='Rebajas de Primavera de Xiaomi: estas son sus mejores ofertas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-pulgadas-220-euros-descuento-1017975'>Este portátil Huawei de 14 pulgadas con Core i5 de 11ª generación y 16 GB de RAM ha bajado de precio 220 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-pulgadas-220-euros-descuento-1017975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matebook-14-2626713.jpg' alt='Este portátil Huawei de 14 pulgadas con Core i5 de 11ª generación y 16 GB de RAM ha bajado de precio 220 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275'>Stride Senze, el bastón autónomo inteligente para personas mayores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stride-senze-baston-autonomo-inteligente-personas-mayores-1020275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stride-senze-baston-autonomo-inteligente-personas-mayores-2631041.jpg' alt='Stride Senze, el bastón autónomo inteligente para personas mayores' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293'>La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/invasion-ucrania-afecta-estrenos-mundiales-peliculas-batman-1020293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robert-pattinson-batman-2597263.jpg' alt='La guerra en Ucrania cambia los estrenos internacionales de películas como The Batman' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pais-todo-mundo-coincide-coca-cola-sabe-mejor-1020029'>El país en el que todo el mundo coincide que la Coca Cola sabe mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pais-todo-mundo-coincide-coca-cola-sabe-mejor-1020029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/botella-coca-cola-2630697.jpg' alt='El país en el que todo el mundo coincide que la Coca Cola sabe mejor' />
+    <h4><a href='https://computerhoy.com/noticias/life/factores-geneticos-comparten-depresion-alzheimer-1019847'>Los factores genéticos que comparten la depresión y el alzhéimer </a></h4>
+    <a href='https://computerhoy.com/noticias/life/factores-geneticos-comparten-depresion-alzheimer-1019847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/depresion-tristeza-2388021.jpg' alt='Los factores genéticos que comparten la depresión y el alzhéimer ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231'>Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-1020231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-quitar-manchas-aceite-alfombras-forma-rapida-sencilla-2630987.jpg' alt='Cómo quitar las manchas de aceite de las alfombras de forma rápida y sencilla' />
+    <h4><a href='https://computerhoy.com/noticias/motor/cupra-apuesta-metaverso-espera-gran-incremento-ventas-1019839'>Cupra apuesta por el metaverso y espera un gran incremento de ventas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cupra-apuesta-metaverso-espera-gran-incremento-ventas-1019839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cupra-4-aniversario-metahype-2624067.jpg' alt='Cupra apuesta por el metaverso y espera un gran incremento de ventas' />
     </a>
 </div>
 
