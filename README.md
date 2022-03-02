@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757'>5 robots aspiradores Cecotec ideales para jubilar tu escoba</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/conga-1790-titanium-cecotec-2303329.jpg' alt='5 robots aspiradores Cecotec ideales para jubilar tu escoba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-suma-bloqueo-rusia-deja-vender-productos-pais-1020981'>Apple se suma al bloqueo a Rusia y deja de vender sus productos en el país</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-suma-bloqueo-rusia-deja-vender-productos-pais-1020981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/apple-store-1892105.jpg' alt='Apple se suma al bloqueo a Rusia y deja de vender sus productos en el país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-combatir-cansancio-cuando-conduces-durante-varias-horas-1020505'>Cómo combatir el cansancio cuando conduces durante varias horas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-combatir-cansancio-cuando-conduces-durante-varias-horas-1020505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductora-cansada-2631375.jpg' alt='Cómo combatir el cansancio cuando conduces durante varias horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499'>Por qué se han estancado las ventas de coches usados en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-usados-2557915.jpg' alt='Por qué se han estancado las ventas de coches usados en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1020971'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1020971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2632097.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-gaming-oferta-jugar-elden-ring-1020543'>7 portátiles gaming en oferta para jugar a Elden Ring y cualquier juego que te se ocurra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-gaming-oferta-jugar-elden-ring-1020543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-jugando-portatil-gaming-2631657.jpg' alt='7 portátiles gaming en oferta para jugar a Elden Ring y cualquier juego que te se ocurra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hack-limpieza-quitar-manchas-pintura-rotulador-pared-1020969'>El hack de limpieza para quitar las manchas de pintura y rotulador de la pared con un producto que no esperas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hack-limpieza-quitar-manchas-pintura-rotulador-pared-1020969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hack-limpieza-quitar-manchas-pintura-rotulador-pared-producto-no-esperas-2632095.jpg' alt='El hack de limpieza para quitar las manchas de pintura y rotulador de la pared con un producto que no esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757'>Primera carrera entre un hombre volador y un coche de rally (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-carrera-hombre-volador-coche-rally-2631869.jpg' alt='Primera carrera entre un hombre volador y un coche de rally (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751'>El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/steam-deck-gabe-newell-valve-2408183.jpg' alt='El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes' />
     </a>
 </div>
 
