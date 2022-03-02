@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275'>Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear</a></h4>
+    <a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/xiaomi-rinonera-definitiva-accesorios-moda-barata-1021065'>Xiaomi tiene el accesorio definitivo para tu día a día: una riñonera para meter tu móvil y hasta una botella de agua más barata de lo que crees</a></h4>
+    <a href='https://computerhoy.com/noticias/life/xiaomi-rinonera-definitiva-accesorios-moda-barata-1021065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-sports-fanny-pack-2632299.jpg' alt='Xiaomi tiene el accesorio definitivo para tu día a día: una riñonera para meter tu móvil y hasta una botella de agua más barata de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213'>Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-joven-esconde-detras-tarro-dinero-2577689.jpg' alt='Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227'>Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/television-2632541.jpg' alt='Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pagar-peliculas-esperadas-batman-prueba-formula-tal-vez-no-te-guste-1021191'>¿Pagar más por las películas más esperadas? The Batman prueba una fórmula que tal vez no te guste</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pagar-peliculas-esperadas-batman-prueba-formula-tal-vez-no-te-guste-1021191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2632497.jpg' alt='¿Pagar más por las películas más esperadas? The Batman prueba una fórmula que tal vez no te guste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163'>Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/putin-2632487.jpg' alt='Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania' />
     </a>
 </div>
 
