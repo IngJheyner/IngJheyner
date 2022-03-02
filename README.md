@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757'>Primera carrera entre un hombre volador y un coche de rally</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-carrera-hombre-volador-coche-rally-2631869.jpg' alt='Primera carrera entre un hombre volador y un coche de rally' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751'>El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/fundador-steam-criptomonedas-nft-1020751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/steam-deck-gabe-newell-valve-2408183.jpg' alt='El fundador de Steam explica por qué no aceptan criptomonedas ni NFTs, y las razones son muy contundentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487'>Este fue el peor día en el rodaje de The Batman para Robert Pattinson</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/batman-riddler-2627579.jpg' alt='Este fue el peor día en el rodaje de The Batman para Robert Pattinson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aumentan-estafas-relacionadas-bitcoin-guerra-ucrania-1020727'>Aumentan las estafas relacionadas con Bitcoin y la guerra de Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aumentan-estafas-relacionadas-bitcoin-guerra-ucrania-1020727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Aumentan las estafas relacionadas con Bitcoin y la guerra de Ucrania' />
     </a>
 </div>
 
