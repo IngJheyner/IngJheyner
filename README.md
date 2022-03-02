@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125'>Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/tiranosaurio-stan-2076945.jpg' alt='Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227'>Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/television-2632541.jpg' alt='Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pagar-peliculas-esperadas-batman-prueba-formula-tal-vez-no-te-guste-1021191'>¿Pagar más por las películas más esperadas? The Batman prueba una fórmula que tal vez no te guste</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pagar-peliculas-esperadas-batman-prueba-formula-tal-vez-no-te-guste-1021191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2632497.jpg' alt='¿Pagar más por las películas más esperadas? The Batman prueba una fórmula que tal vez no te guste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163'>Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/putin-2632487.jpg' alt='Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159'>El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-g22-2632439.jpg' alt='El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixelmon-prometedores-nft-han-convertido-meme-1021101'>Pixelmon, los prometedores NFT que se han convertido en un meme</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixelmon-prometedores-nft-han-convertido-meme-1021101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pixelmon-2632347.jpg' alt='Pixelmon, los prometedores NFT que se han convertido en un meme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/problema-joycon-drift-steam-deck-ha-solucionado-fallo-no-era-consola-valve-1021109'>El problema de joycon drift de la Steam Deck se ha solucionado: el fallo no era de la consola de Valve</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/problema-joycon-drift-steam-deck-ha-solucionado-fallo-no-era-consola-valve-1021109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='El problema de joycon drift de la Steam Deck se ha solucionado: el fallo no era de la consola de Valve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/quiero-comprar-chromebook-2020-opciones-tengo-582369'>Comprar un Chromebook en 2022: las mejores opciones y modelos actuales</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/quiero-comprar-chromebook-2020-opciones-tengo-582369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/acer-chromebook-spin-513-2242841.jpg' alt='Comprar un Chromebook en 2022: las mejores opciones y modelos actuales' />
     </a>
 </div>
 
