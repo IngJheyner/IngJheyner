@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toyota-yamaha-trabajan-motores-hidrogeno-v8-1021135'>Toyota y Yamaha trabajan en motores de hidrógeno V8</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toyota-yamaha-trabajan-motores-hidrogeno-v8-1021135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motores-v8-2612251.jpg' alt='Toyota y Yamaha trabajan en motores de hidrógeno V8' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llevas-cerrando-mal-windows-toda-vida-seguramente-no-sabes-1021385'>Llevas cerrando mal Windows toda la vida y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llevas-cerrando-mal-windows-toda-vida-seguramente-no-sabes-1021385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Llevas cerrando mal Windows toda la vida y seguramente no lo sabes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-1021361'>Apple marca el 8 de marzo en el calendario con su evento de presentación Peek performance</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-1021361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-2632839.jpg' alt='Apple marca el 8 de marzo en el calendario con su evento de presentación Peek performance' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-matt-reeves-ya-piensa-secuela-batman-1021139'>El director Matt Reeves ya piensa en la secuela de The Batman</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/director-matt-reeves-ya-piensa-secuela-batman-1021139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/batman-2604261.jpg' alt='El director Matt Reeves ya piensa en la secuela de The Batman' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341'>Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-2632813.jpg' alt='Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379'>Estados Unidos podría prohibir Bitcoin como media de presión sobre Rusia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Estados Unidos podría prohibir Bitcoin como media de presión sobre Rusia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1-75-2517459.jpg' alt='Mejores televisores QLED que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-pocket-gods-album-1000-canciones-30-segundos-hackear-spotify-protesta-1021381'>Una banda ha compuesto 1.000 canciones de 30 segundos para hackear Spotify, y la obliga a rectificar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-pocket-gods-album-1000-canciones-30-segundos-hackear-spotify-protesta-1021381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/banda-ha-compuesto-1000-canciones-30-segundos-hackear-spotify-obliga-rectificar-2632877.jpg' alt='Una banda ha compuesto 1.000 canciones de 30 segundos para hackear Spotify, y la obliga a rectificar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313'>HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/htc-u12_4.jpg' alt='HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-ucrania-obliga-google-maps-tomar-decision-historica-1021371'>La guerra de Ucrania obliga a Google Maps a tomar una decisión histórica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerra-ucrania-obliga-google-maps-tomar-decision-historica-1021371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La guerra de Ucrania obliga a Google Maps a tomar una decisión histórica' />
     </a>
 </div>
 
