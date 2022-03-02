@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995'>Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757'>5 robots aspiradores Cecotec ideales para jubilar tu escoba</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/conga-1790-titanium-cecotec-2303329.jpg' alt='5 robots aspiradores Cecotec ideales para jubilar tu escoba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499'>Por qué se han estancado las ventas de coches usados en España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-usados-2557915.jpg' alt='Por qué se han estancado las ventas de coches usados en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1020971'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1020971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2632097.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
