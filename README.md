@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/toyota-yamaha-trabajan-motores-hidrogeno-v8-1021135'>Toyota y Yamaha trabajan en motores de hidrógeno V8</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/toyota-yamaha-trabajan-motores-hidrogeno-v8-1021135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motores-v8-2612251.jpg' alt='Toyota y Yamaha trabajan en motores de hidrógeno V8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-1021361'>Apple marca el 8 de marzo en el calendario con su evento de presentación Peek performance</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-1021361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-marca-8-marzo-calendario-evento-presentacion-peek-performance-2632839.jpg' alt='Apple marca el 8 de marzo en el calendario con su evento de presentación Peek performance' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341'>Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-2632813.jpg' alt='Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313'>HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/htc-u12_4.jpg' alt='HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289'>Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-2632681.jpg' alt='Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281'>¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro' />
     </a>
 </div>
 
