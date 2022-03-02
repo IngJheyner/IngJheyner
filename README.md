@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757'>Primera carrera entre un hombre volador y un coche de rally</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757'>Primera carrera entre un hombre volador y un coche de rally (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-carrera-hombre-volador-coche-rally-2631869.jpg' alt='Primera carrera entre un hombre volador y un coche de rally' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-carrera-hombre-volador-coche-rally-2631869.jpg' alt='Primera carrera entre un hombre volador y un coche de rally (vídeo)' />
     </a>
 </div>
 
