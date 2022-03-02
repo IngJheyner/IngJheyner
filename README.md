@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399'>¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo </a></h4>
+    <a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/genio-excentrico-inventor-thomas-edison-obligaba-tomar-plato-sopa-candidato-entrevistas-trabajo-2632891.jpg' alt='¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393'>Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fifa-22-2561737.jpg' alt='Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-matt-reeves-ya-piensa-secuela-batman-1021139'>El director Matt Reeves ya piensa en la secuela de The Batman</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/director-matt-reeves-ya-piensa-secuela-batman-1021139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/batman-2604261.jpg' alt='El director Matt Reeves ya piensa en la secuela de The Batman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379'>Estados Unidos podría prohibir el Bitcoin como medida de presión sobre Rusia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Estados Unidos podría prohibir el Bitcoin como medida de presión sobre Rusia' />
     </a>
 </div>
 
