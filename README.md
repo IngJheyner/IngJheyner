@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-marzo-disney-prime-video-this-is-us-1021119'>Una de las series más esperadas de marzo regresa a la vez a Disney+ y Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-marzo-disney-prime-video-this-is-us-1021119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/us-2413161.jpg' alt='Una de las series más esperadas de marzo regresa a la vez a Disney+ y Prime Video' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163'>Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/putin-2632487.jpg' alt='Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/probando-xiaomi-cyberdog-mwc-2022-ya-quiero-1021097'>Probando el Xiaomi Cyberdog en el MWC 2022: ¡ya quiero uno!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/probando-xiaomi-cyberdog-mwc-2022-ya-quiero-1021097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/k6CvWs4pXrsDz8xGZJC.jpg' alt='Probando el Xiaomi Cyberdog en el MWC 2022: ¡ya quiero uno!' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159'>El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-g22-2632439.jpg' alt='El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083'>Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/papel-higienico-2544583.jpg' alt='Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixelmon-prometedores-nft-han-convertido-meme-1021101'>Pixelmon, los prometedores NFT que se han convertido en un meme</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixelmon-prometedores-nft-han-convertido-meme-1021101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pixelmon-2632347.jpg' alt='Pixelmon, los prometedores NFT que se han convertido en un meme' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-tasa-cero-dgt-conductores-vehiculos-multas-1021059'>Nueva tasa cero de la DGT: conductores afectados, vehículos y multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-tasa-cero-dgt-conductores-vehiculos-multas-1021059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductor-alcohol-2632271.jpg' alt='Nueva tasa cero de la DGT: conductores afectados, vehículos y multas' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/problema-joycon-drift-steam-deck-ha-solucionado-fallo-no-era-consola-valve-1021109'>El problema de joycon drift de la Steam Deck se ha solucionado: el fallo no era de la consola de Valve</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/problema-joycon-drift-steam-deck-ha-solucionado-fallo-no-era-consola-valve-1021109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='El problema de joycon drift de la Steam Deck se ha solucionado: el fallo no era de la consola de Valve' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025'>Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/quiero-comprar-chromebook-2020-opciones-tengo-582369'>Comprar un Chromebook en 2022: las mejores opciones y modelos actuales</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/quiero-comprar-chromebook-2020-opciones-tengo-582369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/acer-chromebook-spin-513-2242841.jpg' alt='Comprar un Chromebook en 2022: las mejores opciones y modelos actuales' />
     </a>
 </div>
 
