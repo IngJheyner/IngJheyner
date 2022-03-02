@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393'>Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fifa-22-2561737.jpg' alt='Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-premium-cancelacion-ruido-activa-descuento-1021355'>Estos auriculares deportivos premium con cancelación de ruido activa, bajan un 50% y se quedan en solo 99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-premium-cancelacion-ruido-activa-descuento-1021355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-active-75t-auriculares-deportivos-premium-cancelacion-activa-bajan-50-quedan-solo-99-euros-2632831.jpg' alt='Estos auriculares deportivos premium con cancelación de ruido activa, bajan un 50% y se quedan en solo 99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379'>Estados Unidos podría prohibir el Bitcoin como medida de presión sobre Rusia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-podria-prohibir-bitcoin-como-media-presion-rusia-1021379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2582689.jpg' alt='Estados Unidos podría prohibir el Bitcoin como medida de presión sobre Rusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-pocket-gods-album-1000-canciones-30-segundos-hackear-spotify-protesta-1021381'>Una banda ha compuesto 1.000 canciones de 30 segundos para hackear Spotify, y la obliga a rectificar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-pocket-gods-album-1000-canciones-30-segundos-hackear-spotify-protesta-1021381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/banda-ha-compuesto-1000-canciones-30-segundos-hackear-spotify-obliga-rectificar-2632877.jpg' alt='Una banda ha compuesto 1.000 canciones de 30 segundos para hackear Spotify, y la obliga a rectificar' />
     </a>
 </div>
 
