@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289'>Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-2632681.jpg' alt='Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281'>¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275'>Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear</a></h4>
     <a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213'>Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-joven-esconde-detras-tarro-dinero-2577689.jpg' alt='Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125'>Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/tiranosaurio-stan-2076945.jpg' alt='Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227'>Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackean-medios-comunicacion-rusos-mostrar-verdaderas-bajas-ejercito-ruso-1021227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/television-2632541.jpg' alt='Hackean medios de comunicación rusos para mostrar las verdaderas bajas del ejército ruso' />
     </a>
 </div>
 
