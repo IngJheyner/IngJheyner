@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341'>Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-1021341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitbit-retira-mercado-relojes-iconicos-riesgo-quemaduras-2632813.jpg' alt='Fitbit retira del mercado uno de sus relojes más icónicos por riesgo por quemaduras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1-75-2517459.jpg' alt='Mejores televisores QLED que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313'>HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/htc-regresaria-muertos-haria-smartphone-gama-alta-brazo-1021313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/htc-u12_4.jpg' alt='HTC regresaría de entre los muertos y lo haría con un smartphone de gama alta bajo el brazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289'>Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-2632681.jpg' alt='Padres españoles crean unas gafas inteligentes con IA para ayudar a su hijo a ver' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281'>¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puede-todavia-shiba-inu-hacerte-rico-expertos-tiene-claro-1021281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='¿Puede todavía Shiba Inu hacerte rico? Los expertos lo tiene claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275'>Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear</a></h4>
-    <a href='https://computerhoy.com/noticias/life/escalofriantes-consecuencias-ser-humano-planeta-hipotetico-invierno-nuclear-1021275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Los escalofriantes consecuencias para el ser humano y el planeta de un hipotético invierno nuclear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/xiaomi-rinonera-definitiva-accesorios-moda-barata-1021065'>Xiaomi tiene el accesorio definitivo para tu día a día: una riñonera para meter tu móvil y hasta una botella de agua más barata de lo que crees</a></h4>
-    <a href='https://computerhoy.com/noticias/life/xiaomi-rinonera-definitiva-accesorios-moda-barata-1021065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-sports-fanny-pack-2632299.jpg' alt='Xiaomi tiene el accesorio definitivo para tu día a día: una riñonera para meter tu móvil y hasta una botella de agua más barata de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213'>Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-joven-esconde-detras-tarro-dinero-2577689.jpg' alt='Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años' />
     </a>
 </div>
 
