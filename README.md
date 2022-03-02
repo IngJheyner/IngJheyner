@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hack-limpieza-quitar-manchas-pintura-rotulador-pared-1020969'>El hack de limpieza para quitar las manchas de pintura y rotulador de la pared con un producto que no esperas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hack-limpieza-quitar-manchas-pintura-rotulador-pared-1020969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hack-limpieza-quitar-manchas-pintura-rotulador-pared-producto-no-esperas-2632095.jpg' alt='El hack de limpieza para quitar las manchas de pintura y rotulador de la pared con un producto que no esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757'>Primera carrera entre un hombre volador y un coche de rally (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-carrera-hombre-volador-coche-rally-jetsuit-1020757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-carrera-hombre-volador-coche-rally-2631869.jpg' alt='Primera carrera entre un hombre volador y un coche de rally (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/1899-nueva-serie-netflix-creadores-dark-1020737'>¿Se puede repetir el éxito de Dark? Esta serie de Netflix espera conseguirlo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/1899-nueva-serie-netflix-creadores-dark-1020737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/puede-repetir-exito-dark-serie-netflix-espera-conseguirlo-2631809.jpg' alt='¿Se puede repetir el éxito de Dark? Esta serie de Netflix espera conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487'>Este fue el peor día en el rodaje de The Batman para Robert Pattinson</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fue-peor-dia-rodaje-batman-robert-pattinson-1020487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/batman-riddler-2627579.jpg' alt='Este fue el peor día en el rodaje de The Batman para Robert Pattinson' />
     </a>
 </div>
 
