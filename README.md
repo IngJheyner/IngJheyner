@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039'>Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620095.jpg' alt='Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-prepara-serie-basada-primera-superproduccion-ciencia-ficcion-1021017'>Apple TV+ prepara una serie basada en la primera superproducción de ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-prepara-serie-basada-primera-superproduccion-ciencia-ficcion-1021017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metropolis-2632199.jpg' alt='Apple TV+ prepara una serie basada en la primera superproducción de ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/joe-biden-presiona-companias-tecnologicas-tratara-prohibir-publicidad-dirigida-ninos-1021015'>Joe Biden presiona a las compañías tecnológicas y tratará de prohibir la publicidad dirigida a los niños</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/joe-biden-presiona-companias-tecnologicas-tratara-prohibir-publicidad-dirigida-ninos-1021015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-mirando-movil-2599677.jpg' alt='Joe Biden presiona a las compañías tecnológicas y tratará de prohibir la publicidad dirigida a los niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995'>Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757'>5 robots aspiradores Cecotec ideales para jubilar tu escoba</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/conga-1790-titanium-cecotec-2303329.jpg' alt='5 robots aspiradores Cecotec ideales para jubilar tu escoba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-suma-bloqueo-rusia-deja-vender-productos-pais-1020981'>Apple se suma al bloqueo a Rusia y deja de vender sus productos en el país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-suma-bloqueo-rusia-deja-vender-productos-pais-1020981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/apple-store-1892105.jpg' alt='Apple se suma al bloqueo a Rusia y deja de vender sus productos en el país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-combatir-cansancio-cuando-conduces-durante-varias-horas-1020505'>Cómo combatir el cansancio cuando conduces durante varias horas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-combatir-cansancio-cuando-conduces-durante-varias-horas-1020505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductora-cansada-2631375.jpg' alt='Cómo combatir el cansancio cuando conduces durante varias horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499'>Por qué se han estancado las ventas de coches usados en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/han-estancado-ventas-coches-usados-espana-1020499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-usados-2557915.jpg' alt='Por qué se han estancado las ventas de coches usados en España' />
     </a>
 </div>
 
