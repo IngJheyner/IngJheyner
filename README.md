@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213'>Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/expertos-dinero-deberias-tener-ahorrado-35-anos-1021213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-joven-esconde-detras-tarro-dinero-2577689.jpg' alt='Según los expertos, este es el dinero que deberías tener ahorrado a los 35 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125'>Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos</a></h4>
     <a href='https://computerhoy.com/noticias/life/nuevo-estudio-afirma-existieron-varias-especies-t-rex-no-solo-como-creiamos-1021125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/tiranosaurio-stan-2076945.jpg' alt='Un nuevo estudio afirma que existieron varias especies de T-Rex y no solo una como creíamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163'>Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-empresas-tecnologicas-poderosas-mundo-reaccion-guerra-rusia-ucrania-1021163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/putin-2632487.jpg' alt='Las 10 empresas tecnológicas más poderosas del mundo y su reacción ante la guerra entre Rusia y Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159'>El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-moto-g22-descubierto-antes-presentacion-pantalla-oled-camara-50-mpx-1021159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-g22-2632439.jpg' alt='El nuevo Moto G22 al descubierto antes de su presentación: pantalla OLED y cámara de 50 Mpx' />
     </a>
 </div>
 
