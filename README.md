@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-marzo-disney-prime-video-this-is-us-1021119'>Una de las series más esperadas de marzo regresa a la vez a Disney+ y Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-marzo-disney-prime-video-this-is-us-1021119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/us-2413161.jpg' alt='Una de las series más esperadas de marzo regresa a la vez a Disney+ y Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/probando-xiaomi-cyberdog-mwc-2022-ya-quiero-1021097'>Probando el Xiaomi Cyberdog en el MWC 2022: ¡ya quiero uno!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/probando-xiaomi-cyberdog-mwc-2022-ya-quiero-1021097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/k6CvWs4pXrsDz8xGZJC.jpg' alt='Probando el Xiaomi Cyberdog en el MWC 2022: ¡ya quiero uno!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083'>Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/papel-higienico-2544583.jpg' alt='Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025'>Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/maquina-remo-plegable-cecotec-barata-ocupa-poco-espacio-puede-ser-269eu-1019817'>Esta máquina de remo plegable de Cecotec es barata y ocupa poco espacio: puede ser tuya por 269€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/maquina-remo-plegable-cecotec-barata-ocupa-poco-espacio-puede-ser-269eu-1019817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Esta máquina de remo plegable de Cecotec es barata y ocupa poco espacio: puede ser tuya por 269€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039'>Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620095.jpg' alt='Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema' />
     </a>
 </div>
 
