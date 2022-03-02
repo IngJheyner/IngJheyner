@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083'>Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-rollos-papel-cocina-ocu-triunfa-marca-blanca-aunque-no-esperabas-1021083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/papel-higienico-2544583.jpg' alt='Los mejores rollos de papel de cocina según la OCU: triunfa la marca blanca, aunque no la que esperabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-tasa-cero-dgt-conductores-vehiculos-multas-1021059'>Nueva tasa cero de la DGT: conductores afectados, vehículos y multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-tasa-cero-dgt-conductores-vehiculos-multas-1021059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductor-alcohol-2632271.jpg' alt='Nueva tasa cero de la DGT: conductores afectados, vehículos y multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025'>Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-hace-nuevo-ya-vende-copia-versiones-populares-bombones-ferrero-1021025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona lo hace de nuevo y ya vende su copia de una de las versiones más populares, los bombones Ferrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/maquina-remo-plegable-cecotec-barata-ocupa-poco-espacio-puede-ser-269eu-1019817'>Esta máquina de remo plegable de Cecotec es barata y ocupa poco espacio: puede ser tuya por 269€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/maquina-remo-plegable-cecotec-barata-ocupa-poco-espacio-puede-ser-269eu-1019817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cecotec-drumfit-rower-7000-regatta-2613883.jpg' alt='Esta máquina de remo plegable de Cecotec es barata y ocupa poco espacio: puede ser tuya por 269€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039'>Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-asegurarte-tienes-activo-salvavidas-windows-11-restauracion-sistema-1021039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620095.jpg' alt='Cómo asegurarte de que tienes activo el salvavidas de Windows 11: la restauración de sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-prepara-serie-basada-primera-superproduccion-ciencia-ficcion-1021017'>Apple TV+ prepara una serie basada en la primera superproducción de ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-prepara-serie-basada-primera-superproduccion-ciencia-ficcion-1021017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metropolis-2632199.jpg' alt='Apple TV+ prepara una serie basada en la primera superproducción de ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/joe-biden-presiona-companias-tecnologicas-tratara-prohibir-publicidad-dirigida-ninos-1021015'>Joe Biden presiona a las compañías tecnológicas y tratará de prohibir la publicidad dirigida a los niños</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/joe-biden-presiona-companias-tecnologicas-tratara-prohibir-publicidad-dirigida-ninos-1021015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-mirando-movil-2599677.jpg' alt='Joe Biden presiona a las compañías tecnológicas y tratará de prohibir la publicidad dirigida a los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995'>Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hundido-barco-4000-coches-deportivos-volkswagen-1020995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/arde-buque-4000-porsches-lamborghinis-bugattis-baterias-electricas-dificultan-rescate-2620991.jpg' alt='Se ha hundido un carguero con 4.000 coches deportivos del Grupo Volkswagen, la mayoría de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757'>5 robots aspiradores Cecotec ideales para jubilar tu escoba</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-robots-aspiradores-cecotec-ideales-jubilar-escoba-1019757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/conga-1790-titanium-cecotec-2303329.jpg' alt='5 robots aspiradores Cecotec ideales para jubilar tu escoba' />
     </a>
 </div>
 
