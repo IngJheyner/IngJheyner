@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x4-pro-5g-vs-poco-m4-pro-cual-mejor-diferencias-1021833'>POCO X4 Pro 5G vs POCO M4 Pro, ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x4-pro-5g-vs-poco-m4-pro-cual-mejor-diferencias-1021833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-x4-pro-vs-poco-m4-pro-2634065.jpg' alt='POCO X4 Pro 5G vs POCO M4 Pro, ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037'>Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-ucrania-2634097.jpg' alt='Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005'>Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001'>El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde' />
     </a>
 </div>
 
