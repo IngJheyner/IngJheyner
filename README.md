@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g22-oficial-cuadruple-camara-trasera-pantalla-90-hz-5000-mah-bateria-1021911'>El Moto g22 es oficial: cuádruple cámara trasera, pantalla de 90 Hz y 5.000 mAh de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-g22-oficial-cuadruple-camara-trasera-pantalla-90-hz-5000-mah-bateria-1021911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-g22-2633715.jpg' alt='El Moto g22 es oficial: cuádruple cámara trasera, pantalla de 90 Hz y 5.000 mAh de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/insectos-no-solo-son-ricos-proteinas-ahora-tambien-sirven-salvar-planeta-1021825'>Los insectos no solo son ricos en proteínas, ahora también sirven para salvar el planeta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/insectos-no-solo-son-ricos-proteinas-ahora-tambien-sirven-salvar-planeta-1021825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rey-leon-timon-insectos-2358205.jpg' alt='Los insectos no solo son ricos en proteínas, ahora también sirven para salvar el planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-crece-contenido-nueva-estrategia-acerca-deporte-1021863'>HBO Max crece en contenido y su nueva estrategia se acerca al deporte</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-crece-contenido-nueva-estrategia-acerca-deporte-1021863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='HBO Max crece en contenido y su nueva estrategia se acerca al deporte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-mobile-world-congress-2022-1021683'>Así es un día en el Mobile World Congress 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dia-mobile-world-congress-2022-1021683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x88gmcv.jpg' alt='Así es un día en el Mobile World Congress 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omegle-2632433.jpg' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-mides-tension-diario-tensiometro-inteligente-te-puede-ayudar-bastante-hace-electrocardiogramas-1020537'>Si te mides la tensión a diario, este tensiómetro inteligente te puede ayudar bastante, y hasta hace electrocardiogramas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-mides-tension-diario-tensiometro-inteligente-te-puede-ayudar-bastante-hace-electrocardiogramas-1020537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/withings-bpm-core-2631453.jpg' alt='Si te mides la tensión a diario, este tensiómetro inteligente te puede ayudar bastante, y hasta hace electrocardiogramas' />
     </a>
 </div>
 
