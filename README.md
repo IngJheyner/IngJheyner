@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113'>Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tren-infinito-tren-electrico-recarga-gravedad-nunca-tiene-parar-2634263.jpg' alt='Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/descarga-gratis-madden-nfl-22-steamworld-quest-surviving-mars-varios-juegos-retro-demo-kirby-1022105'>Descarga gratis Madden NFL 22, Steamworld Quest, Surviving Mars, varios juegos retro, la demo de Kirby, y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/descarga-gratis-madden-nfl-22-steamworld-quest-surviving-mars-varios-juegos-retro-demo-kirby-1022105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descarga-gratis-surviving-mars-steamworld-quest-varios-juegos-retro-demo-kirby-mucho-2634233.jpg' alt='Descarga gratis Madden NFL 22, Steamworld Quest, Surviving Mars, varios juegos retro, la demo de Kirby, y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053'>Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091'>Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895'>Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ghost-shell-sac2045-temporada-2-2626757.jpg' alt='Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083'>Ya sabemos en qué plataforma desembarcará The Batman este mismo año</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-sabemos-plataforma-desembarcara-batman-mismo-ano-2634205.jpg' alt='Ya sabemos en qué plataforma desembarcará The Batman este mismo año' />
     </a>
 </div>
 
