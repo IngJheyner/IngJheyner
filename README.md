@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053'>Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097'>Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/prixton-netbook-pro-ultrabook-ultrabarato-baja-solo-199-euros-2634221.jpg' alt='Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083'>Ya sabemos en qué plataforma desembarcará The Batman este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-sabemos-plataforma-desembarcara-batman-mismo-ano-2634205.jpg' alt='Ya sabemos en qué plataforma desembarcará The Batman este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075'>Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-2634199.jpg' alt='Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil' />
     </a>
 </div>
 
