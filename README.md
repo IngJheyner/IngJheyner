@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895'>Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ghost-shell-sac2045-temporada-2-2626757.jpg' alt='Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083'>Ya sabemos en qué plataforma desembarcará The Batman este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-sabemos-plataforma-desembarcara-batman-mismo-ano-2634205.jpg' alt='Ya sabemos en qué plataforma desembarcará The Batman este mismo año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065'>Android Auto está dejando sin acceso a internet a algunos móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto está dejando sin acceso a internet a algunos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/caracteristicas-todoterreno-utiles-conductores-jeep-gladiator-1021891'>Las características todoterreno más útiles para los conductores del Jeep Gladiator</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/caracteristicas-todoterreno-utiles-conductores-jeep-gladiator-1021891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jeep-gladiator-2626733.jpg' alt='Las características todoterreno más útiles para los conductores del Jeep Gladiator' />
     </a>
 </div>
 
