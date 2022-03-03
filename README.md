@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marzo-sera-mes-terror-prime-video-dos-grandes-estrenos-1021817'>Marzo será el mes del terror en Prime Video con dos grandes estrenos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/marzo-sera-mes-terror-prime-video-dos-grandes-estrenos-1021817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abuela-2633457.jpg' alt='Marzo será el mes del terror en Prime Video con dos grandes estrenos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ralentizando-10000-aplicaciones-telefonos-1021757'>Samsung está ralentizando más de 10.000 aplicaciones en sus teléfonos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ralentizando-10000-aplicaciones-telefonos-1021757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='Samsung está ralentizando más de 10.000 aplicaciones en sus teléfonos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-circular-whatsapp-estafa-cafetera-nespresso-gratis-1021749'>Vuelve a circular por WhatsApp la ESTAFA de la cafetera Nespresso gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-circular-whatsapp-estafa-cafetera-nespresso-gratis-1021749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2601441.jpg' alt='Vuelve a circular por WhatsApp la ESTAFA de la cafetera Nespresso gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/almohadas-sabanas-colchon-cada-cuanto-tiempo-deberias-cambiar-estos-articulos-comunes-cualquier-casa-1021707'>Almohadas, sábanas, colchón… ¿cada cuánto tiempo deberías cambiar estos artículos comunes en cualquier casa?</a></h4>
     <a href='https://computerhoy.com/noticias/life/almohadas-sabanas-colchon-cada-cuanto-tiempo-deberias-cambiar-estos-articulos-comunes-cualquier-casa-1021707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/sabanas_0.jpg' alt='Almohadas, sábanas, colchón… ¿cada cuánto tiempo deberías cambiar estos artículos comunes en cualquier casa?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/8-ajustes-muy-molestos-windows-10-deberias-cambiar-ahora-mismo-1021701'>8 ajustes muy molestos de Windows 10 que deberías cambiar ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/8-ajustes-muy-molestos-windows-10-deberias-cambiar-ahora-mismo-1021701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg' alt='8 ajustes muy molestos de Windows 10 que deberías cambiar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/finalmente-como-declara-bitcoin-renta-2021-1021693'>Finalmente, cómo se declara el bitcoin en la Renta 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/finalmente-como-declara-bitcoin-renta-2021-1021693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2633237.jpg' alt='Finalmente, cómo se declara el bitcoin en la Renta 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-solo-hoy-nuevo-poco-m4-pro-rebajado-179-euros-1021685'>Este chollo solo está hoy: el nuevo POCO M4 Pro, rebajado a 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-solo-hoy-nuevo-poco-m4-pro-rebajado-179-euros-1021685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/poco-m4-pro-2629955.jpg' alt='Este chollo solo está hoy: el nuevo POCO M4 Pro, rebajado a 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-expertos-ahorrar-10-euros-cada-vez-vayas-gasolinera-1021679'>Consejos de los expertos para ahorrar hasta de 10 euros cada vez que vayas a la gasolinera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-expertos-ahorrar-10-euros-cada-vez-vayas-gasolinera-1021679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='Consejos de los expertos para ahorrar hasta de 10 euros cada vez que vayas a la gasolinera' />
     </a>
 </div>
 
