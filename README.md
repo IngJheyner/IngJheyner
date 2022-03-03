@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marzo-sera-mes-terror-prime-video-dos-grandes-estrenos-1021817'>Marzo será el mes del terror en Prime Video con dos grandes estrenos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/marzo-sera-mes-terror-prime-video-dos-grandes-estrenos-1021817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abuela-2633457.jpg' alt='Marzo será el mes del terror en Prime Video con dos grandes estrenos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-crece-contenido-nueva-estrategia-acerca-deporte-1021863'>HBO Max crece en contenido y su nueva estrategia se acerca al deporte</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-crece-contenido-nueva-estrategia-acerca-deporte-1021863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='HBO Max crece en contenido y su nueva estrategia se acerca al deporte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ralentizando-10000-aplicaciones-telefonos-1021757'>Samsung está ralentizando más de 10.000 aplicaciones en sus teléfonos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ralentizando-10000-aplicaciones-telefonos-1021757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='Samsung está ralentizando más de 10.000 aplicaciones en sus teléfonos' />
+    <h4><a href='https://computerhoy.com/noticias/life/robot-cocina-multicooker-touch-aldi-vuelve-ponerse-venta-1021867'>El robot de cocina MultiCooker Touch de Aldi vuelve a ponerse a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/robot-cocina-multicooker-touch-aldi-vuelve-ponerse-venta-1021867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/multicooker-touch-2633617.jpg' alt='El robot de cocina MultiCooker Touch de Aldi vuelve a ponerse a la venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-circular-whatsapp-estafa-cafetera-nespresso-gratis-1021749'>Vuelve a circular por WhatsApp la ESTAFA de la cafetera Nespresso gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-circular-whatsapp-estafa-cafetera-nespresso-gratis-1021749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2601441.jpg' alt='Vuelve a circular por WhatsApp la ESTAFA de la cafetera Nespresso gratis' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-mobile-world-congress-2022-1021683'>Así es un día en el Mobile World Congress 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dia-mobile-world-congress-2022-1021683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x88gmcv.jpg' alt='Así es un día en el Mobile World Congress 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/almohadas-sabanas-colchon-cada-cuanto-tiempo-deberias-cambiar-estos-articulos-comunes-cualquier-casa-1021707'>Almohadas, sábanas, colchón… ¿cada cuánto tiempo deberías cambiar estos artículos comunes en cualquier casa?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/almohadas-sabanas-colchon-cada-cuanto-tiempo-deberias-cambiar-estos-articulos-comunes-cualquier-casa-1021707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/sabanas_0.jpg' alt='Almohadas, sábanas, colchón… ¿cada cuánto tiempo deberías cambiar estos artículos comunes en cualquier casa?' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omegle-2632433.jpg' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-ajustes-muy-molestos-windows-10-deberias-cambiar-ahora-mismo-1021701'>8 ajustes muy molestos de Windows 10 que deberías cambiar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/8-ajustes-muy-molestos-windows-10-deberias-cambiar-ahora-mismo-1021701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg' alt='8 ajustes muy molestos de Windows 10 que deberías cambiar ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-mides-tension-diario-tensiometro-inteligente-te-puede-ayudar-bastante-hace-electrocardiogramas-1020537'>Si te mides la tensión a diario, este tensiómetro inteligente te puede ayudar bastante, y hasta hace electrocardiogramas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-mides-tension-diario-tensiometro-inteligente-te-puede-ayudar-bastante-hace-electrocardiogramas-1020537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/withings-bpm-core-2631453.jpg' alt='Si te mides la tensión a diario, este tensiómetro inteligente te puede ayudar bastante, y hasta hace electrocardiogramas' />
     </a>
 </div>
 
