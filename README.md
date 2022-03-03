@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1021615'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1021615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2633113.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-desde-209-euros-1021295'>Diseño premium, GPS y seguimiento durante todo el día: Huawei Watch GT 3 ahora solo cuesta 209 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-desde-209-euros-1021295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='Diseño premium, GPS y seguimiento durante todo el día: Huawei Watch GT 3 ahora solo cuesta 209 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-ikea-ahorrar-factura-luz-1021309'>Estos son los mejores accesorios de Ikea para ahorrar en la factura de la luz que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-ikea-ahorrar-factura-luz-1021309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-unipersonal-2632883.jpg' alt='Estos son los mejores accesorios de Ikea para ahorrar en la factura de la luz que puedes comprar' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dualshock-4-v2-ps4-2632519.jpg' alt='7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-secadora-eliminar-arrugas-hielos-1021547'>¿Usas secadora? Este truco genial eliminará las arrugas de la ropa para que sea más fácil plancharla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-genial-secadora-eliminar-arrugas-hielos-1021547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usas-secadora-truco-genial-eliminara-arrugas-ropa-sea-facil-plancharla-2633035.jpg' alt='¿Usas secadora? Este truco genial eliminará las arrugas de la ropa para que sea más fácil plancharla' />
+    <h4><a href='https://computerhoy.com/noticias/motor/kia-automode-sistema-conduccion-autonoma-2023-1021625'>Kia pone fecha al Automode: su sistema de conducción autónoma llegará en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/kia-automode-sistema-conduccion-autonoma-2023-1021625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kia-ev9-2536683.jpg' alt='Kia pone fecha al Automode: su sistema de conducción autónoma llegará en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-cable-hdmi-monitores-4k-inalambricos-tecnologia-5g-mm-wave-1021401'>Adiós al cable HDMI: los monitores 4K inalámbricos se ponen de moda, gracias a la tecnología 5G mm-Wave </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-cable-hdmi-monitores-4k-inalambricos-tecnologia-5g-mm-wave-1021401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/adios-cable-hdmi-monitores-4k-inalambricos-ponen-moda-gracias-tecnologia-5g-mm-wave-2632899.jpg' alt='Adiós al cable HDMI: los monitores 4K inalámbricos se ponen de moda, gracias a la tecnología 5G mm-Wave ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-salud-mental-provoca-automatizacion-fabricas-1021151'>Los problemas de salud mental que provoca la automatización de las fábricas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/problemas-salud-mental-provoca-automatizacion-fabricas-1021151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/robotica-fabrica-2632423.jpg' alt='Los problemas de salud mental que provoca la automatización de las fábricas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399'>¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo </a></h4>
-    <a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/genio-excentrico-inventor-thomas-edison-obligaba-tomar-plato-sopa-candidato-entrevistas-trabajo-2632891.jpg' alt='¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo ' />
+    <h4><a href='https://computerhoy.com/noticias/motor/como-ha-conseguido-audi-mantener-motores-v6-igual-potentes-pero-limpios-1021157'>Cómo ha conseguido Audi mantener los motores V6 igual de potentes, pero más limpios</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-ha-conseguido-audi-mantener-motores-v6-igual-potentes-pero-limpios-1021157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-v6-2626505.jpg' alt='Cómo ha conseguido Audi mantener los motores V6 igual de potentes, pero más limpios' />
     </a>
 </div>
 
