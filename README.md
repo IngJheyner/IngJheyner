@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037'>Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-ucrania-2634097.jpg' alt='Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/respirar-marte-podria-ser-posible-gracias-nasa-1022033'>Respirar en Marte podría ser posible gracias a La NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/respirar-marte-podria-ser-posible-gracias-nasa-1022033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/marte-nasa-2634091.jpg' alt='Respirar en Marte podría ser posible gracias a La NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-comprobar-luz-emergencia-v-16-realmente-homologada-dgt-1021999'>Cómo comprobar si tu luz de emergencia V-16 está realmente homologada por la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-comprobar-luz-emergencia-v-16-realmente-homologada-dgt-1021999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo comprobar si tu luz de emergencia V-16 está realmente homologada por la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005'>Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001'>El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/industria-semiconductores-jaque-caida-plomos-1021983'>La industria de los semiconductores en jaque por... una caída de plomos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/industria-semiconductores-jaque-caida-plomos-1021983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/semiconductor-2472907.jpg' alt='La industria de los semiconductores en jaque por... una caída de plomos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/spot-perro-robot-boston-dynamics-tan-adorable-como-util-1021953'>Spot, el perro robot de Boston Dynamics, es tan adorable como útil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/spot-perro-robot-boston-dynamics-tan-adorable-como-util-1021953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x88ho24.jpg' alt='Spot, el perro robot de Boston Dynamics, es tan adorable como útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nothing-lanzara-primer-smartphone-ano-mostrarlo-ejecutivos-durante-mwc-1021927'>Nothing lanzará su primer smartphone este año tras mostrarlo a ejecutivos durante el MWC</a></h4>
-    <a href='https://computerhoy.com/noticias/nothing-lanzara-primer-smartphone-ano-mostrarlo-ejecutivos-durante-mwc-1021927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-nothing-ear-1-2421553.jpg' alt='Nothing lanzará su primer smartphone este año tras mostrarlo a ejecutivos durante el MWC' />
     </a>
 </div>
 
