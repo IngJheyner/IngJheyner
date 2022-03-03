@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-x4-pro-5g-vs-poco-m4-pro-cual-mejor-diferencias-1021833'>POCO X4 Pro 5G vs POCO M4 Pro, ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-x4-pro-5g-vs-poco-m4-pro-cual-mejor-diferencias-1021833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-x4-pro-vs-poco-m4-pro-2634065.jpg' alt='POCO X4 Pro 5G vs POCO M4 Pro, ¿cuál es mejor y en qué se diferencian?' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083'>Ya sabemos en qué plataforma desembarcará The Batman este mismo año</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-the-batman-hbo-max-1022083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-sabemos-plataforma-desembarcara-batman-mismo-ano-2634205.jpg' alt='Ya sabemos en qué plataforma desembarcará The Batman este mismo año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037'>Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-cierra-oficina-rusia-limita-contenido-sovietico-toda-union-europea-1022037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-ucrania-2634097.jpg' alt='Spotify cierra su oficina en Rusia y limita el contenido soviético en toda la Unión Europea' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075'>Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-2634199.jpg' alt='Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respirar-marte-podria-ser-posible-gracias-nasa-1022033'>Respirar en Marte podría ser posible gracias a La NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respirar-marte-podria-ser-posible-gracias-nasa-1022033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/marte-nasa-2634091.jpg' alt='Respirar en Marte podría ser posible gracias a La NASA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/envias-notas-voz-whatsapp-fin-parece-haber-escuchado-todas-plegarias-1022071'>¿Envías notas de voz? WhatsApp por fin parece haber escuchado todas tus plegarias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/envias-notas-voz-whatsapp-fin-parece-haber-escuchado-todas-plegarias-1022071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='¿Envías notas de voz? WhatsApp por fin parece haber escuchado todas tus plegarias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-comprobar-luz-emergencia-v-16-realmente-homologada-dgt-1021999'>Cómo comprobar si tu luz de emergencia V-16 está realmente homologada por la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-comprobar-luz-emergencia-v-16-realmente-homologada-dgt-1021999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Cómo comprobar si tu luz de emergencia V-16 está realmente homologada por la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065'>Android Auto está dejando sin acceso a internet a algunos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto está dejando sin acceso a internet a algunos móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005'>Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más' />
+    <h4><a href='https://computerhoy.com/noticias/motor/caracteristicas-todoterreno-utiles-conductores-jeep-gladiator-1021891'>Las características todoterreno más útiles para los conductores del Jeep Gladiator</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/caracteristicas-todoterreno-utiles-conductores-jeep-gladiator-1021891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jeep-gladiator-2626733.jpg' alt='Las características todoterreno más útiles para los conductores del Jeep Gladiator' />
     </a>
 </div>
 
