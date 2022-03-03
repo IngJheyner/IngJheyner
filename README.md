@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097'>Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/prixton-netbook-pro-ultrabook-ultrabarato-baja-solo-199-euros-2634221.jpg' alt='Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091'>Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895'>Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncia-cuando-regresa-ghost-shell-sac2045-temporada-1021895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ghost-shell-sac2045-temporada-2-2626757.jpg' alt='Netflix ha anunciado cuándo regresa Ghost in the Shell SAC_2045' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075'>Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-1022075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-dos-youtubers-han-modificado-mac-mini-convertirlo-ordenador-portatil-2634199.jpg' alt='Estos dos youtubers han modificado el Mac Mini hasta convertirlo en un ordenador portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/envias-notas-voz-whatsapp-fin-parece-haber-escuchado-todas-plegarias-1022071'>¿Envías notas de voz? WhatsApp por fin parece haber escuchado todas tus plegarias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/envias-notas-voz-whatsapp-fin-parece-haber-escuchado-todas-plegarias-1022071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg' alt='¿Envías notas de voz? WhatsApp por fin parece haber escuchado todas tus plegarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065'>Android Auto está dejando sin acceso a internet a algunos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-dejando-acceso-internet-algunos-moviles-1022065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto está dejando sin acceso a internet a algunos móviles' />
     </a>
 </div>
 
