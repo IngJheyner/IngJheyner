@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1021615'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1021615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2633113.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-ikea-ahorrar-factura-luz-1021309'>Estos son los mejores accesorios de Ikea para ahorrar en la factura de la luz que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-ikea-ahorrar-factura-luz-1021309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-unipersonal-2632883.jpg' alt='Estos son los mejores accesorios de Ikea para ahorrar en la factura de la luz que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-genial-secadora-eliminar-arrugas-hielos-1021547'>¿Usas secadora? Este truco genial eliminará las arrugas de la ropa para que sea más fácil plancharla</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-genial-secadora-eliminar-arrugas-hielos-1021547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usas-secadora-truco-genial-eliminara-arrugas-ropa-sea-facil-plancharla-2633035.jpg' alt='¿Usas secadora? Este truco genial eliminará las arrugas de la ropa para que sea más fácil plancharla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399'>¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo </a></h4>
     <a href='https://computerhoy.com/noticias/life/thomas-edison-plato-sopa-entrevistas-trabajo-1021399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/genio-excentrico-inventor-thomas-edison-obligaba-tomar-plato-sopa-candidato-entrevistas-trabajo-2632891.jpg' alt='¿Genio o excéntrico? Por qué el inventor Thomas Edison obligaba a tomar un plato de sopa al candidato en sus entrevistas de trabajo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393'>Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ucrania-pide-sony-microsoft-bloqueen-jugadores-rusos-fifa-elimina-equipos-1021393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/fifa-22-2561737.jpg' alt='Ucrania pide a Sony y Microsoft que bloqueen a los jugadores rusos, el juego FIFA 22 elimina a todos los equipos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-premium-cancelacion-ruido-activa-descuento-1021355'>Estos auriculares deportivos premium con cancelación de ruido activa, bajan un 50% y se quedan en solo 99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-premium-cancelacion-ruido-activa-descuento-1021355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-active-75t-auriculares-deportivos-premium-cancelacion-activa-bajan-50-quedan-solo-99-euros-2632831.jpg' alt='Estos auriculares deportivos premium con cancelación de ruido activa, bajan un 50% y se quedan en solo 99 euros' />
     </a>
 </div>
 
