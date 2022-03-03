@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005'>Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-deseada-xiaomi-mi-band-7-pantalla-grande-esferas-gps-1022005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primeras filtraciones de la deseada Xiaomi Mi Band 7: pantalla más grande, esferas, GPS y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001'>El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/siguiente-gran-paso-twitter-son-podcast-quieren-meterse-negocio-llegan-muy-tarde-1022001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='El siguiente gran paso de Twitter son los podcast, así quieren meterse en un negocio al que llegan muy tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/industria-semiconductores-jaque-caida-plomos-1021983'>La industria de los semiconductores en jaque por... una caída de plomos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/industria-semiconductores-jaque-caida-plomos-1021983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/semiconductor-2472907.jpg' alt='La industria de los semiconductores en jaque por... una caída de plomos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/spot-perro-robot-boston-dynamics-tan-adorable-como-util-1021953'>Spot, el perro robot de Boston Dynamics, es tan adorable como útil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/spot-perro-robot-boston-dynamics-tan-adorable-como-util-1021953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x88ho24.jpg' alt='Spot, el perro robot de Boston Dynamics, es tan adorable como útil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nothing-lanzara-primer-smartphone-ano-mostrarlo-ejecutivos-durante-mwc-1021927'>Nothing lanzará su primer smartphone este año tras mostrarlo a ejecutivos durante el MWC</a></h4>
     <a href='https://computerhoy.com/noticias/nothing-lanzara-primer-smartphone-ano-mostrarlo-ejecutivos-durante-mwc-1021927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-nothing-ear-1-2421553.jpg' alt='Nothing lanzará su primer smartphone este año tras mostrarlo a ejecutivos durante el MWC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-oferta-255-euros-1021771'>Ticwatch Pro 3 Ultra GPS, un smartwatch con GPS, doble pantalla y Wear OS de Google ya está rebajado a solo 255 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-oferta-255-euros-1021771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ticwatch-pro-3-ultra-gps-2633461.jpg' alt='Ticwatch Pro 3 Ultra GPS, un smartwatch con GPS, doble pantalla y Wear OS de Google ya está rebajado a solo 255 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-g22-oficial-cuadruple-camara-trasera-pantalla-90-hz-5000-mah-bateria-1021911'>El Moto g22 es oficial: cuádruple cámara trasera, pantalla de 90 Hz y 5.000 mAh de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moto-g22-oficial-cuadruple-camara-trasera-pantalla-90-hz-5000-mah-bateria-1021911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-g22-2633715.jpg' alt='El Moto g22 es oficial: cuádruple cámara trasera, pantalla de 90 Hz y 5.000 mAh de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/insectos-no-solo-son-ricos-proteinas-ahora-tambien-sirven-salvar-planeta-1021825'>Los insectos no solo son ricos en proteínas, ahora también sirven para salvar el planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/insectos-no-solo-son-ricos-proteinas-ahora-tambien-sirven-salvar-planeta-1021825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rey-leon-timon-insectos-2358205.jpg' alt='Los insectos no solo son ricos en proteínas, ahora también sirven para salvar el planeta' />
     </a>
 </div>
 
