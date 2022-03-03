@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/90-millones-victimas-pocas-horas-espeluznante-simulacion-guerra-nuclear-rusia-eeuu-1021645'>90 millones de víctimas en pocas horas: la espeluznante simulación de la guerra nuclear entre Rusia y EE.UU.</a></h4>
+    <a href='https://computerhoy.com/noticias/life/90-millones-victimas-pocas-horas-espeluznante-simulacion-guerra-nuclear-rusia-eeuu-1021645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pasaria-todas-bombas-nucleares-mundo-explotasen-mismo-tiempo.jpg' alt='90 millones de víctimas en pocas horas: la espeluznante simulación de la guerra nuclear entre Rusia y EE.UU.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-611-computer-hoy-1017685'>¡Ya está en tu quiosco el número 611 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-611-computer-hoy-1017685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-611-2631201.jpg' alt='¡Ya está en tu quiosco el número 611 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-algunas-tiendas-esperadas-amazon-1021637'>No verás en España algunas de las tiendas más esperadas de Amazon: están cerrándolas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espana-algunas-tiendas-esperadas-amazon-1021637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-books-2633145.jpg' alt='No verás en España algunas de las tiendas más esperadas de Amazon: están cerrándolas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dualshock-4-v2-ps4-2632519.jpg' alt='7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/kia-automode-sistema-conduccion-autonoma-2023-1021625'>Kia pone fecha al Automode: su sistema de conducción autónoma llegará en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/kia-automode-sistema-conduccion-autonoma-2023-1021625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kia-ev9-2536683.jpg' alt='Kia pone fecha al Automode: su sistema de conducción autónoma llegará en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/problemas-salud-mental-provoca-automatizacion-fabricas-1021151'>Los problemas de salud mental que provoca la automatización de las fábricas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/problemas-salud-mental-provoca-automatizacion-fabricas-1021151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/robotica-fabrica-2632423.jpg' alt='Los problemas de salud mental que provoca la automatización de las fábricas' />
     </a>
 </div>
 
