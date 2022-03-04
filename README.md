@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399'>Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2631191.jpg' alt='Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-montana-made-spain-arrasa-amazon-120-km-bateria-1021087'>Esta bicicleta eléctrica de montaña "made in Spain" arrasa en Amazon con hasta 120 km de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-montana-made-spain-arrasa-amazon-120-km-bateria-1021087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicleta-electrica-montana-2632319.jpg' alt='Esta bicicleta eléctrica de montaña "made in Spain" arrasa en Amazon con hasta 120 km de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/guerra-ucrania-situaria-reloj-fin-mundo-cerca-nunca-apocalipsis-1022425'>La guerra de Ucrania situaría el “reloj del fin del mundo” más cerca que nunca del apocalipsis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/guerra-ucrania-situaria-reloj-fin-mundo-cerca-nunca-apocalipsis-1022425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-fin-mundo-2634593.jpg' alt='La guerra de Ucrania situaría el “reloj del fin del mundo” más cerca que nunca del apocalipsis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-desconocidas-utiles-jump-lists-windows-1022447'>Qué son y cómo funcionan las desconocidas y útiles “Jump Lists” de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-desconocidas-utiles-jump-lists-windows-1022447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué son y cómo funcionan las desconocidas y útiles “Jump Lists” de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/coche-electrico-sony-vera-luz-mucho-antes-esperado-1022369'>El coche eléctrico de Sony verá la luz mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/coche-electrico-sony-vera-luz-mucho-antes-esperado-1022369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='El coche eléctrico de Sony verá la luz mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-criptomonedas-intercambio-10-anos-carcel-1022367'>China se pone aún más dura con las criptomonedas: su intercambio puede costar 10 años de cárcel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-criptomonedas-intercambio-10-anos-carcel-1022367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoins-bandera-china-2482327.jpg' alt='China se pone aún más dura con las criptomonedas: su intercambio puede costar 10 años de cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-10-4-new-edition-mejor-precio-oferta-199-euros-1022059'>Huawei MatePad 10.4 NE, una tablet que se puede convertir en tu portátil, ahora solo cuesta 219€ por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-10-4-new-edition-mejor-precio-oferta-199-euros-1022059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014991.jpg' alt='Huawei MatePad 10.4 NE, una tablet que se puede convertir en tu portátil, ahora solo cuesta 219€ por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/15-chollos-amazon-fin-semana-no-te-puedes-perder-1021057'>15 chollos de Amazon para el fin de semana que no te puedes perder</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/15-chollos-amazon-fin-semana-no-te-puedes-perder-1021057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='15 chollos de Amazon para el fin de semana que no te puedes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-tarifa-barata-anuncios-1022345'>Disney+ podría ofrecerte una tarifa más barata, si estás dispuesto a ver anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-tarifa-barata-anuncios-1022345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-2634511.jpg' alt='Disney+ podría ofrecerte una tarifa más barata, si estás dispuesto a ver anuncios' />
     </a>
 </div>
 
