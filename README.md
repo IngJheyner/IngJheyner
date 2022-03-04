@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583'>Señales para detectar un SMS fraudulento y no caer en la trampa del smishing</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Señales para detectar un SMS fraudulento y no caer en la trampa del smishing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569'>Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599'>Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realidad-virtual-2634967.jpg' alt='Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565'>Este es el número mágico de pasos que tienes que dar al día para estar sano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/auten.jpg' alt='Este es el número mágico de pasos que tienes que dar al día para estar sano' />
     </a>
 </div>
 
