@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/motivos-duele-cabeza-despertar-puede-hacer-1021909'>Los motivos por los que duele la cabeza al despertar y qué se puede hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/life/motivos-duele-cabeza-despertar-puede-hacer-1021909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dolor-cabeza-cama-2633707.jpg' alt='Los motivos por los que duele la cabeza al despertar y qué se puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/10-aspectos-revisar-antes-comprar-coche-segunda-mano-1021899'>10 aspectos a revisar antes de comprar un coche de segunda mano</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/10-aspectos-revisar-antes-comprar-coche-segunda-mano-1021899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-usado-2627991.jpg' alt='10 aspectos a revisar antes de comprar un coche de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2634507.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333'>4 formas de acabar con las plagas de hormigas usando productos naturales</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='4 formas de acabar con las plagas de hormigas usando productos naturales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115'>Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/presenta-trojena-ciudad-futuro-oculta-montanas-arabia-saudi-2634267.jpg' alt='Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113'>Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tren-infinito-tren-electrico-recarga-gravedad-nunca-tiene-parar-2634263.jpg' alt='Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar' />
     </a>
 </div>
 
