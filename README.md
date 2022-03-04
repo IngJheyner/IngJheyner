@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679'>El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630075.jpg' alt='El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-dia-padre-puedes-regalar-no-enteran-mucho-tecnologia-1022431'>Los mejores móviles para el Día del Padre que puedes regalar si no se lleva muy bien con la tecnología</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-dia-padre-puedes-regalar-no-enteran-mucho-tecnologia-1022431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-mayor-sujetando-movil-2634781.jpg' alt='Los mejores móviles para el Día del Padre que puedes regalar si no se lleva muy bien con la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2635073.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659'>Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501'>Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-recomendadas-2634723.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-soluciones-principales-problemas-android-auto-1022641'>Google anuncia soluciones para los principales problemas de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-soluciones-principales-problemas-android-auto-1022641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Google anuncia soluciones para los principales problemas de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417'>Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-metido-caja-logo-amazon-2634619.jpg' alt='Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583'>Señales para detectar un SMS fraudulento y no caer en la trampa del smishing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Señales para detectar un SMS fraudulento y no caer en la trampa del smishing' />
     </a>
 </div>
 
