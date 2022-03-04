@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2634507.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lg-oled-mejores-televisores-1022027'>LG OLED: estos son sus mejores televisores en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/lg-oled-mejores-televisores-1022027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lg-oled-c1-2634167.jpg' alt='LG OLED: estos son sus mejores televisores en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333'>4 formas de acabar con las plagas de hormigas usando productos naturales</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='4 formas de acabar con las plagas de hormigas usando productos naturales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113'>Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tren-infinito-tren-electrico-recarga-gravedad-nunca-tiene-parar-2634263.jpg' alt='Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/descarga-gratis-madden-nfl-22-steamworld-quest-surviving-mars-varios-juegos-retro-demo-kirby-1022105'>Descarga gratis Madden NFL 22, Steamworld Quest, Surviving Mars, varios juegos retro, la demo de Kirby, y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/descarga-gratis-madden-nfl-22-steamworld-quest-surviving-mars-varios-juegos-retro-demo-kirby-1022105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descarga-gratis-surviving-mars-steamworld-quest-varios-juegos-retro-demo-kirby-mucho-2634233.jpg' alt='Descarga gratis Madden NFL 22, Steamworld Quest, Surviving Mars, varios juegos retro, la demo de Kirby, y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053'>Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G' />
     </a>
 </div>
 
