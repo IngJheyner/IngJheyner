@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115'>Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/presenta-trojena-ciudad-futuro-oculta-montanas-arabia-saudi-2634267.jpg' alt='Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113'>Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/infinity-train-tren-electrico-recarga-gravedad-nunca-tiene-parar-1022113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tren-infinito-tren-electrico-recarga-gravedad-nunca-tiene-parar-2634263.jpg' alt='Así es el Tren Infinito, un tren eléctrico que se recarga con la gravedad y nunca tiene que parar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097'>Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/prixton-netbook-pro-ultrabook-ultrabarato-baja-solo-199-euros-2634221.jpg' alt='Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091'>Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-proximo-ipad-apple-llevaria-panel-oled-samsung-1022091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que el próximo iPad de Apple llevaría un panel OLED de Samsung' />
     </a>
 </div>
 
