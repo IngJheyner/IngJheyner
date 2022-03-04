@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hyundai-ha-patentado-porton-maletero-deslizante-eeuu-1022517'>Hyundai ha patentado en EE.UU. un portón de maletero deslizante</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hyundai-ha-patentado-porton-maletero-deslizante-eeuu-1022517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ioniq-5-2021-1200px-2316123.jpg' alt='Hyundai ha patentado en EE.UU. un portón de maletero deslizante' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-llego-inspiracion-diseno-chandales-juego-calamar-1022521'>De dónde llegó la inspiración para el diseño de los chándales de El juego del calamar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-llego-inspiracion-diseno-chandales-juego-calamar-1022521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juego-calamar-2628033.jpg' alt='De dónde llegó la inspiración para el diseño de los chándales de El juego del calamar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/recorres-estos-kilometros-conviene-comprar-hibrido-enchufable-1022695'>Si recorres estos kilómetros con tu coche, te conviene comprar un híbrido enchufable</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/recorres-estos-kilometros-conviene-comprar-hibrido-enchufable-1022695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mercedes-benz-lleva-hibridos-enchufables-clase-clase-b_0.jpg' alt='Si recorres estos kilómetros con tu coche, te conviene comprar un híbrido enchufable' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-podcast-espana-primer-patrocinador-campofrio-1022705'>Spotify inicia su anunciada nueva etapa con los podcast en España, y ya tiene el primer patrocinador</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-podcast-espana-primer-patrocinador-campofrio-1022705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/podcasting-espana-espejo-radios-formato-exito_3.jpg' alt='Spotify inicia su anunciada nueva etapa con los podcast en España, y ya tiene el primer patrocinador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679'>El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630075.jpg' alt='El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-leer-codigos-qr-android-podria-esconder-peligroso-malware-bancario-1022701'>Tu aplicación para leer códigos QR en Android podría esconder un peligroso malware bancario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-leer-codigos-qr-android-podria-esconder-peligroso-malware-bancario-1022701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Tu aplicación para leer códigos QR en Android podría esconder un peligroso malware bancario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-dia-padre-puedes-regalar-no-enteran-mucho-tecnologia-1022431'>Los mejores móviles para el Día del Padre que puedes regalar si no se lleva muy bien con la tecnología</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-dia-padre-puedes-regalar-no-enteran-mucho-tecnologia-1022431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-mayor-sujetando-movil-2634781.jpg' alt='Los mejores móviles para el Día del Padre que puedes regalar si no se lleva muy bien con la tecnología' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-presentaria-iphone-2022-evento-8-marzo-1022691'>Los últimos rumores apuntan a que Apple presentaría el iPhone SE 2022 en su evento del 8 de marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-presentaria-iphone-2022-evento-8-marzo-1022691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/iphone-2020-2075919.jpg' alt='Los últimos rumores apuntan a que Apple presentaría el iPhone SE 2022 en su evento del 8 de marzo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2635073.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror' />
+    <h4><a href='https://computerhoy.com/noticias/life/llegan-primeras-consecuencias-guerra-ucrania-supermercados-espanoles-1022697'>Llegan las primeras consecuencias de la guerra en Ucrania a los supermercados españoles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llegan-primeras-consecuencias-guerra-ucrania-supermercados-espanoles-1022697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635213.jpg' alt='Llegan las primeras consecuencias de la guerra en Ucrania a los supermercados españoles' />
     </a>
 </div>
 
