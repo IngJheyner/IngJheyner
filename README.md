@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hyundai-ha-patentado-porton-maletero-deslizante-eeuu-1022517'>Hyundai ha patentado en EE.UU. un portón de maletero deslizante</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hyundai-ha-patentado-porton-maletero-deslizante-eeuu-1022517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ioniq-5-2021-1200px-2316123.jpg' alt='Hyundai ha patentado en EE.UU. un portón de maletero deslizante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/recorres-estos-kilometros-conviene-comprar-hibrido-enchufable-1022695'>Si recorres estos kilómetros con tu coche, te conviene comprar un híbrido enchufable</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/recorres-estos-kilometros-conviene-comprar-hibrido-enchufable-1022695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mercedes-benz-lleva-hibridos-enchufables-clase-clase-b_0.jpg' alt='Si recorres estos kilómetros con tu coche, te conviene comprar un híbrido enchufable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679'>El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-oneplus-10-estaria-cada-vez-cerca-seria-diseno-1022679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630075.jpg' alt='El lanzamiento del OnePlus 10 estaría cada vez más cerca y este sería su diseño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-nave-espacial-impostora-mucho-terror-1022623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2635073.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una nave espacial, una impostora y mucho terror' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659'>Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501'>Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-recomendadas-2634723.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia' />
     </a>
 </div>
 
