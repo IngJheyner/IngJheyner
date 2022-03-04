@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659'>Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-especificaciones-todo-sabemos-nuevos-xiaomi-12-12-pro-1022659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-12-pro-12x-ya-son-oficiales-estrenan-procesador-snapdragon-8-gen-1-chip-2572901.jpg' alt='Precio, especificaciones y todo lo que sabemos de los nuevos Xiaomi 12 y 12 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501'>Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-filmin-thriller-guerra-comedia-1022501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-recomendadas-2634723.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime y Filmin: thriller, guerra y comedia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-soluciones-principales-problemas-android-auto-1022641'>Google anuncia soluciones para los principales problemas de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-soluciones-principales-problemas-android-auto-1022641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Google anuncia soluciones para los principales problemas de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417'>Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-metido-caja-logo-amazon-2634619.jpg' alt='Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583'>Señales para detectar un SMS fraudulento y no caer en la trampa del smishing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Señales para detectar un SMS fraudulento y no caer en la trampa del smishing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569'>Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-amd-unen-boicot-mundial-no-procesadores-rusia-bielorrusia-1022613'>Intel y AMD se unen al boicot mundial: no más procesadores para Rusia y Bielorrusia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-amd-unen-boicot-mundial-no-procesadores-rusia-bielorrusia-1022613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel y AMD se unen al boicot mundial: no más procesadores para Rusia y Bielorrusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161'>Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531773.jpg' alt='Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código' />
     </a>
 </div>
 
