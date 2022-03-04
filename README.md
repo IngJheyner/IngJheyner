@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/interior-galaxy-s22-ultra-mejoras-disipacion-complicada-reparabilidad-1022537'>Así es el interior de Galaxy S22 Ultra: mejoras en disipación y complicada reparabilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/interior-galaxy-s22-ultra-mejoras-disipacion-complicada-reparabilidad-1022537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s22-2634761.jpg' alt='Así es el interior de Galaxy S22 Ultra: mejoras en disipación y complicada reparabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cubrir-mwc-como-protagonizar-imposible-disfrazado-james-bond-1020297'>Cubrir un MWC es como protagonizar Lo Imposible disfrazado de James Bond</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cubrir-mwc-como-protagonizar-imposible-disfrazado-james-bond-1020297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/entrada-mwc-2022-barcelona-2631299.jpg' alt='Cubrir un MWC es como protagonizar Lo Imposible disfrazado de James Bond' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asegurate-ninguna-20-contrasenas-filtradas-dark-web-1022427'>Asegúrate de que ninguna es la tuya: las 20 contraseñas más filtradas en la Dark Web</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asegurate-ninguna-20-contrasenas-filtradas-dark-web-1022427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Asegúrate de que ninguna es la tuya: las 20 contraseñas más filtradas en la Dark Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llevas-usando-mal-whatsapp-toda-vida-errores-habituales-debes-evitar-1022515'>Llevas usando mal WhatsApp toda la vida: los errores más habituales que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llevas-usando-mal-whatsapp-toda-vida-errores-habituales-debes-evitar-1022515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='Llevas usando mal WhatsApp toda la vida: los errores más habituales que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399'>Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2631191.jpg' alt='Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-montana-made-spain-arrasa-amazon-120-km-bateria-1021087'>Esta bicicleta eléctrica de montaña "made in Spain" arrasa en Amazon con hasta 120 km de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-montana-made-spain-arrasa-amazon-120-km-bateria-1021087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicleta-electrica-montana-2632319.jpg' alt='Esta bicicleta eléctrica de montaña "made in Spain" arrasa en Amazon con hasta 120 km de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/guerra-ucrania-situaria-reloj-fin-mundo-cerca-nunca-apocalipsis-1022425'>La guerra de Ucrania situaría el “reloj del fin del mundo” más cerca que nunca del apocalipsis</a></h4>
-    <a href='https://computerhoy.com/noticias/life/guerra-ucrania-situaria-reloj-fin-mundo-cerca-nunca-apocalipsis-1022425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-fin-mundo-2634593.jpg' alt='La guerra de Ucrania situaría el “reloj del fin del mundo” más cerca que nunca del apocalipsis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-desconocidas-utiles-jump-lists-windows-1022447'>Qué son y cómo funcionan las desconocidas y útiles “Jump Lists” de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-desconocidas-utiles-jump-lists-windows-1022447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué son y cómo funcionan las desconocidas y útiles “Jump Lists” de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/coche-electrico-sony-vera-luz-mucho-antes-esperado-1022369'>El coche eléctrico de Sony verá la luz mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/coche-electrico-sony-vera-luz-mucho-antes-esperado-1022369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='El coche eléctrico de Sony verá la luz mucho antes de lo esperado' />
     </a>
 </div>
 
