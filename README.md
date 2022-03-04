@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713'>Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-segunda-guerra-mundial-bbc-retoma-transmisiones-onda-corta-rusia-no-pueden-hackear-2635253.jpg' alt='Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-chip-m1-descuento-350-euros-1022707'>El Apple MacBook Pro con Chip M1 recibe un descuento de 350 euros, y se queda a precio de portártil estándar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-chip-m1-descuento-350-euros-1022707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nuevos-macbook-pro-14-16-pulgadas-2512969.jpg' alt='El Apple MacBook Pro con Chip M1 recibe un descuento de 350 euros, y se queda a precio de portártil estándar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-leer-codigos-qr-android-podria-esconder-peligroso-malware-bancario-1022701'>Tu aplicación para leer códigos QR en Android podría esconder un peligroso malware bancario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-leer-codigos-qr-android-podria-esconder-peligroso-malware-bancario-1022701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Tu aplicación para leer códigos QR en Android podría esconder un peligroso malware bancario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-presentaria-iphone-2022-evento-8-marzo-1022691'>Los últimos rumores apuntan a que Apple presentaría el iPhone SE 2022 en su evento del 8 de marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-presentaria-iphone-2022-evento-8-marzo-1022691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/iphone-2020-2075919.jpg' alt='Los últimos rumores apuntan a que Apple presentaría el iPhone SE 2022 en su evento del 8 de marzo' />
     </a>
 </div>
 
