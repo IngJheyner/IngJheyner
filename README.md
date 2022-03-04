@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161'>Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531773.jpg' alt='Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599'>Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realidad-virtual-2634967.jpg' alt='Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565'>Este es el número mágico de pasos que tienes que dar al día para estar sano</a></h4>
     <a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/auten.jpg' alt='Este es el número mágico de pasos que tienes que dar al día para estar sano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443'>¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/kiev-ucrania.jpg' alt='¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935'>25 acertijos con respuesta para mantener tu mente activa</a></h4>
-    <a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/acertijo-2267643.jpg' alt='25 acertijos con respuesta para mantener tu mente activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-barato-nunca-oferta-198-euros-1020503'>Este robot aspirador Roomba es más barato que nunca: está en oferta por 198 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-barato-nunca-oferta-198-euros-1020503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/irobot-roomba-692-2332085.jpg' alt='Este robot aspirador Roomba es más barato que nunca: está en oferta por 198 euros' />
     </a>
 </div>
 
