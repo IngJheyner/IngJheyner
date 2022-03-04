@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417'>Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-5eu-descuento-amazones-creando-lista-deseos-1022417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-metido-caja-logo-amazon-2634619.jpg' alt='Cómo conseguir 5€ de descuento en Amazon.es creando una lista de deseos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583'>Señales para detectar un SMS fraudulento y no caer en la trampa del smishing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/senales-detectar-sms-fraudulento-no-caer-trampa-smishing-1022583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/smishing-2608593.jpg' alt='Señales para detectar un SMS fraudulento y no caer en la trampa del smishing' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161'>Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531773.jpg' alt='Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599'>Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/feedback-aire-gracias-ultrasonidos-proxima-gran-revolucion-realidad-virtual-1022599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realidad-virtual-2634967.jpg' alt='Feedback en el aire gracias a los ultrasonidos: así es la próxima gran revolución de la realidad virtual' />
     </a>
 </div>
 
