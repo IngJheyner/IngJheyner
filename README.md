@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333'>4 formas de acabar con las plagas de hormigas usando productos naturales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='4 formas de acabar con las plagas de hormigas usando productos naturales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115'>Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/noticias/life/trojena-ciudad-futuro-montanas-arabia-saudi-1022115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/presenta-trojena-ciudad-futuro-oculta-montanas-arabia-saudi-2634267.jpg' alt='Se presenta Trojena, una ciudad del futuro oculta en las montañas de Arabia Saudí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053'>Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-1022053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Filtradas las especificaciones del nuevo Samsung Galaxy M23 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097'>Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prixton-netbook-pro-ultrabook-oferta-1022097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/prixton-netbook-pro-ultrabook-ultrabarato-baja-solo-199-euros-2634221.jpg' alt='Prixton Netbook Pro, un ultrabook ultrabarato con Windows 10 Pro actualizable a Windows 11, baja a solo 199 euros' />
     </a>
 </div>
 
