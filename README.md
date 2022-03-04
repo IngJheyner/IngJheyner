@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569'>Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alexa-vs-alexa-demuestra-como-pueden-hackear-dispositivo-inteligente-escuchar-todo-dices-1022569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Alexa vs Alexa demuestra cómo pueden hackear tu dispositivo inteligente y escuchar todo lo que dices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-amd-unen-boicot-mundial-no-procesadores-rusia-bielorrusia-1022613'>Intel y AMD se unen al boicot mundial: no más procesadores para Rusia y Bielorrusia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-amd-unen-boicot-mundial-no-procesadores-rusia-bielorrusia-1022613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel y AMD se unen al boicot mundial: no más procesadores para Rusia y Bielorrusia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161'>Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-tablet-xiaomi-baja-precio-historico-gracias-codigo-1021161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531773.jpg' alt='Ganga en la tablet Xiaomi, que baja a su precio histórico más bajo gracias a un código' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565'>Este es el número mágico de pasos que tienes que dar al día para estar sano</a></h4>
     <a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/auten.jpg' alt='Este es el número mágico de pasos que tienes que dar al día para estar sano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-refrescos-personalizar-gusto-bebida-1022555'>La impresora de refrescos con la que puedes personalizar a tu gusto la bebida, hasta el más mínimo detalle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/impresora-refrescos-personalizar-gusto-bebida-1022555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cana-one-2634775.jpg' alt='La impresora de refrescos con la que puedes personalizar a tu gusto la bebida, hasta el más mínimo detalle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443'>¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/kiev-ucrania.jpg' alt='¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad' />
     </a>
 </div>
 
