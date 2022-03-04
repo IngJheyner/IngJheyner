@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/interior-galaxy-s22-ultra-mejoras-disipacion-complicada-reparabilidad-1022537'>Así es el interior de Galaxy S22 Ultra: mejoras en disipación y complicada reparabilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/interior-galaxy-s22-ultra-mejoras-disipacion-complicada-reparabilidad-1022537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s22-2634761.jpg' alt='Así es el interior de Galaxy S22 Ultra: mejoras en disipación y complicada reparabilidad' />
+    <h4><a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565'>Este es el número mágico de pasos que tienes que dar al día para estar sano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/numero-magico-pasos-tienes-dar-dia-estar-sano-1022565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/auten.jpg' alt='Este es el número mágico de pasos que tienes que dar al día para estar sano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cubrir-mwc-como-protagonizar-imposible-disfrazado-james-bond-1020297'>Cubrir un MWC es como protagonizar Lo Imposible disfrazado de James Bond</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cubrir-mwc-como-protagonizar-imposible-disfrazado-james-bond-1020297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/entrada-mwc-2022-barcelona-2631299.jpg' alt='Cubrir un MWC es como protagonizar Lo Imposible disfrazado de James Bond' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-refrescos-personalizar-gusto-bebida-1022555'>La impresora de refrescos con la que puedes personalizar a tu gusto la bebida, hasta el más mínimo detalle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/impresora-refrescos-personalizar-gusto-bebida-1022555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cana-one-2634775.jpg' alt='La impresora de refrescos con la que puedes personalizar a tu gusto la bebida, hasta el más mínimo detalle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asegurate-ninguna-20-contrasenas-filtradas-dark-web-1022427'>Asegúrate de que ninguna es la tuya: las 20 contraseñas más filtradas en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asegurate-ninguna-20-contrasenas-filtradas-dark-web-1022427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Asegúrate de que ninguna es la tuya: las 20 contraseñas más filtradas en la Dark Web' />
+    <h4><a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443'>¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/kyiv-no-kiev-cuestion-respeto-identidad-1022443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/kiev-ucrania.jpg' alt='¿Por qué Kyiv y no Kiev? Una cuestión de respeto e identidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llevas-usando-mal-whatsapp-toda-vida-errores-habituales-debes-evitar-1022515'>Llevas usando mal WhatsApp toda la vida: los errores más habituales que debes evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llevas-usando-mal-whatsapp-toda-vida-errores-habituales-debes-evitar-1022515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='Llevas usando mal WhatsApp toda la vida: los errores más habituales que debes evitar' />
+    <h4><a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935'>25 acertijos con respuesta para mantener tu mente activa</a></h4>
+    <a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/acertijo-2267643.jpg' alt='25 acertijos con respuesta para mantener tu mente activa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399'>Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-advierte-peligros-utilizar-starlink-ucrania-1022399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2631191.jpg' alt='Elon Musk advierte sobre los peligros de utilizar Starlink en Ucrania' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-barato-nunca-oferta-198-euros-1020503'>Este robot aspirador Roomba es más barato que nunca: está en oferta por 198 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-barato-nunca-oferta-198-euros-1020503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/irobot-roomba-692-2332085.jpg' alt='Este robot aspirador Roomba es más barato que nunca: está en oferta por 198 euros' />
     </a>
 </div>
 
