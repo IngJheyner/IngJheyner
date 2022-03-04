@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-10-4-new-edition-mejor-precio-oferta-199-euros-1022059'>Huawei MatePad 10.4 NE, una tablet que se puede convertir en tu portátil, ahora solo cuesta 219€ por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-10-4-new-edition-mejor-precio-oferta-199-euros-1022059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014991.jpg' alt='Huawei MatePad 10.4 NE, una tablet que se puede convertir en tu portátil, ahora solo cuesta 219€ por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/15-chollos-amazon-fin-semana-no-te-puedes-perder-1021057'>15 chollos de Amazon para el fin de semana que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/15-chollos-amazon-fin-semana-no-te-puedes-perder-1021057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='15 chollos de Amazon para el fin de semana que no te puedes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-tarifa-barata-anuncios-1022345'>Disney+ podría ofrecerte una tarifa más barata, si estás dispuesto a ver anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-tarifa-barata-anuncios-1022345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-2634511.jpg' alt='Disney+ podría ofrecerte una tarifa más barata, si estás dispuesto a ver anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/motivos-duele-cabeza-despertar-puede-hacer-1021909'>Los motivos por los que duele la cabeza al despertar y qué se puede hacer</a></h4>
     <a href='https://computerhoy.com/noticias/life/motivos-duele-cabeza-despertar-puede-hacer-1021909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dolor-cabeza-cama-2633707.jpg' alt='Los motivos por los que duele la cabeza al despertar y qué se puede hacer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/10-aspectos-revisar-antes-comprar-coche-segunda-mano-1021899'>10 aspectos a revisar antes de comprar un coche de segunda mano</a></h4>
     <a href='https://computerhoy.com/noticias/motor/10-aspectos-revisar-antes-comprar-coche-segunda-mano-1021899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-usado-2627991.jpg' alt='10 aspectos a revisar antes de comprar un coche de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1022335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2634507.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lg-oled-mejores-televisores-1022027'>LG OLED: estos son sus mejores televisores en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/lg-oled-mejores-televisores-1022027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lg-oled-c1-2634167.jpg' alt='LG OLED: estos son sus mejores televisores en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333'>4 formas de acabar con las plagas de hormigas usando productos naturales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/4-formas-acabar-plagas-hormigas-productos-naturales-1022333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='4 formas de acabar con las plagas de hormigas usando productos naturales' />
     </a>
 </div>
 
