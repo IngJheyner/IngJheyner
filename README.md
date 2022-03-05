@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641'>Por qué crear Alias en Gmail y cómo hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevo-logo-gmail-2093083.jpg' alt='Por qué crear Alias en Gmail y cómo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/bullfighter-neon-videojuego-retro-torear-1022719'>Bullfighter Neon, el videojuego retro de torear hecho en España, en donde los toros te disparan misiles</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/bullfighter-neon-videojuego-retro-torear-1022719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bullfighter-neon-videojuego-retro-torear-hecho-espana-donde-toros-te-disparan-misiles-2635261.jpg' alt='Bullfighter Neon, el videojuego retro de torear hecho en España, en donde los toros te disparan misiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713'>Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-segunda-guerra-mundial-bbc-retoma-transmisiones-onda-corta-rusia-no-pueden-hackear-2635253.jpg' alt='Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-chip-m1-descuento-350-euros-1022707'>El Apple MacBook Pro con Chip M1 recibe un descuento de 350 euros, y se queda a precio de portártil estándar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-chip-m1-descuento-350-euros-1022707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/nuevos-macbook-pro-14-16-pulgadas-2512969.jpg' alt='El Apple MacBook Pro con Chip M1 recibe un descuento de 350 euros, y se queda a precio de portártil estándar' />
     </a>
 </div>
 
