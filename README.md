@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117'>Samsung The Freestyle, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-freestyle-analisis-opinion-2634501.jpg' alt='Samsung The Freestyle, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457'>5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-magicbook-16-2631287.jpg' alt='5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715'>Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-tener-energia-fusion-ilimitada-gracias-calor-inagotable-nucleo-tierra-2633255.jpg' alt='Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933'>¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-manchas-blancas-unas-cinco-causas-provocan-como-evitarlo-2635469.jpg' alt='¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo' />
     </a>
 </div>
 
