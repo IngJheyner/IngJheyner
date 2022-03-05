@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975'>Qué es la “tasa Amazon” y cómo podría afectar a tus compras online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Qué es la “tasa Amazon” y cómo podría afectar a tus compras online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-cable-mitad-precio-cecotec-amazon-51-descuento-1022601'>Aspiradoras sin cable a mitad de precio, de Cecotec y en Amazon con hasta un 51% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-cable-mitad-precio-cecotec-amazon-51-descuento-1022601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cecotec-conga-rockstar-1500-ultimate-ergoflex-2489657.jpg' alt='Aspiradoras sin cable a mitad de precio, de Cecotec y en Amazon con hasta un 51% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967'>Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469'>¿Qué es el metaverso?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2634777.jpg' alt='¿Qué es el metaverso?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117'>Samsung The Freestyle, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-freestyle-analisis-opinion-2634501.jpg' alt='Samsung The Freestyle, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457'>5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-magicbook-16-2631287.jpg' alt='5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa' />
     </a>
 </div>
 
