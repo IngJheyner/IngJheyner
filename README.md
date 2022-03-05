@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933'>¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-manchas-blancas-unas-cinco-causas-provocan-como-evitarlo-2635469.jpg' alt='¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641'>Por qué crear Alias en Gmail y cómo hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevo-logo-gmail-2093083.jpg' alt='Por qué crear Alias en Gmail y cómo hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-nvidia-bloqueo-mineria-criptomonedas-1022717'>Los hackers que han robado a NVIDIA exigen que elimine el bloqueo a la minería de criptomonedas, o desvelarán datos confidenciales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackeo-nvidia-bloqueo-mineria-criptomonedas-1022717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-presenta-rtx-3080-12-gb-memoria-enfadando-aun-gamers-2583239.jpg' alt='Los hackers que han robado a NVIDIA exigen que elimine el bloqueo a la minería de criptomonedas, o desvelarán datos confidenciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713'>Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bbc-transmisiones-onda-corta-rusia-guerra-ucrania-1022713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-segunda-guerra-mundial-bbc-retoma-transmisiones-onda-corta-rusia-no-pueden-hackear-2635253.jpg' alt='Como en la Segunda Guerra Mundial: la BBC retoma las transmisiones de onda corta en Rusia, que no se pueden bloquear' />
     </a>
 </div>
 
