@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005'>Google necesita de tu ayuda para resolver este problema en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google necesita de tu ayuda para resolver este problema en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913'>Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157077.jpg' alt='Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999'>Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soy-leyenda-2635619.jpg' alt='Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987'>Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mavic-air-2-2635599.jpg' alt='Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros' />
     </a>
 </div>
 
