@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-lanzamiento-oppo-find-x5-5g-solo-999-euros-reloj-auriculares-inalambricos-regalo-1023071'>El nuevo lanzamiento OPPO Find X5 5G a solo 999 euros con un reloj y unos auriculares inalámbricos de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-lanzamiento-oppo-find-x5-5g-solo-999-euros-reloj-auriculares-inalambricos-regalo-1023071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ya-puedes-reservar-nuevo-oppo-find-x5-find-x5-pro-amazon-auriculares-smartwatch-gratis-2628275.jpg' alt='El nuevo lanzamiento OPPO Find X5 5G a solo 999 euros con un reloj y unos auriculares inalámbricos de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/beber-cerveza-dia-hara-envejezca-cerebro-rapido-cientificos-1023059'>Beber una cerveza al día hará que envejezca tu cerebro más rápido, según científicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/beber-cerveza-dia-hara-envejezca-cerebro-rapido-cientificos-1023059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg' alt='Beber una cerveza al día hará que envejezca tu cerebro más rápido, según científicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913'>Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157077.jpg' alt='Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011'>Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627249.jpg' alt='Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench' />
     </a>
 </div>
 
