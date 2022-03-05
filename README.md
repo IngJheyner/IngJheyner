@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967'>Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615'>Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457'>5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-magicbook-16-2631287.jpg' alt='5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983'>Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-limpiar-juntas-azulejos-usando-solo-ingredientes-naturales-2632107.jpg' alt='Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales' />
     </a>
 </div>
 
