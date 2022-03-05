@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beber-cerveza-dia-hara-envejezca-cerebro-rapido-cientificos-1023059'>Beber una cerveza al día hará que envejezca tu cerebro más rápido, según científicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beber-cerveza-dia-hara-envejezca-cerebro-rapido-cientificos-1023059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg' alt='Beber una cerveza al día hará que envejezca tu cerebro más rápido, según científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011'>Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627249.jpg' alt='Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685'>6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perdidos-2631793.jpg' alt='6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir' />
     </a>
 </div>
 
