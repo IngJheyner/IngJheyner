@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005'>Google necesita de tu ayuda para resolver este problema en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google necesita de tu ayuda para resolver este problema en Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685'>6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perdidos-2631793.jpg' alt='6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999'>Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soy-leyenda-2635619.jpg' alt='Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan' />
     </a>
 </div>
 
