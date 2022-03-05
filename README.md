@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913'>Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157077.jpg' alt='Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011'>Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-llevarian-4-anos-haciendo-trampa-benchmarks-geekbench-1023011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627249.jpg' alt='Los Samsung Galaxy llevarían 4 años haciendo trampa en benchmarks según Geekbench' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685'>6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-alargaron-demasiadas-temporadas-geniales-aburrir-1020685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perdidos-2631793.jpg' alt='6 series que se alargaron demasiadas temporadas y pasaron de ser geniales a aburrir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999'>Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/warner-bros-atreve-soy-leyenda-2-regreso-will-smith-estreno-michael-b-jordan-1022999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soy-leyenda-2635619.jpg' alt='Warner Bros se atreve con Soy Leyenda 2, con el regreso de Will Smith y el estreno de Michael B. Jordan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987'>Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mavic-air-2-2635599.jpg' alt='Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975'>Qué es la “tasa Amazon” y cómo podría afectar a tus compras online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Qué es la “tasa Amazon” y cómo podría afectar a tus compras online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-cable-mitad-precio-cecotec-amazon-51-descuento-1022601'>Aspiradoras sin cable a mitad de precio, de Cecotec y en Amazon con hasta un 51% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-cable-mitad-precio-cecotec-amazon-51-descuento-1022601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cecotec-conga-rockstar-1500-ultimate-ergoflex-2489657.jpg' alt='Aspiradoras sin cable a mitad de precio, de Cecotec y en Amazon con hasta un 51% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967'>Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-mac-studio-nueva-vision-mac-mini-mac-pro-1022967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2483517.jpg' alt='Apple trabajaría en el Mac Studio, su nueva visión entre el Mac Mini y el Mac Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615'>Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato' />
     </a>
 </div>
 
