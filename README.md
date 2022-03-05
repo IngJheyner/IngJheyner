@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987'>Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-te-permitira-desafiar-naturaleza-ahora-pack-todo-necesario-solo-899-euros-1022987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mavic-air-2-2635599.jpg' alt='Este dron te permitirá desafiar a la naturaleza y ahora con un pack con todo lo necesario a solo 899 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975'>Qué es la “tasa Amazon” y cómo podría afectar a tus compras online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tasa-amazon-como-podria-afectar-compras-online-1022975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Qué es la “tasa Amazon” y cómo podría afectar a tus compras online' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615'>Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469'>¿Qué es el metaverso?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2634777.jpg' alt='¿Qué es el metaverso?' />
     </a>
 </div>
 
