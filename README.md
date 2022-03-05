@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983'>Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-limpiar-juntas-azulejos-usando-solo-ingredientes-naturales-2632107.jpg' alt='Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>5 móviles realme que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg' alt='5 móviles realme que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715'>Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-tener-energia-fusion-ilimitada-gracias-calor-inagotable-nucleo-tierra-2633255.jpg' alt='Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933'>¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-manchas-blancas-unas-cinco-causas-provocan-como-evitarlo-2635469.jpg' alt='¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641'>Por qué crear Alias en Gmail y cómo hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevo-logo-gmail-2093083.jpg' alt='Por qué crear Alias en Gmail y cómo hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/bullfighter-neon-videojuego-retro-torear-1022719'>Bullfighter Neon, el videojuego retro de torear hecho en España, en donde los toros te disparan misiles</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/bullfighter-neon-videojuego-retro-torear-1022719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bullfighter-neon-videojuego-retro-torear-hecho-espana-donde-toros-te-disparan-misiles-2635261.jpg' alt='Bullfighter Neon, el videojuego retro de torear hecho en España, en donde los toros te disparan misiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-aire-caliente-936003'>Guía y consejos para comprar una pistola de aire caliente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-aire-caliente-936003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pistola-aire-caliente-2479627.jpg' alt='Guía y consejos para comprar una pistola de aire caliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-nvidia-bloqueo-mineria-criptomonedas-1022717'>Los hackers que han robado a NVIDIA exigen que elimine el bloqueo a la minería de criptomonedas, o desvelarán datos confidenciales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackeo-nvidia-bloqueo-mineria-criptomonedas-1022717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nvidia-presenta-rtx-3080-12-gb-memoria-enfadando-aun-gamers-2583239.jpg' alt='Los hackers que han robado a NVIDIA exigen que elimine el bloqueo a la minería de criptomonedas, o desvelarán datos confidenciales' />
     </a>
 </div>
 
