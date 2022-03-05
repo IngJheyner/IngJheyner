@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457'>5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/caracteristicas-honor-magicbook-16-merece-pena-1020457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-magicbook-16-2631287.jpg' alt='5 motivos por los que el Honor MagicBook 16 es un portátil a tener en cuenta si trabajas en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983'>Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-limpiar-juntas-azulejos-usando-solo-ingredientes-naturales-2632107.jpg' alt='Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933'>¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/manchas-blancas-unas-causas-tratamiento-1022933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-manchas-blancas-unas-cinco-causas-provocan-como-evitarlo-2635469.jpg' alt='¿Tienes manchas blancas en las uñas? Seis causas que las provocan, y cómo evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641'>Por qué crear Alias en Gmail y cómo hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/crear-alias-gmail-como-hacerlo-989641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevo-logo-gmail-2093083.jpg' alt='Por qué crear Alias en Gmail y cómo hacerlo' />
     </a>
 </div>
 
