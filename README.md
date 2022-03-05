@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615'>Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-oled-wifi-6-5g-iphone-13-compra-perfecta-ahora-70-euros-barato-1022615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Pantalla OLED, WiFi 6, 5G: el iPhone 13 es la compra perfecta ahora que está 70 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469'>¿Qué es el metaverso?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-1015469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2634777.jpg' alt='¿Qué es el metaverso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117'>Samsung The Freestyle, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-freestyle-review-opinion-1022117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-freestyle-analisis-opinion-2634501.jpg' alt='Samsung The Freestyle, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983'>Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-juntas-azulejos-ingredientes-naturales-1020983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-limpiar-juntas-azulejos-usando-solo-ingredientes-naturales-2632107.jpg' alt='Cómo limpiar las juntas de los azulejos usando solo ingredientes naturales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>5 móviles realme que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg' alt='5 móviles realme que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715'>Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/usan-tecnologia-fusion-obtener-energia-geotermica-ilimitada-gracias-calor-inagotable-nucleo-tierra-1021715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-tener-energia-fusion-ilimitada-gracias-calor-inagotable-nucleo-tierra-2633255.jpg' alt='Usan tecnología de fusión para obtener energía geotérmica ilimitada gracias al calor inagotable del núcleo de la Tierra' />
     </a>
 </div>
 
