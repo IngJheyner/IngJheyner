@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tomate-purpura-modificado-geneticamente-antioxidantes-1022463'>Llega a los supermercados el tomate púrpura, modificado genéticamente, y quiere ser el próximo superalimento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tomate-purpura-modificado-geneticamente-antioxidantes-1022463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-supermercados-tomate-purpura-modificado-geneticamente-quiere-ser-proximo-superalimento-2634653.jpg' alt='Llega a los supermercados el tomate púrpura, modificado genéticamente, y quiere ser el próximo superalimento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-lanzamiento-oppo-find-x5-5g-solo-999-euros-reloj-auriculares-inalambricos-regalo-1023071'>El nuevo lanzamiento OPPO Find X5 5G a solo 999 euros con un reloj y unos auriculares inalámbricos de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-lanzamiento-oppo-find-x5-5g-solo-999-euros-reloj-auriculares-inalambricos-regalo-1023071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ya-puedes-reservar-nuevo-oppo-find-x5-find-x5-pro-amazon-auriculares-smartwatch-gratis-2628275.jpg' alt='El nuevo lanzamiento OPPO Find X5 5G a solo 999 euros con un reloj y unos auriculares inalámbricos de regalo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005'>Google necesita de tu ayuda para resolver este problema en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google necesita de tu ayuda para resolver este problema en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913'>Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-ryzen-5-peso-ligero-portatil-huawei-windows-cuesta-menos-600-euros-1021913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/huawei-matebook-14-2020-analisis-opinion-2157077.jpg' alt='Pantalla 2K, Ryzen 5, peso ligero: este portátil Huawei con Windows cuesta menos de 600 euros' />
     </a>
 </div>
 
