@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343'>Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-x4-pro-2634061.jpg' alt='Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-1023335'>Ya puedes enviar tu nombre a la Luna en la misión Artemisa I de la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-1023335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-2636091.jpg' alt='Ya puedes enviar tu nombre a la Luna en la misión Artemisa I de la NASA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297'>Windows 11 te protegerá contra el malware con esta nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te protegerá contra el malware con esta nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275'>Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-wh1000xm3-2635965.jpg' alt='Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros' />
     </a>
 </div>
 
