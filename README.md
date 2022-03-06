@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275'>Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-wh1000xm3-2635965.jpg' alt='Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/regresa-peor-pesadilla-alien-tendra-nueva-pelicula-director-fede-alvarez-productor-ridley-scott-1023287'>Regresa tu peor pesadilla: Alien tendrá nueva película con el director Fede Álvarez y el productor Ridley Scott</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/regresa-peor-pesadilla-alien-tendra-nueva-pelicula-director-fede-alvarez-productor-ridley-scott-1023287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/alien-2635969.jpg' alt='Regresa tu peor pesadilla: Alien tendrá nueva película con el director Fede Álvarez y el productor Ridley Scott' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037'>Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/veneno-2630733.jpg' alt='Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561'>Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/huawei-watch-gt-2e-analisis-opinion-1928105.jpg' alt='Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259'>Llegan las encuestas a los grupos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='Llegan las encuestas a los grupos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695'>Cómo descargar vídeos de YouTube en el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descargar-youtube-2613543.jpg' alt='Cómo descargar vídeos de YouTube en el móvil' />
     </a>
 </div>
 
