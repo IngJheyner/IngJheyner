@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323'>MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-mag-trident-s-5m-pc-gaming-tarjeta-grafica-disenado-juego-nube-android-2636029.jpg' alt='MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297'>Windows 11 te protegerá contra el malware con esta nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te protegerá contra el malware con esta nueva característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037'>Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/veneno-2630733.jpg' alt='Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267'>Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung' />
     </a>
 </div>
 
