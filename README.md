@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881'>Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/feliz-2615559.jpg' alt='Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343'>Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-x4-pro-2634061.jpg' alt='Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323'>MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-mag-trident-s-5m-pc-gaming-tarjeta-grafica-disenado-juego-nube-android-2636029.jpg' alt='MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297'>Windows 11 te protegerá contra el malware con esta nueva característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te protegerá contra el malware con esta nueva característica' />
     </a>
 </div>
 
