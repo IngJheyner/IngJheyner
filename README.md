@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297'>Windows 11 te protegerá contra el malware con esta nueva característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-protegera-malware-nueva-caracteristica-1023297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te protegerá contra el malware con esta nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275'>Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-inalambricos-sony-cancelacion-ruido-compatible-alexa-google-assistant-estan-solo-199-euros-1023275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-wh1000xm3-2635965.jpg' alt='Estos auriculares inalámbricos Sony con cancelación de ruido y compatible con Alexa y Google Assistant están a solo 199 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267'>Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561'>Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/huawei-watch-gt-2e-analisis-opinion-1928105.jpg' alt='Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€' />
     </a>
 </div>
 
