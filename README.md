@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037'>Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/veneno-2630733.jpg' alt='Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267'>Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciberataque-podria-haber-expuesto-190-gb-datos-confidenciales-samsung-1023267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Un ciberataque podría haber expuesto hasta 190 GB de datos confidenciales de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561'>Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-2-smartwatch-deportivo-oferta-1022561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/huawei-watch-gt-2e-analisis-opinion-1928105.jpg' alt='Si te quieres poner en forma no te puede faltar un buen smartwatch: Huawei Watch GT 2 vigila tu cuerpo y solo cuesta 119€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259'>Llegan las encuestas a los grupos de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='Llegan las encuestas a los grupos de WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695'>Cómo descargar vídeos de YouTube en el móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descargar-youtube-2613543.jpg' alt='Cómo descargar vídeos de YouTube en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957'>Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991'>Las 10 webs y servicios que un padre debería bloquear a niños</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nina-movil-2619305.jpg' alt='Las 10 webs y servicios que un padre debería bloquear a niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073'>5 difusores de aromas y aceites esenciales baratos que tienen envío gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humidificador-aceites-esenciales-2635749.jpg' alt='5 difusores de aromas y aceites esenciales baratos que tienen envío gratis' />
     </a>
 </div>
 
