@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-dji-reclutados-ucrania-espiar-tropas-rusas-1023331'>Cientos de drones DJI que hace dos semanas fotografiaban paisajes, reclutados por Ucrania para espiar a las tropas rusas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-dji-reclutados-ucrania-espiar-tropas-rusas-1023331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445413.jpg' alt='Cientos de drones DJI que hace dos semanas fotografiaban paisajes, reclutados por Ucrania para espiar a las tropas rusas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323'>MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-mag-trident-s-5m-pc-gaming-tarjeta-grafica-disenado-juego-nube-android-2636029.jpg' alt='MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/regresa-peor-pesadilla-alien-tendra-nueva-pelicula-director-fede-alvarez-productor-ridley-scott-1023287'>Regresa tu peor pesadilla: Alien tendrá nueva película con el director Fede Álvarez y el productor Ridley Scott</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/regresa-peor-pesadilla-alien-tendra-nueva-pelicula-director-fede-alvarez-productor-ridley-scott-1023287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/alien-2635969.jpg' alt='Regresa tu peor pesadilla: Alien tendrá nueva película con el director Fede Álvarez y el productor Ridley Scott' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037'>Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-puedes-ver-atresplayer-1020037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/veneno-2630733.jpg' alt='Las 8 mejores series españolas que puedes ver en Atresplayer ahora mismo' />
     </a>
 </div>
 
