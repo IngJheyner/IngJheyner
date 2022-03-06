@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-dinero-bizum-varios-amigos-vez-1020591'>Cómo solicitar dinero por Bizum a varios amigos a la vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solicitar-dinero-bizum-varios-amigos-vez-1020591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bizum-2631605.jpg' alt='Cómo solicitar dinero por Bizum a varios amigos a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tomate-purpura-modificado-geneticamente-antioxidantes-1022463'>Llega a los supermercados el tomate púrpura, modificado genéticamente, y quiere ser el próximo superalimento</a></h4>
     <a href='https://computerhoy.com/noticias/life/tomate-purpura-modificado-geneticamente-antioxidantes-1022463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-supermercados-tomate-purpura-modificado-geneticamente-quiere-ser-proximo-superalimento-2634653.jpg' alt='Llega a los supermercados el tomate púrpura, modificado genéticamente, y quiere ser el próximo superalimento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005'>Google necesita de tu ayuda para resolver este problema en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-necesita-ayuda-resolver-problema-android-auto-1023005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google necesita de tu ayuda para resolver este problema en Android Auto' />
     </a>
 </div>
 
