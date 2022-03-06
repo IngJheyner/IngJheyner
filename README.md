@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991'>Las 10 webs y servicios que un padre debería bloquear a niños</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nina-movil-2619305.jpg' alt='Las 10 webs y servicios que un padre debería bloquear a niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073'>5 difusores de aromas y aceites esenciales baratos que tienen envío gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humidificador-aceites-esenciales-2635749.jpg' alt='5 difusores de aromas y aceites esenciales baratos que tienen envío gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/inventan-tecnica-purificar-aguas-residuales-peligro-salud-humana-1023067'>Inventan una técnica para purificar las aguas residuales sin peligro para la salud humana</a></h4>
     <a href='https://computerhoy.com/noticias/life/inventan-tecnica-purificar-aguas-residuales-peligro-salud-humana-1023067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aguas-residuales-2635735.jpg' alt='Inventan una técnica para purificar las aguas residuales sin peligro para la salud humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-bacteria-sale-tablas-mide-2-centimetros-ve-simple-vista-1022343'>Descubren una bacteria que se sale de las tablas: mide 2 centímetros y se ve a simple vista</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-bacteria-sale-tablas-mide-2-centimetros-ve-simple-vista-1022343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descubren-bacteria-rompe-todas-tablas-mide-2-centimetros-ve-simple-vista-2634509.jpg' alt='Descubren una bacteria que se sale de las tablas: mide 2 centímetros y se ve a simple vista' />
     </a>
 </div>
 
