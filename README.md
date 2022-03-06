@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259'>Llegan las encuestas a los grupos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-encuestas-grupos-whatsapp-1023259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='Llegan las encuestas a los grupos de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695'>Cómo descargar vídeos de YouTube en el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-movil-1010695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/descargar-youtube-2613543.jpg' alt='Cómo descargar vídeos de YouTube en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957'>Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073'>5 difusores de aromas y aceites esenciales baratos que tienen envío gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/life/5-difusores-aromas-aceites-esenciales-baratos-tienen-envio-gratis-1023073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humidificador-aceites-esenciales-2635749.jpg' alt='5 difusores de aromas y aceites esenciales baratos que tienen envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-como-no-lentes-camara-movil-1016589'>Como limpiar, y como no, las lentes de una cámara y tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-limpiar-como-no-lentes-camara-movil-1016589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/limpiando-camara-2623871.jpg' alt='Como limpiar, y como no, las lentes de una cámara y tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robots-insectos-capaces-realizar-tareas-espacios-dificil-acceso-1023065'>Crean unos robots insectos capaces de realizar tareas en espacios de difícil acceso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-robots-insectos-capaces-realizar-tareas-espacios-dificil-acceso-1023065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/grillo-2635731.jpg' alt='Crean unos robots insectos capaces de realizar tareas en espacios de difícil acceso' />
     </a>
 </div>
 
