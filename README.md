@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957'>Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tres-meses-libros-gratis-compra-kindle-ademas-ahora-precio-barato-1021957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='Tres meses de libros gratis al compra un Kindle, que además ahora está a su precio más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991'>Las 10 webs y servicios que un padre debería bloquear a niños</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-webs-servicios-padre-deberia-bloquear-ninos-1013991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nina-movil-2619305.jpg' alt='Las 10 webs y servicios que un padre debería bloquear a niños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robots-insectos-capaces-realizar-tareas-espacios-dificil-acceso-1023065'>Crean unos robots insectos capaces de realizar tareas en espacios de difícil acceso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-robots-insectos-capaces-realizar-tareas-espacios-dificil-acceso-1023065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/grillo-2635731.jpg' alt='Crean unos robots insectos capaces de realizar tareas en espacios de difícil acceso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/inventan-tecnica-purificar-aguas-residuales-peligro-salud-humana-1023067'>Inventan una técnica para purificar las aguas residuales sin peligro para la salud humana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/inventan-tecnica-purificar-aguas-residuales-peligro-salud-humana-1023067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aguas-residuales-2635735.jpg' alt='Inventan una técnica para purificar las aguas residuales sin peligro para la salud humana' />
     </a>
 </div>
 
