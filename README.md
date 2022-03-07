@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/auriculares-jbl-2636703.jpg' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-supuesto-diseno-primer-smartphone-nothing-1023851'>Este sería el supuesto diseño del primer smartphone de Nothing</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-supuesto-diseno-primer-smartphone-nothing-1023851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nothing-ear-1-2419915.jpg' alt='Este sería el supuesto diseño del primer smartphone de Nothing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847'>vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-y01-2637019.jpg' alt='vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817'>La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-marcarse-apple-incluso-gamas-smartphones-baratas-1023805'>Samsung quiere “marcarse un Apple” incluso en sus gamas de smartphones más baratas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-marcarse-apple-incluso-gamas-smartphones-baratas-1023805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Samsung quiere “marcarse un Apple” incluso en sus gamas de smartphones más baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771'>Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entramos-dentro-one-wolrd-trade-center-rascacielos-alto-hemisferio-occidental-video-2359867.jpg' alt='Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas' />
     </a>
 </div>
 
