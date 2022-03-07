@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557'>Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/imagen-promocional-google-pixel-watch-2552651.jpg' alt='Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ryan-reynolds-director-free-guy-lanzan-nueva-pelicula-1023545'>Todos los estrenos de la semana en Netflix: Ryan Reynolds y el director de Free Guy lanzan una nueva película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ryan-reynolds-director-free-guy-lanzan-nueva-pelicula-1023545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/proyecto-adam-2612695.jpg' alt='Todos los estrenos de la semana en Netflix: Ryan Reynolds y el director de Free Guy lanzan una nueva película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-mateview-gt-27-oferta-299-euros-1022577'>Tu vista agradecerá este monitor Huawei MateView GT de 27", curvo y de alta resolución con un descuento de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-mateview-gt-27-oferta-299-euros-1022577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-mateview-gt-2634913.jpg' alt='Tu vista agradecerá este monitor Huawei MateView GT de 27", curvo y de alta resolución con un descuento de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-tambien-suspende-servicios-rusia-semana-presiones-1023529'>Netflix también suspende sus servicios en Rusia tras una semana de presiones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-tambien-suspende-servicios-rusia-semana-presiones-1023529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Netflix también suspende sus servicios en Rusia tras una semana de presiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizar-ia-cultivar-alimentos-puede-ser-peligroso-1022531'>Utilizar la IA para cultivar alimentos puede ser peligroso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizar-ia-cultivar-alimentos-puede-ser-peligroso-1022531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/inteligencia-artificial-2585261.jpg' alt='Utilizar la IA para cultivar alimentos puede ser peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/delorean-dmc-12-sera-coche-electrico-mismo-verano-1022523'>El DeLorean DMC-12 será un coche eléctrico este mismo verano</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/delorean-dmc-12-sera-coche-electrico-mismo-verano-1022523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/delorean-dmc-12-electrico-2626293.jpg' alt='El DeLorean DMC-12 será un coche eléctrico este mismo verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1023513'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1023513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2636275.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-regalar-dia-padre-1023337'>Los mejores móviles que puedes regalar para el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-regalar-dia-padre-1023337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-sujetando-movil-negro-2636105.jpg' alt='Los mejores móviles que puedes regalar para el Día del Padre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881'>Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/feliz-2615559.jpg' alt='Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día' />
     </a>
 </div>
 
