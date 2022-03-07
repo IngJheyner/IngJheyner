@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743'>Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/100-minutos-bateria-1800-pa-potencia-robot-aspirador-119-euros-chollo-amazon-1023265'>100 minutos de batería y 1800 Pa de potencia: este robot aspirador de 119 euros es un chollo de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/100-minutos-bateria-1800-pa-potencia-robot-aspirador-119-euros-chollo-amazon-1023265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg' alt='100 minutos de batería y 1800 Pa de potencia: este robot aspirador de 119 euros es un chollo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709'>Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677'>eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-2636637.jpg' alt='eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-ddr5-caracteristicas-929339'>Memoria RAM DDR5: diferencias con DDR4 y todo lo que debes saber de la nueva generación de memorias RAM</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-ddr5-caracteristicas-929339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ddr5-diferencias-ddr4-todo-debes-saber-nueva-generacion-memoria-ram-pc-2466523.jpg' alt='Memoria RAM DDR5: diferencias con DDR4 y todo lo que debes saber de la nueva generación de memorias RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-ideal-trabajar-casa-sorprendentemente-barato-cuesta-solo-254-euros-1021123'>Este Mini PC con Windows 10 es ideal para trabajar en casa, y sorprendentemente barato: cuesta solo 254 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-ideal-trabajar-casa-sorprendentemente-barato-cuesta-solo-254-euros-1021123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minis-forum-jb95-2632395.jpg' alt='Este Mini PC con Windows 10 es ideal para trabajar en casa, y sorprendentemente barato: cuesta solo 254 euros' />
     </a>
 </div>
 
