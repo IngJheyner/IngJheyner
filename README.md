@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847'>vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-y01-2637019.jpg' alt='vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cadenas-supermercados-estan-limitando-venta-aceite-girasol-1023821'>Cadenas de supermercados que están limitando la venta de aceite de girasol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cadenas-supermercados-estan-limitando-venta-aceite-girasol-1023821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635213.jpg' alt='Cadenas de supermercados que están limitando la venta de aceite de girasol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817'>La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771'>Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas</a></h4>
     <a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entramos-dentro-one-wolrd-trade-center-rascacielos-alto-hemisferio-occidental-video-2359867.jpg' alt='Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-no-ha-salido-ya-puedes-comprar-oneplus-nord-ce-2-oferta-347-euros-1023601'>Todavía no ha salido y ya puedes comprar un OnePlus Nord CE 2 en oferta por 347 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todavia-no-ha-salido-ya-puedes-comprar-oneplus-nord-ce-2-oferta-347-euros-1023601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629381.jpg' alt='Todavía no ha salido y ya puedes comprar un OnePlus Nord CE 2 en oferta por 347 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743'>Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers' />
     </a>
 </div>
 
