@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577'>Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/algodon-azucar-2636337.jpg' alt='Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/samsung-hace-oficiales-galaxy-m23-m33-pantallas-66-pulgadas-encima-5000-mah-1023581'>Samsung hace oficiales los Galaxy M23 y M33: pantallas de 6,6 pulgadas y por encima de los 5.000 mAh</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-hace-oficiales-galaxy-m23-m33-pantallas-66-pulgadas-encima-5000-mah-1023581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Samsung hace oficiales los Galaxy M23 y M33: pantallas de 6,6 pulgadas y por encima de los 5.000 mAh' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591'>15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trafico-2424017.jpg' alt='15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-anunciar-oficialmente-chip-m2-semana-1023573'>Apple podría anunciar oficialmente el chip M2 esta semana junto al iPhone SE 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-anunciar-oficialmente-chip-m2-semana-1023573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Apple podría anunciar oficialmente el chip M2 esta semana junto al iPhone SE 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557'>Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/imagen-promocional-google-pixel-watch-2552651.jpg' alt='Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ryan-reynolds-director-free-guy-lanzan-nueva-pelicula-1023545'>Todos los estrenos de la semana en Netflix: Ryan Reynolds y el director de Free Guy lanzan una nueva película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-ryan-reynolds-director-free-guy-lanzan-nueva-pelicula-1023545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/proyecto-adam-2612695.jpg' alt='Todos los estrenos de la semana en Netflix: Ryan Reynolds y el director de Free Guy lanzan una nueva película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-mateview-gt-27-oferta-299-euros-1022577'>Tu vista agradecerá este monitor Huawei MateView GT de 27", curvo y de alta resolución con un descuento de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-huawei-mateview-gt-27-oferta-299-euros-1022577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-mateview-gt-2634913.jpg' alt='Tu vista agradecerá este monitor Huawei MateView GT de 27", curvo y de alta resolución con un descuento de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-tambien-suspende-servicios-rusia-semana-presiones-1023529'>Netflix también suspende sus servicios en Rusia tras una semana de presiones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-tambien-suspende-servicios-rusia-semana-presiones-1023529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-android-2477873.jpg' alt='Netflix también suspende sus servicios en Rusia tras una semana de presiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizar-ia-cultivar-alimentos-puede-ser-peligroso-1022531'>Utilizar la IA para cultivar alimentos puede ser peligroso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utilizar-ia-cultivar-alimentos-puede-ser-peligroso-1022531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/inteligencia-artificial-2585261.jpg' alt='Utilizar la IA para cultivar alimentos puede ser peligroso' />
     </a>
 </div>
 
