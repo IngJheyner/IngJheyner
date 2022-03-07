@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935'>Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-solo-cuesta-499-euros-quedan-pocas-unidades-2637255.jpg' alt='Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915'>Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-2637245.jpg' alt='Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929'>Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-puede-haber-llevado-paso-lejos-bloqueo-rusia-ha-borrado-peliculas-2637249.jpg' alt='Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909'>Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-1023899'>Mac Studio: así sería el hermano mayor del Mac Mini que Apple presentará mañana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-1023899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-2637201.jpg' alt='Mac Studio: así sería el hermano mayor del Mac Mini que Apple presentará mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907'>Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/esperamos-keynote-peak-performance-apple-manana-2637217.jpg' alt='Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana' />
     </a>
 </div>
 
