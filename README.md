@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/auriculares-jbl-2636703.jpg' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909'>Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-supuesto-diseno-primer-smartphone-nothing-1023851'>Este sería el supuesto diseño del primer smartphone de Nothing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-supuesto-diseno-primer-smartphone-nothing-1023851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nothing-ear-1-2419915.jpg' alt='Este sería el supuesto diseño del primer smartphone de Nothing' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-1023899'>Mac Studio: así sería el hermano mayor del Mac Mini que Apple presentará mañana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-1023899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-seria-hermano-mayor-mac-mini-apple-presentara-manana-2637201.jpg' alt='Mac Studio: así sería el hermano mayor del Mac Mini que Apple presentará mañana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847'>vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-y01-llega-espana-mediatek-helio-p35-bateria-5000-mah-camara-13-mpx-1023847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-y01-2637019.jpg' alt='vivo Y01 llega a España: MediaTek Helio P35, batería de 5.000 mAh y una cámara de 13 Mpx' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907'>Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/esperamos-keynote-peak-performance-apple-manana-2637217.jpg' alt='Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cadenas-supermercados-estan-limitando-venta-aceite-girasol-1023821'>Cadenas de supermercados que están limitando la venta de aceite de girasol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cadenas-supermercados-estan-limitando-venta-aceite-girasol-1023821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635213.jpg' alt='Cadenas de supermercados que están limitando la venta de aceite de girasol' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peculiar-definicion-steve-wozniak-bitcoin-oro-puro-1023903'>La peculiar definición de Steve Wozniak de Bitcoin: “es oro puro”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peculiar-definicion-steve-wozniak-bitcoin-oro-puro-1023903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2637211.jpg' alt='La peculiar definición de Steve Wozniak de Bitcoin: “es oro puro”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817'>La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha' />
+    <h4><a href='https://computerhoy.com/noticias/motor/sirve-tapa-plastico-oculta-motores-1023721'>Para qué sirve la tapa de plástico que oculta los motores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sirve-tapa-plastico-oculta-motores-1023721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motor-20-tsi-volkswagen-golf-gti-clubsport-2605863.jpg' alt='Para qué sirve la tapa de plástico que oculta los motores' />
     </a>
 </div>
 
