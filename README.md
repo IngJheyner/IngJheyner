@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817'>La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-actualizacion-windows-11-oficial-mayor-cambio-fecha-1023817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='La gran actualización de Windows 11 es oficial: así es el mayor cambio hasta la fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-marcarse-apple-incluso-gamas-smartphones-baratas-1023805'>Samsung quiere “marcarse un Apple” incluso en sus gamas de smartphones más baratas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-marcarse-apple-incluso-gamas-smartphones-baratas-1023805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Samsung quiere “marcarse un Apple” incluso en sus gamas de smartphones más baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771'>Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edificio-alto-mundo-jamas-ideado-4-km-alto-capacidad-millon-personas-1023771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entramos-dentro-one-wolrd-trade-center-rascacielos-alto-hemisferio-occidental-video-2359867.jpg' alt='Así es el edificio más alto del mundo jamás ideado: 4 km de alto y capacidad para un millón de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-no-ha-salido-ya-puedes-comprar-oneplus-nord-ce-2-oferta-347-euros-1023601'>Todavía no ha salido y ya puedes comprar un OnePlus Nord CE 2 en oferta por 347 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todavia-no-ha-salido-ya-puedes-comprar-oneplus-nord-ce-2-oferta-347-euros-1023601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629381.jpg' alt='Todavía no ha salido y ya puedes comprar un OnePlus Nord CE 2 en oferta por 347 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743'>Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-no-paran-bajar-precio-buenas-noticias-gamers-1023743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='Las tarjetas gráficas no paran de bajar de precio, buenas noticias para los gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/100-minutos-bateria-1800-pa-potencia-robot-aspirador-119-euros-chollo-amazon-1023265'>100 minutos de batería y 1800 Pa de potencia: este robot aspirador de 119 euros es un chollo de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/100-minutos-bateria-1800-pa-potencia-robot-aspirador-119-euros-chollo-amazon-1023265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg' alt='100 minutos de batería y 1800 Pa de potencia: este robot aspirador de 119 euros es un chollo de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709'>Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendacion-expertos-seguridad-empresas-aplicar-casa-1023695'>La recomendación que los expertos en seguridad están haciendo a las empresas y que deberías aplicar también en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recomendacion-expertos-seguridad-empresas-aplicar-casa-1023695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/botor-encender-apagar-ordenador-2636645.jpg' alt='La recomendación que los expertos en seguridad están haciendo a las empresas y que deberías aplicar también en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677'>eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-2636637.jpg' alt='eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria' />
     </a>
 </div>
 
