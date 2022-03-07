@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/delorean-dmc-12-sera-coche-electrico-mismo-verano-1022523'>El DeLorean DMC-12 será un coche eléctrico este mismo verano</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/delorean-dmc-12-sera-coche-electrico-mismo-verano-1022523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/delorean-dmc-12-electrico-2626293.jpg' alt='El DeLorean DMC-12 será un coche eléctrico este mismo verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1023513'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1023513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2636275.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-regalar-dia-padre-1023337'>Los mejores móviles que puedes regalar para el Día del Padre</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-regalar-dia-padre-1023337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-sujetando-movil-negro-2636105.jpg' alt='Los mejores móviles que puedes regalar para el Día del Padre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881'>Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-habitos-tecnologicos-te-haran-estar-feliz-dia-dia-1011881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/feliz-2615559.jpg' alt='Los 5 hábitos tecnológicos que te harán estar más feliz en tu día a día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343'>Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-1023343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-x4-pro-2634061.jpg' alt='Acaba de salir, pero ya puedes conseguir el deseado POCO X4 Pro 5G por solo 319 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-1023335'>Ya puedes enviar tu nombre a la Luna en la misión Artemisa I de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-1023335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-2636091.jpg' alt='Ya puedes enviar tu nombre a la Luna en la misión Artemisa I de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-dji-reclutados-ucrania-espiar-tropas-rusas-1023331'>Cientos de drones DJI que hace dos semanas fotografiaban paisajes, reclutados por Ucrania para espiar a las tropas rusas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-dji-reclutados-ucrania-espiar-tropas-rusas-1023331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-dji-air-2s-2445413.jpg' alt='Cientos de drones DJI que hace dos semanas fotografiaban paisajes, reclutados por Ucrania para espiar a las tropas rusas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323'>MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/msi-mag-trident-s-5m-pc-gaming-sin-tarjeta-grafica-juego-nube-android-1023323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-mag-trident-s-5m-pc-gaming-tarjeta-grafica-disenado-juego-nube-android-2636029.jpg' alt='MSI MAG Trident S 5M, el PC gaming sin tarjeta gráfica diseñado para el juego en la nube y Android' />
     </a>
 </div>
 
