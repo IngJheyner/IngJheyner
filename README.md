@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929'>Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-puede-haber-llevado-paso-lejos-bloqueo-rusia-ha-borrado-peliculas-2637249.jpg' alt='Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723'>Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twisted-metal-2472569.jpg' alt='Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909'>Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907'>Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/keynote-peak-performance-apple-8-marzo-1023907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/esperamos-keynote-peak-performance-apple-manana-2637217.jpg' alt='Esto es lo que esperamos de la keynote Peak Performance de Apple de mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/peculiar-definicion-steve-wozniak-bitcoin-oro-puro-1023903'>La peculiar definición de Steve Wozniak de Bitcoin: “es oro puro”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/peculiar-definicion-steve-wozniak-bitcoin-oro-puro-1023903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2637211.jpg' alt='La peculiar definición de Steve Wozniak de Bitcoin: “es oro puro”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sirve-tapa-plastico-oculta-motores-1023721'>Para qué sirve la tapa de plástico que oculta los motores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sirve-tapa-plastico-oculta-motores-1023721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/motor-20-tsi-volkswagen-golf-gti-clubsport-2605863.jpg' alt='Para qué sirve la tapa de plástico que oculta los motores' />
     </a>
 </div>
 
