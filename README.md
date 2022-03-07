@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-funciona-comunidad-nueva-pestana-tendras-muy-pronto-whatsapp-1023635'>Cómo funciona “Comunidad”, la nueva pestaña que tendrás muy pronto en tu WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/como-funciona-comunidad-nueva-pestana-tendras-muy-pronto-whatsapp-1023635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chats-whatsapp-2628591.jpg' alt='Cómo funciona “Comunidad”, la nueva pestaña que tendrás muy pronto en tu WhatsApp' />
+    <h4><a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709'>Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-esenciales-primero-empezaran-escasear-subir-mucho-precio-guerra-ucrania-1023709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='Productos esenciales que primero empezarán a escasear o subir mucho de precio por la guerra en Ucrania' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/previsiones-ocu-precios-gas-electricidad-ponen-pelos-punta-1023655'>Las previsiones de la OCU sobre los precios del gas y la electricidad que ponen los pelos de punta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/previsiones-ocu-precios-gas-electricidad-ponen-pelos-punta-1023655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/electricidad-euro-2636485.jpg' alt='Las previsiones de la OCU sobre los precios del gas y la electricidad que ponen los pelos de punta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendacion-expertos-seguridad-empresas-aplicar-casa-1023695'>La recomendación que los expertos en seguridad están haciendo a las empresas y que deberías aplicar también en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recomendacion-expertos-seguridad-empresas-aplicar-casa-1023695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/botor-encender-apagar-ordenador-2636645.jpg' alt='La recomendación que los expertos en seguridad están haciendo a las empresas y que deberías aplicar también en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597'>HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile</a></h4>
-    <a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tiempo-victoria-dinastia-lakers-2636349.jpg' alt='HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677'>eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-1023677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ebay-alcanza-acuerdo-entendimiento-agencia-tributaria-2636637.jpg' alt='eBay alcanza un acuerdo de entendimiento con la Agencia Tributaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-55l-ganga-ahora-mismo-cuesta-109-euros-espanola-cecotec-1021893'>Esta freidora de aire de 5,5L es una ganga ahora mismo: cuesta 109 euros y es de la española Cecotec</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-55l-ganga-ahora-mismo-cuesta-109-euros-espanola-cecotec-1021893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-cecofry-advance-5000-black-2633681.jpg' alt='Esta freidora de aire de 5,5L es una ganga ahora mismo: cuesta 109 euros y es de la española Cecotec' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-ddr5-caracteristicas-929339'>Memoria RAM DDR5: diferencias con DDR4 y todo lo que debes saber de la nueva generación de memorias RAM</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-ddr5-caracteristicas-929339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ddr5-diferencias-ddr4-todo-debes-saber-nueva-generacion-memoria-ram-pc-2466523.jpg' alt='Memoria RAM DDR5: diferencias con DDR4 y todo lo que debes saber de la nueva generación de memorias RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577'>Vuelve a Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/algodon-azucar-2636337.jpg' alt='Vuelve a Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-ideal-trabajar-casa-sorprendentemente-barato-cuesta-solo-254-euros-1021123'>Este Mini PC con Windows 10 es ideal para trabajar en casa, y sorprendentemente barato: cuesta solo 254 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-ideal-trabajar-casa-sorprendentemente-barato-cuesta-solo-254-euros-1021123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minis-forum-jb95-2632395.jpg' alt='Este Mini PC con Windows 10 es ideal para trabajar en casa, y sorprendentemente barato: cuesta solo 254 euros' />
     </a>
 </div>
 
