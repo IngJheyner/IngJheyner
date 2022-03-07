@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943'>El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido </a></h4>
+    <a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/producto-ha-recaudado-kickstarter-proyecto-secreto-nadie-conoce-contenido-2637269.jpg' alt='El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935'>Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-solo-cuesta-499-euros-quedan-pocas-unidades-2637255.jpg' alt='Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723'>Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twisted-metal-2472569.jpg' alt='Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909'>Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-defrauda-aspectos-clave-consumidores-ultima-encuesta-ocu-1023909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona defrauda en uno de los aspectos clave para los consumidores según la última encuesta de OCU' />
     </a>
 </div>
 
