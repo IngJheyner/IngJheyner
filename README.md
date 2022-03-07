@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-funciona-comunidad-nueva-pestana-tendras-muy-pronto-whatsapp-1023635'>Cómo funciona “Comunidad”, la nueva pestaña que tendrás muy pronto en tu WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/como-funciona-comunidad-nueva-pestana-tendras-muy-pronto-whatsapp-1023635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chats-whatsapp-2628591.jpg' alt='Cómo funciona “Comunidad”, la nueva pestaña que tendrás muy pronto en tu WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/previsiones-ocu-precios-gas-electricidad-ponen-pelos-punta-1023655'>Las previsiones de la OCU sobre los precios del gas y la electricidad que ponen los pelos de punta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/previsiones-ocu-precios-gas-electricidad-ponen-pelos-punta-1023655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/electricidad-euro-2636485.jpg' alt='Las previsiones de la OCU sobre los precios del gas y la electricidad que ponen los pelos de punta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597'>HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile</a></h4>
     <a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tiempo-victoria-dinastia-lakers-2636349.jpg' alt='HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577'>Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577'>Vuelve a Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/algodon-azucar-2636337.jpg' alt='Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/samsung-hace-oficiales-galaxy-m23-m33-pantallas-66-pulgadas-encima-5000-mah-1023581'>Samsung hace oficiales los Galaxy M23 y M33: pantallas de 6,6 pulgadas y por encima de los 5.000 mAh</a></h4>
-    <a href='https://computerhoy.com/noticias/samsung-hace-oficiales-galaxy-m23-m33-pantallas-66-pulgadas-encima-5000-mah-1023581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='Samsung hace oficiales los Galaxy M23 y M33: pantallas de 6,6 pulgadas y por encima de los 5.000 mAh' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591'>15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trafico-2424017.jpg' alt='15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/algodon-azucar-2636337.jpg' alt='Vuelve a Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos' />
     </a>
 </div>
 
