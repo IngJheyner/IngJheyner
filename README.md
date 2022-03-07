@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597'>HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile</a></h4>
+    <a href='https://computerhoy.com/noticias/hbo-max-ha-estrenado-serie-nba-quedaron-ganas-ultimo-baile-1023597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tiempo-victoria-dinastia-lakers-2636349.jpg' alt='HBO Max ha estrenado una serie sobre la NBA para los que se quedaron con ganas de más tras El último baile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-55l-ganga-ahora-mismo-cuesta-109-euros-espanola-cecotec-1021893'>Esta freidora de aire de 5,5L es una ganga ahora mismo: cuesta 109 euros y es de la española Cecotec</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-55l-ganga-ahora-mismo-cuesta-109-euros-espanola-cecotec-1021893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-cecofry-advance-5000-black-2633681.jpg' alt='Esta freidora de aire de 5,5L es una ganga ahora mismo: cuesta 109 euros y es de la española Cecotec' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577'>Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelve-lidl-maquina-algodon-1023577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/algodon-azucar-2636337.jpg' alt='Vuelve a la Lidl la máquina que siempre quisiste tener de pequeño y que encantará a tus hijos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591'>15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años</a></h4>
     <a href='https://computerhoy.com/noticias/motor/15-dias-dgt-active-cambios-importantes-ley-trafico-ultimos-anos-1023591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trafico-2424017.jpg' alt='15 días para que la DGT active uno de los cambios más importantes de la Ley de Tráfico en los últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-anunciar-oficialmente-chip-m2-semana-1023573'>Apple podría anunciar oficialmente el chip M2 esta semana junto al iPhone SE 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-anunciar-oficialmente-chip-m2-semana-1023573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Apple podría anunciar oficialmente el chip M2 esta semana junto al iPhone SE 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557'>Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-controles-tactiles-piel-podrian-llegar-nuevos-pixel-buds-watch-google-1023557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/imagen-promocional-google-pixel-watch-2552651.jpg' alt='Así son los controles táctiles sobre la piel que podrían llegar con los nuevos Pixel Buds y Watch de Google' />
     </a>
 </div>
 
