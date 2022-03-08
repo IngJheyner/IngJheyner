@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-combustible-verde-sustituto-combustibles-fosiles-coches-mayor-planta-fabricacion-hidrogeno-1024325'>Así se consigue el combustible verde sustituto de combustibles fósiles para coches: el hidrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-combustible-verde-sustituto-combustibles-fosiles-coches-mayor-planta-fabricacion-hidrogeno-1024325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/hidrogeno_1.jpg' alt='Así se consigue el combustible verde sustituto de combustibles fósiles para coches: el hidrógeno' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287'>Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-gasolinera-baratas-ubicacion-utilizando-google-maps-1024259'>Cómo encontrar las gasolinera más baratas según tu ubicación, utilizando Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-gasolinera-baratas-ubicacion-utilizando-google-maps-1024259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2637585.jpg' alt='Cómo encontrar las gasolinera más baratas según tu ubicación, utilizando Google Maps' />
+    <h4><a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361'>Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-movil-2637827.jpg' alt='Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-da-tecla-problema-rendimiento-ryzen-windows-11-1024323'>AMD da con la tecla del problema de rendimiento de los Ryzen en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-da-tecla-problema-rendimiento-ryzen-windows-11-1024323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amd-ryzen-4000h-2571429.jpg' alt='AMD da con la tecla del problema de rendimiento de los Ryzen en Windows 11' />
+    <h4><a href='https://computerhoy.com/reportajes/life/nuevas-tarifas-luz-junio-2021-872927'>Todo lo que debes saber de las tarifas de la luz en 2022 y trucos para pagar menos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/nuevas-tarifas-luz-junio-2021-872927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Todo lo que debes saber de las tarifas de la luz en 2022 y trucos para pagar menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225'>Una terapia consigue revertir, no frenar, el envejecimiento en ratones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/raton-2637563.jpg' alt='Una terapia consigue revertir, no frenar, el envejecimiento en ratones' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-casi-regalo-cuesta-267-euros-tiene-envio-gratis-1023281'>Esta bombilla inteligente es casi un regalo: cuesta 2,67 euros y tiene envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-casi-regalo-cuesta-267-euros-tiene-envio-gratis-1023281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bombilla-inteligente-rgb-2503835.jpg' alt='Esta bombilla inteligente es casi un regalo: cuesta 2,67 euros y tiene envío gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219'>Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/cierto-gasolina-limpia-inyectores-coche-diesel.jpg' alt='Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-podria-legalizar-pirateria-como-medida-combatir-bloqueo-software-1024349'>Rusia podría legalizar la piratería como medida para combatir el bloqueo de software</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusia-podria-legalizar-pirateria-como-medida-combatir-bloqueo-software-1024349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Rusia podría legalizar la piratería como medida para combatir el bloqueo de software' />
     </a>
 </div>
 
