@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593'>Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561'>La OCU deja claro que es absurdo hacer acopio de aceite de girasol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635573.jpg' alt='La OCU deja claro que es absurdo hacer acopio de aceite de girasol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-17-aniversario-pccomponentes-1024283'>10 ofertas por el aniversario de PcComponentes que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-17-aniversario-pccomponentes-1024283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caja-pccomponentes-2621215.jpg' alt='10 ofertas por el aniversario de PcComponentes que no te puedes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-943553'>La función que llevan todos los coches modernos y que deberías desactivar para evitar averías</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-943553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-2493711.jpg' alt='La función que llevan todos los coches modernos y que deberías desactivar para evitar averías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-microsoft-apple-suspenden-productos-son-oficialmente-dificiles-reparar-1024529'>Google, Microsoft y Apple suspenden: sus productos son, oficialmente, difíciles de reparar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-microsoft-apple-suspenden-productos-son-oficialmente-dificiles-reparar-1024529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reparar-movil-2252179.jpg' alt='Google, Microsoft y Apple suspenden: sus productos son, oficialmente, difíciles de reparar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/estos-son-dias-tendrias-jugar-nueva-nintendo-switch-quemar-panel-oled-1024511'>Estos son los días que tendrías que jugar a la nueva Nintendo Switch para quemar su panel OLED</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/estos-son-dias-tendrias-jugar-nueva-nintendo-switch-quemar-panel-oled-1024511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='Estos son los días que tendrías que jugar a la nueva Nintendo Switch para quemar su panel OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-puzles-android-2022-tienes-descargar-ya-mismo-996191'>Los 9 mejores juegos de puzles para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-puzles-android-2022-tienes-descargar-ya-mismo-996191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-2636857.jpg' alt='Los 9 mejores juegos de puzles para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-detectar-enfermedades-raras-ninos-solo-foto-1024497'>Una app para detectar enfermedades raras en niños solo con una foto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-detectar-enfermedades-raras-ninos-solo-foto-1024497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='Una app para detectar enfermedades raras en niños solo con una foto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383'>Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2637851.jpg' alt='Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios' />
     </a>
 </div>
 
