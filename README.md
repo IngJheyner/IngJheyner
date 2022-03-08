@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163'>Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sindrome-culo-muerto-amnesia-glutea-podrias-sufrirlo-saberlo-te-duele-espalda-2637483.jpg' alt='Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949'>LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/litepulse-lampara-funciona-agua-sal-recarga-movil-2637273.jpg' alt='LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915'>Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-2637245.jpg' alt='Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929'>Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-puede-haber-llevado-paso-lejos-bloqueo-rusia-ha-borrado-peliculas-2637249.jpg' alt='Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?' />
     </a>
 </div>
 
