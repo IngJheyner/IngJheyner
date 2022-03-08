@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225'>Una terapia consigue revertir, no frenar, el envejecimiento en ratones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/raton-2637563.jpg' alt='Una terapia consigue revertir, no frenar, el envejecimiento en ratones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219'>Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/cierto-gasolina-limpia-inyectores-coche-diesel.jpg' alt='Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-bucle-temporal-netflix-muneca-rusa-1024263'>La serie del bucle temporal continúa en Netflix tres años después</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-bucle-temporal-netflix-muneca-rusa-1024263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/muneca-rusa-2637589.jpg' alt='La serie del bucle temporal continúa en Netflix tres años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aun-barato-apple-watch-baja-261euros-1023271'>Aún más barato: el Apple Watch SE baja a 261 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aun-barato-apple-watch-baja-261euros-1023271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-watch-series-7-2472439.jpg' alt='Aún más barato: el Apple Watch SE baja a 261 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223'>Las 10 gasolineras más baratas de España el 8 de marzo de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Las 10 gasolineras más baratas de España el 8 de marzo de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/god-war-mejor-juego-2018-punto-convertirse-serie-amazon-1024215'>God of War, el mejor juego de 2018, está a punto de convertirse en una serie de Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/god-war-mejor-juego-2018-punto-convertirse-serie-amazon-1024215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/god-war-ragnarok-2466079.jpg' alt='God of War, el mejor juego de 2018, está a punto de convertirse en una serie de Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/han-eliminado-dos-aplicaciones-instagram-boomerang-hyperlapse-1024203'>Se han eliminado dos de las aplicaciones más utilizadas para Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/han-eliminado-dos-aplicaciones-instagram-boomerang-hyperlapse-1024203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Se han eliminado dos de las aplicaciones más utilizadas para Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usos-extranos-ia-traduccion-cerdos-1024191'>Uno de los usos más extraños para la IA: la traducción de cerdos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usos-extranos-ia-traduccion-cerdos-1024191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/caida-ventas-huawei-busca-nuevos-negocios-mineria-granjas-cerdos-2240701.jpg' alt='Uno de los usos más extraños para la IA: la traducción de cerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861'>Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujeres-tecnologia-ciencia-2637231.jpg' alt='Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia' />
     </a>
 </div>
 
