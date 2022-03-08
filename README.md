@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2637487.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163'>Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda</a></h4>
     <a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sindrome-culo-muerto-amnesia-glutea-podrias-sufrirlo-saberlo-te-duele-espalda-2637483.jpg' alt='Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943'>El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido </a></h4>
     <a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/producto-ha-recaudado-kickstarter-proyecto-secreto-nadie-conoce-contenido-2637269.jpg' alt='El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935'>Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-oferta-1023935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-acer-intel-core-i5-8-gb-ram-256-ssd-solo-cuesta-499-euros-quedan-pocas-unidades-2637255.jpg' alt='Este mini PC de Acer con Intel Core i5, 8 GB de RAM y 256 de SSD solo cuesta 499 euros, y quedan pocas unidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915'>Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-1023915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-12l-oficial-version-android-pensada-telefonos-plegables-tablets-2637245.jpg' alt='Android 12L es oficial: así es la versión de Android pensada para los teléfonos plegables y las tablets' />
     </a>
 </div>
 
