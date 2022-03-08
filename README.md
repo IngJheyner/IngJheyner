@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861'>Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujeres-tecnologia-ciencia-2637231.jpg' alt='Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-afirma-nueva-version-chrome-43-rapida-1024179'>Google afirma que la nueva versión de Chrome es un 43% más rápida que la de hace año y medio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-afirma-nueva-version-chrome-43-rapida-1024179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/google-chrome-2108897.jpg' alt='Google afirma que la nueva versión de Chrome es un 43% más rápida que la de hace año y medio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-new-baja-precio-menos-70-euros-1023801'>Batería de 10 días, SpO2 las 24 horas y entrenador personal: Huawei Watch Fit New baja de precio a menos de 70€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-new-baja-precio-menos-70-euros-1023801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287117.jpg' alt='Batería de 10 días, SpO2 las 24 horas y entrenador personal: Huawei Watch Fit New baja de precio a menos de 70€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731'>Cómo te afecta el café antes de un análisis de sangre</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/leche-emulsionada-cafe-2570893.jpg' alt='Cómo te afecta el café antes de un análisis de sangre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727'>Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crecen-ventas-vehiculos-ocasion-2582759.jpg' alt='Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2637487.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163'>Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sindrome-culo-muerto-amnesia-glutea-podrias-sufrirlo-saberlo-te-duele-espalda-2637483.jpg' alt='Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda' />
     </a>
 </div>
 
