@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-combustible-verde-sustituto-combustibles-fosiles-coches-mayor-planta-fabricacion-hidrogeno-1024325'>Así se consigue el combustible verde sustituto de combustibles fósiles para coches: el hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-combustible-verde-sustituto-combustibles-fosiles-coches-mayor-planta-fabricacion-hidrogeno-1024325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/hidrogeno_1.jpg' alt='Así se consigue el combustible verde sustituto de combustibles fósiles para coches: el hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-gasolinera-baratas-ubicacion-utilizando-google-maps-1024259'>Cómo encontrar las gasolinera más baratas según tu ubicación, utilizando Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-gasolinera-baratas-ubicacion-utilizando-google-maps-1024259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2637585.jpg' alt='Cómo encontrar las gasolinera más baratas según tu ubicación, utilizando Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-da-tecla-problema-rendimiento-ryzen-windows-11-1024323'>AMD da con la tecla del problema de rendimiento de los Ryzen en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-da-tecla-problema-rendimiento-ryzen-windows-11-1024323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amd-ryzen-4000h-2571429.jpg' alt='AMD da con la tecla del problema de rendimiento de los Ryzen en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225'>Una terapia consigue revertir, no frenar, el envejecimiento en ratones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/terapia-consigue-revertir-no-frenar-envejecimiento-ratones-1024225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/raton-2637563.jpg' alt='Una terapia consigue revertir, no frenar, el envejecimiento en ratones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219'>Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/gasolineras-low-cost-son-baratas-gasolina-barata-provoca-averias-1024219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/cierto-gasolina-limpia-inyectores-coche-diesel.jpg' alt='Por qué las gasolineras low cost son más baratas: ¿la gasolina barata provoca averías?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-bucle-temporal-netflix-muneca-rusa-1024263'>La serie del bucle temporal continúa en Netflix tres años después</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-bucle-temporal-netflix-muneca-rusa-1024263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/muneca-rusa-2637589.jpg' alt='La serie del bucle temporal continúa en Netflix tres años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aun-barato-apple-watch-baja-261euros-1023271'>Aún más barato: el Apple Watch SE baja a 261 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aun-barato-apple-watch-baja-261euros-1023271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-watch-series-7-2472439.jpg' alt='Aún más barato: el Apple Watch SE baja a 261 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223'>Las 10 gasolineras más baratas de España el 8 de marzo de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Las 10 gasolineras más baratas de España el 8 de marzo de 2022' />
     </a>
 </div>
 
