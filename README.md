@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731'>Cómo te afecta el café antes de un análisis de sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/leche-emulsionada-cafe-2570893.jpg' alt='Cómo te afecta el café antes de un análisis de sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727'>Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crecen-ventas-vehiculos-ocasion-2582759.jpg' alt='Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1024165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2637487.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163'>Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda</a></h4>
     <a href='https://computerhoy.com/noticias/life/sindrome-trasero-muerto-amnesia-glutea-1024163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sindrome-culo-muerto-amnesia-glutea-podrias-sufrirlo-saberlo-te-duele-espalda-2637483.jpg' alt='Qué es el Síndrome del Trasero Muerto o amnesia glútea: podrías sufrirlo sin saberlo, si te duele la espalda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949'>LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/litepulse-lampara-funciona-agua-sal-recarga-movil-2637273.jpg' alt='LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943'>El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido </a></h4>
-    <a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/producto-ha-recaudado-kickstarter-proyecto-secreto-nadie-conoce-contenido-2637269.jpg' alt='El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido ' />
     </a>
 </div>
 
