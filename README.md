@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601'>iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-air-2638515.jpg' alt='iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-lego-ha-revivido-iconica-vespa-125-anos-60-1024371'>Así es como LEGO ha revivido la icónica Vespa 125 de los años 60</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-lego-ha-revivido-iconica-vespa-125-anos-60-1024371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vespa-2637841.jpg' alt='Así es como LEGO ha revivido la icónica Vespa 125 de los años 60' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609'>Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638477.jpg' alt='Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593'>Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561'>La OCU deja claro que es absurdo hacer acopio de aceite de girasol</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635573.jpg' alt='La OCU deja claro que es absurdo hacer acopio de aceite de girasol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-17-aniversario-pccomponentes-1024283'>10 ofertas por el aniversario de PcComponentes que no te puedes perder</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-17-aniversario-pccomponentes-1024283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caja-pccomponentes-2621215.jpg' alt='10 ofertas por el aniversario de PcComponentes que no te puedes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-943553'>La función que llevan todos los coches modernos y que deberías desactivar para evitar averías</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-943553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/funcion-llevan-todos-coches-modernos-deberias-desactivar-evitar-averias-2493711.jpg' alt='La función que llevan todos los coches modernos y que deberías desactivar para evitar averías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-microsoft-apple-suspenden-productos-son-oficialmente-dificiles-reparar-1024529'>Google, Microsoft y Apple suspenden: sus productos son, oficialmente, difíciles de reparar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-microsoft-apple-suspenden-productos-son-oficialmente-dificiles-reparar-1024529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/reparar-movil-2252179.jpg' alt='Google, Microsoft y Apple suspenden: sus productos son, oficialmente, difíciles de reparar' />
     </a>
 </div>
 
