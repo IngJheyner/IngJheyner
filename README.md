@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949'>LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/life/litepulse-lampara-funciona-agua-sal-recarga-movil-1023949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/litepulse-lampara-funciona-agua-sal-recarga-movil-2637273.jpg' alt='LitePulse, la lámpara que funciona con agua y sal, y además recarga el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943'>El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido </a></h4>
     <a href='https://computerhoy.com/noticias/life/brandon-sanderson-proyecto-secreto-kickstarter-1023943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/producto-ha-recaudado-kickstarter-proyecto-secreto-nadie-conoce-contenido-2637269.jpg' alt='El producto que más ha recaudado en KickStarter en toda su historia es un proyecto secreto, y nadie conoce su contenido ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929'>Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-elimina-anastasia-disney-plus-1023929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-puede-haber-llevado-paso-lejos-bloqueo-rusia-ha-borrado-peliculas-2637249.jpg' alt='Disney+ puede haber llevado un paso más lejos el bloqueo a Rusia: ¿ha borrado películas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723'>Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/twisted-metal-desembarca-plataforma-pero-todavia-no-existe-europa-1023723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/twisted-metal-2472569.jpg' alt='Twisted Metal desembarca en una plataforma, pero esta todavía no existe en Europa' />
     </a>
 </div>
 
