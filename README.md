@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383'>Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2637851.jpg' alt='Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407'>La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/El%20fundador%20de%20Microsoft%2C%20Bill%20Gates.jpg' alt='La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287'>Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361'>Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-movil-2637827.jpg' alt='Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado' />
     </a>
 </div>
 
