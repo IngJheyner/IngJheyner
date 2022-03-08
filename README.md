@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601'>iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-air-2638515.jpg' alt='iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conoce-villano-principal-furiosa-precuela-mad-max-furia-carretera-1024379'>Ya se conoce al villano principal de Furiosa, la precuela de Mad Max: Furia en la carretera</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-conoce-villano-principal-furiosa-precuela-mad-max-furia-carretera-1024379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tyler-rake-2631243.jpg' alt='Ya se conoce al villano principal de Furiosa, la precuela de Mad Max: Furia en la carretera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-lego-ha-revivido-iconica-vespa-125-anos-60-1024371'>Así es como LEGO ha revivido la icónica Vespa 125 de los años 60</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-lego-ha-revivido-iconica-vespa-125-anos-60-1024371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vespa-2637841.jpg' alt='Así es como LEGO ha revivido la icónica Vespa 125 de los años 60' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-movil-detectan-peligroso-troyano-varias-aplicaciones-antivirus-android-1024627'>Revisa tu móvil: detectan un peligroso troyano en varias aplicaciones antivirus para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revisa-movil-detectan-peligroso-troyano-varias-aplicaciones-antivirus-android-1024627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Revisa tu móvil: detectan un peligroso troyano en varias aplicaciones antivirus para Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609'>Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638477.jpg' alt='Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-whatsapp-iphone-envidiada-llegara-muy-pronto-moviles-android-1024625'>La función de WhatsApp para iPhone más envidiada llegará muy pronto a móviles Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-whatsapp-iphone-envidiada-llegara-muy-pronto-moviles-android-1024625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dibujar-whatsapp-2586809.jpg' alt='La función de WhatsApp para iPhone más envidiada llegará muy pronto a móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593'>Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/averigua-quien-te-ha-dejado-seguir-instagram-estas-3-tecnicas-1024593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Averigua quién te ha dejado de seguir en Instagram con estas 3 técnicas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615'>Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638707.jpg' alt='Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561'>La OCU deja claro que es absurdo hacer acopio de aceite de girasol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-deja-claro-absurdo-hacer-acopio-aceite-girasol-1024561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635573.jpg' alt='La OCU deja claro que es absurdo hacer acopio de aceite de girasol' />
+    <h4><a href='https://computerhoy.com/reportajes/resumen-apple-event-8-marzo-iphone-2022-m1-ultra-nuevo-ipad-air-m1-1024613'>Resumen del Apple Event del 8 de marzo con iPhone SE 2022, M1 Ultra, Mac Studio y nuevo iPad Air con M1</a></h4>
+    <a href='https://computerhoy.com/reportajes/resumen-apple-event-8-marzo-iphone-2022-m1-ultra-nuevo-ipad-air-m1-1024613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638817.jpg' alt='Resumen del Apple Event del 8 de marzo con iPhone SE 2022, M1 Ultra, Mac Studio y nuevo iPad Air con M1' />
     </a>
 </div>
 
