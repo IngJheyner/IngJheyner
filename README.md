@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589'>FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-2638907.jpg' alt='FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641'>Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-cnn-tambien-prepara-plataforma-streaming-centrada-noticias-entretenimiento-2638903.jpg' alt='Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615'>Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638707.jpg' alt='Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601'>iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-air-2638515.jpg' alt='iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1' />
     </a>
 </div>
 
