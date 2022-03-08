@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/estos-son-dias-tendrias-jugar-nueva-nintendo-switch-quemar-panel-oled-1024511'>Estos son los días que tendrías que jugar a la nueva Nintendo Switch para quemar su panel OLED</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/estos-son-dias-tendrias-jugar-nueva-nintendo-switch-quemar-panel-oled-1024511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='Estos son los días que tendrías que jugar a la nueva Nintendo Switch para quemar su panel OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-puzles-android-2022-tienes-descargar-ya-mismo-996191'>Los 9 mejores juegos de puzles para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-puzles-android-2022-tienes-descargar-ya-mismo-996191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-2636857.jpg' alt='Los 9 mejores juegos de puzles para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-detectar-enfermedades-raras-ninos-solo-foto-1024497'>Una app para detectar enfermedades raras en niños solo con una foto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-detectar-enfermedades-raras-ninos-solo-foto-1024497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='Una app para detectar enfermedades raras en niños solo con una foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383'>Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lonely-ape-dating-club-nueva-aplicacion-citas-exclusiva-propietarios-nft-simios-1024383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2637851.jpg' alt='Lonely Ape Dating Club, la nueva aplicación de citas exclusiva para propietarios de NFT de simios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407'>La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/El%20fundador%20de%20Microsoft%2C%20Bill%20Gates.jpg' alt='La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-lanza-alternativa-starlink-internet-satelite-40-gbps-1024425'>China lanza su alternativa a StarLink, internet por satélite de hasta 40 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-lanza-alternativa-starlink-internet-satelite-40-gbps-1024425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='China lanza su alternativa a StarLink, internet por satélite de hasta 40 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/1000-videojuegos-pc-10-euros-bundle-solidario-ayuda-ucrania-1024423'>1.000 videojuegos para PC por 10 euros: este es el bundle solidario que ayuda a Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/1000-videojuegos-pc-10-euros-bundle-solidario-ayuda-ucrania-1024423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/juegos-ucrania-2637977.jpg' alt='1.000 videojuegos para PC por 10 euros: este es el bundle solidario que ayuda a Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287'>Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS' />
     </a>
 </div>
 
