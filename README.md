@@ -50,25 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-conoce-villano-principal-furiosa-precuela-mad-max-furia-carretera-1024379'>Ya se conoce al villano principal de Furiosa, la precuela de Mad Max: Furia en la carretera</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-conoce-villano-principal-furiosa-precuela-mad-max-furia-carretera-1024379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tyler-rake-2631243.jpg' alt='Ya se conoce al villano principal de Furiosa, la precuela de Mad Max: Furia en la carretera' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641'>Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-cnn-tambien-prepara-plataforma-streaming-centrada-noticias-entretenimiento-2638903.jpg' alt='Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-movil-detectan-peligroso-troyano-varias-aplicaciones-antivirus-android-1024627'>Revisa tu móvil: detectan un peligroso troyano en varias aplicaciones antivirus para Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revisa-movil-detectan-peligroso-troyano-varias-aplicaciones-antivirus-android-1024627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Revisa tu móvil: detectan un peligroso troyano en varias aplicaciones antivirus para Android' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609'>Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638477.jpg' alt='Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-whatsapp-iphone-envidiada-llegara-muy-pronto-moviles-android-1024625'>La función de WhatsApp para iPhone más envidiada llegará muy pronto a móviles Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-whatsapp-iphone-envidiada-llegara-muy-pronto-moviles-android-1024625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dibujar-whatsapp-2586809.jpg' alt='La función de WhatsApp para iPhone más envidiada llegará muy pronto a móviles Android' />
+    <h4><a href='https://computerhoy.com/noticias/motor/descuentos-patinetes-electricos-xiaomi-elige-te-guste-1024535'>Descuentos en patinetes eléctricos de Xiaomi, elige el que más te guste</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/descuentos-patinetes-electricos-xiaomi-elige-te-guste-1024535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-1s-2296439.jpg' alt='Descuentos en patinetes eléctricos de Xiaomi, elige el que más te guste' />
     </a>
 </div>
 
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/resumen-apple-event-8-marzo-iphone-2022-m1-ultra-nuevo-ipad-air-m1-1024613'>Resumen del Apple Event del 8 de marzo con iPhone SE 2022, M1 Ultra, Mac Studio y nuevo iPad Air con M1</a></h4>
-    <a href='https://computerhoy.com/reportajes/resumen-apple-event-8-marzo-iphone-2022-m1-ultra-nuevo-ipad-air-m1-1024613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638817.jpg' alt='Resumen del Apple Event del 8 de marzo con iPhone SE 2022, M1 Ultra, Mac Studio y nuevo iPad Air con M1' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601'>iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-presenta-nuevo-ipad-air-m1-interior-1024601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-air-2638515.jpg' alt='iPad Air M1: así es el nuevo iPad de Apple que llega con el procesador M1' />
     </a>
 </div>
 
