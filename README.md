@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223'>Las 10 gasolineras más baratas de España el 8 de marzo de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Las 10 gasolineras más baratas de España el 8 de marzo de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/god-war-mejor-juego-2018-punto-convertirse-serie-amazon-1024215'>God of War, el mejor juego de 2018, está a punto de convertirse en una serie de Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/god-war-mejor-juego-2018-punto-convertirse-serie-amazon-1024215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/god-war-ragnarok-2466079.jpg' alt='God of War, el mejor juego de 2018, está a punto de convertirse en una serie de Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/han-eliminado-dos-aplicaciones-instagram-boomerang-hyperlapse-1024203'>Se han eliminado dos de las aplicaciones más utilizadas para Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/han-eliminado-dos-aplicaciones-instagram-boomerang-hyperlapse-1024203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Se han eliminado dos de las aplicaciones más utilizadas para Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usos-extranos-ia-traduccion-cerdos-1024191'>Uno de los usos más extraños para la IA: la traducción de cerdos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usos-extranos-ia-traduccion-cerdos-1024191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/caida-ventas-huawei-busca-nuevos-negocios-mineria-granjas-cerdos-2240701.jpg' alt='Uno de los usos más extraños para la IA: la traducción de cerdos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861'>Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dedicacion-descubrimiento-mujeres-extraordinarias-legado-historia-tecnologia-ciencia-1023861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujeres-tecnologia-ciencia-2637231.jpg' alt='Dedicación por el descubrimiento: mujeres extraordinarias y su legado en la historia de la tecnología y la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-afirma-nueva-version-chrome-43-rapida-1024179'>Google afirma que la nueva versión de Chrome es un 43% más rápida que la de hace año y medio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-afirma-nueva-version-chrome-43-rapida-1024179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/google-chrome-2108897.jpg' alt='Google afirma que la nueva versión de Chrome es un 43% más rápida que la de hace año y medio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-new-baja-precio-menos-70-euros-1023801'>Batería de 10 días, SpO2 las 24 horas y entrenador personal: Huawei Watch Fit New baja de precio a menos de 70€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-fit-new-baja-precio-menos-70-euros-1023801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-huawei-watch-fit-2287117.jpg' alt='Batería de 10 días, SpO2 las 24 horas y entrenador personal: Huawei Watch Fit New baja de precio a menos de 70€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731'>Cómo te afecta el café antes de un análisis de sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-afecta-cafe-antes-analisis-sangre-1023731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/leche-emulsionada-cafe-2570893.jpg' alt='Cómo te afecta el café antes de un análisis de sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727'>Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ventas-coches-subieron-febrero-pero-mercado-todavia-no-ha-recuperado-1023727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/crecen-ventas-vehiculos-ocasion-2582759.jpg' alt='Las ventas de coches subieron en febrero, pero el mercado todavía no se ha recuperado' />
     </a>
 </div>
 
