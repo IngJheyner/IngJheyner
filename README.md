@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407'>La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apuesta-bill-gates-sustituir-telefonos-moviles-futuro-1024407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/El%20fundador%20de%20Microsoft%2C%20Bill%20Gates.jpg' alt='La apuesta de Bill Gates para sustituir a los teléfonos móviles en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-lanza-alternativa-starlink-internet-satelite-40-gbps-1024425'>China lanza su alternativa a StarLink, internet por satélite de hasta 40 Gbps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-lanza-alternativa-starlink-internet-satelite-40-gbps-1024425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='China lanza su alternativa a StarLink, internet por satélite de hasta 40 Gbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/1000-videojuegos-pc-10-euros-bundle-solidario-ayuda-ucrania-1024423'>1.000 videojuegos para PC por 10 euros: este es el bundle solidario que ayuda a Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/1000-videojuegos-pc-10-euros-bundle-solidario-ayuda-ucrania-1024423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/juegos-ucrania-2637977.jpg' alt='1.000 videojuegos para PC por 10 euros: este es el bundle solidario que ayuda a Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287'>Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectar-camaras-ocultas-ultima-funcionalidad-moviles-oppo-ultima-version-coloros-1024287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Detectar cámaras ocultas es la última funcionalidad de los móviles Oppo con la última versión de ColorOS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361'>Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado</a></h4>
     <a href='https://computerhoy.com/noticias/orange-movil-fusionan-1024361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-movil-2637827.jpg' alt='Orange y MásMóvil se fusionan, obteniendo así la mayor cuota de mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/nuevas-tarifas-luz-junio-2021-872927'>Todo lo que debes saber de las tarifas de la luz en 2022 y trucos para pagar menos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/nuevas-tarifas-luz-junio-2021-872927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Todo lo que debes saber de las tarifas de la luz en 2022 y trucos para pagar menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-casi-regalo-cuesta-267-euros-tiene-envio-gratis-1023281'>Esta bombilla inteligente es casi un regalo: cuesta 2,67 euros y tiene envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-casi-regalo-cuesta-267-euros-tiene-envio-gratis-1023281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bombilla-inteligente-rgb-2503835.jpg' alt='Esta bombilla inteligente es casi un regalo: cuesta 2,67 euros y tiene envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-podria-legalizar-pirateria-como-medida-combatir-bloqueo-software-1024349'>Rusia podría legalizar la piratería como medida para combatir el bloqueo de software</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusia-podria-legalizar-pirateria-como-medida-combatir-bloqueo-software-1024349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Rusia podría legalizar la piratería como medida para combatir el bloqueo de software' />
     </a>
 </div>
 
