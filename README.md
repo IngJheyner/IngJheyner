@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cable-oficial-apple-thunderbolt-4-pro-2639497.jpg' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-videos-ruido-blanco-gratuitos-perfectos-ayudar-concentrarte-996137'>6 vídeos de ruido blanco gratuitos y perfectos para ayudar a concentrarte</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-videos-ruido-blanco-gratuitos-perfectos-ayudar-concentrarte-996137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sueno-2587159.jpg' alt='6 vídeos de ruido blanco gratuitos y perfectos para ayudar a concentrarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fairphone-2-seis-anos-despues-ejemplo-fabricantes-quieren-puede-android-51-android-10-1025141'>Fairphone 2 seis años después, el ejemplo de que si los fabricantes quieren se puede: de Android 5.1 a Android 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fairphone-2-seis-anos-despues-ejemplo-fabricantes-quieren-puede-android-51-android-10-1025141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/fairphone-2-2279563.jpg' alt='Fairphone 2 seis años después, el ejemplo de que si los fabricantes quieren se puede: de Android 5.1 a Android 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085'>Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/shiba-inu-2639765.jpg' alt='Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043'>Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/finetwork-caza-digi-nuevas-tarifas-ahora-baratas-megas-1025119'>Finetwork a la caza de Digi con nuevas tarifas, ahora más baratas y con más megas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/finetwork-caza-digi-nuevas-tarifas-ahora-baratas-megas-1025119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/finetwork-2639921.jpg' alt='Finetwork a la caza de Digi con nuevas tarifas, ahora más baratas y con más megas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vencedor-guerra-rusia-ucrania-sera-bitcoin-1025107'>El vencedor de la guerra entre Rusia y Ucrania será el Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vencedor-guerra-rusia-ucrania-sera-bitcoin-1025107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/guerra-rusia-ucrania-2639917.jpg' alt='El vencedor de la guerra entre Rusia y Ucrania será el Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-importante-actualizar-navegador-994205'>Motivos por los que es importante actualizar tu navegador</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-importante-actualizar-navegador-994205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='Motivos por los que es importante actualizar tu navegador' />
     </a>
 </div>
 
