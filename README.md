@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391'>Los motivos por los que las mujeres viven más que los hombres</a></h4>
+    <a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-anciano-2052333.jpg' alt='Los motivos por los que las mujeres viven más que los hombres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385'>Los 10 coches más vendidos en renting en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/10-mejores-compactos-renting-peugeot-3008-2395599.jpg' alt='Los 10 coches más vendidos en renting en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865'>Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sufres-sobredosis-cafeina-puedes-saberlo-2639159.jpg' alt='Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649'>LaserCube, el GPS láser para bici o patinete que se refleja en la carretera (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lasercube-gps-laser-refleja-carretera-2638947.jpg' alt='LaserCube, el GPS láser para bici o patinete que se refleja en la carretera (vídeo)' />
     </a>
 </div>
 
