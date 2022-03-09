@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-prepara-apple-tv-muestran-todo-plataforma-ha-aprendido-netflix-1025015'>Las grandes películas que prepara Apple TV+ muestran todo lo que la plataforma ha aprendido de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-prepara-apple-tv-muestran-todo-plataforma-ha-aprendido-netflix-1025015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/proxima-pelicula-scorsese-estara-protagonizada-leonardo-dicaprio-robert-niro-1847179.jpg' alt='Las grandes películas que prepara Apple TV+ muestran todo lo que la plataforma ha aprendido de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-europa-clipper-podria-cambiar-todo-sabemos-vida-universo-cara-2030-1024983'>El lanzamiento del Europa Clipper podría cambiar todo lo que sabemos sobre la vida en el universo, de cara a 2030</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-europa-clipper-podria-cambiar-todo-sabemos-vida-universo-cara-2030-1024983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='El lanzamiento del Europa Clipper podría cambiar todo lo que sabemos sobre la vida en el universo, de cara a 2030' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/incomprensiblemente-7-anos-despues-apple-sigue-insistiendo-absurdo-error-diseno-1024993'>Incomprensiblemente, 7 años después Apple sigue insistiendo en un absurdo error de diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/incomprensiblemente-7-anos-despues-apple-sigue-insistiendo-absurdo-error-diseno-1024993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-apple-magic-keyboard-raton-magic-mouse-2-2290105.jpg' alt='Incomprensiblemente, 7 años después Apple sigue insistiendo en un absurdo error de diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933'>Hyundai revela la primera estación de servicio virtual del metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hyundai-metaverso-2639245.jpg' alt='Hyundai revela la primera estación de servicio virtual del metaverso' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929'>Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mochila-reciclable-2639227.jpg' alt='Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mcdonalds-coca-coca-iphone-nueva-vida-rusia-putin-1024935'>Sin McDonald’s, Coca-Coca o iPhone: así es la nueva vida en la Rusia de Putin</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mcdonalds-coca-coca-iphone-nueva-vida-rusia-putin-1024935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mcdonalds-rusia-2639247.jpg' alt='Sin McDonald’s, Coca-Coca o iPhone: así es la nueva vida en la Rusia de Putin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/dgt-explica-significado-esa-famosa-senal-casi-ningun-conductor-entiende-939691'>El significado de esa señal que casi ningún conductor entiende explicado por la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/dgt-explica-significado-esa-famosa-senal-casi-ningun-conductor-entiende-939691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/senal-limite-velocidad-2240113.jpg' alt='El significado de esa señal que casi ningún conductor entiende explicado por la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-thunderbolt-4-25-euros-apple-quiere-cobrarte-179-euros-1024913'>El cable Thunderbolt 4 de 25 euros por el que Apple quiere cobrarte 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cable-thunderbolt-4-25-euros-apple-quiere-cobrarte-179-euros-1024913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/intel-presenta-thunderbolt-4-nuevo-estandar-conexion-universal-compatible-usb-4-1989481.jpg' alt='El cable Thunderbolt 4 de 25 euros por el que Apple quiere cobrarte 179 euros' />
     </a>
 </div>
 
