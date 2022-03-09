@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/union-europea-observa-uso-gasoleo-hvo-como-alternativa-diesel-1024399'>La Unión Europea observa el uso de gasóleo HVO como alternativa al diésel</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/union-europea-observa-uso-gasoleo-hvo-como-alternativa-diesel-1024399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/50-gasolineras-baratas-espana-2014851.jpg' alt='La Unión Europea observa el uso de gasóleo HVO como alternativa al diésel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253'>Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173'>Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-redmi-9s-2184481.jpg' alt='Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177'>Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo' />
     </a>
 </div>
 
