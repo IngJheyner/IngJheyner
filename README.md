@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253'>Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-edad-ideal-hijos-tengan-movil-1003083'>¿Cuál es la edad ideal para que tus hijos tengan un móvil?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cual-edad-ideal-hijos-tengan-movil-1003083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nina-movil-2599977.jpg' alt='¿Cuál es la edad ideal para que tus hijos tengan un móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121'>Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/world-nature-photography-awards-2639923.jpg' alt='Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177'>Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509'>Cómo borrar el historial de búsqueda en Instagram</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/instagram-tiktok-2392679.jpg' alt='Cómo borrar el historial de búsqueda en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153'>Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/malware-movil-2463417.jpg' alt='Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer' />
     </a>
 </div>
 
