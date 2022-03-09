@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173'>Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-redmi-9s-2184481.jpg' alt='Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177'>Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-descarta-suscripcion-barata-publicidad-aunque-no-corto-plazo-1025177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Netflix no descarta una suscripción barata con publicidad, aunque no en el corto plazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509'>Cómo borrar el historial de búsqueda en Instagram</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/instagram-tiktok-2392679.jpg' alt='Cómo borrar el historial de búsqueda en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153'>Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/malware-movil-2463417.jpg' alt='Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cable-oficial-apple-thunderbolt-4-pro-2639497.jpg' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-videos-ruido-blanco-gratuitos-perfectos-ayudar-concentrarte-996137'>6 vídeos de ruido blanco gratuitos y perfectos para ayudar a concentrarte</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-videos-ruido-blanco-gratuitos-perfectos-ayudar-concentrarte-996137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sueno-2587159.jpg' alt='6 vídeos de ruido blanco gratuitos y perfectos para ayudar a concentrarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fairphone-2-seis-anos-despues-ejemplo-fabricantes-quieren-puede-android-51-android-10-1025141'>Fairphone 2 seis años después, el ejemplo de que si los fabricantes quieren se puede: de Android 5.1 a Android 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fairphone-2-seis-anos-despues-ejemplo-fabricantes-quieren-puede-android-51-android-10-1025141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/fairphone-2-2279563.jpg' alt='Fairphone 2 seis años después, el ejemplo de que si los fabricantes quieren se puede: de Android 5.1 a Android 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085'>Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/shiba-inu-2639765.jpg' alt='Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043'>Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías' />
     </a>
 </div>
 
