@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-clipchamp-nuevo-editor-video-1025275'>Windows 11 estrena Clipchamp, un nuevo editor de vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-clipchamp-nuevo-editor-video-1025275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg' alt='Windows 11 estrena Clipchamp, un nuevo editor de vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259'>Android 12L solucionaría uno de los principales problemas de los Google Pixel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Android 12L solucionaría uno de los principales problemas de los Google Pixel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-1025243'>Obi-Wan Kenobi: la nueva serie de Disney+ se deja ver un tráiler oficial</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-1025243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-2640255.jpg' alt='Obi-Wan Kenobi: la nueva serie de Disney+ se deja ver un tráiler oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239'>WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes' />
     </a>
 </div>
 
