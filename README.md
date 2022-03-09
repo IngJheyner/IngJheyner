@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223'>Las 10 gasolineras más baratas de España el 9 de marzo de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Las 10 gasolineras más baratas de España el 9 de marzo de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chip-m1-ultra-apple-ha-pasado-benchmarks-puntuaciones-son-impresionantes-como-ryzen-3990x-1024897'>El chip M1 Ultra de Apple ha pasado por los benchmarks y sus puntuaciones son impresionantes: como un Ryzen 3990X</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chip-m1-ultra-apple-ha-pasado-benchmarks-puntuaciones-son-impresionantes-como-ryzen-3990x-1024897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638617.jpg' alt='El chip M1 Ultra de Apple ha pasado por los benchmarks y sus puntuaciones son impresionantes: como un Ryzen 3990X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889'>Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877'>Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/movil-android-2522845.jpg' alt='Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391'>Los motivos por los que las mujeres viven más que los hombres</a></h4>
-    <a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-anciano-2052333.jpg' alt='Los motivos por los que las mujeres viven más que los hombres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385'>Los 10 coches más vendidos en renting en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/10-mejores-compactos-renting-peugeot-3008-2395599.jpg' alt='Los 10 coches más vendidos en renting en 2021' />
     </a>
 </div>
 
