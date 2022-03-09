@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-spectre-fallo-seguridad-afecta-ahora-intel-procesadores-arm-1025069'>Vuelve Spectre: el fallo de seguridad afecta ahora a Intel y procesadores ARM </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-spectre-fallo-seguridad-afecta-ahora-intel-procesadores-arm-1025069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/malware-movil-2056207.jpg' alt='Vuelve Spectre: el fallo de seguridad afecta ahora a Intel y procesadores ARM ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085'>Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-podria-ser-pocas-criptomonedas-capaces-superar-crisis-actual-expertos-1025085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/shiba-inu-2639765.jpg' alt='Shiba Inu podría ser una de las pocas criptomonedas capaces de superar la crisis actual, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-todo-esplendor-streaming-caso-movistar-1025017'>No todo es esplendor en el streaming: el caso de Movistar+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-todo-esplendor-streaming-caso-movistar-1025017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/movistar-plus-1898185.jpg' alt='No todo es esplendor en el streaming: el caso de Movistar+' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043'>Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-atajos-teclado-exclusivos-windows-11-seguramente-no-conocias-1025043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Nuevos atajos de teclado exclusivos de Windows 11 que seguramente no conocías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmo-ia-youtube-ninos-podria-no-estar-funcionando-como-debe-1024995'>El algoritmo de IA de YouTube para niños podría no estar funcionando como debe </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algoritmo-ia-youtube-ninos-podria-no-estar-funcionando-como-debe-1024995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2639505.jpg' alt='El algoritmo de IA de YouTube para niños podría no estar funcionando como debe ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/finetwork-caza-digi-nuevas-tarifas-ahora-baratas-megas-1025119'>Finetwork a la caza de Digi con nuevas tarifas, ahora más baratas y con más megas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/finetwork-caza-digi-nuevas-tarifas-ahora-baratas-megas-1025119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/finetwork-2639921.jpg' alt='Finetwork a la caza de Digi con nuevas tarifas, ahora más baratas y con más megas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-videos-youtube-a-mp3-910339'>Cómo convertir vídeos de YouTube a MP3</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-videos-youtube-a-mp3-910339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/youtube-mp3-2429201.jpg' alt='Cómo convertir vídeos de YouTube a MP3' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vencedor-guerra-rusia-ucrania-sera-bitcoin-1025107'>El vencedor de la guerra entre Rusia y Ucrania será el Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vencedor-guerra-rusia-ucrania-sera-bitcoin-1025107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/guerra-rusia-ucrania-2639917.jpg' alt='El vencedor de la guerra entre Rusia y Ucrania será el Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/horno-consumo-arrasa-ikea-puede-ser-buena-alternativa-freidora-1024209'>Este horno de bajo consumo arrasa en Ikea y puede ser una buena alternativa a la freidora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/horno-consumo-arrasa-ikea-puede-ser-buena-alternativa-freidora-1024209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/matalskare-horno-aire-forzado-2637531.jpg' alt='Este horno de bajo consumo arrasa en Ikea y puede ser una buena alternativa a la freidora' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-importante-actualizar-navegador-994205'>Motivos por los que es importante actualizar tu navegador</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-importante-actualizar-navegador-994205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='Motivos por los que es importante actualizar tu navegador' />
     </a>
 </div>
 
