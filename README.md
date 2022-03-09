@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385'>Los 10 coches más vendidos en renting en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/10-mejores-compactos-renting-peugeot-3008-2395599.jpg' alt='Los 10 coches más vendidos en renting en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1024867'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1024867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2639161.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/adelantate-consigue-nuevos-galaxy-s22-oferta-amazon-1024521'>Adelántate y consigue los nuevos Galaxy S22 en Amazon antes que nadie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/adelantate-consigue-nuevos-galaxy-s22-oferta-amazon-1024521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Adelántate y consigue los nuevos Galaxy S22 en Amazon antes que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865'>Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sufres-sobredosis-cafeina-puedes-saberlo-2639159.jpg' alt='Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649'>LaserCube, el GPS láser que se refleja en la carretera (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649'>LaserCube, el GPS láser para bici o patinete que se refleja en la carretera (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lasercube-gps-laser-refleja-carretera-2638947.jpg' alt='LaserCube, el GPS láser que se refleja en la carretera (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589'>FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-2638907.jpg' alt='FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641'>Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-streaming-cnn-plus-1024641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-cnn-tambien-prepara-plataforma-streaming-centrada-noticias-entretenimiento-2638903.jpg' alt='Esto no para: CNN también prepara una plataforma de streaming de pago centrada en las noticias y el entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609'>Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-iphone-se-2022-caracteristicas-precio-1024609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638477.jpg' alt='Apple presenta al fin el iPhone SE, con el mismo procesador que el iPhone 13 y 5G' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lasercube-gps-laser-refleja-carretera-2638947.jpg' alt='LaserCube, el GPS láser para bici o patinete que se refleja en la carretera (vídeo)' />
     </a>
 </div>
 
