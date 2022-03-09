@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-prepara-apple-tv-muestran-todo-plataforma-ha-aprendido-netflix-1025015'>Las grandes películas que prepara Apple TV+ muestran todo lo que la plataforma ha aprendido de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-prepara-apple-tv-muestran-todo-plataforma-ha-aprendido-netflix-1025015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/proxima-pelicula-scorsese-estara-protagonizada-leonardo-dicaprio-robert-niro-1847179.jpg' alt='Las grandes películas que prepara Apple TV+ muestran todo lo que la plataforma ha aprendido de Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelve-spectre-fallo-seguridad-afecta-ahora-intel-procesadores-arm-1025069'>Vuelve Spectre: el fallo de seguridad afecta ahora a Intel y procesadores ARM </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelve-spectre-fallo-seguridad-afecta-ahora-intel-procesadores-arm-1025069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/malware-movil-2056207.jpg' alt='Vuelve Spectre: el fallo de seguridad afecta ahora a Intel y procesadores ARM ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-europa-clipper-podria-cambiar-todo-sabemos-vida-universo-cara-2030-1024983'>El lanzamiento del Europa Clipper podría cambiar todo lo que sabemos sobre la vida en el universo, de cara a 2030</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzamiento-europa-clipper-podria-cambiar-todo-sabemos-vida-universo-cara-2030-1024983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='El lanzamiento del Europa Clipper podría cambiar todo lo que sabemos sobre la vida en el universo, de cara a 2030' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-todo-esplendor-streaming-caso-movistar-1025017'>No todo es esplendor en el streaming: el caso de Movistar+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-todo-esplendor-streaming-caso-movistar-1025017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/movistar-plus-1898185.jpg' alt='No todo es esplendor en el streaming: el caso de Movistar+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/incomprensiblemente-7-anos-despues-apple-sigue-insistiendo-absurdo-error-diseno-1024993'>Incomprensiblemente, 7 años después Apple sigue insistiendo en un absurdo error de diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/incomprensiblemente-7-anos-despues-apple-sigue-insistiendo-absurdo-error-diseno-1024993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-apple-magic-keyboard-raton-magic-mouse-2-2290105.jpg' alt='Incomprensiblemente, 7 años después Apple sigue insistiendo en un absurdo error de diseño' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmo-ia-youtube-ninos-podria-no-estar-funcionando-como-debe-1024995'>El algoritmo de IA de YouTube para niños podría no estar funcionando como debe </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algoritmo-ia-youtube-ninos-podria-no-estar-funcionando-como-debe-1024995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2639505.jpg' alt='El algoritmo de IA de YouTube para niños podría no estar funcionando como debe ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933'>Hyundai revela la primera estación de servicio virtual del metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hyundai-metaverso-2639245.jpg' alt='Hyundai revela la primera estación de servicio virtual del metaverso' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-videos-youtube-a-mp3-910339'>Cómo convertir vídeos de YouTube a MP3</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-videos-youtube-a-mp3-910339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/youtube-mp3-2429201.jpg' alt='Cómo convertir vídeos de YouTube a MP3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929'>Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mochila-reciclable-2639227.jpg' alt='Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/horno-consumo-arrasa-ikea-puede-ser-buena-alternativa-freidora-1024209'>Este horno de bajo consumo arrasa en Ikea y puede ser una buena alternativa a la freidora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/horno-consumo-arrasa-ikea-puede-ser-buena-alternativa-freidora-1024209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/matalskare-horno-aire-forzado-2637531.jpg' alt='Este horno de bajo consumo arrasa en Ikea y puede ser una buena alternativa a la freidora' />
     </a>
 </div>
 
