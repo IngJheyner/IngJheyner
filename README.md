@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889'>Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-despertadores-radio-puedes-comprar-ahora-mismo-1024525'>Mejores despertadores con radio que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-despertadores-radio-puedes-comprar-ahora-mismo-1024525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-durmiendo-cama-2638289.jpg' alt='Mejores despertadores con radio que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877'>Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/movil-android-2522845.jpg' alt='Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391'>Los motivos por los que las mujeres viven más que los hombres</a></h4>
     <a href='https://computerhoy.com/noticias/life/motivos-mujeres-viven-hombres-1024391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-anciano-2052333.jpg' alt='Los motivos por los que las mujeres viven más que los hombres' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385'>Los 10 coches más vendidos en renting en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/motor/10-coches-vendidos-renting-2021-1024385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/10-mejores-compactos-renting-peugeot-3008-2395599.jpg' alt='Los 10 coches más vendidos en renting en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1024867'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1024867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2639161.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/adelantate-consigue-nuevos-galaxy-s22-oferta-amazon-1024521'>Adelántate y consigue los nuevos Galaxy S22 en Amazon antes que nadie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/adelantate-consigue-nuevos-galaxy-s22-oferta-amazon-1024521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Adelántate y consigue los nuevos Galaxy S22 en Amazon antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865'>Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuantas-tazas-cafe-sobredosis-cafeina-1024865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sufres-sobredosis-cafeina-puedes-saberlo-2639159.jpg' alt='Cuántas tazas de café tienes que tomar para sufrir una sobredosis de cafeína' />
     </a>
 </div>
 
