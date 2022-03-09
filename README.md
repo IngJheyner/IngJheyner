@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249'>Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-bombilla-philips-hue-puente-google-nest-mini-50eu-2640267.jpg' alt='Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-1025243'>Obi-Wan Kenobi: la nueva serie de Disney+ se deja ver un tráiler oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-1025243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/obi-wan-kenobi-nueva-serie-disney-deja-ver-trailer-oficial-2640255.jpg' alt='Obi-Wan Kenobi: la nueva serie de Disney+ se deja ver un tráiler oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239'>WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403'>El productor de The Batman habla sobre cuándo llegará la secuela</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-poster-2590401.jpg' alt='El productor de The Batman habla sobre cuándo llegará la secuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-despide-moviles-gama-alta-centrara-telefonos-asequibles-1025201'>Nokia se despide de los móviles de gama alta y se centrará en teléfonos más asequibles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nokia-despide-moviles-gama-alta-centrara-telefonos-asequibles-1025201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/nuevo-nokia-g50-apuesta-enorme-pantalla-autonomia-conectividad-5g-2479965.jpg' alt='Nokia se despide de los móviles de gama alta y se centrará en teléfonos más asequibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/shrek-desaparece-netflix-donde-ver-peliculas-1025231'>El monstruo verde más querido por todos se marcha de Netflix en pocos días. ¿Dónde ver sus películas?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/shrek-desaparece-netflix-donde-ver-peliculas-1025231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/shrek-2141511.jpg' alt='El monstruo verde más querido por todos se marcha de Netflix en pocos días. ¿Dónde ver sus películas?' />
     </a>
 </div>
 
