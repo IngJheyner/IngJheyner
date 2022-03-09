@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649'>LaserCube, el GPS láser que se refleja en la carretera (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lasercube-gps-laser-refleja-carretera-video-1024649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lasercube-gps-laser-refleja-carretera-2638947.jpg' alt='LaserCube, el GPS láser que se refleja en la carretera (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589'>FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-1024589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fritzrepeater-1200-ax-repetidor-inalambrico-wi-fi-6-tamano-reducido-2638907.jpg' alt='FRITZ!Repeater 1200 AX: así es el el repetidor inalámbrico con Wi-Fi 6 y tamaño reducido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/descuentos-patinetes-electricos-xiaomi-elige-te-guste-1024535'>Descuentos en patinetes eléctricos de Xiaomi, elige el que más te guste</a></h4>
     <a href='https://computerhoy.com/noticias/motor/descuentos-patinetes-electricos-xiaomi-elige-te-guste-1024535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-1s-2296439.jpg' alt='Descuentos en patinetes eléctricos de Xiaomi, elige el que más te guste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615'>Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-studio-display-mac-mini-con-m1-ultra-monitor-pro-con-a13-integrado-1024615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638707.jpg' alt='Mac Studio y Studio Display: el Mac Mini en esteroides con M1 Ultra y un monitor Pro con chip A13 integrado' />
     </a>
 </div>
 
