@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121'>Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/world-nature-photography-awards-2639923.jpg' alt='Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173'>Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-redmi-9s-2184481.jpg' alt='Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153'>Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-movil-android-afectado-peligrosa-vulnerabilidad-dirty-pipe-hacer-1025153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/malware-movil-2463417.jpg' alt='Cómo saber si tu móvil Android está afectado por la peligrosa vulnerabilidad Dirty Pipe y qué hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cable-oficial-apple-thunderbolt-4-pro-2639497.jpg' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
     </a>
 </div>
 
