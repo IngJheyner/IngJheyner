@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259'>Android 12L solucionaría uno de los principales problemas de los Google Pixel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Android 12L solucionaría uno de los principales problemas de los Google Pixel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265'>Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lab126-laboratorio-secreto-amazon-ha-creado-kindle-altavoces-echo-polemico-robot-astro-2504863.jpg' alt='Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249'>Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-bombilla-philips-hue-puente-google-nest-mini-50eu-2640267.jpg' alt='Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239'>WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/metodo-capon-hacer-giros-coche-cada-vez-utilizado-escandaliza-guardia-civil-1025233'>El método “a capón” para hacer giros con el coche cada vez más utilizado y que escandaliza a la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/metodo-capon-hacer-giros-coche-cada-vez-utilizado-escandaliza-guardia-civil-1025233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vehiculo-girando-2640249.jpg' alt='El método “a capón” para hacer giros con el coche cada vez más utilizado y que escandaliza a la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403'>El productor de The Batman habla sobre cuándo llegará la secuela</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-poster-2590401.jpg' alt='El productor de The Batman habla sobre cuándo llegará la secuela' />
     </a>
 </div>
 
