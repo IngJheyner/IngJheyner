@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/union-europea-observa-uso-gasoleo-hvo-como-alternativa-diesel-1024399'>La Unión Europea observa el uso de gasóleo HVO como alternativa al diésel</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/union-europea-observa-uso-gasoleo-hvo-como-alternativa-diesel-1024399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/50-gasolineras-baratas-espana-2014851.jpg' alt='La Unión Europea observa el uso de gasóleo HVO como alternativa al diésel' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239'>WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-introducir-importante-nueva-limitacion-reenviar-mensajes-1025239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere introducir una importante nueva limitación para reenviar mensajes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253'>Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sonido-excelente-cancelacion-ruido-55-euros-hemos-probado-estos-auriculares-huawei-son-autentica-ganga-ahora-estan-oferta-1024253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/analisis-freebuds-4i-2266811.jpg' alt='Un sonido excelente y cancelación de ruido por 55 euros: hemos probado estos auriculares de Huawei y son una auténtica ganga ahora que están en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/motor/metodo-capon-hacer-giros-coche-cada-vez-utilizado-escandaliza-guardia-civil-1025233'>El método “a capón” para hacer giros con el coche cada vez más utilizado y que escandaliza a la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/metodo-capon-hacer-giros-coche-cada-vez-utilizado-escandaliza-guardia-civil-1025233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vehiculo-girando-2640249.jpg' alt='El método “a capón” para hacer giros con el coche cada vez más utilizado y que escandaliza a la Guardia Civil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-edad-ideal-hijos-tengan-movil-1003083'>¿Cuál es la edad ideal para que tus hijos tengan un móvil?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cual-edad-ideal-hijos-tengan-movil-1003083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nina-movil-2599977.jpg' alt='¿Cuál es la edad ideal para que tus hijos tengan un móvil?' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403'>El productor de The Batman habla sobre cuándo llegará la secuela</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/productor-batman-habla-secuela-1024403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-poster-2590401.jpg' alt='El productor de The Batman habla sobre cuándo llegará la secuela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121'>Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-increibles-fotografias-ganadoras-world-nature-photography-awards-1025121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/world-nature-photography-awards-2639923.jpg' alt='Estas son las increíbles fotografías ganadoras de los World Nature Photography Awards' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-despide-moviles-gama-alta-centrara-telefonos-asequibles-1025201'>Nokia se despide de los móviles de gama alta y se centrará en teléfonos más asequibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nokia-despide-moviles-gama-alta-centrara-telefonos-asequibles-1025201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/nuevo-nokia-g50-apuesta-enorme-pantalla-autonomia-conectividad-5g-2479965.jpg' alt='Nokia se despide de los móviles de gama alta y se centrará en teléfonos más asequibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173'>Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-pega-muy-fuerte-lista-moviles-vendidos-ano-pasado-1025173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-redmi-9s-2184481.jpg' alt='Android se la pega (muy fuerte) en la lista de móviles más vendidos del año pasado' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/shrek-desaparece-netflix-donde-ver-peliculas-1025231'>El monstruo verde más querido por todos se marcha de Netflix en pocos días. ¿Dónde ver sus películas?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/shrek-desaparece-netflix-donde-ver-peliculas-1025231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/shrek-2141511.jpg' alt='El monstruo verde más querido por todos se marcha de Netflix en pocos días. ¿Dónde ver sus películas?' />
     </a>
 </div>
 
