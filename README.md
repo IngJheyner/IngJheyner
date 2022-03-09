@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223'>Las 10 gasolineras más baratas de España el 9 de marzo de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-gasolineras-baratas-espana-hoy-1024223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Las 10 gasolineras más baratas de España el 9 de marzo de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933'>Hyundai revela la primera estación de servicio virtual del metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hyundai-revela-primera-estacion-servicio-virtual-metaverso-1024933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hyundai-metaverso-2639245.jpg' alt='Hyundai revela la primera estación de servicio virtual del metaverso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chip-m1-ultra-apple-ha-pasado-benchmarks-puntuaciones-son-impresionantes-como-ryzen-3990x-1024897'>El chip M1 Ultra de Apple ha pasado por los benchmarks y sus puntuaciones son impresionantes: como un Ryzen 3990X</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chip-m1-ultra-apple-ha-pasado-benchmarks-puntuaciones-son-impresionantes-como-ryzen-3990x-1024897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638617.jpg' alt='El chip M1 Ultra de Apple ha pasado por los benchmarks y sus puntuaciones son impresionantes: como un Ryzen 3990X' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929'>Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresa-alemana-disena-primera-mochila-no-deja-rastro-reciclaje-1024929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mochila-reciclable-2639227.jpg' alt='Una empresa alemana diseña la primera mochila que no deja rastro tras su reciclaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889'>Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-rusos-salten-bloqueo-solucion-tor-1024889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere que los usuarios rusos se salten el bloqueo y han dado con una solución: Tor' />
+    <h4><a href='https://computerhoy.com/noticias/life/mcdonalds-coca-coca-iphone-nueva-vida-rusia-putin-1024935'>Sin McDonald’s, Coca-Coca o iPhone: así es la nueva vida en la Rusia de Putin</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mcdonalds-coca-coca-iphone-nueva-vida-rusia-putin-1024935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mcdonalds-rusia-2639247.jpg' alt='Sin McDonald’s, Coca-Coca o iPhone: así es la nueva vida en la Rusia de Putin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-despertadores-radio-puedes-comprar-ahora-mismo-1024525'>Mejores despertadores con radio que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-despertadores-radio-puedes-comprar-ahora-mismo-1024525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-durmiendo-cama-2638289.jpg' alt='Mejores despertadores con radio que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/dgt-explica-significado-esa-famosa-senal-casi-ningun-conductor-entiende-939691'>El significado de esa señal que casi ningún conductor entiende explicado por la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/dgt-explica-significado-esa-famosa-senal-casi-ningun-conductor-entiende-939691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/senal-limite-velocidad-2240113.jpg' alt='El significado de esa señal que casi ningún conductor entiende explicado por la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877'>Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-solucion-problemas-espacio-movil-borrar-60-aplicaciones-1024877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/movil-android-2522845.jpg' alt='Android tiene la solución a los problemas de espacio en tu móvil: borrar el 60% de las aplicaciones que no utilizas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-thunderbolt-4-25-euros-apple-quiere-cobrarte-179-euros-1024913'>El cable Thunderbolt 4 de 25 euros por el que Apple quiere cobrarte 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cable-thunderbolt-4-25-euros-apple-quiere-cobrarte-179-euros-1024913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/intel-presenta-thunderbolt-4-nuevo-estandar-conexion-universal-compatible-usb-4-1989481.jpg' alt='El cable Thunderbolt 4 de 25 euros por el que Apple quiere cobrarte 179 euros' />
     </a>
 </div>
 
