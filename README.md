@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859'>Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849'>Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627365.jpg' alt='Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561'>Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tcl-qled-55c725-2640653.jpg' alt='Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguridad-samsung-pay-prueba-resultados-sorprendentes-1025743'>La seguridad de Samsung Pay a prueba, con unos resultados sorprendentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguridad-samsung-pay-prueba-resultados-sorprendentes-1025743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-pay-cash_0.jpg' alt='La seguridad de Samsung Pay a prueba, con unos resultados sorprendentes' />
     </a>
 </div>
 
