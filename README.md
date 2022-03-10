@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-m1-ultra-pesa-casi-1-kg-m1-max-1025577'>Por qué el Mac Studio con M1 Ultra pesa casi 1 kg más que con M1 Max</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-m1-ultra-pesa-casi-1-kg-m1-max-1025577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-display-2638881.jpg' alt='Por qué el Mac Studio con M1 Ultra pesa casi 1 kg más que con M1 Max' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637'>TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-realme-gt-neo3-nuevo-smartphone-realme-procesador-mediatek-carga-150-w-1025559'>Así será el realme GT Neo3, el nuevo smartphone de realme con procesador Mediatek y carga de 150 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-realme-gt-neo3-nuevo-smartphone-realme-procesador-mediatek-carga-150-w-1025559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-gt-neo3-2640651.jpg' alt='Así será el realme GT Neo3, el nuevo smartphone de realme con procesador Mediatek y carga de 150 W' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-gran-tamano-mucho-barato-habitual-lg-cuesta-799-euros-1025639'>Un televisor OLED de gran tamaño y mucho más barato de lo habitual: es de LG y cuesta 799 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-gran-tamano-mucho-barato-habitual-lg-cuesta-799-euros-1025639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Un televisor OLED de gran tamaño y mucho más barato de lo habitual: es de LG y cuesta 799 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/consolas-rusia-tampoco-podran-comprar-playstation-1025539'>Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/consolas-rusia-tampoco-podran-comprar-playstation-1025539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-google-guardan-datos-wifi-casa-significa-como-puedes-evitarlo-1025607'>Microsoft y Google guardan los datos de tu WiFi de casa: qué significa y cómo puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-google-guardan-datos-wifi-casa-significa-como-puedes-evitarlo-1025607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Microsoft y Google guardan los datos de tu WiFi de casa: qué significa y cómo puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-11-tener-copia-seguridad-completa-sucede-algo-1015915'>Cómo configurar Windows 11 para tener una copia de seguridad completa por si sucede algo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-11-tener-copia-seguridad-completa-sucede-algo-1015915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2622743.jpg' alt='Cómo configurar Windows 11 para tener una copia de seguridad completa por si sucede algo' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579'>¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079'>Mejores enchufes inteligentes de exteriores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/enchufe-exteriores-inteligente-2640061.jpg' alt='Mejores enchufes inteligentes de exteriores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurre-todavia-no-actualizado-windows-11-evitarlo-1025611'>Qué ocurre si todavía no has actualizado a Windows 11 y hasta cuándo podrás evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocurre-todavia-no-actualizado-windows-11-evitarlo-1025611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Qué ocurre si todavía no has actualizado a Windows 11 y hasta cuándo podrás evitarlo' />
     </a>
 </div>
 
