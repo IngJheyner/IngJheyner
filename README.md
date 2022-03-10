@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983'>Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/puedes-conseguir-tres-meses-apple-tv-gratis-tienes-consola-ps4-2641455.jpg' alt='Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981'>El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/metodo-williams-2588973.jpeg' alt='El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971'>Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/precios-energia-nubes-termostato-inteligente-google-nest-reducira-factura-2641433.jpg' alt='Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959'>Los 10 productos tecnológicos que no necesitarás más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telefono-fijo-oficina-2631465.jpg' alt='Los 10 productos tecnológicos que no necesitarás más' />
     </a>
 </div>
 
