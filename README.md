@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769'>Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638603.jpg' alt='Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-paraliza-toda-monetizacion-youtubers-rusos-sola-excepcion-1025725'>YouTube paraliza toda la monetización de los youtubers rusos... con una sola excepción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-paraliza-toda-monetizacion-youtubers-rusos-sola-excepcion-1025725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2640969.jpg' alt='YouTube paraliza toda la monetización de los youtubers rusos... con una sola excepción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689'>No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/terminator.jpg' alt='No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517'>Cómo hacer un seguimiento de un paquete Correos Express</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/correos-express-2639489.jpg' alt='Cómo hacer un seguimiento de un paquete Correos Express' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP: cómo saber la dirección IP pública y privada de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Cuál es mi IP: cómo saber la dirección IP pública y privada de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647'>Cómo se fabricaban los colchones vs cómo se hacen ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/colchon-viscoelastico-1992421.jpg' alt='Cómo se fabricaban los colchones vs cómo se hacen ahora' />
     </a>
 </div>
 
