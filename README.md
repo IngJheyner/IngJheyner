@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-serie-basada-pinguino-1025529'>HBO Max expande el universo de The Batman con una serie basada en el Pingüino</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-serie-basada-pinguino-1025529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/colin-farrell-como-pinguino-batman-2412939.jpg' alt='HBO Max expande el universo de The Batman con una serie basada en el Pingüino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051'>Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631389.jpg' alt='Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/70-mujeres-taxista-ha-sentido-discriminadas-trabajo-1025045'>El 70% de las mujeres taxista se ha sentido discriminada en su trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/70-mujeres-taxista-ha-sentido-discriminadas-trabajo-1025045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/uber-vs-cabify-vs-taxi-quien-tiene-mejores-precios.jpg' alt='El 70% de las mujeres taxista se ha sentido discriminada en su trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2640583.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047'>Ikea también vende altavoces inteligentes: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-symfonisk-2639719.jpg' alt='Ikea también vende altavoces inteligentes: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965'>Lleva tu sistema operativo contigo, crea y usa tu distro portable USB</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/usb-ordenador-2595773.jpg' alt='Lleva tu sistema operativo contigo, crea y usa tu distro portable USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dar-ideas-quien-te-vaya-regalar-algo-comparte-lista-deseos-amazon-1010093'>Cómo dar ideas a quien te vaya a regalar algo: comparte la lista de deseos Amazon</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-dar-ideas-quien-te-vaya-regalar-algo-comparte-lista-deseos-amazon-1010093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-2589117.jpg' alt='Cómo dar ideas a quien te vaya a regalar algo: comparte la lista de deseos Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519'>Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuidado-videos-limpieza-tiktok-estos-son-peligros-ocultan-2640579.jpg' alt='Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan' />
     </a>
 </div>
 
