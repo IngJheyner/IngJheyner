@@ -50,8 +50,32 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-serie-basada-pinguino-1025529'>HBO Max expande el universo de The Batman con una serie basada en el Pingüino</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-serie-basada-pinguino-1025529' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/gaming/consolas-rusia-sony-une-microsoft-tampoco-llegaran-playstation-1025539'>Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/consolas-rusia-sony-une-microsoft-tampoco-llegaran-playstation-1025539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-11-tener-copia-seguridad-completa-sucede-algo-1015915'>Cómo configurar Windows 11 para tener una copia de seguridad completa por si sucede algo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-11-tener-copia-seguridad-completa-sucede-algo-1015915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2622743.jpg' alt='Cómo configurar Windows 11 para tener una copia de seguridad completa por si sucede algo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079'>Mejores enchufes inteligentes de exteriores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/enchufe-exteriores-inteligente-2640061.jpg' alt='Mejores enchufes inteligentes de exteriores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-nueva-serie-basada-pinguino-1025529'>HBO Max expande el universo de The Batman con una serie basada en el Pingüino</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-nueva-serie-basada-pinguino-1025529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/colin-farrell-como-pinguino-batman-2412939.jpg' alt='HBO Max expande el universo de The Batman con una serie basada en el Pingüino' />
     </a>
 </div>
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051'>Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631389.jpg' alt='Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/70-mujeres-taxista-ha-sentido-discriminadas-trabajo-1025045'>El 70% de las mujeres taxista se ha sentido discriminada en su trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/70-mujeres-taxista-ha-sentido-discriminadas-trabajo-1025045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/uber-vs-cabify-vs-taxi-quien-tiene-mejores-precios.jpg' alt='El 70% de las mujeres taxista se ha sentido discriminada en su trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2640583.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047'>Ikea también vende altavoces inteligentes: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-symfonisk-2639719.jpg' alt='Ikea también vende altavoces inteligentes: estos son los mejores' />
     </a>
 </div>
 
