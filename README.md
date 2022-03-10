@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289'>MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beber-te-oolong-adelgazar-mientras-duermes-803403'>Beber Té Oolong ayuda a adelgazar mientras duermes, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beber-te-oolong-adelgazar-mientras-duermes-803403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/taza-te-2641325.jpg' alt='Beber Té Oolong ayuda a adelgazar mientras duermes, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/otras-series-puedes-ver-estas-enganchado-cafe-aroma-mujer-top-1-netflix-2022-1025895'>Otras series que puedes ver si estás enganchado a Café con aroma de mujer, el top 1 de Netflix en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/otras-series-puedes-ver-estas-enganchado-cafe-aroma-mujer-top-1-netflix-2022-1025895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-aroma-mujer-2590049.jpg' alt='Otras series que puedes ver si estás enganchado a Café con aroma de mujer, el top 1 de Netflix en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859'>Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849'>Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627365.jpg' alt='Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinco-minutos-eso-tarda-identificar-soldados-rusos-ucrania-traves-reconocimiento-facial-1025847'>Cinco minutos, eso es lo que se tarda en identificar a los soldados rusos en Ucrania a través del reconocimiento facial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cinco-minutos-eso-tarda-identificar-soldados-rusos-ucrania-traves-reconocimiento-facial-1025847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/soldados-francia-2169655.jpg' alt='Cinco minutos, eso es lo que se tarda en identificar a los soldados rusos en Ucrania a través del reconocimiento facial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-pasarse-sensores-sony-nuevos-xiaomi-12-anuncian-semana-viene-1025765'>Xiaomi podría pasarse a sensores Sony en sus nuevos Xiaomi 12, que anuncian la semana que viene</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-pasarse-sensores-sony-nuevos-xiaomi-12-anuncian-semana-viene-1025765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-ultra-2559445.jpg' alt='Xiaomi podría pasarse a sensores Sony en sus nuevos Xiaomi 12, que anuncian la semana que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561'>Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tcl-qled-55c725-2640653.jpg' alt='Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento' />
     </a>
 </div>
 
