@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/polestar-o2-deportivo-viene-dron-1025057'>Polestar O2 el el deportivo que viene con un dron</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/polestar-o2-deportivo-viene-dron-1025057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polestar-o2-2633661.jpg' alt='Polestar O2 el el deportivo que viene con un dron' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065'>El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/john-cho-cowboy-bebop-2634145.jpg' alt='El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289'>MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/industria/premios-hobbypremios-2021-ganadores-1025961'>Así ha sido la entrega de los HobbyPremios 2021: listado completo de ganadores</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/premios-hobbypremios-2021-ganadores-1025961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ha-sido-entrega-hobbypremios-2022-listado-completo-ganadores-2641415.jpg' alt='Así ha sido la entrega de los HobbyPremios 2021: listado completo de ganadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beber-te-oolong-adelgazar-mientras-duermes-803403'>Beber Té Oolong ayuda a adelgazar mientras duermes, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beber-te-oolong-adelgazar-mientras-duermes-803403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/taza-te-2641325.jpg' alt='Beber Té Oolong ayuda a adelgazar mientras duermes, según la ciencia' />
+    <h4><a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951'>Las mejores técnicas de conducción para ahorrar gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coches-motor-ferrari-2630067.jpg' alt='Las mejores técnicas de conducción para ahorrar gasolina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/otras-series-puedes-ver-estas-enganchado-cafe-aroma-mujer-top-1-netflix-2022-1025895'>Otras series que puedes ver si estás enganchado a Café con aroma de mujer, el top 1 de Netflix en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/otras-series-puedes-ver-estas-enganchado-cafe-aroma-mujer-top-1-netflix-2022-1025895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cafe-aroma-mujer-2590049.jpg' alt='Otras series que puedes ver si estás enganchado a Café con aroma de mujer, el top 1 de Netflix en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-particular-teoria-creador-bitcoin-1025953'>Elon Musk tiene una particular teoría sobre el creador del Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-particular-teoria-creador-bitcoin-1025953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-bitcoin-2641403.jpg' alt='Elon Musk tiene una particular teoría sobre el creador del Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859'>Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/sirve-cada-tecla-funcion-windows-1025919'>¿Para qué sirve cada tecla de función en Windows?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/sirve-cada-tecla-funcion-windows-1025919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-gaming-2296229.jpg' alt='¿Para qué sirve cada tecla de función en Windows?' />
     </a>
 </div>
 
