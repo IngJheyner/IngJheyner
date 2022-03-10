@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647'>Cómo se fabricaban los colchones vs cómo se hacen ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/colchon-viscoelastico-1992421.jpg' alt='Cómo se fabricaban los colchones vs cómo se hacen ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637'>TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579'>¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurre-todavia-no-actualizado-windows-11-evitarlo-1025611'>Qué ocurre si todavía no has actualizado a Windows 11 y hasta cuándo podrás evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocurre-todavia-no-actualizado-windows-11-evitarlo-1025611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Qué ocurre si todavía no has actualizado a Windows 11 y hasta cuándo podrás evitarlo' />
     </a>
 </div>
 
