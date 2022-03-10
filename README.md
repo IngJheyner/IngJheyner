@@ -50,8 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/consolas-rusia-sony-une-microsoft-tampoco-llegaran-playstation-1025539'>Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/consolas-rusia-sony-une-microsoft-tampoco-llegaran-playstation-1025539' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-studio-m1-ultra-pesa-casi-1-kg-m1-max-1025577'>Por qué el Mac Studio con M1 Ultra pesa casi 1 kg más que con M1 Max</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-studio-m1-ultra-pesa-casi-1-kg-m1-max-1025577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-display-2638881.jpg' alt='Por qué el Mac Studio con M1 Ultra pesa casi 1 kg más que con M1 Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-realme-gt-neo3-nuevo-smartphone-realme-procesador-mediatek-carga-150-w-1025559'>Así será el realme GT Neo3, el nuevo smartphone de realme con procesador Mediatek y carga de 150 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-realme-gt-neo3-nuevo-smartphone-realme-procesador-mediatek-carga-150-w-1025559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-gt-neo3-2640651.jpg' alt='Así será el realme GT Neo3, el nuevo smartphone de realme con procesador Mediatek y carga de 150 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/consolas-rusia-tampoco-podran-comprar-playstation-1025539'>Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/consolas-rusia-tampoco-podran-comprar-playstation-1025539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sin consolas en Rusia: Sony se une a Microsoft y tampoco llegarán más PlayStation' />
     </a>
 </div>
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079'>Mejores enchufes inteligentes de exteriores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-exteriores-puedes-comprar-1025079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/enchufe-exteriores-inteligente-2640061.jpg' alt='Mejores enchufes inteligentes de exteriores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-nueva-serie-basada-pinguino-1025529'>HBO Max expande el universo de The Batman con una serie basada en el Pingüino</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-expande-universo-batman-nueva-serie-basada-pinguino-1025529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/colin-farrell-como-pinguino-batman-2412939.jpg' alt='HBO Max expande el universo de The Batman con una serie basada en el Pingüino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051'>Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-puede-detectar-trastornos-mentales-analizando-publicaciones-redes-sociales-1025051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631389.jpg' alt='Una IA puede detectar trastornos mentales analizando publicaciones en redes sociales' />
     </a>
 </div>
 
