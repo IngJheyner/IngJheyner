@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-11-instalar-ningun-programa-1012709'>Cómo grabar pantalla en Windows 11 sin instalar ningún programa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-11-instalar-ningun-programa-1012709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/grabar-pantalla-windows-11-2616987.jpg' alt='Cómo grabar pantalla en Windows 11 sin instalar ningún programa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-t-rex-pro-reloj-inteligente-aventuras-oferta-amazon-1025669'>Si te gusta salir de acampada o de aventuras, este smartwatch Amazfit T-Rex Pro no puede faltar en tu muñeca con un descuento de 51€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-t-rex-pro-reloj-inteligente-aventuras-oferta-amazon-1025669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazfit-t-rex-pro-2640863.jpg' alt='Si te gusta salir de acampada o de aventuras, este smartwatch Amazfit T-Rex Pro no puede faltar en tu muñeca con un descuento de 51€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769'>Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638603.jpg' alt='Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689'>No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/terminator.jpg' alt='No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cada-cuanto-tiempo-pasa-itv-coche-moto-antiguedad-1025685'>Cada cuánto tiempo se pasa la ITV en un coche o moto según su antigüedad</a></h4>
-    <a href='https://computerhoy.com/noticias/cada-cuanto-tiempo-pasa-itv-coche-moto-antiguedad-1025685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/itv.jpg' alt='Cada cuánto tiempo se pasa la ITV en un coche o moto según su antigüedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517'>Cómo hacer un seguimiento de un paquete Correos Express</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/correos-express-2639489.jpg' alt='Cómo hacer un seguimiento de un paquete Correos Express' />
     </a>
 </div>
 
