@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1025521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2640583.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047'>Ikea también vende altavoces inteligentes: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-ikea-symfonisk-1025047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-symfonisk-2639719.jpg' alt='Ikea también vende altavoces inteligentes: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965'>Lleva tu sistema operativo contigo, crea y usa tu distro portable USB</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/usb-ordenador-2595773.jpg' alt='Lleva tu sistema operativo contigo, crea y usa tu distro portable USB' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519'>Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuidado-videos-limpieza-tiktok-estos-son-peligros-ocultan-2640579.jpg' alt='Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515'>Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/preparandonos-metaverso-funda-movil-transforma-gafas-realidad-virtual-2640575.jpg' alt='Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747'>Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zona-wifi-libre-2626105.jpg' alt='Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita' />
     </a>
 </div>
 
