@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/polestar-o2-deportivo-viene-dron-1025057'>Polestar O2 el el deportivo que viene con un dron</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/polestar-o2-deportivo-viene-dron-1025057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polestar-o2-2633661.jpg' alt='Polestar O2 el el deportivo que viene con un dron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289'>MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-2021-m1-pro-mejor-precio-donde-comprarlo-oferta-1024289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538035.jpg' alt='MacBook Pro (2021) con M1 Pro: mejor precio y dónde comprarlo en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859'>Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piratas-robaron-informacion-secreta-nvidia-aseguran-haberse-infiltrado-tambien-vodafone-1025859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Los piratas que robaron información secreta de NVIDIA aseguran haberse infiltrado también en Vodafone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849'>Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627365.jpg' alt='Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos' />
     </a>
 </div>
 
