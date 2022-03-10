@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519'>Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuidado-videos-limpieza-tiktok-peligros-ocultan-1025519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuidado-videos-limpieza-tiktok-estos-son-peligros-ocultan-2640579.jpg' alt='Cuidado con los vídeos de limpieza de TikTok: estos son los peligros que ocultan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515'>Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/preparandonos-metaverso-funda-movil-transforma-gafas-realidad-virtual-2640575.jpg' alt='Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259'>Android 12L solucionaría uno de los principales problemas de los Google Pixel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-12l-solucionaria-principales-problemas-google-pixel-1025259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Android 12L solucionaría uno de los principales problemas de los Google Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265'>Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lab126-laboratorio-secreto-amazon-ha-creado-kindle-altavoces-echo-polemico-robot-astro-2504863.jpg' alt='Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo' />
     </a>
 </div>
 
