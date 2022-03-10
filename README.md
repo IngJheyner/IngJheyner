@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515'>Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-funda-movil-transforma-gafas-realidad-virtual-1025515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/preparandonos-metaverso-funda-movil-transforma-gafas-realidad-virtual-2640575.jpg' alt='Preparándonos para el metaverso: funda de móvil se transforma en gafas de realidad virtual (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747'>Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zona-wifi-libre-2626105.jpg' alt='Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265'>Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/industria/lab126-laboratorio-secreto-amazon-abre-en-espana-100-puestos-trabajo-1025265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lab126-laboratorio-secreto-amazon-ha-creado-kindle-altavoces-echo-polemico-robot-astro-2504863.jpg' alt='Lab126, el laboratorio secreto de Amazon que ha creado los dispositivos Echo, Fire TV y Kindle abre en España, y ofrece 100 puestos de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249'>Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pack-bombilla-philips-hue-google-nest-mini-puente-mando-oferta-1025249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-bombilla-philips-hue-puente-google-nest-mini-50eu-2640267.jpg' alt='Pack bombilla Philips Hue + Google Nest Mini + Puente + mando por 50€' />
     </a>
 </div>
 
