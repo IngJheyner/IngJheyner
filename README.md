@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971'>Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/precios-energia-nubes-termostato-inteligente-google-nest-reducira-factura-2641433.jpg' alt='Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959'>Los 10 productos tecnológicos que no necesitarás más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telefono-fijo-oficina-2631465.jpg' alt='Los 10 productos tecnológicos que no necesitarás más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065'>El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/john-cho-cowboy-bebop-2634145.jpg' alt='El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951'>Las mejores técnicas de conducción para ahorrar gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coches-motor-ferrari-2630067.jpg' alt='Las mejores técnicas de conducción para ahorrar gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-particular-teoria-creador-bitcoin-1025953'>Elon Musk tiene una particular teoría sobre el creador del Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-particular-teoria-creador-bitcoin-1025953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-bitcoin-2641403.jpg' alt='Elon Musk tiene una particular teoría sobre el creador del Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/sirve-cada-tecla-funcion-windows-1025919'>¿Para qué sirve cada tecla de función en Windows?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/sirve-cada-tecla-funcion-windows-1025919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-gaming-2296229.jpg' alt='¿Para qué sirve cada tecla de función en Windows?' />
     </a>
 </div>
 
