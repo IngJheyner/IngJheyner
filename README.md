@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849'>Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-galaxy-s22-deberias-instalar-proxima-actualizacion-arregla-mayores-fallos-1025849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627365.jpg' alt='Si tienes un Galaxy S22 deberías instalar su próxima actualización: arregla uno de sus mayores fallos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinco-minutos-eso-tarda-identificar-soldados-rusos-ucrania-traves-reconocimiento-facial-1025847'>Cinco minutos, eso es lo que se tarda en identificar a los soldados rusos en Ucrania a través del reconocimiento facial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cinco-minutos-eso-tarda-identificar-soldados-rusos-ucrania-traves-reconocimiento-facial-1025847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/soldados-francia-2169655.jpg' alt='Cinco minutos, eso es lo que se tarda en identificar a los soldados rusos en Ucrania a través del reconocimiento facial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-pasarse-sensores-sony-nuevos-xiaomi-12-anuncian-semana-viene-1025765'>Xiaomi podría pasarse a sensores Sony en sus nuevos Xiaomi 12, que anuncian la semana que viene</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-podria-pasarse-sensores-sony-nuevos-xiaomi-12-anuncian-semana-viene-1025765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-ultra-2559445.jpg' alt='Xiaomi podría pasarse a sensores Sony en sus nuevos Xiaomi 12, que anuncian la semana que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561'>Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-55-android-tcl-tiene-panel-qled-tien-154-euros-descuento-1025561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tcl-qled-55c725-2640653.jpg' alt='Esta Smart TV de 55" con Android de TCL tiene un panel QLED y tien 154 euros de descuento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seguridad-samsung-pay-prueba-resultados-sorprendentes-1025743'>La seguridad de Samsung Pay a prueba, con unos resultados sorprendentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seguridad-samsung-pay-prueba-resultados-sorprendentes-1025743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-pay-cash_0.jpg' alt='La seguridad de Samsung Pay a prueba, con unos resultados sorprendentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-11-instalar-ningun-programa-1012709'>Cómo grabar pantalla en Windows 11 sin instalar ningún programa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-11-instalar-ningun-programa-1012709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/grabar-pantalla-windows-11-2616987.jpg' alt='Cómo grabar pantalla en Windows 11 sin instalar ningún programa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-t-rex-pro-reloj-inteligente-aventuras-oferta-amazon-1025669'>Si te gusta salir de acampada o de aventuras, este smartwatch Amazfit T-Rex Pro no puede faltar en tu muñeca con un descuento de 51€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-t-rex-pro-reloj-inteligente-aventuras-oferta-amazon-1025669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazfit-t-rex-pro-2640863.jpg' alt='Si te gusta salir de acampada o de aventuras, este smartwatch Amazfit T-Rex Pro no puede faltar en tu muñeca con un descuento de 51€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769'>Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-resuelto-problema-lleva-atormentando-nvidia-hace-decadas-1025769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638603.jpg' alt='Así es como Apple ha resuelto un problema que lleva atormentando a Nvidia desde hace décadas' />
     </a>
 </div>
 
