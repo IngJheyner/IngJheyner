@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981'>El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/metodo-williams-2588973.jpeg' alt='El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975'>Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967'>Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-2641437.jpg' alt='Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971'>Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/precios-energia-nubes-termostato-inteligente-google-nest-reducira-factura-2641433.jpg' alt='Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959'>Los 10 productos tecnológicos que no necesitarás más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-productos-tecnologicos-no-necesitaras-1025959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telefono-fijo-oficina-2631465.jpg' alt='Los 10 productos tecnológicos que no necesitarás más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065'>El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/protagonista-cowboy-bebop-habla-como-cancelo-serie-netflix-1025065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/john-cho-cowboy-bebop-2634145.jpg' alt='El protagonista de Cowboy Bebop habla sobre cómo se canceló la serie en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/premios-hobbypremios-2021-ganadores-1025961'>Así ha sido la entrega de los HobbyPremios 2021: listado completo de ganadores</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/premios-hobbypremios-2021-ganadores-1025961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ha-sido-entrega-hobbypremios-2022-listado-completo-ganadores-2641415.jpg' alt='Así ha sido la entrega de los HobbyPremios 2021: listado completo de ganadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951'>Las mejores técnicas de conducción para ahorrar gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mejores-tecnicas-conduccion-ahorrar-gasolina-1025951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coches-motor-ferrari-2630067.jpg' alt='Las mejores técnicas de conducción para ahorrar gasolina' />
     </a>
 </div>
 
