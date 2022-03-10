@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965'>Lleva tu sistema operativo contigo, crea y usa tu distro portable USB</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/lleva-sistema-operativo-contigo-crea-usa-distro-portable-usb-1000965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/usb-ordenador-2595773.jpg' alt='Lleva tu sistema operativo contigo, crea y usa tu distro portable USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-dar-ideas-quien-te-vaya-regalar-algo-comparte-lista-deseos-amazon-1010093'>Cómo dar ideas a quien te vaya a regalar algo: comparte la lista de deseos Amazon</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-dar-ideas-quien-te-vaya-regalar-algo-comparte-lista-deseos-amazon-1010093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazon-2589117.jpg' alt='Cómo dar ideas a quien te vaya a regalar algo: comparte la lista de deseos Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747'>Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-portatil-windows-seguro-cuando-te-conectas-wifi-gratuita-1017747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/zona-wifi-libre-2626105.jpg' alt='Cómo mantener tu portátil Windows seguro cuando te conectas a una WiFi gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-clipchamp-nuevo-editor-video-1025275'>Windows 11 estrena Clipchamp, un nuevo editor de vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-clipchamp-nuevo-editor-video-1025275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg' alt='Windows 11 estrena Clipchamp, un nuevo editor de vídeo' />
     </a>
 </div>
 
