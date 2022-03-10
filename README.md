@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689'>No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-ciencia-ficcion-robots-pueden-llegar-ser-amenaza-humanidad-1025689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/terminator.jpg' alt='No es ciencia ficción: robots que pueden llegar a ser una amenaza para la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cada-cuanto-tiempo-pasa-itv-coche-moto-antiguedad-1025685'>Cada cuánto tiempo se pasa la ITV en un coche o moto según su antigüedad</a></h4>
+    <a href='https://computerhoy.com/noticias/cada-cuanto-tiempo-pasa-itv-coche-moto-antiguedad-1025685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/itv.jpg' alt='Cada cuánto tiempo se pasa la ITV en un coche o moto según su antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517'>Cómo hacer un seguimiento de un paquete Correos Express</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/correos-express-2639489.jpg' alt='Cómo hacer un seguimiento de un paquete Correos Express' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP: cómo saber la dirección IP pública y privada de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-ordenador-2563481.jpg' alt='Cuál es mi IP: cómo saber la dirección IP pública y privada de tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647'>Cómo se fabricaban los colchones vs cómo se hacen ahora</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-fabricaban-colchones-vs-como-hacen-ahora-1025647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/colchon-viscoelastico-1992421.jpg' alt='Cómo se fabricaban los colchones vs cómo se hacen ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637'>TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-convertirse-nuevo-spotify-musicos-usuarios-nueva-funcion-1025637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='TikTok quiere convertirse en el nuevo Spotify para músicos y usuarios con su nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-gran-tamano-mucho-barato-habitual-lg-cuesta-799-euros-1025639'>Un televisor OLED de gran tamaño y mucho más barato de lo habitual: es de LG y cuesta 799 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-oled-gran-tamano-mucho-barato-habitual-lg-cuesta-799-euros-1025639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Un televisor OLED de gran tamaño y mucho más barato de lo habitual: es de LG y cuesta 799 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-google-guardan-datos-wifi-casa-significa-como-puedes-evitarlo-1025607'>Microsoft y Google guardan los datos de tu WiFi de casa: qué significa y cómo puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-google-guardan-datos-wifi-casa-significa-como-puedes-evitarlo-1025607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Microsoft y Google guardan los datos de tu WiFi de casa: qué significa y cómo puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579'>¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/desgasta-tarjeta-grafica-ordenador-uso-intensivo-1025579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nvidia-rtx-3000-2523015.jpg' alt='¿Se desgasta la tarjeta gráfica de tu ordenador por el uso intensivo?' />
     </a>
 </div>
 
