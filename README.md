@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843'>Cómo encontrar las gasolineras más baratas en ruta con Android Auto</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-auto-gasolineras-2633579.jpg' alt='Cómo encontrar las gasolineras más baratas en ruta con Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975'>Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967'>Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-2641437.jpg' alt='Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe' />
     </a>
 </div>
 
