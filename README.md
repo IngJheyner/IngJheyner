@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)' />
     </a>
 </div>
 
