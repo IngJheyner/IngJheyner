@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479'>El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-x8-2642267.jpg' alt='El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-rebaja-precio-todos-apple-airpods-1026315'>Amazon rebaja el precio de todos los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-rebaja-precio-todos-apple-airpods-1026315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/airpods-pro-1977623.jpg' alt='Amazon rebaja el precio de todos los AirPods de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467'>¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-mdlr-1026449'>¿Qué significa MDLR?	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-mdlr-1026449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/morad-2642251.jpg' alt='¿Qué significa MDLR?	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405'>Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-aire-lidl-cestas-gran-capacidad-cocinar-dos-alimentos-vez-1026391'>La nueva freidora de aire de Lidl con cestas de gran capacidad para cocinar dos alimentos a la vez</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-aire-lidl-cestas-gran-capacidad-cocinar-dos-alimentos-vez-1026391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gourmetmaxx-freidora-aire-caliente-2642091.jpg' alt='La nueva freidora de aire de Lidl con cestas de gran capacidad para cocinar dos alimentos a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/simulador-amantes-montanas-rusas-parques-atracciones-puedes-tener-casa-1026371'>El simulador para los amantes de las montañas rusas y parques de atracciones que puedes tener en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/simulador-amantes-montanas-rusas-parques-atracciones-puedes-tener-casa-1026371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/parque-atracciones-2642097.jpg' alt='El simulador para los amantes de las montañas rusas y parques de atracciones que puedes tener en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/como-calibrar-bateria-movil-android-que-dure-mas-69977'>Cómo calibrar la batería de un móvil Android para que dure más</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/moviles/como-calibrar-bateria-movil-android-que-dure-mas-69977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargar-movil-2638009.jpg' alt='Cómo calibrar la batería de un móvil Android para que dure más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-nueva-alternativa-google-maps-android-auto-here-wego-mapas-offline-gratis-1026389'>Llega una nueva alternativa a Google Maps en Android Auto: HERE WeGo con mapas offline gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-nueva-alternativa-google-maps-android-auto-here-wego-mapas-offline-gratis-1026389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-auto-2642087.jpg' alt='Llega una nueva alternativa a Google Maps en Android Auto: HERE WeGo con mapas offline gratis' />
     </a>
 </div>
 
