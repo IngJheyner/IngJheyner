@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartphone-vela-privacidad-solo-mover-switch-cable-usb-c-1026343'>El smartphone que vela por tu privacidad con solo mover un switch en su cable USB-C</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartphone-vela-privacidad-solo-mover-switch-cable-usb-c-1026343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2641985.jpg' alt='El smartphone que vela por tu privacidad con solo mover un switch en su cable USB-C' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405'>Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319'>Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ping-pong-2641931.jpg' alt='Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-aire-lidl-cestas-gran-capacidad-cocinar-dos-alimentos-vez-1026391'>La nueva freidora de aire de Lidl con cestas de gran capacidad para cocinar dos alimentos a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-aire-lidl-cestas-gran-capacidad-cocinar-dos-alimentos-vez-1026391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gourmetmaxx-freidora-aire-caliente-2642091.jpg' alt='La nueva freidora de aire de Lidl con cestas de gran capacidad para cocinar dos alimentos a la vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-miniserie-historia-quien-es-anna-1026309'>Netflix sigue superándose y otra miniserie se coloca como la más vista de su historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-miniserie-historia-quien-es-anna-1026309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/quien-anna-2641819.jpg' alt='Netflix sigue superándose y otra miniserie se coloca como la más vista de su historia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/simulador-amantes-montanas-rusas-parques-atracciones-puedes-tener-casa-1026371'>El simulador para los amantes de las montañas rusas y parques de atracciones que puedes tener en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/simulador-amantes-montanas-rusas-parques-atracciones-puedes-tener-casa-1026371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/parque-atracciones-2642097.jpg' alt='El simulador para los amantes de las montañas rusas y parques de atracciones que puedes tener en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-android-reciben-avisos-bombardeos-ucrania-anuncia-google-1026245'>Los móviles Android reciben avisos de bombardeos en Ucrania, según anuncia Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-android-reciben-avisos-bombardeos-ucrania-anuncia-google-1026245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bombas-2641823.jpg' alt='Los móviles Android reciben avisos de bombardeos en Ucrania, según anuncia Google' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/como-calibrar-bateria-movil-android-que-dure-mas-69977'>Cómo calibrar la batería de un móvil Android para que dure más</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/moviles/como-calibrar-bateria-movil-android-que-dure-mas-69977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargar-movil-2638009.jpg' alt='Cómo calibrar la batería de un móvil Android para que dure más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653'>Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-nueva-alternativa-google-maps-android-auto-here-wego-mapas-offline-gratis-1026389'>Llega una nueva alternativa a Google Maps en Android Auto: HERE WeGo con mapas offline gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-nueva-alternativa-google-maps-android-auto-here-wego-mapas-offline-gratis-1026389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-auto-2642087.jpg' alt='Llega una nueva alternativa a Google Maps en Android Auto: HERE WeGo con mapas offline gratis' />
     </a>
 </div>
 
