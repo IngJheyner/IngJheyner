@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489'>Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-largo-mundo-2642305.jpg' alt='Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491'>A qué hora es más barata la luz hoy</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='A qué hora es más barata la luz hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479'>El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-x8-2642267.jpg' alt='El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-8x-2642349.jpg' alt='El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467'>¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución</a></h4>
     <a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-mdlr-1026449'>¿Qué significa MDLR?	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-mdlr-1026449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/morad-2642251.jpg' alt='¿Qué significa MDLR?	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405'>Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cada-cuanto-tiempo-recomendable-limpiar-teclado-raton-ordenador-1026405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gato-sienta-teclado-mientras-teletrabajas-genial-truco-viral-explica-como-evitarlo-2568633.jpg' alt='Cada cuánto tiempo es recomendable limpiar el teclado y el ratón de tu ordenador' />
     </a>
 </div>
 
