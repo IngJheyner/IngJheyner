@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195'>El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metodo-definitivo-limpiar-tapicerias-coche-productos-naturales-dejarla-como-nueva-2641661.jpg' alt='El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981'>El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/metodo-williams-2588973.jpeg' alt='El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975'>Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-subida-precio-netflix-europa-camino-ya-pasaria-20-euros-opcion-completa-1025975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='Nueva subida de precio para Netflix en Europa de camino y ya pasaría los 20 euros la opción más completa' />
     </a>
 </div>
 
