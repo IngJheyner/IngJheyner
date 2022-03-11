@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319'>Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ping-pong-2641931.jpg' alt='Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-miniserie-historia-quien-es-anna-1026309'>Netflix sigue superándose y otra miniserie se coloca como la más vista de su historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-miniserie-historia-quien-es-anna-1026309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/quien-anna-2641819.jpg' alt='Netflix sigue superándose y otra miniserie se coloca como la más vista de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-android-reciben-avisos-bombardeos-ucrania-anuncia-google-1026245'>Los móviles Android reciben avisos de bombardeos en Ucrania, según anuncia Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-android-reciben-avisos-bombardeos-ucrania-anuncia-google-1026245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bombas-2641823.jpg' alt='Los móviles Android reciben avisos de bombardeos en Ucrania, según anuncia Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653'>Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243'>La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620765.jpg' alt='La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-garantizan-seguridad-conversaciones-whatsapp-web-nueva-funcionalidad-code-verify-1026217'>Así es como garantizan la seguridad de tus conversaciones en WhatsApp Web con la nueva funcionalidad Code Verify</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-garantizan-seguridad-conversaciones-whatsapp-web-nueva-funcionalidad-code-verify-1026217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-web-2534515.jpg' alt='Así es como garantizan la seguridad de tus conversaciones en WhatsApp Web con la nueva funcionalidad Code Verify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205'>Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soldado-movil-2641665.jpg' alt='Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335'>3 originales purificadores de aire de Ikea que además combinan con la decoración</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='3 originales purificadores de aire de Ikea que además combinan con la decoración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565'>El motivo por el que las patatas de McDonald's son tan adictivas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mcdonalds-2186153.jpg' alt='El motivo por el que las patatas de McDonald's son tan adictivas' />
     </a>
 </div>
 
