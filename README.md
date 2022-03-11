@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2641663.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835'>Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-conseguir-criptomonedas-gratis-bitcoins-gratis-1003975'>Cómo conseguir criptomonedas gratis sin necesidad de invertir un euro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-conseguir-criptomonedas-gratis-bitcoins-gratis-1003975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-conseguir-criptomonedas-gratis-necesidad-invertir-euro-2601499.jpg' alt='Cómo conseguir criptomonedas gratis sin necesidad de invertir un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195'>El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metodo-definitivo-limpiar-tapicerias-coche-productos-naturales-dejarla-como-nueva-2641661.jpg' alt='El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843'>Cómo encontrar las gasolineras más baratas en ruta con Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-auto-gasolineras-2633579.jpg' alt='Cómo encontrar las gasolineras más baratas en ruta con Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983'>Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/puedes-conseguir-tres-meses-apple-tv-gratis-tienes-consola-ps4-2641455.jpg' alt='Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981'>El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/el-metodo-williams--estreno-hbo-max-1025981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/metodo-williams-2588973.jpeg' alt='El último estreno de HBO Max tiene 6 nominaciones a los Óscar, incluyendo Mejor película' />
     </a>
 </div>
 
