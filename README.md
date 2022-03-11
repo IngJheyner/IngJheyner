@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523'>¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-movistar-solo-grandes-lanzamientos-1026357'>Qué películas ver este fin de semana en Netflix, HBO Max y Movistar+: solo grandes lanzamientos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-movistar-solo-grandes-lanzamientos-1026357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-recomendadas-2641957.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Movistar+: solo grandes lanzamientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489'>Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-largo-mundo-2642305.jpg' alt='Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479'>El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-8x-2642349.jpg' alt='El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-rebaja-precio-todos-apple-airpods-1026315'>Amazon rebaja el precio de todos los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-rebaja-precio-todos-apple-airpods-1026315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/airpods-pro-1977623.jpg' alt='Amazon rebaja el precio de todos los AirPods de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467'>¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lavavajillas-no-lava-bien-deja-algunos-platos-sucios-3-posibles-causas-solucion-1026467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='¿Por qué tu lavavajillas no lava bien y deja algunos platos sucios? 3 posibles causas y su solución' />
     </a>
 </div>
 
