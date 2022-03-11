@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-ver-finde-2642361.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523'>¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande</a></h4>
     <a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491'>A qué hora es más barata la luz hoy</a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='A qué hora es más barata la luz hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479'>El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperado-honor-x8-oficial-procesador-snapdragon-680-camara-64-mpx-1026479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-8x-2642349.jpg' alt='El esperado Honor X8 es oficial: procesador Snapdragon 680 y cámara de 64 Mpx' />
     </a>
 </div>
 
