@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartphone-vela-privacidad-solo-mover-switch-cable-usb-c-1026343'>El smartphone que vela por tu privacidad con solo mover un switch en su cable USB-C</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartphone-vela-privacidad-solo-mover-switch-cable-usb-c-1026343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2641985.jpg' alt='El smartphone que vela por tu privacidad con solo mover un switch en su cable USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319'>Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/palas-ping-pong-inteligentes-cuantifican-rendimiento-tenis-mesa-1026319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ping-pong-2641931.jpg' alt='Las palas de ping pong inteligentes que cuantifican tu rendimiento en tenis de mesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653'>Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/atencion-runners-reloj-deportivo-huawei-baja-229-euros-revienta-competencia-garmin-1025653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Atención, runners: el reloj deportivo de Huawei baja a 229 euros y revienta la competencia con Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243'>La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620765.jpg' alt='La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación' />
     </a>
 </div>
 
