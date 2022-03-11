@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243'>La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-galaxy-s22-ultra-45-w-no-notablemente-rapida-25-w-1026243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620765.jpg' alt='La carga rápida del Galaxy S22 Ultra de 45 W no es notablemente más rápida que la de 25 W y tiene su explicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-garantizan-seguridad-conversaciones-whatsapp-web-nueva-funcionalidad-code-verify-1026217'>Así es como garantizan la seguridad de tus conversaciones en WhatsApp Web con la nueva funcionalidad Code Verify</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-garantizan-seguridad-conversaciones-whatsapp-web-nueva-funcionalidad-code-verify-1026217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-web-2534515.jpg' alt='Así es como garantizan la seguridad de tus conversaciones en WhatsApp Web con la nueva funcionalidad Code Verify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205'>Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soldado-movil-2641665.jpg' alt='Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565'>El motivo por el que las patatas de McDonald's son tan adictivas</a></h4>
     <a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mcdonalds-2186153.jpg' alt='El motivo por el que las patatas de McDonald's son tan adictivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/caro-ahora-recargar-coche-electrico-repostar-diesel-1025557'>¿Qué es más caro ahora, recargar un coche eléctrico o repostar un diésel?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/caro-ahora-recargar-coche-electrico-repostar-diesel-1025557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiempo-recarga-bateria-coche-electrico-2421371.jpg' alt='¿Qué es más caro ahora, recargar un coche eléctrico o repostar un diésel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2641663.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
