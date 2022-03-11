@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/motor/miedo-distancias-10-coches-electricos-autonomia-mercado-1026447'>Sin miedo a las distancias: los 10 coches eléctricos con más autonomía del mercado</a></h4>
+    <a href='https://computerhoy.com/listas/motor/miedo-distancias-10-coches-electricos-autonomia-mercado-1026447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mercedes-eqs-2455131.jpg' alt='Sin miedo a las distancias: los 10 coches eléctricos con más autonomía del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557'>Android Auto se olvida de contestar llamadas y de momento no hay solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto se olvida de contestar llamadas y de momento no hay solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-ver-finde-2642361.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523'>¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande' />
     </a>
 </div>
 
