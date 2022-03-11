@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205'>Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algoritmos-tiempos-guerra-facebook-duckduckgo-1026205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soldado-movil-2641665.jpg' alt='Algoritmos en tiempos de guerra: Facebook y DuckDuckGo toman medidas polémicas e insólitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335'>3 originales purificadores de aire de Ikea que además combinan con la decoración</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='3 originales purificadores de aire de Ikea que además combinan con la decoración' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2641663.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835'>Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento' />
     </a>
 </div>
 
