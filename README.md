@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843'>Cómo encontrar las gasolineras más baratas en ruta con Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-gasolineras-baratas-ruta-android-auto-1021843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/android-auto-gasolineras-2633579.jpg' alt='Cómo encontrar las gasolineras más baratas en ruta con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983'>Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tres-meses-gratis-apple-tv-consola-ps4-1025983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/puedes-conseguir-tres-meses-apple-tv-gratis-tienes-consola-ps4-2641455.jpg' alt='Así puedes conseguir tres meses gratis de Apple TV+, si tienes una consola PS4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967'>Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-1025967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-transcribir-audio-video-offline-movil-google-live-transcribe-2641437.jpg' alt='Ya puedes transcribir un audio o vídeo offline con tu móvil desde Google Live Transcribe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971'>Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/termostato-inteligente-google-nest-oferta-1025971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/precios-energia-nubes-termostato-inteligente-google-nest-reducira-factura-2641433.jpg' alt='Con los precios de la energía por las nubes, el termostato inteligente Google Nest reducirá tu factura' />
     </a>
 </div>
 
