@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613'>Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-dos-routers-mesh-triple-banda-baja-40-te-sale-casi-gratis-2642615.jpg' alt='Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595'>Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455'>Los fans debaten si The Batman es la mejor película de DC</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='Los fans debaten si The Batman es la mejor película de DC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601'>Consejos y trucos de la OCU para eliminar los malos olores de la lavadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2594887.jpg' alt='Consejos y trucos de la OCU para eliminar los malos olores de la lavadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/red-pixar-estreno-disney-plus-1026597'>Red se ha estrenado en Disney+ sin pasar por los cines: una película de Pixar distinta por los temas que trata</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/red-pixar-estreno-disney-plus-1026597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-ha-estrenado-disney-pasar-cines-pelicula-pixar-distinta-temas-trata-2642553.jpg' alt='Red se ha estrenado en Disney+ sin pasar por los cines: una película de Pixar distinta por los temas que trata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-1026583'>Telegram añade un gestor de descargas y se suma al streaming en su última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-1026583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-2642533.jpg' alt='Telegram añade un gestor de descargas y se suma al streaming en su última actualización' />
     </a>
 </div>
 
