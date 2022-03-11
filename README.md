@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/miedo-distancias-10-coches-electricos-autonomia-mercado-1026447'>Sin miedo a las distancias: los 10 coches eléctricos con más autonomía del mercado</a></h4>
-    <a href='https://computerhoy.com/listas/motor/miedo-distancias-10-coches-electricos-autonomia-mercado-1026447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mercedes-eqs-2455131.jpg' alt='Sin miedo a las distancias: los 10 coches eléctricos con más autonomía del mercado' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455'>Los fans debaten si The Batman es la mejor película de DC</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='Los fans debaten si The Batman es la mejor película de DC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557'>Android Auto se olvida de contestar llamadas y de momento no hay solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto se olvida de contestar llamadas y de momento no hay solución' />
+    <h4><a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605'>Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/yogures-2642561.jpg' alt='Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/kisha-paraguas-inteligente-te-recuerda-cojas-va-llover-puedes-localizar-te-olvidaste-algun-sitio-1026569'>Kisha es el paraguas inteligente que te recuerda que lo cojas si va a llover y lo puedes localizar si te lo olvidaste en algún sitio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/kisha-paraguas-inteligente-te-recuerda-cojas-va-llover-puedes-localizar-te-olvidaste-algun-sitio-1026569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/paraguas-2642503.jpg' alt='Kisha es el paraguas inteligente que te recuerda que lo cojas si va a llover y lo puedes localizar si te lo olvidaste en algún sitio' />
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601'>Consejos y trucos de la OCU para eliminar los malos olores de la lavadora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2594887.jpg' alt='Consejos y trucos de la OCU para eliminar los malos olores de la lavadora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-1026545'>ZTE lanza un sorprendente micro PC del tamaño de un ratón de ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-1026545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-2642481.jpg' alt='ZTE lanza un sorprendente micro PC del tamaño de un ratón de ordenador' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/red-pixar-estreno-disney-plus-1026597'>Red se ha estrenado en Disney+ sin pasar por los cines: una película de Pixar distinta por los temas que trata</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/red-pixar-estreno-disney-plus-1026597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-ha-estrenado-disney-pasar-cines-pelicula-pixar-distinta-temas-trata-2642553.jpg' alt='Red se ha estrenado en Disney+ sin pasar por los cines: una película de Pixar distinta por los temas que trata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-ver-finde-2642361.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-1026583'>Telegram añade un gestor de descargas y se suma al streaming en su última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-1026583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/telegram-anade-gestor-descargas-suma-streaming-ultima-actualizacion-2642533.jpg' alt='Telegram añade un gestor de descargas y se suma al streaming en su última actualización' />
     </a>
 </div>
 
