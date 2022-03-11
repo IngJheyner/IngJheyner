@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621'>Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/criptomonedas-2321849.jpg' alt='Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613'>Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-dos-routers-mesh-triple-banda-baja-40-te-sale-casi-gratis-2642615.jpg' alt='Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605'>Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/yogures-2642561.jpg' alt='Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601'>Consejos y trucos de la OCU para eliminar los malos olores de la lavadora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-trucos-ocu-eliminar-malos-olores-lavadora-1026601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2594887.jpg' alt='Consejos y trucos de la OCU para eliminar los malos olores de la lavadora' />
     </a>
 </div>
 
