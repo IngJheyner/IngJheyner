@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557'>Android Auto se olvida de contestar llamadas y de momento no hay solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-olvida-contestar-llamadas-momento-no-hay-solucion-1026557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto se olvida de contestar llamadas y de momento no hay solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/kisha-paraguas-inteligente-te-recuerda-cojas-va-llover-puedes-localizar-te-olvidaste-algun-sitio-1026569'>Kisha es el paraguas inteligente que te recuerda que lo cojas si va a llover y lo puedes localizar si te lo olvidaste en algún sitio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/kisha-paraguas-inteligente-te-recuerda-cojas-va-llover-puedes-localizar-te-olvidaste-algun-sitio-1026569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/paraguas-2642503.jpg' alt='Kisha es el paraguas inteligente que te recuerda que lo cojas si va a llover y lo puedes localizar si te lo olvidaste en algún sitio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-1026545'>ZTE lanza un sorprendente micro PC del tamaño de un ratón de ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-1026545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zte-lanza-sorprendente-micro-pc-tamano-raton-ordenador-2642481.jpg' alt='ZTE lanza un sorprendente micro PC del tamaño de un ratón de ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-vampiros-baloncesto-coches-1026509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-ver-finde-2642361.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: vampiros, baloncesto y coches' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523'>¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande</a></h4>
     <a href='https://computerhoy.com/noticias/life/mayoria-productos-lidl-aldi-tienen-codigo-barras-descomunalmente-grande-1026523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='¿Por qué la mayoría de productos de Lidl o Aldi tienen un código de barras descomunalmente grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-movistar-solo-grandes-lanzamientos-1026357'>Qué películas ver este fin de semana en Netflix, HBO Max y Movistar+: solo grandes lanzamientos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-movistar-solo-grandes-lanzamientos-1026357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-recomendadas-2641957.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Movistar+: solo grandes lanzamientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489'>Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-largo-mundo-30-metros-longitud-minigolf-jacuzzi-piscina-helipuerto-1026489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-largo-mundo-2642305.jpg' alt='Este es el coche más largo del mundo con más de 30 metros de longitud, minigolf, jacuzzi, piscina y helipuerto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491'>A qué hora es más barata la luz hoy</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hora-barata-luz-hoy-1026491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='A qué hora es más barata la luz hoy' />
     </a>
 </div>
 
