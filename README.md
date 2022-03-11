@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335'>3 originales purificadores de aire de Ikea que además combinan con la decoración</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/3-originales-purificadores-aire-ikea-ademas-combinan-decoracion-1024335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='3 originales purificadores de aire de Ikea que además combinan con la decoración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565'>El motivo por el que las patatas de McDonald's son tan adictivas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/motivo-patatas-mcdonalds-son-tan-adictivas-1025565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mcdonalds-2186153.jpg' alt='El motivo por el que las patatas de McDonald's son tan adictivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/caro-ahora-recargar-coche-electrico-repostar-diesel-1025557'>¿Qué es más caro ahora, recargar un coche eléctrico o repostar un diésel?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/caro-ahora-recargar-coche-electrico-repostar-diesel-1025557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiempo-recarga-bateria-coche-electrico-2421371.jpg' alt='¿Qué es más caro ahora, recargar un coche eléctrico o repostar un diésel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1026197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2641663.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835'>Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-dyson-aspiradores-inalambricos-100-euros-descuento-1025835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Liquidación Dyson: aspiradores inalámbricos con hasta 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-conseguir-criptomonedas-gratis-bitcoins-gratis-1003975'>Cómo conseguir criptomonedas gratis sin necesidad de invertir un euro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-conseguir-criptomonedas-gratis-bitcoins-gratis-1003975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/como-conseguir-criptomonedas-gratis-necesidad-invertir-euro-2601499.jpg' alt='Cómo conseguir criptomonedas gratis sin necesidad de invertir un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195'>El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-definitivo-limpiar-tapiceria-coche-productos-naturales-1026195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metodo-definitivo-limpiar-tapicerias-coche-productos-naturales-dejarla-como-nueva-2641661.jpg' alt='El método definitivo para limpiar la tapicería del coche con productos naturales, y dejarla como nueva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987'>Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caidas-traje-volador-jetsuit-1025987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/innovar-tiene-riesgos-caidas-traje-volador-jetsuit-2641459.jpg' alt='Innovar tiene sus riesgos: caídas con el traje volador JetSuit (vídeo)' />
     </a>
 </div>
 
