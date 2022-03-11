@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625'>Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621'>Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/criptomonedas-2321849.jpg' alt='Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455'>Los fans debaten si The Batman es la mejor película de DC</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='Los fans debaten si The Batman es la mejor película de DC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605'>Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/yogures-limon-diferentes-sorprendente-novedad-mercadona-agota-segundos-1026605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/yogures-2642561.jpg' alt='Yogures de limón “diferentes”, la sorprendente novedad de Mercadona que se agota en segundos' />
     </a>
 </div>
 
