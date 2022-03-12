@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887'>Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitness-2643065.jpg' alt='Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575'>Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/himo-c30r-2643021.jpg' alt='Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873'>Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-realme-gt-2372297.jpg' alt='Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865'>¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-mi-band-2642981.jpg' alt='¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace' />
     </a>
 </div>
 
