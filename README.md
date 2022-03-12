@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205'>7 series sobre emprendedores que sirven para motivarse en el trabajo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mad-men-2640213.jpg' alt='7 series sobre emprendedores que sirven para motivarse en el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563'>Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/freidora-aceite-bear-2364913.jpg' alt='Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-m5-32-review-opinion-1025517'>Samsung M5 de 32”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-m5-32-review-opinion-1025517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-m5-analisis-opinion-2641047.jpg' alt='Samsung M5 de 32”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855'>Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/patente-pelicula-protectora-samsung-2642967.jpg' alt='Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149'>Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte</a></h4>
     <a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolce-gusto-2580823.jpg' alt='Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307'>Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/teclast-t40-pro-2641815.jpg' alt='Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/euro-digital-1014195'>¿Qué es el euro digital?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/euro-digital-1014195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/euro-digital-2642203.jpg' alt='¿Qué es el euro digital?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403'>Lenovo Tab P12 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-tab-p12-pro-2639477.jpg' alt='Lenovo Tab P12 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719'>7 móviles que muy pocos saben que llevan cámaras Sony</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-moviles-muy-pocos-saben-llevan-camaras-sony-2640933.jpg' alt='7 móviles que muy pocos saben que llevan cámaras Sony' />
     </a>
 </div>
 
