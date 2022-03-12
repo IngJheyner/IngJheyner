@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865'>¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-mi-band-2642981.jpg' alt='¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205'>7 series sobre emprendedores que sirven para motivarse en el trabajo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mad-men-2640213.jpg' alt='7 series sobre emprendedores que sirven para motivarse en el trabajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855'>Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/patente-pelicula-protectora-samsung-2642967.jpg' alt='Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149'>Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolce-gusto-2580823.jpg' alt='Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte' />
     </a>
 </div>
 
