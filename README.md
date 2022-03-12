@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307'>Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/teclast-t40-pro-2641815.jpg' alt='Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/euro-digital-1014195'>¿Qué es el euro digital?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/euro-digital-1014195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/euro-digital-2642203.jpg' alt='¿Qué es el euro digital?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403'>Lenovo Tab P12 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-tab-p12-pro-2639477.jpg' alt='Lenovo Tab P12 Pro, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713'>5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/javascript-2640911.jpg' alt='5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293'>La magia de las matemáticas, y otros divertidos trucos con números </a></h4>
-    <a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/magia-matematicas-otros-divertidos-trucos-numeros-2641797.jpg' alt='La magia de las matemáticas, y otros divertidos trucos con números ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629371.jpg' alt='Estos son los mejores móviles OnePlus de 2022' />
     </a>
 </div>
 
