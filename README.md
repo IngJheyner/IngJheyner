@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771'>Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-2642883.jpg' alt='Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625'>Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595'>Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455'>Los fans debaten si The Batman es la mejor película de DC</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fans-debaten-batman-mejor-pelicula-dc-1026455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batman-2579545.jpg' alt='Los fans debaten si The Batman es la mejor película de DC' />
     </a>
 </div>
 
