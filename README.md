@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925'>El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911'>Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575'>Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/himo-c30r-2643021.jpg' alt='Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883'>Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-samsung-galaxy-a72-2312269.jpg' alt='Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo' />
     </a>
 </div>
 
