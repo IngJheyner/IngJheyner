@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-1026833'>Estos son los productos de limpieza que nunca debes mezclar: producen nubes tóxicas, líquidos irritantes... ¡y hasta explosiones!</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-1026833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-son-productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-2642933.jpg' alt='Estos son los productos de limpieza que nunca debes mezclar: producen nubes tóxicas, líquidos irritantes... ¡y hasta explosiones!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575'>Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra</a></h4>
     <a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-2504119.jpg' alt='Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621'>Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/3-estafas-comunes-criptomonedas-1026621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/criptomonedas-2321849.jpg' alt='Investigadores españoles desvelan las 3 estafas más comunes de las criptomonedas, tras analizar 800 millones de transacciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613'>Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-dos-routers-mesh-triple-banda-baja-40-te-sale-casi-gratis-2642615.jpg' alt='Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis' />
     </a>
 </div>
 
