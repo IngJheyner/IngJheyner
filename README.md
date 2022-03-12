@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403'>Lenovo Tab P12 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-tab-p12-pro-review-opinion-1022403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-tab-p12-pro-2639477.jpg' alt='Lenovo Tab P12 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719'>7 móviles que muy pocos saben que llevan cámaras Sony</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-moviles-muy-pocos-saben-llevan-camaras-sony-2640933.jpg' alt='7 móviles que muy pocos saben que llevan cámaras Sony' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629371.jpg' alt='Estos son los mejores móviles OnePlus de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041'>Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?' />
     </a>
 </div>
 
