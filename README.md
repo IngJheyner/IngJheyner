@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293'>La magia de las matemáticas, y otros divertidos trucos con números </a></h4>
+    <a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/magia-matematicas-otros-divertidos-trucos-numeros-2641797.jpg' alt='La magia de las matemáticas, y otros divertidos trucos con números ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-ce-2-5g-2629371.jpg' alt='Estos son los mejores móviles OnePlus de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041'>Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575'>Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra</a></h4>
     <a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-2504119.jpg' alt='Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771'>Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-2642883.jpg' alt='Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625'>Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/valve-lanza-drivers-instalar-windows-10-steam-deck-1026625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/steam-deck-ya-mano-youtubers-asombra-rendimiento-pero-cuidado-bateria-2611569.jpg' alt='Valve lanza los drivers para instalar Windows 10 en Steam Deck... pero no Windows 11' />
     </a>
 </div>
 
