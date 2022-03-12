@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875'>Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nuevo-sabor-cereza-2438569.jpg' alt='Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873'>Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-realme-gt-2372297.jpg' alt='Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865'>¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-mi-band-2642981.jpg' alt='¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563'>Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/freidora-aceite-bear-2364913.jpg' alt='Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-m5-32-review-opinion-1025517'>Samsung M5 de 32”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-m5-32-review-opinion-1025517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-m5-analisis-opinion-2641047.jpg' alt='Samsung M5 de 32”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855'>Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-personalices-telefonos-gran-variedad-peliculas-pegatinas-protectoras-1026855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/patente-pelicula-protectora-samsung-2642967.jpg' alt='Samsung quiere que personalices sus teléfonos con una gran variedad de películas y pegatinas protectoras' />
     </a>
 </div>
 
