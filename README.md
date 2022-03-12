@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719'>7 móviles que muy pocos saben que llevan cámaras Sony</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-moviles-muy-pocos-saben-llevan-camaras-sony-2640933.jpg' alt='7 móviles que muy pocos saben que llevan cámaras Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713'>5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/javascript-2640911.jpg' alt='5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293'>La magia de las matemáticas, y otros divertidos trucos con números </a></h4>
     <a href='https://computerhoy.com/noticias/life/magia-matematicas-otros-divertidos-trucos-numeros-1026293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/magia-matematicas-otros-divertidos-trucos-numeros-2641797.jpg' alt='La magia de las matemáticas, y otros divertidos trucos con números ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041'>Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-apple-ha-tomado-reciclaje-demasiado-serio-pero-te-da-1025041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Con el iPhone SE, Apple se ha tomado el reciclaje demasiado en serio, pero... ¿qué más te da?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-1026833'>Estos son los productos de limpieza que nunca debes mezclar: producen nubes tóxicas, líquidos irritantes... ¡y hasta explosiones!</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-1026833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-son-productos-limpieza-nunca-debes-mezclar-producen-nubes-toxicas-liquidos-irritantes-explosiones-2642933.jpg' alt='Estos son los productos de limpieza que nunca debes mezclar: producen nubes tóxicas, líquidos irritantes... ¡y hasta explosiones!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575'>Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra</a></h4>
-    <a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-2504119.jpg' alt='Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra' />
     </a>
 </div>
 
