@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911'>Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367'>Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887'>Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitness-2643065.jpg' alt='Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883'>Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-samsung-galaxy-a72-2312269.jpg' alt='Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875'>Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nuevo-sabor-cereza-2438569.jpg' alt='Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873'>Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-llevarte-realme-gt-5g-solo-379-euros-tiene-100-euros-descuento-1026873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-realme-gt-2372297.jpg' alt='Ahora puedes llevarte el realme GT 5G a solo 379 euros y tiene más de 100 euros de descuento' />
     </a>
 </div>
 
