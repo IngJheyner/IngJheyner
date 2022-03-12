@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149'>Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cafetera-dolce-gusto-992149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dolce-gusto-2580823.jpg' alt='Comprar una cafetera Dolce Gusto: diferencias entre los diferentes modelos y en qué debes fijarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307'>Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-8gb-ram-rendimiento-prometedor-tablet-teclast-rompe-record-precio-188-euros-1026307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/teclast-t40-pro-2641815.jpg' alt='Pantalla 2K, 8GB de RAM y rendimiento prometedor: esta tablet de Teclast rompe récord con un precio de 188 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719'>7 móviles que muy pocos saben que llevan cámaras Sony</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-sensores-camara-sony-1025719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-moviles-muy-pocos-saben-llevan-camaras-sony-2640933.jpg' alt='7 móviles que muy pocos saben que llevan cámaras Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713'>5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cursos-online-aprender-javascript-udemy-1025713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/javascript-2640911.jpg' alt='5 cursos online para aprender JavaScript desde cero que puedes hacer en Udemy' />
     </a>
 </div>
 
