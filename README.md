@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575'>Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/himo-c30r-2643021.jpg' alt='Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883'>Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-dispone-actualizar-aclamada-serie-galaxy-proximo-17-marzo-1026883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-samsung-galaxy-a72-2312269.jpg' alt='Samsung se dispone a actualizar su aclamada serie Galaxy A el próximo 17 de marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875'>Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-netflix-vuelve-viral-gracias-tiktok-reto-ver-escena-entera-apartar-vista-1026875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/nuevo-sabor-cereza-2438569.jpg' alt='Una serie de Netflix se vuelve viral gracias a TikTok: el reto es ver una escena entera sin apartar la vista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865'>¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-tienen-modo-ducha-veamos-como-funciona-hace-1026865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-mi-band-2642981.jpg' alt='¡Los móviles Xiaomi tienen modo ducha! Veamos cómo funciona y qué hace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205'>7 series sobre emprendedores que sirven para motivarse en el trabajo</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-tratan-emprendedores-sirven-motivarse-trabajo-1025205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mad-men-2640213.jpg' alt='7 series sobre emprendedores que sirven para motivarse en el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563'>Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/freidora-aire-caliente-bear-xl-oferta-menos-45-euros-1026563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/freidora-aceite-bear-2364913.jpg' alt='Esta freidora sin aceite XL ahora cuesta menos de 45 euros gracias a este código de descuento' />
     </a>
 </div>
 
