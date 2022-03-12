@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575'>Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/hamacas-sillas-mecedoras-automaticas-949575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hamaca-automatica-2504119.jpg' alt='Hamacas y sillas mecedoras automáticas: mejores modelos y consejos de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771'>Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-1026771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dinamarca-pais-mejor-conexion-internet-espana-sube-tres-puestos-2642883.jpg' alt='Dinamarca es el país con la mejor conexión a Internet, España sube tres puestos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613'>Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pack-dos-routers-wifi-mesh-triple-banda-descuento-1026613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pack-dos-routers-mesh-triple-banda-baja-40-te-sale-casi-gratis-2642615.jpg' alt='Este pack de dos routers con WiFi Mesh de triple banda baja un 40%, y uno te sale casi gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595'>Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-anade-modo-retrato-fotos-antiguas-comida-mascotas-mucho-muy-realista-1026595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos añade el modo retrato para fotos antiguas de comida, mascotas y mucho más y, sí, es muy realista' />
     </a>
 </div>
 
