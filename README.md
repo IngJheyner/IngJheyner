@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207'>Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2643479.jpg' alt='Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177'>Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587'>Redmi Note 11, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643063.jpg' alt='Redmi Note 11, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163'>Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12' />
     </a>
 </div>
 
