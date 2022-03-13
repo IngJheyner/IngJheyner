@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177'>Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-home-invasion-seguridad-casa-1024619'>7 películas de terror Home Invasion que te harán poner en duda la seguridad de tu casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-home-invasion-seguridad-casa-1024619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/strangers-2641373.jpg' alt='7 películas de terror Home Invasion que te harán poner en duda la seguridad de tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171'>¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-pestanas-explorador-2643385.jpg' alt='¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163'>Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477'>Coche eléctrico: Motivos para comprarlo (o no)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-cargando-2620117.jpg' alt='Coche eléctrico: Motivos para comprarlo (o no)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403'>Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-chuwi-larkbox-pro-2642113.jpg' alt='Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10' />
     </a>
 </div>
 
