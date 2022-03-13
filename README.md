@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559'>POCO M4 Pro 4G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-m4-pro-4g-2639451.jpg' alt='POCO M4 Pro 4G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495'>Cómo decidir si instalar Windows 32 ó 64 bits</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chip-2627787.jpg' alt='Cómo decidir si instalar Windows 32 ó 64 bits' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175'>Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/avatar-facebook-2632445.jpg' alt='Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-10-pro-vs-iphone-13-pro-diferencias-comparativa-1026917'>OnePlus 10 Pro vs iPhone 13 Pro, cuál es mejor y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-10-pro-vs-iphone-13-pro-diferencias-comparativa-1026917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-pro-vs-oneplus-10-pro-2643139.jpg' alt='OnePlus 10 Pro vs iPhone 13 Pro, cuál es mejor y en qué se diferencian' />
     </a>
 </div>
 
