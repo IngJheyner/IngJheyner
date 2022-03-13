@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocados al público joven, abre sus puertas en Madrid</a></h4>
+    <a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocados al público joven, abre sus puertas en Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-deberias-comprar-antes-suban-precio-niquel-1027221'>4 accesorios que deberías comprar antes de que suban de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-deberias-comprar-antes-suban-precio-niquel-1027221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pilas-2643515.jpg' alt='4 accesorios que deberías comprar antes de que suban de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231'>El carrito de ramen de Nissan, que no salpica (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carrito-ramen-nissan-no-salpica-2643527.jpg' alt='El carrito de ramen de Nissan, que no salpica (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219'>El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/jbl-flip-essential-2315009.jpg' alt='El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213'>Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luces-coche-2643485.jpg' alt='Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207'>Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2643479.jpg' alt='Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa' />
     </a>
 </div>
 
