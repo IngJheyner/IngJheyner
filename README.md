@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937'>Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondos-pantalla-2615897.jpg' alt='Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207'>Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descubren-increible-medusa-tatuada-solo-habia-visto-vez-2641667.jpg' alt='Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911'>Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367'>Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!' />
     </a>
 </div>
 
