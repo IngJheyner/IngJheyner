@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213'>Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luces-coche-2643485.jpg' alt='Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207'>Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2643479.jpg' alt='Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171'>¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-pestanas-explorador-2643385.jpg' alt='¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587'>Redmi Note 11, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643063.jpg' alt='Redmi Note 11, análisis y opinión' />
     </a>
 </div>
 
