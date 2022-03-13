@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231'>El carrito de ramen de Nissan, que no salpica (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carrito-ramen-nissan-no-salpica-2643527.jpg' alt='El carrito de ramen de Nissan, que no salpica (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-crear-vender-nft-1002911'>Guía y todo lo que debes saber para crear y vender tus propios archivos NFT</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-crear-vender-nft-1002911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guia-todo-debes-saber-crear-propios-archivos-nft-2599487.jpg' alt='Guía y todo lo que debes saber para crear y vender tus propios archivos NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219'>El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/jbl-flip-essential-2315009.jpg' alt='El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213'>Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sencillo-gesto-evitaria-10-fallecidos-accidente-guardia-civil-1027213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luces-coche-2643485.jpg' alt='Este sencillo gesto evitaría el 10% de los fallecidos por accidente según la Guardia Civil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207'>Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-quien-te-tiene-contacto-whatsapp-sepas-1027207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2643479.jpg' alt='Cómo descubrir quién te tiene de contacto en WhatsApp sin que lo sepa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177'>Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-ultima-tecnologia-ordenador-profesional-ahora-puedes-comprar-lenovo-ideapad-5-pro-749-euros-1027177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Si buscas última tecnología y un ordenador profesional ahora puedes comprar el Lenovo IdeaPad 5 Pro a 749 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-home-invasion-seguridad-casa-1024619'>7 películas de terror Home Invasion que te harán poner en duda la seguridad de tu casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-home-invasion-seguridad-casa-1024619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/strangers-2641373.jpg' alt='7 películas de terror Home Invasion que te harán poner en duda la seguridad de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171'>¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-pestanas-explorador-2643385.jpg' alt='¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos' />
     </a>
 </div>
 
