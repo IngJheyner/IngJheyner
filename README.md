@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207'>Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descubren-increible-medusa-tatuada-solo-habia-visto-vez-2641667.jpg' alt='Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/segunda-guerra-mundial-pintaban-rosa-mountbatten-aviones-jeeps-1026341'>Por qué en la Segunda Guerra Mundial pintaban de rosa algunos aviones y jeeps</a></h4>
+    <a href='https://computerhoy.com/noticias/life/segunda-guerra-mundial-pintaban-rosa-mountbatten-aviones-jeeps-1026341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/segunda-guerra-mundial-pintaban-rosa-algunos-aviones-jeeps-2641927.jpg' alt='Por qué en la Segunda Guerra Mundial pintaban de rosa algunos aviones y jeeps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925'>El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367'>Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-xiaomi-bombilla-inteligente-alexa-oferta-6-euros-corre-vuela-1026367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Ganga de Xiaomi: su bombilla inteligente con Alexa está en oferta por 6 euros ¡corre, qué vuela!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887'>Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-ejercicios-resistencia-te-ayudaran-dormir-son-mejor-cardio-1026887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fitness-2643065.jpg' alt='Estos ejercicios de resistencia te ayudarán a dormir, y son mejor que el cardio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575'>Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-carretera-xiaomi-himo-c30r-oferta-1026575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/himo-c30r-2643021.jpg' alt='Con el precio de la gasolina por las nubes esta bicicleta eléctrica de Xiaomi 'HIMO C30R' puede ser tu salvación por dinero y salud' />
     </a>
 </div>
 
