@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251'>Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  </a></h4>
+    <a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descarga-espectaculares-calendarios-2022-fondos-pantalla-yamaha-2641721.jpg' alt='Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/flor-marte-1027253'>La "flor" encontrada en Marte es una bonita metáfora de la búsqueda incansable de vida del ser humano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/flor-marte-1027253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/flor-encontrada-marte-bonita-metafora-busqueda-incansable-ser-humano-2643663.jpg' alt='La "flor" encontrada en Marte es una bonita metáfora de la búsqueda incansable de vida del ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bose-frames-gafas-sol-auriculares-microfono-oferta-1027251'>El precio de las gafas de sol con auriculares y micrófono de Bose cae un 57%, ¡chollo!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bose-frames-gafas-sol-auriculares-microfono-oferta-1027251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-echo-frames-2142105.jpg' alt='El precio de las gafas de sol con auriculares y micrófono de Bose cae un 57%, ¡chollo!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-deberias-comprar-antes-suban-precio-niquel-1027221'>4 accesorios que deberías comprar antes de que suban de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-deberias-comprar-antes-suban-precio-niquel-1027221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pilas-2643515.jpg' alt='4 accesorios que deberías comprar antes de que suban de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231'>El carrito de ramen de Nissan, que no salpica (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carrito-ramen-nissan-no-salpica-video-1027231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carrito-ramen-nissan-no-salpica-2643527.jpg' alt='El carrito de ramen de Nissan, que no salpica (vídeo)' />
     </a>
 </div>
 
