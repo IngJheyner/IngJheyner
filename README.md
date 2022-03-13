@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-tener-android-auto-inalambrico-coche-2022-1021235'>Cómo tener Android Auto inalámbrico en el coche en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-tener-android-auto-inalambrico-coche-2022-1021235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-auto-como-funciona-2163047.jpg' alt='Cómo tener Android Auto inalámbrico en el coche en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937'>Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondos-pantalla-2615897.jpg' alt='Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925'>El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911'>Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-potencia-busqueda-windows-11-hacerla-visual-atractiva-1026911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Microsoft potencia la búsqueda de Windows 11 para hacerla más visual y atractiva' />
     </a>
 </div>
 
