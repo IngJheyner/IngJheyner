@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reacher-prime-video-serie-mas-vista-estados-unidos-1027247'>Esta serie de Prime Video ya es la más vista en Estados Unidos, superando a todas las de Netflix y Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/reacher-prime-video-serie-mas-vista-estados-unidos-1027247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/serie-prime-video-ya-vista-estados-unidos-superando-todas-netflix-disney-2643623.jpg' alt='Esta serie de Prime Video ya es la más vista en Estados Unidos, superando a todas las de Netflix y Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-crear-vender-nft-1002911'>Guía y todo lo que debes saber para crear y vender tus propios archivos NFT</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-todo-debes-saber-crear-vender-nft-1002911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guia-todo-debes-saber-crear-propios-archivos-nft-2599487.jpg' alt='Guía y todo lo que debes saber para crear y vender tus propios archivos NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219'>El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-altavoz-llevarte-verano-playa-ha-bajado-precio-21-jbl-flip-essential-ahora-79eu-1027219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/jbl-flip-essential-2315009.jpg' alt='El mejor altavoz para llevarte este verano a la playa ha bajado de precio un 21%: JBL Flip Essential ahora por 79€' />
     </a>
 </div>
 
