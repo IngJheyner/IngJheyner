@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477'>Coche eléctrico: Motivos para comprarlo (o no)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-cargando-2620117.jpg' alt='Coche eléctrico: Motivos para comprarlo (o no)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403'>Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-chuwi-larkbox-pro-2642113.jpg' alt='Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/podemos-evitar-navegador-consuma-mucha-memoria-ram-ordenador-1014065'>Así podemos evitar que tu navegador consuma mucha memoria RAM del ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/podemos-evitar-navegador-consuma-mucha-memoria-ram-ordenador-1014065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/opera-navegador-2111489.jpg' alt='Así podemos evitar que tu navegador consuma mucha memoria RAM del ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559'>POCO M4 Pro 4G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-m4-pro-4g-2639451.jpg' alt='POCO M4 Pro 4G, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495'>Cómo decidir si instalar Windows 32 ó 64 bits</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chip-2627787.jpg' alt='Cómo decidir si instalar Windows 32 ó 64 bits' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-social-transmite-emociones-mientras-lee-mensajes-texto-1026915'>Crean un robot social que transmite emociones mientras lee mensajes de texto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-social-transmite-emociones-mientras-lee-mensajes-texto-1026915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omoy-2643133.jpg' alt='Crean un robot social que transmite emociones mientras lee mensajes de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-diseno-rover-lunar-sera-protagonistas-proximas-misiones-nasa-1026921'>Este nuevo diseño de un rover lunar será uno de los protagonistas de las próximas misiones de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-diseno-rover-lunar-sera-protagonistas-proximas-misiones-nasa-1026921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/astrolab-flex-rover-2643137.jpg' alt='Este nuevo diseño de un rover lunar será uno de los protagonistas de las próximas misiones de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175'>Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/avatar-facebook-2632445.jpg' alt='Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram' />
     </a>
 </div>
 
