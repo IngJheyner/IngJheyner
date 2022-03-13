@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocados al público joven, abre sus puertas en Madrid</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocados al público joven, abre sus puertas en Madrid' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid' />
     </a>
 </div>
 
