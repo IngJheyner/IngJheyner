@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-diseno-rover-lunar-sera-protagonistas-proximas-misiones-nasa-1026921'>Este nuevo diseño de un rover lunar será uno de los protagonistas de las próximas misiones de la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-diseno-rover-lunar-sera-protagonistas-proximas-misiones-nasa-1026921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/astrolab-flex-rover-2643137.jpg' alt='Este nuevo diseño de un rover lunar será uno de los protagonistas de las próximas misiones de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175'>Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-3d-metaverso-facebook-instagram-1021175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/avatar-facebook-2632445.jpg' alt='Cómo crear tu propio avatar 3D para el metaverso de Facebook e Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-10-pro-vs-iphone-13-pro-diferencias-comparativa-1026917'>OnePlus 10 Pro vs iPhone 13 Pro, cuál es mejor y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-10-pro-vs-iphone-13-pro-diferencias-comparativa-1026917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-pro-vs-oneplus-10-pro-2643139.jpg' alt='OnePlus 10 Pro vs iPhone 13 Pro, cuál es mejor y en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-tener-android-auto-inalambrico-coche-2022-1021235'>Cómo tener Android Auto inalámbrico en el coche en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-tener-android-auto-inalambrico-coche-2022-1021235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-auto-como-funciona-2163047.jpg' alt='Cómo tener Android Auto inalámbrico en el coche en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937'>Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-paginas-descargar-fondos-pantalla-movil-2022-como-instalarlos-1011937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/fondos-pantalla-2615897.jpg' alt='Las mejores páginas para descargar fondos de pantalla para tu móvil en 2022 y cómo instalarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207'>Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/increible-medusa-tatuada-solo-habia-visto-vez-video-1026207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descubren-increible-medusa-tatuada-solo-habia-visto-vez-2641667.jpg' alt='Descubren una increíble medusa "tatuada", que solo se había visto una vez (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/segunda-guerra-mundial-pintaban-rosa-mountbatten-aviones-jeeps-1026341'>Por qué en la Segunda Guerra Mundial pintaban de rosa algunos aviones y jeeps</a></h4>
-    <a href='https://computerhoy.com/noticias/life/segunda-guerra-mundial-pintaban-rosa-mountbatten-aviones-jeeps-1026341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/segunda-guerra-mundial-pintaban-rosa-algunos-aviones-jeeps-2641927.jpg' alt='Por qué en la Segunda Guerra Mundial pintaban de rosa algunos aviones y jeeps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925'>El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-definitivo-solo-219-euros-tambien-friega-barre-vacia-automaticamente-1026925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='El robot aspirador definitivo a solo 219 euros que también friega y barre y se vacía automáticamente' />
     </a>
 </div>
 
