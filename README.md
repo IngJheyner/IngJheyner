@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171'>¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aleluya-windows-11-escucha-plegarias-anadira-pestanas-explorador-archivos-1027171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-pestanas-explorador-2643385.jpg' alt='¡Aleluya! Windows 11 escucha tus plegarias y añadirá pestañas en el explorador de archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587'>Redmi Note 11, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/redmi-note-11-review-opinion-1026587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643063.jpg' alt='Redmi Note 11, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163'>Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-estaria-ahorrando-apple-no-incluir-cargador-ni-auriculares-iphone-12-1027163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Esto es todo lo que se estaría ahorrando Apple tras no incluir cargador ni auriculares desde el iPhone 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477'>Coche eléctrico: Motivos para comprarlo (o no)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/coche-electrico-motivos-comprarlo-no-1014477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-cargando-2620117.jpg' alt='Coche eléctrico: Motivos para comprarlo (o no)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403'>Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-palma-mano-sorprendentemente-barato-cuesta-229eu-tiene-windows-10-1026403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-chuwi-larkbox-pro-2642113.jpg' alt='Este PC cabe en la palma de la mano y es sorprendentemente barato: cuesta 229€ y tiene Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/podemos-evitar-navegador-consuma-mucha-memoria-ram-ordenador-1014065'>Así podemos evitar que tu navegador consuma mucha memoria RAM del ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/podemos-evitar-navegador-consuma-mucha-memoria-ram-ordenador-1014065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/opera-navegador-2111489.jpg' alt='Así podemos evitar que tu navegador consuma mucha memoria RAM del ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559'>POCO M4 Pro 4G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-m4-pro-4g-review-opinion-1023559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/poco-m4-pro-4g-2639451.jpg' alt='POCO M4 Pro 4G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495'>Cómo decidir si instalar Windows 32 ó 64 bits</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-decidir-instalar-windows-32-64-bits-1018495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/chip-2627787.jpg' alt='Cómo decidir si instalar Windows 32 ó 64 bits' />
     </a>
 </div>
 
