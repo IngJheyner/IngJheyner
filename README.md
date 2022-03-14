@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687'>Los mineros de criptomonedas no están minando en los portátiles y hay tres razones para ello</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/minar-criptomonedas.jpg' alt='Los mineros de criptomonedas no están minando en los portátiles y hay tres razones para ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679'>Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg' alt='Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-llega-surf-tablas-propulsion-electrica-pulseras-antitiburones-1027551'>La tecnología que llega al surf: desde tablas con propulsión eléctrica hasta pulseras antitiburones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-llega-surf-tablas-propulsion-electrica-pulseras-antitiburones-1027551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/surf-2430581.jpg' alt='La tecnología que llega al surf: desde tablas con propulsión eléctrica hasta pulseras antitiburones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517'>Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-7-active-2644059.jpg' alt='Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639'>Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu</a></h4>
     <a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ethereum-2393805.jpg' alt='Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/agitar-minimizar-otros-trucos-rapidos-ser-productivo-windows-10-11-1027623'>Agitar para minimizar y otros trucos rápidos para ser más productivo en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/agitar-minimizar-otros-trucos-rapidos-ser-productivo-windows-10-11-1027623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/raton-windows-10-2426127.jpg' alt='Agitar para minimizar y otros trucos rápidos para ser más productivo en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549'>Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591'>Cada cuánto tiempo tienes que renovar el DNI</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='Cada cuánto tiempo tienes que renovar el DNI' />
     </a>
 </div>
 
