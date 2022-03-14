@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739'>Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/9-utensilios-nunca-deberias-lavar-lavavajillas-1027703'>Los 9 utensilios que nunca deberías lavar en el lavavajillas </a></h4>
+    <a href='https://computerhoy.com/noticias/life/9-utensilios-nunca-deberias-lavar-lavavajillas-1027703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vasos-dentro-lavavajillas-2528015.jpg' alt='Los 9 utensilios que nunca deberías lavar en el lavavajillas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567'>Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679'>Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg' alt='Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-llega-surf-tablas-propulsion-electrica-pulseras-antitiburones-1027551'>La tecnología que llega al surf: desde tablas con propulsión eléctrica hasta pulseras antitiburones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-llega-surf-tablas-propulsion-electrica-pulseras-antitiburones-1027551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/surf-2430581.jpg' alt='La tecnología que llega al surf: desde tablas con propulsión eléctrica hasta pulseras antitiburones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517'>Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-7-active-2644059.jpg' alt='Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez' />
     </a>
 </div>
 
