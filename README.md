@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-bloqueada-rusia-empresa-extremista-aplicaciones-facebook-instagram-whatsapp-dejan-funcionar-alli-1027485'>Meta bloqueada en Rusia por “empresa extremista”: sus aplicaciones Facebook, Instagram y WhatsApp dejan de funcionar allí</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-bloqueada-rusia-empresa-extremista-aplicaciones-facebook-instagram-whatsapp-dejan-funcionar-alli-1027485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Meta bloqueada en Rusia por “empresa extremista”: sus aplicaciones Facebook, Instagram y WhatsApp dejan de funcionar allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tumba-youtube-vanced-apps-android-populares-aunque-todavia-puede-descargar-1027455'>Google tumba YouTube Vanced, una de las apps para Android más populares (aunque todavía se puede descargar)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-tumba-youtube-vanced-apps-android-populares-aunque-todavia-puede-descargar-1027455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vanced-2643881.jpg' alt='Google tumba YouTube Vanced, una de las apps para Android más populares (aunque todavía se puede descargar)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-cancelacion-ruido-precio-ganga-estos-auriculares-philips-revientan-mercado-oferta-1027449'>Carga inalámbrica y cancelación de ruido a precio de ganga: estos auriculares Philips revientan el mercado en una oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-cancelacion-ruido-precio-ganga-estos-auriculares-philips-revientan-mercado-oferta-1027449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-t8505bk-00-2643877.jpg' alt='Carga inalámbrica y cancelación de ruido a precio de ganga: estos auriculares Philips revientan el mercado en una oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/olvidate-no-busques-productos-mercadona-ha-eliminado-sorpresa-catalogo-1027483'>Olvídate, no busques más: productos que Mercadona ha eliminado por sorpresa de su catálogo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/olvidate-no-busques-productos-mercadona-ha-eliminado-sorpresa-catalogo-1027483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-supermercado-mascarilla-2643989.jpg' alt='Olvídate, no busques más: productos que Mercadona ha eliminado por sorpresa de su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433'>Los 8 motivos por los que no deberías ser programador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915423.jpg' alt='Los 8 motivos por los que no deberías ser programador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437'>Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2643865.jpg' alt='Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/foxconn-problemas-coronavirus-mayor-proveedor-apple-samsung-1027423'>El coronavirus sigue presente y Foxconn, el mayor proveedor de Apple y Samsung, cierra fábricas en China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/foxconn-problemas-coronavirus-mayor-proveedor-apple-samsung-1027423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/foxconn-1862893.jpg' alt='El coronavirus sigue presente y Foxconn, el mayor proveedor de Apple y Samsung, cierra fábricas en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235'>Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cepillo-dientes-electrico-oral-b-2643545.jpg' alt='Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341'>8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles' />
     </a>
 </div>
 
