@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-bloqueada-rusia-empresa-extremista-aplicaciones-facebook-instagram-whatsapp-dejan-funcionar-alli-1027485'>Meta bloqueada en Rusia por “empresa extremista”: sus aplicaciones Facebook, Instagram y WhatsApp dejan de funcionar allí</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-bloqueada-rusia-empresa-extremista-aplicaciones-facebook-instagram-whatsapp-dejan-funcionar-alli-1027485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Meta bloqueada en Rusia por “empresa extremista”: sus aplicaciones Facebook, Instagram y WhatsApp dejan de funcionar allí' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577'>Consejos de usuarios veteranos de freidoras de aire para los más novatos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aire-2644195.jpg' alt='Consejos de usuarios veteranos de freidoras de aire para los más novatos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tumba-youtube-vanced-apps-android-populares-aunque-todavia-puede-descargar-1027455'>Google tumba YouTube Vanced, una de las apps para Android más populares (aunque todavía se puede descargar)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-tumba-youtube-vanced-apps-android-populares-aunque-todavia-puede-descargar-1027455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vanced-2643881.jpg' alt='Google tumba YouTube Vanced, una de las apps para Android más populares (aunque todavía se puede descargar)' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217'>WeTransfer en 2022: trucos y guía completa para compartir archivos grandes</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wetransfer-2644027.jpg' alt='WeTransfer en 2022: trucos y guía completa para compartir archivos grandes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-cancelacion-ruido-precio-ganga-estos-auriculares-philips-revientan-mercado-oferta-1027449'>Carga inalámbrica y cancelación de ruido a precio de ganga: estos auriculares Philips revientan el mercado en una oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-cancelacion-ruido-precio-ganga-estos-auriculares-philips-revientan-mercado-oferta-1027449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-t8505bk-00-2643877.jpg' alt='Carga inalámbrica y cancelación de ruido a precio de ganga: estos auriculares Philips revientan el mercado en una oferta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519'>España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/olvidate-no-busques-productos-mercadona-ha-eliminado-sorpresa-catalogo-1027483'>Olvídate, no busques más: productos que Mercadona ha eliminado por sorpresa de su catálogo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/olvidate-no-busques-productos-mercadona-ha-eliminado-sorpresa-catalogo-1027483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-supermercado-mascarilla-2643989.jpg' alt='Olvídate, no busques más: productos que Mercadona ha eliminado por sorpresa de su catálogo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-quiere-prohibir-baterias-integradas-moviles-no-puedan-ser-cambiadas-usuario-1027495'>El Parlamento Europeo quiere prohibir las baterías integradas en los móviles que no puedan ser cambiadas por el usuario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-quiere-prohibir-baterias-integradas-moviles-no-puedan-ser-cambiadas-usuario-1027495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/parlamento-europeo-2582631.jpg' alt='El Parlamento Europeo quiere prohibir las baterías integradas en los móviles que no puedan ser cambiadas por el usuario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433'>Los 8 motivos por los que no deberías ser programador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915423.jpg' alt='Los 8 motivos por los que no deberías ser programador' />
+    <h4><a href='https://computerhoy.com/noticias/nuevo-samsung-galaxy-unpacked-17-marzo-veremos-galaxy-a53-a73-1027525'>Nuevo Samsung Galaxy Unpacked el 17 de marzo: veremos  los Galaxy A53 y A73</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-samsung-galaxy-unpacked-17-marzo-veremos-galaxy-a53-a73-1027525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-samsung-galaxy-a72-2312265.jpg' alt='Nuevo Samsung Galaxy Unpacked el 17 de marzo: veremos  los Galaxy A53 y A73' />
     </a>
 </div>
 
