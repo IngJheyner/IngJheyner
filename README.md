@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767'>Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambias-banco-acuerdate-dar-baja-bizum-podrias-tener-problemas-1027749'>Si cambias de banco acuérdate de dar de baja Bizum o podrías tener problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cambias-banco-acuerdate-dar-baja-bizum-podrias-tener-problemas-1027749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Si cambias de banco acuérdate de dar de baja Bizum o podrías tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739'>Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567'>Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687'>Los mineros de criptomonedas no están minando en portátiles y hay tres razones para ello</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/minar-criptomonedas.jpg' alt='Los mineros de criptomonedas no están minando en portátiles y hay tres razones para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679'>Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/clipchamp-como-funciona-nueva-app-nativa-windows-11-todo-mundo-habla-1027679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg' alt='Qué es Clipchamp y cómo funciona la nueva app nativa de Windows 11 de la que todo el mundo habla' />
     </a>
 </div>
 
