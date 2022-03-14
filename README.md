@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549'>Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591'>Cada cuánto tiempo tienes que renovar el DNI</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='Cada cuánto tiempo tienes que renovar el DNI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577'>Consejos de usuarios veteranos de freidoras de aire para los más novatos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aire-2644195.jpg' alt='Consejos de usuarios veteranos de freidoras de aire para los más novatos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519'>España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-quiere-prohibir-baterias-integradas-moviles-no-puedan-ser-cambiadas-usuario-1027495'>El Parlamento Europeo quiere prohibir las baterías integradas en los móviles que no puedan ser cambiadas por el usuario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/parlamento-europeo-quiere-prohibir-baterias-integradas-moviles-no-puedan-ser-cambiadas-usuario-1027495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/parlamento-europeo-2582631.jpg' alt='El Parlamento Europeo quiere prohibir las baterías integradas en los móviles que no puedan ser cambiadas por el usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-samsung-galaxy-unpacked-17-marzo-veremos-galaxy-a53-a73-1027525'>Nuevo Samsung Galaxy Unpacked el 17 de marzo: veremos  los Galaxy A53 y A73</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-samsung-galaxy-unpacked-17-marzo-veremos-galaxy-a53-a73-1027525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-samsung-galaxy-a72-2312265.jpg' alt='Nuevo Samsung Galaxy Unpacked el 17 de marzo: veremos  los Galaxy A53 y A73' />
     </a>
 </div>
 
