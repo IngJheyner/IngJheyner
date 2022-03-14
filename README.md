@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cosmo-on-vodafone-tv-1027857'>Qué es COSMO ON, el nuevo servicio gratuito que llega a Vodafone TV, con más de 500 títulos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cosmo-on-vodafone-tv-1027857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosmo-nuevo-servicio-llega-vodafone-tv-500-titulos-2644763.jpg' alt='Qué es COSMO ON, el nuevo servicio gratuito que llega a Vodafone TV, con más de 500 títulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/libre-actualizar-google-parece-haber-dado-clavo-actualizacion-74-android-auto-1027855'>Vía libre para actualizar: Google parece haber dado en el clavo con la actualización 7.4 de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/libre-actualizar-google-parece-haber-dado-clavo-actualizacion-74-android-auto-1027855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Vía libre para actualizar: Google parece haber dado en el clavo con la actualización 7.4 de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/madrid-estrena-nuevas-marcas-viales-blancas-azules-significan-exactamente-1027849'>Madrid estrena nuevas marcas viales blancas y azules: ¿qué significan exactamente?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/madrid-estrena-nuevas-marcas-viales-blancas-azules-significan-exactamente-1027849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevas-plazas-ser-madrid-2644749.jpg' alt='Madrid estrena nuevas marcas viales blancas y azules: ¿qué significan exactamente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ha-vendido-ferrari-f40-6000-kms-2-millones-euros-1027617'>Se ha vendido un Ferrari F40 con 6.000 kms por más de 2 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ha-vendido-ferrari-f40-6000-kms-2-millones-euros-1027617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ferrari-f40-subastado-gooding-company-2637061.jpg' alt='Se ha vendido un Ferrari F40 con 6.000 kms por más de 2 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aun-estar-presentado-ya-venta-galaxy-a53-confirma-peores-sospechas-1027819'>Aún sin estar presentado ya está a la venta el Galaxy A53 y se confirma una de las peores sospechas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aun-estar-presentado-ya-venta-galaxy-a53-confirma-peores-sospechas-1027819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/samsung-galaxy-a52-5g-analisis-2303763.jpg' alt='Aún sin estar presentado ya está a la venta el Galaxy A53 y se confirma una de las peores sospechas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-google-play-games-windows-1027801'>Ya está disponible Google Play Games para Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-google-play-games-windows-1027801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-disponible-google-play-games-windows-2644657.jpg' alt='Ya está disponible Google Play Games para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/merece-pena-comprar-xbox-series-s-oferta-amazon-1027475'>Por qué es buena idea comprar ahora la Xbox Series S (además de por ser más barata que nunca)</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/merece-pena-comprar-xbox-series-s-oferta-amazon-1027475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131675.jpg' alt='Por qué es buena idea comprar ahora la Xbox Series S (además de por ser más barata que nunca)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-1027777'>Intenta pasar de contrabando por la aduana 160 procesadores y varios móviles pegados a su cuerpo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-1027777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-2644647.jpg' alt='Intenta pasar de contrabando por la aduana 160 procesadores y varios móviles pegados a su cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767'>Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan' />
     </a>
 </div>
 
