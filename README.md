@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433'>Los 8 motivos por los que no deberías ser programador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/8-motivos-no-deberias-ser-programador-1027433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/8-lenguajes-programacion-aprender-programar-cero-1915423.jpg' alt='Los 8 motivos por los que no deberías ser programador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437'>Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2643865.jpg' alt='Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341'>8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463'>Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/beber-alcohol.jpg' alt='Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos' />
     </a>
 </div>
 
