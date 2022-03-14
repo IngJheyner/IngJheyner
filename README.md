@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437'>Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-popular-netflix-espana-proyecto-adam-1027437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2643865.jpg' alt='Una película se sitúa como lo más popular en Netflix España tras varios meses con la misma serie en esa posición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/foxconn-problemas-coronavirus-mayor-proveedor-apple-samsung-1027423'>El coronavirus sigue presente y Foxconn, el mayor proveedor de Apple y Samsung, cierra fábricas en China</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/foxconn-problemas-coronavirus-mayor-proveedor-apple-samsung-1027423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/foxconn-1862893.jpg' alt='El coronavirus sigue presente y Foxconn, el mayor proveedor de Apple y Samsung, cierra fábricas en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235'>Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cepillo-dientes-electrico-oral-b-2643545.jpg' alt='Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341'>8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/gadgets-menos-10-euros-aliexpress-muy-utiles-1023341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='8 gadgets de menos de 10 euros de AliExpress que te serán muy útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463'>Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos</a></h4>
     <a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/beber-alcohol.jpg' alt='Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/audi-quattro-mejores-coches-audi-historia-1026459'>Audi Quattro, uno de los mejores coches de Audi de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/audi-quattro-mejores-coches-audi-historia-1026459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/audi-quattro-2637119.jpg' alt='Audi Quattro, uno de los mejores coches de Audi de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1027417'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1027417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2643831.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/infladores-neumaticos-perfectos-evitar-pagar-aire-gasolinera-1027229'>5 infladores de neumáticos perfectos para evitar pagar por aire en la gasolinera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/infladores-neumaticos-perfectos-evitar-pagar-aire-gasolinera-1027229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/compresor-aire-neumaticos-2643535.jpg' alt='5 infladores de neumáticos perfectos para evitar pagar por aire en la gasolinera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673'>Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuando-nikola-tesla-pago-anos-hotel-rayo-muerte-era-caja-llena-tuercas-cables-2635157.jpg' alt='Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos' />
     </a>
 </div>
 
