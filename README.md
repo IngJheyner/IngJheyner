@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517'>Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-7-active-2644059.jpg' alt='Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639'>Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu</a></h4>
+    <a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ethereum-2393805.jpg' alt='Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/agitar-minimizar-otros-trucos-rapidos-ser-productivo-windows-10-11-1027623'>Agitar para minimizar y otros trucos rápidos para ser más productivo en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/agitar-minimizar-otros-trucos-rapidos-ser-productivo-windows-10-11-1027623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/raton-windows-10-2426127.jpg' alt='Agitar para minimizar y otros trucos rápidos para ser más productivo en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549'>Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9000-delante-snapdragon-8-gen-1-casi-altura-apple-bionic-a15-1027549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/mediatek-dimensity-9000-2537587.jpg' alt='Mediatek Dimensity 9000 por delante de Snapdragon 8 Gen 1 y casi a la altura del Apple Bionic A15' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591'>Cada cuánto tiempo tienes que renovar el DNI</a></h4>
     <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-dni-1027591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='Cada cuánto tiempo tienes que renovar el DNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577'>Consejos de usuarios veteranos de freidoras de aire para los más novatos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejos-usuarios-veteranos-freidoras-aire-novatos-1027577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aire-2644195.jpg' alt='Consejos de usuarios veteranos de freidoras de aire para los más novatos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217'>WeTransfer en 2022: trucos y guía completa para compartir archivos grandes</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wetransfer-2644027.jpg' alt='WeTransfer en 2022: trucos y guía completa para compartir archivos grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519'>España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espana-podria-disponer-reserva-gas-varias-decadas-pero-niega-explotarla-1027519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España podría disponer de una reserva de gas para varias décadas, pero se niega a explotarla, ¿por qué?' />
     </a>
 </div>
 
