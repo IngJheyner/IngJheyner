@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687'>Los mineros de criptomonedas no están minando en los portátiles y hay tres razones para ello</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567'>Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687'>Los mineros de criptomonedas no están minando en portátiles y hay tres razones para ello</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mineros-criptomonedas-no-estan-minando-portatiles-hay-tres-razones-ello-1027687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/minar-criptomonedas.jpg' alt='Los mineros de criptomonedas no están minando en los portátiles y hay tres razones para ello' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/minar-criptomonedas.jpg' alt='Los mineros de criptomonedas no están minando en portátiles y hay tres razones para ello' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517'>Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jabra-elite-7-active-oferta-149-euros-amazon-1027517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jabra-elite-7-active-2644059.jpg' alt='Jabra Elite 7 Active, los nuevos auriculares con cancelación de ruido para hacer deporte, bajan de precio en Amazon por primera vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639'>Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu</a></h4>
-    <a href='https://computerhoy.com/noticias/waves-ethereum-ruso-ganando-partida-shiba-inu-1027639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ethereum-2393805.jpg' alt='Waves, el “Ethereum ruso” que le está ganando la partida a Shiba Inu' />
     </a>
 </div>
 
