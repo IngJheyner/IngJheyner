@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873'>La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/silla-levanta-sola-cuando-cae-motores-ni-mecanismos-2644819.jpg' alt='La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-descuento-1027825'>Este portátil gaming con Ryzen 7, RTX 3050 y pantalla a 144 Hz baja 240 euros y se queda en solo 959 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-descuento-1027825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-baja-solo-959eu-2644679.jpg' alt='Este portátil gaming con Ryzen 7, RTX 3050 y pantalla a 144 Hz baja 240 euros y se queda en solo 959 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/libre-actualizar-google-parece-haber-dado-clavo-actualizacion-74-android-auto-1027855'>Vía libre para actualizar: Google parece haber dado en el clavo con la actualización 7.4 de Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/libre-actualizar-google-parece-haber-dado-clavo-actualizacion-74-android-auto-1027855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Vía libre para actualizar: Google parece haber dado en el clavo con la actualización 7.4 de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/madrid-estrena-nuevas-marcas-viales-blancas-azules-significan-exactamente-1027849'>Madrid estrena nuevas marcas viales blancas y azules: ¿qué significan exactamente?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/madrid-estrena-nuevas-marcas-viales-blancas-azules-significan-exactamente-1027849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevas-plazas-ser-madrid-2644749.jpg' alt='Madrid estrena nuevas marcas viales blancas y azules: ¿qué significan exactamente?' />
     </a>
 </div>
 
