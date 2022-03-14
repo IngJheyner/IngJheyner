@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aun-estar-presentado-ya-venta-galaxy-a53-confirma-peores-sospechas-1027819'>Aún sin estar presentado ya está a la venta el Galaxy A53 y se confirma una de las peores sospechas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aun-estar-presentado-ya-venta-galaxy-a53-confirma-peores-sospechas-1027819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/samsung-galaxy-a52-5g-analisis-2303763.jpg' alt='Aún sin estar presentado ya está a la venta el Galaxy A53 y se confirma una de las peores sospechas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-google-play-games-windows-1027801'>Ya está disponible Google Play Games para Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-google-play-games-windows-1027801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-disponible-google-play-games-windows-2644657.jpg' alt='Ya está disponible Google Play Games para Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/merece-pena-comprar-xbox-series-s-oferta-amazon-1027475'>Por qué es buena idea comprar ahora la Xbox Series S (además de por ser más barata que nunca)</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/merece-pena-comprar-xbox-series-s-oferta-amazon-1027475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131675.jpg' alt='Por qué es buena idea comprar ahora la Xbox Series S (además de por ser más barata que nunca)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-1027777'>Intenta pasar de contrabando por la aduana 160 procesadores y varios móviles pegados a su cuerpo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-1027777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intenta-pasar-contrabando-aduana-160-procesadores-varios-moviles-pegados-cuerpo-2644647.jpg' alt='Intenta pasar de contrabando por la aduana 160 procesadores y varios móviles pegados a su cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767'>Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan</a></h4>
     <a href='https://computerhoy.com/noticias/motor/alemania-francia-forman-frente-comun-coches-combustion-no-desaparezcan-1027767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='Alemania y Francia forman un frente común para que los coches de combustión no desaparezcan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambias-banco-acuerdate-dar-baja-bizum-podrias-tener-problemas-1027749'>Si cambias de banco acuérdate de dar de baja Bizum o podrías tener problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cambias-banco-acuerdate-dar-baja-bizum-podrias-tener-problemas-1027749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Si cambias de banco acuérdate de dar de baja Bizum o podrías tener problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739'>Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/francia-toma-drastica-decision-gasolina-sea-barata-podria-aplicarse-espana-1027739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Francia toma una drástica decisión para que la gasolina sea más barata: ¿podría aplicarse en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/9-utensilios-nunca-deberias-lavar-lavavajillas-1027703'>Los 9 utensilios que nunca deberías lavar en el lavavajillas </a></h4>
-    <a href='https://computerhoy.com/noticias/life/9-utensilios-nunca-deberias-lavar-lavavajillas-1027703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/vasos-dentro-lavavajillas-2528015.jpg' alt='Los 9 utensilios que nunca deberías lavar en el lavavajillas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567'>Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/normal-proyecto-adam-te-haya-recordado-otras-peliculas-estas-son-algunas-referencias-1027567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Es normal que El proyecto Adam te haya recordado a otras películas: estas son algunas de sus referencias' />
     </a>
 </div>
 
