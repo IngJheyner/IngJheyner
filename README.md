@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673'>Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuando-nikola-tesla-pago-anos-hotel-rayo-muerte-era-caja-llena-tuercas-cables-2635157.jpg' alt='Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251'>Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  </a></h4>
     <a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descarga-espectaculares-calendarios-2022-fondos-pantalla-yamaha-2641721.jpg' alt='Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/reacher-prime-video-serie-mas-vista-estados-unidos-1027247'>Esta serie de Prime Video ya es la más vista en Estados Unidos, superando a todas las de Netflix y Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/reacher-prime-video-serie-mas-vista-estados-unidos-1027247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/serie-prime-video-ya-vista-estados-unidos-superando-todas-netflix-disney-2643623.jpg' alt='Esta serie de Prime Video ya es la más vista en Estados Unidos, superando a todas las de Netflix y Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241'>WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid</a></h4>
-    <a href='https://computerhoy.com/noticias/life/wow-concept-grandes-almacenes-madrid-1027241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wow-concept-nuevo-tipo-grandes-almacenes-enfocados-publico-joven-abre-puestas-madrid-2643599.jpg' alt='WOW Concept, un nuevo tipo de grandes almacenes enfocado al público joven, abre sus puertas en Madrid' />
     </a>
 </div>
 
