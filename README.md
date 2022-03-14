@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885'>Por primera vez en 18 años, suben las ventas de CDs musicales</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885'>Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-vez-18-anos-suben-ventas-cds-musicales-2644831.jpg' alt='Por primera vez en 18 años, suben las ventas de CDs musicales' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-vez-18-anos-suben-ventas-cds-musicales-2644831.jpg' alt='Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021' />
     </a>
 </div>
 
