@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463'>Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tipos-bebidas-alcoholicas-no-llevan-azucares-ni-carbohidratos-1026463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/beber-alcohol.jpg' alt='Los tipos de bebidas alcohólicas que no llevan azúcares ni carbohidratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/audi-quattro-mejores-coches-audi-historia-1026459'>Audi Quattro, uno de los mejores coches de Audi de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/audi-quattro-mejores-coches-audi-historia-1026459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/audi-quattro-2637119.jpg' alt='Audi Quattro, uno de los mejores coches de Audi de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1027417'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1027417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2643831.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673'>Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos</a></h4>
     <a href='https://computerhoy.com/noticias/life/nikola-tesla-rayo-muerte-1022673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuando-nikola-tesla-pago-anos-hotel-rayo-muerte-era-caja-llena-tuercas-cables-2635157.jpg' alt='Cuando Nikola Tesla pagó años de hotel con un Rayo de la Muerte que era una caja llena de pulsadores y cables sueltos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251'>Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  </a></h4>
-    <a href='https://computerhoy.com/noticias/life/calendarios-2022-fondos-pantalla-yamaha-descarga-1026251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/descarga-espectaculares-calendarios-2022-fondos-pantalla-yamaha-2641721.jpg' alt='Descarga los espectaculares Calendarios 2022 y fondos de pantalla de Yamaha  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/flor-marte-1027253'>La "flor" encontrada en Marte es una bonita metáfora de la búsqueda incansable de vida del ser humano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/flor-marte-1027253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/flor-encontrada-marte-bonita-metafora-busqueda-incansable-ser-humano-2643663.jpg' alt='La "flor" encontrada en Marte es una bonita metáfora de la búsqueda incansable de vida del ser humano' />
     </a>
 </div>
 
