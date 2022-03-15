@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613'>Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213345.jpg' alt='Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339'>Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/joe-biden-2177569.jpg' alt='Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273'>Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-robot-vacuum-mop-2645259.jpg' alt='Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-convertido-router-wifi-riesgo-seguridad-1028301'>¿Se ha convertido tu router WiFi en un riesgo para tu seguridad?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ha-convertido-router-wifi-riesgo-seguridad-1028301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-wifi-2486237.jpg' alt='¿Se ha convertido tu router WiFi en un riesgo para tu seguridad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329'>Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-buds-3t-pro-2645365.jpg' alt='Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141'>Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-2645231.jpg' alt='Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W' />
     </a>
 </div>
 
