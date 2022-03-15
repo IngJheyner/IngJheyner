@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/estos-7-coches-dejan-venderse-2022-1028291'>Estos 7 coches dejarán de venderse en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/motor/estos-7-coches-dejan-venderse-2022-1028291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/renault-talisman_0.jpg' alt='Estos 7 coches dejarán de venderse en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295'>El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spider-man-no-way-home-electro-2637807.jpg' alt='El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587'>RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg' alt='RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/9-maneras-ahorrar-bateria-mejorar-autonomia-smartwatch-1028475'>Las 9 maneras de ahorrar batería mejorar la autonomía de tu smartwatch</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/9-maneras-ahorrar-bateria-mejorar-autonomia-smartwatch-1028475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='Las 9 maneras de ahorrar batería mejorar la autonomía de tu smartwatch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447'>Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos</a></h4>
-    <a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/meta-2520675.jpg' alt='Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos' />
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501'>Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-nashe-1028411'>¿Qué significa nashe?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-nashe-1028411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='¿Qué significa nashe?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-avanzadas-camara-samsung-galaxy-s22-llegan-modelos-antiguos-1028497'>Funciones avanzadas de la cámara de los Samsung Galaxy S22 llegan a modelos más antiguos: ¿está el tuyo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciones-avanzadas-camara-samsung-galaxy-s22-llegan-modelos-antiguos-1028497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627225.jpg' alt='Funciones avanzadas de la cámara de los Samsung Galaxy S22 llegan a modelos más antiguos: ¿está el tuyo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613'>Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213345.jpg' alt='Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-actualidad-critics-choice-awards-ted-lasso-1028495'>¿Es esta la mejor serie en la actualidad? Eso piensa la crítica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-actualidad-critics-choice-awards-ted-lasso-1028495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mejor-serie-actualidad-eso-piensa-critica-2645785.jpg' alt='¿Es esta la mejor serie en la actualidad? Eso piensa la crítica' />
     </a>
 </div>
 
