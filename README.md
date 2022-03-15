@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-no-tan-efectivo-como-piensa-reducir-contaminacion-1027631'>El coche autónomo no es tan efectivo como se piensa para reducir la contaminación</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-no-tan-efectivo-como-piensa-reducir-contaminacion-1027631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='El coche autónomo no es tan efectivo como se piensa para reducir la contaminación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/motor-combustion-universal-cummins-funciona-cualquier-combustible-1028101'>Ya está aquí el motor de combustión universal, que funciona con cualquier combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/motor-combustion-universal-cummins-funciona-cualquier-combustible-1028101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-aqui-motor-combustion-universal-funciona-cualquier-combustible-2645031.jpg' alt='Ya está aquí el motor de combustión universal, que funciona con cualquier combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cabify-crea-senal-no-deberia-existir-1027625'>Cabify crea una señal "que no debería existir"</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cabify-crea-senal-no-deberia-existir-1027625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sena-secreta-cabify-2637831.jpg' alt='Cabify crea una señal "que no debería existir"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028093'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2645029.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-puedes-comprar-ahora-mismo-1027745'>Mejores escobas eléctricas que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-puedes-comprar-ahora-mismo-1027745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-speedpro-fc6723-01-2644553.jpg' alt='Mejores escobas eléctricas que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089'>El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/truco-burrito-colocar-funda-nordica-edredon-1-minuto-2645025.jpg' alt='El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885'>Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-vez-18-anos-suben-ventas-cds-musicales-2644831.jpg' alt='Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873'>La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/silla-levanta-sola-cuando-cae-motores-ni-mecanismos-2644819.jpg' alt='La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)' />
     </a>
 </div>
 
