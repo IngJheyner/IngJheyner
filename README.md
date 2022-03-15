@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517'>Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515'>Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/analisis-airpods-2-apple.jpg' alt='Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295'>El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spider-man-no-way-home-electro-2637807.jpg' alt='El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501'>Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-avanzadas-camara-samsung-galaxy-s22-llegan-modelos-antiguos-1028497'>Funciones avanzadas de la cámara de los Samsung Galaxy S22 llegan a modelos más antiguos: ¿está el tuyo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciones-avanzadas-camara-samsung-galaxy-s22-llegan-modelos-antiguos-1028497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627225.jpg' alt='Funciones avanzadas de la cámara de los Samsung Galaxy S22 llegan a modelos más antiguos: ¿está el tuyo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-actualidad-critics-choice-awards-ted-lasso-1028495'>¿Es esta la mejor serie en la actualidad? Eso piensa la crítica</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-actualidad-critics-choice-awards-ted-lasso-1028495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mejor-serie-actualidad-eso-piensa-critica-2645785.jpg' alt='¿Es esta la mejor serie en la actualidad? Eso piensa la crítica' />
     </a>
 </div>
 
