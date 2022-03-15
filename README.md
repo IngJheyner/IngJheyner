@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155'>¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-fresh-air-mask-2645091.jpg' alt='¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187'>La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-esquiva-regulaciones-podrian-haber-cambiado-futuro-1028183'>El bitcoin esquiva una de las regulaciones que podrían haber cambiado su futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-esquiva-regulaciones-podrian-haber-cambiado-futuro-1028183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minado-bitcoin-2645127.jpg' alt='El bitcoin esquiva una de las regulaciones que podrían haber cambiado su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/trailer-final-serie-halo-todo-listo-estreno-paramount-proxima-semana-1028167'>Tráiler final de la serie de Halo, todo listo para su estreno en Paramount+ la próxima semana</a></h4>
+    <a href='https://computerhoy.com/noticias/trailer-final-serie-halo-todo-listo-estreno-paramount-proxima-semana-1028167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Tráiler final de la serie de Halo, todo listo para su estreno en Paramount+ la próxima semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153'>Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-2645089.jpg' alt='Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-doge-elon-musk-mantiene-firme-no-piensa-vender-criptomonedas-1028113'>Ni Bitcoin, Ethereum o Doge: Elon Musk se mantiene firme y no piensa vender sus criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-doge-elon-musk-mantiene-firme-no-piensa-vender-criptomonedas-1028113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-bitcoin-2641403.jpg' alt='Ni Bitcoin, Ethereum o Doge: Elon Musk se mantiene firme y no piensa vender sus criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-anuncios-explorador-archivos-1028125'>Windows 11 podría mostrarte anuncios en el Explorador de archivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-anuncios-explorador-archivos-1028125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='Windows 11 podría mostrarte anuncios en el Explorador de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-dos-anos-fusiona-discovery-1028109'>HBO Max da su salto más importante en dos años y se fusionará con otra plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-dos-anos-fusiona-discovery-1028109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-discovery-plus-2645045.jpg' alt='HBO Max da su salto más importante en dos años y se fusionará con otra plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/humos-carbon-estas-dos-barbacoas-electricas-menos-50eu-son-perfectas-tienes-patio-jardin-1027499'>Sin humos y sin carbón: estas dos barbacoas eléctricas de menos de 50€ son perfectas si tienes patio o jardín</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/humos-carbon-estas-dos-barbacoas-electricas-menos-50eu-son-perfectas-tienes-patio-jardin-1027499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cecotec-perfectsteak-4250-stand-2427987.jpg' alt='Sin humos y sin carbón: estas dos barbacoas eléctricas de menos de 50€ son perfectas si tienes patio o jardín' />
     </a>
 </div>
 
