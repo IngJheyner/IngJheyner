@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028093'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2645029.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-puedes-comprar-ahora-mismo-1027745'>Mejores escobas eléctricas que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-puedes-comprar-ahora-mismo-1027745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-speedpro-fc6723-01-2644553.jpg' alt='Mejores escobas eléctricas que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089'>El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/truco-burrito-colocar-funda-nordica-edredon-1-minuto-2645025.jpg' alt='El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873'>La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/silla-viren-levanta-sola-video-1027873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/silla-levanta-sola-cuando-cae-motores-ni-mecanismos-2644819.jpg' alt='La silla que se levanta sola cuando se cae, sin motores ni mecanismos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-descuento-1027825'>Este portátil gaming con Ryzen 7, RTX 3050 y pantalla a 144 Hz baja 240 euros y se queda en solo 959 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-descuento-1027825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-gaming-ryzen-7-rtx-3050-pantalla-144-hz-baja-solo-959eu-2644679.jpg' alt='Este portátil gaming con Ryzen 7, RTX 3050 y pantalla a 144 Hz baja 240 euros y se queda en solo 959 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amc-anuncia-nuevo-spin-walking-dead-isle-dead-1027621'>AMC anuncia un nuevo spin-off de The Walking Dead: Isle of the Dead</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amc-anuncia-nuevo-spin-walking-dead-isle-dead-1027621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/isle-dead-2637237.jpg' alt='AMC anuncia un nuevo spin-off de The Walking Dead: Isle of the Dead' />
     </a>
 </div>
 
