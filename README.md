@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089'>El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-burrito-colocar-funda-nordica-edredon-1028089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/truco-burrito-colocar-funda-nordica-edredon-1-minuto-2645025.jpg' alt='El 'truco del burrito' para colocar el edredón en la funda nórdica en 1 minuto, y que quede perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885'>Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primera-vez-18-anos-suben-ventas-cds-musicales-1027885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/primera-vez-18-anos-suben-ventas-cds-musicales-2644831.jpg' alt='Por primera vez en 18 años, han subido las ventas de CDs musicales en 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amc-anuncia-nuevo-spin-walking-dead-isle-dead-1027621'>AMC anuncia un nuevo spin-off de The Walking Dead: Isle of the Dead</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amc-anuncia-nuevo-spin-walking-dead-isle-dead-1027621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/isle-dead-2637237.jpg' alt='AMC anuncia un nuevo spin-off de The Walking Dead: Isle of the Dead' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cosmo-on-vodafone-tv-1027857'>Qué es COSMO ON, el nuevo servicio gratuito que llega a Vodafone TV, con más de 500 títulos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cosmo-on-vodafone-tv-1027857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosmo-nuevo-servicio-llega-vodafone-tv-500-titulos-2644763.jpg' alt='Qué es COSMO ON, el nuevo servicio gratuito que llega a Vodafone TV, con más de 500 títulos' />
     </a>
 </div>
 
