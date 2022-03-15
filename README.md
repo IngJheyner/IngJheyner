@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521'>Consejos y recomendaciones de seguridad para conducir con calima</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='Consejos y recomendaciones de seguridad para conducir con calima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527'>La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kaspersky-total-security-2547795.jpg' alt='La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517'>Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295'>El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spider-man-no-way-home-electro-2637807.jpg' alt='El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/9-maneras-ahorrar-bateria-mejorar-autonomia-smartwatch-1028475'>Las 9 maneras de ahorrar batería mejorar la autonomía de tu smartwatch</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/9-maneras-ahorrar-bateria-mejorar-autonomia-smartwatch-1028475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='Las 9 maneras de ahorrar batería mejorar la autonomía de tu smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501'>Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-muestra-tajante-no-habra-escasez-productos-supermercados-1028501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Mercadona se muestra tajante: “No habrá escasez de productos en los supermercados”' />
     </a>
 </div>
 
