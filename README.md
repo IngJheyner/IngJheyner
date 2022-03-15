@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/motor/estos-7-coches-dejan-venderse-2022-1028291'>Estos 7 coches dejarán de venderse en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/motor/estos-7-coches-dejan-venderse-2022-1028291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/renault-talisman_0.jpg' alt='Estos 7 coches dejarán de venderse en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587'>RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg' alt='RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613'>Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/oferton-samsung-galaxy-s21-llevate-movil-premium-camara-64-mpx-solo-678-euros-1027613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/samsung-galaxy-s21-5g-analisis-opinion-2213345.jpg' alt='Ofertón por este Samsung Galaxy S21+: llévate este móvil premium con cámara de 64 Mpx. por sólo 678 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339'>Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/joe-biden-2177569.jpg' alt='Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas ' />
     </a>
 </div>
 
