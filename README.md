@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447'>Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos</a></h4>
+    <a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/meta-2520675.jpg' alt='Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/significa-nashe-1028411'>¿Qué significa nashe?</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-nashe-1028411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tiktok-2155919.jpg' alt='¿Qué significa nashe?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273'>Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-robot-vacuum-mop-2645259.jpg' alt='Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-supermercados-podrian-subir-precio-proximos-dias-1028357'>Los productos del supermercados que más podrían subir de precio en los próximos días</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-supermercados-podrian-subir-precio-proximos-dias-1028357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Los productos del supermercados que más podrían subir de precio en los próximos días' />
     </a>
 </div>
 
