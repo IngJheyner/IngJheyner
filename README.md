@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587'>RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rtx-3050-pantalla-144-hz-precio-derribo-portatil-gaming-cuesta-solo-889-euros-1027587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg' alt='RTX 3050 y pantalla a 144 Hz a precio de derribo: este portátil gaming cuesta solo 889 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447'>Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos</a></h4>
     <a href='https://computerhoy.com/noticias/meta-facebook-anuncia-gran-inversion-espana-primer-meta-lab-mundo-2000-nuevos-empleos-1028447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/meta-2520675.jpg' alt='Meta (Facebook) anuncia una gran inversión en España: primer Meta Lab del mundo y hasta 2.000 nuevos empleos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339'>Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/joe-biden-pone-manos-obra-mejorar-ecosistema-criptomonedas-1028339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/joe-biden-2177569.jpg' alt='Joe Biden se pone manos a la obra para mejorar el ecosistema de las criptomonedas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273'>Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-robot-vacuum-mop-2645259.jpg' alt='Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi' />
     </a>
 </div>
 
