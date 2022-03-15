@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273'>Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/mi-robot-vacuum-mop-2-ultra-pro-s-son-nuevos-robots-aspirador-xiaomi-1028273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-robot-vacuum-mop-2645259.jpg' alt='Mi Robot Vacuum-Mop 2 Ultra, Pro y S: así son los nuevos robots aspirador de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-supermercados-podrian-subir-precio-proximos-dias-1028357'>Los productos del supermercados que más podrían subir de precio en los próximos días</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-supermercados-podrian-subir-precio-proximos-dias-1028357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Los productos del supermercados que más podrían subir de precio en los próximos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-convertido-router-wifi-riesgo-seguridad-1028301'>¿Se ha convertido tu router WiFi en un riesgo para tu seguridad?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ha-convertido-router-wifi-riesgo-seguridad-1028301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-wifi-2486237.jpg' alt='¿Se ha convertido tu router WiFi en un riesgo para tu seguridad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329'>Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-buds-3t-pro-2645365.jpg' alt='Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141'>Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-2645231.jpg' alt='Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/llega-control-universal-audio-espacial-ordenadores-apple-actualizacion-macos-123-1028335'>Llega Control Universal y Audio Espacial a los ordenadores y tablets de Apple con la actualización MacOS 12.3 y iPadOS 15.4</a></h4>
-    <a href='https://computerhoy.com/noticias/llega-control-universal-audio-espacial-ordenadores-apple-actualizacion-macos-123-1028335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638707.jpg' alt='Llega Control Universal y Audio Espacial a los ordenadores y tablets de Apple con la actualización MacOS 12.3 y iPadOS 15.4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-reta-putin-guerra-redes-sociales-yendo-manos-1028323'>Elon Musk reta a Putin: la guerra en las redes sociales se está yendo de la manos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-reta-putin-guerra-redes-sociales-yendo-manos-1028323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-vs-putin-2645381.jpg' alt='Elon Musk reta a Putin: la guerra en las redes sociales se está yendo de la manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601'>Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hp-15s-2471359.jpg' alt='Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato' />
     </a>
 </div>
 
