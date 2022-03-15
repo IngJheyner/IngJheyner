@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329'>Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-buds-3t-3t-pro-xiaomi-watch-s1-xiaomi-watch-s1-active-estas-son-novedades-xiaomi-sonido-relojes-1028329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-buds-3t-pro-2645365.jpg' alt='Xiaomi Buds 3T y 3T Pro, Xiaomi Watch S1 y Xiaomi Watch S1 Active: estas son las novedades de Xiaomi en sonido y relojes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141'>Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-12-xiaomi-12-pro-llegan-espana-snapdragon-8-gen-1-carga-120-w-1028141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-2645231.jpg' alt='Los nuevos Xiaomi 12 y Xiaomi 12 Pro llegan a España con Snapdragon 8 Gen 1 y carga de 120 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/llega-control-universal-audio-espacial-ordenadores-apple-actualizacion-macos-123-1028335'>Llega Control Universal y Audio Espacial a los ordenadores y tablets de Apple con la actualización MacOS 12.3 y iPadOS 15.4</a></h4>
+    <a href='https://computerhoy.com/noticias/llega-control-universal-audio-espacial-ordenadores-apple-actualizacion-macos-123-1028335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638707.jpg' alt='Llega Control Universal y Audio Espacial a los ordenadores y tablets de Apple con la actualización MacOS 12.3 y iPadOS 15.4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-reta-putin-guerra-redes-sociales-yendo-manos-1028323'>Elon Musk reta a Putin: la guerra en las redes sociales se está yendo de la manos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-reta-putin-guerra-redes-sociales-yendo-manos-1028323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-vs-putin-2645381.jpg' alt='Elon Musk reta a Putin: la guerra en las redes sociales se está yendo de la manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601'>Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hp-15s-2471359.jpg' alt='Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1028245'>Cada cuánto tiempo tienes que renovar el carnet de conducir	 </a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1028245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='Cada cuánto tiempo tienes que renovar el carnet de conducir	 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-nosotros-directo-llegada-familia-xiaomi-12-smartphones-top-xiaomi-1028201'>Sigue con nosotros en directo la llegada de la familia Xiaomi 12, los smartphones top de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sigue-nosotros-directo-llegada-familia-xiaomi-12-smartphones-top-xiaomi-1028201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/QbaaODl4R5s.jpg' alt='Sigue con nosotros en directo la llegada de la familia Xiaomi 12, los smartphones top de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calima-como-arena-sahara-llega-toda-espana-problemas-podria-tener-salud-1028227'>La calima o cómo arena del Sáhara llega a toda España y los problemas que podría tener para la salud</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calima-como-arena-sahara-llega-toda-espana-problemas-podria-tener-salud-1028227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='La calima o cómo arena del Sáhara llega a toda España y los problemas que podría tener para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-spider-man-no-way-home-caro-cine-1028261'>Ya puedes ver Spider-Man: No Way Home en casa, pero seguramente te saldrá más caro que ir al cine</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ver-spider-man-no-way-home-caro-cine-1028261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2548271.jpg' alt='Ya puedes ver Spider-Man: No Way Home en casa, pero seguramente te saldrá más caro que ir al cine' />
     </a>
 </div>
 
