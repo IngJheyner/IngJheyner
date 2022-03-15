@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-gpu-arc-alchemy-30-marzo-soplo-aire-fresco-duopolio-amd-nvidia-1028247'>Intel lanzará las GPU Arc Alchemy el 30 de marzo: soplo de aire fresco en el duopolio AMD - NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-gpu-arc-alchemy-30-marzo-soplo-aire-fresco-duopolio-amd-nvidia-1028247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/intel-arc-nueva-marca-graficos-alto-rendimiento-2440637.jpg' alt='Intel lanzará las GPU Arc Alchemy el 30 de marzo: soplo de aire fresco en el duopolio AMD - NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/errores-tontos-declaracion-renta-2021-22-pueden-costarte-multa-1028207'>Errores “tontos” en la Declaración de la Renta 2021/22 que pueden costarte una multa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/errores-tontos-declaracion-renta-2021-22-pueden-costarte-multa-1028207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Errores “tontos” en la Declaración de la Renta 2021/22 que pueden costarte una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adn-podria-ser-solucion-crisis-almacenamiento-datos-avecina-1028199'>El ADN podría ser las solución a las crisis de almacenamiento de datos que se avecina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adn-podria-ser-solucion-crisis-almacenamiento-datos-avecina-1028199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/adn-test-genetico-1854473.jpg' alt='El ADN podría ser las solución a las crisis de almacenamiento de datos que se avecina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155'>¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-fresh-air-mask-2645091.jpg' alt='¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187'>La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-esquiva-regulaciones-podrian-haber-cambiado-futuro-1028183'>El bitcoin esquiva una de las regulaciones que podrían haber cambiado su futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-esquiva-regulaciones-podrian-haber-cambiado-futuro-1028183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/minado-bitcoin-2645127.jpg' alt='El bitcoin esquiva una de las regulaciones que podrían haber cambiado su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/trailer-final-serie-halo-todo-listo-estreno-paramount-proxima-semana-1028167'>Tráiler final de la serie de Halo, todo listo para su estreno en Paramount+ la próxima semana</a></h4>
-    <a href='https://computerhoy.com/noticias/trailer-final-serie-halo-todo-listo-estreno-paramount-proxima-semana-1028167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/halo-series-2601585.jpg' alt='Tráiler final de la serie de Halo, todo listo para su estreno en Paramount+ la próxima semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153'>Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-2645089.jpg' alt='Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022' />
     </a>
 </div>
 
