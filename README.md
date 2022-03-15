@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531'>¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-pasea-calima-canarias-2645145.jpg' alt='¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521'>Consejos y recomendaciones de seguridad para conducir con calima</a></h4>
     <a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='Consejos y recomendaciones de seguridad para conducir con calima' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515'>Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/analisis-airpods-2-apple.jpg' alt='Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295'>El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-electro-tenia-limitado-poder-spider-man-no-way-home-1028295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spider-man-no-way-home-electro-2637807.jpg' alt='El motivo por el que Electro tenía limitado su poder en Spider-Man: No Way Home' />
     </a>
 </div>
 
