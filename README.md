@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-gpu-arc-alchemy-30-marzo-soplo-aire-fresco-duopolio-amd-nvidia-1028247'>Intel lanzará las GPU Arc Alchemy el 30 de marzo: soplo de aire fresco en el duopolio AMD - NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzara-gpu-arc-alchemy-30-marzo-soplo-aire-fresco-duopolio-amd-nvidia-1028247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/intel-arc-nueva-marca-graficos-alto-rendimiento-2440637.jpg' alt='Intel lanzará las GPU Arc Alchemy el 30 de marzo: soplo de aire fresco en el duopolio AMD - NVIDIA' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601'>Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/portatil-hp-tiene-todo-buscas-estudiar-gran-pantalla-buenas-caracteristicas-ademas-barato-1027601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hp-15s-2471359.jpg' alt='Este portátil HP tiene todo lo que buscas para estudiar: gran pantalla, buenas características y además es barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/errores-tontos-declaracion-renta-2021-22-pueden-costarte-multa-1028207'>Errores “tontos” en la Declaración de la Renta 2021/22 que pueden costarte una multa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/errores-tontos-declaracion-renta-2021-22-pueden-costarte-multa-1028207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Errores “tontos” en la Declaración de la Renta 2021/22 que pueden costarte una multa' />
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1028245'>Cada cuánto tiempo tienes que renovar el carnet de conducir	 </a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1028245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='Cada cuánto tiempo tienes que renovar el carnet de conducir	 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adn-podria-ser-solucion-crisis-almacenamiento-datos-avecina-1028199'>El ADN podría ser las solución a las crisis de almacenamiento de datos que se avecina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adn-podria-ser-solucion-crisis-almacenamiento-datos-avecina-1028199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/adn-test-genetico-1854473.jpg' alt='El ADN podría ser las solución a las crisis de almacenamiento de datos que se avecina' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-nosotros-directo-llegada-familia-xiaomi-12-smartphones-top-xiaomi-1028201'>Sigue con nosotros en directo la llegada de la familia Xiaomi 12, los smartphones top de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sigue-nosotros-directo-llegada-familia-xiaomi-12-smartphones-top-xiaomi-1028201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/QbaaODl4R5s.jpg' alt='Sigue con nosotros en directo la llegada de la familia Xiaomi 12, los smartphones top de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155'>¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calima-polvo-suspension-no-mascarilla-electronica-philips-ademas-oferta-1028155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-fresh-air-mask-2645091.jpg' alt='¿Calima y polvo en suspensión? No con esta mascarilla electrónica de Philips, que además está en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/life/calima-como-arena-sahara-llega-toda-espana-problemas-podria-tener-salud-1028227'>La calima o cómo arena del Sáhara llega a toda España y los problemas que podría tener para la salud</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calima-como-arena-sahara-llega-toda-espana-problemas-podria-tener-salud-1028227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='La calima o cómo arena del Sáhara llega a toda España y los problemas que podría tener para la salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187'>La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='La advertencia de Bill Gates sobre invertir en Bitcoin: “Si tienes menos dinero que Elon, cuidado"' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-spider-man-no-way-home-caro-cine-1028261'>Ya puedes ver Spider-Man: No Way Home en casa, pero seguramente te saldrá más caro que ir al cine</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ver-spider-man-no-way-home-caro-cine-1028261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2548271.jpg' alt='Ya puedes ver Spider-Man: No Way Home en casa, pero seguramente te saldrá más caro que ir al cine' />
     </a>
 </div>
 
