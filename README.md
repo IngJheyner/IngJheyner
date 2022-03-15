@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153'>Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ha-anunciado-llegada-nueva-generacion-portatiles-redmi-book-pro-2022-1028153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-2645089.jpg' alt='Xiaomi ha anunciado la llegada de la nueva generación de portátiles, los Redmi Book Pro 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-doge-elon-musk-mantiene-firme-no-piensa-vender-criptomonedas-1028113'>Ni Bitcoin, Ethereum o Doge: Elon Musk se mantiene firme y no piensa vender sus criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-bitcoin-ethereum-doge-elon-musk-mantiene-firme-no-piensa-vender-criptomonedas-1028113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-bitcoin-2641403.jpg' alt='Ni Bitcoin, Ethereum o Doge: Elon Musk se mantiene firme y no piensa vender sus criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-anuncios-explorador-archivos-1028125'>Windows 11 podría mostrarte anuncios en el Explorador de archivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-anuncios-explorador-archivos-1028125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='Windows 11 podría mostrarte anuncios en el Explorador de archivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/humos-carbon-estas-dos-barbacoas-electricas-menos-50eu-son-perfectas-tienes-patio-jardin-1027499'>Sin humos y sin carbón: estas dos barbacoas eléctricas de menos de 50€ son perfectas si tienes patio o jardín</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/humos-carbon-estas-dos-barbacoas-electricas-menos-50eu-son-perfectas-tienes-patio-jardin-1027499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cecotec-perfectsteak-4250-stand-2427987.jpg' alt='Sin humos y sin carbón: estas dos barbacoas eléctricas de menos de 50€ son perfectas si tienes patio o jardín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-no-tan-efectivo-como-piensa-reducir-contaminacion-1027631'>El coche autónomo no es tan efectivo como se piensa para reducir la contaminación</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-no-tan-efectivo-como-piensa-reducir-contaminacion-1027631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='El coche autónomo no es tan efectivo como se piensa para reducir la contaminación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/motor-combustion-universal-cummins-funciona-cualquier-combustible-1028101'>Ya está aquí el motor de combustión universal, que funciona con cualquier combustible</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/motor-combustion-universal-cummins-funciona-cualquier-combustible-1028101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-aqui-motor-combustion-universal-funciona-cualquier-combustible-2645031.jpg' alt='Ya está aquí el motor de combustión universal, que funciona con cualquier combustible' />
     </a>
 </div>
 
