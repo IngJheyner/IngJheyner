@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143'>Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129'>Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107'>Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España</a></h4>
     <a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/reactor-nuclear-1948975.jpg' alt='Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127'>Comprar en Zara será más caro en los próximos días</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienda-ropa-2646863.jpg' alt='Comprar en Zara será más caro en los próximos días' />
     </a>
 </div>
 
