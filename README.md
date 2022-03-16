@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-garmin-rebajado-319-euros-ofrece-muchas-mejoras-deportistas-1027527'>El Apple Watch de Garmin está rebajado a 319 euros y ofrece muchas mejoras para deportistas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-garmin-rebajado-319-euros-ofrece-muchas-mejoras-deportistas-1027527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-venu-2-2644061.jpg' alt='El Apple Watch de Garmin está rebajado a 319 euros y ofrece muchas mejoras para deportistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bostezamos-1028887'>¿Por qué bostezamos?		</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bostezamos-1028887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bostezo-2646233.jpg' alt='¿Por qué bostezamos?		' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877'>Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-gt-neo-3-2646205.jpg' alt='Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/directora-red-explica-ha-estrenado-directamente-disney-mejor-opcion-1028871'>La directora de Red explica por qué se ha estrenado directamente en Disney+: "es la mejor opción" </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/directora-red-explica-ha-estrenado-directamente-disney-mejor-opcion-1028871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-2022-2641675.jpg' alt='La directora de Red explica por qué se ha estrenado directamente en Disney+: "es la mejor opción" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuidado-calima-multas-dgt-llevar-coche-sucio-1028829'>¡Cuidado con la calima! Las multas de la DGT por llevar el coche sucio</a></h4>
-    <a href='https://computerhoy.com/noticias/cuidado-calima-multas-dgt-llevar-coche-sucio-1028829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/coche-sucio.jpg' alt='¡Cuidado con la calima! Las multas de la DGT por llevar el coche sucio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bitcoin-vs-oro-cual-ofrece-mejor-proteccion-inflacion-1028847'>Bitcoin vs Oro: ¿cuál ofrece mejor protección con la inflación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bitcoin-vs-oro-cual-ofrece-mejor-proteccion-inflacion-1028847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oro-vs-btc-2646119.jpg' alt='Bitcoin vs Oro: ¿cuál ofrece mejor protección con la inflación' />
     </a>
 </div>
 
