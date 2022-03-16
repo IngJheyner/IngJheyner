@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745'>7 trucos sencillos para dormir mejor, si ya tienes una edad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-trucos-sencillos-dormir-mejor-ya-tienes-edad-2646015.jpg' alt='7 trucos sencillos para dormir mejor, si ya tienes una edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743'>La regla del minuto que evita averías en el motor turbo del coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/regla-minuto-evita-averias-motor-turbo-coche-2646013.jpg' alt='La regla del minuto que evita averías en el motor turbo del coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521'>Consejos y recomendaciones de seguridad para conducir con calima</a></h4>
     <a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='Consejos y recomendaciones de seguridad para conducir con calima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527'>La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kaspersky-total-security-2547795.jpg' alt='La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia' />
     </a>
 </div>
 
