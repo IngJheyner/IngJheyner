@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-encuentra-solucion-notas-voz-eternas-no-acaban-nunca-1028831'>WhatsApp encuentra una solución para las notas de voz eternas que no se acaban nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-encuentra-solucion-notas-voz-eternas-no-acaban-nunca-1028831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-ipad-2600553.jpg' alt='WhatsApp encuentra una solución para las notas de voz eternas que no se acaban nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-ya-cuesta-menos-mitad-apple-watch-vende-amazon-1028175'>El nuevo Samsung Galaxy Watch 4 ya cuesta menos de la mitad que el Apple Watch, y lo vende Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-ya-cuesta-menos-mitad-apple-watch-vende-amazon-1028175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483555.jpg' alt='El nuevo Samsung Galaxy Watch 4 ya cuesta menos de la mitad que el Apple Watch, y lo vende Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825'>54 millones de kilómetros para arreglar el helicóptero de la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/nasa-presenta-ingenuity-helicoptero-volara-cielos-marte-1930295.jpg' alt='54 millones de kilómetros para arreglar el helicóptero de la NASA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793'>Las 4 series que Netflix ha paralizado por la guerra en Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zato-2646065.jpg' alt='Las 4 series que Netflix ha paralizado por la guerra en Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429'>Mejores monitores gaming de 144 Hz que puedes comprar para jugar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-jugando-pc-gaming-leds-rgb-torre-cristal-templado-2645747.jpg' alt='Mejores monitores gaming de 144 Hz que puedes comprar para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757'>Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso' />
     </a>
 </div>
 
