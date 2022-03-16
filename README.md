@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903'>¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-r8-spyder-rwd-quattro-v10-performance-2609183.jpg' alt='¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061'>El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049'>Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/pirateria.jpg' alt='Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043'>El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas' />
     </a>
 </div>
 
