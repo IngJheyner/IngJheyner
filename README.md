@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089'>La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/adios-vida-pirata-criptomonedas-ue-va-prohibir-monederos-transacciones-anonimas-pagos-mayores-10000-euros-2414357.jpg' alt='La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049'>Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/pirateria.jpg' alt='Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043'>El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293'>El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-galaxy-z-flip-3-2486897.jpg' alt='El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-criptomonedas-estan-ayudando-crisis-ucrania-1028981'>Cómo las criptomonedas están ayudando en la crisis de Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-criptomonedas-estan-ayudando-crisis-ucrania-1028981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ucrania-bitcoin-2639881.jpg' alt='Cómo las criptomonedas están ayudando en la crisis de Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921'>Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube' />
     </a>
 </div>
 
