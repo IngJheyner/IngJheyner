@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2646017.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-centros-planchado-rowenta-philips-1028415'>Centros de planchado Rowenta, Philips y más: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-centros-planchado-rowenta-philips-1028415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-rowenta-2645643.jpg' alt='Centros de planchado Rowenta, Philips y más: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345'>Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tabla-cocina-cortar-alimentos-2645403.jpg' alt='Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743'>La regla del minuto que evita averías en el motor turbo del coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/regla-minuto-evita-averias-motor-turbo-coche-2646013.jpg' alt='La regla del minuto que evita averías en el motor turbo del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535'>Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fotos-antepasados-ahora-hablan-cuentan-historias-2645819.jpg' alt='Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531'>¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-pasea-calima-canarias-2645145.jpg' alt='¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación' />
     </a>
 </div>
 
