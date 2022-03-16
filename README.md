@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-tengo-multas-pendientes-1028983'>¿Cómo saber si tengo multas pendientes?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-tengo-multas-pendientes-1028983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multa-coche-2605007.jpg' alt='¿Cómo saber si tengo multas pendientes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293'>El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-galaxy-z-flip-3-2486897.jpg' alt='El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-criptomonedas-estan-ayudando-crisis-ucrania-1028981'>Cómo las criptomonedas están ayudando en la crisis de Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-criptomonedas-estan-ayudando-crisis-ucrania-1028981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ucrania-bitcoin-2639881.jpg' alt='Cómo las criptomonedas están ayudando en la crisis de Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921'>Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-garmin-rebajado-319-euros-ofrece-muchas-mejoras-deportistas-1027527'>El Apple Watch de Garmin está rebajado a 319 euros y ofrece muchas mejoras para deportistas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-garmin-rebajado-319-euros-ofrece-muchas-mejoras-deportistas-1027527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-venu-2-2644061.jpg' alt='El Apple Watch de Garmin está rebajado a 319 euros y ofrece muchas mejoras para deportistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bostezamos-1028887'>¿Por qué bostezamos?		</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bostezamos-1028887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bostezo-2646233.jpg' alt='¿Por qué bostezamos?		' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
     </a>
 </div>
 
