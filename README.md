@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913'>Primera imagen del nuevo Pinocho que se estrenará en Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pinocho-disney-tom-hanks-robert-zemeckis-2640273.jpg' alt='Primera imagen del nuevo Pinocho que se estrenará en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107'>Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/reactor-nuclear-1948975.jpg' alt='Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127'>Comprar en Zara será más caro en los próximos días</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienda-ropa-2646863.jpg' alt='Comprar en Zara será más caro en los próximos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ni-netflix-hbo-amazon-disney-plataforma-espanola-mejor-valorada-ocu-1029123'>Ni Netflix, HBO, Amazon o Disney, esta plataforma española es la mejor valorada, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ni-netflix-hbo-amazon-disney-plataforma-espanola-mejor-valorada-ocu-1029123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ver-television-2646859.jpg' alt='Ni Netflix, HBO, Amazon o Disney, esta plataforma española es la mejor valorada, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903'>¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-r8-spyder-rwd-quattro-v10-performance-2609183.jpg' alt='¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061'>El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/dos-juegos-ps5-buscados-ahora-mismo-estan-rebajados-amazon-elden-ring-edicion-especial-gran-turismo-7-1028213'>Dos de los juegos de PS5 más buscados ahora mismo están rebajados en Amazon: Elden Ring y la Edición Especial de Gran Turismo 7</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/dos-juegos-ps5-buscados-ahora-mismo-estan-rebajados-amazon-elden-ring-edicion-especial-gran-turismo-7-1028213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elden-ring-2645161.jpg' alt='Dos de los juegos de PS5 más buscados ahora mismo están rebajados en Amazon: Elden Ring y la Edición Especial de Gran Turismo 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089'>La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/adios-vida-pirata-criptomonedas-ue-va-prohibir-monederos-transacciones-anonimas-pagos-mayores-10000-euros-2414357.jpg' alt='La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049'>Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-principales-plataformas-streaming-consiguen-parecia-imposible-espana-1029049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/pirateria.jpg' alt='Netflix y las principales plataformas de streaming consiguen lo que parecía imposible en España' />
     </a>
 </div>
 
