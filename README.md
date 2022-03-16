@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535'>Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fotos-antepasados-ahora-hablan-cuentan-historias-2645819.jpg' alt='Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531'>¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación</a></h4>
     <a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-pasea-calima-canarias-2645145.jpg' alt='¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517'>Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515'>Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-2-apple-descuento-1028515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/analisis-airpods-2-apple.jpg' alt='Los AirPods 2 de Apple reciben un descuento de 40 euros, y llegan a tiempo para el Día del Padre' />
     </a>
 </div>
 
