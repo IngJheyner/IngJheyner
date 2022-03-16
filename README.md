@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061'>El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar Bitcoin y otras criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/dos-juegos-ps5-buscados-ahora-mismo-estan-rebajados-amazon-elden-ring-edicion-especial-gran-turismo-7-1028213'>Dos de los juegos de PS5 más buscados ahora mismo están rebajados en Amazon: Elden Ring y la Edición Especial de Gran Turismo 7</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/dos-juegos-ps5-buscados-ahora-mismo-estan-rebajados-amazon-elden-ring-edicion-especial-gran-turismo-7-1028213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elden-ring-2645161.jpg' alt='Dos de los juegos de PS5 más buscados ahora mismo están rebajados en Amazon: Elden Ring y la Edición Especial de Gran Turismo 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089'>La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/union-europea-continua-propuesta-regulatoria-criptomonedas-ahora-mejorada-1029089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/adios-vida-pirata-criptomonedas-ue-va-prohibir-monederos-transacciones-anonimas-pagos-mayores-10000-euros-2414357.jpg' alt='La Unión Europea continúa con su propuesta regulatoria de criptomonedas, ahora mejorada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043'>El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-tengo-multas-pendientes-1028983'>¿Cómo saber si tengo multas pendientes?</a></h4>
-    <a href='https://computerhoy.com/noticias/como-saber-tengo-multas-pendientes-1028983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multa-coche-2605007.jpg' alt='¿Cómo saber si tengo multas pendientes?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293'>El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-samsung-galaxy-z-flip-3-cae-picado-oferta-699eu-podria-ser-primer-movil-plegable-1028293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-galaxy-z-flip-3-2486897.jpg' alt='El precio del Samsung Galaxy Z Flip 3 cae en picado: está en oferta por 699€ y podría ser tu primer móvil plegable' />
     </a>
 </div>
 
