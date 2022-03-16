@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-encuentra-solucion-notas-voz-eternas-no-acaban-nunca-1028831'>WhatsApp encuentra una solución para las notas de voz eternas que no se acaban nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-encuentra-solucion-notas-voz-eternas-no-acaban-nunca-1028831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-ipad-2600553.jpg' alt='WhatsApp encuentra una solución para las notas de voz eternas que no se acaban nunca' />
+    <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-ya-cuesta-menos-mitad-apple-watch-vende-amazon-1028175'>El nuevo Samsung Galaxy Watch 4 ya cuesta menos de la mitad que el Apple Watch, y lo vende Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-watch-4-ya-cuesta-menos-mitad-apple-watch-vende-amazon-1028175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483555.jpg' alt='El nuevo Samsung Galaxy Watch 4 ya cuesta menos de la mitad que el Apple Watch, y lo vende Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877'>Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-gt-neo-3-2646205.jpg' alt='Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825'>54 millones de kilómetros para arreglar el helicóptero de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/nasa-presenta-ingenuity-helicoptero-volara-cielos-marte-1930295.jpg' alt='54 millones de kilómetros para arreglar el helicóptero de la NASA' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/directora-red-explica-ha-estrenado-directamente-disney-mejor-opcion-1028871'>La directora de Red explica por qué se ha estrenado directamente en Disney+: "es la mejor opción" </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/directora-red-explica-ha-estrenado-directamente-disney-mejor-opcion-1028871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-2022-2641675.jpg' alt='La directora de Red explica por qué se ha estrenado directamente en Disney+: "es la mejor opción" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-apple-sufre-duro-reves-peligra-lanzamiento-1028801'>El coche eléctrico de Apple sufre un duro revés y peligra su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-apple-sufre-duro-reves-peligra-lanzamiento-1028801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-carplay.jpg' alt='El coche eléctrico de Apple sufre un duro revés y peligra su lanzamiento' />
+    <h4><a href='https://computerhoy.com/noticias/cuidado-calima-multas-dgt-llevar-coche-sucio-1028829'>¡Cuidado con la calima! Las multas de la DGT por llevar el coche sucio</a></h4>
+    <a href='https://computerhoy.com/noticias/cuidado-calima-multas-dgt-llevar-coche-sucio-1028829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/coche-sucio.jpg' alt='¡Cuidado con la calima! Las multas de la DGT por llevar el coche sucio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793'>Las 4 series que Netflix ha paralizado por la guerra en Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zato-2646065.jpg' alt='Las 4 series que Netflix ha paralizado por la guerra en Ucrania' />
+    <h4><a href='https://computerhoy.com/noticias/life/bitcoin-vs-oro-cual-ofrece-mejor-proteccion-inflacion-1028847'>Bitcoin vs Oro: ¿cuál ofrece mejor protección con la inflación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bitcoin-vs-oro-cual-ofrece-mejor-proteccion-inflacion-1028847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oro-vs-btc-2646119.jpg' alt='Bitcoin vs Oro: ¿cuál ofrece mejor protección con la inflación' />
     </a>
 </div>
 
