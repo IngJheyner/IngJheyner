@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345'>Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tabla-cocina-cortar-alimentos-2645403.jpg' alt='Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745'>7 trucos sencillos para dormir mejor, si ya tienes una edad</a></h4>
     <a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-trucos-sencillos-dormir-mejor-ya-tienes-edad-2646015.jpg' alt='7 trucos sencillos para dormir mejor, si ya tienes una edad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531'>¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación</a></h4>
     <a href='https://computerhoy.com/noticias/life/seguira-calima-manana-previsiones-proximos-dias-ubicacion-1028531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-pasea-calima-canarias-2645145.jpg' alt='¿Seguirá la calima mañana? Previsiones para los próximos días según tu ubicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521'>Consejos y recomendaciones de seguridad para conducir con calima</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/consejos-recomendaciones-seguridad-conducir-calima-1028521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/calima-2645199.jpg' alt='Consejos y recomendaciones de seguridad para conducir con calima' />
     </a>
 </div>
 
