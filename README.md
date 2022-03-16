@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129'>Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135'>Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-puede-vivir-gran-crecimiento-espana-nuevo-sorprendente-plan-2646889.jpg' alt='Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913'>Primera imagen del nuevo Pinocho que se estrenará en Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pinocho-disney-tom-hanks-robert-zemeckis-2640273.jpg' alt='Primera imagen del nuevo Pinocho que se estrenará en Disney+' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127'>Comprar en Zara será más caro en los próximos días</a></h4>
     <a href='https://computerhoy.com/noticias/industria/comprar-zara-sera-caro-proximos-dias-1029127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienda-ropa-2646863.jpg' alt='Comprar en Zara será más caro en los próximos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ni-netflix-hbo-amazon-disney-plataforma-espanola-mejor-valorada-ocu-1029123'>Ni Netflix, HBO, Amazon o Disney, esta plataforma española es la mejor valorada, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ni-netflix-hbo-amazon-disney-plataforma-espanola-mejor-valorada-ocu-1029123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ver-television-2646859.jpg' alt='Ni Netflix, HBO, Amazon o Disney, esta plataforma española es la mejor valorada, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903'>¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuanto-tardarias-leer-audi-r8-respuesta-te-sorprendera-1028903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/audi-r8-spyder-rwd-quattro-v10-performance-2609183.jpg' alt='¿Sabes cuánto tardarías en leer el manual del Audi R8? La respuesta te sorprenderá' />
     </a>
 </div>
 
