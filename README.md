@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825'>54 millones de kilómetros para arreglar el helicóptero de la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/54-millones-kilometros-arreglar-helicoptero-nasa-1028825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/nasa-presenta-ingenuity-helicoptero-volara-cielos-marte-1930295.jpg' alt='54 millones de kilómetros para arreglar el helicóptero de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-apple-sufre-duro-reves-peligra-lanzamiento-1028801'>El coche eléctrico de Apple sufre un duro revés y peligra su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-apple-sufre-duro-reves-peligra-lanzamiento-1028801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-carplay.jpg' alt='El coche eléctrico de Apple sufre un duro revés y peligra su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793'>Las 4 series que Netflix ha paralizado por la guerra en Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/4-series-netflix-paralizado-guerra-ucrania-1028793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zato-2646065.jpg' alt='Las 4 series que Netflix ha paralizado por la guerra en Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429'>Mejores monitores gaming de 144 Hz que puedes comprar para jugar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-jugando-pc-gaming-leds-rgb-torre-cristal-templado-2645747.jpg' alt='Mejores monitores gaming de 144 Hz que puedes comprar para jugar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757'>Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-2-signos-tempranos-enfermedad-parkinson-1028319'>Estos son 2 signos tempranos de la enfermedad de Parkinson</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-2-signos-tempranos-enfermedad-parkinson-1028319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/parkinson-manos-2423179.jpg' alt='Estos son 2 signos tempranos de la enfermedad de Parkinson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/todo-necesitas-montar-gasolinera-tramites-presupuesto-ubicacion-1028305'>Todo lo que necesitas para montar una gasolinera: trámites, presupuesto, ubicación...</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/todo-necesitas-montar-gasolinera-tramites-presupuesto-ubicacion-1028305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gasolineras-low-cost-2622681.jpg' alt='Todo lo que necesitas para montar una gasolinera: trámites, presupuesto, ubicación...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2646017.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
