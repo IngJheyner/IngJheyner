@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743'>La regla del minuto que evita averías en el motor turbo del coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/regla-minuto-evita-averias-motor-turbo-coche-2646013.jpg' alt='La regla del minuto que evita averías en el motor turbo del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535'>Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fotos-antepasados-hablan-cuentan-historias-livestory-my-heritage-1028535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fotos-antepasados-ahora-hablan-cuentan-historias-2645819.jpg' alt='Las fotos de tus antepasados ahora hablan y cuentan historias (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527'>La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/agencia-seguridad-alemania-desinstalar-antivirus-kaspersky-riesgo-ciberataque-rusia-1028527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/kaspersky-total-security-2547795.jpg' alt='La Agencia de Seguridad de Alemania aconseja desinstalar los antivirus Kaspersky, por riesgo de ciberataque desde Rusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517'>Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-mejoraria-caracteristica-clave-pantalla-samsung-galaxy-z-fold-4-1028517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung mejoraría una característica clave de la pantalla del Samsung Galaxy Z Fold 4' />
     </a>
 </div>
 
