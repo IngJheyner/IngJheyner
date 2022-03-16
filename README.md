@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429'>Mejores monitores gaming de 144 Hz que puedes comprar para jugar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-144-hz-1028429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-jugando-pc-gaming-leds-rgb-torre-cristal-templado-2645747.jpg' alt='Mejores monitores gaming de 144 Hz que puedes comprar para jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757'>Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-nft-instagram-metaverso-1028757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/mark-zuckerberg-1960923.jpg' alt='Mark Zuckerberg anuncia que los NFT llegarán a Instagram y al metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-2-signos-tempranos-enfermedad-parkinson-1028319'>Estos son 2 signos tempranos de la enfermedad de Parkinson</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-2-signos-tempranos-enfermedad-parkinson-1028319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/parkinson-manos-2423179.jpg' alt='Estos son 2 signos tempranos de la enfermedad de Parkinson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/todo-necesitas-montar-gasolinera-tramites-presupuesto-ubicacion-1028305'>Todo lo que necesitas para montar una gasolinera: trámites, presupuesto, ubicación...</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/todo-necesitas-montar-gasolinera-tramites-presupuesto-ubicacion-1028305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/gasolineras-low-cost-2622681.jpg' alt='Todo lo que necesitas para montar una gasolinera: trámites, presupuesto, ubicación...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1028747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2646017.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-centros-planchado-rowenta-philips-1028415'>Centros de planchado Rowenta, Philips y más: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-centros-planchado-rowenta-philips-1028415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-rowenta-2645643.jpg' alt='Centros de planchado Rowenta, Philips y más: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345'>Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-evoluciona-algo-tan-sencillo-como-tabla-corta-ahora-ademas-descongela-alimentos-1028345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tabla-cocina-cortar-alimentos-2645403.jpg' alt='Lidl evoluciona algo tan sencillo como una tabla de corta que ahora además descongela alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745'>7 trucos sencillos para dormir mejor, si ya tienes una edad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-trucos-sencillos-dormir-mejor-personas-mayores-1028745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/7-trucos-sencillos-dormir-mejor-ya-tienes-edad-2646015.jpg' alt='7 trucos sencillos para dormir mejor, si ya tienes una edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743'>La regla del minuto que evita averías en el motor turbo del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/regla-minuto-evita-averias-motor-turbo-coche-1028743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/regla-minuto-evita-averias-motor-turbo-coche-2646013.jpg' alt='La regla del minuto que evita averías en el motor turbo del coche' />
     </a>
 </div>
 
