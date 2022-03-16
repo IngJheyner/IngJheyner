@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921'>Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877'>Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-conocemos-como-sera-realme-gt-neo-3-primer-movil-carga-150-w-1028877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-gt-neo-3-2646205.jpg' alt='Ya conocemos como será el realme GT Neo 3, el primer móvil con carga 150 W' />
     </a>
 </div>
 
