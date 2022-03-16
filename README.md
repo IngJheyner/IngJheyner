@@ -50,8 +50,16 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-tengo-multas-pendientes-1028983'>¿Cómo saber si tengo multas pendientes?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-tengo-multas-pendientes-1028983' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043'>El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/grave-error-muchos-comenten-antes-operar-bitcoin-otras-criptomonedas-1029043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El grave error que muchos comenten antes de operar con bitcoin y otras criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-saber-tengo-multas-pendientes-1028983'>¿Cómo saber si tengo multas pendientes?</a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-tengo-multas-pendientes-1028983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/multa-coche-2605007.jpg' alt='¿Cómo saber si tengo multas pendientes?' />
     </a>
 </div>
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921'>Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tesla-no-fia-popio-autopilot-despide-empleado-analizo-funciones-youtube-1028921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla no se fía de su popio Autopilot: despide a un empleado que analizó sus funciones en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shein-2560087.jpg' alt='Qué es Shein y cómo funciona el gigante chino de la ropa barata online que amenaza a Zara, Primark o H&M' />
     </a>
 </div>
 
