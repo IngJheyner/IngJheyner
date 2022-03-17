@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizando-alguien-cuenta-netflix-permiso-puedes-comprobarlo-minuto-1029423'>¿Está utilizando alguien tu cuenta de Netflix sin permiso? Así puedes comprobarlo en un minuto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizando-alguien-cuenta-netflix-permiso-puedes-comprobarlo-minuto-1029423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='¿Está utilizando alguien tu cuenta de Netflix sin permiso? Así puedes comprobarlo en un minuto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-empezaria-producirse-tercer-trimestre-ano-precio-asequible-procesador-tensor-1029419'>El Pixel Notepad empezaría a producirse en el tercer trimestre del año: precio asequible y procesador Tensor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-notepad-empezaria-producirse-tercer-trimestre-ano-precio-asequible-procesador-tensor-1029419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El Pixel Notepad empezaría a producirse en el tercer trimestre del año: precio asequible y procesador Tensor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-herramienta-enviar-informacion-guerra-ucrania-ciudadanos-rusos-azar-1029413'>Crean una herramienta para enviar información sobre la guerra de Ucrania a ciudadanos rusos al azar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-herramienta-enviar-informacion-guerra-ucrania-ciudadanos-rusos-azar-1029413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/anonymous-2647233.jpg' alt='Crean una herramienta para enviar información sobre la guerra de Ucrania a ciudadanos rusos al azar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-aldi-ni-lidl-robot-cocina-179-euros-barato-puede-ser-completos-hay-venta-1028243'>Ni Aldi ni Lidl: este robot de cocina de 179 euros es barato y puede ser de los más completos que hay a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-aldi-ni-lidl-robot-cocina-179-euros-barato-puede-ser-completos-hay-venta-1028243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ikohs-chefbot-compact-steampro-2288921.jpg' alt='Ni Aldi ni Lidl: este robot de cocina de 179 euros es barato y puede ser de los más completos que hay a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-espacial-james-webb-mayor-exito-podia-esperar-1029397'>El telescopio espacial James Webb es el mayor éxito que se podía esperar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telescopio-espacial-james-webb-mayor-exito-podia-esperar-1029397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='El telescopio espacial James Webb es el mayor éxito que se podía esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619'>¡Ya está en tu quiosco el número 612 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-612-2642235.jpg' alt='¡Ya está en tu quiosco el número 612 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deepfakes-guerra-ucrania-difunde-zelenski-1029375'>Los deepfakes ya son utilizados en la guerra de Ucrania y se ha difundido uno de Zelenski</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deepfakes-guerra-ucrania-difunde-zelenski-1029375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/volodymyr-zelenskyy-2647161.jpg' alt='Los deepfakes ya son utilizados en la guerra de Ucrania y se ha difundido uno de Zelenski' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085'>Cargadores inalámbricos de IKEA: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-ikea-2646785.jpg' alt='Cargadores inalámbricos de IKEA: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359'>The Batman ya tiene fecha de estreno en HBO Max: queda un mes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2639953.jpg' alt='The Batman ya tiene fecha de estreno en HBO Max: queda un mes' />
     </a>
 </div>
 
