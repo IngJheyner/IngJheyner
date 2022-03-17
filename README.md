@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cual-mi-numero-seguridad-social-1029605'>Cuál es mi número de la Seguridad Social</a></h4>
-    <a href='https://computerhoy.com/noticias/cual-mi-numero-seguridad-social-1029605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/sede-electronica-seguridad-social-2219323.jpg' alt='Cuál es mi número de la Seguridad Social' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511'>Qué hacer si te hackean la cuenta de Facebook</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631401.jpg' alt='Qué hacer si te hackean la cuenta de Facebook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259'>La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-televisor-2526569.jpg' alt='La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-compania-sumarse-veto-ruso-pone-jaque-telecomunicaciones-pais-1029689'>La última compañía en sumarse al veto ruso pone en jaque a las telecomunicaciones del país</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-compania-sumarse-veto-ruso-pone-jaque-telecomunicaciones-pais-1029689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='La última compañía en sumarse al veto ruso pone en jaque a las telecomunicaciones del país' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/puede-multarte-dgt-llevar-deposito-gasolina-reserva-1029527'>¿Puede multarte la DGT por llevar el depósito de gasolina en reserva?</a></h4>
-    <a href='https://computerhoy.com/noticias/puede-multarte-dgt-llevar-deposito-gasolina-reserva-1029527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='¿Puede multarte la DGT por llevar el depósito de gasolina en reserva?' />
+    <h4><a href='https://computerhoy.com/noticias/life/tabla-cortar-descongelar-lidl-1028345'>La tabla de cortar de Lidl que además descongela los alimentos más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tabla-cortar-descongelar-lidl-1028345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tabla-cocina-cortar-alimentos-2645403.jpg' alt='La tabla de cortar de Lidl que además descongela los alimentos más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507'>¿Por qué no tienes que cargar la batería del móvil siempre al 100%?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bateria-2647463.jpg' alt='¿Por qué no tienes que cargar la batería del móvil siempre al 100%?' />
+    <h4><a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529'>La especia de supermercado más “tramposa” según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vainilla-2464115.jpg' alt='La especia de supermercado más “tramposa” según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493'>Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-i-2647327.jpg' alt='Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-galaxy-a53-5g-especificaciones-disponibilidad-precios-1029455'>Samsung Galaxy A33 5G y Galaxy A53 5G: especificaciones, disponibilidad y precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-galaxy-a53-5g-especificaciones-disponibilidad-precios-1029455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galaxy-a33-a53-5g-2647391.jpg' alt='Samsung Galaxy A33 5G y Galaxy A53 5G: especificaciones, disponibilidad y precios' />
     </a>
 </div>
 
