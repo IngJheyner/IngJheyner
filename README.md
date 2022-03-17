@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785'>¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777'>Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587'>Cummins da el paso hacia los combustibles sintéticos con un motor universal</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sede-cummins-2641319.jpg' alt='Cummins da el paso hacia los combustibles sintéticos con un motor universal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259'>Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545317.jpg' alt='Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693'>James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-compra-metro-goldwyn-mayer-8450-millones-dolares-hace-james-bond-vikings-otras-2348747.jpg' alt='James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511'>Qué hacer si te hackean la cuenta de Facebook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631401.jpg' alt='Qué hacer si te hackean la cuenta de Facebook' />
     </a>
 </div>
 
