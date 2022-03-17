@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619'>¡Ya está en tu quiosco el número 612 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-612-2642235.jpg' alt='¡Ya está en tu quiosco el número 612 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deepfakes-guerra-ucrania-difunde-zelenski-1029375'>Los deepfakes ya son utilizados en la guerra de Ucrania y se ha difundido uno de Zelenski</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deepfakes-guerra-ucrania-difunde-zelenski-1029375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/volodymyr-zelenskyy-2647161.jpg' alt='Los deepfakes ya son utilizados en la guerra de Ucrania y se ha difundido uno de Zelenski' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085'>Cargadores inalámbricos de IKEA: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-ikea-2646785.jpg' alt='Cargadores inalámbricos de IKEA: estos son los mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919'>Una almohada imita la respiración y puede calmar la ansiedad</a></h4>
     <a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abrazar-almohada-2646289.jpg' alt='Una almohada imita la respiración y puede calmar la ansiedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gran-coche-no-triunfo-ford-cougar-1028915'>Un gran coche que no triunfó: Ford Cougar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gran-coche-no-triunfo-ford-cougar-1028915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/ford-cougar_9.jpg' alt='Un gran coche que no triunfó: Ford Cougar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2647133.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
