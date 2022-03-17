@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507'>¿Por qué no tienes que cargar la batería del móvil siempre al 100%?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bateria-2647463.jpg' alt='¿Por qué no tienes que cargar la batería del móvil siempre al 100%?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493'>Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-i-2647327.jpg' alt='Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486'>¿Qué es Google Académico y cómo funciona?</a></h4>
     <a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-academico-2647183.jpg' alt='¿Qué es Google Académico y cómo funciona?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nueva-herramienta-android-auto-verifica-cable-usb-adecuado-1029503'>Así funciona la nueva herramienta de Android Auto que verifica si tu cable USB es adecuado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nueva-herramienta-android-auto-verifica-cable-usb-adecuado-1029503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Así funciona la nueva herramienta de Android Auto que verifica si tu cable USB es adecuado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-existio-windows-9-1029459'>¿Por qué nunca existió un Windows 9?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nunca-existio-windows-9-1029459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-9-2647313.jpg' alt='¿Por qué nunca existió un Windows 9?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/control-parental-instagram-ya-realidad-funciona-1029485'>El control parental de Instagram ya es una realidad: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/control-parental-instagram-ya-realidad-funciona-1029485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='El control parental de Instagram ya es una realidad: así funciona' />
     </a>
 </div>
 
