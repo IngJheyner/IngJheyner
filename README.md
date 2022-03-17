@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593'>Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2641385.jpg' alt='Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783'>Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-2580243.jpg' alt='Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/callejon-almas-perdidas-guillermo-toro-disney-plus-1029787'>Ya está en Disney+ la película más "noir" de Guillermo del Toro, nominada a 4 premios Óscar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/callejon-almas-perdidas-guillermo-toro-disney-plus-1029787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/callejon-almas-perdidas-2588765.jpeg' alt='Ya está en Disney+ la película más "noir" de Guillermo del Toro, nominada a 4 premios Óscar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785'>¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777'>Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa</a></h4>
     <a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587'>Cummins da el paso hacia los combustibles sintéticos con un motor universal</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sede-cummins-2641319.jpg' alt='Cummins da el paso hacia los combustibles sintéticos con un motor universal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-3-deja-ver-primeras-especificaciones-filtradas-1029757'>El OnePlus Nord 3 se deja ver en sus primeras especificaciones filtradas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-3-deja-ver-primeras-especificaciones-filtradas-1029757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414307.jpg' alt='El OnePlus Nord 3 se deja ver en sus primeras especificaciones filtradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259'>Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545317.jpg' alt='Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato' />
     </a>
 </div>
 
