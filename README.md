@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-espacial-james-webb-mayor-exito-podia-esperar-1029397'>El telescopio espacial James Webb es el mayor éxito que se podía esperar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telescopio-espacial-james-webb-mayor-exito-podia-esperar-1029397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='El telescopio espacial James Webb es el mayor éxito que se podía esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619'>¡Ya está en tu quiosco el número 612 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-612-computer-hoy-1025619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-612-2642235.jpg' alt='¡Ya está en tu quiosco el número 612 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359'>The Batman ya tiene fecha de estreno en HBO Max: queda un mes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2639953.jpg' alt='The Batman ya tiene fecha de estreno en HBO Max: queda un mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919'>Una almohada imita la respiración y puede calmar la ansiedad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abrazar-almohada-2646289.jpg' alt='Una almohada imita la respiración y puede calmar la ansiedad' />
     </a>
 </div>
 
