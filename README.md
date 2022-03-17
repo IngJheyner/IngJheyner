@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693'>James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-compra-metro-goldwyn-mayer-8450-millones-dolares-hace-james-bond-vikings-otras-2348747.jpg' alt='James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511'>Qué hacer si te hackean la cuenta de Facebook</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631401.jpg' alt='Qué hacer si te hackean la cuenta de Facebook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529'>La especia de supermercado más “tramposa” según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vainilla-2464115.jpg' alt='La especia de supermercado más “tramposa” según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-galaxy-a53-5g-especificaciones-disponibilidad-precios-1029455'>Samsung Galaxy A33 5G y Galaxy A53 5G: especificaciones, disponibilidad y precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-galaxy-a53-5g-especificaciones-disponibilidad-precios-1029455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galaxy-a33-a53-5g-2647391.jpg' alt='Samsung Galaxy A33 5G y Galaxy A53 5G: especificaciones, disponibilidad y precios' />
     </a>
 </div>
 
