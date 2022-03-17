@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833'>El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-set-regreso-futuro-lego-delorean-3-1-2648263.jpg' alt='El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-1029799'>FRITZ!Box 7590 AX: así es el nuevo router de AVM con WiFi 6 pensado tanto para hogares como para oficinas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-1029799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-2648225.jpg' alt='FRITZ!Box 7590 AX: así es el nuevo router de AVM con WiFi 6 pensado tanto para hogares como para oficinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803'>La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593'>Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2641385.jpg' alt='Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783'>Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-2580243.jpg' alt='Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/callejon-almas-perdidas-guillermo-toro-disney-plus-1029787'>Ya está en Disney+ la película más "noir" de Guillermo del Toro, nominada a 4 premios Óscar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/callejon-almas-perdidas-guillermo-toro-disney-plus-1029787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/callejon-almas-perdidas-2588765.jpeg' alt='Ya está en Disney+ la película más "noir" de Guillermo del Toro, nominada a 4 premios Óscar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785'>¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locos-microsoft-marco-como-malware-alguna-propias-actualizaciones-1029785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='¡De locos! Microsoft marcó como malware alguna de sus propias actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777'>Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-ya-escasean-supermercados-huelga-otros-comenzaran-hacerlo-continua-1029777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Productos que ya escasean en supermercados por la huelga y otros que comenzarán a hacerlo si continúa' />
     </a>
 </div>
 
