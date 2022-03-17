@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2647133.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-repetidores-wifi-6-1029047'>Repetidores WiFi 6: estos son los mejores que hay a la venta ahora</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-repetidores-wifi-6-1029047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg' alt='Repetidores WiFi 6: estos son los mejores que hay a la venta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143'>Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135'>Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-puede-vivir-gran-crecimiento-espana-nuevo-sorprendente-plan-2646889.jpg' alt='Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913'>Primera imagen del nuevo Pinocho que se estrenará en Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primera-imagen-nuevo-pinocho-estrenara-disney-1028913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pinocho-disney-tom-hanks-robert-zemeckis-2640273.jpg' alt='Primera imagen del nuevo Pinocho que se estrenará en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107'>Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/funciona-protocolo-garantiza-suministro-yodo-caso-alerta-nuclear-espana-1029107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/reactor-nuclear-1948975.jpg' alt='Así funciona el protocolo que garantiza el suministro de yodo en caso de alerta nuclear en España' />
     </a>
 </div>
 
