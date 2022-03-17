@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587'>Cummins da el paso hacia los combustibles sintéticos con un motor universal</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cummins-da-paso-combustibles-sinteticos-motor-universal-1029587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sede-cummins-2641319.jpg' alt='Cummins da el paso hacia los combustibles sintéticos con un motor universal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-3-deja-ver-primeras-especificaciones-filtradas-1029757'>El OnePlus Nord 3 se deja ver en sus primeras especificaciones filtradas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-3-deja-ver-primeras-especificaciones-filtradas-1029757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414307.jpg' alt='El OnePlus Nord 3 se deja ver en sus primeras especificaciones filtradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259'>Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-120-hz-5g-snapdragon-778g-honor-50-bestia-potencia-amazon-vende-140-euros-barato-1028259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545317.jpg' alt='Pantalla 120 Hz, 5G y Snapdragon 778G: el Honor 50 es una bestia de potencia que Amazon vende 140 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693'>James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/james-bond-vikings-tomb-rider-ya-son-propiedad-amazon-bruselas-autoriza-compra-metro-goldwyn-mayer-7600-millones-euros-1029693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-compra-metro-goldwyn-mayer-8450-millones-dolares-hace-james-bond-vikings-otras-2348747.jpg' alt='James Bond, Vikings y Tomb Rider ya son propiedad de Amazon: Bruselas autoriza la compra de Metro Goldwyn Mayer por 7.600 millones de euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511'>Qué hacer si te hackean la cuenta de Facebook</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-te-hackean-cuenta-facebook-1020511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631401.jpg' alt='Qué hacer si te hackean la cuenta de Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-compania-sumarse-veto-ruso-pone-jaque-telecomunicaciones-pais-1029689'>La última compañía en sumarse al veto ruso pone en jaque a las telecomunicaciones del país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-compania-sumarse-veto-ruso-pone-jaque-telecomunicaciones-pais-1029689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='La última compañía en sumarse al veto ruso pone en jaque a las telecomunicaciones del país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tabla-cortar-descongelar-lidl-1028345'>La tabla de cortar de Lidl que además descongela los alimentos más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tabla-cortar-descongelar-lidl-1028345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tabla-cocina-cortar-alimentos-2645403.jpg' alt='La tabla de cortar de Lidl que además descongela los alimentos más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529'>La especia de supermercado más “tramposa” según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/especia-supermercado-tramposa-ocu-1029529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vainilla-2464115.jpg' alt='La especia de supermercado más “tramposa” según la OCU' />
     </a>
 </div>
 
