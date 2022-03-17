@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085'>Cargadores inalámbricos de IKEA: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-inalambricos-moviles-ikea-1029085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-ikea-2646785.jpg' alt='Cargadores inalámbricos de IKEA: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359'>The Batman ya tiene fecha de estreno en HBO Max: queda un mes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/batman-ya-tiene-fecha-hbo-max-abril-1029359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2639953.jpg' alt='The Batman ya tiene fecha de estreno en HBO Max: queda un mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919'>Una almohada imita la respiración y puede calmar la ansiedad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/almohada-imita-respiracion-puede-calmar-ansiedad-1028919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abrazar-almohada-2646289.jpg' alt='Una almohada imita la respiración y puede calmar la ansiedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/gran-coche-no-triunfo-ford-cougar-1028915'>Un gran coche que no triunfó: Ford Cougar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gran-coche-no-triunfo-ford-cougar-1028915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/ford-cougar_9.jpg' alt='Un gran coche que no triunfó: Ford Cougar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1029355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2647133.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-repetidores-wifi-6-1029047'>Repetidores WiFi 6: estos son los mejores que hay a la venta ahora</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-repetidores-wifi-6-1029047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg' alt='Repetidores WiFi 6: estos son los mejores que hay a la venta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143'>Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-galaxy-tab-a7-lite-descuento-1029143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-galaxy-tab-a7-lite-2440167.jpg' alt='Buena, bonita y barata: la tablet Samsung Galaxy Tab A7 Lite cumple con todo por solo 138 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129'>Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amenazas-netflix-hacen-realidad-solo-podras-compartir-cuenta-dentro-casa-1029129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Las amenazas de Netflix se hacen realidad: solo podrás compartir la cuenta dentro de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135'>Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-fc-barcelona-acuerdo-1029135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-puede-vivir-gran-crecimiento-espana-nuevo-sorprendente-plan-2646889.jpg' alt='Spotify puede vivir un gran crecimiento en España con su nuevo y sorprendente plan' />
     </a>
 </div>
 
