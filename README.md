@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cual-mi-numero-seguridad-social-1029605'>Cuál es mi número de la Seguridad Social</a></h4>
+    <a href='https://computerhoy.com/noticias/cual-mi-numero-seguridad-social-1029605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/sede-electronica-seguridad-social-2219323.jpg' alt='Cuál es mi número de la Seguridad Social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259'>La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/limpiar-televisor-2526569.jpg' alt='La pócima definitiva para limpiar la pantalla del televisor sin dejar una sola marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/puede-multarte-dgt-llevar-deposito-gasolina-reserva-1029527'>¿Puede multarte la DGT por llevar el depósito de gasolina en reserva?</a></h4>
+    <a href='https://computerhoy.com/noticias/puede-multarte-dgt-llevar-deposito-gasolina-reserva-1029527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='¿Puede multarte la DGT por llevar el depósito de gasolina en reserva?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507'>¿Por qué no tienes que cargar la batería del móvil siempre al 100%?</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-tienes-cargar-bateria-movil-siempre-100-1029507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bateria-2647463.jpg' alt='¿Por qué no tienes que cargar la batería del móvil siempre al 100%?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493'>Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-i-vuelve-ser-evento-presencial-11-12-mayo-estas-son-algunas-novedades-veremos-1029493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-i-2647327.jpg' alt='Google I/O vuelve a ser evento presencial el 11 y 12 de mayo y estas son algunas de las novedades que veremos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486'>¿Qué es Google Académico y cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-academico-2647183.jpg' alt='¿Qué es Google Académico y cómo funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/i7-16gb-ram-poco-1-kg-peso-portatil-ultraligero-asus-viene-200eu-descuento-ahora-mismo-1027629'>i7, 16GB de RAM y poco más de 1 kg de peso: este portátil ultraligero de ASUS viene 200€ de descuento ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/i7-16gb-ram-poco-1-kg-peso-portatil-ultraligero-asus-viene-200eu-descuento-ahora-mismo-1027629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-zenbook-14-ux425ea-bm020-2644329.jpg' alt='i7, 16GB de RAM y poco más de 1 kg de peso: este portátil ultraligero de ASUS viene 200€ de descuento ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nueva-herramienta-android-auto-verifica-cable-usb-adecuado-1029503'>Así funciona la nueva herramienta de Android Auto que verifica si tu cable USB es adecuado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nueva-herramienta-android-auto-verifica-cable-usb-adecuado-1029503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Así funciona la nueva herramienta de Android Auto que verifica si tu cable USB es adecuado' />
     </a>
 </div>
 
