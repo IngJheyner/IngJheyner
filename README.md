@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833'>El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833'>El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-set-regreso-futuro-lego-delorean-3-1-2648263.jpg' alt='El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-set-regreso-futuro-lego-delorean-3-1-2648263.jpg' alt='El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)' />
     </a>
 </div>
 
