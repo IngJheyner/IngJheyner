@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sale-humo-freidora-aire-como-identificar-posibles-problemas-1030187'>¿Sale humo de tu freidora de aire? Cómo identificar los posibles problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sale-humo-freidora-aire-como-identificar-posibles-problemas-1030187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-sivercrest-2563647.jpg' alt='¿Sale humo de tu freidora de aire? Cómo identificar los posibles problemas' />
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253'>La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/pastillas-2301149.jpg' alt='La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-leer-mensajes-whatsapp-aunque-hayan-eliminado-1030163'>El ingenioso truco para leer mensajes de WhatsApp aunque los hayan eliminado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-leer-mensajes-whatsapp-aunque-hayan-eliminado-1030163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-mandar-mensajes-autodestruyen-whatsapp-2486369.jpg' alt='El ingenioso truco para leer mensajes de WhatsApp aunque los hayan eliminado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221'>Trucos para escribir mensajes de WhatsApp más rápido en iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Trucos para escribir mensajes de WhatsApp más rápido en iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-secretos-bill-gates-alcanzar-felicidad-1030117'>Los 5 secretos de Bill Gates para alcanzar la felicidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-secretos-bill-gates-alcanzar-felicidad-1030117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/El%20fundador%20de%20Microsoft%2C%20Bill%20Gates.jpg' alt='Los 5 secretos de Bill Gates para alcanzar la felicidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cumplen-5-anos-boton-utilizado-historia-netflix-1030199'>Se cumplen 5 años del botón más utilizado en la historia de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cumplen-5-anos-boton-utilizado-historia-netflix-1030199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Se cumplen 5 años del botón más utilizado en la historia de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wd-my-cloud-ex2-2647921.jpg' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-9-llega-espana-procesador-snapdragon-680-carga-rapida-66-w-precio-contenido-1030151'>Huawei nova 9 SE llega a España con procesador Snapdragon 680, carga rápida de 66 W y un precio contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-9-llega-espana-procesador-snapdragon-680-carga-rapida-66-w-precio-contenido-1030151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-nova-9-2542789.jpg' alt='Huawei nova 9 SE llega a España con procesador Snapdragon 680, carga rápida de 66 W y un precio contenido' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363'>Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-lidl-vs-compact-rapid-2590785.jpg' alt='Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?' />
     </a>
 </div>
 
