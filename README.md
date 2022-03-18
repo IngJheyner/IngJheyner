@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405'>Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smartphone-conectado-cable-ordenador-2443761.jpg' alt='Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sienten-precuelas-star-wars-ewan-mcgregor-1030195'>Así se sienten las precuelas de Star Wars, según Ewan McGregor</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sienten-precuelas-star-wars-ewan-mcgregor-1030195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/obi-wan-kenobi-serie-tv-2640271.jpg' alt='Así se sienten las precuelas de Star Wars, según Ewan McGregor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415'>Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413'>6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-expresiones-nunca-debes-usar-entrevista-trabajo-2649339.jpg' alt='6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tom-hanks-ha-vendido-polski-fiat-126-p-83500-dolares-1030191'>Tom Hanks ha vendido su Polski Fiat 126p por 83.500 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tom-hanks-ha-vendido-polski-fiat-126-p-83500-dolares-1030191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tom-hanks-fiat-126p-1-2642249.jpg' alt='Tom Hanks ha vendido su Polski Fiat 126p por 83.500 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-1030401'>Xiaomi presenta un increíble televisor 4K de 100 pulgadas a un precio insuperable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-1030401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-2649317.jpg' alt='Xiaomi presenta un increíble televisor 4K de 100 pulgadas a un precio insuperable' />
     </a>
 </div>
 
