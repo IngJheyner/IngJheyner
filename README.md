@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-buds-3-buds-3t-pro-comprar-espana-1029739'>Ya puedes comprar los nuevos auriculares Xiaomi Buds 3 y 3T Pro en España</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-buds-3-buds-3t-pro-comprar-espana-1029739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-buds-3t-pro-2648071.jpg' alt='Ya puedes comprar los nuevos auriculares Xiaomi Buds 3 y 3T Pro en España' />
+    <h4><a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415'>Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2649177.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-amazon-complicar-intencionadamente-proceso-cancelar-suscripciones-1030409'>Acusan a Amazon de complicar intencionadamente el proceso para cancelar sus suscripciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acusan-amazon-complicar-intencionadamente-proceso-cancelar-suscripciones-1030409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Acusan a Amazon de complicar intencionadamente el proceso para cancelar sus suscripciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-movistar-ademas-son-placer-vista-1030161'>Qué películas ver este fin de semana en Prime Video, Disney+ y Movistar+ que además son un placer para la vista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-movistar-ademas-son-placer-vista-1030161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/callejon-almas-perdidas-2648755.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Movistar+ que además son un placer para la vista' />
+    <h4><a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413'>6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-expresiones-nunca-debes-usar-entrevista-trabajo-2649339.jpg' alt='6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321'>Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/microsoft-edge-2112681.jpg' alt='Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización' />
+    <h4><a href='https://computerhoy.com/noticias/motor/tom-hanks-ha-vendido-polski-fiat-126-p-83500-dolares-1030191'>Tom Hanks ha vendido su Polski Fiat 126p por 83.500 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tom-hanks-ha-vendido-polski-fiat-126-p-83500-dolares-1030191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tom-hanks-fiat-126p-1-2642249.jpg' alt='Tom Hanks ha vendido su Polski Fiat 126p por 83.500 dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215'>Así es como se pierde 1 millón de dólares vendiendo un NFT </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2648773.jpg' alt='Así es como se pierde 1 millón de dólares vendiendo un NFT ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-1030401'>Xiaomi presenta un increíble televisor 4K de 100 pulgadas a un precio insuperable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-1030401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-presenta-increible-televisor-4k-100-pulgadas-precio-insuperable-2649317.jpg' alt='Xiaomi presenta un increíble televisor 4K de 100 pulgadas a un precio insuperable' />
     </a>
 </div>
 
