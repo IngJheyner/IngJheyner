@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-desesperantes-windows-11-solucion-1030085'>Las funciones más desesperantes de Windows 11 y su solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciones-desesperantes-windows-11-solucion-1030085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Las funciones más desesperantes de Windows 11 y su solución' />
+    <h4><a href='https://computerhoy.com/noticias/life/sale-humo-freidora-aire-como-identificar-posibles-problemas-1030187'>¿Sale humo de tu freidora de aire? Cómo identificar los posibles problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sale-humo-freidora-aire-como-identificar-posibles-problemas-1030187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/freidora-lidl-sivercrest-2563647.jpg' alt='¿Sale humo de tu freidora de aire? Cómo identificar los posibles problemas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/puede-danar-microfono-movil-pincho-sim-te-equivocas-agujero-1030109'>¿Puede dañar el micrófono del móvil el pincho para la SIM si te equivocas de agujero?</a></h4>
-    <a href='https://computerhoy.com/noticias/puede-danar-microfono-movil-pincho-sim-te-equivocas-agujero-1030109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/tarjeta-sim.jpg' alt='¿Puede dañar el micrófono del móvil el pincho para la SIM si te equivocas de agujero?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-leer-mensajes-whatsapp-aunque-hayan-eliminado-1030163'>El ingenioso truco para leer mensajes de WhatsApp aunque los hayan eliminado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-leer-mensajes-whatsapp-aunque-hayan-eliminado-1030163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-mandar-mensajes-autodestruyen-whatsapp-2486369.jpg' alt='El ingenioso truco para leer mensajes de WhatsApp aunque los hayan eliminado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-ultimate-quiere-ser-referente-fotografico-2022-1030099'>El Honor Magic 4 Ultimate quiere ser el referente fotográfico de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-ultimate-quiere-ser-referente-fotografico-2022-1030099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-2618445.jpg' alt='El Honor Magic 4 Ultimate quiere ser el referente fotográfico de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-secretos-bill-gates-alcanzar-felicidad-1030117'>Los 5 secretos de Bill Gates para alcanzar la felicidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-secretos-bill-gates-alcanzar-felicidad-1030117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/El%20fundador%20de%20Microsoft%2C%20Bill%20Gates.jpg' alt='Los 5 secretos de Bill Gates para alcanzar la felicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091'>PayPal se solidariza con Ucrania y facilita los envíos de dinero al país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-tarjeta-credito-2648485.jpg' alt='PayPal se solidariza con Ucrania y facilita los envíos de dinero al país' />
+    <h4><a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833'>3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-senales-puerta-usan-ladrones-marcar-objetivos-policia-1028833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-nacional-2646099.jpg' alt='3 señales en la puerta que usan los ladrones para marcar sus objetivos, según @policia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063'>Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-9-llega-espana-procesador-snapdragon-680-carga-rapida-66-w-precio-contenido-1030151'>Huawei nova 9 SE llega a España con procesador Snapdragon 680, carga rápida de 66 W y un precio contenido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-9-llega-espana-procesador-snapdragon-680-carga-rapida-66-w-precio-contenido-1030151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-huawei-nova-9-2542789.jpg' alt='Huawei nova 9 SE llega a España con procesador Snapdragon 680, carga rápida de 66 W y un precio contenido' />
     </a>
 </div>
 
