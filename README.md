@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-moviles-5g-superan-ventas-4g-1030443'>Por primera vez, los móviles con 5G ya venden más que los 4G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventas-moviles-5g-superan-ventas-4g-1030443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-a33-5g-galaxy-a53-5g-2647685.jpg' alt='Por primera vez, los móviles con 5G ya venden más que los 4G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439'>Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-1030427'>Twitter sigue los pasos de YouTube y ahora permitirá crear clips de los Espacios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-1030427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-2649375.jpg' alt='Twitter sigue los pasos de YouTube y ahora permitirá crear clips de los Espacios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-oferta-1030431'>El robot de limpieza Roborock Q7 Max acaba de salir, pero ya tiene un 33% de descuento... ¡solo durante unas horas!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-oferta-1030431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/roborock-q7-max-2632823.jpg' alt='El robot de limpieza Roborock Q7 Max acaba de salir, pero ya tiene un 33% de descuento... ¡solo durante unas horas!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/xiaomi-12-pro-review-opinion-1029383'>Xiaomi 12 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-12-pro-review-opinion-1029383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi 12 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405'>Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smartphone-conectado-cable-ordenador-2443761.jpg' alt='Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sienten-precuelas-star-wars-ewan-mcgregor-1030195'>Así se sienten las precuelas de Star Wars, según Ewan McGregor</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sienten-precuelas-star-wars-ewan-mcgregor-1030195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/obi-wan-kenobi-serie-tv-2640271.jpg' alt='Así se sienten las precuelas de Star Wars, según Ewan McGregor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415'>Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV' />
     </a>
 </div>
 
