@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215'>Así es como se pierde 1 millón de dólares vendiendo un NFT </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2648773.jpg' alt='Así es como se pierde 1 millón de dólares vendiendo un NFT ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323'>A qué hora amanece y anochece hoy </a></h4>
+    <a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/puesta-sol-roja-2415981.jpg' alt='A qué hora amanece y anochece hoy ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695'>Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soundpeats-a6-2647977.jpg' alt='Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307'>La cafetera con termo de Lidl para preparar el café para llevar</a></h4>
     <a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cafe-cafetera-2449819.jpg' alt='La cafetera con termo de Lidl para preparar el café para llevar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253'>La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/pastillas-2301149.jpg' alt='La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221'>Trucos para escribir mensajes de WhatsApp más rápido en iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Trucos para escribir mensajes de WhatsApp más rápido en iPhone' />
     </a>
 </div>
 
