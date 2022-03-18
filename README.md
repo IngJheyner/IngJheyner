@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-oferta-1030431'>El robot de limpieza Roborock Q7 Max acaba de salir, pero ya tiene un 33% de descuento... ¡solo durante unas horas!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-oferta-1030431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/roborock-q7-max-2632823.jpg' alt='El robot de limpieza Roborock Q7 Max acaba de salir, pero ya tiene un 33% de descuento... ¡solo durante unas horas!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-12-pro-review-opinion-1029383'>Xiaomi 12 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-12-pro-review-opinion-1029383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi 12 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405'>Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/miles-moviles-android-economicos-varias-marcas-peligro-fallo-seguridad-critico-1030405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smartphone-conectado-cable-ordenador-2443761.jpg' alt='Miles de móviles Android económicos de varias marcas en peligro por un fallo de seguridad crítico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415'>Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/anaden-dos-nuevas-pruebas-indispensables-conseguir-pasar-itv-1030415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Añaden dos nuevas pruebas indispensables para conseguir pasar la ITV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-amazon-complicar-intencionadamente-proceso-cancelar-suscripciones-1030409'>Acusan a Amazon de complicar intencionadamente el proceso para cancelar sus suscripciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acusan-amazon-complicar-intencionadamente-proceso-cancelar-suscripciones-1030409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Acusan a Amazon de complicar intencionadamente el proceso para cancelar sus suscripciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413'>6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-frases-hechas-expresiones-nunca-debes-usar-entrevista-trabajo-1030413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-expresiones-nunca-debes-usar-entrevista-trabajo-2649339.jpg' alt='6 frases hechas y expresiones que nunca debes usar en una entrevista de trabajo' />
     </a>
 </div>
 
