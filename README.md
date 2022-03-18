@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2649177.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-movistar-ademas-son-placer-vista-1030161'>Qué películas ver este fin de semana en Prime Video, Disney+ y Movistar+ que además son un placer para la vista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-movistar-ademas-son-placer-vista-1030161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/callejon-almas-perdidas-2648755.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Movistar+ que además son un placer para la vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321'>Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/microsoft-edge-2112681.jpg' alt='Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323'>A qué hora amanece y anochece hoy </a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/puesta-sol-roja-2415981.jpg' alt='A qué hora amanece y anochece hoy ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695'>Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soundpeats-a6-2647977.jpg' alt='Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-uwu-1030235'>¿Qué significa UwU?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-uwu-1030235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/uwu-meaning-2648775.jpg' alt='¿Qué significa UwU?' />
     </a>
 </div>
 
