@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321'>Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-busca-mejorar-experiencia-uso-personas-ciegas-nueva-actualizacion-1030321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/microsoft-edge-2112681.jpg' alt='Microsoft Edge busca mejorar la experiencia de uso de las personas ciegas con esta nueva actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215'>Así es como se pierde 1 millón de dólares vendiendo un NFT </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2648773.jpg' alt='Así es como se pierde 1 millón de dólares vendiendo un NFT ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significa-uwu-1030235'>¿Qué significa UwU?</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-uwu-1030235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/uwu-meaning-2648775.jpg' alt='¿Qué significa UwU?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307'>La cafetera con termo de Lidl para preparar el café para llevar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cafe-cafetera-2449819.jpg' alt='La cafetera con termo de Lidl para preparar el café para llevar' />
     </a>
 </div>
 
