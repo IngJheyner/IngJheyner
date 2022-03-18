@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-buds-3-buds-3t-pro-comprar-espana-1029739'>Ya puedes comprar los nuevos auriculares Xiaomi Buds 3 y 3T Pro en España</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-buds-3-buds-3t-pro-comprar-espana-1029739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-buds-3t-pro-2648071.jpg' alt='Ya puedes comprar los nuevos auriculares Xiaomi Buds 3 y 3T Pro en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-recursos-humanos-manhattan-moto-gp-1030345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2649177.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: recursos humanos, Manhattan y la Moto GP' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215'>Así es como se pierde 1 millón de dólares vendiendo un NFT </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-1-millon-dolares-vendiendo-nft-1030215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nft-2648773.jpg' alt='Así es como se pierde 1 millón de dólares vendiendo un NFT ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323'>A qué hora amanece y anochece hoy </a></h4>
-    <a href='https://computerhoy.com/noticias/life/hora-amanece-anochece-hoy-1030323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/puesta-sol-roja-2415981.jpg' alt='A qué hora amanece y anochece hoy ' />
     </a>
 </div>
 
