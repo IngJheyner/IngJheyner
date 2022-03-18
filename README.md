@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091'>PayPal se solidariza con Ucrania y facilita los envíos de dinero al país</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-tarjeta-credito-2648485.jpg' alt='PayPal se solidariza con Ucrania y facilita los envíos de dinero al país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063'>Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393'>5 relojes para running que incluyen entrenador personal virtual</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-deportivo-running-2645533.jpg' alt='5 relojes para running que incluyen entrenador personal virtual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595'>Así es la ITV que tienen que pasar los coches híbridos y eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-itv-coches-hibridos-electricos-2642399.jpg' alt='Así es la ITV que tienen que pasar los coches híbridos y eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2648457.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509'>Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-kindle-vs-kobo-nia-2647451.jpg' alt='Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?' />
     </a>
 </div>
 
