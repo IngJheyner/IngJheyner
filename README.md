@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393'>5 relojes para running que incluyen entrenador personal virtual</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-deportivo-running-2645533.jpg' alt='5 relojes para running que incluyen entrenador personal virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-esperan-tablets-superen-pronto-ordenadores-portatiles-1029603'>En Google esperan que las tablets superen pronto a los ordenadores portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-esperan-tablets-superen-pronto-ordenadores-portatiles-1029603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='En Google esperan que las tablets superen pronto a los ordenadores portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595'>Así es la ITV que tienen que pasar los coches híbridos y eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-itv-coches-hibridos-electricos-2642399.jpg' alt='Así es la ITV que tienen que pasar los coches híbridos y eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2648457.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509'>Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-kindle-vs-kobo-nia-2647451.jpg' alt='Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833'>El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-set-regreso-futuro-lego-delorean-3-1-2648263.jpg' alt='El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-1029799'>FRITZ!Box 7590 AX: así es el nuevo router de AVM con WiFi 6 pensado tanto para hogares como para oficinas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-1029799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fritzbox-7590-ax-nuevo-router-avm-wifi-6-pensado-tanto-hogares-como-oficinas-2648225.jpg' alt='FRITZ!Box 7590 AX: así es el nuevo router de AVM con WiFi 6 pensado tanto para hogares como para oficinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803'>La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon' />
     </a>
 </div>
 
