@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695'>Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-soundpeats-a6-oferta-cupon-amazon-1029695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soundpeats-a6-2647977.jpg' alt='Dile adiós a los ruidos con la cancelación de ruido activa: estos auriculares SoundPEATS A6 lo tienen y solo cuestan 53€ con este cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-uwu-1030235'>¿Qué significa UwU?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-uwu-1030235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/uwu-meaning-2648775.jpg' alt='¿Qué significa UwU?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307'>La cafetera con termo de Lidl para preparar el café para llevar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cafetera-termo-lidl-preparar-cafe-llevar-1030307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cafe-cafetera-2449819.jpg' alt='La cafetera con termo de Lidl para preparar el café para llevar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253'>La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-deja-clara-realidad-pastillas-yodo-hace-llamamiento-sensatez-1030253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/pastillas-2301149.jpg' alt='La OCU deja clara la realidad de las pastillas de yodo y hace un llamamiento a la sensatez' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221'>Trucos para escribir mensajes de WhatsApp más rápido en iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-escribir-mensajes-whatsapp-rapido-iphone-1030221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg' alt='Trucos para escribir mensajes de WhatsApp más rápido en iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cumplen-5-anos-boton-utilizado-historia-netflix-1030199'>Se cumplen 5 años del botón más utilizado en la historia de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cumplen-5-anos-boton-utilizado-historia-netflix-1030199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Se cumplen 5 años del botón más utilizado en la historia de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wd-my-cloud-ex2-2647921.jpg' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363'>Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aceite-lidl-vs-cecotec-compact-rapid-airfryer-barata-mejor-998363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-lidl-vs-compact-rapid-2590785.jpg' alt='Freidora sin aceite de Lidl vs Cecotec Compact Rapid: ¿qué Airfryer barata es mejor?' />
     </a>
 </div>
 
