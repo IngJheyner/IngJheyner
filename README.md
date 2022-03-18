@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-desesperantes-windows-11-solucion-1030085'>Las funciones más desesperantes de Windows 11 y su solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciones-desesperantes-windows-11-solucion-1030085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Las funciones más desesperantes de Windows 11 y su solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/puede-danar-microfono-movil-pincho-sim-te-equivocas-agujero-1030109'>¿Puede dañar el micrófono del móvil el pincho para la SIM si te equivocas de agujero?</a></h4>
+    <a href='https://computerhoy.com/noticias/puede-danar-microfono-movil-pincho-sim-te-equivocas-agujero-1030109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/tarjeta-sim.jpg' alt='¿Puede dañar el micrófono del móvil el pincho para la SIM si te equivocas de agujero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-ultimate-quiere-ser-referente-fotografico-2022-1030099'>El Honor Magic 4 Ultimate quiere ser el referente fotográfico de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic-4-ultimate-quiere-ser-referente-fotografico-2022-1030099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/honor-magic-4-2618445.jpg' alt='El Honor Magic 4 Ultimate quiere ser el referente fotográfico de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091'>PayPal se solidariza con Ucrania y facilita los envíos de dinero al país</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paypal-solidariza-ucrania-facilita-envios-dinero-pais-1030091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-tarjeta-credito-2648485.jpg' alt='PayPal se solidariza con Ucrania y facilita los envíos de dinero al país' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063'>Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-limitar-ahora-uso-cuentas-compartidas-1030063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Por qué Netflix va a limitar justo ahora el uso de cuentas compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393'>5 relojes para running que incluyen entrenador personal virtual</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-relojes-running-incluyen-entrenador-personal-virtual-1028393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-deportivo-running-2645533.jpg' alt='5 relojes para running que incluyen entrenador personal virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-esperan-tablets-superen-pronto-ordenadores-portatiles-1029603'>En Google esperan que las tablets superen pronto a los ordenadores portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-esperan-tablets-superen-pronto-ordenadores-portatiles-1029603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/nino-tablet-2577439.jpg' alt='En Google esperan que las tablets superen pronto a los ordenadores portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595'>Así es la ITV que tienen que pasar los coches híbridos y eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/itv-tienen-pasar-coches-hibridos-electricos-1029595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-itv-coches-hibridos-electricos-2642399.jpg' alt='Así es la ITV que tienen que pasar los coches híbridos y eléctricos' />
     </a>
 </div>
 
