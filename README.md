@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1030053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2648457.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509'>Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-kindle-vs-kobo-nia-2647451.jpg' alt='Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833'>El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-set-regreso-futuro-lego-delorean-1029833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-set-regreso-futuro-lego-delorean-3-1-2648263.jpg' alt='El nuevo set de Regreso al Futuro de LEGO es un DeLorean 3 en 1 (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803'>La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-readme-pad-pantalla-2k-descuento-amazon-1029803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='La tablet realme Pad, enfocada al entretenimiento con pantalla 2K, baja por primera vez de los 200 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593'>Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tragedia-personal-ryan-reynolds-inspiro-escena-proyecto-adam-1029593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2641385.jpg' alt='Una tragedia personal de Ryan Reynolds inspiró una escena de El proyecto Adam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783'>Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-empezara-pedir-documento-identidad-usuarios-poder-usar-youtube-google-play-1029783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-2580243.jpg' alt='Google empezará a pedir el documento de identidad a los usuarios para poder usar YouTube o Google Play' />
     </a>
 </div>
 
