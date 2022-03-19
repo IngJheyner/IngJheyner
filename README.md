@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/scarlet-lady-crucero-solo-adultos-1030055'>Scarlet Lady, el crucero solo para adultos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/scarlet-lady-crucero-solo-adultos-1030055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/scarlet-lady-crucero-solo-adultos-2648459.jpg' alt='Scarlet Lady, el crucero solo para adultos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787'>Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733'>Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensores-inspirados-semillas-dientes-leon-2649821.jpg' alt='Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729'>Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg' alt='Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados' />
     </a>
 </div>
 
