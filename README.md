@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245'>Las 7 mejores series basadas en hechos reales que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-anna-2624611.jpg' alt='Las 7 mejores series basadas en hechos reales que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-juegos-nft-1022983'>¿Qué son los juegos NFT?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-juegos-nft-1022983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/juegos-nft-2646789.jpg' alt='¿Qué son los juegos NFT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s8-ultra-review-opinion-1028943'>Samsung Galaxy S8 Ultra, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s8-ultra-review-opinion-1028943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646927.jpg' alt='Samsung Galaxy S8 Ultra, análisis y opinión' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/encuentra-gasolineras-baratas-movil-1024449'>Encuentra las gasolineras más baratas en tu móvil</a></h4>
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/encuentra-gasolineras-baratas-movil-1024449'>Los 5 mejores trucos para encontrar las gasolineras más baratas en tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/encuentra-gasolineras-baratas-movil-1024449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2638025.jpg' alt='Encuentra las gasolineras más baratas en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/compran-isla-crowdfunding-micronacion-1030153'>Compran una isla mediante crowdfunding para formar su propia micronación, y tú puedes ser un ciudadano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/compran-isla-crowdfunding-micronacion-1030153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/compran-isla-mediante-crowdfunding-formar-propia-micronacion-puedes-ser-ciudadano-2648635.jpg' alt='Compran una isla mediante crowdfunding para formar su propia micronación, y tú puedes ser un ciudadano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-1030647'>Una inteligencia artificial crea 40.000 armas químicas en 6 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-1030647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-2649595.jpg' alt='Una inteligencia artificial crea 40.000 armas químicas en 6 horas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2638025.jpg' alt='Los 5 mejores trucos para encontrar las gasolineras más baratas en tu móvil' />
     </a>
 </div>
 
