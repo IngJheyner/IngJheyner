@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/compran-isla-crowdfunding-micronacion-1030153'>Compran una isla mediante crowdfunding para formar su propia micronación, y tú puedes ser un ciudadano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/compran-isla-crowdfunding-micronacion-1030153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/compran-isla-mediante-crowdfunding-formar-propia-micronacion-puedes-ser-ciudadano-2648635.jpg' alt='Compran una isla mediante crowdfunding para formar su propia micronación, y tú puedes ser un ciudadano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-1030647'>Una inteligencia artificial crea 40.000 armas químicas en 6 horas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-1030647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/inteligencia-artificial-crea-40000-armas-quimicas-6-horas-2649595.jpg' alt='Una inteligencia artificial crea 40.000 armas químicas en 6 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-360o-2646429.jpg' alt='Mejores cámaras de 360º que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/construyendo-hogar-inteligente-cuando-haces-pop-ya-no-hay-stop-1015687'>Construyendo un hogar inteligente: cuando haces pop, ya no hay stop</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/construyendo-hogar-inteligente-cuando-haces-pop-ya-no-hay-stop-1015687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297249.jpg' alt='Construyendo un hogar inteligente: cuando haces pop, ya no hay stop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/red-bull-plane-swap-1030645'>Red Bull va a intentar una locura en directo: dos pilotos intercambiarán su avión en pleno vuelo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/red-bull-plane-swap-1030645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-bull-va-intentar-locura-directo-dos-pilotos-intercambiaran-avion-pleno-vuelo-2649593.jpg' alt='Red Bull va a intentar una locura en directo: dos pilotos intercambiarán su avión en pleno vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543'>10 juegos divertidos para jugar en familia con un Alexa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alexa-2587769.jpg' alt='10 juegos divertidos para jugar en familia con un Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/azucar-dietista-proteinas-1030643'>¿Enganchado al azúcar? Según una dietista puede deberse a que no tomas estos nutrientes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/azucar-dietista-proteinas-1030643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/enganchado-azucar-dietista-puede-deberse-te-faltan-estos-nutrientes-2649589.jpg' alt='¿Enganchado al azúcar? Según una dietista puede deberse a que no tomas estos nutrientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713'>Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lavadora-vapor-2538475.jpg' alt='Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447'>Así puedes ver todos los canales de la TDT en tu Chromecast</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Así puedes ver todos los canales de la TDT en tu Chromecast' />
     </a>
 </div>
 
