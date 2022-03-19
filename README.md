@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777'>El perro robot de Boston Dynamics se une a su primer departamento de bomberos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-robot-boston-dynamics-2649883.jpg' alt='El perro robot de Boston Dynamics se une a su primer departamento de bomberos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189'>Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719'>Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-linkbuds-2649785.jpg' alt='Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709'>Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/true-detective-1-2649777.jpg' alt='Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada' />
     </a>
 </div>
 
