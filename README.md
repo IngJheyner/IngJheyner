@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719'>Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-linkbuds-2649785.jpg' alt='Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709'>Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/true-detective-1-2649777.jpg' alt='Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933'>Cómo activar Hyper-V en Windows 11 y sus interesantes funciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo activar Hyper-V en Windows 11 y sus interesantes funciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337'>60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/bose-qc45-review-opinion-1024381'>Bose QC45, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/bose-qc45-review-opinion-1024381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-bose-qc45-2641913.jpg' alt='Bose QC45, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-iphone-parece-agotar-rapidamente-bateria-1030687'>La última actualización para el iPhone parece agotar rápidamente la batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-iphone-parece-agotar-rapidamente-bateria-1030687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg' alt='La última actualización para el iPhone parece agotar rápidamente la batería' />
     </a>
 </div>
 
