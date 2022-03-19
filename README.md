@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729'>Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg' alt='Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719'>Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-linkbuds-2649785.jpg' alt='Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691'>Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-10-2649707.jpg' alt='Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337'>60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento' />
     </a>
 </div>
 
