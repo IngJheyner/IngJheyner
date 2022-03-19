@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/red-bull-plane-swap-1030645'>Red Bull va a intentar una locura en directo: dos pilotos intercambiarán su avión en pleno vuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/red-bull-plane-swap-1030645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-bull-va-intentar-locura-directo-dos-pilotos-intercambiaran-avion-pleno-vuelo-2649593.jpg' alt='Red Bull va a intentar una locura en directo: dos pilotos intercambiarán su avión en pleno vuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543'>10 juegos divertidos para jugar en familia con un Alexa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alexa-2587769.jpg' alt='10 juegos divertidos para jugar en familia con un Alexa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447'>Así puedes ver todos los canales de la TDT en tu Chromecast</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Así puedes ver todos los canales de la TDT en tu Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/felicitaciones-dia-del-padre-para-enviar-whatsapp-602465'>25 felicitaciones para el Día del Padre que puedes enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/felicitaciones-dia-del-padre-para-enviar-whatsapp-602465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/dia-padre-1895331.jpg' alt='25 felicitaciones para el Día del Padre que puedes enviar por WhatsApp' />
     </a>
 </div>
 
