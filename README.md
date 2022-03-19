@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543'>10 juegos divertidos para jugar en familia con un Alexa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-juegos-divertidos-jugar-familia-alexa-996543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/alexa-2587769.jpg' alt='10 juegos divertidos para jugar en familia con un Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/azucar-dietista-proteinas-1030643'>¿Enganchado al azúcar? Según una dietista puede deberse a que no tomas estos nutrientes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/azucar-dietista-proteinas-1030643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/enganchado-azucar-dietista-puede-deberse-te-faltan-estos-nutrientes-2649589.jpg' alt='¿Enganchado al azúcar? Según una dietista puede deberse a que no tomas estos nutrientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713'>Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lavadora-vapor-2538475.jpg' alt='Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/felicitaciones-dia-del-padre-para-enviar-whatsapp-602465'>25 felicitaciones para el Día del Padre que puedes enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/felicitaciones-dia-del-padre-para-enviar-whatsapp-602465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/dia-padre-1895331.jpg' alt='25 felicitaciones para el Día del Padre que puedes enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-moviles-5g-superan-ventas-4g-1030443'>Por primera vez, los móviles con 5G ya venden más que los 4G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventas-moviles-5g-superan-ventas-4g-1030443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-a33-5g-galaxy-a53-5g-2647685.jpg' alt='Por primera vez, los móviles con 5G ya venden más que los 4G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439'>Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG' />
     </a>
 </div>
 
