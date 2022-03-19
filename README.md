@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-ofertas-fin-semana-amazon-baja-solo-687-euros-1030279'>El Samsung Galaxy S21 FE es una de las ofertas del fin de semana en Amazon: baja a solo 687 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-ofertas-fin-semana-amazon-baja-solo-687-euros-1030279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592593.jpg' alt='El Samsung Galaxy S21 FE es una de las ofertas del fin de semana en Amazon: baja a solo 687 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933'>Cómo activar Hyper-V en Windows 11 y sus interesantes funciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo activar Hyper-V en Windows 11 y sus interesantes funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245'>Las 7 mejores series basadas en hechos reales que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-anna-2624611.jpg' alt='Las 7 mejores series basadas en hechos reales que puedes ver en Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691'>Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-10-2649707.jpg' alt='Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-juegos-nft-1022983'>¿Qué son los juegos NFT?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/son-juegos-nft-1022983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/juegos-nft-2646789.jpg' alt='¿Qué son los juegos NFT?' />
+    <h4><a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337'>60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/60-km-bateria-doble-suspension-patinete-largo-alcance-tiene-170eu-descuento-1030337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='60 km de batería y doble suspensión: este patinete de largo alcance tiene 170€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s8-ultra-review-opinion-1028943'>Samsung Galaxy S8 Ultra, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s8-ultra-review-opinion-1028943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646927.jpg' alt='Samsung Galaxy S8 Ultra, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/analisis/bose-qc45-review-opinion-1024381'>Bose QC45, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/bose-qc45-review-opinion-1024381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-bose-qc45-2641913.jpg' alt='Bose QC45, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973'>5 cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='5 cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-iphone-parece-agotar-rapidamente-bateria-1030687'>La última actualización para el iPhone parece agotar rápidamente la batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-iphone-parece-agotar-rapidamente-bateria-1030687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg' alt='La última actualización para el iPhone parece agotar rápidamente la batería' />
     </a>
 </div>
 
