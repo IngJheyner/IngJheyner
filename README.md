@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189'>Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733'>Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensores-inspirados-semillas-dientes-leon-2649821.jpg' alt='Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709'>Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-aclamadas-historia-regresa-true-detective-tendra-cuarta-temporada-1030709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/true-detective-1-2649777.jpg' alt='Una de las series más aclamadas de la historia regresa: True Detective tendrá cuarta temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933'>Cómo activar Hyper-V en Windows 11 y sus interesantes funciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo activar Hyper-V en Windows 11 y sus interesantes funciones' />
     </a>
 </div>
 
