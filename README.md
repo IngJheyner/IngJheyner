@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787'>Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777'>El perro robot de Boston Dynamics se une a su primer departamento de bomberos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-robot-boston-dynamics-2649883.jpg' alt='El perro robot de Boston Dynamics se une a su primer departamento de bomberos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729'>Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg' alt='Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719'>Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-escuchar-mejor-musica-interrupciones-estos-auriculares-inalambricos-sony-solo-159-euros-1030719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-linkbuds-2649785.jpg' alt='Ya puedes escuchar la mejor música sin interrupciones con estos auriculares inalámbricos de Sony a solo 159 euros' />
     </a>
 </div>
 
