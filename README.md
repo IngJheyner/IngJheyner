@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-ofertas-fin-semana-amazon-baja-solo-687-euros-1030279'>El Samsung Galaxy S21 FE es una de las ofertas del fin de semana en Amazon: baja a solo 687 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-fe-ofertas-fin-semana-amazon-baja-solo-687-euros-1030279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592593.jpg' alt='El Samsung Galaxy S21 FE es una de las ofertas del fin de semana en Amazon: baja a solo 687 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245'>Las 7 mejores series basadas en hechos reales que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-basadas-hechos-reales-netflix-1027245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-anna-2624611.jpg' alt='Las 7 mejores series basadas en hechos reales que puedes ver en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973'>5 cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='5 cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/encuentra-gasolineras-baratas-movil-1024449'>Los 5 mejores trucos para encontrar las gasolineras más baratas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/encuentra-gasolineras-baratas-movil-1024449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2638025.jpg' alt='Los 5 mejores trucos para encontrar las gasolineras más baratas en tu móvil' />
     </a>
 </div>
 
