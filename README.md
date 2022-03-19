@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733'>Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-sensores-inspirados-semillas-dientes-leon-son-capaces-rastrear-senales-cambio-climatico-1030733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensores-inspirados-semillas-dientes-leon-2649821.jpg' alt='Estos sensores inspirados en semillas de dientes de león son capaces de rastrear las señales del cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729'>Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-nuevo-sistema-avanzado-detectar-filtrar-forma-automatica-correos-electronicos-no-deseados-1030729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg' alt='Crean un nuevo sistema avanzado para detectar y filtrar de forma automática los correos electrónicos no deseados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933'>Cómo activar Hyper-V en Windows 11 y sus interesantes funciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-hyper-v-windows-11-interesantes-funciones-1018933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo activar Hyper-V en Windows 11 y sus interesantes funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691'>Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-huevo-pascua-windows-10-casi-40-anos-despues-1030691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-10-2649707.jpg' alt='Descubren un huevo de Pascua en Windows 1.0, ¡casi 40 años después!' />
     </a>
 </div>
 
