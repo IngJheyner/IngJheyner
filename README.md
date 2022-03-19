@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713'>Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/lavadora-funcion-vapor-967713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lavadora-vapor-2538475.jpg' alt='Comprar una lavadora con función vapor: ventajas, diferencias y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447'>Así puedes ver todos los canales de la TDT en tu Chromecast</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-canales-tdt-chromecast-1030447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg' alt='Así puedes ver todos los canales de la TDT en tu Chromecast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439'>Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-ipad-macbook-llegarian-paneles-oled-lg-1030439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='Los últimos rumores apuntan a que los nuevos iPad y MacBook llegarían con paneles OLED de LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-1030427'>Twitter sigue los pasos de YouTube y ahora permitirá crear clips de los Espacios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-1030427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-sigue-pasos-youtube-ahora-permitira-crear-clips-espacios-2649375.jpg' alt='Twitter sigue los pasos de YouTube y ahora permitirá crear clips de los Espacios' />
     </a>
 </div>
 
