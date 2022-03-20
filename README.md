@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781'>Dormir con algo de luz es perjudicial para la salud, dice un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg' alt='Dormir con algo de luz es perjudicial para la salud, dice un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657'>Los mejores blogs de cocina en español</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alimento-cocinar-2609967.jpg' alt='Los mejores blogs de cocina en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-vs-lenovo-tab-p11-tablet-barata-mejor-1030379'>realme Pad vs Lenovo Tab P11, ¿qué tablet barata es mejor?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-vs-lenovo-tab-p11-tablet-barata-mejor-1030379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-pad-vs-lenovo-tab-p11-2649275.jpg' alt='realme Pad vs Lenovo Tab P11, ¿qué tablet barata es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cinta-correr-plegable-1011479'>Consejos, guía y todo lo que debes saber para comprar una cinta de correr plegable</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cinta-correr-plegable-1011479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Consejos, guía y todo lo que debes saber para comprar una cinta de correr plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-1030081'>Bex, la cabra robot autónoma de Kawasaki para transportar carga, que puedes montar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-1030081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ibex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-2648481.jpg' alt='Bex, la cabra robot autónoma de Kawasaki para transportar carga, que puedes montar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/scarlet-lady-crucero-solo-adultos-1030055'>Scarlet Lady, el crucero solo para adultos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/scarlet-lady-crucero-solo-adultos-1030055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/scarlet-lady-crucero-solo-adultos-2648459.jpg' alt='Scarlet Lady, el crucero solo para adultos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787'>Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ahora-obligatoria-luz-emergencia-v16-solo-9-euros-envio-espana-1030787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Ahora la obligatoria luz de emergencia V16 a solo 9 euros con envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777'>El perro robot de Boston Dynamics se une a su primer departamento de bomberos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-boston-dynamics-une-primer-departamento-bomberos-1030777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-robot-boston-dynamics-2649883.jpg' alt='El perro robot de Boston Dynamics se une a su primer departamento de bomberos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189'>Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-watch-s1-active-relojes-inteligentes-ofertas-1030189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='Ya puedes comprar los nuevos relojes inteligentes de Xiaomi: Watch S1 y Watch S1 Active' />
     </a>
 </div>
 
