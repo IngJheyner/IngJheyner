@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)' />
     </a>
 </div>
 
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla pero fueron grandes fracasos y que puedes ver online</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla pero fueron grandes fracasos y que puedes ver online' />
     </a>
 </div>
 
