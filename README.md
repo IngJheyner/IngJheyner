@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999'>Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fortnite-temporada-2-capitulo-3-2650399.jpg' alt='Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785'>Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543093.jpg' alt='Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983'>Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349'>Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-m23-2649187.jpg' alt='Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa' />
     </a>
 </div>
 
