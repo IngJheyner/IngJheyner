@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349'>Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-m23-2649187.jpg' alt='Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707'>Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aigostar-cube-2450561.jpg' alt='Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803'>Las cinco configuraciones avanzadas de Chrome que deberías usar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-acelerar-google-chrome-ios-android-2332401.jpg' alt='Las cinco configuraciones avanzadas de Chrome que deberías usar' />
     </a>
 </div>
 
