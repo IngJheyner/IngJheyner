@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033'>Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999'>Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fortnite-temporada-2-capitulo-3-2650399.jpg' alt='Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania' />
     </a>
 </div>
 
