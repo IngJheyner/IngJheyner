@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-oferta-1031089'>Xiaomi Mi Watch Lite es un smartwatch elegante, tiene GPS, mide actividades deportivas, y solo cuesta 45 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-oferta-1031089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254987.jpg' alt='Xiaomi Mi Watch Lite es un smartwatch elegante, tiene GPS, mide actividades deportivas, y solo cuesta 45 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085'>Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-pack-ayudar-ucrania-123-juegos-software-36-euros-incluye-back-4-blood-metro-exodus-spyro-muchos-2650543.jpg' alt='Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cohete-sls-nave-orion-artemisa-luna-nasa-1031061'>Más de 50 años después, el cohete que llevará nuevos astronautas a la Luna ya está en la plataforma de lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/life/cohete-sls-nave-orion-artemisa-luna-nasa-1031061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/50-anos-despues-cohete-llevara-seres-humanos-luna-2650509.jpg' alt='Más de 50 años después, el cohete que llevará nuevos astronautas a la Luna ya está en la plataforma de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)' />
     </a>
 </div>
 
