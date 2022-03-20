@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071'>Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789'>Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-matebook-16-2649959.jpg' alt='Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033'>Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005'>El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-primeras-impresiones-2331687.jpg' alt='El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento' />
     </a>
 </div>
 
