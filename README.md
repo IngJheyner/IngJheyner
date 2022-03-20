@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707'>Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aigostar-cube-2450561.jpg' alt='Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803'>Las cinco configuraciones avanzadas de Chrome que deberías usar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-acelerar-google-chrome-ios-android-2332401.jpg' alt='Las cinco configuraciones avanzadas de Chrome que deberías usar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-hacer-fotografias-tan-buenas-como-cualquier-profesional-1030783'>Este robot es capaz de hacer fotografías tan buenas como las de cualquier profesional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-hacer-fotografias-tan-buenas-como-cualquier-profesional-1030783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-fotos-2649943.jpg' alt='Este robot es capaz de hacer fotografías tan buenas como las de cualquier profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781'>Dormir con algo de luz es perjudicial para la salud, dice un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg' alt='Dormir con algo de luz es perjudicial para la salud, dice un estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657'>Los mejores blogs de cocina en español</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alimento-cocinar-2609967.jpg' alt='Los mejores blogs de cocina en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-vs-lenovo-tab-p11-tablet-barata-mejor-1030379'>realme Pad vs Lenovo Tab P11, ¿qué tablet barata es mejor?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-vs-lenovo-tab-p11-tablet-barata-mejor-1030379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/realme-pad-vs-lenovo-tab-p11-2649275.jpg' alt='realme Pad vs Lenovo Tab P11, ¿qué tablet barata es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cinta-correr-plegable-1011479'>Consejos, guía y todo lo que debes saber para comprar una cinta de correr plegable</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cinta-correr-plegable-1011479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='Consejos, guía y todo lo que debes saber para comprar una cinta de correr plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-1030081'>Bex, la cabra robot autónoma de Kawasaki para transportar carga, que puedes montar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-1030081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ibex-cabra-robot-autonoma-kawasaki-transportar-carga-puedes-montar-2648481.jpg' alt='Bex, la cabra robot autónoma de Kawasaki para transportar carga, que puedes montar' />
     </a>
 </div>
 
