@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033'>Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005'>El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-primeras-impresiones-2331687.jpg' alt='El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999'>Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/epic-games-donara-dos-semanas-ganancias-fortnite-ayudar-ucrania-1030999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fortnite-temporada-2-capitulo-3-2650399.jpg' alt='Epic Games donará dos semanas de ganancias de Fortnite para ayudar a Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785'>Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543093.jpg' alt='Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!' />
     </a>
 </div>
 
