@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785'>Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543093.jpg' alt='Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/he-pasado-semana-usando-xbox-series-s-como-fuera-pc-trabajar-jugar-raton-teclado-1026599'>He pasado una semana usando Xbox Series S como si fuera un PC para trabajar y jugar con ratón y teclado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/he-pasado-semana-usando-xbox-series-s-como-fuera-pc-trabajar-jugar-raton-teclado-1026599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xbox-series-s-como-pc-2644049.jpg' alt='He pasado una semana usando Xbox Series S como si fuera un PC para trabajar y jugar con ratón y teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983'>Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349'>Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-m23-2649187.jpg' alt='Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323'>Qué hacer si no funciona el menú inicio en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/menu-inicio-windows-11-2594463.jpg' alt='Qué hacer si no funciona el menú inicio en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/oppo-find-x5-pro-analisis-opinion-1030433'>Oppo Find X5 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/oppo-find-x5-pro-analisis-opinion-1030433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649937.jpg' alt='Oppo Find X5 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707'>Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aigostar-cube-2450561.jpg' alt='Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon' />
     </a>
 </div>
 
