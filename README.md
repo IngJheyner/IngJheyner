@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005'>El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-primeras-impresiones-2331687.jpg' alt='El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-no-quieres-perder-dinero-cuenta-bancaria-1031003'>Elimina estas aplicaciones de tu teléfono Android si no quieres perder el dinero de tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-no-quieres-perder-dinero-cuenta-bancaria-1031003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Elimina estas aplicaciones de tu teléfono Android si no quieres perder el dinero de tu cuenta bancaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla y fueron grandes fracasos, y que puedes ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785'>Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-smart-tv-xiaomi-qled-55-pulgadas-descuento-1030785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/televisores-xiaomi-mi-tv-q1e-barra-sonido-2543093.jpg' alt='Esta es la mejor Smart TV de Xiaomi, con panel QLED y de 55 pulgadas: ¡ahora tiene 184 euros de descuento!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/he-pasado-semana-usando-xbox-series-s-como-fuera-pc-trabajar-jugar-raton-teclado-1026599'>He pasado una semana usando Xbox Series S como si fuera un PC para trabajar y jugar con ratón y teclado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/he-pasado-semana-usando-xbox-series-s-como-fuera-pc-trabajar-jugar-raton-teclado-1026599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xbox-series-s-como-pc-2644049.jpg' alt='He pasado una semana usando Xbox Series S como si fuera un PC para trabajar y jugar con ratón y teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983'>Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desaparecen-estatuas-android-campus-google-nadie-sabe-donde-estan-1030983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Desaparecen las estatuas de Android del campus de Google y nadie sabe dónde están' />
     </a>
 </div>
 
