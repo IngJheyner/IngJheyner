@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789'>Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-matebook-16-2649959.jpg' alt='Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cohete-sls-nave-orion-artemisa-luna-nasa-1031061'>Más de 50 años después, el cohete que llevará nuevos astronautas a la Luna ya está en la plataforma de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cohete-sls-nave-orion-artemisa-luna-nasa-1031061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/50-anos-despues-cohete-llevara-seres-humanos-luna-2650509.jpg' alt='Más de 50 años después, el cohete que llevará nuevos astronautas a la Luna ya está en la plataforma de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005'>El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/flamante-oppo-find-x3-neo-5g-ideal-mejores-fotografias-ahora-261-euros-descuento-1031005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-primeras-impresiones-2331687.jpg' alt='El flamante OPPO Find X3 Neo 5G ideal para las mejores fotografías ahora con 261 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-no-quieres-perder-dinero-cuenta-bancaria-1031003'>Elimina estas aplicaciones de tu teléfono Android si no quieres perder el dinero de tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-no-quieres-perder-dinero-cuenta-bancaria-1031003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Elimina estas aplicaciones de tu teléfono Android si no quieres perder el dinero de tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809'>6 superproducciones que iban a comerse la taquilla pero fueron grandes fracasos y que puedes ver online</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/superproducciones-taquilla-grandes-fracasos-1027809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ultima-fortaleza-2644669.jpg' alt='6 superproducciones que iban a comerse la taquilla pero fueron grandes fracasos y que puedes ver online' />
     </a>
 </div>
 
