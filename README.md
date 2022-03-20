@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085'>Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-pack-ayudar-ucrania-123-juegos-software-36-euros-incluye-back-4-blood-metro-exodus-spyro-muchos-2650543.jpg' alt='Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071'>Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047'>La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funda-movil-rayos-ultravioletas-matar-germenes-virus-bacterias-1031047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/funda-movil-lanza-rayos-ultravioletas-objetos-matar-virus-bacterias-2650477.jpg' alt='La funda de móvil que lanza rayos ultravioletas a los objetos para matar gérmenes, vírus y bacterias (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033'>Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-android-te-permitira-eliminar-ultimos-15-minutos-historial-busqueda-1031033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Google para Android te permitirá eliminar los últimos 15 minutos de tu historial de búsqueda' />
     </a>
 </div>
 
