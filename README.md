@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349'>Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estrena-samsung-galaxy-m23-rebaja-precio-preventa-1030349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-m23-2649187.jpg' alt='Se estrena el Samsung Galaxy M23, y con rebaja de precio en la preventa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323'>Qué hacer si no funciona el menú inicio en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/menu-inicio-windows-11-2594463.jpg' alt='Qué hacer si no funciona el menú inicio en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oppo-find-x5-pro-analisis-opinion-1030433'>Oppo Find X5 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oppo-find-x5-pro-analisis-opinion-1030433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649937.jpg' alt='Oppo Find X5 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707'>Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tamano-xxl-precio-saldo-tiene-7l-capacidad-cuesta-poco-100-euros-amazon-1030707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aigostar-cube-2450561.jpg' alt='Freidora de aire de tamaño XXL y a precio de saldo: tiene 7L de capacidad y cuesta poco más de 100 euros en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803'>Las cinco configuraciones avanzadas de Chrome que deberías usar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cinco-configuraciones-avanzadas-chrome-deberias-usar-997803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-acelerar-google-chrome-ios-android-2332401.jpg' alt='Las cinco configuraciones avanzadas de Chrome que deberías usar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-hacer-fotografias-tan-buenas-como-cualquier-profesional-1030783'>Este robot es capaz de hacer fotografías tan buenas como las de cualquier profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-hacer-fotografias-tan-buenas-como-cualquier-profesional-1030783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-fotos-2649943.jpg' alt='Este robot es capaz de hacer fotografías tan buenas como las de cualquier profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781'>Dormir con algo de luz es perjudicial para la salud, dice un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dormir-algo-luz-perjudicial-salud-dice-estudio-1030781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg' alt='Dormir con algo de luz es perjudicial para la salud, dice un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657'>Los mejores blogs de cocina en español</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-blogs-cocina-espanol-1008657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alimento-cocinar-2609967.jpg' alt='Los mejores blogs de cocina en español' />
     </a>
 </div>
 
