@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-cadena-electrica-plegable-todo-ciudad-1031531'>La bicicleta sin cadena, eléctrica y plegable: un todo en uno para la ciudad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-cadena-electrica-plegable-todo-ciudad-1031531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honbike-2651451.jpg' alt='La bicicleta sin cadena, eléctrica y plegable: un todo en uno para la ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-1031515'>El creador de La casa de papel nos llevará a un búnker de lujo con su próxima serie de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-1031515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-2651433.jpg' alt='El creador de La casa de papel nos llevará a un búnker de lujo con su próxima serie de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-episodios-tecnologia-ha-influido-guerra-rusia-ucrania-bien-mal-1031419'>5 episodios en los que la tecnología ha influido en la guerra entre Rusia y Ucrania, para bien y para mal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-episodios-tecnologia-ha-influido-guerra-rusia-ucrania-bien-mal-1031419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tecnologia-2651023.jpg' alt='5 episodios en los que la tecnología ha influido en la guerra entre Rusia y Ucrania, para bien y para mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sistema-relajacion-perros-gatos-mediante-sonidos-zen-ellos-1031493'>Sistema de relajación para perros y gatos mediante sonidos zen para ellos</a></h4>
     <a href='https://computerhoy.com/noticias/life/sistema-relajacion-perros-gatos-mediante-sonidos-zen-ellos-1031493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/descubren-forma-comunicarse-gatos-guinando-cierta-forma-ojos-funciona-2101989.jpg' alt='Sistema de relajación para perros y gatos mediante sonidos zen para ellos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x-note-llegara-flamante-pantalla-amoled-7-pulgadas-1031499'>El nuevo vivo X Note llegará con una flamante pantalla AMOLED de 7 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x-note-llegara-flamante-pantalla-amoled-7-pulgadas-1031499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-note-2651395.jpg' alt='El nuevo vivo X Note llegará con una flamante pantalla AMOLED de 7 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-futuro-patinetes-limitaciones-velocidad-gps-camaras-deteccion-acera-1031459'>El posible futuro de los patinetes: limitaciones de velocidad por GPS y cámaras de detección de acera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/posible-futuro-patinetes-limitaciones-velocidad-gps-camaras-deteccion-acera-1031459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='El posible futuro de los patinetes: limitaciones de velocidad por GPS y cámaras de detección de acera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481'>¿Qué significa SIMP?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285397-500-dias-juntos-pelicula-romantica-netflix.jpg' alt='¿Qué significa SIMP?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-xiaomi-te-dara-seguridad-cuando-no-estas-casa-te-avisa-entra-alguien-cuesta-menos-30-euros-1031079'>Esta cámara Xiaomi te dará seguridad cuando no estás en casa: te avisa si entra alguien y cuesta menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-xiaomi-te-dara-seguridad-cuando-no-estas-casa-te-avisa-entra-alguien-cuesta-menos-30-euros-1031079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-360deg-camera-1080p-2581617.jpg' alt='Esta cámara Xiaomi te dará seguridad cuando no estás en casa: te avisa si entra alguien y cuesta menos de 30 euros' />
     </a>
 </div>
 
