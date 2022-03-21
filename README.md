@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/terrorificas-peliculas-prime-video-abuela-candyman-1031325'>Dos terroríficas películas llegan a Prime Video en los próximos días (y son muy esperadas)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/terrorificas-peliculas-prime-video-abuela-candyman-1031325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/candyman-2650787.jpg' alt='Dos terroríficas películas llegan a Prime Video en los próximos días (y son muy esperadas)' />
+    <h4><a href='https://computerhoy.com/noticias/life/sistema-relajacion-perros-gatos-mediante-sonidos-zen-ellos-1031493'>Sistema de relajación para perros y gatos mediante sonidos zen para ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sistema-relajacion-perros-gatos-mediante-sonidos-zen-ellos-1031493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/descubren-forma-comunicarse-gatos-guinando-cierta-forma-ojos-funciona-2101989.jpg' alt='Sistema de relajación para perros y gatos mediante sonidos zen para ellos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-puedes-proteger-contrasena-historial-busqueda-google-902057'>Cómo puedes proteger con contraseña tu historial de búsqueda de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-puedes-proteger-contrasena-historial-busqueda-google-902057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/contrasena-historial-google-2413037.jpg' alt='Cómo puedes proteger con contraseña tu historial de búsqueda de Google' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x-note-llegara-flamante-pantalla-amoled-7-pulgadas-1031499'>El nuevo vivo X Note llegará con una flamante pantalla AMOLED de 7 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x-note-llegara-flamante-pantalla-amoled-7-pulgadas-1031499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-note-2651395.jpg' alt='El nuevo vivo X Note llegará con una flamante pantalla AMOLED de 7 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411'>Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649937.jpg' alt='Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-futuro-patinetes-limitaciones-velocidad-gps-camaras-deteccion-acera-1031459'>El posible futuro de los patinetes: limitaciones de velocidad por GPS y cámaras de detección de acera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/posible-futuro-patinetes-limitaciones-velocidad-gps-camaras-deteccion-acera-1031459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='El posible futuro de los patinetes: limitaciones de velocidad por GPS y cámaras de detección de acera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hoy-entran-vigor-medidas-nueva-ley-trafico-debes-saber-no-te-multen-1031391'>Hoy entran en vigor las medidas de la Nueva Ley de Tráfico: qué debes saber para que no te multen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hoy-entran-vigor-medidas-nueva-ley-trafico-debes-saber-no-te-multen-1031391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dgt-2651011.jpg' alt='Hoy entran en vigor las medidas de la Nueva Ley de Tráfico: qué debes saber para que no te multen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481'>¿Qué significa SIMP?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285397-500-dias-juntos-pelicula-romantica-netflix.jpg' alt='¿Qué significa SIMP?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377'>La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena</a></h4>
-    <a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/01/82235-torre-eiffel-paris.jpg' alt='La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-xiaomi-te-dara-seguridad-cuando-no-estas-casa-te-avisa-entra-alguien-cuesta-menos-30-euros-1031079'>Esta cámara Xiaomi te dará seguridad cuando no estás en casa: te avisa si entra alguien y cuesta menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-xiaomi-te-dara-seguridad-cuando-no-estas-casa-te-avisa-entra-alguien-cuesta-menos-30-euros-1031079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-360deg-camera-1080p-2581617.jpg' alt='Esta cámara Xiaomi te dará seguridad cuando no estás en casa: te avisa si entra alguien y cuesta menos de 30 euros' />
     </a>
 </div>
 
