@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699'>La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-2651821.jpg' alt='La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-tendria-manos-otro-smartwatch-seria-llegaria-apellido-nord-1031683'>OnePlus tendría entre manos otro smartwatch y sería llegaría bajo el apellido Nord</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-tendria-manos-otro-smartwatch-seria-llegaria-apellido-nord-1031683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430547.jpg' alt='OnePlus tendría entre manos otro smartwatch y sería llegaría bajo el apellido Nord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/darth-maul-iba-salir-obi-wan-kenobi-1031581'>Darth Maul iba a salir en Obi-Wan Kenobi: esto fue lo que ocurrió</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/darth-maul-iba-salir-obi-wan-kenobi-1031581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/star-wars-darth-maul-2370923.jpg' alt='Darth Maul iba a salir en Obi-Wan Kenobi: esto fue lo que ocurrió' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689'>¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/apple-tv.jpg' alt='¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679'>Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos</a></h4>
     <a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lista-compra-supermercado-2651757.jpg' alt='Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-saca-manga-impresora-todo-tambien-escanea-documentos-1031675'>Xiaomi se saca de la manga esta impresora todo en uno que también escanea documentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-saca-manga-impresora-todo-tambien-escanea-documentos-1031675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/impresora-xiaomi-2651751.jpg' alt='Xiaomi se saca de la manga esta impresora todo en uno que también escanea documentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/historia-renault-10-efimera-berlina-no-logro-convencer-1031579'>Historia del Renault 10: la efímera berlina que no logró convencer</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/historia-renault-10-efimera-berlina-no-logro-convencer-1031579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/renault-10-2644417.jpg' alt='Historia del Renault 10: la efímera berlina que no logró convencer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/clip-oficina-duda-herramienta-tech-esencial-1031619'>El clip de oficina es sin duda la herramienta tech esencial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/clip-oficina-duda-herramienta-tech-esencial-1031619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/clips-2219927.jpg' alt='El clip de oficina es sin duda la herramienta tech esencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659'>Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente' />
     </a>
 </div>
 
