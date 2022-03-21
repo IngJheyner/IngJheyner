@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/terrorificas-peliculas-prime-video-abuela-candyman-1031325'>Dos terroríficas películas llegan a Prime Video en los próximos días (y son muy esperadas)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/terrorificas-peliculas-prime-video-abuela-candyman-1031325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/candyman-2650787.jpg' alt='Dos terroríficas películas llegan a Prime Video en los próximos días (y son muy esperadas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-puedes-proteger-contrasena-historial-busqueda-google-902057'>Cómo puedes proteger con contraseña tu historial de búsqueda de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-puedes-proteger-contrasena-historial-busqueda-google-902057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/contrasena-historial-google-2413037.jpg' alt='Cómo puedes proteger con contraseña tu historial de búsqueda de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411'>Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649937.jpg' alt='Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377'>La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena</a></h4>
     <a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/01/82235-torre-eiffel-paris.jpg' alt='La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-pestanas-chrome-herramienta-definitiva-piratas-phishing-1031379'>Cuidado con las pestañas de Chrome: así es la herramienta definitiva de los piratas para el phishing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-pestanas-chrome-herramienta-definitiva-piratas-phishing-1031379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Cuidado con las pestañas de Chrome: así es la herramienta definitiva de los piratas para el phishing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/purificador-aire-philips-ac0820-10-2077381.jpg' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2022' />
     </a>
 </div>
 
