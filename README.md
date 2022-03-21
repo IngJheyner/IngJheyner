@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aplicaciones-emergencia-telefonos-android-1029625'>Mejores aplicaciones de emergencia para teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aplicaciones-emergencia-telefonos-android-1029625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/urgencias-2647641.jpg' alt='Mejores aplicaciones de emergencia para teléfonos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dos-abuelos-japoneses-crean-totoro-gigante-nietos-convierte-parada-oficial-autobus-1030219'>Dos abuelos japoneses crean un Totoro gigante para sus nietos, y se convierte en parada oficial del autobús</a></h4>
     <a href='https://computerhoy.com/noticias/life/dos-abuelos-japoneses-crean-totoro-gigante-nietos-convierte-parada-oficial-autobus-1030219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dos-abuelos-japoneses-crean-totoro-gigante-nietos-convierte-parada-oficial-autobus-2648761.jpg' alt='Dos abuelos japoneses crean un Totoro gigante para sus nietos, y se convierte en parada oficial del autobús' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071'>Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789'>Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-matebook-16-razones-merece-pena-1030789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-matebook-16-2649959.jpg' alt='Huawei MateBook 16: 5 razones por las que merece la pena si quieres un portátil de gran pantalla' />
     </a>
 </div>
 
