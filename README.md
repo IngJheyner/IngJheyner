@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-porno-google-llega-fin-moviles-android-1031315'>El modo porno de Google llega por fin a móviles Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-porno-google-llega-fin-moviles-android-1031315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='El modo porno de Google llega por fin a móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-vuelve-fluir-china-ultimo-brote-coronavirus-1031287'>La tecnología vuelve a fluir desde China tras el último brote de coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-vuelve-fluir-china-ultimo-brote-coronavirus-1031287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/made-china-tiene-dias-contados_3.jpg' alt='La tecnología vuelve a fluir desde China tras el último brote de coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-los-bridgerton-1031267'>Todos los estrenos de la semana en Netflix: ¿echabas en falta a Los Bridgerton?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-los-bridgerton-1031267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bridgerton-2608313.jpg' alt='Todos los estrenos de la semana en Netflix: ¿echabas en falta a Los Bridgerton?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/life/cecotec-conga-2290-ultra-home-analisis-opinion-1029755'>Cecotec Conga 2290 Ultra Home, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/life/cecotec-conga-2290-ultra-home-analisis-opinion-1029755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-2649175.jpg' alt='Cecotec Conga 2290 Ultra Home, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-consejos-dormir-te-encuentras-mal-1030205'>6 consejos para dormir si te encuentras mal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-consejos-dormir-te-encuentras-mal-1030205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-enferma-2648721.jpg' alt='6 consejos para dormir si te encuentras mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/han-transformado-vw-beetle-clasico-camper-1030201'>Así han transformado un VW Beetle clásico en camper</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/han-transformado-vw-beetle-clasico-camper-1030201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camper-vw-beetle-2644559.jpg' alt='Así han transformado un VW Beetle clásico en camper' />
     </a>
 </div>
 
