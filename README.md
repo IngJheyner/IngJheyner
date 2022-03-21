@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411'>Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-presume-bateria-indestructible-find-x5-pro-miles-ciclos-carga-1031411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649937.jpg' alt='Oppo presume de una batería indestructible en su Find X5 Pro tras miles de ciclos de carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hoy-entran-vigor-medidas-nueva-ley-trafico-debes-saber-no-te-multen-1031391'>Hoy entran en vigor las medidas de la Nueva Ley de Tráfico: qué debes saber para que no te multen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hoy-entran-vigor-medidas-nueva-ley-trafico-debes-saber-no-te-multen-1031391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dgt-2651011.jpg' alt='Hoy entran en vigor las medidas de la Nueva Ley de Tráfico: qué debes saber para que no te multen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377'>La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena</a></h4>
+    <a href='https://computerhoy.com/noticias/life/torre-eiffel-crece-6-metros-despues-133-anos-instalan-nueva-antena-1031377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/01/82235-torre-eiffel-paris.jpg' alt='La torre Eiffel crece 6 metros después de cumplir 133 años, así instalan su antena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-pestanas-chrome-herramienta-definitiva-piratas-phishing-1031379'>Cuidado con las pestañas de Chrome: así es la herramienta definitiva de los piratas para el phishing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-pestanas-chrome-herramienta-definitiva-piratas-phishing-1031379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Cuidado con las pestañas de Chrome: así es la herramienta definitiva de los piratas para el phishing' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/purificador-aire-philips-ac0820-10-2077381.jpg' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-recurrir-videojuegos-lanzara-serie-basada-marco-epoca-1031353'>Netflix vuelve a recurrir a los videojuegos y lanzará una serie basada en uno que marcó época</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-recurrir-videojuegos-lanzara-serie-basada-marco-epoca-1031353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tekken-netflix-2650809.jpg' alt='Netflix vuelve a recurrir a los videojuegos y lanzará una serie basada en uno que marcó época' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-teniendo-problemas-calidad-recien-presentado-ipad-air-5-1031339'>Apple está teniendo problemas de calidad con su recién presentado iPad Air 5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-teniendo-problemas-calidad-recien-presentado-ipad-air-5-1031339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-air-2638545.jpg' alt='Apple está teniendo problemas de calidad con su recién presentado iPad Air 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-porno-google-llega-fin-moviles-android-1031315'>El modo porno de Google llega por fin a móviles Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-porno-google-llega-fin-moviles-android-1031315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='El modo porno de Google llega por fin a móviles Android' />
     </a>
 </div>
 
