@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679'>Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lista-compra-supermercado-2651757.jpg' alt='Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-saca-manga-impresora-todo-tambien-escanea-documentos-1031675'>Xiaomi se saca de la manga esta impresora todo en uno que también escanea documentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-saca-manga-impresora-todo-tambien-escanea-documentos-1031675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/impresora-xiaomi-2651751.jpg' alt='Xiaomi se saca de la manga esta impresora todo en uno que también escanea documentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/historia-renault-10-efimera-berlina-no-logro-convencer-1031579'>Historia del Renault 10: la efímera berlina que no logró convencer</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/historia-renault-10-efimera-berlina-no-logro-convencer-1031579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/renault-10-2644417.jpg' alt='Historia del Renault 10: la efímera berlina que no logró convencer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/clip-oficina-duda-herramienta-tech-esencial-1031619'>El clip de oficina es sin duda la herramienta tech esencial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/clip-oficina-duda-herramienta-tech-esencial-1031619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/clips-2219927.jpg' alt='El clip de oficina es sin duda la herramienta tech esencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659'>Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-5g-1031401'>Mejores routers WiFi 5G que puedes instalar en tu casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-5g-1031401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-5g-2651539.jpg' alt='Mejores routers WiFi 5G que puedes instalar en tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603'>Google Fotos ahora será capaz de extraer el texto de las fotografías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos ahora será capaz de extraer el texto de las fotografías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1031599'>Cada cuánto tiempo tienes que renovar el carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1031599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='Cada cuánto tiempo tienes que renovar el carnet de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577'>El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir</a></h4>
-    <a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stir-2651575.jpg' alt='El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir' />
     </a>
 </div>
 
