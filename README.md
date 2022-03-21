@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659'>Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-5g-1031401'>Mejores routers WiFi 5G que puedes instalar en tu casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-5g-1031401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-5g-2651539.jpg' alt='Mejores routers WiFi 5G que puedes instalar en tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603'>Google Fotos ahora será capaz de extraer el texto de las fotografías</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos ahora será capaz de extraer el texto de las fotografías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577'>El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir</a></h4>
     <a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stir-2651575.jpg' alt='El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-podria-mantener-procesador-f3-nuevo-poco-f4-no-tiene-ser-mala-noticia-1031535'>POCO podría mantener el procesador del F3 en su nuevo POCO F4 y no tiene por qué ser mala noticia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-podria-mantener-procesador-f3-nuevo-poco-f4-no-tiene-ser-mala-noticia-1031535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='POCO podría mantener el procesador del F3 en su nuevo POCO F4 y no tiene por qué ser mala noticia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/episodio-11-podcast-computerhoy-oppo-find-x5-pro-xiaomi-12-pro-1031565'>Episodio 11 del Podcast de Computerhoy: Oppo Find X5 Pro y Xiaomi 12 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/episodio-11-podcast-computerhoy-oppo-find-x5-pro-xiaomi-12-pro-1031565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x898so4.jpg' alt='Episodio 11 del Podcast de Computerhoy: Oppo Find X5 Pro y Xiaomi 12 Pro' />
     </a>
 </div>
 
