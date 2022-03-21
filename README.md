@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-los-bridgerton-1031267'>Todos los estrenos de la semana en Netflix: ¿echabas en falta a Los Bridgerton?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-semana-netflix-los-bridgerton-1031267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bridgerton-2608313.jpg' alt='Todos los estrenos de la semana en Netflix: ¿echabas en falta a Los Bridgerton?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-regalo-comprar-galaxy-s21-fe-pack-oferta-mata-dos-pajaros-tiro-1031069'>Tablet Samsung de regalo al comprar el Galaxy S21 FE: este pack en oferta mata dos pájaros de un tiro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-samsung-regalo-comprar-galaxy-s21-fe-pack-oferta-mata-dos-pajaros-tiro-1031069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s21-fe-5g-samsung-galaxy-tab-a8-2650527.jpg' alt='Tablet Samsung de regalo al comprar el Galaxy S21 FE: este pack en oferta mata dos pájaros de un tiro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/han-transformado-vw-beetle-clasico-camper-1030201'>Así han transformado un VW Beetle clásico en camper</a></h4>
     <a href='https://computerhoy.com/noticias/motor/han-transformado-vw-beetle-clasico-camper-1030201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camper-vw-beetle-2644559.jpg' alt='Así han transformado un VW Beetle clásico en camper' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1031257'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1031257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2650707.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
