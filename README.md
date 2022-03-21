@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609'>El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390069.jpg' alt='El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699'>La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-2651821.jpg' alt='La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689'>¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/apple-tv.jpg' alt='¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679'>Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/funciona-lista-compra-inversa-mejor-forma-ahorrar-aprovechar-todos-alimentos-1031679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lista-compra-supermercado-2651757.jpg' alt='Así funciona la lista de la compra a la inversa: la mejor forma de ahorrar y aprovechar todos tus alimentos' />
     </a>
 </div>
 
