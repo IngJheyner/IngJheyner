@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603'>Google Fotos ahora será capaz de extraer el texto de las fotografías</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-ahora-sera-capaz-extraer-texto-fotografias-1031603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos ahora será capaz de extraer el texto de las fotografías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1031599'>Cada cuánto tiempo tienes que renovar el carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tienes-renovar-carnet-conducir-1031599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ocurre-te-pillan-carnet-conducir-caducado.jpg' alt='Cada cuánto tiempo tienes que renovar el carnet de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577'>El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir</a></h4>
     <a href='https://computerhoy.com/noticias/tinder-padres-madres-solteras-ya-ha-llegado-aplicacion-stir-1031577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stir-2651575.jpg' alt='El Tinder para padres y madres solteras ya ha llegado: así es la aplicación Stir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/episodio-11-podcast-computerhoy-oppo-find-x5-pro-xiaomi-12-pro-1031565'>Episodio 11 del Podcast de Computerhoy: Oppo Find X5 Pro y Xiaomi 12 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/episodio-11-podcast-computerhoy-oppo-find-x5-pro-xiaomi-12-pro-1031565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x898so4.jpg' alt='Episodio 11 del Podcast de Computerhoy: Oppo Find X5 Pro y Xiaomi 12 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-cadena-electrica-plegable-todo-ciudad-1031531'>La bicicleta sin cadena, eléctrica y plegable: un todo en uno para la ciudad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-cadena-electrica-plegable-todo-ciudad-1031531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honbike-2651451.jpg' alt='La bicicleta sin cadena, eléctrica y plegable: un todo en uno para la ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-1031515'>El creador de La casa de papel nos llevará a un búnker de lujo con su próxima serie de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-1031515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creador-casa-papel-nos-llevara-bunker-lujo-proxima-serie-netflix-2651433.jpg' alt='El creador de La casa de papel nos llevará a un búnker de lujo con su próxima serie de Netflix' />
     </a>
 </div>
 
