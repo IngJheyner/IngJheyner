@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1031257'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1031257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2650707.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447969.jpg' alt='Estos son los mejores patinetes eléctricos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aplicaciones-emergencia-telefonos-android-1029625'>Mejores aplicaciones de emergencia para teléfonos Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aplicaciones-emergencia-telefonos-android-1029625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/urgencias-2647641.jpg' alt='Mejores aplicaciones de emergencia para teléfonos Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-oferta-1031089'>Xiaomi Mi Watch Lite es un smartwatch elegante, tiene GPS, mide actividades deportivas, y solo cuesta 45 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-oferta-1031089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254987.jpg' alt='Xiaomi Mi Watch Lite es un smartwatch elegante, tiene GPS, mide actividades deportivas, y solo cuesta 45 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085'>Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/humble-pack-ayudar-ucrania-123-juegos-1031085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nuevo-pack-ayudar-ucrania-123-juegos-software-36-euros-incluye-back-4-blood-metro-exodus-spyro-muchos-2650543.jpg' alt='Nuevo pack para ayudar a Ucrania: 123 juegos y software por 36 euros, incluye Back 4 Blood, Metro Exodus, Spyro y muchos más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071'>Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-robos-millonarios-rodaje-lupin-the-crown-1031071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lupin-parte-2-2214229.jpg' alt='Netflix se replantea la seguridad: dos robos millonarios en pleno rodaje de dos series, en dos días' />
     </a>
 </div>
 
