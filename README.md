@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711'>Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/https-computerhoycom-noticias-tecnologia-advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187-2651895.jpg' alt='Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659'>Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703'>Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-2651861.jpg' alt='Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609'>El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390069.jpg' alt='El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699'>La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-2651821.jpg' alt='La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-tendria-manos-otro-smartwatch-seria-llegaria-apellido-nord-1031683'>OnePlus tendría entre manos otro smartwatch y sería llegaría bajo el apellido Nord</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-tendria-manos-otro-smartwatch-seria-llegaria-apellido-nord-1031683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430547.jpg' alt='OnePlus tendría entre manos otro smartwatch y sería llegaría bajo el apellido Nord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/darth-maul-iba-salir-obi-wan-kenobi-1031581'>Darth Maul iba a salir en Obi-Wan Kenobi: esto fue lo que ocurrió</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/darth-maul-iba-salir-obi-wan-kenobi-1031581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/star-wars-darth-maul-2370923.jpg' alt='Darth Maul iba a salir en Obi-Wan Kenobi: esto fue lo que ocurrió' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689'>¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-comision-google-apple-tv-1031689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/apple-tv.jpg' alt='¿Se niega Apple a pagar el 30% de comisión a Google por Apple TV+ en Android, que ella misma cobra a todo el mundo en la App Store?' />
     </a>
 </div>
 
