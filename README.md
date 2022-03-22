@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253'>Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/insta360-one-rs-2652977.jpg' alt='Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tecnologias-nasa-suenan-ciencia-ficcion-destruir-asteroides-campos-magneticos-radiacion-1032239'>Las nuevas tecnologías de la NASA que suenan a ciencia ficción: destruir asteroides o campos magnéticos contra la radiación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tecnologias-nasa-suenan-ciencia-ficcion-destruir-asteroides-campos-magneticos-radiacion-1032239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/logo-nasa-falcon-9-1912075.jpg' alt='Las nuevas tecnologías de la NASA que suenan a ciencia ficción: destruir asteroides o campos magnéticos contra la radiación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183'>La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personas-rica-mundo-elon-musk-2590445.jpg' alt='La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187'>Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronomos-buscan-como-escapar-satelites-cegadores-elon-musk-telescopio-crater-luna-2330047.jpg' alt='Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-control-cuentas-compartidas-netflix-sera-posible-evitarlo-1032091'>Cómo funciona el control de cuentas compartidas de Netflix: ¿será posible evitarlo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-control-cuentas-compartidas-netflix-sera-posible-evitarlo-1032091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-2478195.jpg' alt='Cómo funciona el control de cuentas compartidas de Netflix: ¿será posible evitarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pesar-polemicas-pelicula-ha-sido-mejor-estreno-disney-1032137'>A pesar de las polémicas, esta película ha sido el mejor estreno de Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/pesar-polemicas-pelicula-ha-sido-mejor-estreno-disney-1032137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/red-turning-red-2535997.jpg' alt='A pesar de las polémicas, esta película ha sido el mejor estreno de Disney+' />
     </a>
 </div>
 
