@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023'>Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bizum-help-2652299.jpg' alt='Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019'>Las reacciones de WhatsApp llegan a Android en la versión beta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Las reacciones de WhatsApp llegan a Android en la versión beta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-solo-falta-secuela-dune-tambien-tendra-serie-precuela-hbo-max-1031977'>No solo falta la secuela, Dune también tendrá una serie precuela en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-solo-falta-secuela-dune-tambien-tendra-serie-precuela-hbo-max-1031977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2623043.jpg' alt='No solo falta la secuela, Dune también tendrá una serie precuela en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lampara-ikea-chollo-casa-solo-cuesta-6-euros-1031943'>Esta lámpara IKEA es un chollo para tu casa: solo cuesta 6 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lampara-ikea-chollo-casa-solo-cuesta-6-euros-1031943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-barlast-2652121.jpg' alt='Esta lámpara IKEA es un chollo para tu casa: solo cuesta 6 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971'>La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/privacidad-whatsapp-2427909.jpg' alt='La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-descubren-solucion-error-android-auto-google-era-incapaz-arreglar-1031959'>Los usuarios descubren la solución al error de Android Auto que Google era incapaz de arreglar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-descubren-solucion-error-android-auto-google-era-incapaz-arreglar-1031959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Los usuarios descubren la solución al error de Android Auto que Google era incapaz de arreglar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333'>Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592479.jpg' alt='Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593'>Estos 3 alimentos muy comunes ponen en peligro tu corazón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carne-roja-copa-vino-2651577.jpg' alt='Estos 3 alimentos muy comunes ponen en peligro tu corazón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587'>El número de radares y cámaras crecerá de forma importante, según un informe</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/radares-tramo-dgt-cuenta-como-funcionan-verdad-2092797.jpg' alt='El número de radares y cámaras crecerá de forma importante, según un informe' />
     </a>
 </div>
 
