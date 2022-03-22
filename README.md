@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971'>La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/privacidad-whatsapp-2427909.jpg' alt='La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-descubren-solucion-error-android-auto-google-era-incapaz-arreglar-1031959'>Los usuarios descubren la solución al error de Android Auto que Google era incapaz de arreglar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-descubren-solucion-error-android-auto-google-era-incapaz-arreglar-1031959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Los usuarios descubren la solución al error de Android Auto que Google era incapaz de arreglar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333'>Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592479.jpg' alt='Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587'>El número de radares y cámaras crecerá de forma importante, según un informe</a></h4>
     <a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/radares-tramo-dgt-cuenta-como-funcionan-verdad-2092797.jpg' alt='El número de radares y cámaras crecerá de forma importante, según un informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2652105.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597'>Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día' />
     </a>
 </div>
 
