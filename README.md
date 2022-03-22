@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183'>La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personas-rica-mundo-elon-musk-2590445.jpg' alt='La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171'>¿Por qué hay que desconectar con seguridad un Pendrive?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/pendrive.jpg' alt='¿Por qué hay que desconectar con seguridad un Pendrive?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/pesar-polemicas-pelicula-ha-sido-mejor-estreno-disney-1032137'>A pesar de las polémicas, esta película ha sido el mejor estreno de Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/pesar-polemicas-pelicula-ha-sido-mejor-estreno-disney-1032137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/red-turning-red-2535997.jpg' alt='A pesar de las polémicas, esta película ha sido el mejor estreno de Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085'>El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tesla-2652627.jpg' alt='El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín' />
     </a>
 </div>
 
