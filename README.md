@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593'>Estos 3 alimentos muy comunes ponen en peligro tu corazón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carne-roja-copa-vino-2651577.jpg' alt='Estos 3 alimentos muy comunes ponen en peligro tu corazón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587'>El número de radares y cámaras crecerá de forma importante, según un informe</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/numero-radares-camaras-crecera-20-informe-1031587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/radares-tramo-dgt-cuenta-como-funcionan-verdad-2092797.jpg' alt='El número de radares y cámaras crecerá de forma importante, según un informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2652105.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721'>Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores</a></h4>
     <a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hay-cosa-casi-nadie-hace-lavadora-pero-vital-no-produzca-olores-2651905.jpg' alt='Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jardin-nemo-huerta-submarina-verduras-1031719'>El Jardín de Nemo, la huerta submarina de verduras (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jardin-nemo-huerta-submarina-verduras-1031719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jardin-nemo-huerta-submarina-verduras-video-2651903.jpg' alt='El Jardín de Nemo, la huerta submarina de verduras (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711'>Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/https-computerhoycom-noticias-tecnologia-advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187-2651895.jpg' alt='Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar' />
     </a>
 </div>
 
