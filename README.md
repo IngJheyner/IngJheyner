@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171'>¿Por qué hay que desconectar con seguridad un Pendrive?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/pendrive.jpg' alt='¿Por qué hay que desconectar con seguridad un Pendrive?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187'>Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronomos-buscan-como-escapar-satelites-cegadores-elon-musk-telescopio-crater-luna-2330047.jpg' alt='Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-control-cuentas-compartidas-netflix-sera-posible-evitarlo-1032091'>Cómo funciona el control de cuentas compartidas de Netflix: ¿será posible evitarlo?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-control-cuentas-compartidas-netflix-sera-posible-evitarlo-1032091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-2478195.jpg' alt='Cómo funciona el control de cuentas compartidas de Netflix: ¿será posible evitarlo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085'>El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tesla-2652627.jpg' alt='El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-vinted-1032109'>¿Cómo funciona Vinted?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-vinted-1032109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vinted-2652623.jpg' alt='¿Cómo funciona Vinted?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
     </a>
 </div>
 
