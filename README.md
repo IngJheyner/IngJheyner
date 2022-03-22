@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315'>Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638769.jpg' alt='Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/legal-utilizar-soporte-movil-coche-nueva-ley-trafico-1032325'>¿Es legal utilizar el soporte para el móvil en el coche con la nueva ley de tráfico?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/legal-utilizar-soporte-movil-coche-nueva-ley-trafico-1032325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soporte-telefono-coche-2653141.jpg' alt='¿Es legal utilizar el soporte para el móvil en el coche con la nueva ley de tráfico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983'>En España sólo se venderán dos unidades de este coche superdeportivo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lexus-lc-hokkaido-1-2645499.jpg' alt='En España sólo se venderán dos unidades de este coche superdeportivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sorprenderia-lista-dispositivos-podran-actualizarse-android-13-1032317'>Samsung sorprendería con su lista de dispositivos que podrán actualizarse a Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sorprenderia-lista-dispositivos-podran-actualizarse-android-13-1032317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627247.jpg' alt='Samsung sorprendería con su lista de dispositivos que podrán actualizarse a Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307'>El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-2653113.jpg' alt='El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-iphone-13-iphone-12-precio-chollo-amazon-1032089'>Liquidación en iPhone en Amazon: iPhone 13 y iPhone 12 a precio de chollo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-iphone-13-iphone-12-precio-chollo-amazon-1032089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='Liquidación en iPhone en Amazon: iPhone 13 y iPhone 12 a precio de chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281'>Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-grave-agujero-seguridad-cientos-modelos-impresoras-hp-1032265'>Detectan un grave agujero de seguridad en cientos de modelos de impresoras HP</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-grave-agujero-seguridad-cientos-modelos-impresoras-hp-1032265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg' alt='Detectan un grave agujero de seguridad en cientos de modelos de impresoras HP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253'>Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/insta360-one-rs-2652977.jpg' alt='Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse' />
     </a>
 </div>
 
