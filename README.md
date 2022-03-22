@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1031923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2652105.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597'>Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721'>Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores</a></h4>
     <a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hay-cosa-casi-nadie-hace-lavadora-pero-vital-no-produzca-olores-2651905.jpg' alt='Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711'>Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/https-computerhoycom-noticias-tecnologia-advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187-2651895.jpg' alt='Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659'>Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/servicios-apple-estan-caidos-icloud-imessage-apple-music-muchos-otros-no-funcionan-correctamente-1031659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Los servicios de Apple están caídos: iCloud, iMessage, Apple Music y muchos otros no funcionan correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703'>Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-2651861.jpg' alt='Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos' />
     </a>
 </div>
 
