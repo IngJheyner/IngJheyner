@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721'>Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hay-cosa-casi-nadie-hace-lavadora-pero-vital-no-produzca-olores-2651905.jpg' alt='Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jardin-nemo-huerta-submarina-verduras-1031719'>El Jardín de Nemo, la huerta submarina de verduras (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jardin-nemo-huerta-submarina-verduras-1031719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jardin-nemo-huerta-submarina-verduras-video-2651903.jpg' alt='El Jardín de Nemo, la huerta submarina de verduras (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711'>Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-marca-agua-requisitos-minimos-1031711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/https-computerhoycom-noticias-tecnologia-advertencia-bill-gates-invertir-bitcoin-tienes-menos-dinero-elon-cuidado-1028187-2651895.jpg' alt='Cuidado si usas Windows 11 sin cumplir los requisitos mínimos: Microsoft cambia la forma de recordártelo, y no te va a gustar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703'>Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-1031703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/unity-muestra-futuro-videojuegos-demo-tecnica-asusta-realista-graficos-2651861.jpg' alt='Unity muestra el futuro de los videojuegos en una demo técnica que asusta por lo realista de sus gráficos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609'>El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imac-apple-procesador-m1-baja-200-euros-1031609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390069.jpg' alt='El iMac de Apple con procesador M1 baja 200 euros, el mejor ordenador integrado en el monitor que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699'>La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-1031699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-2651821.jpg' alt='La razón por la que te despiertas a las 3 de la mañana y no puedes dormirte, y un truco para evitarlo' />
     </a>
 </div>
 
