@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991'>El motivo que hay detrás del controvertido cambio en la serie de Halo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cortana-serie-halo-2645715.jpg' alt='El motivo que hay detrás del controvertido cambio en la serie de Halo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347'>Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spofity-abre-nft-porque-son-rentables-musicos-propia-musica-2653205.jpg' alt='Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315'>Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638769.jpg' alt='Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983'>En España sólo se venderán dos unidades de este coche superdeportivo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lexus-lc-hokkaido-1-2645499.jpg' alt='En España sólo se venderán dos unidades de este coche superdeportivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sorprenderia-lista-dispositivos-podran-actualizarse-android-13-1032317'>Samsung sorprendería con su lista de dispositivos que podrán actualizarse a Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sorprenderia-lista-dispositivos-podran-actualizarse-android-13-1032317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627247.jpg' alt='Samsung sorprendería con su lista de dispositivos que podrán actualizarse a Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307'>El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-2653113.jpg' alt='El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado' />
     </a>
 </div>
 
