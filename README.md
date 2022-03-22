@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281'>Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-grave-agujero-seguridad-cientos-modelos-impresoras-hp-1032265'>Detectan un grave agujero de seguridad en cientos de modelos de impresoras HP</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-grave-agujero-seguridad-cientos-modelos-impresoras-hp-1032265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg' alt='Detectan un grave agujero de seguridad en cientos de modelos de impresoras HP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253'>Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/insta360-one-rs-2652977.jpg' alt='Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183'>La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personas-rica-mundo-elon-musk-2590445.jpg' alt='La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171'>¿Por qué hay que desconectar con seguridad un Pendrive?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hay-desconectar-seguridad-pendrive-1032171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/pendrive.jpg' alt='¿Por qué hay que desconectar con seguridad un Pendrive?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187'>Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/startup-lista-ofrecer-internet-alta-velocidad-luna-posiblemente-marte-1032187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronomos-buscan-como-escapar-satelites-cegadores-elon-musk-telescopio-crater-luna-2330047.jpg' alt='Esta startup está lista para ofrecer Internet de alta velocidad en la Luna y posiblemente en Marte' />
     </a>
 </div>
 
