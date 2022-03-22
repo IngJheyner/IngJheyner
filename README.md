@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357'>Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/detienen-profesor-autoescuela-dos-alumnos-pleno-examen-conducir-tres-estaban-compinchados-2653229.jpg' alt='Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349'>Instagram quiere convertirse en una tienda online con su nueva característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram quiere convertirse en una tienda online con su nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267'>La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lluvia-va-largo-haz-ejercicio-casa-bici-estatica-low-cost-menos-100-euros-2652991.jpg' alt='La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991'>El motivo que hay detrás del controvertido cambio en la serie de Halo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cortana-serie-halo-2645715.jpg' alt='El motivo que hay detrás del controvertido cambio en la serie de Halo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347'>Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spofity-abre-nft-porque-son-rentables-musicos-propia-musica-2653205.jpg' alt='Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315'>Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desmontan-mac-studio-encuentran-ranuras-ampliacion-almacenamiento-1032315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mac-studio-2638769.jpg' alt='Desmontan el Mac Studio y encuentran ranuras de ampliación para el almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/legal-utilizar-soporte-movil-coche-nueva-ley-trafico-1032325'>¿Es legal utilizar el soporte para el móvil en el coche con la nueva ley de tráfico?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/legal-utilizar-soporte-movil-coche-nueva-ley-trafico-1032325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soporte-telefono-coche-2653141.jpg' alt='¿Es legal utilizar el soporte para el móvil en el coche con la nueva ley de tráfico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983'>En España sólo se venderán dos unidades de este coche superdeportivo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/espana-solo-venderan-dos-unidades-coche-1031983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lexus-lc-hokkaido-1-2645499.jpg' alt='En España sólo se venderán dos unidades de este coche superdeportivo' />
     </a>
 </div>
 
