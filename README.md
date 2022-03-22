@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333'>Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablets-samsung-vendidas-galaxy-tab-a8-rebajas-amazon-1031333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592479.jpg' alt='Una de las tablets Samsung más vendidas, la Galaxy Tab A8, está de rebajas en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593'>Estos 3 alimentos muy comunes ponen en peligro tu corazón</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-3-alimentos-muy-comunes-ponen-peligro-corazon-1031593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carne-roja-copa-vino-2651577.jpg' alt='Estos 3 alimentos muy comunes ponen en peligro tu corazón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597'>Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-aparatos-repelentes-mosquitos-1031597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Si los mosquitos te persiguen, estos aparatos son perfectos para evitar picaduras durante todo el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721'>Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lavadora-malos-olores-moho-1031721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hay-cosa-casi-nadie-hace-lavadora-pero-vital-no-produzca-olores-2651905.jpg' alt='Hay una cosa que casi nadie hace con la lavadora, pero es vital para que no produzca olores' />
     </a>
 </div>
 
