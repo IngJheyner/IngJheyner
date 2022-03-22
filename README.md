@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307'>El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-1032307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/coche-electrico-xiaomi-llegaria-mucho-antes-esperado-2653113.jpg' alt='El coche eléctrico de Xiaomi llegaría mucho antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-iphone-13-iphone-12-precio-chollo-amazon-1032089'>Liquidación en iPhone en Amazon: iPhone 13 y iPhone 12 a precio de chollo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-iphone-13-iphone-12-precio-chollo-amazon-1032089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='Liquidación en iPhone en Amazon: iPhone 13 y iPhone 12 a precio de chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281'>Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-habria-estado-recolectando-informacion-llamadas-mensajes-consentimiento-usuarios-1032281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Google habría estado recolectando información de las llamadas y mensajes sin consentimiento de los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253'>Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/insta360-one-rs-camara-deportiva-ambiciosa-acaba-presentarse-1032253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/insta360-one-rs-2652977.jpg' alt='Insta360 One RS, la cámara deportiva más ambiciosa acaba de presentarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tecnologias-nasa-suenan-ciencia-ficcion-destruir-asteroides-campos-magneticos-radiacion-1032239'>Las nuevas tecnologías de la NASA que suenan a ciencia ficción: destruir asteroides o campos magnéticos contra la radiación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tecnologias-nasa-suenan-ciencia-ficcion-destruir-asteroides-campos-magneticos-radiacion-1032239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/logo-nasa-falcon-9-1912075.jpg' alt='Las nuevas tecnologías de la NASA que suenan a ciencia ficción: destruir asteroides o campos magnéticos contra la radiación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183'>La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tercera-fase-plan-maestro-elon-musk-podria-incluir-robot-controlado-ia-1032183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/personas-rica-mundo-elon-musk-2590445.jpg' alt='La tercera fase del Plan Maestro de Elon Musk podría incluir un robot controlado por IA' />
     </a>
 </div>
 
