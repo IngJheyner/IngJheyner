@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/goma-liquida-spray-magico-lidl-mantener-coche-como-nuevo-1032059'>Goma líquida, el spray mágico de Lidl para mantener tu coche como nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/goma-liquida-spray-magico-lidl-mantener-coche-como-nuevo-1032059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='Goma líquida, el spray mágico de Lidl para mantener tu coche como nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-v23-llega-espana-como-alternativa-relacion-calidad-precio-detalles-top-1032067'>El vivo V23 llega a España como alternativa relación calidad-precio con detalles top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-v23-llega-espana-como-alternativa-relacion-calidad-precio-detalles-top-1032067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-v23-2652349.jpg' alt='El vivo V23 llega a España como alternativa relación calidad-precio con detalles top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motos-electricas-futuro-ciudad-scooters-cargan-5-minutos-1032035'>Las motos eléctricas del futuro para ciudad: scooters que cargan en 5 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motos-electricas-futuro-ciudad-scooters-cargan-5-minutos-1032035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/scooter-2652241.jpg' alt='Las motos eléctricas del futuro para ciudad: scooters que cargan en 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023'>Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bizum-help-2652299.jpg' alt='Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019'>Las reacciones de WhatsApp llegan a Android en la versión beta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Las reacciones de WhatsApp llegan a Android en la versión beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-solo-falta-secuela-dune-tambien-tendra-serie-precuela-hbo-max-1031977'>No solo falta la secuela, Dune también tendrá una serie precuela en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-solo-falta-secuela-dune-tambien-tendra-serie-precuela-hbo-max-1031977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/dune-2623043.jpg' alt='No solo falta la secuela, Dune también tendrá una serie precuela en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lampara-ikea-chollo-casa-solo-cuesta-6-euros-1031943'>Esta lámpara IKEA es un chollo para tu casa: solo cuesta 6 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lampara-ikea-chollo-casa-solo-cuesta-6-euros-1031943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-barlast-2652121.jpg' alt='Esta lámpara IKEA es un chollo para tu casa: solo cuesta 6 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971'>La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/agresiva-campana-miedo-whatsapp-acabar-mensajes-texto-1031971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/privacidad-whatsapp-2427909.jpg' alt='La agresiva campaña del miedo de WhatsApp para acabar con los mensajes de texto' />
     </a>
 </div>
 
