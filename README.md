@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085'>El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-tesla-model-fabricado-europa-sale-gigafactory-berlin-1032085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tesla-2652627.jpg' alt='El primer Tesla Model Y fabricado en Europa sale de la Gigafactory de Berlín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-vinted-1032109'>¿Cómo funciona Vinted?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-vinted-1032109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vinted-2652623.jpg' alt='¿Cómo funciona Vinted?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007'>Mejores mesas de altura regulable que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-escritorio-altura-regulable-2652277.jpg' alt='Mejores mesas de altura regulable que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/goma-liquida-spray-magico-lidl-mantener-coche-como-nuevo-1032059'>Goma líquida, el spray mágico de Lidl para mantener tu coche como nuevo</a></h4>
     <a href='https://computerhoy.com/noticias/goma-liquida-spray-magico-lidl-mantener-coche-como-nuevo-1032059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='Goma líquida, el spray mágico de Lidl para mantener tu coche como nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-v23-llega-espana-como-alternativa-relacion-calidad-precio-detalles-top-1032067'>El vivo V23 llega a España como alternativa relación calidad-precio con detalles top</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-v23-llega-espana-como-alternativa-relacion-calidad-precio-detalles-top-1032067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-v23-2652349.jpg' alt='El vivo V23 llega a España como alternativa relación calidad-precio con detalles top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motos-electricas-futuro-ciudad-scooters-cargan-5-minutos-1032035'>Las motos eléctricas del futuro para ciudad: scooters que cargan en 5 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motos-electricas-futuro-ciudad-scooters-cargan-5-minutos-1032035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/scooter-2652241.jpg' alt='Las motos eléctricas del futuro para ciudad: scooters que cargan en 5 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023'>Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bizum-help-como-donar-dinero-seguridad-traves-bizum-1032023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bizum-help-2652299.jpg' alt='Qué es Bizum Help y cómo donar dinero con seguridad a través de Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019'>Las reacciones de WhatsApp llegan a Android en la versión beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-whatsapp-llegan-android-version-beta-1032019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-2569735.jpg' alt='Las reacciones de WhatsApp llegan a Android en la versión beta' />
     </a>
 </div>
 
