@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363'>Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508423.jpg' alt='Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357'>Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados</a></h4>
     <a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/detienen-profesor-autoescuela-dos-alumnos-pleno-examen-conducir-tres-estaban-compinchados-2653229.jpg' alt='Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991'>El motivo que hay detrás del controvertido cambio en la serie de Halo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cortana-serie-halo-2645715.jpg' alt='El motivo que hay detrás del controvertido cambio en la serie de Halo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347'>Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spofity-nft-musica-streaming-1032347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spofity-abre-nft-porque-son-rentables-musicos-propia-musica-2653205.jpg' alt='Spofity se abre a los NFT... porque son más rentables para los músicos que el streaming' />
     </a>
 </div>
 
