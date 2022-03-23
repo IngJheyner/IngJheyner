@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-debes-tener-cuenta-renta-2021-22-utilizas-bizum-1032823'>Cosas que debes tener en cuenta en la Renta 2021/22 si utilizas Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cosas-debes-tener-cuenta-renta-2021-22-utilizas-bizum-1032823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='Cosas que debes tener en cuenta en la Renta 2021/22 si utilizas Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861'>El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749'>YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749'>YouTube se hace con 4000 episodios de TV gratis, pero con publicidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2653813.jpg' alt='YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2653813.jpg' alt='YouTube se hace con 4000 episodios de TV gratis, pero con publicidad' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-auriculares-diadema-apple-cancelacion-ruido-beats-solo3-wireless-rebaja-80eu-1032641'>Consigue los auriculares de diadema de Apple con cancelación de ruido Beats Solo3 Wireless con una rebaja de 80€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consigue-auriculares-diadema-apple-cancelacion-ruido-beats-solo3-wireless-rebaja-80eu-1032641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/beats-solo3-wireless-2653655.jpg' alt='Consigue los auriculares de diadema de Apple con cancelación de ruido Beats Solo3 Wireless con una rebaja de 80€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801'>Qué son las rotondas holandesas y cómo debes tomarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rotonda-holandesa-2654005.jpg' alt='Qué son las rotondas holandesas y cómo debes tomarlas' />
     </a>
 </div>
 
