@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371'>Giddel, el robot limpia retretes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/giddel-robot-limpia-retretes-video-2653255.jpg' alt='Giddel, el robot limpia retretes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363'>Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508423.jpg' alt='Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267'>La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lluvia-va-largo-haz-ejercicio-casa-bici-estatica-low-cost-menos-100-euros-2652991.jpg' alt='La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991'>El motivo que hay detrás del controvertido cambio en la serie de Halo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-hay-detras-controvertido-cambio-serie-halo-1031991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cortana-serie-halo-2645715.jpg' alt='El motivo que hay detrás del controvertido cambio en la serie de Halo' />
     </a>
 </div>
 
