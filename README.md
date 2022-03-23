@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/libre-bono-cultural-400-euros-quienes-pueden-solicitarlo-como-hace-puede-gastar-1032661'>Vía libre para el bono cultural de 400 euros: quiénes pueden solicitarlo, cómo se hace y en qué se puede gastar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/libre-bono-cultural-400-euros-quienes-pueden-solicitarlo-como-hace-puede-gastar-1032661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg' alt='Vía libre para el bono cultural de 400 euros: quiénes pueden solicitarlo, cómo se hace y en qué se puede gastar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737'>La aplicación móvil que detecta COVID con el sonido de la tos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-modo-ejercicio-muneca-persona-2519479.jpg' alt='La aplicación móvil que detecta COVID con el sonido de la tos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645'>Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg' alt='Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos' />
+    <h4><a href='https://computerhoy.com/noticias/siendo-efectiva-conexion-starlink-elon-musk-ucrania-1032707'>¿Está siendo efectiva la conexión Starlink de Elon Musk en Ucrania?</a></h4>
+    <a href='https://computerhoy.com/noticias/siendo-efectiva-conexion-starlink-elon-musk-ucrania-1032707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='¿Está siendo efectiva la conexión Starlink de Elon Musk en Ucrania?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-anuncia-omniverse-cloud-forma-mantener-conectados-millones-creadores-digitales-1032623'>NVIDIA anuncia Omniverse Cloud, la forma de mantener conectados a millones de creadores de digitales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-anuncia-omniverse-cloud-forma-mantener-conectados-millones-creadores-digitales-1032623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-omniverse-2653503.jpg' alt='NVIDIA anuncia Omniverse Cloud, la forma de mantener conectados a millones de creadores de digitales' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-tener-panda-red-bailando-casa-solo-necesitas-movil-1032637'>Así puedes tener al panda de Red bailando en tu casa: solo necesitas un móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-tener-panda-red-bailando-casa-solo-necesitas-movil-1032637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-2653509.jpg' alt='Así puedes tener al panda de Red bailando en tu casa: solo necesitas un móvil' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-polar-rompe-precios-baja-solo-87-euros-te-da-entrenamientos-personalizados-1031549'>Este reloj deportivo de Polar sí que rompe precios: baja a solo 87 euros y te da entrenamientos personalizados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-polar-rompe-precios-baja-solo-87-euros-te-da-entrenamientos-personalizados-1031549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polar-unite-amarillo-2651471.jpg' alt='Este reloj deportivo de Polar sí que rompe precios: baja a solo 87 euros y te da entrenamientos personalizados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521'>Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-g-2021-2651427.jpg' alt='Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-3-nuevos-juegos-catalogo-incluyendo-primer-fps-1032671'>Netflix añade 3 nuevos juegos a su catálogo, incluyendo el primer FPS</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-3-nuevos-juegos-catalogo-incluyendo-primer-fps-1032671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-videojuegos-2653569.jpg' alt='Netflix añade 3 nuevos juegos a su catálogo, incluyendo el primer FPS' />
     </a>
 </div>
 
