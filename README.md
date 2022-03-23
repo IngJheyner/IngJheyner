@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993'>El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2513541.jpg' alt='El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995'>Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confesiones-adicto-bitcoin-tratamiento-queria-ser-millonario-perdi-todo-2654323.jpg' alt='Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639'>Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tobey-maguire-andrew-garfield-tom-holland-spider-man-no-way-home-2640087.jpg' alt='Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977'>Google cierra también su conocido videoclub e impulsa Google TV</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-cierra-tambien-conocido-videoclub-impulsa-google-tv-2654305.jpg' alt='Google cierra también su conocido videoclub e impulsa Google TV' />
     </a>
 </div>
 
