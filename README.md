@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749'>YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2653813.jpg' alt='YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-auriculares-diadema-apple-cancelacion-ruido-beats-solo3-wireless-rebaja-80eu-1032641'>Consigue los auriculares de diadema de Apple con cancelación de ruido Beats Solo3 Wireless con una rebaja de 80€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-auriculares-diadema-apple-cancelacion-ruido-beats-solo3-wireless-rebaja-80eu-1032641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/beats-solo3-wireless-2653655.jpg' alt='Consigue los auriculares de diadema de Apple con cancelación de ruido Beats Solo3 Wireless con una rebaja de 80€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801'>Qué son las rotondas holandesas y cómo debes tomarlas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rotonda-holandesa-2654005.jpg' alt='Qué son las rotondas holandesas y cómo debes tomarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775'>¿Por qué flotan los barcos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/titanic-2653827.jpg' alt='¿Por qué flotan los barcos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779'>Mercadona se la pega con uno de los productos estrella de sus supermercados</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona se la pega con uno de los productos estrella de sus supermercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737'>La aplicación móvil que detecta COVID con el sonido de la tos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-modo-ejercicio-muneca-persona-2519479.jpg' alt='La aplicación móvil que detecta COVID con el sonido de la tos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/siendo-efectiva-conexion-starlink-elon-musk-ucrania-1032707'>¿Está siendo efectiva la conexión Starlink de Elon Musk en Ucrania?</a></h4>
-    <a href='https://computerhoy.com/noticias/siendo-efectiva-conexion-starlink-elon-musk-ucrania-1032707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/starlink-2327353.jpg' alt='¿Está siendo efectiva la conexión Starlink de Elon Musk en Ucrania?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android' />
     </a>
 </div>
 
