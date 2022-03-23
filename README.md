@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645'>Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg' alt='Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-anuncia-omniverse-cloud-forma-mantener-conectados-millones-creadores-digitales-1032623'>NVIDIA anuncia Omniverse Cloud, la forma de mantener conectados a millones de creadores de digitales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-anuncia-omniverse-cloud-forma-mantener-conectados-millones-creadores-digitales-1032623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-omniverse-2653503.jpg' alt='NVIDIA anuncia Omniverse Cloud, la forma de mantener conectados a millones de creadores de digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-tener-panda-red-bailando-casa-solo-necesitas-movil-1032637'>Así puedes tener al panda de Red bailando en tu casa: solo necesitas un móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-tener-panda-red-bailando-casa-solo-necesitas-movil-1032637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/red-2653509.jpg' alt='Así puedes tener al panda de Red bailando en tu casa: solo necesitas un móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521'>Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-g-2021-2651427.jpg' alt='Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-lanza-rtx-a5500-tarjeta-grafica-profesional-10240-nucleos-cuda-24-gb-vram-1032603'>NVIDIA lanza la RTX A5500, una tarjeta gráfica profesional con 10.240 núcleos CUDA y 24 GB de VRAM</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-lanza-rtx-a5500-tarjeta-grafica-profesional-10240-nucleos-cuda-24-gb-vram-1032603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='NVIDIA lanza la RTX A5500, una tarjeta gráfica profesional con 10.240 núcleos CUDA y 24 GB de VRAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-gigante-tiene-11l-capacidad-puede-hornear-freir-deshidratar-alimentos-1032031'>Esta freidora de aire es gigante: tiene 11L de capacidad y puede hornear, freír y hasta deshidratar alimentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-gigante-tiene-11l-capacidad-puede-hornear-freir-deshidratar-alimentos-1032031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-homcom-2652237.jpg' alt='Esta freidora de aire es gigante: tiene 11L de capacidad y puede hornear, freír y hasta deshidratar alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/algunas-alergias-son-peligrosas-1032003'>Por qué algunas alergias son más peligrosas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/algunas-alergias-son-peligrosas-1032003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/alergia.jpg' alt='Por qué algunas alergias son más peligrosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/marca-motos-robada-espana-1031995'>Esta es la marca de motos más robada en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/marca-motos-robada-espana-1031995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/yamaha%20xmax.jpg' alt='Esta es la marca de motos más robada en España' />
     </a>
 </div>
 
