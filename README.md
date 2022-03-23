@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373'>Usos alternativos de las pastillas para lavavajillas que seguramente no conoces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-2653257.jpg' alt='Usos alternativos de las pastillas para lavavajillas que seguramente no conoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371'>Giddel, el robot limpia retretes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/giddel-robot-limpia-retretes-video-2653255.jpg' alt='Giddel, el robot limpia retretes (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349'>Instagram quiere convertirse en una tienda online con su nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram quiere convertirse en una tienda online con su nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267'>La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bicicleta-estatica-low-cost-homcom-menos-100-euros-1032267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lluvia-va-largo-haz-ejercicio-casa-bici-estatica-low-cost-menos-100-euros-2652991.jpg' alt='La lluvia va para largo: haz ejercicio en casa con esta bici estática low-cost de menos de 100 euros' />
     </a>
 </div>
 
