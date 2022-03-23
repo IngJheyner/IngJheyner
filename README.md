@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007'>WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-paso-spotify-sera-primera-beneficiarse-cambios-sistemas-pago-1033001'>Google da el paso y Spotify será la primera en beneficiarse de los cambios en los sistemas de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-da-paso-spotify-sera-primera-beneficiarse-cambios-sistemas-pago-1033001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Google da el paso y Spotify será la primera en beneficiarse de los cambios en los sistemas de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005'>Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stephen-wilhite-inventor-gif-fallece-covid-74-anos-2654335.jpg' alt='Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993'>El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2513541.jpg' alt='El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995'>Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confesiones-adicto-bitcoin-tratamiento-queria-ser-millonario-perdi-todo-2654323.jpg' alt='Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-beats-studio3-apple-chollo-1032907'>Los auriculares premium Beats Studio3 de Apple reciben un descuentazo de 180 euros, y se convierten en un chollo irresistible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-beats-studio3-apple-chollo-1032907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/beats-studio3-wireless.jpg' alt='Los auriculares premium Beats Studio3 de Apple reciben un descuentazo de 180 euros, y se convierten en un chollo irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-no-quiere-pierdas-smartphone-te-mostrara-ubicacion-precision-1-metro-1032973'>Qualcomm no quiere que pierdas tu smartphone y te mostrará su ubicación con precisión de hasta 1 metro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-no-quiere-pierdas-smartphone-te-mostrara-ubicacion-precision-1-metro-1032973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-gt-2-pro-2629637.jpg' alt='Qualcomm no quiere que pierdas tu smartphone y te mostrará su ubicación con precisión de hasta 1 metro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639'>Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tobey-maguire-andrew-garfield-tom-holland-spider-man-no-way-home-2640087.jpg' alt='Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador' />
     </a>
 </div>
 
