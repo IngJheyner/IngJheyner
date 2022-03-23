@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861'>El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pildora-anticonceptiva-masculina-punto-llegar-mercado-1032803'>La píldora anticonceptiva masculina está a punto de llegar al mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pildora-anticonceptiva-masculina-punto-llegar-mercado-1032803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pastillas-anticonceptivas-masculinas-2653955.jpg' alt='La píldora anticonceptiva masculina está a punto de llegar al mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749'>YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-hace-4000-episodios-tv-gratis-pero-eso-publicidad-1032749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2653813.jpg' alt='YouTube se hace con 4000 episodios de TV gratis, pero eso sí, con publicidad.' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801'>Qué son las rotondas holandesas y cómo debes tomarlas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/son-rotondas-holandesas-como-debes-tomarlas-1032801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rotonda-holandesa-2654005.jpg' alt='Qué son las rotondas holandesas y cómo debes tomarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775'>¿Por qué flotan los barcos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/titanic-2653827.jpg' alt='¿Por qué flotan los barcos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779'>Mercadona se la pega con uno de los productos estrella de sus supermercados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona se la pega con uno de los productos estrella de sus supermercados' />
     </a>
 </div>
 
