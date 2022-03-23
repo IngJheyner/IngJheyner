@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943'>WhatsApp añade por fin una característica que los usuarios llevan años pidiendo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp añade por fin una característica que los usuarios llevan años pidiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387'>Estas son las mejores bicis eléctricas para la ciudad de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicleta-electrica-2650977.jpg' alt='Estas son las mejores bicis eléctricas para la ciudad de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-supuesto-diseno-nuevo-iphone-14-pro-grueso-camaras-grandes-adios-notch-1032919'>Filtrado el supuesto diseño del nuevo iPhone 14 Pro: más grueso, cámaras más grandes y adiós al notch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrado-supuesto-diseno-nuevo-iphone-14-pro-grueso-camaras-grandes-adios-notch-1032919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresiones-iphone-13-pro-2481099.jpg' alt='Filtrado el supuesto diseño del nuevo iPhone 14 Pro: más grueso, cámaras más grandes y adiós al notch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-saber-cuantos-puntos-carnet-conducir-tengo-1032899'>Cómo saber cuántos puntos del carnet de conducir tengo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-saber-cuantos-puntos-carnet-conducir-tengo-1032899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/carnet-conducir-2114553.jpg' alt='Cómo saber cuántos puntos del carnet de conducir tengo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-debes-tener-cuenta-renta-2021-22-utilizas-bizum-1032823'>Cosas que debes tener en cuenta en la Renta 2021/22 si utilizas Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cosas-debes-tener-cuenta-renta-2021-22-utilizas-bizum-1032823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='Cosas que debes tener en cuenta en la Renta 2021/22 si utilizas Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861'>El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-llegara-verano-pronto-podras-probar-nothing-os-android-1032861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone (1) llegará en verano y pronto podrás probar Nothing OS en Android' />
     </a>
 </div>
 
