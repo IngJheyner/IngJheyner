@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977'>Google cierra también su conocido videoclub e impulsa Google TV</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-cierra-tambien-conocido-videoclub-impulsa-google-tv-2654305.jpg' alt='Google cierra también su conocido videoclub e impulsa Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-ocu-ahorrar-44-euros-cada-factura-luz-1032965'>Trucos de la OCU para ahorrar más de 44 euros en cada factura de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-ocu-ahorrar-44-euros-cada-factura-luz-1032965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-electrica-2654303.jpg' alt='Trucos de la OCU para ahorrar más de 44 euros en cada factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzan-propio-parche-agujero-seguridad-critico-windows-microsoft-ha-sido-incapaz-solucionar-1032959'>Lanzan su propio parche para un agujero de seguridad crítico de Windows que Microsoft ha sido incapaz de solucionar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lanzan-propio-parche-agujero-seguridad-critico-windows-microsoft-ha-sido-incapaz-solucionar-1032959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Lanzan su propio parche para un agujero de seguridad crítico de Windows que Microsoft ha sido incapaz de solucionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-despide-europa-normativas-emisiones-1032633'>Este coche se despide de Europa por las normativas de emisiones</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-despide-europa-normativas-emisiones-1032633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nissan-gt-r-r35-2616051.jpg' alt='Este coche se despide de Europa por las normativas de emisiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943'>WhatsApp añade por fin una característica que los usuarios llevan años pidiendo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp añade por fin una característica que los usuarios llevan años pidiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387'>Estas son las mejores bicis eléctricas para la ciudad de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicleta-electrica-2650977.jpg' alt='Estas son las mejores bicis eléctricas para la ciudad de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-supuesto-diseno-nuevo-iphone-14-pro-grueso-camaras-grandes-adios-notch-1032919'>Filtrado el supuesto diseño del nuevo iPhone 14 Pro: más grueso, cámaras más grandes y adiós al notch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-supuesto-diseno-nuevo-iphone-14-pro-grueso-camaras-grandes-adios-notch-1032919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresiones-iphone-13-pro-2481099.jpg' alt='Filtrado el supuesto diseño del nuevo iPhone 14 Pro: más grueso, cámaras más grandes y adiós al notch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-pone-nubes-precio-conexion-starlink-espana-1032889'>Elon Musk pone por la nubes el precio de su conexión Starlink en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-pone-nubes-precio-conexion-starlink-espana-1032889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Elon Musk pone por la nubes el precio de su conexión Starlink en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-cuantos-puntos-carnet-conducir-tengo-1032899'>Cómo saber cuántos puntos del carnet de conducir tengo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-saber-cuantos-puntos-carnet-conducir-tengo-1032899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/carnet-conducir-2114553.jpg' alt='Cómo saber cuántos puntos del carnet de conducir tengo' />
     </a>
 </div>
 
