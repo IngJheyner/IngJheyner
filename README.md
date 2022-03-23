@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995'>Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confesiones-adicto-bitcoin-tratamiento-queria-ser-millonario-perdi-todo-2654323.jpg' alt='Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-beats-studio3-apple-chollo-1032907'>Los auriculares premium Beats Studio3 de Apple reciben un descuentazo de 180 euros, y se convierten en un chollo irresistible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-beats-studio3-apple-chollo-1032907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/beats-studio3-wireless.jpg' alt='Los auriculares premium Beats Studio3 de Apple reciben un descuentazo de 180 euros, y se convierten en un chollo irresistible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-no-quiere-pierdas-smartphone-te-mostrara-ubicacion-precision-1-metro-1032973'>Qualcomm no quiere que pierdas tu smartphone y te mostrará su ubicación con precisión de hasta 1 metro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-no-quiere-pierdas-smartphone-te-mostrara-ubicacion-precision-1-metro-1032973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-gt-2-pro-2629637.jpg' alt='Qualcomm no quiere que pierdas tu smartphone y te mostrará su ubicación con precisión de hasta 1 metro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639'>Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/algunas-escenas-impresionantes-spider-man-no-way-home-hicieron-ordenador-1032639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tobey-maguire-andrew-garfield-tom-holland-spider-man-no-way-home-2640087.jpg' alt='Algunas de las escenas más impresionantes de Spider-Man No Way Home se hicieron sin ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977'>Google cierra también su conocido videoclub e impulsa Google TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/google-cierra-peliculas-google-play-impulsa-google-tv-1032977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-cierra-tambien-conocido-videoclub-impulsa-google-tv-2654305.jpg' alt='Google cierra también su conocido videoclub e impulsa Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-ocu-ahorrar-44-euros-cada-factura-luz-1032965'>Trucos de la OCU para ahorrar más de 44 euros en cada factura de la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-ocu-ahorrar-44-euros-cada-factura-luz-1032965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-electrica-2654303.jpg' alt='Trucos de la OCU para ahorrar más de 44 euros en cada factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lanzan-propio-parche-agujero-seguridad-critico-windows-microsoft-ha-sido-incapaz-solucionar-1032959'>Lanzan su propio parche para un agujero de seguridad crítico de Windows que Microsoft ha sido incapaz de solucionar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lanzan-propio-parche-agujero-seguridad-critico-windows-microsoft-ha-sido-incapaz-solucionar-1032959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Lanzan su propio parche para un agujero de seguridad crítico de Windows que Microsoft ha sido incapaz de solucionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-despide-europa-normativas-emisiones-1032633'>Este coche se despide de Europa por las normativas de emisiones</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-despide-europa-normativas-emisiones-1032633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nissan-gt-r-r35-2616051.jpg' alt='Este coche se despide de Europa por las normativas de emisiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943'>WhatsApp añade por fin una característica que los usuarios llevan años pidiendo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-fin-caracteristica-usuarios-llevan-anos-pidiendo-1032943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp añade por fin una característica que los usuarios llevan años pidiendo' />
     </a>
 </div>
 
