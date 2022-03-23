@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775'>¿Por qué flotan los barcos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/flotan-barcos-1032775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/titanic-2653827.jpg' alt='¿Por qué flotan los barcos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779'>Mercadona se la pega con uno de los productos estrella de sus supermercados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-pega-productos-estrella-supermercados-1032779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Mercadona se la pega con uno de los productos estrella de sus supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737'>La aplicación móvil que detecta COVID con el sonido de la tos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-detecta-covid-sonido-tos-1032737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-modo-ejercicio-muneca-persona-2519479.jpg' alt='La aplicación móvil que detecta COVID con el sonido de la tos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 50 paquetes gratis para descargar en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-polar-rompe-precios-baja-solo-87-euros-te-da-entrenamientos-personalizados-1031549'>Este reloj deportivo de Polar sí que rompe precios: baja a solo 87 euros y te da entrenamientos personalizados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-polar-rompe-precios-baja-solo-87-euros-te-da-entrenamientos-personalizados-1031549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polar-unite-amarillo-2651471.jpg' alt='Este reloj deportivo de Polar sí que rompe precios: baja a solo 87 euros y te da entrenamientos personalizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-3-nuevos-juegos-catalogo-incluyendo-primer-fps-1032671'>Netflix añade 3 nuevos juegos a su catálogo, incluyendo el primer FPS</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-3-nuevos-juegos-catalogo-incluyendo-primer-fps-1032671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-videojuegos-2653569.jpg' alt='Netflix añade 3 nuevos juegos a su catálogo, incluyendo el primer FPS' />
     </a>
 </div>
 
