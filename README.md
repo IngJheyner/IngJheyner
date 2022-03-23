@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1032565'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1032565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2653427.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/mejores-bicicletas-electricas-paseo-2022-1031425'>Mejores bicicletas eléctricas de paseo para la ciudad que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/mejores-bicicletas-electricas-paseo-2022-1031425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-bicicletas-2651065.jpg' alt='Mejores bicicletas eléctricas de paseo para la ciudad que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373'>Usos alternativos de las pastillas para lavavajillas que seguramente no conoces</a></h4>
     <a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-2653257.jpg' alt='Usos alternativos de las pastillas para lavavajillas que seguramente no conoces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363'>Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508423.jpg' alt='Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357'>Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/fraude-profesor-autoescuela-dos-falsos-alumnos-examen-conducir-1032357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/detienen-profesor-autoescuela-dos-alumnos-pleno-examen-conducir-tres-estaban-compinchados-2653229.jpg' alt='Detienen a un profesor de autoescuela y a dos falsos alumnos en pleno examen de conducir: los tres estaban compinchados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349'>Instagram quiere convertirse en una tienda online con su nueva característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-convertirse-tienda-online-nueva-caracteristica-1032349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram quiere convertirse en una tienda online con su nueva característica' />
     </a>
 </div>
 
