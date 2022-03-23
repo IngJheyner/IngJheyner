@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-gigante-tiene-11l-capacidad-puede-hornear-freir-deshidratar-alimentos-1032031'>Esta freidora de aire es gigante: tiene 11L de capacidad y puede hornear, freír y hasta deshidratar alimentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-gigante-tiene-11l-capacidad-puede-hornear-freir-deshidratar-alimentos-1032031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-homcom-2652237.jpg' alt='Esta freidora de aire es gigante: tiene 11L de capacidad y puede hornear, freír y hasta deshidratar alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/algunas-alergias-son-peligrosas-1032003'>Por qué algunas alergias son más peligrosas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/algunas-alergias-son-peligrosas-1032003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/alergia.jpg' alt='Por qué algunas alergias son más peligrosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/marca-motos-robada-espana-1031995'>Esta es la marca de motos más robada en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/marca-motos-robada-espana-1031995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/yamaha%20xmax.jpg' alt='Esta es la marca de motos más robada en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1032565'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1032565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2653427.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/mejores-bicicletas-electricas-paseo-2022-1031425'>Mejores bicicletas eléctricas de paseo para la ciudad que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/mejores-bicicletas-electricas-paseo-2022-1031425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-bicicletas-2651065.jpg' alt='Mejores bicicletas eléctricas de paseo para la ciudad que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373'>Usos alternativos de las pastillas para lavavajillas que seguramente no conoces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-1032373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usos-alternativos-pastillas-lavavajillas-seguramente-no-conoces-2653257.jpg' alt='Usos alternativos de las pastillas para lavavajillas que seguramente no conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371'>Giddel, el robot limpia retretes (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/giddel-robot-limpia-retretes-video-1032371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/giddel-robot-limpia-retretes-video-2653255.jpg' alt='Giddel, el robot limpia retretes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363'>Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-crear-grupos-1032363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508423.jpg' alt='Nintendo ha tardado 5 años en hacer realidad el mayor deseo de los usuarios de Nintendo Switch' />
     </a>
 </div>
 
