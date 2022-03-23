@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/libre-bono-cultural-400-euros-quienes-pueden-solicitarlo-como-hace-puede-gastar-1032661'>Vía libre para el bono cultural de 400 euros: quiénes pueden solicitarlo, cómo se hace y en qué se puede gastar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/libre-bono-cultural-400-euros-quienes-pueden-solicitarlo-como-hace-puede-gastar-1032661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg' alt='Vía libre para el bono cultural de 400 euros: quiénes pueden solicitarlo, cómo se hace y en qué se puede gastar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645'>Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-sirven-robots-whatsapp-quienes-pueden-utilizarlos-1032645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg' alt='Qué son y para qué sirven los robots de WhatsApp y quiénes pueden utilizarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521'>Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-144-hz-grafica-rtx-3060-existe-ya-venta-1031521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-g-2021-2651427.jpg' alt='Un portátil Xiaomi con 144 Hz y gráfica RTX 3060: existe y está ya a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-lanza-rtx-a5500-tarjeta-grafica-profesional-10240-nucleos-cuda-24-gb-vram-1032603'>NVIDIA lanza la RTX A5500, una tarjeta gráfica profesional con 10.240 núcleos CUDA y 24 GB de VRAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-lanza-rtx-a5500-tarjeta-grafica-profesional-10240-nucleos-cuda-24-gb-vram-1032603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='NVIDIA lanza la RTX A5500, una tarjeta gráfica profesional con 10.240 núcleos CUDA y 24 GB de VRAM' />
     </a>
 </div>
 
