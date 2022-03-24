@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645'>En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscar</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645'>En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/plataforma-pueden-ver-nominadas-mejor-pelicula-oscar-2655335.jpg' alt='En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/plataforma-pueden-ver-nominadas-mejor-pelicula-oscar-2655335.jpg' alt='En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars' />
     </a>
 </div>
 
