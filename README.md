@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063'>Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikohs-create-potts-2652327.jpg' alt='Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consiguio-amazon-bajas-prime-cayeran-14-1032651'>Así consiguió Amazon que las bajas de Prime cayeran un 14%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consiguio-amazon-bajas-prime-cayeran-14-1032651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Así consiguió Amazon que las bajas de Prime cayeran un 14%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/musica-recomendable-mientras-conduces-dgt-1032643'>La música más recomendable mientras conduces, según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/musica-recomendable-mientras-conduces-dgt-1032643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tres-consejos-fundamentales-dgt-escuchar-musica-volante-2251063.jpg' alt='La música más recomendable mientras conduces, según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2654559.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929'>Mejores patinetes eléctricos capaces de soportar más de 100 kg</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-montando-patinete-electrico-alta-velocidad-2654283.jpg' alt='Mejores patinetes eléctricos capaces de soportar más de 100 kg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019'>El mejor vegetal para adelgazar según una dietista, te va a sorprender</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mejor-vegetal-adelgazar-dietista-te-va-sorprender-2654341.jpg' alt='El mejor vegetal para adelgazar según una dietista, te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017'>HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hurrik9-lanza-aros-entusiasma-perros-2654339.jpg' alt='HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007'>WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios' />
     </a>
 </div>
 
