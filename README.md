@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617'>Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165'>Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/monopatin-electrico-2652773.jpg' alt='Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573'>Filtradas las especificaciones y el precio de la primera tablet de OnePlus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Filtradas las especificaciones y el precio de la primera tablet de OnePlus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559'>Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2655145.jpg' alt='Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-1033527'>Las orejas de gato que muestran cómo te sientes usando tus ondas cerebrales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-1033527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-2655049.jpg' alt='Las orejas de gato que muestran cómo te sientes usando tus ondas cerebrales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529'>MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-presenta-summit-e14-2655015.jpg' alt='MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.' />
     </a>
 </div>
 
