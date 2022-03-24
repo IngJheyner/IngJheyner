@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017'>HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hurrik9-lanza-aros-entusiasma-perros-2654339.jpg' alt='HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007'>WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993'>El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2513541.jpg' alt='El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995'>Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/confesiones-adicto-bitcoin-1032995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confesiones-adicto-bitcoin-tratamiento-queria-ser-millonario-perdi-todo-2654323.jpg' alt='Confesiones de un adicto al Bitcoin en tratamiento, que lo perdió todo: 'No os preocupéis por mí, todos seremos millonarios'' />
     </a>
 </div>
 
