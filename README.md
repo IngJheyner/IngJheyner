@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2654559.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929'>Mejores patinetes eléctricos capaces de soportar más de 100 kg</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-montando-patinete-electrico-alta-velocidad-2654283.jpg' alt='Mejores patinetes eléctricos capaces de soportar más de 100 kg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019'>El mejor vegetal para adelgazar según una dietista, te va a sorprender</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mejor-vegetal-adelgazar-dietista-te-va-sorprender-2654341.jpg' alt='El mejor vegetal para adelgazar según una dietista, te va a sorprender' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007'>WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-planta-cara-telegram-permite-enviar-archivos-2-gb-usuarios-1033007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp planta cara a Telegram y permite enviar archivos de hasta 2 GB entre sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-paso-spotify-sera-primera-beneficiarse-cambios-sistemas-pago-1033001'>Google da el paso y Spotify será la primera en beneficiarse de los cambios en los sistemas de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-da-paso-spotify-sera-primera-beneficiarse-cambios-sistemas-pago-1033001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Google da el paso y Spotify será la primera en beneficiarse de los cambios en los sistemas de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005'>Stephen Wilhite, el inventor del formato GIF y padre de los memes, fallece por Covid a los 74 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stephen-wilhite-inventor-gif-fallece-covid-74-anos-2654335.jpg' alt='Stephen Wilhite, el inventor del formato GIF y padre de los memes, fallece por Covid a los 74 años' />
     </a>
 </div>
 
