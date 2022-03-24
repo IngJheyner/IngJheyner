@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561'>A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/setup-gaming-monitor-pc-sobremesa-altavoces-portatil-2604321.jpg' alt='A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559'>Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2655145.jpg' alt='Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-1033527'>Las orejas de gato que muestran cómo te sientes usando tus ondas cerebrales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-1033527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orejas-gato-muestran-como-te-sientes-usando-ondas-cerebrales-2655049.jpg' alt='Las orejas de gato que muestran cómo te sientes usando tus ondas cerebrales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529'>MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-presenta-summit-e14-2655015.jpg' alt='MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515'>¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493'>A qué canción pertenece esta letra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chica-joven-escuchando-musica-movil-2341249.jpg' alt='A qué canción pertenece esta letra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-1033451'>Netflix vuelve a detenerse en nuestro pasado más oscuro con su nueva serie documental</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-1033451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-2654887.jpg' alt='Netflix vuelve a detenerse en nuestro pasado más oscuro con su nueva serie documental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129'>Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/phillips-go-zero-smart-bottle-2652677.jpg' alt='Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros' />
     </a>
 </div>
 
