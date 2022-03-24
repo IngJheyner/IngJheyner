@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019'>El mejor vegetal para adelgazar según una dietista, te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-vegetal-adelgazar-dietista-1033019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mejor-vegetal-adelgazar-dietista-te-va-sorprender-2654341.jpg' alt='El mejor vegetal para adelgazar según una dietista, te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017'>HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/hurrik9-lanza-aros-creado-cientifico-aeronautico-entusiasma-perros-1033017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hurrik9-lanza-aros-entusiasma-perros-2654339.jpg' alt='HurriK9, el lanza aros creado por un científico aeronáutico que entusiasma a los perros (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005'>Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stephen-wilhite-inventor-gif-fallece-covid-74-anos-2654335.jpg' alt='Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993'>El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/feed-cronologico-ha-vuelto-instagram-hace-acompanado-dos-opciones-nuevas-1032993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2513541.jpg' alt='El feed cronológico ha vuelto a Instagram y lo hace acompañado por dos opciones nuevas' />
     </a>
 </div>
 
