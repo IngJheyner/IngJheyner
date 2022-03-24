@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005'>Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005'>Stephen Wilhite, el inventor del formato GIF y padre de los memes, fallece por Covid a los 74 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stephen-wilhite-inventor-gif-fallece-covid-1033005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stephen-wilhite-inventor-gif-fallece-covid-74-anos-2654335.jpg' alt='Stephen Wilhite, el inventor del formato GIF y padre de los meme, fallece por Covid a los 74 años' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stephen-wilhite-inventor-gif-fallece-covid-74-anos-2654335.jpg' alt='Stephen Wilhite, el inventor del formato GIF y padre de los memes, fallece por Covid a los 74 años' />
     </a>
 </div>
 
