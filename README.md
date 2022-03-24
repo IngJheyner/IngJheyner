@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129'>Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/phillips-go-zero-smart-bottle-2652677.jpg' alt='Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/distro-tv-plantea-competencia-pluto-tv-ya-funciona-espana-1033445'>¿Qué es Distro TV? Así se plantea la competencia de Pluto TV que ya funciona en España</a></h4>
+    <a href='https://computerhoy.com/noticias/distro-tv-plantea-competencia-pluto-tv-ya-funciona-espana-1033445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/distro-tv-2654831.jpg' alt='¿Qué es Distro TV? Así se plantea la competencia de Pluto TV que ya funciona en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401'>¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367'>Las 9 mujeres inventoras que han cambiado el mundo para siempre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ada-lovelace-2654729.jpg' alt='Las 9 mujeres inventoras que han cambiado el mundo para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-innecesarias-deberias-eliminar-movil-ahora-mismo-1033359'>Aplicaciones innecesarias que deberías eliminar de tu móvil ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-innecesarias-deberias-eliminar-movil-ahora-mismo-1033359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/usuario-probando-smartphone-samsung-galaxy-s10.jpg' alt='Aplicaciones innecesarias que deberías eliminar de tu móvil ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331'>El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo' />
     </a>
 </div>
 
