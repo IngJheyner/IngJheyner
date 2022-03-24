@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401'>¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-perder-cosas-pack-cuatro-airtags-vuelve-bajar-precio-amazon-23-euros-cada-1032119'>Se acabó perder cosas: el pack de cuatro AirTags vuelve a bajar de precio en Amazon a 23 euros cada uno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabo-perder-cosas-pack-cuatro-airtags-vuelve-bajar-precio-amazon-23-euros-cada-1032119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Se acabó perder cosas: el pack de cuatro AirTags vuelve a bajar de precio en Amazon a 23 euros cada uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367'>Las 9 mujeres inventoras que han cambiado el mundo para siempre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ada-lovelace-2654729.jpg' alt='Las 9 mujeres inventoras que han cambiado el mundo para siempre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331'>El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trail-running-polar-grit-x-reloj-necesitas-ahora-amazon-vende-89-euros-barato-1032093'>Si lo tuyo es el trail running, el Polar Grit X es el reloj que necesitas, y ahora Amazon lo vende 89 euros más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trail-running-polar-grit-x-reloj-necesitas-ahora-amazon-vende-89-euros-barato-1032093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polar-grit-x-pro-2645531.jpg' alt='Si lo tuyo es el trail running, el Polar Grit X es el reloj que necesitas, y ahora Amazon lo vende 89 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-predice-vas-tener-ataque-corazon-proximos-5-anos-1033305'>La IA que predice si vas a tener un ataque al corazón en los próximos 5 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-predice-vas-tener-ataque-corazon-proximos-5-anos-1033305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/corazon-latidos.jpg' alt='La IA que predice si vas a tener un ataque al corazón en los próximos 5 años' />
     </a>
 </div>
 
