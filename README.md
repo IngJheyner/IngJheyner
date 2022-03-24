@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261'>Se prepara una nueva serie de Daredevil con el mismo actor</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2648199.jpg' alt='Se prepara una nueva serie de Daredevil con el mismo actor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645'>En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/plataforma-pueden-ver-nominadas-mejor-pelicula-oscar-2655335.jpg' alt='En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631'>¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?</a></h4>
     <a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acaparamiento-producto-2655305.jpg' alt='¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257'>Sony y Honda quieren lanzar un coche eléctrico en 2025</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-2647459.jpg' alt='Sony y Honda quieren lanzar un coche eléctrico en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617'>Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165'>Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/monopatin-electrico-2652773.jpg' alt='Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena' />
     </a>
 </div>
 
