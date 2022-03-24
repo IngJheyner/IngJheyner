@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631'>¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acaparamiento-producto-2655305.jpg' alt='¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-llega-limite-reacciona-redes-como-nunca-antes-habiamos-visto-1033629'>Mercadona llega al límite y reacciona en redes como nunca antes habíamos visto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-llega-limite-reacciona-redes-como-nunca-antes-habiamos-visto-1033629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2655303.jpg' alt='Mercadona llega al límite y reacciona en redes como nunca antes habíamos visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257'>Sony y Honda quieren lanzar un coche eléctrico en 2025</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-2647459.jpg' alt='Sony y Honda quieren lanzar un coche eléctrico en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617'>Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenguajes-programacion-mayores-opciones-conseguir-buen-trabajo-mejor-sueldo-1033617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='Lenguajes de programación con mayores opciones para conseguir un buen trabajo y mejor sueldo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165'>Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/monopatin-electrico-hoverboard-otras-opciones-movilidad-tambien-merecen-pena-1032165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/monopatin-electrico-2652773.jpg' alt='Monopatín eléctrico, hoverboard y otras opciones de movilidad que también merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573'>Filtradas las especificaciones y el precio de la primera tablet de OnePlus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Filtradas las especificaciones y el precio de la primera tablet de OnePlus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561'>A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/setup-gaming-monitor-pc-sobremesa-altavoces-portatil-2604321.jpg' alt='A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559'>Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivo-cual-gente-pagando-millones-euros-terreno-metaverso-1033559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/metaverso-2655145.jpg' alt='Este es el motivo por el cual la gente está pagando millones de euros por un terreno en el metaverso' />
     </a>
 </div>
 
