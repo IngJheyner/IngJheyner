@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331'>El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/riesgo-criptomonedas-como-cashio-ha-pasado-1-dolar-practicamente-nada-plumazo-1033331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hackeo-criptomonedas-2593423.jpg' alt='El riesgo de las criptomonedas y cómo Cashio ha pasado de 1 dólar a prácticamente nada de un plumazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trail-running-polar-grit-x-reloj-necesitas-ahora-amazon-vende-89-euros-barato-1032093'>Si lo tuyo es el trail running, el Polar Grit X es el reloj que necesitas, y ahora Amazon lo vende 89 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trail-running-polar-grit-x-reloj-necesitas-ahora-amazon-vende-89-euros-barato-1032093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/polar-grit-x-pro-2645531.jpg' alt='Si lo tuyo es el trail running, el Polar Grit X es el reloj que necesitas, y ahora Amazon lo vende 89 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-predice-vas-tener-ataque-corazon-proximos-5-anos-1033305'>La IA que predice si vas a tener un ataque al corazón en los próximos 5 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-predice-vas-tener-ataque-corazon-proximos-5-anos-1033305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/corazon-latidos.jpg' alt='La IA que predice si vas a tener un ataque al corazón en los próximos 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hbo-max-anade-boton-moda-netflix-pero-manera-1033265'>HBO Max añade el botón que está de moda en Netflix, pero a su manera</a></h4>
     <a href='https://computerhoy.com/noticias/hbo-max-anade-boton-moda-netflix-pero-manera-1033265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='HBO Max añade el botón que está de moda en Netflix, pero a su manera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063'>Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikohs-create-potts-2652327.jpg' alt='Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consiguio-amazon-bajas-prime-cayeran-14-1032651'>Así consiguió Amazon que las bajas de Prime cayeran un 14%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consiguio-amazon-bajas-prime-cayeran-14-1032651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Así consiguió Amazon que las bajas de Prime cayeran un 14%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/musica-recomendable-mientras-conduces-dgt-1032643'>La música más recomendable mientras conduces, según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/musica-recomendable-mientras-conduces-dgt-1032643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tres-consejos-fundamentales-dgt-escuchar-musica-volante-2251063.jpg' alt='La música más recomendable mientras conduces, según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2654559.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
