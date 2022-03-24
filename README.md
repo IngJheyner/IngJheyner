@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cinta-andar-correr-cecotec-oferta-1033621'>La cinta de andar y correr de Cecotec es ideal para hacer ejercicio en casa, baja de precio a 199 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cinta-andar-correr-cecotec-oferta-1033621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cinta-andar-correr-cecotec-ideal-hacer-ejercicio-casa-baja-precio-199-euros-2655289.jpg' alt='La cinta de andar y correr de Cecotec es ideal para hacer ejercicio en casa, baja de precio a 199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261'>Se prepara una nueva serie de Daredevil con el mismo actor</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2648199.jpg' alt='Se prepara una nueva serie de Daredevil con el mismo actor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-llega-limite-reacciona-redes-como-nunca-antes-habiamos-visto-1033629'>Mercadona llega al límite y reacciona en redes como nunca antes habíamos visto</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-llega-limite-reacciona-redes-como-nunca-antes-habiamos-visto-1033629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2655303.jpg' alt='Mercadona llega al límite y reacciona en redes como nunca antes habíamos visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257'>Sony y Honda quieren lanzar un coche eléctrico en 2025</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sony-honda-quieren-lanzar-coche-electrico-2025-1033257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sony-2647459.jpg' alt='Sony y Honda quieren lanzar un coche eléctrico en 2025' />
     </a>
 </div>
 
