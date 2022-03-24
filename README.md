@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573'>Filtradas las especificaciones y el precio de la primera tablet de OnePlus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-precio-primera-tablet-oneplus-1033573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Filtradas las especificaciones y el precio de la primera tablet de OnePlus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561'>A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-encanta-jugadores-esten-pagando-300-eu-hora-actualizar-pc-1033561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/setup-gaming-monitor-pc-sobremesa-altavoces-portatil-2604321.jpg' alt='A NVIDIA le encanta que los jugadores estén pagando 300 € de más a la hora de actualizar el PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529'>MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-presenta-summit-e14-2655015.jpg' alt='MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515'>¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?' />
     </a>
 </div>
 
