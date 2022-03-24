@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hbo-max-anade-boton-moda-netflix-pero-manera-1033265'>HBO Max añade el botón que está de moda en Netflix, pero a su manera</a></h4>
+    <a href='https://computerhoy.com/noticias/hbo-max-anade-boton-moda-netflix-pero-manera-1033265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='HBO Max añade el botón que está de moda en Netflix, pero a su manera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063'>Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cafetera-admite-cualquier-capsula-nespresso-dolce-gusto-starbucks-cuesta-70-euros-1032063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikohs-create-potts-2652327.jpg' alt='Esta cafetera admite cualquier cápsula: Nespresso, Dolce Gusto o Starbucks ¡y cuesta 70 euros!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1033241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2654559.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929'>Mejores patinetes eléctricos capaces de soportar más de 100 kg</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-capaces-soportar-100-kg-1032929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-montando-patinete-electrico-alta-velocidad-2654283.jpg' alt='Mejores patinetes eléctricos capaces de soportar más de 100 kg' />
     </a>
 </div>
 
