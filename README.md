@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529'>MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/msi-presenta-summit-e14-actualiza-gamas-portatiles-empresariales-productividad-1033529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/msi-presenta-summit-e14-2655015.jpg' alt='MSI presenta el Summit E14 y actualiza sus gamas de portátiles empresariales y de productividad.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515'>¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-deberias-dejar-cargador-movil-ordenador-conectado-1033515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='¿Por qué no deberías dejar el cargador de tu móvil / ordenador conectado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493'>A qué canción pertenece esta letra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chica-joven-escuchando-musica-movil-2341249.jpg' alt='A qué canción pertenece esta letra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-1033451'>Netflix vuelve a detenerse en nuestro pasado más oscuro con su nueva serie documental</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-1033451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-vuelve-detenerse-pasado-oscuro-nueva-serie-documental-2654887.jpg' alt='Netflix vuelve a detenerse en nuestro pasado más oscuro con su nueva serie documental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129'>Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/botella-philips-purifica-desinfecta-agua-elimina-99-bacterias-oferta-50-euros-1032129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/phillips-go-zero-smart-bottle-2652677.jpg' alt='Esta botella de Philips purifica y desinfecta el agua, elimina el 99% de bacterias y está en oferta por 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/distro-tv-plantea-competencia-pluto-tv-ya-funciona-espana-1033445'>¿Qué es Distro TV? Así se plantea la competencia de Pluto TV que ya funciona en España</a></h4>
-    <a href='https://computerhoy.com/noticias/distro-tv-plantea-competencia-pluto-tv-ya-funciona-espana-1033445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/distro-tv-2654831.jpg' alt='¿Qué es Distro TV? Así se plantea la competencia de Pluto TV que ya funciona en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401'>¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/peligroso-seguridad-utilizar-version-windows-10-11-licencia-1033401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='¿Es peligroso para tu seguridad utilizar una versión de Windows 10/11 sin licencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-perder-cosas-pack-cuatro-airtags-vuelve-bajar-precio-amazon-23-euros-cada-1032119'>Se acabó perder cosas: el pack de cuatro AirTags vuelve a bajar de precio en Amazon a 23 euros cada uno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acabo-perder-cosas-pack-cuatro-airtags-vuelve-bajar-precio-amazon-23-euros-cada-1032119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Se acabó perder cosas: el pack de cuatro AirTags vuelve a bajar de precio en Amazon a 23 euros cada uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367'>Las 9 mujeres inventoras que han cambiado el mundo para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-mujeres-inventoras-han-cambiado-mundo-siempre-1033367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ada-lovelace-2654729.jpg' alt='Las 9 mujeres inventoras que han cambiado el mundo para siempre' />
     </a>
 </div>
 
