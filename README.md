@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-maserati-granturismo-electrico-tiene-1216-caballos-potencia-1033961'>El nuevo Maserati GranTurismo eléctrico tiene 1.216 caballos de potencia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-maserati-granturismo-electrico-tiene-1216-caballos-potencia-1033961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/maserati-granturismo-electrico-1-2648659.jpg' alt='El nuevo Maserati GranTurismo eléctrico tiene 1.216 caballos de potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-iniciarse-twitch-ser-usuario-empezar-hacer-streaming-1023913'>Cómo iniciarse en Twitch, ser usuario y empezar a hacer streaming</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gaming/como-iniciarse-twitch-ser-usuario-empezar-hacer-streaming-1023913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/alfombrillas-raton-color-verde-arrasan-gamers-suben-videos-youtube-twitch-2255933.jpg' alt='Cómo iniciarse en Twitch, ser usuario y empezar a hacer streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249'>Confirman por primera vez la presencia de microplásticos en la sangre humana</a></h4>
     <a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confirman-primera-vez-presencia-microplasticos-sangre-humana-2656697.jpg' alt='Confirman por primera vez la presencia de microplásticos en la sangre humana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343'>Mejores relojes para trail running que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-practicando-trail-running-montana-2654683.jpg' alt='Mejores relojes para trail running que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2656385.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987'>Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-2655859.jpg' alt='Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio' />
     </a>
 </div>
 
