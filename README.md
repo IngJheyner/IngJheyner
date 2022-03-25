@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069'>Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/manga-2656007.jpg' alt='Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-rawr-1034075'>¿Qué significa RAWR? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-rawr-1034075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/significa-rawr-2655971.jpg' alt='¿Qué significa RAWR? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-de-cocina'>Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-de-cocina' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-spinning-precio-ganga-199-euros-envio-expres-espana-1032607'>Bicicleta de spinning a precio de ganga: por 199 euros y con envío exprés desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bicicleta-spinning-precio-ganga-199-euros-envio-expres-espana-1032607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-extreme-20-2653471.jpg' alt='Bicicleta de spinning a precio de ganga: por 199 euros y con envío exprés desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037'>Netflix se pone seria con los videojuegos y compra un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2655953.jpg' alt='Netflix se pone seria con los videojuegos y compra un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/podra-hablar-whatsapp-usuarios-imessage-facebook-google-chat-ley-europea-interoperabilidad-1034017'>Se podrá hablar desde WhatsApp con usuarios de iMessage, Facebook o Google Chat según la Ley Europea de Interoperabilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/podra-hablar-whatsapp-usuarios-imessage-facebook-google-chat-ley-europea-interoperabilidad-1034017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='Se podrá hablar desde WhatsApp con usuarios de iMessage, Facebook o Google Chat según la Ley Europea de Interoperabilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949'>10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-2622461.jpg' alt='10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-pc-windows-11-cifrado-hacer-no-1033997'>Cómo saber si tu PC con Windows 11 está cifrado y qué hacer si no lo está</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-pc-windows-11-cifrado-hacer-no-1033997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/windows-10-cifrado-archivos-2294629.jpg' alt='Cómo saber si tu PC con Windows 11 está cifrado y qué hacer si no lo está' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923'>¿Dirección asistida para motos? Lo último de Yamaha</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-2655729.jpg' alt='¿Dirección asistida para motos? Lo último de Yamaha' />
     </a>
 </div>
 
