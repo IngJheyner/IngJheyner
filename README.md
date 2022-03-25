@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2656385.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987'>Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-2655859.jpg' alt='Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371'>Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/macbook-pro-2046091.jpg' alt='Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento' />
     </a>
 </div>
 
