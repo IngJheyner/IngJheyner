@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dolor-estomago-sintomas-enfermedad-crohn-1033875'>¿Te duele el estómago a menudo? Signos de que padeces la enfermedad de Crohn, según los médicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dolor-estomago-sintomas-enfermedad-crohn-1033875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/te-duele-estomago-menudo-signos-padeces-enfermedad-crohn-2655573.jpg' alt='¿Te duele el estómago a menudo? Signos de que padeces la enfermedad de Crohn, según los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661'>La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/revolucionaria-almohada-japonesa-no-pasar-calor-verano-video-2655355.jpg' alt='La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261'>Se prepara una nueva serie de Daredevil con el mismo actor</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lanzara-nueva-serie-daredevil-mismo-actor-1033261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2648199.jpg' alt='Se prepara una nueva serie de Daredevil con el mismo actor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645'>En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/plataforma-pueden-ver-nominadas-mejor-pelicula-oscar-2655335.jpg' alt='En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars' />
     </a>
 </div>
 
