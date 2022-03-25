@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279'>Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273'>El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-baja-solo-409-euros-2656733.jpg' alt='El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595'>Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257'>Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp' />
     </a>
 </div>
 
