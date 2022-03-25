@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273'>El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-baja-solo-409-euros-2656733.jpg' alt='El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963'>La saga Jumanji también tendrá nuevas atracciones y parques temáticos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jumanji-juego-mesa-2649377.jpg' alt='La saga Jumanji también tendrá nuevas atracciones y parques temáticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257'>Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-car-mode-modo-coche-1034261'>Spotify ya está dejando probar Car Mode, la nueva función para escuchar música en el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-car-mode-modo-coche-1034261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-ya-dejando-probar-car-mode-nueva-funcion-escuchar-musica-coche-2656715.jpg' alt='Spotify ya está dejando probar Car Mode, la nueva función para escuchar música en el coche' />
     </a>
 </div>
 
