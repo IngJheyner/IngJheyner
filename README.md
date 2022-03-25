@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987'>Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-2655859.jpg' alt='Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137'>Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/03/157915-que-es-reddit.jpg' alt='Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371'>Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/macbook-pro-2046091.jpg' alt='Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107'>¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/piel-2656169.jpg' alt='¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología' />
     </a>
 </div>
 
