@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber que Windows tengo instalado en el ordenador</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo saber que Windows tengo instalado en el ordenador' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
     </a>
 </div>
 
