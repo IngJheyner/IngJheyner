@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949'>10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-2622461.jpg' alt='10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-pc-windows-11-cifrado-hacer-no-1033997'>Cómo saber si tu PC con Windows 11 está cifrado y qué hacer si no lo está</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-pc-windows-11-cifrado-hacer-no-1033997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/windows-10-cifrado-archivos-2294629.jpg' alt='Cómo saber si tu PC con Windows 11 está cifrado y qué hacer si no lo está' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923'>Dirección asistida para motos, lo último de Yamaha</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-2655729.jpg' alt='Dirección asistida para motos, lo último de Yamaha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tira-iluminacion-led-armarios-ikea-norrfly-oferta-1033335'>IKEA pone a precio de liquidación esta tira LED para que la instales en un armario por solo 10 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tira-iluminacion-led-armarios-ikea-norrfly-oferta-1033335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-norrfly-2654665.jpg' alt='IKEA pone a precio de liquidación esta tira LED para que la instales en un armario por solo 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919'>Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-snapdragon-2655675.jpg' alt='Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-otra-serie-deja-final-abierto-pero-ocasion-fue-exito-1033893'>Netflix cancela otra serie y la deja con final abierto, pero en esta ocasión SÍ fue un éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-otra-serie-deja-final-abierto-pero-ocasion-fue-exito-1033893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/archivo-81-2655341.jpg' alt='Netflix cancela otra serie y la deja con final abierto, pero en esta ocasión SÍ fue un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501'>Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-bear-2651343.jpg' alt='Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281'>Unos nuevos escudos te dan el superpoder de ser invisible </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/invisible-2654603.jpg' alt='Unos nuevos escudos te dan el superpoder de ser invisible ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267'>Los 5 coches españoles más potentes que se han fabricado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/5-coches-espanoles-potentes-2648789.jpg' alt='Los 5 coches españoles más potentes que se han fabricado' />
     </a>
 </div>
 
