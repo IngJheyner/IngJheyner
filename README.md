@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919'>Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-snapdragon-2655675.jpg' alt='Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-otra-serie-deja-final-abierto-pero-ocasion-fue-exito-1033893'>Netflix cancela otra serie y la deja con final abierto, pero en esta ocasión SÍ fue un éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-otra-serie-deja-final-abierto-pero-ocasion-fue-exito-1033893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/archivo-81-2655341.jpg' alt='Netflix cancela otra serie y la deja con final abierto, pero en esta ocasión SÍ fue un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501'>Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-bear-2651343.jpg' alt='Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267'>Los 5 coches españoles más potentes que se han fabricado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/5-coches-espanoles-potentes-2648789.jpg' alt='Los 5 coches españoles más potentes que se han fabricado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1033879'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1033879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2655579.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313'>Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-iluminada-2654657.jpg' alt='Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá' />
     </a>
 </div>
 
