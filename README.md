@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501'>Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-encuentras-aceite-freidora-no-necesita-tiene-3l-capacidad-muy-barata-1031501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-bear-2651343.jpg' alt='Si no encuentras aceite, esta freidora no lo necesita: tiene 3L de capacidad y es muy barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281'>Unos nuevos escudos te dan el superpoder de ser invisible </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/invisible-2654603.jpg' alt='Unos nuevos escudos te dan el superpoder de ser invisible ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313'>Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-iluminada-2654657.jpg' alt='Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/taller-coches-cerrado-10-anos-tarragona-tesoros-bmw-audi-1033877'>Abren un taller de coches cerrado durante 10 años en Tarragona, y encuentran tesoros de BMW, Audi y otras marcas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/taller-coches-cerrado-10-anos-tarragona-tesoros-bmw-audi-1033877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abren-taller-coches-cerrado-durante-10-anos-tarragona-encuentran-tesoros-bmw-audi-otras-marcas-2655575.jpg' alt='Abren un taller de coches cerrado durante 10 años en Tarragona, y encuentran tesoros de BMW, Audi y otras marcas' />
     </a>
 </div>
 
