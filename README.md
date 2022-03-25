@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281'>Unos nuevos escudos te dan el superpoder de ser invisible </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-escudos-te-dan-superpoder-ser-invisible-1033281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/invisible-2654603.jpg' alt='Unos nuevos escudos te dan el superpoder de ser invisible ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267'>Los 5 coches españoles más potentes que se han fabricado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-coches-espanoles-potentes-han-fabricado-1033267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/5-coches-espanoles-potentes-2648789.jpg' alt='Los 5 coches españoles más potentes que se han fabricado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1033879'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1033879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2655579.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/taller-coches-cerrado-10-anos-tarragona-tesoros-bmw-audi-1033877'>Abren un taller de coches cerrado durante 10 años en Tarragona, y encuentran tesoros de BMW, Audi y otras marcas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/taller-coches-cerrado-10-anos-tarragona-tesoros-bmw-audi-1033877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/abren-taller-coches-cerrado-durante-10-anos-tarragona-encuentran-tesoros-bmw-audi-otras-marcas-2655575.jpg' alt='Abren un taller de coches cerrado durante 10 años en Tarragona, y encuentran tesoros de BMW, Audi y otras marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dolor-estomago-sintomas-enfermedad-crohn-1033875'>¿Te duele el estómago a menudo? Signos de que padeces la enfermedad de Crohn, según los médicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dolor-estomago-sintomas-enfermedad-crohn-1033875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/te-duele-estomago-menudo-signos-padeces-enfermedad-crohn-2655573.jpg' alt='¿Te duele el estómago a menudo? Signos de que padeces la enfermedad de Crohn, según los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661'>La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/revolucionaria-almohada-japonesa-no-pasar-calor-verano-video-2655355.jpg' alt='La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)' />
     </a>
 </div>
 
