@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-maserati-granturismo-electrico-tiene-1216-caballos-potencia-1033961'>El nuevo Maserati GranTurismo eléctrico tiene 1.216 caballos de potencia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nuevo-maserati-granturismo-electrico-tiene-1216-caballos-potencia-1033961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/maserati-granturismo-electrico-1-2648659.jpg' alt='El nuevo Maserati GranTurismo eléctrico tiene 1.216 caballos de potencia' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963'>La saga Jumanji también tendrá nuevas atracciones y parques temáticos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jumanji-juego-mesa-2649377.jpg' alt='La saga Jumanji también tendrá nuevas atracciones y parques temáticos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-iniciarse-twitch-ser-usuario-empezar-hacer-streaming-1023913'>Cómo iniciarse en Twitch, ser usuario y empezar a hacer streaming</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gaming/como-iniciarse-twitch-ser-usuario-empezar-hacer-streaming-1023913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/alfombrillas-raton-color-verde-arrasan-gamers-suben-videos-youtube-twitch-2255933.jpg' alt='Cómo iniciarse en Twitch, ser usuario y empezar a hacer streaming' />
+    <h4><a href='https://computerhoy.com/noticias/life/alimentos-seguiran-subiendo-precio-aunque-resuelva-huelga-transportes-1034263'>Alimentos que seguirán subiendo de precio aunque se resuelva la huelga de transportes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimentos-seguiran-subiendo-precio-aunque-resuelva-huelga-transportes-1034263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635213.jpg' alt='Alimentos que seguirán subiendo de precio aunque se resuelva la huelga de transportes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249'>Confirman por primera vez la presencia de microplásticos en la sangre humana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confirman-primera-vez-presencia-microplasticos-sangre-humana-2656697.jpg' alt='Confirman por primera vez la presencia de microplásticos en la sangre humana' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595'>Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-menos-20-euros-amazon-fin-de-semana-1033937'>15 chollos de menos de 20€ en Amazon que te van a alegrar el fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/chollos-menos-20-euros-amazon-fin-de-semana-1033937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='15 chollos de menos de 20€ en Amazon que te van a alegrar el fin de semana' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257'>Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-presencia-troyanos-varias-versiones-alternativas-whatsapp-1034257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan la presencia de troyanos en varias versiones alternativas de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343'>Mejores relojes para trail running que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-practicando-trail-running-montana-2654683.jpg' alt='Mejores relojes para trail running que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-car-mode-modo-coche-1034261'>Spotify ya está dejando probar Car Mode, la nueva función para escuchar música en el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-car-mode-modo-coche-1034261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-ya-dejando-probar-car-mode-nueva-funcion-escuchar-musica-coche-2656715.jpg' alt='Spotify ya está dejando probar Car Mode, la nueva función para escuchar música en el coche' />
     </a>
 </div>
 
