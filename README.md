@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249'>Confirman por primera vez la presencia de microplásticos en la sangre humana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/microplasticos-en-sangre-humana-1034249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/confirman-primera-vez-presencia-microplasticos-sangre-humana-2656697.jpg' alt='Confirman por primera vez la presencia de microplásticos en la sangre humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-menos-20-euros-amazon-fin-de-semana-1033937'>15 chollos de menos de 20€ en Amazon que te van a alegrar el fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/chollos-menos-20-euros-amazon-fin-de-semana-1033937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='15 chollos de menos de 20€ en Amazon que te van a alegrar el fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343'>Mejores relojes para trail running que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-puedes-comprar-1033343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/persona-practicando-trail-running-montana-2654683.jpg' alt='Mejores relojes para trail running que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-amor-nobleza-dimensiones-paralelas-1034181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/series-fin-semana-2656385.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: amor, nobleza y dimensiones paralelas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987'>Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-1033987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/peliculas-ver-fin-semana-prime-netflix-disney-sexo-supervivencia-leonardo-dicaprio-2655859.jpg' alt='Qué películas ver este fin de semana en Prime, Netflix y Disney+: sexo, supervivencia y Leonardo DiCaprio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137'>Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/03/157915-que-es-reddit.jpg' alt='Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099'>Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
     </a>
 </div>
 
