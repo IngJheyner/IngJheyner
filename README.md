@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099'>Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber que Windows tengo instalado en el ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Cómo saber que Windows tengo instalado en el ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371'>Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscas-macbook-pro-procesador-intel-16-i7-barato-nunca-tiene-500eu-descuento-1033371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/macbook-pro-2046091.jpg' alt='Si buscas un MacBook Pro con procesador Intel, el de 16" con i7 está más barato que nunca: tiene 500€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107'>¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/piel-2656169.jpg' alt='¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069'>Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/manga-2656007.jpg' alt='Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-rawr-1034075'>¿Qué significa RAWR? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-rawr-1034075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/significa-rawr-2655971.jpg' alt='¿Qué significa RAWR? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-de-cocina'>Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-de-cocina' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cecotec-mambo-8090-2582845.jpg' alt='Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-spinning-precio-ganga-199-euros-envio-expres-espana-1032607'>Bicicleta de spinning a precio de ganga: por 199 euros y con envío exprés desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bicicleta-spinning-precio-ganga-199-euros-envio-expres-espana-1032607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-extreme-20-2653471.jpg' alt='Bicicleta de spinning a precio de ganga: por 199 euros y con envío exprés desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037'>Netflix se pone seria con los videojuegos y compra un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2655953.jpg' alt='Netflix se pone seria con los videojuegos y compra un nuevo estudio' />
     </a>
 </div>
 
