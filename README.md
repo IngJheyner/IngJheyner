@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037'>Netflix se pone seria con los videojuegos y compra un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-pone-seria-videojuegos-compra-nuevo-estudio-1034037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2655953.jpg' alt='Netflix se pone seria con los videojuegos y compra un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/podra-hablar-whatsapp-usuarios-imessage-facebook-google-chat-ley-europea-interoperabilidad-1034017'>Se podrá hablar desde WhatsApp con usuarios de iMessage, Facebook o Google Chat según la Ley Europea de Interoperabilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/podra-hablar-whatsapp-usuarios-imessage-facebook-google-chat-ley-europea-interoperabilidad-1034017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='Se podrá hablar desde WhatsApp con usuarios de iMessage, Facebook o Google Chat según la Ley Europea de Interoperabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949'>10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-inventos-elon-musk-han-cambiado-forma-ver-mundo-1033949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-2622461.jpg' alt='10 inventos de Elon Musk que han cambiado nuestra forma de ver el mundo' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923'>Dirección asistida para motos, lo último de Yamaha</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923'>¿Dirección asistida para motos? Lo último de Yamaha</a></h4>
     <a href='https://computerhoy.com/noticias/motor/direccion-asistida-motos-ultimo-yamaha-1033923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-2655729.jpg' alt='Dirección asistida para motos, lo último de Yamaha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tira-iluminacion-led-armarios-ikea-norrfly-oferta-1033335'>IKEA pone a precio de liquidación esta tira LED para que la instales en un armario por solo 10 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tira-iluminacion-led-armarios-ikea-norrfly-oferta-1033335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ikea-norrfly-2654665.jpg' alt='IKEA pone a precio de liquidación esta tira LED para que la instales en un armario por solo 10 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919'>Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeros-telefonos-snapdragon-8-gen-1-nuevo-procesador-estrella-qualcomm-tienen-prevista-presentacion-mayo-1033919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-snapdragon-2655675.jpg' alt='Los primeros teléfonos con Snapdragon 8 Gen 1+, el nuevo procesador estrella de Qualcomm, tienen prevista su presentación en mayo.' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/moto-2655729.jpg' alt='¿Dirección asistida para motos? Lo último de Yamaha' />
     </a>
 </div>
 
