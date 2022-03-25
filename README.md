@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661'>La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/revolucionaria-almohada-japonesa-refrigerada-no-pasar-calor-verano-video-1033661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/revolucionaria-almohada-japonesa-no-pasar-calor-verano-video-2655355.jpg' alt='La revolucionaria almohada japonesa refrigerada, para no pasar calor este verano (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-suscripcion-hardware-renovar-iphone-gratis-1033655'>Apple planea una suscripción de hardware que te permitiría renovar el iPhone gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-suscripcion-hardware-renovar-iphone-gratis-1033655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Apple planea una suscripción de hardware que te permitiría renovar el iPhone gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645'>En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-nominadas-mejor-pelicula-oscar-2022-1033645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/plataforma-pueden-ver-nominadas-mejor-pelicula-oscar-2655335.jpg' alt='En qué plataforma se pueden ver las nominadas a Mejor Película en los Oscars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631'>¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/son-legales-limitaciones-productos-como-aceite-estan-imponiendo-algunos-supermercados-1033631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acaparamiento-producto-2655305.jpg' alt='¿Son legales las limitaciones en productos como el aceite que están imponiendo algunos supermercados?' />
     </a>
 </div>
 
