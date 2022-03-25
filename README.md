@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137'>Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reddit-busca-introducir-reacciones-videos-estilo-duet-stitch-tiktok-1034137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/03/157915-que-es-reddit.jpg' alt='Reddit busca introducir reacciones a los vídeos al estilo Duet y Stitch de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099'>Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos</a></h4>
     <a href='https://computerhoy.com/noticias/baterias-cuanticas-prometen-carga-completa-coche-electrico-cuestion-segundos-1034099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Las baterías cuánticas prometen carga completa de coches eléctricos en cuestión de segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107'>¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-acabado-piel-cambia-color-funciona-tecnologia-1034107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/piel-2656169.jpg' alt='¿Un móvil con acabado en piel que cambia de color? Así funciona esta tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069'>Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dibuja-manga-tres-clics-cuatro-trazos-ayudado-ia-giga-manga-google-1034069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/manga-2656007.jpg' alt='Dibuja manga con tres clics y cuatro trazos ayudado por la IA Giga Manga de Google' />
     </a>
 </div>
 
