@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647'>5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mi-vida-nubes-como-cambiar-movil-cada-semana-no-morir-intento-1027633'>Mi vida está por las nubes: cómo cambiar de móvil cada semana y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mi-vida-nubes-como-cambiar-movil-cada-semana-no-morir-intento-1027633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-vida-nubes-2644331.jpg' alt='Mi vida está por las nubes: cómo cambiar de móvil cada semana y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485'>El truco genial para no equivocarte de lado cuando te colocas los auriculares</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/auriculares-musicales-personas-problemas-audicion-ayudan-oir-mejor-2471349.jpg' alt='El truco genial para no equivocarte de lado cuando te colocas los auriculares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311'>Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2627125.jpg' alt='Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-ucrania-nfts-cronologia-invasion-rusa-meta-museo-1034281'>El gobierno de Ucrania está vendiendo NFTs con la cronología de la invasión rusa, para financiar la defensa del país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-ucrania-nfts-cronologia-invasion-rusa-meta-museo-1034281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gobierno-ucrania-vendiendo-nfts-cronologia-invasion-rusa-financiar-ejercito-2656741.jpg' alt='El gobierno de Ucrania está vendiendo NFTs con la cronología de la invasión rusa, para financiar la defensa del país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279'>Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene' />
     </a>
 </div>
 
