@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287'>PocketBook Touch HD 3, análisis y opinion</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pocketbook-touch-hd-3-2655079.jpg' alt='PocketBook Touch HD 3, análisis y opinion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499'>Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahorra-electricidad-pack-paneles-solares-jardin-caravana-precio-record-1033431'>Ahorra electricidad con este pack de paneles solares para tu jardín o caravana, y a precio récord</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahorra-electricidad-pack-paneles-solares-jardin-caravana-precio-record-1033431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/panel-solar-2654803.jpg' alt='Ahorra electricidad con este pack de paneles solares para tu jardín o caravana, y a precio récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901'>Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cientificos-consiguen-completar-genoma-mitico-dodo-plantean-resucitarlo-2655623.jpg' alt='Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647'>5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mi-vida-nubes-como-cambiar-movil-cada-semana-no-morir-intento-1027633'>Mi vida está por las nubes: cómo cambiar de móvil cada semana y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mi-vida-nubes-como-cambiar-movil-cada-semana-no-morir-intento-1027633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mi-vida-nubes-2644331.jpg' alt='Mi vida está por las nubes: cómo cambiar de móvil cada semana y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485'>El truco genial para no equivocarte de lado cuando te colocas los auriculares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/auriculares-musicales-personas-problemas-audicion-ayudan-oir-mejor-2471349.jpg' alt='El truco genial para no equivocarte de lado cuando te colocas los auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301'>Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti</a></h4>
-    <a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/batidora-vaso-2459113.jpg' alt='Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti' />
     </a>
 </div>
 
