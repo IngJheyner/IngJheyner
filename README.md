@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901'>Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cientificos-consiguen-completar-genoma-mitico-dodo-plantean-resucitarlo-2655623.jpg' alt='Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647'>5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301'>Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti</a></h4>
     <a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/batidora-vaso-2459113.jpg' alt='Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311'>Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2627125.jpg' alt='Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día' />
     </a>
 </div>
 
