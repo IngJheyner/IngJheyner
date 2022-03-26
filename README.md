@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525'>Estas son las mujeres más influyentes en la historia de la tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/susan-wojcicki-2657007.jpg' alt='Estas son las mujeres más influyentes en la historia de la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351'>5 remakes que merecen mucho la pena, y 2 que no debieron rodarse</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/callejon-almas-perdidas-2588765.jpeg' alt='5 remakes que merecen mucho la pena, y 2 que no debieron rodarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515'>Cómo la IA puede ayudar a protegernos del malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programador-seguridad-2656989.jpg' alt='Cómo la IA puede ayudar a protegernos del malware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317'>iPhone SE 2022, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='iPhone SE 2022, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-detectan-vulnerabilidad-muy-importante-navegador-1034505'>¡Actualiza Chrome! Detectan una vulnerabilidad muy importante en el navegador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-detectan-vulnerabilidad-muy-importante-navegador-1034505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='¡Actualiza Chrome! Detectan una vulnerabilidad muy importante en el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329'>Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal' />
     </a>
 </div>
 
