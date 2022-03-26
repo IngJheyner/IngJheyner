@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097'>Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509275.jpg' alt='Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317'>iPhone SE 2022, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='iPhone SE 2022, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-detectan-vulnerabilidad-muy-importante-navegador-1034505'>¡Actualiza Chrome! Detectan una vulnerabilidad muy importante en el navegador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-detectan-vulnerabilidad-muy-importante-navegador-1034505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='¡Actualiza Chrome! Detectan una vulnerabilidad muy importante en el navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329'>Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409'>Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/python-debe-popularidad-1022077'>¿Qué es Python y a qué se debe su popularidad?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/python-debe-popularidad-1022077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89c94h.jpg' alt='¿Qué es Python y a qué se debe su popularidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287'>PocketBook Touch HD 3, análisis y opinion</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pocketbook-touch-hd-3-2655079.jpg' alt='PocketBook Touch HD 3, análisis y opinion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499'>Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick' />
     </a>
 </div>
 
