@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515'>Cómo la IA puede ayudar a protegernos del malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programador-seguridad-2656989.jpg' alt='Cómo la IA puede ayudar a protegernos del malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097'>Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509275.jpg' alt='Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329'>Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409'>Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta' />
     </a>
 </div>
 
