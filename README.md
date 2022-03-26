@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597'>Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597521.jpg' alt='Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587'>Ya se puede comer paella en la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puede-comer-paella-estacion-espacial-internacional-2657159.jpg' alt='Ya se puede comer paella en la Estación Espacial Internacional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531'>El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149'>¿Cómo funciona Bizum?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alternativas-bizum-2393365.jpg' alt='¿Cómo funciona Bizum?' />
     </a>
 </div>
 
