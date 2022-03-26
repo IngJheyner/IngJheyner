@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485'>El truco genial para no equivocarte de lado cuando te colocas los auriculares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-genial-no-equivocarte-cuando-te-colocas-auriculares-1034485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/auriculares-musicales-personas-problemas-audicion-ayudan-oir-mejor-2471349.jpg' alt='El truco genial para no equivocarte de lado cuando te colocas los auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301'>Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti</a></h4>
+    <a href='https://computerhoy.com/guia-compra/batidora-vaso-americana-919301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/batidora-vaso-2459113.jpg' alt='Batidoras de vaso o americanas: guía y consejos para comprar el modelo más adecuado para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311'>Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2627125.jpg' alt='Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279'>Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273'>El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-1034273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/televisor-tcl-qled-4k-43-pulgadas-dolby-vision-dolby-atmos-baja-solo-409-euros-2656733.jpg' alt='El televisor TCL QLED 4K de 43 pulgadas con Dolby Vision y Dolby Atmos, baja a solo 409 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963'>La saga Jumanji también tendrá nuevas atracciones y parques temáticos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jumanji-juego-mesa-2649377.jpg' alt='La saga Jumanji también tendrá nuevas atracciones y parques temáticos' />
     </a>
 </div>
 
