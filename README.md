@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543'>Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-pad-2657059.jpg' alt='Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541'>Dónde ver en directo y el horario para no perderte los Premios Óscar 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg' alt='Dónde ver en directo y el horario para no perderte los Premios Óscar 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525'>Estas son las mujeres más influyentes en la historia de la tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/susan-wojcicki-2657007.jpg' alt='Estas son las mujeres más influyentes en la historia de la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351'>5 remakes que merecen mucho la pena, y 2 que no debieron rodarse</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/callejon-almas-perdidas-2588765.jpeg' alt='5 remakes que merecen mucho la pena, y 2 que no debieron rodarse' />
     </a>
 </div>
 
