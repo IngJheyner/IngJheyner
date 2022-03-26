@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311'>Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-bloqueadores-apps-evitan-distracciones-te-permiten-aprovechar-dia-1018311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-2627125.jpg' alt='Los 6 bloqueadores de Apps que evitan distracciones y te permiten aprovechar más el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-ucrania-nfts-cronologia-invasion-rusa-meta-museo-1034281'>El gobierno de Ucrania está vendiendo NFTs con la cronología de la invasión rusa, para financiar la defensa del país</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-ucrania-nfts-cronologia-invasion-rusa-meta-museo-1034281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gobierno-ucrania-vendiendo-nfts-cronologia-invasion-rusa-financiar-ejercito-2656741.jpg' alt='El gobierno de Ucrania está vendiendo NFTs con la cronología de la invasión rusa, para financiar la defensa del país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279'>Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/spartacus-respuesta-playstation-game-pass-xbox-podria-llegar-semana-viene-1034279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ps5-sigue-stock-pero-menos-vas-poder-comprar-nuevas-carcasas-oficiales-mandos-colores-2559629.jpg' alt='Spartacus, la respuesta de PlayStation al Game Pass de Xbox, podría llegar la semana que viene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963'>La saga Jumanji también tendrá nuevas atracciones y parques temáticos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/saga-jumanji-tambien-tendra-nuevas-atracciones-parques-tematicos-1033963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jumanji-juego-mesa-2649377.jpg' alt='La saga Jumanji también tendrá nuevas atracciones y parques temáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimentos-seguiran-subiendo-precio-aunque-resuelva-huelga-transportes-1034263'>Alimentos que seguirán subiendo de precio aunque se resuelva la huelga de transportes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimentos-seguiran-subiendo-precio-aunque-resuelva-huelga-transportes-1034263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aceite-girasol-2635213.jpg' alt='Alimentos que seguirán subiendo de precio aunque se resuelva la huelga de transportes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595'>Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cambios-configuracion-ios-15-iphone-funcione-mucho-mejor-1022595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg' alt='Cambios en la configuración de iOS 15 para que tu iPhone funcione mucho mejor' />
     </a>
 </div>
 
