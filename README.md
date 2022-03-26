@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587'>Ya se puede comer paella en la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puede-comer-paella-estacion-espacial-internacional-2657159.jpg' alt='Ya se puede comer paella en la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543'>Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-pad-2657059.jpg' alt='Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149'>¿Cómo funciona Bizum?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alternativas-bizum-2393365.jpg' alt='¿Cómo funciona Bizum?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525'>Estas son las mujeres más influyentes en la historia de la tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/susan-wojcicki-2657007.jpg' alt='Estas son las mujeres más influyentes en la historia de la tecnología' />
     </a>
 </div>
 
