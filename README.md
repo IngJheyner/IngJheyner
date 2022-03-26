@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329'>Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/descargar-musica-gratis-videos-podcast-1018329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Dónde descargar música gratis para tus vídeos, podcast y proyectos personales de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409'>Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-108-mp-carga-ultrarrapida-67-w-nuevo-superventas-xiaomi-redmi-note-11-pro-ya-oferta-1033409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Cámara de 108 MP y carga ultrarrápida a 67 W: el nuevo superventas de Xiaomi es el Redmi Note 11 Pro y ya está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/python-debe-popularidad-1022077'>¿Qué es Python y a qué se debe su popularidad?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/python-debe-popularidad-1022077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89c94h.jpg' alt='¿Qué es Python y a qué se debe su popularidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287'>PocketBook Touch HD 3, análisis y opinion</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/pocketbook-touch-hd-3-review-opinion-1033287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pocketbook-touch-hd-3-2655079.jpg' alt='PocketBook Touch HD 3, análisis y opinion' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499'>Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-hbo-max-otra-app-no-tienda-oficial-amazon-fire-tv-stick-1033499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/televisor-hbo-max-pantalla-2513547.jpg' alt='Cómo instalar HBO Max u otra app que no esté en la tienda oficial en un Amazon Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahorra-electricidad-pack-paneles-solares-jardin-caravana-precio-record-1033431'>Ahorra electricidad con este pack de paneles solares para tu jardín o caravana, y a precio récord</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahorra-electricidad-pack-paneles-solares-jardin-caravana-precio-record-1033431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/panel-solar-2654803.jpg' alt='Ahorra electricidad con este pack de paneles solares para tu jardín o caravana, y a precio récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901'>Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dodo-genoma--completo-desextincion-1033901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cientificos-consiguen-completar-genoma-mitico-dodo-plantean-resucitarlo-2655623.jpg' alt='Científicos consiguen completar el genoma del mítico dodo, y se plantean revivirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647'>5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-dispositivos-xiaomi-hemos-probado-podemos-recomendar-moviles-tablet-1032647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='5 dispositivos Xiaomi que hemos probado y podemos recomendar: móviles, tablet y más' />
     </a>
 </div>
 
