@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541'>Dónde ver en directo y el horario para no perderte los Premios Óscar 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg' alt='Dónde ver en directo y el horario para no perderte los Premios Óscar 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531'>El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149'>¿Cómo funciona Bizum?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-bizum-1028149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alternativas-bizum-2393365.jpg' alt='¿Cómo funciona Bizum?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525'>Estas son las mujeres más influyentes en la historia de la tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-mujeres-influyentes-historia-tecnologia-1034525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/susan-wojcicki-2657007.jpg' alt='Estas son las mujeres más influyentes en la historia de la tecnología' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351'>5 remakes que merecen mucho la pena, y 2 que no debieron rodarse</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/remakes-merecen-mucho-pena-rodarse-1032351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/callejon-almas-perdidas-2588765.jpeg' alt='5 remakes que merecen mucho la pena, y 2 que no debieron rodarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515'>Cómo la IA puede ayudar a protegernos del malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ia-puede-ayudar-protegernos-malware-1034515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programador-seguridad-2656989.jpg' alt='Cómo la IA puede ayudar a protegernos del malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097'>Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-precio-oppo-reno-6-5g-pantalla-amoled-camara-64-mpx-bateria-todo-dia-382eu-1034097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/oppo-reno-6-5g-analisis-opinion-2509275.jpg' alt='Amazon ha rebajado el precio de este Oppo Reno 6 5G: pantalla AMOLED, cámara de 64 Mpx y batería para todo el día por 382€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317'>iPhone SE 2022, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/iphone-2022-reviews-opinion-1031317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='iPhone SE 2022, análisis y opinión' />
     </a>
 </div>
 
