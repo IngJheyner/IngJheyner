@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bici-plegable-2657045.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691'>Creen haber descubierto por qué el ratón de Apple se carga boca arriba</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creen-haber-descubierto-raton-apple-carga-boca-arriba-2657383.jpg' alt='Creen haber descubierto por qué el ratón de Apple se carga boca arriba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671'>Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-pavilion-tp01-2001ns-2657359.jpg' alt='Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513'>¿Cómo funciona Tinder?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='¿Cómo funciona Tinder?' />
     </a>
 </div>
 
