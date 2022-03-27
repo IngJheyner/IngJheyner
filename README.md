@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021'>Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR asociado a un NFT</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/octo-finissimo-ultra-reloj-mecanico-fino-mundo-tiene-codigo-qr-2655855.jpg' alt='Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR asociado a un NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/horridus-triceratops-completo-mejor-conservado-1034725'>Se presenta Horridus, el triceratops más completo y mejor conservado que existe</a></h4>
+    <a href='https://computerhoy.com/noticias/life/horridus-triceratops-completo-mejor-conservado-1034725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/presenta-horridus-triceratops-completo-mejor-conservado-existe-2657479.jpg' alt='Se presenta Horridus, el triceratops más completo y mejor conservado que existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719'>Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-2657457.jpg' alt='Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703'>La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-protagonista-oscar-cuanto-pesa-estatuilla-hecha-cuanto-te-dan-venden-2657405.jpg' alt='La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bici-plegable-2657045.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691'>Creen haber descubierto por qué el ratón de Apple se carga boca arriba</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creen-haber-descubierto-raton-apple-carga-boca-arriba-2657383.jpg' alt='Creen haber descubierto por qué el ratón de Apple se carga boca arriba' />
     </a>
 </div>
 
