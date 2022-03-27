@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-ipad-1033483'>Teclados para iPad: mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-ipad-1033483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-pro-teclado-2655321.jpg' alt='Teclados para iPad: mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-1033943'>Así es Castle Craig, el primer centro de rehabilitación para adictos a las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-1033943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-2655717.jpg' alt='Así es Castle Craig, el primer centro de rehabilitación para adictos a las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
     <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587'>Ya se puede comer paella en la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puede-comer-paella-estacion-espacial-internacional-2657159.jpg' alt='Ya se puede comer paella en la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543'>Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vivo-tambien-atreve-mercado-tabletas-vivo-pad-1034543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-pad-2657059.jpg' alt='Ahora vivo también se atreve con el mercado de las tabletas con su vivo Pad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541'>Dónde ver en directo y el horario para no perderte los Premios Óscar 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg' alt='Dónde ver en directo y el horario para no perderte los Premios Óscar 2022' />
     </a>
 </div>
 
