@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719'>Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-2657457.jpg' alt='Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709'>El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ejercito-ruso-destruye-ucrania-museos-ordenadores-raros-mundo-2657429.jpg' alt='El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691'>Creen haber descubierto por qué el ratón de Apple se carga boca arriba</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creen-haber-descubierto-raton-apple-carga-boca-arriba-2657383.jpg' alt='Creen haber descubierto por qué el ratón de Apple se carga boca arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677'>Instagram te permitiría responder a las historias con mensajes de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Instagram te permitiría responder a las historias con mensajes de voz' />
     </a>
 </div>
 
