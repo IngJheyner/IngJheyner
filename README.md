@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383'>Cambiar los DPIs del ratón me hizo mejor jugador</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raton-gamer-2589533.jpg' alt='Cambiar los DPIs del ratón me hizo mejor jugador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651'>Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-malware-2657285.jpg' alt='Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739'>Razer Blade 17 con RTX 3080 Ti, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-razer-blade-17-2657153.jpg' alt='Razer Blade 17 con RTX 3080 Ti, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637'>Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909'>45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nilox-x7-2655655.jpg' alt='45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata' />
     </a>
 </div>
 
