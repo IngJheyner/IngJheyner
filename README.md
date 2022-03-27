@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739'>Razer Blade 17 con RTX 3080 Ti, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-razer-blade-17-2657153.jpg' alt='Razer Blade 17 con RTX 3080 Ti, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-comedia-espanola-todo-mundo-visto-apenas-envejecido-1031625'>Las 6 series de comedia española que todo el mundo ha visto (y apenas han envejecido)</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-comedia-espanola-todo-mundo-visto-apenas-envejecido-1031625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camera-cafe-2651729.jpg' alt='Las 6 series de comedia española que todo el mundo ha visto (y apenas han envejecido)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637'>Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
     <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909'>45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata</a></h4>
     <a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nilox-x7-2655655.jpg' alt='45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689'>La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cecotec-cecofry-compact-black-2414827.jpg' alt='La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejora-vida-bateria-portatil-limites-carga-misma-1027681'>Mejora la vida de la batería de tu portátil con límites en la carga de la misma</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/mejora-vida-bateria-portatil-limites-carga-misma-1027681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bateria-ordenador-portatil-2644399.jpg' alt='Mejora la vida de la batería de tu portátil con límites en la carga de la misma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593'>Esta empresa quiere que sientas dolor real en el metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/firstvr-2657169.jpg' alt='Esta empresa quiere que sientas dolor real en el metaverso' />
     </a>
 </div>
 
