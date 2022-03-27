@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691'>Creen haber descubierto por qué el ratón de Apple se carga boca arriba</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razon-raton-apple-carga-boca-arriba-1034691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/creen-haber-descubierto-raton-apple-carga-boca-arriba-2657383.jpg' alt='Creen haber descubierto por qué el ratón de Apple se carga boca arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677'>Instagram te permitiría responder a las historias con mensajes de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Instagram te permitiría responder a las historias con mensajes de voz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513'>¿Cómo funciona Tinder?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='¿Cómo funciona Tinder?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383'>Cambiar los DPIs del ratón me hizo mejor jugador</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raton-gamer-2589533.jpg' alt='Cambiar los DPIs del ratón me hizo mejor jugador' />
     </a>
 </div>
 
