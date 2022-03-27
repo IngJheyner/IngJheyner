@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909'>45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nilox-x7-2655655.jpg' alt='45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689'>La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cecotec-cecofry-compact-black-2414827.jpg' alt='La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595'>Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái</a></h4>
     <a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/museum-future-2657185.jpg' alt='Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-aplicaciones-jardineria-telefonos-android-1031485'>Las 5 mejores aplicaciones de jardinería para teléfonos Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-aplicaciones-jardineria-telefonos-android-1031485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jardin-2651317.jpg' alt='Las 5 mejores aplicaciones de jardinería para teléfonos Android' />
     </a>
 </div>
 
