@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703'>La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-protagonista-oscar-cuanto-pesa-estatuilla-hecha-cuanto-te-dan-venden-2657405.jpg' alt='La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bici-plegable-2657045.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675'>Aparece un mensaje misterioso a algunos usuarios de Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Aparece un mensaje misterioso a algunos usuarios de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671'>Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-pavilion-tp01-2001ns-2657359.jpg' alt='Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros' />
     </a>
 </div>
 
