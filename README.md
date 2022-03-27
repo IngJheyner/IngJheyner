@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677'>Instagram te permitiría responder a las historias con mensajes de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Instagram te permitiría responder a las historias con mensajes de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675'>Aparece un mensaje misterioso a algunos usuarios de Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Aparece un mensaje misterioso a algunos usuarios de Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383'>Cambiar los DPIs del ratón me hizo mejor jugador</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raton-gamer-2589533.jpg' alt='Cambiar los DPIs del ratón me hizo mejor jugador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651'>Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-malware-2657285.jpg' alt='Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android' />
     </a>
 </div>
 
