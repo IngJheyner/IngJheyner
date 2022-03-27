@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597'>Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597521.jpg' alt='Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541'>Dónde ver en directo y el horario para no perderte los Premios Óscar 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-ver-directo-horario-no-perderte-premios-oscar-2022-1034541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg' alt='Dónde ver en directo y el horario para no perderte los Premios Óscar 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531'>El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cargador-inalambrico-buscas-telefono-movil-solo-5-euros-ikea-1034531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='El cargador inalámbrico que buscas para tu teléfono móvil a solo 5 euros en IKEA' />
     </a>
 </div>
 
