@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709'>El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ejercito-ruso-destruye-ucrania-museos-ordenadores-raros-mundo-2657429.jpg' alt='El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703'>La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-protagonista-oscar-cuanto-pesa-estatuilla-hecha-cuanto-te-dan-venden-2657405.jpg' alt='La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677'>Instagram te permitiría responder a las historias con mensajes de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitiria-responder-historias-mensajes-voz-1034677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Instagram te permitiría responder a las historias con mensajes de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675'>Aparece un mensaje misterioso a algunos usuarios de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Aparece un mensaje misterioso a algunos usuarios de Android Auto' />
     </a>
 </div>
 
