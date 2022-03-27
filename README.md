@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-ipad-1033483'>Teclados para iPad: mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-ipad-1033483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-pro-teclado-2655321.jpg' alt='Teclados para iPad: mejores modelos que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689'>La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-barata-arrasa-ventas-espanola-vuelve-caer-debajo-50-euros-1032689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cecotec-cecofry-compact-black-2414827.jpg' alt='La freidora de aire barata que arrasa en ventas es española y vuelve a caer por debajo de los 50 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-1033943'>Así es Castle Craig, el primer centro de rehabilitación para adictos a las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-1033943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/castle-craig-primer-centro-rehabilitacion-adictos-criptomonedas-2655717.jpg' alt='Así es Castle Craig, el primer centro de rehabilitación para adictos a las criptomonedas' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejora-vida-bateria-portatil-limites-carga-misma-1027681'>Mejora la vida de la batería de tu portátil con límites en la carga de la misma</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/mejora-vida-bateria-portatil-limites-carga-misma-1027681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bateria-ordenador-portatil-2644399.jpg' alt='Mejora la vida de la batería de tu portátil con límites en la carga de la misma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593'>Esta empresa quiere que sientas dolor real en el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/firstvr-2657169.jpg' alt='Esta empresa quiere que sientas dolor real en el metaverso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597'>Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tableta-realme-pad-moda-superventas-ahora-oferta-159-euros-1034597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597521.jpg' alt='Esta tableta realme Pad está de moda y es un superventas y ahora en oferta a 159 euros' />
+    <h4><a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595'>Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái</a></h4>
+    <a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/museum-future-2657185.jpg' alt='Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587'>Ya se puede comer paella en la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-puede-comer-paella-estacion-espacial-internacional-1034587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puede-comer-paella-estacion-espacial-internacional-2657159.jpg' alt='Ya se puede comer paella en la Estación Espacial Internacional' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-aplicaciones-jardineria-telefonos-android-1031485'>Las 5 mejores aplicaciones de jardinería para teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-aplicaciones-jardineria-telefonos-android-1031485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jardin-2651317.jpg' alt='Las 5 mejores aplicaciones de jardinería para teléfonos Android' />
     </a>
 </div>
 
