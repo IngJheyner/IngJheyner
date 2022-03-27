@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675'>Aparece un mensaje misterioso a algunos usuarios de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aparece-mensaje-misterioso-algunos-usuarios-android-auto-1034675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Aparece un mensaje misterioso a algunos usuarios de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671'>Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-16-gb-ram-i5-windows-10-perfecto-trabajar-casa-ahora-amazon-tiene-oferta-609-euros-1034671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-pavilion-tp01-2001ns-2657359.jpg' alt='Este PC con 16 GB de RAM, i5 y Windows 10 es perfecto para trabajar en casa y ahora Amazon lo tiene en oferta por 609 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513'>¿Cómo funciona Tinder?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-tinder-1031513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tinder-2222567.jpg' alt='¿Cómo funciona Tinder?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383'>Cambiar los DPIs del ratón me hizo mejor jugador</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/cambiar-dpis-raton-me-hizo-mejor-jugador-997383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raton-gamer-2589533.jpg' alt='Cambiar los DPIs del ratón me hizo mejor jugador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651'>Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/encuentran-malware-disfrazado-billeteras-criptomonedas-robar-bitcoin-usuarios-ios-android-1034651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-malware-2657285.jpg' alt='Encuentran malware disfrazado de billeteras de criptomonedas para robar Bitcoin a usuarios de iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739'>Razer Blade 17 con RTX 3080 Ti, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-blade-17-rtx-3080-ti-review-opinion-1032739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-razer-blade-17-2657153.jpg' alt='Razer Blade 17 con RTX 3080 Ti, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-comedia-espanola-todo-mundo-visto-apenas-envejecido-1031625'>Las 6 series de comedia española que todo el mundo ha visto (y apenas han envejecido)</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-comedia-espanola-todo-mundo-visto-apenas-envejecido-1031625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camera-cafe-2651729.jpg' alt='Las 6 series de comedia española que todo el mundo ha visto (y apenas han envejecido)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637'>Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-descargues-recuerdos-robot-humanoide-estan-fabricando-1034637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Elon Musk quiere que descargues tus recuerdos en un robot humanoide que están fabricando' />
     </a>
 </div>
 
