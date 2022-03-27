@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525'>Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quesero-arregla-reloj-iglesia-1033525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/expertos-piden-60000-euros-arreglar-reloj-iglesia-quesero-pueblo-arregla-gratis-lata-lubricante-2655003.jpg' alt='Expertos piden 60.000 euros por arreglar el reloj de la iglesia y el quesero del pueblo lo arregla gratis con una lata de lubricante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909'>45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata</a></h4>
     <a href='https://computerhoy.com/noticias/motor/45-km-bateria-250w-potencia-bici-electrica-sirve-todo-amazon-vende-200eu-barata-1033909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nilox-x7-2655655.jpg' alt='45 km de batería y 250W de potencia: esta bici eléctrica sirve para todo y Amazon la vende 200€ más barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593'>Esta empresa quiere que sientas dolor real en el metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresa-quiere-sientas-dolor-real-metaverso-1034593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/firstvr-2657169.jpg' alt='Esta empresa quiere que sientas dolor real en el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595'>Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái</a></h4>
-    <a href='https://computerhoy.com/noticias/life/museo-futuro-ya-puedes-visitar-presente-dubai-1034595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/museum-future-2657185.jpg' alt='Este es el Museo del Futuro, y ya lo puedes visitar en el presente en Dubái' />
     </a>
 </div>
 
