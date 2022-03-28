@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071'>100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/obligatorio-llevar-parabrisas-pegatina-itv-etiqueta-medioambiental-dgt-1035135'>¿Es obligatorio llevar en el parabrisas la pegatina de la ITV y la etiqueta medioambiental de la DGT?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/obligatorio-llevar-parabrisas-pegatina-itv-etiqueta-medioambiental-dgt-1035135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg' alt='¿Es obligatorio llevar en el parabrisas la pegatina de la ITV y la etiqueta medioambiental de la DGT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cementerio-virtual-productos-abandonados-microsoft-1035065'>Este es el cementerio virtual de productos abandonados por Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cementerio-virtual-productos-abandonados-microsoft-1035065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/killed-microsoft-2657943.jpg' alt='Este es el cementerio virtual de productos abandonados por Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063'>Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290609.jpg' alt='Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023'>OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/one-plus-10r-2657821.jpg' alt='OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977'>Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gamesir-t3-2655755.jpg' alt='Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/todos-productos-empresas-elon-musk-puedes-comprar-ademas-tesla-1035029'>Todos los productos de las empresas de Elon Musk que puedes comprar, además de un Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/todos-productos-empresas-elon-musk-puedes-comprar-ademas-tesla-1035029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Todos los productos de las empresas de Elon Musk que puedes comprar, además de un Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-ganadores-oscar-2022-coda-dune-will-smith-jessica-chastain-1035061'>Estos son los ganadores de los Óscar 2022: CODA, Dune, Will Smith, Jessica Chastain...</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-ganadores-oscar-2022-coda-dune-will-smith-jessica-chastain-1035061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-oscar-2022-2657723.jpg' alt='Estos son los ganadores de los Óscar 2022: CODA, Dune, Will Smith, Jessica Chastain...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015'>Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oscar-2657797.jpg' alt='Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película' />
     </a>
 </div>
 
