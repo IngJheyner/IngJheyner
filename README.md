@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263'>El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N</a></h4>
+    <a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-2658277.jpg' alt='El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-1035239'>Garmin prepara un smartwatch con funcionalidades únicas para pilotos de avión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-1035239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-2658149.jpg' alt='Garmin prepara un smartwatch con funcionalidades únicas para pilotos de avión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229'>A qué edad me puedo jubilar</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pareja-jubilados-velero-2463201.jpg' alt='A qué edad me puedo jubilar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-test-antigenos-1035177'>¿Cómo funciona un test de antígenos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-funciona-test-antigenos-1035177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='¿Cómo funciona un test de antígenos?' />
     </a>
 </div>
 
