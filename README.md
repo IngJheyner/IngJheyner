@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229'>A qué edad me puedo jubilar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pareja-jubilados-velero-2463201.jpg' alt='A qué edad me puedo jubilar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-test-antigenos-1035177'>¿Cómo funciona un test de antígenos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-funciona-test-antigenos-1035177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/test-antigenos-2564439.jpg' alt='¿Cómo funciona un test de antígenos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vitroceramica-robot-cocina-consume-menos-ahora-precio-luz-disparado-1035195'>Vitrocerámica o robot de cocina: ¿qué consume menos ahora que el precio de la luz está disparado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vitroceramica-robot-cocina-consume-menos-ahora-precio-luz-disparado-1035195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_0.jpg' alt='Vitrocerámica o robot de cocina: ¿qué consume menos ahora que el precio de la luz está disparado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/17track-mejores-paginas-rastrear-pedidos-aliexpress-otras-tiendas-internacionales-899069'>17track y las mejores páginas para rastrear tus pedidos de AliExpress y otras tiendas internacionales</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/17track-mejores-paginas-rastrear-pedidos-aliexpress-otras-tiendas-internacionales-899069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/seguimiento-paquetes-2408135.jpg' alt='17track y las mejores páginas para rastrear tus pedidos de AliExpress y otras tiendas internacionales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071'>100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/obligatorio-llevar-parabrisas-pegatina-itv-etiqueta-medioambiental-dgt-1035135'>¿Es obligatorio llevar en el parabrisas la pegatina de la ITV y la etiqueta medioambiental de la DGT?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/obligatorio-llevar-parabrisas-pegatina-itv-etiqueta-medioambiental-dgt-1035135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg' alt='¿Es obligatorio llevar en el parabrisas la pegatina de la ITV y la etiqueta medioambiental de la DGT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cementerio-virtual-productos-abandonados-microsoft-1035065'>Este es el cementerio virtual de productos abandonados por Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cementerio-virtual-productos-abandonados-microsoft-1035065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/killed-microsoft-2657943.jpg' alt='Este es el cementerio virtual de productos abandonados por Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063'>Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290609.jpg' alt='Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn' />
     </a>
 </div>
 
