@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403'>Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091'>Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/miercoles-addmas-familia-addams-2121473.jpg' alt='Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413'>Elon Musk podría convertirse en el primer billonario del mundo en 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Elon Musk podría convertirse en el primer billonario del mundo en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409'>Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor</a></h4>
     <a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407'>Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-revela-ceo-axel-springer-tres-miedos-existenciales-cree-pueden-acabar-humanidad-2658443.jpg' alt='Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-no-debes-llevar-auriculares-ear-todo-dia-1035365'>Los motivos por los que no debes llevar auriculares in-ear todo el día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivos-no-debes-llevar-auriculares-ear-todo-dia-1035365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-inalambricos-lidl-2557347.jpg' alt='Los motivos por los que no debes llevar auriculares in-ear todo el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bill-murray-anecdotas-coleccion-nft-1035313'>Bill Murray contará anécdotas de su excéntrica vida a través de una colección de NFTs</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bill-murray-anecdotas-coleccion-nft-1035313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/alberto-abad-bill-murray-torreznos-soria-2482075.jpg' alt='Bill Murray contará anécdotas de su excéntrica vida a través de una colección de NFTs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/3-mejores-motores-ha-fabricado-renault-1035085'>Los 3 mejores motores que ha fabricado Renault</a></h4>
-    <a href='https://computerhoy.com/listas/motor/3-mejores-motores-ha-fabricado-renault-1035085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/renault-5-maxi-turbo-jean-ragnotti-2423887.jpg' alt='Los 3 mejores motores que ha fabricado Renault' />
     </a>
 </div>
 
