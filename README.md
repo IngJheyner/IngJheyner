@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977'>Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gamesir-t3-2655755.jpg' alt='Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/todos-productos-empresas-elon-musk-puedes-comprar-ademas-tesla-1035029'>Todos los productos de las empresas de Elon Musk que puedes comprar, además de un Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/todos-productos-empresas-elon-musk-puedes-comprar-ademas-tesla-1035029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Todos los productos de las empresas de Elon Musk que puedes comprar, además de un Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-ganadores-oscar-2022-coda-dune-will-smith-jessica-chastain-1035061'>Estos son los ganadores de los Óscar 2022: CODA, Dune, Will Smith, Jessica Chastain...</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-ganadores-oscar-2022-coda-dune-will-smith-jessica-chastain-1035061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-oscar-2022-2657723.jpg' alt='Estos son los ganadores de los Óscar 2022: CODA, Dune, Will Smith, Jessica Chastain...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015'>Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oscar-2657797.jpg' alt='Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957'>Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/goldenfir-ssd-2655721.jpg' alt='Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hacer-resto-fresas-cuando-encuentras-mohosa-1033975'>Qué hacer con el resto de fresas cuando encuentras una mohosa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hacer-resto-fresas-cuando-encuentras-mohosa-1033975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fresa-moho-2655753.jpg' alt='Qué hacer con el resto de fresas cuando encuentras una mohosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/5-coches-motor-bmw-aunque-pocos-sepan-1033969'>5 coches que tienen un motor BMW, aunque pocos lo sepan</a></h4>
-    <a href='https://computerhoy.com/listas/motor/5-coches-motor-bmw-aunque-pocos-sepan-1033969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mclaren-f1-superdeportivo-concebido-servilleta-2444871.jpg' alt='5 coches que tienen un motor BMW, aunque pocos lo sepan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1034983'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1034983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2657721.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717'>Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicelta-electrica-montana-2657471.jpg' alt='Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay' />
     </a>
 </div>
 
