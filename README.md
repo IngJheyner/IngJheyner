@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453'>El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ransomware-2108293.jpg' alt='El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437'>El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-2658555.jpg' alt='El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403'>Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091'>Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/miercoles-addmas-familia-addams-2121473.jpg' alt='Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton' />
     </a>
 </div>
 
