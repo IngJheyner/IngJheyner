@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457'>La luz para bici que alumbra como la de un coche (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luz-bici-alumbra-como-coche-2658609.jpg' alt='La luz para bici que alumbra como la de un coche (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453'>El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ransomware-2108293.jpg' alt='El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435'>16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403'>Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung' />
     </a>
 </div>
 
