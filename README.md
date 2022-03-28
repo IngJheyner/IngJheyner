@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/17track-mejores-paginas-rastrear-pedidos-aliexpress-otras-tiendas-internacionales-899069'>17track y las mejores páginas para rastrear tus pedidos de AliExpress y otras tiendas internacionales</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/17track-mejores-paginas-rastrear-pedidos-aliexpress-otras-tiendas-internacionales-899069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/seguimiento-paquetes-2408135.jpg' alt='17track y las mejores páginas para rastrear tus pedidos de AliExpress y otras tiendas internacionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071'>100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/100-modos-deportivos-14-dias-bateria-smartwatch-huawei-rompe-record-precio-199eu-1034071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/huawei-watch-gt-3-2549257.jpg' alt='100 modos deportivos y 14 días de batería: este smartwatch de Huawei rompe récord de precio por 199€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063'>Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/miles-imagenes-generadas-ordenador-empiezan-poblar-perfiles-linkedin-1035063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290609.jpg' alt='Miles de imágenes generadas por ordenador empiezan a poblar perfiles de LinkedIn' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023'>OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/one-plus-10r-2657821.jpg' alt='OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones' />
     </a>
 </div>
 
