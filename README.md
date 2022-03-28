@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023'>OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-saliendo-horno-ya-conocemos-especificaciones-1035023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/one-plus-10r-2657821.jpg' alt='OnePlus 10R está saliendo del horno y ya conocemos sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977'>Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juega-android-windows-mando-inalambrico-low-cost-20-euros-ganga-ideal-gamers-1033977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gamesir-t3-2655755.jpg' alt='Juega en Android y en Windows con este mando inalámbrico low cost de 20 euros, una ganga ideal para gamers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015'>Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-hace-historia-oscar-primera-plataforma-ganar-categoria-mejor-pelicula-1035015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oscar-2657797.jpg' alt='Apple TV+ hace historia en los Oscar y es la primera plataforma en ganar la categoría de Mejor película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957'>Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/goldenfir-ssd-2655721.jpg' alt='Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa' />
     </a>
 </div>
 
