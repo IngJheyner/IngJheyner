@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437'>El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-2658555.jpg' alt='El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431'>Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091'>Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/christina-ricci-ha-sumado-serie-wednesday-tim-burton-1035091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/miercoles-addmas-familia-addams-2121473.jpg' alt='Christina Ricci se ha sumado a la serie Wednesday, de Tim Burton' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413'>Elon Musk podría convertirse en el primer billonario del mundo en 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Elon Musk podría convertirse en el primer billonario del mundo en 2024' />
     </a>
 </div>
 
