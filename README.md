@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431'>Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435'>16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403'>Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-acusada-hacer-trampas-benchmarks-xiaomi-11-tal-como-hizo-samsung-1035403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-xiaomi-11-lite-new-edition-2524333.jpg' alt='Xiaomi acusada de hacer trampas en benchmarks con sus Xiaomi 11, tal y como hizo Samsung' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413'>Elon Musk podría convertirse en el primer billonario del mundo en 2024</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-podria-convertirse-primer-billonario-mundo-2024-1035413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Elon Musk podría convertirse en el primer billonario del mundo en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409'>Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407'>Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-revela-ceo-axel-springer-tres-miedos-existenciales-cree-pueden-acabar-humanidad-2658443.jpg' alt='Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad' />
     </a>
 </div>
 
