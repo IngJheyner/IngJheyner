@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-cupones-aliexpress-12-aniversario-1035139'>AliExpress cumple 12 años y hay un festival de cupones descuento y estos son los mejores productos con los que puedes usarlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-cupones-aliexpress-12-aniversario-1035139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='AliExpress cumple 12 años y hay un festival de cupones descuento y estos son los mejores productos con los que puedes usarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-tiene-nuevo-plegable-manos-competiria-galaxy-z-fold-3-samsung-1035363'>Xiaomi ya tiene un nuevo plegable entre manos y que competiría con el Galaxy Z Fold 3 de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-tiene-nuevo-plegable-manos-competiria-galaxy-z-fold-3-samsung-1035363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Xiaomi ya tiene un nuevo plegable entre manos y que competiría con el Galaxy Z Fold 3 de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341'>Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-criptomoneda-entrar-mercado-apecoin-causando-gran-sensacion-inversores-1035281'>La última criptomoneda en entrar al mercado, la ApeCoin, está causando gran sensación entre los inversores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-criptomoneda-entrar-mercado-apecoin-causando-gran-sensacion-inversores-1035281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apecoin-2658213.jpg' alt='La última criptomoneda en entrar al mercado, la ApeCoin, está causando gran sensación entre los inversores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263'>El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N</a></h4>
-    <a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-2658277.jpg' alt='El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N' />
     </a>
 </div>
 
