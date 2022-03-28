@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717'>Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicelta-electrica-montana-2657471.jpg' alt='Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/subnado-propulsor-tipo-iron-man-moverte-agua-video-1034979'>Subnado, el propulsor tipo Iron Man para moverte por el agua (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/subnado-propulsor-tipo-iron-man-moverte-agua-video-1034979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/subnado-propulsor-tipo-iron-man-moverte-agua-2657717.jpg' alt='Subnado, el propulsor tipo Iron Man para moverte por el agua (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021'>Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/octo-finissimo-ultra-reloj-mecanico-fino-mundo-tiene-codigo-qr-2655855.jpg' alt='Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719'>Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-2657457.jpg' alt='Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709'>El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ruso-destruye-ucrania-museo-ordenadores-raros-club-8-bit-1034709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ejercito-ruso-destruye-ucrania-museos-ordenadores-raros-mundo-2657429.jpg' alt='El ejército ruso destruye en Ucrania uno de los museos de ordenadores más raros del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703'>La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/curiosidades-estatuilla-oscar-1034703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-protagonista-oscar-cuanto-pesa-estatuilla-hecha-cuanto-te-dan-venden-2657405.jpg' alt='La gran protagonista de los Oscar: de qué está hecha la estatuilla, por qué lleva una espada, y cuánto te dan si la vendes' />
     </a>
 </div>
 
