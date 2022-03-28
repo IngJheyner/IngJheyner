@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-cupones-aliexpress-12-aniversario-1035139'>AliExpress cumple 12 años y hay un festival de cupones descuento y estos son los mejores productos con los que puedes usarlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-cupones-aliexpress-12-aniversario-1035139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='AliExpress cumple 12 años y hay un festival de cupones descuento y estos son los mejores productos con los que puedes usarlos' />
+    <h4><a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409'>Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reduflacion-tecnica-disimular-subida-precios-supermercados-enganar-consumidor-1035409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg' alt='Reduflación: la técnica para disimular la subida de precios en los supermercados y engañar al consumidor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-tiene-nuevo-plegable-manos-competiria-galaxy-z-fold-3-samsung-1035363'>Xiaomi ya tiene un nuevo plegable entre manos y que competiría con el Galaxy Z Fold 3 de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-tiene-nuevo-plegable-manos-competiria-galaxy-z-fold-3-samsung-1035363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Xiaomi ya tiene un nuevo plegable entre manos y que competiría con el Galaxy Z Fold 3 de Samsung' />
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407'>Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-miedos-existenciales-fin-humanidad-1035407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-revela-ceo-axel-springer-tres-miedos-existenciales-cree-pueden-acabar-humanidad-2658443.jpg' alt='Elon Musk revela al CEO de Axel Springer sus tres miedos existenciales que pueden acabar con la Humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341'>Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-no-debes-llevar-auriculares-ear-todo-dia-1035365'>Los motivos por los que no debes llevar auriculares in-ear todo el día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivos-no-debes-llevar-auriculares-ear-todo-dia-1035365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/auriculares-inalambricos-lidl-2557347.jpg' alt='Los motivos por los que no debes llevar auriculares in-ear todo el día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-actualiza-m8-smart-monitor-cierto-toque-apple-1035329'>Samsung actualiza su M8 Smart Monitor con un cierto toque Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-actualiza-m8-smart-monitor-cierto-toque-apple-1035329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smart-monitor-samsung-m8-2658327.jpg' alt='Samsung actualiza su M8 Smart Monitor con un cierto toque Apple' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bill-murray-anecdotas-coleccion-nft-1035313'>Bill Murray contará anécdotas de su excéntrica vida a través de una colección de NFTs</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bill-murray-anecdotas-coleccion-nft-1035313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/alberto-abad-bill-murray-torreznos-soria-2482075.jpg' alt='Bill Murray contará anécdotas de su excéntrica vida a través de una colección de NFTs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
+    <h4><a href='https://computerhoy.com/listas/motor/3-mejores-motores-ha-fabricado-renault-1035085'>Los 3 mejores motores que ha fabricado Renault</a></h4>
+    <a href='https://computerhoy.com/listas/motor/3-mejores-motores-ha-fabricado-renault-1035085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/renault-5-maxi-turbo-jean-ragnotti-2423887.jpg' alt='Los 3 mejores motores que ha fabricado Renault' />
     </a>
 </div>
 
