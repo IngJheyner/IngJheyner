@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021'>Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR asociado a un NFT</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021'>Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/octo-finissimo-ultra-reloj-mecanico-fino-mundo-tiene-codigo-qr-2655855.jpg' alt='Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR asociado a un NFT' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/octo-finissimo-ultra-reloj-mecanico-fino-mundo-tiene-codigo-qr-2655855.jpg' alt='Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT' />
     </a>
 </div>
 
