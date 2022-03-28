@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341'>Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-1035341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='Cámara de 200 megapíxeles, carga rápida de 125 W y mucho más para la bestia que prepara Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-actualiza-m8-smart-monitor-cierto-toque-apple-1035329'>Samsung actualiza su M8 Smart Monitor con un cierto toque Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-actualiza-m8-smart-monitor-cierto-toque-apple-1035329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smart-monitor-samsung-m8-2658327.jpg' alt='Samsung actualiza su M8 Smart Monitor con un cierto toque Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283'>Los 10 trucos caseros que cambiarán la manera de usar tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-caseros-cambiaran-manera-usar-movil-1019283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Los 10 trucos caseros que cambiarán la manera de usar tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-criptomoneda-entrar-mercado-apecoin-causando-gran-sensacion-inversores-1035281'>La última criptomoneda en entrar al mercado, la ApeCoin, está causando gran sensación entre los inversores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-criptomoneda-entrar-mercado-apecoin-causando-gran-sensacion-inversores-1035281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apecoin-2658213.jpg' alt='La última criptomoneda en entrar al mercado, la ApeCoin, está causando gran sensación entre los inversores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263'>El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N</a></h4>
     <a href='https://computerhoy.com/noticias/plegable-vivo-x-fold-presenta-oficialmente-11-abril-como-competencia-galaxy-fold-z-3-oppo-find-n-1035263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-2658277.jpg' alt='El plegable vivo X Fold se presenta oficialmente el 11 de abril como competencia de Galaxy Z Fold 3 y oppo Find N' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-1035239'>Garmin prepara un smartwatch con funcionalidades únicas para pilotos de avión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-1035239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-prepara-smartwatch-funcionalidades-unicas-pilotos-avion-2658149.jpg' alt='Garmin prepara un smartwatch con funcionalidades únicas para pilotos de avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-revienta-precios-pone-aprietos-xiaomi-4gb-ram-5000-mah-bateria-menos-100-euros-1035033'>Este móvil realme revienta precios y pone en aprietos a Xiaomi: 4GB de RAM, 5.000 mAh de batería y por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-revienta-precios-pone-aprietos-xiaomi-4gb-ram-5000-mah-bateria-menos-100-euros-1035033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/realme-c21-analisis-2336175.jpg' alt='Este móvil realme revienta precios y pone en aprietos a Xiaomi: 4GB de RAM, 5.000 mAh de batería y por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-objetivo-telescopio-espacial-james-webb-secreto-nasa-no-quiere-revelar-1035251'>El primer objetivo del telescopio espacial James Webb es un secreto que la NASA no quiere revelar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-objetivo-telescopio-espacial-james-webb-secreto-nasa-no-quiere-revelar-1035251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/james-webb-2582229.jpg' alt='El primer objetivo del telescopio espacial James Webb es un secreto que la NASA no quiere revelar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229'>A qué edad me puedo jubilar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-me-puedo-jubilar-1035229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pareja-jubilados-velero-2463201.jpg' alt='A qué edad me puedo jubilar' />
     </a>
 </div>
 
