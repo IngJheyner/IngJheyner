@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957'>Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/resucita-viejo-portatil-solo-16-euros-ssd-barato-ademas-te-envian-gratis-casa-1033957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/goldenfir-ssd-2655721.jpg' alt='Resucita tu viejo portátil por solo 16 euros con este SSD barato que además te envían gratis a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hacer-resto-fresas-cuando-encuentras-mohosa-1033975'>Qué hacer con el resto de fresas cuando encuentras una mohosa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hacer-resto-fresas-cuando-encuentras-mohosa-1033975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fresa-moho-2655753.jpg' alt='Qué hacer con el resto de fresas cuando encuentras una mohosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/motor/5-coches-motor-bmw-aunque-pocos-sepan-1033969'>5 coches que tienen un motor BMW, aunque pocos lo sepan</a></h4>
+    <a href='https://computerhoy.com/listas/motor/5-coches-motor-bmw-aunque-pocos-sepan-1033969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mclaren-f1-superdeportivo-concebido-servilleta-2444871.jpg' alt='5 coches que tienen un motor BMW, aunque pocos lo sepan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1034983'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1034983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2657721.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717'>Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-bicis-electricas-modelos-ebay-1034717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bicicelta-electrica-montana-2657471.jpg' alt='Liquidación en bicis eléctrica: 15% de descuento extra en todos los modelos en Ebay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/subnado-propulsor-tipo-iron-man-moverte-agua-video-1034979'>Subnado, el propulsor tipo Iron Man para moverte por el agua (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/subnado-propulsor-tipo-iron-man-moverte-agua-video-1034979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/subnado-propulsor-tipo-iron-man-moverte-agua-2657717.jpg' alt='Subnado, el propulsor tipo Iron Man para moverte por el agua (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021'>Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/octo-finissimo-ultra-bulgari-reloj-mecanico-mas-fino-mundo-codigo-qr-nft-1034021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/octo-finissimo-ultra-reloj-mecanico-fino-mundo-tiene-codigo-qr-2655855.jpg' alt='Octo Finissimo Ultra de Bulgari, el reloj mecánico más fino del mundo tiene un código QR con un NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horridus-triceratops-completo-mejor-conservado-1034725'>Se presenta Horridus, el triceratops más completo y mejor conservado que existe</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horridus-triceratops-completo-mejor-conservado-1034725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/presenta-horridus-triceratops-completo-mejor-conservado-existe-2657479.jpg' alt='Se presenta Horridus, el triceratops más completo y mejor conservado que existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719'>Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-1034719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/llega-buen-tiempo-hora-afrontar-realidad-bascula-medidor-grasa-otros-13-indices-corporales-solo-20-euros-2657457.jpg' alt='Llega el buen tiempo, es hora de afrontar la realidad: báscula con medidor de grasa y otros 13 índices corporales, solo 20 euros' />
     </a>
 </div>
 
