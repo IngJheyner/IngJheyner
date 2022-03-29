@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105'>Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-temperatura-corporal-normal-persona-1036087'>Cuál es la temperatura corporal normal de una persona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-temperatura-corporal-normal-persona-1036087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/termometro-2659507.jpg' alt='Cuál es la temperatura corporal normal de una persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091'>Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-pro-5g-note-11s-5g-redmi-10-5g-son-ultimos-telefonos-xiaomi-llegar-espana-1036061'>Redmi Note 11 Pro+ 5G, Note 11S 5G y Redmi 10 5G: así son los últimos teléfonos de Xiaomi en llegar a España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-pro-5g-note-11s-5g-redmi-10-5g-son-ultimos-telefonos-xiaomi-llegar-espana-1036061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-2659441.jpg' alt='Redmi Note 11 Pro+ 5G, Note 11S 5G y Redmi 10 5G: así son los últimos teléfonos de Xiaomi en llegar a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989'>Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-ultra-2559445.jpg' alt='Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-dazn-alcanzan-acuerdo-laliga-cuesta-1400-millones-euros-1035991'>Movistar Plus+ y DAZN alcanzan un acuerdo por LaLiga que cuesta 1.400 millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-dazn-alcanzan-acuerdo-laliga-cuesta-1400-millones-euros-1035991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Movistar Plus+ y DAZN alcanzan un acuerdo por LaLiga que cuesta 1.400 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-aliexpress-plaza-codigos-descuentos-1035891'>Batallón de ofertas de Xiaomi en AliExpress Plaza con estos códigos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-aliexpress-plaza-codigos-descuentos-1035891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='Batallón de ofertas de Xiaomi en AliExpress Plaza con estos códigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-donar-sangre-1035939'>Cada cuánto tiempo se puede donar sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-donar-sangre-1035939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/04/99481-ue-justificaria-prohibicion-donar-sangre-gays.jpg' alt='Cada cuánto tiempo se puede donar sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-gasolineras-han-decidido-rebajar-precios-descuentos-25-centimos-litro-1035943'>Estas son las gasolineras que han decidido rebajar precios: descuentos de hasta 25 céntimos por litro</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-gasolineras-han-decidido-rebajar-precios-descuentos-25-centimos-litro-1035943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='Estas son las gasolineras que han decidido rebajar precios: descuentos de hasta 25 céntimos por litro' />
     </a>
 </div>
 
