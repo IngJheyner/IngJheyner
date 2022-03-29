@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2658845.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227'>AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/airpods-pro-vs-xiaomi-buds-3t-pro-2658377.jpg' alt='AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459'>En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/diferencian-platanos-bananas-cual-nutritivo-2658611.jpg' alt='En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453'>El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ransomware-2108293.jpg' alt='El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437'>El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-1035437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ipad-mini-tendria-rival-dentro-poco-llegaria-mano-realme-2658555.jpg' alt='El iPad Mini tendría un rival dentro de poco y llegaría de la mano de realme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431'>Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS' />
     </a>
 </div>
 
