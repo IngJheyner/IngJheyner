@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055'>Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-anuncia-hay-5000-mundos-fuera-sistema-solar-1035111'>La NASA anuncia que hay más de 5.000 mundos fuera del Sistema Solar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-anuncia-hay-5000-mundos-fuera-sistema-solar-1035111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='La NASA anuncia que hay más de 5.000 mundos fuera del Sistema Solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107'>Cuánto de nuestro salario dedicamos a llenar el depósito</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2652959.jpg' alt='Cuánto de nuestro salario dedicamos a llenar el depósito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2658845.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227'>AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/airpods-pro-vs-xiaomi-buds-3t-pro-2658377.jpg' alt='AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459'>En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/diferencian-platanos-bananas-cual-nutritivo-2658611.jpg' alt='En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457'>La luz para bici que alumbra como la de un coche (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luz-bici-alumbra-como-coche-2658609.jpg' alt='La luz para bici que alumbra como la de un coche (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453'>El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-rapido-mundo-lockbit-encripta-50-gb-4-minutos-1035453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ransomware-2108293.jpg' alt='El ransomware más rápido del mundo da miedo: encripta 50 GB de datos en menos de 4 minutos' />
     </a>
 </div>
 
