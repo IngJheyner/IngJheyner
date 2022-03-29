@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983'>Jared Leto habla sobre la próxima película de Tron</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jared-leto-2653227.jpg' alt='Jared Leto habla sobre la próxima película de Tron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-claudica-modifica-fin-opciones-controvertidas-1036153'>Windows 11 claudica y modifica al fin una de sus opciones más controvertidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-claudica-modifica-fin-opciones-controvertidas-1036153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Windows 11 claudica y modifica al fin una de sus opciones más controvertidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151'>Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145'>Instagram está caída en todo el mundo y nadie puede acceder a la red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram está caída en todo el mundo y nadie puede acceder a la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-botella-nueva-forma-robar-coche-1036143'>Cuidado con el truco de la botella: la nueva forma de robarte el coche que se ha puesto de moda</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-botella-nueva-forma-robar-coche-1036143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuidado-truco-botella-nueva-forma-robarte-coche-ha-puesto-moda-2659591.jpg' alt='Cuidado con el truco de la botella: la nueva forma de robarte el coche que se ha puesto de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/alpine-a4810-concept-car-funcionara-hidrogeno-1035973'>Alpine A4810 es el concept car que funcionará con hidrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/alpine-a4810-concept-car-funcionara-hidrogeno-1035973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/alpine-a4810-1-2652219.jpg' alt='Alpine A4810 es el concept car que funcionará con hidrógeno' />
     </a>
 </div>
 
