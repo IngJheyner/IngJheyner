@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167'>Accesorio secador, desinfectante y antiolor para zapatos por 52 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-2659623.jpg' alt='Accesorio secador, desinfectante y antiolor para zapatos por 52 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-netflix-abril-nuevas-series-peliculas-desembarcan-plataforma-1036077'>Los estrenos de Netflix en abril: las nuevas series y películas que desembarcan en la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-netflix-abril-nuevas-series-peliculas-desembarcan-plataforma-1036077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-android-2521107.jpg' alt='Los estrenos de Netflix en abril: las nuevas series y películas que desembarcan en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157'>Twitter estaría trabajando en una forma de generar tweets colaborativos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='Twitter estaría trabajando en una forma de generar tweets colaborativos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161'>Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/video-youtube-bate-records-ya-visualizaciones-ha-logrado-24-horas-2659613.jpg' alt='Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983'>Jared Leto habla sobre la próxima película de Tron</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jared-leto-2653227.jpg' alt='Jared Leto habla sobre la próxima película de Tron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-claudica-modifica-fin-opciones-controvertidas-1036153'>Windows 11 claudica y modifica al fin una de sus opciones más controvertidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-claudica-modifica-fin-opciones-controvertidas-1036153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg' alt='Windows 11 claudica y modifica al fin una de sus opciones más controvertidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151'>Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-obligando-usuarios-android-auto-buscar-otras-alternativas-1036147'>Google Maps está obligando a los usuarios de Android Auto a buscar otras alternativas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-obligando-usuarios-android-auto-buscar-otras-alternativas-1036147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Google Maps está obligando a los usuarios de Android Auto a buscar otras alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145'>Instagram está caída en todo el mundo y nadie puede acceder a la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram está caída en todo el mundo y nadie puede acceder a la red social' />
     </a>
 </div>
 
