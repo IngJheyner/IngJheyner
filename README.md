@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-chollos-outlet-lidl-50-descuento-merecen-mucho-pena-1035843'>7 chollos del outlet de Lidl con hasta el 50% de descuento que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-chollos-outlet-lidl-50-descuento-merecen-mucho-pena-1035843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='7 chollos del outlet de Lidl con hasta el 50% de descuento que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/noticias/coche-trafico-te-ordena-detenerte-como-donde-debes-hacerlo-1035895'>Si un coche de Tráfico te ordena detenerte, cómo y dónde debes hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/coche-trafico-te-ordena-detenerte-como-donde-debes-hacerlo-1035895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/policia-controlando-trafico-2603055.jpg' alt='Si un coche de Tráfico te ordena detenerte, cómo y dónde debes hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bizum-pagar-multas-trafico-barcelona-1035875'>Bizum para pagar multas de tráfico en Barcelona</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bizum-pagar-multas-trafico-barcelona-1035875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alternativas-bizum-2393365.jpg' alt='Bizum para pagar multas de tráfico en Barcelona' />
+    <h4><a href='https://computerhoy.com/noticias/motor/como-aplica-20-centimos-descuento-litro-gasolina-diesel-todo-mundo-1035913'>Cómo se aplica los 20 céntimos de descuento por litro de gasolina o diésel para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-aplica-20-centimos-descuento-litro-gasolina-diesel-todo-mundo-1035913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Cómo se aplica los 20 céntimos de descuento por litro de gasolina o diésel para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rode-pasa-mundo-microfono-auriculares-profesionales-nth-100-1035849'>Rode pasa del mundo micrófono a los auriculares profesionales con sus NTH-100 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rode-pasa-mundo-microfono-auriculares-profesionales-nth-100-1035849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rode-nth-100-2659109.jpg' alt='Rode pasa del mundo micrófono a los auriculares profesionales con sus NTH-100 ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tiendas-apps-hay-android-fuera-google-play-892435'>Las mejores tiendas de apps que hay para Android fuera de Google Play</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tiendas-apps-hay-android-fuera-google-play-892435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apps-android-2392893.jpg' alt='Las mejores tiendas de apps que hay para Android fuera de Google Play' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769'>YouTube planea incluir reacciones con emojis en algunas partes de los vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-2658961.jpg' alt='YouTube planea incluir reacciones con emojis en algunas partes de los vídeos' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tinder-como-funciona-aplicacion-ligar-311547'>Qué es Tinder, cómo funciona y trucos de la aplicación para ligar más conocida</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tinder-como-funciona-aplicacion-ligar-311547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tinder-app-2658855.jpg' alt='Qué es Tinder, cómo funciona y trucos de la aplicación para ligar más conocida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079'>Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyector-wanbo-2657847.jpg' alt='Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-son-chollo-freebuds-pro-huawei-estan-oferta-99eu-anc-diseno-premium-1035119'>Los hemos probado y son un chollo: los FreeBuds Pro de Huawei están en oferta por 99€ con ANC y diseño premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-son-chollo-freebuds-pro-huawei-estan-oferta-99eu-anc-diseno-premium-1035119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233889.jpeg' alt='Los hemos probado y son un chollo: los FreeBuds Pro de Huawei están en oferta por 99€ con ANC y diseño premium' />
     </a>
 </div>
 
