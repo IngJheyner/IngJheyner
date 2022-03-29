@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175'>Roban 560 millones de euros en el juego NFT más popular, Axie Infinity</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axie-infinity-criptomoneda-2520305.jpg' alt='Roban 560 millones de euros en el juego NFT más popular, Axie Infinity' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167'>Accesorio secador, desinfectante y antiolor para zapatos por 52 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-2659623.jpg' alt='Accesorio secador, desinfectante y antiolor para zapatos por 52 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161'>Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/video-youtube-bate-records-ya-visualizaciones-ha-logrado-24-horas-2659613.jpg' alt='Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983'>Jared Leto habla sobre la próxima película de Tron</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/jared-leto-habla-proxima-pelicula-tron-1035983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jared-leto-2653227.jpg' alt='Jared Leto habla sobre la próxima película de Tron' />
     </a>
 </div>
 
