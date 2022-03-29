@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769'>YouTube planea incluir reacciones con emojis en algunas partes de los vídeos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-2658961.jpg' alt='YouTube planea incluir reacciones con emojis en algunas partes de los vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079'>Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyector-wanbo-2657847.jpg' alt='Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-importe-casilla-505-imprescindible-solicitar-borrador-renta-2021-22-1035823'>Cómo conseguir el importe de la casilla 505, imprescindible para solicitar el borrador de la Renta 2021/22</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-conseguir-importe-casilla-505-imprescindible-solicitar-borrador-renta-2021-22-1035823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cómo conseguir el importe de la casilla 505, imprescindible para solicitar el borrador de la Renta 2021/22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745'>Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bienvenidos-eden-2658275.jpg' alt='Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715'>Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055'>Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-anuncia-hay-5000-mundos-fuera-sistema-solar-1035111'>La NASA anuncia que hay más de 5.000 mundos fuera del Sistema Solar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-anuncia-hay-5000-mundos-fuera-sistema-solar-1035111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='La NASA anuncia que hay más de 5.000 mundos fuera del Sistema Solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107'>Cuánto de nuestro salario dedicamos a llenar el depósito</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2652959.jpg' alt='Cuánto de nuestro salario dedicamos a llenar el depósito' />
     </a>
 </div>
 
