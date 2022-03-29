@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989'>Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-ultra-2559445.jpg' alt='Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-dazn-alcanzan-acuerdo-laliga-cuesta-1400-millones-euros-1035991'>Movistar Plus+ y DAZN alcanzan un acuerdo por LaLiga que cuesta 1.400 millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-plus-dazn-alcanzan-acuerdo-laliga-cuesta-1400-millones-euros-1035991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='Movistar Plus+ y DAZN alcanzan un acuerdo por LaLiga que cuesta 1.400 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-aliexpress-plaza-codigos-descuentos-1035891'>Batallón de ofertas de Xiaomi en AliExpress Plaza con estos códigos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-aliexpress-plaza-codigos-descuentos-1035891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg' alt='Batallón de ofertas de Xiaomi en AliExpress Plaza con estos códigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-donar-sangre-1035939'>Cada cuánto tiempo se puede donar sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-donar-sangre-1035939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/04/99481-ue-justificaria-prohibicion-donar-sangre-gays.jpg' alt='Cada cuánto tiempo se puede donar sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estas-son-gasolineras-han-decidido-rebajar-precios-descuentos-25-centimos-litro-1035943'>Estas son las gasolineras que han decidido rebajar precios: descuentos de hasta 25 céntimos por litro</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estas-son-gasolineras-han-decidido-rebajar-precios-descuentos-25-centimos-litro-1035943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='Estas son las gasolineras que han decidido rebajar precios: descuentos de hasta 25 céntimos por litro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-acaba-filtrarse-precio-europa-no-te-va-gustar-1035931'>OnePlus 10 Pro, acaba de filtrarse su precio en Europa (y no te va a gustar)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-acaba-filtrarse-precio-europa-no-te-va-gustar-1035931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630073.jpg' alt='OnePlus 10 Pro, acaba de filtrarse su precio en Europa (y no te va a gustar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funcionan-semaforos-ponen-verde-automaticamente-vehiculos-emergencias-1035925'>Así funcionan los semáforos que se ponen en verde automáticamente para los vehículos de emergencias</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funcionan-semaforos-ponen-verde-automaticamente-vehiculos-emergencias-1035925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-2659285.jpg' alt='Así funcionan los semáforos que se ponen en verde automáticamente para los vehículos de emergencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/coche-trafico-te-ordena-detenerte-como-donde-debes-hacerlo-1035895'>Si un coche de Tráfico te ordena detenerte, cómo y dónde debes hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/coche-trafico-te-ordena-detenerte-como-donde-debes-hacerlo-1035895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/policia-controlando-trafico-2603055.jpg' alt='Si un coche de Tráfico te ordena detenerte, cómo y dónde debes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-aplica-20-centimos-descuento-litro-gasolina-diesel-todo-mundo-1035913'>Cómo se aplica los 20 céntimos de descuento por litro de gasolina o diésel para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-aplica-20-centimos-descuento-litro-gasolina-diesel-todo-mundo-1035913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='Cómo se aplica los 20 céntimos de descuento por litro de gasolina o diésel para todo el mundo' />
     </a>
 </div>
 
