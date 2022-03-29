@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745'>Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bienvenidos-eden-2658275.jpg' alt='Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715'>Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055'>Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-ssd-menos-300-euros-portatil-hp-todo-chollo-amazon-1035055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='Con Windows y SSD por menos de 300 euros: este portátil de HP es todo un chollo en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107'>Cuánto de nuestro salario dedicamos a llenar el depósito</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuanto-salario-dedicamos-llenar-deposito-1035107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gasolinera-2652959.jpg' alt='Cuánto de nuestro salario dedicamos a llenar el depósito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1035695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2658845.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227'>AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-vs-xiaomi-buds-3-pro-auriculares-son-mejores-1035227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/airpods-pro-vs-xiaomi-buds-3t-pro-2658377.jpg' alt='AirPods Pro vs Xiaomi Buds 3T Pro: ¿qué auriculares son mejores?' />
     </a>
 </div>
 
