@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459'>En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/diferencias-platanos-bananas-1035459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/diferencian-platanos-bananas-cual-nutritivo-2658611.jpg' alt='En qué se diferencian los plátanos de las bananas, ¿cuál es más nutritivo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457'>La luz para bici que alumbra como la de un coche (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/focus-luz-bici-alumbra-como-coche-1035457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/luz-bici-alumbra-como-coche-2658609.jpg' alt='La luz para bici que alumbra como la de un coche (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431'>Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-1035431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel lanza su nueva bestia de escritorio: 16 núcleos, 24 hilos de procesamiento y hasta 5.50 GHz en el nuevo i9-12900KS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435'>16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-16-oferta-1035435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg' alt='16GB de RAM y altavoz de regalo: este portátil Huawei Matebook baja a 999€ con cupón' />
     </a>
 </div>
 
