@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-huawei-matebook-x-pro-2021-gran-alternativa-macbook-pro-1035163'>5 motivos por los que el Huawei Matebook X Pro (2021) rebajado a 1.399€ es una gran alternativa al MacBook Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-huawei-matebook-x-pro-2021-gran-alternativa-macbook-pro-1035163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416861.jpg' alt='5 motivos por los que el Huawei Matebook X Pro (2021) rebajado a 1.399€ es una gran alternativa al MacBook Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-1036111'>El vivo X Fold se ha filtrado al completo días antes de su presentación oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-1036111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='El vivo X Fold se ha filtrado al completo días antes de su presentación oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105'>Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091'>Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-pro-5g-note-11s-5g-redmi-10-5g-son-ultimos-telefonos-xiaomi-llegar-espana-1036061'>Redmi Note 11 Pro+ 5G, Note 11S 5G y Redmi 10 5G: así son los últimos teléfonos de Xiaomi en llegar a España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-pro-5g-note-11s-5g-redmi-10-5g-son-ultimos-telefonos-xiaomi-llegar-espana-1036061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-2659441.jpg' alt='Redmi Note 11 Pro+ 5G, Note 11S 5G y Redmi 10 5G: así son los últimos teléfonos de Xiaomi en llegar a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989'>Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-prepara-mejora-fotografia-usando-tecnologia-leica-proximo-dispositivo-1035989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-12-ultra-2559445.jpg' alt='Xiaomi prepara una mejora en fotografía usando tecnología Leica en su próximo dispositivo' />
     </a>
 </div>
 
