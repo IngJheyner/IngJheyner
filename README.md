@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-huawei-matebook-x-pro-2021-gran-alternativa-macbook-pro-1035163'>5 motivos por los que el Huawei Matebook X Pro (2021) rebajado a 1.399€ es una gran alternativa al MacBook Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-huawei-matebook-x-pro-2021-gran-alternativa-macbook-pro-1035163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416861.jpg' alt='5 motivos por los que el Huawei Matebook X Pro (2021) rebajado a 1.399€ es una gran alternativa al MacBook Pro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151'>Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-acerca-vida-util-bateria-coche-electrico-1036151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Esto es todo lo que tienes que saber acerca de la vida útil de la batería de un coche eléctrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-1036111'>El vivo X Fold se ha filtrado al completo días antes de su presentación oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-1036111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='El vivo X Fold se ha filtrado al completo días antes de su presentación oficial' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-obligando-usuarios-android-auto-buscar-otras-alternativas-1036147'>Google Maps está obligando a los usuarios de Android Auto a buscar otras alternativas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-obligando-usuarios-android-auto-buscar-otras-alternativas-1036147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Google Maps está obligando a los usuarios de Android Auto a buscar otras alternativas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105'>Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-responde-game-pass-xbox-playstation-plus-llegada-700-juegos-streaming-1036105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sony responde al Game Pass de Xbox con PlayStation Plus y la llegada de 700 juegos en streaming' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145'>Instagram está caída en todo el mundo y nadie puede acceder a la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-caida-todo-mundo-nadie-puede-acceder-red-social-1036145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/instagram-tiktok-2484431.jpg' alt='Instagram está caída en todo el mundo y nadie puede acceder a la red social' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-temperatura-corporal-normal-persona-1036087'>Cuál es la temperatura corporal normal de una persona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-temperatura-corporal-normal-persona-1036087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/termometro-2659507.jpg' alt='Cuál es la temperatura corporal normal de una persona' />
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-botella-nueva-forma-robar-coche-1036143'>Cuidado con el truco de la botella: la nueva forma de robarte el coche que se ha puesto de moda</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-botella-nueva-forma-robar-coche-1036143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cuidado-truco-botella-nueva-forma-robarte-coche-ha-puesto-moda-2659591.jpg' alt='Cuidado con el truco de la botella: la nueva forma de robarte el coche que se ha puesto de moda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091'>Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegaran-breve-instagram-mejoraran-otros-como-interactuamos-stories-1036091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Las novedades que llegarán en breve a Instagram y mejorarán, entre otros, cómo interactuamos con las stories' />
+    <h4><a href='https://computerhoy.com/noticias/motor/alpine-a4810-concept-car-funcionara-hidrogeno-1035973'>Alpine A4810 es el concept car que funcionará con hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/alpine-a4810-concept-car-funcionara-hidrogeno-1035973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/alpine-a4810-1-2652219.jpg' alt='Alpine A4810 es el concept car que funcionará con hidrógeno' />
     </a>
 </div>
 
