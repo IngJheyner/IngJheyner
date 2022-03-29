@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-chollos-outlet-lidl-50-descuento-merecen-mucho-pena-1035843'>7 chollos del outlet de Lidl con hasta el 50% de descuento que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-chollos-outlet-lidl-50-descuento-merecen-mucho-pena-1035843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-lidl-2537291.jpg' alt='7 chollos del outlet de Lidl con hasta el 50% de descuento que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bizum-pagar-multas-trafico-barcelona-1035875'>Bizum para pagar multas de tráfico en Barcelona</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bizum-pagar-multas-trafico-barcelona-1035875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/alternativas-bizum-2393365.jpg' alt='Bizum para pagar multas de tráfico en Barcelona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rode-pasa-mundo-microfono-auriculares-profesionales-nth-100-1035849'>Rode pasa del mundo micrófono a los auriculares profesionales con sus NTH-100 </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rode-pasa-mundo-microfono-auriculares-profesionales-nth-100-1035849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rode-nth-100-2659109.jpg' alt='Rode pasa del mundo micrófono a los auriculares profesionales con sus NTH-100 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769'>YouTube planea incluir reacciones con emojis en algunas partes de los vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-1035769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-planea-incluir-reacciones-emojis-algunas-partes-videos-2658961.jpg' alt='YouTube planea incluir reacciones con emojis en algunas partes de los vídeos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079'>Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-disney-pantalla-gigante-casa-proyector-full-hd-chromecast-integrado-oferta-apenas-165-euros-1035079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyector-wanbo-2657847.jpg' alt='Netflix, Disney y más en pantalla gigante en casa: este proyector Full HD con Chromecast integrado, en oferta por apenas 165 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-importe-casilla-505-imprescindible-solicitar-borrador-renta-2021-22-1035823'>Cómo conseguir el importe de la casilla 505, imprescindible para solicitar el borrador de la Renta 2021/22</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-conseguir-importe-casilla-505-imprescindible-solicitar-borrador-renta-2021-22-1035823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cómo conseguir el importe de la casilla 505, imprescindible para solicitar el borrador de la Renta 2021/22' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745'>Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-serie-atrapara-seguidores-elite-1035745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bienvenidos-eden-2658275.jpg' alt='Netflix ha anunciado la serie con la que atrapará a los seguidores de Élite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715'>Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/personalizacion-dispositivos-windows-11-no-deberias-estar-utilizandola-1035715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué es la personalización de dispositivos de Windows 11 y por qué no deberías estar utilizándola' />
     </a>
 </div>
 
