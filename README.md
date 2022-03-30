@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823'>Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2599079.jpg' alt='Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821'>Centro de planchado profesional vertical y horizontal por 699€</a></h4>
     <a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-profesional-vertical-horizontal-699eu-2660989.jpg' alt='Centro de planchado profesional vertical y horizontal por 699€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795'>YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/youtube-2535635.jpg' alt='YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807'>Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/todas-series-peliculas-estrenan-abril-amazon-prime-video-regresa-esperada-serie-espanola-2660919.jpg' alt='Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española' />
     </a>
 </div>
 
