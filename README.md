@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-ha-borrado-millones-comentarios-establecimientos-seria-motivo-1036785'>Google Maps ha borrado millones de comentarios en establecimientos y este sería el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-ha-borrado-millones-comentarios-establecimientos-seria-motivo-1036785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google Maps ha borrado millones de comentarios en establecimientos y este sería el motivo' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413'>Oscar Isaac no iba a ser el protagonista de Caballero Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caballero-luna-2648219.jpg' alt='Oscar Isaac no iba a ser el protagonista de Caballero Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-pedales-ni-volante-llegaran-estados-unidos-1036411'>Los coches sin pedales ni volante llegarán a Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-pedales-ni-volante-llegaran-estados-unidos-1036411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/mercedes-clase-s-primer-coche-autonomo-nivel-3-europa-2057173.jpg' alt='Los coches sin pedales ni volante llegarán a Estados Unidos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795'>YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/youtube-2535635.jpg' alt='YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-no-provoca-tumores-cerebrales-cancer-macroestudio-1036779'>El móvil no provoca tumores cerebrales: un macroestudio de 800.000 personas durante 16 años, lo demuestra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-no-provoca-tumores-cerebrales-cancer-macroestudio-1036779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/movil-no-provoca-cancer-macroestudio-800000-personas-demuestra-2660863.jpg' alt='El móvil no provoca tumores cerebrales: un macroestudio de 800.000 personas durante 16 años, lo demuestra' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807'>Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/todas-series-peliculas-estrenan-abril-amazon-prime-video-regresa-esperada-serie-espanola-2660919.jpg' alt='Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-1036755'>Intel Arc: así son las primeras gráficas de Intel para gamers destinadas a competir con NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-1036755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-2660819.jpg' alt='Intel Arc: así son las primeras gráficas de Intel para gamers destinadas a competir con NVIDIA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-toma-importante-medida-combatir-mercado-negro-iphone-robados-1036801'>Apple toma una importante medida para combatir el mercado negro de iPhone robados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-toma-importante-medida-combatir-mercado-negro-iphone-robados-1036801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reparacion-telefono-2660881.jpg' alt='Apple toma una importante medida para combatir el mercado negro de iPhone robados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571'>10 accesorios de IKEA para tu oficina en casa si teletrabajas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oficina-ikea-2660607.jpg' alt='10 accesorios de IKEA para tu oficina en casa si teletrabajas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-podria-cambiar-siempre-forma-copiar-pegar-1036797'>La próxima actualización de Windows 11 podría cambiar para siempre tu forma de copiar y pegar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-podria-cambiar-siempre-forma-copiar-pegar-1036797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portapapeles-inteligente-windows-11-2660875.jpg' alt='La próxima actualización de Windows 11 podría cambiar para siempre tu forma de copiar y pegar' />
     </a>
 </div>
 
