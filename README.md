@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831'>Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bruce-willis-retira-cine-debido-enfermedad-llamada-afasia-2660997.jpg' alt='Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823'>Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2599079.jpg' alt='Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413'>Oscar Isaac no iba a ser el protagonista de Caballero Luna</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caballero-luna-2648219.jpg' alt='Oscar Isaac no iba a ser el protagonista de Caballero Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795'>YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-plantarle-cara-spotify-preparando-mejoras-centradas-podcasts-1036795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/youtube-2535635.jpg' alt='YouTube quiere plantarle cara a Spotify y está preparando mejoras centradas en los podcasts' />
     </a>
 </div>
 
