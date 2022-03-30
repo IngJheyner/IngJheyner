@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335'>Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/petkit-freshelement-solo-2658311.jpg' alt='Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-dejar-herencia-mascota-sigan-cuidandola-1036051'>Cómo dejar tu herencia a una mascota para que sigan cuidándola</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-dejar-herencia-mascota-sigan-cuidandola-1036051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/cuidado-llevar-mascotas-sueltas-coche-policia-ponen-5-multas-diferentes.jpg' alt='Cómo dejar tu herencia a una mascota para que sigan cuidándola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/funcionamiento-wifi-coche-1036043'>Así es el funcionamiento del WiFi de un coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funcionamiento-wifi-coche-1036043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-coche-2654007.jpg' alt='Así es el funcionamiento del WiFi de un coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915'>Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-como-servidor-2659483.jpg' alt='Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2659907.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-spot-drones-patrullan-calles-pompeya-1036333'>El perro robot Spot y los drones ya patrullan las calles de Pompeya</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-spot-drones-patrullan-calles-pompeya-1036333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-robot-spot-drones-ya-patrular-calles-pompeya-2659843.jpg' alt='El perro robot Spot y los drones ya patrullan las calles de Pompeya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395'>Qué hacer si te pica una abeja, una avispa o un avispón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hacer-te-pica-abeja-avista-avispon-2659905.jpg' alt='Qué hacer si te pica una abeja, una avispa o un avispón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175'>Roban 560 millones de euros en el juego NFT más popular, Axie Infinity</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axie-infinity-criptomoneda-2520305.jpg' alt='Roban 560 millones de euros en el juego NFT más popular, Axie Infinity' />
     </a>
 </div>
 
