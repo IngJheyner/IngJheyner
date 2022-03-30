@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595'>Acusan a la Unión Europea de querer arruinar WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acusan-union-europea-querer-arruinar-whatsapp-2660193.jpg' alt='Acusan a la Unión Europea de querer arruinar WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589'>Volverá un reboot de Humor Amarillo en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humor-amarillo-2660053.jpg' alt='Volverá un reboot de Humor Amarillo en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-descuento-20-centimos-litro-gasolina-diesel-cuando-activa-quienes-pueden-solicitarlo-1036573'>Cómo funciona el descuento de 20 céntimos por litro de gasolina o diésel, cuándo se activa y quiénes pueden solicitarlo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-funciona-descuento-20-centimos-litro-gasolina-diesel-cuando-activa-quienes-pueden-solicitarlo-1036573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/diesel_r33_diesel_azul_gasoleo_azul.jpg' alt='Cómo funciona el descuento de 20 céntimos por litro de gasolina o diésel, cuándo se activa y quiénes pueden solicitarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-proyecto-cine-series-youtube-encuentra-problema-propio-algoritmo-1036523'>El nuevo proyecto de cine y series de YouTube se encuentra con un problema: su propio algoritmo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-proyecto-cine-series-youtube-encuentra-problema-propio-algoritmo-1036523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='El nuevo proyecto de cine y series de YouTube se encuentra con un problema: su propio algoritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-tiene-100eu-descuento-amazon-marca-ya-distancias-ipad-1035773'>La tablet Xiaomi tiene más de 100€ de descuento en Amazon y marca ya distancias con el iPad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-tiene-100eu-descuento-amazon-marca-ya-distancias-ipad-1035773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='La tablet Xiaomi tiene más de 100€ de descuento en Amazon y marca ya distancias con el iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-1036507'>Señales que indican que debes cambiar el cargador de tu móvil antes de que ocurra un accidente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-1036507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-2660069.jpg' alt='Señales que indican que debes cambiar el cargador de tu móvil antes de que ocurra un accidente' />
     </a>
 </div>
 
