@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-ha-borrado-millones-comentarios-establecimientos-seria-motivo-1036785'>Google Maps ha borrado millones de comentarios en establecimientos y este sería el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-ha-borrado-millones-comentarios-establecimientos-seria-motivo-1036785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Google Maps ha borrado millones de comentarios en establecimientos y este sería el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-pedales-ni-volante-llegaran-estados-unidos-1036411'>Los coches sin pedales ni volante llegarán a Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-pedales-ni-volante-llegaran-estados-unidos-1036411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/mercedes-clase-s-primer-coche-autonomo-nivel-3-europa-2057173.jpg' alt='Los coches sin pedales ni volante llegarán a Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-no-provoca-tumores-cerebrales-cancer-macroestudio-1036779'>El móvil no provoca tumores cerebrales: un macroestudio de 800.000 personas durante 16 años, lo demuestra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-no-provoca-tumores-cerebrales-cancer-macroestudio-1036779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/movil-no-provoca-cancer-macroestudio-800000-personas-demuestra-2660863.jpg' alt='El móvil no provoca tumores cerebrales: un macroestudio de 800.000 personas durante 16 años, lo demuestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-1036755'>Intel Arc: así son las primeras gráficas de Intel para gamers destinadas a competir con NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-1036755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-arc-son-primeras-graficas-intel-gamers-destinadas-competir-nvidia-2660819.jpg' alt='Intel Arc: así son las primeras gráficas de Intel para gamers destinadas a competir con NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571'>10 accesorios de IKEA para tu oficina en casa si teletrabajas</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oficina-ikea-2660607.jpg' alt='10 accesorios de IKEA para tu oficina en casa si teletrabajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-reafirma-apuesta-resolucion-8k-nuevos-televisores-neo-qled-8k-1036731'>Samsung reafirma su apuesta por la resolución 8K con sus nuevos televisores Neo QLED 8K</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-reafirma-apuesta-resolucion-8k-nuevos-televisores-neo-qled-8k-1036731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-reafirma-apuesta-resolucion-8k-nuevo-televisor-neo-qled-8k-2660687.jpg' alt='Samsung reafirma su apuesta por la resolución 8K con sus nuevos televisores Neo QLED 8K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hay-echar-ad-blue-coches-diesel-1036715'>¿Por qué hay que echar Ad-Blue a los coches diésel?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hay-echar-ad-blue-coches-diesel-1036715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/deposito-gasolina-adblue-diesel-2466509.jpg' alt='¿Por qué hay que echar Ad-Blue a los coches diésel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-punto-mira-redes-desproporcionadas-subidas-precio-1036699'>Mercadona en el punto de mira de las redes por sus desproporcionadas subidas de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-punto-mira-redes-desproporcionadas-subidas-precio-1036699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/mercadona-supermercado-1888561.jpg' alt='Mercadona en el punto de mira de las redes por sus desproporcionadas subidas de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661'>Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/usar-lentillas.jpg' alt='Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias' />
     </a>
 </div>
 
