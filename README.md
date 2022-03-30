@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839'>De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videojuegos-realidad-primer-coche-mundo-conduce-pc-casa-2661029.jpg' alt='De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831'>Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bruce-willis-retira-cine-debido-enfermedad-llamada-afasia-2660997.jpg' alt='Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811'>La respuesta de Rusia al veto de Google es lanzar su propia Play Store</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='La respuesta de Rusia al veto de Google es lanzar su propia Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413'>Oscar Isaac no iba a ser el protagonista de Caballero Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caballero-luna-2648219.jpg' alt='Oscar Isaac no iba a ser el protagonista de Caballero Luna' />
     </a>
 </div>
 
