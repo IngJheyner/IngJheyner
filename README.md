@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915'>Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-como-servidor-2659483.jpg' alt='Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2659907.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-spot-drones-patrullan-calles-pompeya-1036333'>El perro robot Spot y los drones ya patrullan las calles de Pompeya</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-spot-drones-patrullan-calles-pompeya-1036333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/perro-robot-spot-drones-ya-patrular-calles-pompeya-2659843.jpg' alt='El perro robot Spot y los drones ya patrullan las calles de Pompeya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395'>Qué hacer si te pica una abeja, una avispa o un avispón</a></h4>
     <a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hacer-te-pica-abeja-avista-avispon-2659905.jpg' alt='Qué hacer si te pica una abeja, una avispa o un avispón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175'>Roban 560 millones de euros en el juego NFT más popular, Axie Infinity</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axie-infinity-criptomoneda-2520305.jpg' alt='Roban 560 millones de euros en el juego NFT más popular, Axie Infinity' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167'>Accesorio secador, desinfectante y antiolor para zapatos por 52 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-1036167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/accesorio-secador-desinfectante-antiolor-zapatos-52-euros-2659623.jpg' alt='Accesorio secador, desinfectante y antiolor para zapatos por 52 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-netflix-abril-nuevas-series-peliculas-desembarcan-plataforma-1036077'>Los estrenos de Netflix en abril: las nuevas series y películas que desembarcan en la plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-netflix-abril-nuevas-series-peliculas-desembarcan-plataforma-1036077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-android-2521107.jpg' alt='Los estrenos de Netflix en abril: las nuevas series y películas que desembarcan en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157'>Twitter estaría trabajando en una forma de generar tweets colaborativos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='Twitter estaría trabajando en una forma de generar tweets colaborativos' />
     </a>
 </div>
 
