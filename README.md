@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571'>10 accesorios de IKEA para tu oficina en casa si teletrabajas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-oficina-casa-teletrabajo-1036571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oficina-ikea-2660607.jpg' alt='10 accesorios de IKEA para tu oficina en casa si teletrabajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-reafirma-apuesta-resolucion-8k-nuevos-televisores-neo-qled-8k-1036731'>Samsung reafirma su apuesta por la resolución 8K con sus nuevos televisores Neo QLED 8K</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-reafirma-apuesta-resolucion-8k-nuevos-televisores-neo-qled-8k-1036731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-reafirma-apuesta-resolucion-8k-nuevo-televisor-neo-qled-8k-2660687.jpg' alt='Samsung reafirma su apuesta por la resolución 8K con sus nuevos televisores Neo QLED 8K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/hay-echar-ad-blue-coches-diesel-1036715'>¿Por qué hay que echar Ad-Blue a los coches diésel?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/hay-echar-ad-blue-coches-diesel-1036715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/deposito-gasolina-adblue-diesel-2466509.jpg' alt='¿Por qué hay que echar Ad-Blue a los coches diésel?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661'>Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/usar-lentillas.jpg' alt='Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685'>El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Pedro%20Sa%CC%81nchez%2C%20presidente%20del%20Gobierno.jpg' alt='El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653'>6 consejos para alargar la vida de tus auriculares true wireless</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/auriculares-inalambricos-2235253.jpg' alt='6 consejos para alargar la vida de tus auriculares true wireless' />
     </a>
 </div>
 
