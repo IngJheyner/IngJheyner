@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653'>6 consejos para alargar la vida de tus auriculares true wireless</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/auriculares-inalambricos-2235253.jpg' alt='6 consejos para alargar la vida de tus auriculares true wireless' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/industria-bitcoin-consume-tanta-energia-como-pais-70-millones-habitantes-1036659'>La industria del Bitcoin consume tanta energía como este país de 70 millones de habitantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/industria-bitcoin-consume-tanta-energia-como-pais-70-millones-habitantes-1036659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='La industria del Bitcoin consume tanta energía como este país de 70 millones de habitantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-garmin-fenix-7s-oferta-descuento-591-euros-1036551'>El nuevo reloj deportivo Garmin Fenix 7S ya ha bajado espectacularmente de precio en Amazon, ahora sólo cuesta 591€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-garmin-fenix-7s-oferta-descuento-591-euros-1036551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg' alt='El nuevo reloj deportivo Garmin Fenix 7S ya ha bajado espectacularmente de precio en Amazon, ahora sólo cuesta 591€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595'>Acusan a la Unión Europea de querer arruinar WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acusan-union-europea-querer-arruinar-whatsapp-2660193.jpg' alt='Acusan a la Unión Europea de querer arruinar WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589'>Volverá un reboot de Humor Amarillo en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humor-amarillo-2660053.jpg' alt='Volverá un reboot de Humor Amarillo en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-descuento-20-centimos-litro-gasolina-diesel-cuando-activa-quienes-pueden-solicitarlo-1036573'>Cómo funciona el descuento de 20 céntimos por litro de gasolina o diésel, cuándo se activa y quiénes pueden solicitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-funciona-descuento-20-centimos-litro-gasolina-diesel-cuando-activa-quienes-pueden-solicitarlo-1036573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/diesel_r33_diesel_azul_gasoleo_azul.jpg' alt='Cómo funciona el descuento de 20 céntimos por litro de gasolina o diésel, cuándo se activa y quiénes pueden solicitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-paracetamol-1036521'>Cada cuánto tiempo se puede tomar paracetamol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-paracetamol-1036521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/02/222242-15-errores-que-cometemos-paracetamol-ibuprofeno-aspirina.jpg' alt='Cada cuánto tiempo se puede tomar paracetamol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-proyecto-cine-series-youtube-encuentra-problema-propio-algoritmo-1036523'>El nuevo proyecto de cine y series de YouTube se encuentra con un problema: su propio algoritmo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-proyecto-cine-series-youtube-encuentra-problema-propio-algoritmo-1036523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='El nuevo proyecto de cine y series de YouTube se encuentra con un problema: su propio algoritmo' />
     </a>
 </div>
 
