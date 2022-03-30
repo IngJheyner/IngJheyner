@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821'>Centro de planchado profesional vertical y horizontal por 699€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-profesional-vertical-horizontal-699eu-2660989.jpg' alt='Centro de planchado profesional vertical y horizontal por 699€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811'>La respuesta de Rusia al veto de Google es lanzar su propia Play Store</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='La respuesta de Rusia al veto de Google es lanzar su propia Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413'>Oscar Isaac no iba a ser el protagonista de Caballero Luna</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/iba-ser-protagonista-caballero-luna-originalmente-no-oscar-isaac-1036413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caballero-luna-2648219.jpg' alt='Oscar Isaac no iba a ser el protagonista de Caballero Luna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807'>Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-abril-amazon-prime-video-1036807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/todas-series-peliculas-estrenan-abril-amazon-prime-video-regresa-esperada-serie-espanola-2660919.jpg' alt='Todas las series y películas que se estrenan en abril en Amazon Prime Video, regresa una esperada serie española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-toma-importante-medida-combatir-mercado-negro-iphone-robados-1036801'>Apple toma una importante medida para combatir el mercado negro de iPhone robados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-toma-importante-medida-combatir-mercado-negro-iphone-robados-1036801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reparacion-telefono-2660881.jpg' alt='Apple toma una importante medida para combatir el mercado negro de iPhone robados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-podria-cambiar-siempre-forma-copiar-pegar-1036797'>La próxima actualización de Windows 11 podría cambiar para siempre tu forma de copiar y pegar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proxima-actualizacion-windows-11-podria-cambiar-siempre-forma-copiar-pegar-1036797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portapapeles-inteligente-windows-11-2660875.jpg' alt='La próxima actualización de Windows 11 podría cambiar para siempre tu forma de copiar y pegar' />
     </a>
 </div>
 
