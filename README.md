@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685'>El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Pedro%20Sa%CC%81nchez%2C%20presidente%20del%20Gobierno.jpg' alt='El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653'>6 consejos para alargar la vida de tus auriculares true wireless</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/6-consejos-alargar-vida-auriculares-true-wireless-1036653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/auriculares-inalambricos-2235253.jpg' alt='6 consejos para alargar la vida de tus auriculares true wireless' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595'>Acusan a la Unión Europea de querer arruinar WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acusan-union-europea-querer-arruinar-whatsapp-2660193.jpg' alt='Acusan a la Unión Europea de querer arruinar WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589'>Volverá un reboot de Humor Amarillo en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/volvera-reboot-humor-amarillo-amazon-prime-video-1036589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/humor-amarillo-2660053.jpg' alt='Volverá un reboot de Humor Amarillo en Amazon Prime Video' />
     </a>
 </div>
 
