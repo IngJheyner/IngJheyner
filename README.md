@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431'>Como era de esperar, la nueva temporada de esta serie bate récords en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2-2651787.jpeg' alt='Como era de esperar, la nueva temporada de esta serie bate récords en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335'>Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/petkit-freshelement-solo-2658311.jpg' alt='Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915'>Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-como-servidor-2659483.jpg' alt='Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1036399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2659907.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
