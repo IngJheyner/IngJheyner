@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-1036489'>Estos son los emojis nuevos que trae consigo la última beta de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-1036489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-2660049.jpg' alt='Estos son los emojis nuevos que trae consigo la última beta de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roboburguer-maquina-expendedora-hamburguesas-cocina-tiempo-real-1036465'>Roboburguer, la máquina expendedora de hamburguesas que las cocina en tiempo real</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roboburguer-maquina-expendedora-hamburguesas-cocina-tiempo-real-1036465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/robot-burguer-2660015.jpg' alt='Roboburguer, la máquina expendedora de hamburguesas que las cocina en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-muy-barato-robot-aspirador-solo-199-euros-tambien-friega-ademas-tiene-alexa-1035351'>De Xiaomi y muy barato: este robot aspirador de solo 199 euros también friega y además tiene Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-muy-barato-robot-aspirador-solo-199-euros-tambien-friega-ademas-tiene-alexa-1035351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-robot-vacuum-mop-2s-2658339.jpg' alt='De Xiaomi y muy barato: este robot aspirador de solo 199 euros también friega y además tiene Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-cancelacion-ruido-mascarilla-anticontaminacion-dyson-zone-1036477'>Auriculares con cancelación de ruido y mascarilla anticontaminación, así es Dyson Zone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-cancelacion-ruido-mascarilla-anticontaminacion-dyson-zone-1036477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dyson-zone-2660007.jpg' alt='Auriculares con cancelación de ruido y mascarilla anticontaminación, así es Dyson Zone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431'>Como era de esperar, la nueva temporada de esta serie bate récords en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2-2651787.jpeg' alt='Como era de esperar, la nueva temporada de esta serie bate récords en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335'>Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tengas-perro-gato-comedero-wifi-necesitas-todo-pasas-tiempo-fuera-casa-1035335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/petkit-freshelement-solo-2658311.jpg' alt='Tengas perro o gato, este comedero con WiFi es lo que necesitas, sobre todo si pasas tiempo fuera de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-dejar-herencia-mascota-sigan-cuidandola-1036051'>Cómo dejar tu herencia a una mascota para que sigan cuidándola</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-dejar-herencia-mascota-sigan-cuidandola-1036051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/cuidado-llevar-mascotas-sueltas-coche-policia-ponen-5-multas-diferentes.jpg' alt='Cómo dejar tu herencia a una mascota para que sigan cuidándola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funcionamiento-wifi-coche-1036043'>Así es el funcionamiento del WiFi de un coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funcionamiento-wifi-coche-1036043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-coche-2654007.jpg' alt='Así es el funcionamiento del WiFi de un coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915'>Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-montar-servidor-personal-plex-1035915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-como-servidor-2659483.jpg' alt='Estos Mini PC son perfectos para montar tu propio servidor de archivos o Plex en casa' />
     </a>
 </div>
 
