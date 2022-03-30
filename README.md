@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-tiene-100eu-descuento-amazon-marca-ya-distancias-ipad-1035773'>La tablet Xiaomi tiene más de 100€ de descuento en Amazon y marca ya distancias con el iPad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-tiene-100eu-descuento-amazon-marca-ya-distancias-ipad-1035773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='La tablet Xiaomi tiene más de 100€ de descuento en Amazon y marca ya distancias con el iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-1036507'>Señales que indican que debes cambiar el cargador de tu móvil antes de que ocurra un accidente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-1036507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/senales-indican-debes-cambiar-cargador-movil-antes-ocurra-accidente-2660069.jpg' alt='Señales que indican que debes cambiar el cargador de tu móvil antes de que ocurra un accidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-teoria-caos-mejorara-previsiones-meteorologicas-1036501'>Así es como la teoría del caos mejorará las previsiones meteorológicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-teoria-caos-mejorara-previsiones-meteorologicas-1036501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/app-tiempo-iphone-2406843.jpg' alt='Así es como la teoría del caos mejorará las previsiones meteorológicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-1036489'>Estos son los emojis nuevos que trae consigo la última beta de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-1036489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/estos-son-emojis-nuevos-trae-consigo-ultima-beta-whatsapp-2660049.jpg' alt='Estos son los emojis nuevos que trae consigo la última beta de WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roboburguer-maquina-expendedora-hamburguesas-cocina-tiempo-real-1036465'>Roboburguer, la máquina expendedora de hamburguesas que las cocina en tiempo real</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roboburguer-maquina-expendedora-hamburguesas-cocina-tiempo-real-1036465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/robot-burguer-2660015.jpg' alt='Roboburguer, la máquina expendedora de hamburguesas que las cocina en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-muy-barato-robot-aspirador-solo-199-euros-tambien-friega-ademas-tiene-alexa-1035351'>De Xiaomi y muy barato: este robot aspirador de solo 199 euros también friega y además tiene Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-muy-barato-robot-aspirador-solo-199-euros-tambien-friega-ademas-tiene-alexa-1035351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-robot-vacuum-mop-2s-2658339.jpg' alt='De Xiaomi y muy barato: este robot aspirador de solo 199 euros también friega y además tiene Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-cancelacion-ruido-mascarilla-anticontaminacion-dyson-zone-1036477'>Auriculares con cancelación de ruido y mascarilla anticontaminación, así es Dyson Zone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-cancelacion-ruido-mascarilla-anticontaminacion-dyson-zone-1036477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dyson-zone-2660007.jpg' alt='Auriculares con cancelación de ruido y mascarilla anticontaminación, así es Dyson Zone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431'>Como era de esperar, la nueva temporada de esta serie bate récords en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-era-esperar-nueva-temporada-serie-bate-records-netflix-1036431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2-2651787.jpeg' alt='Como era de esperar, la nueva temporada de esta serie bate récords en Netflix' />
     </a>
 </div>
 
