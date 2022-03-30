@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395'>Qué hacer si te pica una abeja, una avispa o un avispón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/que-hacer-te-pica-abeja-avispa-avispon-1036395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hacer-te-pica-abeja-avista-avispon-2659905.jpg' alt='Qué hacer si te pica una abeja, una avispa o un avispón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175'>Roban 560 millones de euros en el juego NFT más popular, Axie Infinity</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roban-535-millones-euros-juego-nft-axie-infinity-1036175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/axie-infinity-criptomoneda-2520305.jpg' alt='Roban 560 millones de euros en el juego NFT más popular, Axie Infinity' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157'>Twitter estaría trabajando en una forma de generar tweets colaborativos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-trabajando-forma-generar-tweets-colaborativos-1036157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/app-twitter-2171731.jpg' alt='Twitter estaría trabajando en una forma de generar tweets colaborativos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161'>Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/video-bofetada-will-smith-youtube-bate-records-visualizaciones-1036161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/video-youtube-bate-records-ya-visualizaciones-ha-logrado-24-horas-2659613.jpg' alt='Este vídeo de YouTube bate récords y ya es el que más visualizaciones ha logrado en 24 horas' />
     </a>
 </div>
 
