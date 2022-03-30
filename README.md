@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661'>Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lentillas-dosifican-medicacion-ya-son-realidad-perfectas-primavera-alergias-1036661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/usar-lentillas.jpg' alt='Las lentillas que dosifican medicación ya son una realidad: perfectas para primavera y las alergias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685'>El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/gobierno-modifica-ley-evitar-acopio-leche-aceite-harina-otros-productos-basicos-1036685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Pedro%20Sa%CC%81nchez%2C%20presidente%20del%20Gobierno.jpg' alt='El gobierno modifica la ley para evitar el acopio de leche, aceite, harina y otros productos básicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-garmin-fenix-7s-oferta-descuento-591-euros-1036551'>El nuevo reloj deportivo Garmin Fenix 7S ya ha bajado espectacularmente de precio en Amazon, ahora sólo cuesta 591€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-garmin-fenix-7s-oferta-descuento-591-euros-1036551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg' alt='El nuevo reloj deportivo Garmin Fenix 7S ya ha bajado espectacularmente de precio en Amazon, ahora sólo cuesta 591€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595'>Acusan a la Unión Europea de querer arruinar WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acusan-union-europea-querer-arruinar-whatsapp-1036595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/acusan-union-europea-querer-arruinar-whatsapp-2660193.jpg' alt='Acusan a la Unión Europea de querer arruinar WhatsApp' />
     </a>
 </div>
 
