@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-6-nuevas-esperadas-funcionalidades-mensajes-voz-1037143'>WhatsApp añade 6 nuevas y esperadas funcionalidades a los mensajes de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-6-nuevas-esperadas-funcionalidades-mensajes-voz-1037143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='WhatsApp añade 6 nuevas y esperadas funcionalidades a los mensajes de voz' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637'>Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/sony-wh1000xm4-2012765.jpg' alt='Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-libros-electronicos-tiene-audiolibros-hemos-probado-verdadera-alternativa-kindle-1035869'>Este lector de libros electrónicos tiene audiolibros: lo hemos probado y es la verdadera alternativa al Kindle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lector-libros-electronicos-tiene-audiolibros-hemos-probado-verdadera-alternativa-kindle-1035869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pocketbook-touch-hd-3-2655073.jpg' alt='Este lector de libros electrónicos tiene audiolibros: lo hemos probado y es la verdadera alternativa al Kindle' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211'>Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/caldera-2209419.jpg' alt='Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-alternativas-aceite-girasol-ocu-1037151'>Las mejores alternativas al aceite de girasol, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-alternativas-aceite-girasol-ocu-1037151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/echar-aceite-2455911.jpg' alt='Las mejores alternativas al aceite de girasol, según la OCU' />
+    <h4><a href='https://computerhoy.com/noticias/tienes-estos-moviles-despidete-whatsapp-partir-manana-1037187'>Si tienes uno de estos móviles despídete de WhatsApp a partir de mañana</a></h4>
+    <a href='https://computerhoy.com/noticias/tienes-estos-moviles-despidete-whatsapp-partir-manana-1037187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-estos-moviles-despidete-whatsapp-partir-manana-2661459.jpg' alt='Si tienes uno de estos móviles despídete de WhatsApp a partir de mañana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097'>Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199'>Así es la varita mágica de Google que te elige los emojis por ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg' alt='Así es la varita mágica de Google que te elige los emojis por ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945'>¡Ya está en tu quiosco el número 613 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-613-2655057.jpg' alt='¡Ya está en tu quiosco el número 613 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/noticias/buenas-noticias-seguidores-bridgerton-habra-spin-personajes-importantes-1037153'>Buenas noticias para los seguidores de Los Bridgerton: habrá spin-off de uno de los personajes más importantes</a></h4>
+    <a href='https://computerhoy.com/noticias/buenas-noticias-seguidores-bridgerton-habra-spin-personajes-importantes-1037153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bridgerton-2178345.jpg' alt='Buenas noticias para los seguidores de Los Bridgerton: habrá spin-off de uno de los personajes más importantes' />
     </a>
 </div>
 
