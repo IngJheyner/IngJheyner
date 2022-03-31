@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511'>Esta teta artificial permite a un padre dar de mamar a su hijo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/teta-artificial-permite-padre-dar-mamar-hijo-2661997.jpg' alt='Esta teta artificial permite a un padre dar de mamar a su hijo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505'>Windows 11 rediseña por completo su aplicación para teléfonos móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-2661979.jpg' alt='Windows 11 rediseña por completo su aplicación para teléfonos móviles Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499'>Los análisis de tecnología y videojuegos que más nos han gustado en marzo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-analisis-marzo-2661975.jpg' alt='Los análisis de tecnología y videojuegos que más nos han gustado en marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491'>Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chromebook-ultraportatil-2-1-lenovo-bolsillo-solo-cuesta-257-euros-2661943.jpg' alt='Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros' />
     </a>
 </div>
 
