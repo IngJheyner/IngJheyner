@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/banco-espana-avisa-espanoles-invierten-bitcoin-1037455'>El Banco de España avisa a los españoles que invierten en Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/banco-espana-avisa-espanoles-invierten-bitcoin-1037455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='El Banco de España avisa a los españoles que invierten en Bitcoin' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117'>La temporada 4 de Stranger Things será muy diferente, según sus creadores</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stranger-things-temporada-4-2655217.jpg' alt='La temporada 4 de Stranger Things será muy diferente, según sus creadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-coches-caros-puedes-comprar-no-2022-1037113'>Estos son los coches más caros que puedes comprar (o no) en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-coches-caros-puedes-comprar-no-2022-1037113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/galeria-prueba-bugatti-divo-2049273.jpg' alt='Estos son los coches más caros que puedes comprar (o no) en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/aqui-1000-sesiones-grabacion-musicos-top-peel-sessions-bbc-gratis-1037463'>Aquí las 1.000 sesiones de grabación de músicos top, Peel Sessions de la BBC, gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/aqui-1000-sesiones-grabacion-musicos-top-peel-sessions-bbc-gratis-1037463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Aquí las 1.000 sesiones de grabación de músicos top, Peel Sessions de la BBC, gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145'>Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gaming-2661517.jpg' alt='Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-advertencias-covid-19-podcast-1037467'>Spotify ha empezado a mostrar advertencias de contenido en algunos podcast</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-advertencias-covid-19-podcast-1037467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-puede-vivir-gran-crecimiento-espana-nuevo-sorprendente-plan-2646889.jpg' alt='Spotify ha empezado a mostrar advertencias de contenido en algunos podcast' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411'>El OnePlus 10 Pro aterriza por fin en España y estos son sus precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582723.jpg' alt='El OnePlus 10 Pro aterriza por fin en España y estos son sus precios' />
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421'>Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capsulas-cafe-2540907.jpg' alt='Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397'>GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-2661833.jpg' alt='GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-automotive-podria-terminar-convirtiendose-serio-problema-google-1037457'>Google Maps en Android Automotive podría terminar convirtiéndose en un serio problema para Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-automotive-podria-terminar-convirtiendose-serio-problema-google-1037457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Google Maps en Android Automotive podría terminar convirtiéndose en un serio problema para Google' />
     </a>
 </div>
 
