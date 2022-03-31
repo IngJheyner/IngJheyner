@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/banco-espana-avisa-espanoles-invierten-bitcoin-1037455'>El Banco de España avisa a los españoles que invierten en Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/banco-espana-avisa-espanoles-invierten-bitcoin-1037455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='El Banco de España avisa a los españoles que invierten en Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-coches-caros-puedes-comprar-no-2022-1037113'>Estos son los coches más caros que puedes comprar (o no) en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-coches-caros-puedes-comprar-no-2022-1037113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/galeria-prueba-bugatti-divo-2049273.jpg' alt='Estos son los coches más caros que puedes comprar (o no) en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145'>Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gaming-2661517.jpg' alt='Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397'>GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-2661833.jpg' alt='GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-reiniciar-router-vez-cuando-1037409'>¿Por qué tienes que reiniciar tu router de vez en cuando?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-reiniciar-router-vez-cuando-1037409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg' alt='¿Por qué tienes que reiniciar tu router de vez en cuando?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377'>Los 8 consejos para evitar el hackeo de tu coche según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='Los 8 consejos para evitar el hackeo de tu coche según la DGT' />
     </a>
 </div>
 
