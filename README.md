@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945'>¡Ya está en tu quiosco el número 613 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-613-2655057.jpg' alt='¡Ya está en tu quiosco el número 613 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829'>Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg' alt='Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2661243.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767'>6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-trabajando-portatil-apple-macbook-mesa-llena-telas-patrones-2660857.jpg' alt='6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo' />
     </a>
 </div>
 
