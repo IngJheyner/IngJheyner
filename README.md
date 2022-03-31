@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231'>¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637'>Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/sony-wh1000xm4-2012765.jpg' alt='Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199'>Así es la varita mágica de Google que te elige los emojis por ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg' alt='Así es la varita mágica de Google que te elige los emojis por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/buenas-noticias-seguidores-bridgerton-habra-spin-personajes-importantes-1037153'>Buenas noticias para los seguidores de Los Bridgerton: habrá spin-off de uno de los personajes más importantes</a></h4>
-    <a href='https://computerhoy.com/noticias/buenas-noticias-seguidores-bridgerton-habra-spin-personajes-importantes-1037153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bridgerton-2178345.jpg' alt='Buenas noticias para los seguidores de Los Bridgerton: habrá spin-off de uno de los personajes más importantes' />
     </a>
 </div>
 
