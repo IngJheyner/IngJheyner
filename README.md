@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003'>Los 3 alimentos que ha consumido la mujer más anciana del mundo durante 121 años, y que todo el mundo debería tomar</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003'>Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/3-alimentos-ha-consumido-mujer-vieja-mundo-durante-121-anos-todo-mundo-deberia-tomar-2661181.jpg' alt='Los 3 alimentos que ha consumido la mujer más anciana del mundo durante 121 años, y que todo el mundo debería tomar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/3-alimentos-ha-consumido-mujer-vieja-mundo-durante-121-anos-todo-mundo-deberia-tomar-2661181.jpg' alt='Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar' />
     </a>
 </div>
 
