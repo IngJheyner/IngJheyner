@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097'>Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945'>¡Ya está en tu quiosco el número 613 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-613-2655057.jpg' alt='¡Ya está en tu quiosco el número 613 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417'>En qué casos hay que activar las luces de emergencia en un atasco</a></h4>
     <a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-revela-mejores-horas-salir-viaje-atasco-2407195.jpg' alt='En qué casos hay que activar las luces de emergencia en un atasco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2661243.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
