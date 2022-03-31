@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829'>Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg' alt='Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-detecta-trabajo-te-afectando-1036421'>Una nueva tecnología detecta si tu trabajo te está afectando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-detecta-trabajo-te-afectando-1036421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/estres-movil-2272599.jpg' alt='Una nueva tecnología detecta si tu trabajo te está afectando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417'>En qué casos hay que activar las luces de emergencia en un atasco</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-revela-mejores-horas-salir-viaje-atasco-2407195.jpg' alt='En qué casos hay que activar las luces de emergencia en un atasco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2661243.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767'>6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-trabajando-portatil-apple-macbook-mesa-llena-telas-patrones-2660857.jpg' alt='6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003'>Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/3-alimentos-ha-consumido-mujer-vieja-mundo-durante-121-anos-todo-mundo-deberia-tomar-2661181.jpg' alt='Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839'>Primer coche del mundo que se conduce desde un PC en casa (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videojuegos-realidad-primer-coche-mundo-conduce-pc-casa-2661029.jpg' alt='Primer coche del mundo que se conduce desde un PC en casa (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831'>Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bruce-willis-retira-cine-debido-enfermedad-llamada-afasia-2660997.jpg' alt='Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?' />
     </a>
 </div>
 
