@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2661243.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767'>6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cursos-online-mejoraran-opciones-encontrar-trabajo-corto-plazo-1036767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-trabajando-portatil-apple-macbook-mesa-llena-telas-patrones-2660857.jpg' alt='6 cursos online que mejorarán tus opciones de encontrar trabajo a corto plazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003'>Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/3-alimentos-ha-consumido-mujer-vieja-mundo-durante-121-anos-todo-mundo-deberia-tomar-2661181.jpg' alt='Los 3 alimentos consumidos por la mujer más anciana del mundo durante más de un siglo, que todo el mundo debería tomar' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839'>De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839'>Primer coche del mundo que se conduce desde un PC en casa (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videojuegos-realidad-primer-coche-mundo-conduce-pc-casa-2661029.jpg' alt='De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videojuegos-realidad-primer-coche-mundo-conduce-pc-casa-2661029.jpg' alt='Primer coche del mundo que se conduce desde un PC en casa (vídeo)' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831'>Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-retira-cine-enfermedad-afasia-1036831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bruce-willis-retira-cine-debido-enfermedad-llamada-afasia-2660997.jpg' alt='Bruce Willis se retira del cine debido a una enfermedad llamada afasia, ¿en qué consiste?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823'>Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-dando-pasos-necesarios-convertirse-banco-bloomberg-1036823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-2599079.jpg' alt='Apple estaría dando los pasos necesarios para convertirse en un banco, según Bloomberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821'>Centro de planchado profesional vertical y horizontal por 699€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-profesional-vertical-horizontal-699eu-2660989.jpg' alt='Centro de planchado profesional vertical y horizontal por 699€' />
     </a>
 </div>
 
