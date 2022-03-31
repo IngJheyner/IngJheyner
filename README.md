@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355'>ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rog-flow-z13-2661723.jpg' alt='ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-google-emplea-ia-busquedas-ayudar-personas-atraviesan-situacion-dificil-1037321'>Así es como Google emplea la IA en sus búsquedas para ayudar a personas que atraviesan una situación difícil</a></h4>
+    <a href='https://computerhoy.com/noticias/como-google-emplea-ia-busquedas-ayudar-personas-atraviesan-situacion-dificil-1037321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-buscador.jpg' alt='Así es como Google emplea la IA en sus búsquedas para ayudar a personas que atraviesan una situación difícil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-1037289'>No puedes perderte el último documental de Netflix si inviertes en criptomonedas o te interesa el bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-1037289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-2661661.jpg' alt='No puedes perderte el último documental de Netflix si inviertes en criptomonedas o te interesa el bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-coges-desprevenida-mosca-25-veces-rapida-humano-1037309'>Este el motivo por el cual nunca coges desprevenida a una mosca: 25 veces más rápida que un humano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-coges-desprevenida-mosca-25-veces-rapida-humano-1037309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosca-2661663.jpg' alt='Este el motivo por el cual nunca coges desprevenida a una mosca: 25 veces más rápida que un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259'>Cómo saber las pulgadas de mi TV	</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1e-75-55-pulgadas-son-nuevas-televisiones-premium-xiaomi-2514151.jpg' alt='Cómo saber las pulgadas de mi TV	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vehiculo-militar-antidrones-detecta-500-unidades-vez-derriba-kilometros-1037241'>El vehículo militar antidrones que detecta hasta 500 unidades y los derriba a kilómetros de una vez </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vehiculo-militar-antidrones-detecta-500-unidades-vez-derriba-kilometros-1037241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/drones-2661503.jpg' alt='El vehículo militar antidrones que detecta hasta 500 unidades y los derriba a kilómetros de una vez ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231'>¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637'>Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/taladren-lado-estos-auriculares-sony-wh1000xm4-te-dara-mismo-ahora-han-alcanzado-precio-1036637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/sony-wh1000xm4-2012765.jpg' alt='Que taladren a tu lado: con estos auriculares Sony WH1000XM4 te dará lo mismo, y ahora han alcanzado su precio más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211'>Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/caldera-2209419.jpg' alt='Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas' />
     </a>
 </div>
 
