@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003'>Los 3 alimentos que ha consumido la mujer más anciana del mundo durante 121 años, y que todo el mundo debería tomar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-alimentos-mujer-anciana-mundo-1037003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/3-alimentos-ha-consumido-mujer-vieja-mundo-durante-121-anos-todo-mundo-deberia-tomar-2661181.jpg' alt='Los 3 alimentos que ha consumido la mujer más anciana del mundo durante 121 años, y que todo el mundo debería tomar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839'>De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primer-coche-mundo-control-remoto-pc-casa-encode-streetdrone-1036839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videojuegos-realidad-primer-coche-mundo-conduce-pc-casa-2661029.jpg' alt='De los videojuegos a la realidad: el primer coche del mundo que se conduce desde un PC en casa (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821'>Centro de planchado profesional vertical y horizontal por 699€</a></h4>
     <a href='https://computerhoy.com/noticias/life/cecotec-centro-planchado-profesional-vertical-horizontal-1036821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/centro-planchado-profesional-vertical-horizontal-699eu-2660989.jpg' alt='Centro de planchado profesional vertical y horizontal por 699€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811'>La respuesta de Rusia al veto de Google es lanzar su propia Play Store</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respuesta-rusia-veto-google-lanzar-propia-play-store-1036811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='La respuesta de Rusia al veto de Google es lanzar su propia Play Store' />
     </a>
 </div>
 
