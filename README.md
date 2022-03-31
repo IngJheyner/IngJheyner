@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145'>Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gaming-days-pccomponentes-mejores-ofertas-1037145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gaming-2661517.jpg' alt='Gaming Days en PcComponentes: estas son las mejores ofertas que vas a encontrar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411'>El OnePlus 10 Pro aterriza por fin en España y estos son sus precios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582723.jpg' alt='El OnePlus 10 Pro aterriza por fin en España y estos son sus precios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377'>Los 8 consejos para evitar el hackeo de tu coche según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='Los 8 consejos para evitar el hackeo de tu coche según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363'>Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-lanza-oficialmente-nueva-familia-x70-grandes-novedades-fotograficas-3-modelos-2466587.jpg' alt='Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar' />
     </a>
 </div>
 
