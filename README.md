@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363'>Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-lanza-oficialmente-nueva-familia-x70-grandes-novedades-fotograficas-3-modelos-2466587.jpg' alt='Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355'>ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rog-flow-z13-2661723.jpg' alt='ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-coges-desprevenida-mosca-25-veces-rapida-humano-1037309'>Este el motivo por el cual nunca coges desprevenida a una mosca: 25 veces más rápida que un humano</a></h4>
     <a href='https://computerhoy.com/noticias/life/motivo-cual-nunca-coges-desprevenida-mosca-25-veces-rapida-humano-1037309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosca-2661663.jpg' alt='Este el motivo por el cual nunca coges desprevenida a una mosca: 25 veces más rápida que un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259'>Cómo saber las pulgadas de mi TV	</a></h4>
-    <a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1e-75-55-pulgadas-son-nuevas-televisiones-premium-xiaomi-2514151.jpg' alt='Cómo saber las pulgadas de mi TV	' />
     </a>
 </div>
 
