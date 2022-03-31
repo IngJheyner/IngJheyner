@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259'>Cómo saber las pulgadas de mi TV	</a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-pulgadas-mi-tv-1037259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1e-75-55-pulgadas-son-nuevas-televisiones-premium-xiaomi-2514151.jpg' alt='Cómo saber las pulgadas de mi TV	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vehiculo-militar-antidrones-detecta-500-unidades-vez-derriba-kilometros-1037241'>El vehículo militar antidrones que detecta hasta 500 unidades y los derriba a kilómetros de una vez </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vehiculo-militar-antidrones-detecta-500-unidades-vez-derriba-kilometros-1037241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/drones-2661503.jpg' alt='El vehículo militar antidrones que detecta hasta 500 unidades y los derriba a kilómetros de una vez ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231'>¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sigue-funcionando-regla-7-saber-cuando-saltan-radares-nueva-ley-trafico-dgt-1037231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='¿Sigue funcionando la regla del 7 para saber cuándo saltan los radares con la nueva Ley de Tráfico de la DGT?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211'>Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-comprobar-caldera-funciona-forma-eficiente-no-malgastando-gas-1037211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/caldera-2209419.jpg' alt='Cómo comprobar que tu caldera funciona de forma eficiente y no está malgastando gas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tienes-estos-moviles-despidete-whatsapp-partir-manana-1037187'>Si tienes uno de estos móviles despídete de WhatsApp a partir de mañana</a></h4>
-    <a href='https://computerhoy.com/noticias/tienes-estos-moviles-despidete-whatsapp-partir-manana-1037187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tienes-estos-moviles-despidete-whatsapp-partir-manana-2661459.jpg' alt='Si tienes uno de estos móviles despídete de WhatsApp a partir de mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199'>Así es la varita mágica de Google que te elige los emojis por ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varita-magica-google-te-elige-emojis-ti-1037199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg' alt='Así es la varita mágica de Google que te elige los emojis por ti' />
     </a>
 </div>
 
