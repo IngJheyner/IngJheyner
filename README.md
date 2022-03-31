@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505'>Windows 11 rediseña por completo su aplicación para teléfonos móviles Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-2661979.jpg' alt='Windows 11 rediseña por completo su aplicación para teléfonos móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/e3-2022-cancelado-1037503'>La feria de videojuegos E3 2022 se cancela por completo, tanto en formato presencial como online </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/e3-2022-cancelado-1037503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/feria-videojuegos-e3-2022-cancela-completo-tanto-formato-presencial-como-online-2661977.jpg' alt='La feria de videojuegos E3 2022 se cancela por completo, tanto en formato presencial como online ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483'>Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499'>Los análisis de tecnología y videojuegos que más nos han gustado en marzo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-analisis-marzo-2661975.jpg' alt='Los análisis de tecnología y videojuegos que más nos han gustado en marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491'>Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chromebook-ultraportatil-2-1-lenovo-bolsillo-solo-cuesta-257-euros-2661943.jpg' alt='Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117'>La temporada 4 de Stranger Things será muy diferente, según sus creadores</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stranger-things-temporada-4-2655217.jpg' alt='La temporada 4 de Stranger Things será muy diferente, según sus creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/aqui-1000-sesiones-grabacion-musicos-top-peel-sessions-bbc-gratis-1037463'>Aquí las 1.000 sesiones de grabación de músicos top, Peel Sessions de la BBC, gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/aqui-1000-sesiones-grabacion-musicos-top-peel-sessions-bbc-gratis-1037463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/donde-descargar-musica-gratis-videos-proyectos-personales-forma-legal-2627157.jpg' alt='Aquí las 1.000 sesiones de grabación de músicos top, Peel Sessions de la BBC, gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-advertencias-covid-19-podcast-1037467'>Spotify ha empezado a mostrar advertencias de contenido en algunos podcast</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-advertencias-covid-19-podcast-1037467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spotify-puede-vivir-gran-crecimiento-espana-nuevo-sorprendente-plan-2646889.jpg' alt='Spotify ha empezado a mostrar advertencias de contenido en algunos podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421'>Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capsulas-cafe-2540907.jpg' alt='Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva' />
     </a>
 </div>
 
