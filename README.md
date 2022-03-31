@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-6-nuevas-esperadas-funcionalidades-mensajes-voz-1037143'>WhatsApp añade 6 nuevas y esperadas funcionalidades a los mensajes de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-6-nuevas-esperadas-funcionalidades-mensajes-voz-1037143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/whatsapp-2511059.jpg' alt='WhatsApp añade 6 nuevas y esperadas funcionalidades a los mensajes de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-libros-electronicos-tiene-audiolibros-hemos-probado-verdadera-alternativa-kindle-1035869'>Este lector de libros electrónicos tiene audiolibros: lo hemos probado y es la verdadera alternativa al Kindle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lector-libros-electronicos-tiene-audiolibros-hemos-probado-verdadera-alternativa-kindle-1035869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pocketbook-touch-hd-3-2655073.jpg' alt='Este lector de libros electrónicos tiene audiolibros: lo hemos probado y es la verdadera alternativa al Kindle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-alternativas-aceite-girasol-ocu-1037151'>Las mejores alternativas al aceite de girasol, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-alternativas-aceite-girasol-ocu-1037151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/echar-aceite-2455911.jpg' alt='Las mejores alternativas al aceite de girasol, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097'>Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/significa-archivar-programa-windows-11-merece-pena-hacerlo-1037097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Qué significa archivar un programa en Windows 11: ¿merece la pena hacerlo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945'>¡Ya está en tu quiosco el número 613 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-613-computer-hoy-1032945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/computer-hoy-613-2655057.jpg' alt='¡Ya está en tu quiosco el número 613 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829'>Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luz-color-pack-bombillas-inteligentes-philips-rebajado-amazon-1035829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg' alt='Luz y color: este pack de bombillas inteligentes de Philips está rebajado en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-detecta-trabajo-te-afectando-1036421'>Una nueva tecnología detecta si tu trabajo te está afectando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-detecta-trabajo-te-afectando-1036421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/estres-movil-2272599.jpg' alt='Una nueva tecnología detecta si tu trabajo te está afectando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417'>En qué casos hay que activar las luces de emergencia en un atasco</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/casos-hay-activar-luces-emergencia-atasco-1036417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dgt-revela-mejores-horas-salir-viaje-atasco-2407195.jpg' alt='En qué casos hay que activar las luces de emergencia en un atasco' />
     </a>
 </div>
 
