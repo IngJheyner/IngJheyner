@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491'>Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromebook-ultraportatil-2-1-lenovo-bolsillo-oferta-1037491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chromebook-ultraportatil-2-1-lenovo-bolsillo-solo-cuesta-257-euros-2661943.jpg' alt='Este Chromebook ultraportátil 2 en 1 de Lenovo cabe en el bolsillo y solo cuesta 252 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117'>La temporada 4 de Stranger Things será muy diferente, según sus creadores</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/temporada-4-stranger-things-sera-muy-diferente-creadores-1037117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/stranger-things-temporada-4-2655217.jpg' alt='La temporada 4 de Stranger Things será muy diferente, según sus creadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421'>Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva</a></h4>
     <a href='https://computerhoy.com/noticias/life/cada-cuanto-como-tienes-limpiar-maquina-cafe-expresso-quede-como-nueva-1037421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/capsulas-cafe-2540907.jpg' alt='Cada cuánto y cómo tienes que limpiar tu máquina de café expresso para que quede como nueva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-automotive-podria-terminar-convirtiendose-serio-problema-google-1037457'>Google Maps en Android Automotive podría terminar convirtiéndose en un serio problema para Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-automotive-podria-terminar-convirtiendose-serio-problema-google-1037457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Google Maps en Android Automotive podría terminar convirtiéndose en un serio problema para Google' />
     </a>
 </div>
 
