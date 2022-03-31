@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411'>El OnePlus 10 Pro aterriza por fin en España y estos son sus precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-pro-aterriza-fin-espana-estos-son-precios-1037411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582723.jpg' alt='El OnePlus 10 Pro aterriza por fin en España y estos son sus precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397'>GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-1037397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gopro-hero10-black-creator-editon-nueva-camara-accion-pensada-creadores-contenido-2661833.jpg' alt='GoPro Hero10 Black Creator Editon: así es la nueva cámara de acción pensada para creadores de contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-reiniciar-router-vez-cuando-1037409'>¿Por qué tienes que reiniciar tu router de vez en cuando?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-reiniciar-router-vez-cuando-1037409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg' alt='¿Por qué tienes que reiniciar tu router de vez en cuando?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377'>Los 8 consejos para evitar el hackeo de tu coche según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/8-consejos-evitar-hackeo-coche-dgt-1037377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='Los 8 consejos para evitar el hackeo de tu coche según la DGT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363'>Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surge-nueva-filtracion-vivo-x80-chipset-utilizara-seguro-te-va-gustar-1037363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/vivo-lanza-oficialmente-nueva-familia-x70-grandes-novedades-fotograficas-3-modelos-2466587.jpg' alt='Surge una nueva filtración sobre el vivo X80 y el chipset que utilizará y seguro que te va a gustar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355'>ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rog-flow-z13-presume-ser-tablet-potente-planeta-12a-intel-rtx-3050-ti-1037355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rog-flow-z13-2661723.jpg' alt='ROG Flow Z13 presume de ser la tablet más potente del planeta: 12ª de Intel y una RTX 3050 Ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-google-emplea-ia-busquedas-ayudar-personas-atraviesan-situacion-dificil-1037321'>Así es como Google emplea la IA en sus búsquedas para ayudar a personas que atraviesan una situación difícil</a></h4>
-    <a href='https://computerhoy.com/noticias/como-google-emplea-ia-busquedas-ayudar-personas-atraviesan-situacion-dificil-1037321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-buscador.jpg' alt='Así es como Google emplea la IA en sus búsquedas para ayudar a personas que atraviesan una situación difícil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-1037289'>No puedes perderte el último documental de Netflix si inviertes en criptomonedas o te interesa el bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-1037289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-puedes-perderte-ultimo-documental-netflix-inviertes-criptomonedas-te-interesa-bitcoin-2661661.jpg' alt='No puedes perderte el último documental de Netflix si inviertes en criptomonedas o te interesa el bitcoin' />
     </a>
 </div>
 
