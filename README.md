@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989'>Las novedades que llegan a Instagram en abril</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Las novedades que llegan a Instagram en abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-trafico-ciudad-evitar-atascos-gracias-ia-australiana-1037925'>Cómo mejorar el tráfico en ciudad y evitar atascos gracias a esta IA australiana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-trafico-ciudad-evitar-atascos-gracias-ia-australiana-1037925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos_0.jpg' alt='Cómo mejorar el tráfico en ciudad y evitar atascos gracias a esta IA australiana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/epico-origen-logo-bluetooth-1037937'>El épico origen del logo de Bluetooth</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/epico-origen-logo-bluetooth-1037937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/epico-origen-logo-bluetooth-2662605.jpg' alt='El épico origen del logo de Bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881'>Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/avion-airbus-a380-2662553.jpg' alt='Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849'>Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-3-2556843.jpg' alt='Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberias-limpiar-jabon-liquido-platos-1037883'>Cosas que nunca deberías limpiar con jabón líquido para platos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberias-limpiar-jabon-liquido-platos-1037883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cosas-nunca-deberias-limpiar-jabon-liquido-platos-2662371.jpg' alt='Cosas que nunca deberías limpiar con jabón líquido para platos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-error-viagra-pelo-efecto-secundario-medicacion-artritis-1037851'>Científicos descubren por error la viagra para el pelo, efecto secundario de una medicación para la artritis</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-error-viagra-pelo-efecto-secundario-medicacion-artritis-1037851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Científicos descubren por error la viagra para el pelo, efecto secundario de una medicación para la artritis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797'>Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años' />
     </a>
 </div>
 
