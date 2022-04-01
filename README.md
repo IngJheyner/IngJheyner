@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-trucos-whatsapp-ios-android-centralizados-1018981'>Todos los trucos de WhatsApp para iOS y Android centralizados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todos-trucos-whatsapp-ios-android-centralizados-1018981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2628597.jpg' alt='Todos los trucos de WhatsApp para iOS y Android centralizados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-pov-1038053'>¿Qué significa POV?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-pov-1038053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='¿Qué significa POV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-funciona-reconocimiento-facial-gafas-sol-1038041'>¿Por qué no funciona el reconocimiento facial con gafas de sol?	</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-funciona-reconocimiento-facial-gafas-sol-1038041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/heres-why-face-id-doesnt-always-work-your-sunglasses-according-apple.jpg' alt='¿Por qué no funciona el reconocimiento facial con gafas de sol?	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019'>Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009'>Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-zenbook-17-fold-oled-2574481.jpg' alt='Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-1037999'>Estos son los estrenos de Disney+ para abril: grandes películas y series que aterrizan en la plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-1037999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-2662719.jpg' alt='Estos son los estrenos de Disney+ para abril: grandes películas y series que aterrizan en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-gaming-vista-16gb-ram-gtx-1650-solo-599-euros-amazon-1037295'>Ganga gaming a la vista: 16GB de RAM y GTX 1650 por solo 599 euros, y en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-gaming-vista-16gb-ram-gtx-1650-solo-599-euros-amazon-1037295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-gaming-3-gen-6-2661635.jpg' alt='Ganga gaming a la vista: 16GB de RAM y GTX 1650 por solo 599 euros, y en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989'>Las novedades que llegan a Instagram en abril</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Las novedades que llegan a Instagram en abril' />
     </a>
 </div>
 
