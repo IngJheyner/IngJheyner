@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387'>Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/windows-11-estancado-motivo-parece-evidente-1037773'>Windows 11 está estancado y el motivo parece evidente</a></h4>
+    <a href='https://computerhoy.com/noticias/windows-11-estancado-motivo-parece-evidente-1037773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Windows 11 está estancado y el motivo parece evidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763'>Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/iphone-conector-lightning.jpg' alt='Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667'>Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423961.jpg' alt='Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129'>Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados</a></h4>
     <a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/policia-busca-conductor-tesla-volador-1037121'>La policía busca al conductor del "Tesla volador"</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/policia-busca-conductor-tesla-volador-1037121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-busca-conductor-tesla-volador-2654765.jpg' alt='La policía busca al conductor del "Tesla volador"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2662223.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181'>Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2661423.jpg' alt='Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana' />
     </a>
 </div>
 
