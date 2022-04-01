@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739'>Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-construir-trampa-casera-atrapar-molestas-moscas-fruta-2662221.jpg' alt='Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511'>Esta teta artificial permite a un padre dar de mamar a su hijo</a></h4>
     <a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/teta-artificial-permite-padre-dar-mamar-hijo-2661997.jpg' alt='Esta teta artificial permite a un padre dar de mamar a su hijo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483'>Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499'>Los análisis de tecnología y videojuegos que más nos han gustado en marzo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/analisis-tecnologia-videojuegos-nos-han-gustado-marzo-1037499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-analisis-marzo-2661975.jpg' alt='Los análisis de tecnología y videojuegos que más nos han gustado en marzo' />
     </a>
 </div>
 
