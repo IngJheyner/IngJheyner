@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667'>Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423961.jpg' alt='Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129'>Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/policia-busca-conductor-tesla-volador-1037121'>La policía busca al conductor del "Tesla volador"</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/policia-busca-conductor-tesla-volador-1037121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/policia-busca-conductor-tesla-volador-2654765.jpg' alt='La policía busca al conductor del "Tesla volador"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2662223.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181'>Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2661423.jpg' alt='Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739'>Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-construir-trampa-casera-atrapar-molestas-moscas-fruta-2662221.jpg' alt='Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511'>Esta teta artificial permite a un padre dar de mamar a su hijo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/teta-artificial-permite-padre-dar-mamar-hijo-1037511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/teta-artificial-permite-padre-dar-mamar-hijo-2661997.jpg' alt='Esta teta artificial permite a un padre dar de mamar a su hijo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505'>Windows 11 rediseña por completo su aplicación para teléfonos móviles Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-2661979.jpg' alt='Windows 11 rediseña por completo su aplicación para teléfonos móviles Android' />
     </a>
 </div>
 
