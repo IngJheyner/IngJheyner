@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135'>The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-amazon-prime-gaming-abril-2663211.jpg' alt='The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131'>Este bug de Facebook habría estado distribuyendo noticias falsas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/borrar-facebook-2639585.jpg' alt='Este bug de Facebook habría estado distribuyendo noticias falsas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127'>Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/morbius-2663167.jpg' alt='Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901'>Este actor aceptó su papel en Caballero Luna sin haber leído el guión</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ethan-hawke-caballero-luna-2656511.jpg' alt='Este actor aceptó su papel en Caballero Luna sin haber leído el guión' />
     </a>
 </div>
 
