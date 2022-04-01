@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/20-productos-xiaomi-oferta-fin-semana-1037385'>Los 20 productos de Xiaomi en oferta este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/20-productos-xiaomi-oferta-fin-semana-1037385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-fan-festival-fondo-pantalla-2661789.jpg' alt='Los 20 productos de Xiaomi en oferta este fin de semana' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117'>El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/clasico-angry-birds-regresa-ios-android-tres-anos-despues-desaparecer-2663013.jpg' alt='El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091'>Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113'>Google anuncia la solución para los problemas de Google Maps en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Google anuncia la solución para los problemas de Google Maps en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-dos-atentados-humor-negro-caballero-1038035'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: dos atentados, humor negro y un caballero </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-dos-atentados-humor-negro-caballero-1038035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2662829.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: dos atentados, humor negro y un caballero ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-integrar-detector-rastreadores-bluetooth-directamente-android-1038103'>Google estaría trabajando en integrar un detector de rastreadores Bluetooth directamente en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-integrar-detector-rastreadores-bluetooth-directamente-android-1038103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Google estaría trabajando en integrar un detector de rastreadores Bluetooth directamente en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasos-deberias-hacer-antes-eliminar-cuenta-facebook-1025033'>Los pasos que deberías hacer antes de eliminar tu cuenta de Facebook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/pasos-deberias-hacer-antes-eliminar-cuenta-facebook-1025033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/borrar-facebook-2639585.jpg' alt='Los pasos que deberías hacer antes de eliminar tu cuenta de Facebook' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111'>La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-2662997.jpg' alt='La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847'>Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-2662361.jpg' alt='Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya' />
+    <h4><a href='https://computerhoy.com/noticias/motor/carretera-han-construido-panales-reciclados-1037899'>Así es la carretera que han construido con pañales reciclados</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carretera-han-construido-panales-reciclados-1037899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carretera-gales-2656025.jpg' alt='Así es la carretera que han construido con pañales reciclados' />
     </a>
 </div>
 
