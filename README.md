@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-trucos-whatsapp-ios-android-centralizados-1018981'>Todos los trucos de WhatsApp para iOS y Android centralizados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todos-trucos-whatsapp-ios-android-centralizados-1018981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2628597.jpg' alt='Todos los trucos de WhatsApp para iOS y Android centralizados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091'>Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-pov-1038053'>¿Qué significa POV?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-pov-1038053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/instagram-2554541.jpg' alt='¿Qué significa POV?' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-dos-atentados-humor-negro-caballero-1038035'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: dos atentados, humor negro y un caballero </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-dos-atentados-humor-negro-caballero-1038035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2662829.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: dos atentados, humor negro y un caballero ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-funciona-reconocimiento-facial-gafas-sol-1038041'>¿Por qué no funciona el reconocimiento facial con gafas de sol?	</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-funciona-reconocimiento-facial-gafas-sol-1038041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/heres-why-face-id-doesnt-always-work-your-sunglasses-according-apple.jpg' alt='¿Por qué no funciona el reconocimiento facial con gafas de sol?	' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasos-deberias-hacer-antes-eliminar-cuenta-facebook-1025033'>Los pasos que deberías hacer antes de eliminar tu cuenta de Facebook</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/pasos-deberias-hacer-antes-eliminar-cuenta-facebook-1025033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/borrar-facebook-2639585.jpg' alt='Los pasos que deberías hacer antes de eliminar tu cuenta de Facebook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019'>Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847'>Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-2662361.jpg' alt='Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009'>Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-zenbook-17-fold-oled-2574481.jpg' alt='Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables' />
+    <h4><a href='https://computerhoy.com/noticias/life/partir-hoy-no-te-extranes-pan-comes-cada-dia-sabe-diferente-hay-explicacion-1038065'>A partir de hoy no te extrañes si el pan que comes cada día sabe diferente, hay una explicación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/partir-hoy-no-te-extranes-pan-comes-cada-dia-sabe-diferente-hay-explicacion-1038065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cuales-son-tipos-pan-sanos-existen-2486027.jpg' alt='A partir de hoy no te extrañes si el pan que comes cada día sabe diferente, hay una explicación' />
     </a>
 </div>
 
