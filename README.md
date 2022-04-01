@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131'>Este bug de Facebook habría estado distribuyendo noticias falsas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/borrar-facebook-2639585.jpg' alt='Este bug de Facebook habría estado distribuyendo noticias falsas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133'>Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kakuka-k70-bicicleta-electrica-engranajes-ni-cadena-ya-venta-amazon-2663205.jpg' alt='Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123'>El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604645.jpg' alt='El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901'>Este actor aceptó su papel en Caballero Luna sin haber leído el guión</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ethan-hawke-caballero-luna-2656511.jpg' alt='Este actor aceptó su papel en Caballero Luna sin haber leído el guión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117'>El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/clasico-angry-birds-regresa-ios-android-tres-anos-despues-desaparecer-2663013.jpg' alt='El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113'>Google anuncia la solución para los problemas de Google Maps en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Google anuncia la solución para los problemas de Google Maps en Android Auto' />
     </a>
 </div>
 
