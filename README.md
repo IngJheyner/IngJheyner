@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1037741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2662223.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181'>Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-primavera-amazon-mejores-chollos-1037181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2661423.jpg' alt='Ofertas de Primavera de Amazon: estos son los mejores chollos de la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739'>Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta</a></h4>
     <a href='https://computerhoy.com/noticias/life/trampa-casera-atrapar-moscas-fruta-1037739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-construir-trampa-casera-atrapar-molestas-moscas-fruta-2662221.jpg' alt='Así puedes construir una trampa casera para atrapar las molestas moscas de la fruta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505'>Windows 11 rediseña por completo su aplicación para teléfonos móviles Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-1037505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-redisena-completo-aplicacion-telefonos-moviles-android-2661979.jpg' alt='Windows 11 rediseña por completo su aplicación para teléfonos móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/e3-2022-cancelado-1037503'>La feria de videojuegos E3 2022 se cancela por completo, tanto en formato presencial como online </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/e3-2022-cancelado-1037503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/feria-videojuegos-e3-2022-cancela-completo-tanto-formato-presencial-como-online-2661977.jpg' alt='La feria de videojuegos E3 2022 se cancela por completo, tanto en formato presencial como online ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483'>Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejor-frio-9-calentadores-caseros-puedes-fabricar-mismo-1037483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/6-formas-calentar-casa-gas-ni-electricidad-2538541.jpg' alt='Lo mejor para el frío: 9 calentadores caseros que puedes fabricar tú mismo' />
     </a>
 </div>
 
