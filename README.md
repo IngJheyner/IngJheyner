@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/20-productos-xiaomi-oferta-fin-semana-1037385'>Los 20 productos de Xiaomi en oferta este fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/20-productos-xiaomi-oferta-fin-semana-1037385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-fan-festival-fondo-pantalla-2661789.jpg' alt='Los 20 productos de Xiaomi en oferta este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091'>Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pronto-podras-reparar-movil-samsung-casa-perder-garantia-1038091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627363.jpg' alt='Pronto podrás reparar tu móvil Samsung desde casa y sin perder garantía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847'>Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-1037847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-hbo-netflix-disney-will-smith-epicidad-ridley-scott-gran-exito-goya-2662361.jpg' alt='Qué películas ver este fin de semana en HBO, Netflix y Disney+: Will Smith, la epicidad de Ridley Scott y el gran éxito de los Goya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/partir-hoy-no-te-extranes-pan-comes-cada-dia-sabe-diferente-hay-explicacion-1038065'>A partir de hoy no te extrañes si el pan que comes cada día sabe diferente, hay una explicación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/partir-hoy-no-te-extranes-pan-comes-cada-dia-sabe-diferente-hay-explicacion-1038065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cuales-son-tipos-pan-sanos-existen-2486027.jpg' alt='A partir de hoy no te extrañes si el pan que comes cada día sabe diferente, hay una explicación' />
     </a>
 </div>
 
