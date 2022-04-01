@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847'>Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/repartidor-amazon-2540397.jpg' alt='Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135'>The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-amazon-prime-gaming-abril-2663211.jpg' alt='The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123'>El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604645.jpg' alt='El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127'>Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/morbius-2663167.jpg' alt='Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más' />
     </a>
 </div>
 
