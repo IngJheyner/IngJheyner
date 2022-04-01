@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797'>Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-asegura-haber-solucionado-grandes-fallos-iphone-ultima-actualizacion-1037803'>Apple asegura haber solucionado uno de los grandes fallos de iPhone en su última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-asegura-haber-solucionado-grandes-fallos-iphone-ultima-actualizacion-1037803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Apple asegura haber solucionado uno de los grandes fallos de iPhone en su última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387'>Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763'>Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/iphone-conector-lightning.jpg' alt='Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667'>Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-baja-precio-amazon-realme-cuesta-solo-61-euros-1036667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423961.jpg' alt='Uno de los mejores smartwatch que hemos probado baja de precio en Amazon: es de realme y cuesta solo 61 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129'>Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/australia-toma-medidas-influencers-5-anos-carcel-compartir-consejos-financieros-inadecuados-1037129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-influencers-2588621.jpg' alt='Australia toma medidas con los influencers: 5 años de cárcel por compartir consejos financieros inadecuados' />
     </a>
 </div>
 
