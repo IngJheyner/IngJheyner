@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881'>Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/avion-airbus-a380-2662553.jpg' alt='Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849'>Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-3-2556843.jpg' alt='Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-deberias-limpiar-jabon-liquido-platos-1037883'>Cosas que nunca deberías limpiar con jabón líquido para platos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cosas-nunca-deberias-limpiar-jabon-liquido-platos-1037883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cosas-nunca-deberias-limpiar-jabon-liquido-platos-2662371.jpg' alt='Cosas que nunca deberías limpiar con jabón líquido para platos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-error-viagra-pelo-efecto-secundario-medicacion-artritis-1037851'>Científicos descubren por error la viagra para el pelo, efecto secundario de una medicación para la artritis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-error-viagra-pelo-efecto-secundario-medicacion-artritis-1037851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Científicos descubren por error la viagra para el pelo, efecto secundario de una medicación para la artritis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797'>Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciones-demandadas-iphone-presente-ya-android-podria-retrasarse-varios-anos-1037797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Una de las funciones más demandadas para iPhone, presente ya en Android, podría retrasarse varios años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-asegura-haber-solucionado-grandes-fallos-iphone-ultima-actualizacion-1037803'>Apple asegura haber solucionado uno de los grandes fallos de iPhone en su última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-asegura-haber-solucionado-grandes-fallos-iphone-ultima-actualizacion-1037803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Apple asegura haber solucionado uno de los grandes fallos de iPhone en su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387'>Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-rebajado-nuevo-xiaomi-redmi-note-11-descuento-20-euros-celebrar-primavera-1037387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='Amazon ha rebajado el nuevo Xiaomi Redmi Note 11 con un descuento de 20 euros para celebrar la primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/windows-11-estancado-motivo-parece-evidente-1037773'>Windows 11 está estancado y el motivo parece evidente</a></h4>
-    <a href='https://computerhoy.com/noticias/windows-11-estancado-motivo-parece-evidente-1037773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Windows 11 está estancado y el motivo parece evidente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763'>Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-android-historia-tecnologia-exclusiva-apple-1037763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/iphone-conector-lightning.jpg' alt='Así es el primer un smartphone Android de la historia con tecnología exclusiva de Apple' />
     </a>
 </div>
 
