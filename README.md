@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901'>Este actor aceptó su papel en Caballero Luna sin haber leído el guion</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123'>El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604645.jpg' alt='El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127'>Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/morbius-va-llegar-pronto-netflix-cuando-spider-man-no-way-home-1038127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/morbius-2663167.jpg' alt='Por qué Morbius va a llegar pronto a Netflix mientras que Spider-Man: No Way Home tardará más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901'>Este actor aceptó su papel en Caballero Luna sin haber leído el guión</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ethan-hawke-caballero-luna-2656511.jpg' alt='Este actor aceptó su papel en Caballero Luna sin haber leído el guion' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ethan-hawke-caballero-luna-2656511.jpg' alt='Este actor aceptó su papel en Caballero Luna sin haber leído el guión' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113'>Google anuncia la solución para los problemas de Google Maps en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-solucion-problemas-google-maps-android-auto-1038113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Google anuncia la solución para los problemas de Google Maps en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-integrar-detector-rastreadores-bluetooth-directamente-android-1038103'>Google estaría trabajando en integrar un detector de rastreadores Bluetooth directamente en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-integrar-detector-rastreadores-bluetooth-directamente-android-1038103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Google estaría trabajando en integrar un detector de rastreadores Bluetooth directamente en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111'>La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-2662997.jpg' alt='La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir' />
     </a>
 </div>
 
