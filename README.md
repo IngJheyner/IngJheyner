@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901'>Este actor aceptó su papel en Caballero Luna sin haber leído el guion</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/actor-acepto-papel-caballero-luna-haber-leido-guion-1037901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ethan-hawke-caballero-luna-2656511.jpg' alt='Este actor aceptó su papel en Caballero Luna sin haber leído el guion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117'>El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/clasico-angry-birds-regresa-ios-android-1038117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/clasico-angry-birds-regresa-ios-android-tres-anos-despues-desaparecer-2663013.jpg' alt='El clásico Angry Birds regresa a iOS y Android tres años después de desaparecer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111'>La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-podria-tener-buenas-noticias-conductores-codigo-78-carnet-conducir-1038111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-2662997.jpg' alt='La DGT podría tener buenas noticias para los conductores con el código 78 en el carnet de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carretera-han-construido-panales-reciclados-1037899'>Así es la carretera que han construido con pañales reciclados</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carretera-han-construido-panales-reciclados-1037899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/carretera-gales-2656025.jpg' alt='Así es la carretera que han construido con pañales reciclados' />
     </a>
 </div>
 
