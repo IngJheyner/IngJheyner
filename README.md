@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019'>Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-1038019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu se suma al metaverso y pondrá a la venta más de 100.000 terrenos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009'>Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-lg-estarian-trabajando-crear-ipads-macbooks-pantallas-oled-plegables-1038009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-zenbook-17-fold-oled-2574481.jpg' alt='Apple y LG estarían trabajando para crear iPads y MacBooks con pantallas OLED plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-1037999'>Estos son los estrenos de Disney+ para abril: grandes películas y series que aterrizan en la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-1037999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estos-son-estrenos-disney-abril-grandes-peliculas-series-aterrizan-plataforma-2662719.jpg' alt='Estos son los estrenos de Disney+ para abril: grandes películas y series que aterrizan en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-gaming-vista-16gb-ram-gtx-1650-solo-599-euros-amazon-1037295'>Ganga gaming a la vista: 16GB de RAM y GTX 1650 por solo 599 euros, y en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-gaming-vista-16gb-ram-gtx-1650-solo-599-euros-amazon-1037295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-gaming-3-gen-6-2661635.jpg' alt='Ganga gaming a la vista: 16GB de RAM y GTX 1650 por solo 599 euros, y en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989'>Las novedades que llegan a Instagram en abril</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedades-llegan-instagram-abril-1037989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-2497999.jpg' alt='Las novedades que llegan a Instagram en abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-trafico-ciudad-evitar-atascos-gracias-ia-australiana-1037925'>Cómo mejorar el tráfico en ciudad y evitar atascos gracias a esta IA australiana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-trafico-ciudad-evitar-atascos-gracias-ia-australiana-1037925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos_0.jpg' alt='Cómo mejorar el tráfico en ciudad y evitar atascos gracias a esta IA australiana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/epico-origen-logo-bluetooth-1037937'>El épico origen del logo de Bluetooth</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/epico-origen-logo-bluetooth-1037937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/epico-origen-logo-bluetooth-2662605.jpg' alt='El épico origen del logo de Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881'>Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-vuelo-airbus-a380-biofuel-100-reduce-casi-tercio-huella-co2-1037881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/avion-airbus-a380-2662553.jpg' alt='Primer vuelo de un Airbus A380 con biofuel 100%, reduce casi un tercio su huella de CO2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849'>Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/precio-minimo-historico-nuevo-patinete-xiaomi-mi-electric-scooter-3-ahora-cuesta-solo-399-euros-1037849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/xiaomi-mi-electric-scooter-3-2556843.jpg' alt='Precio mínimo histórico en el nuevo patinete de Xiaomi, el Mi Electric Scooter 3 que ahora cuesta solo 399 euros' />
     </a>
 </div>
 
