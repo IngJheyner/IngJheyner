@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455'>Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/princess-182050-2659981.jpg' alt='Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427'>Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg' alt='Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411'>Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347'>7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-peliculas-series-basadas-videojuegos-tienes-disponibles-ahora-mismo-2658341.jpg' alt='7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando' />
     </a>
 </div>
 
