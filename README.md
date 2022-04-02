@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-tablet-barata-oferta-amazon-pccomponentes-1037941'>Se ha convertido en una de las mejores tablets baratas del momento y está rebajada: hazte con esta realme Pad por 179€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-tablet-barata-oferta-amazon-pccomponentes-1037941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='Se ha convertido en una de las mejores tablets baratas del momento y está rebajada: hazte con esta realme Pad por 179€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-onlyfans-1035921'>¿Cómo funciona Onlyfans?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-onlyfans-1035921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659279.jpg' alt='¿Cómo funciona Onlyfans?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/dell-xps-13-9310-2021-review-opinion-1035857'>Dell XPS 13 9310 (2021), análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/dell-xps-13-9310-2021-review-opinion-1035857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dell-xps-13-9310-2021-analisis-opinion-2662673.jpg' alt='Dell XPS 13 9310 (2021), análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-formas-camuflar-router-casa-perder-velocidad-wifi-1037307'>Las 6 formas de camuflar tu router en casa sin perder velocidad WiFi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-formas-camuflar-router-casa-perder-velocidad-wifi-1037307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/esconder-router-2661655.jpg' alt='Las 6 formas de camuflar tu router en casa sin perder velocidad WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073'>Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-2659463.jpg' alt='Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013'>15 chollos de AliExpress de menos de 10€ que quieres sí o sí</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='15 chollos de AliExpress de menos de 10€ que quieres sí o sí' />
     </a>
 </div>
 
