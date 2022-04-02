@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073'>Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-2659463.jpg' alt='Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013'>15 chollos de AliExpress de menos de 10€ que quieres sí o sí</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='15 chollos de AliExpress de menos de 10€ que quieres sí o sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155'>Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/deshumidicador-999579'>Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad</a></h4>
     <a href='https://computerhoy.com/guia-compra/deshumidicador-999579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/deshumificador-2593239.jpg' alt='Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137'>Samsung ya permite comprar y ver NFTs en sus televisores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-ya-permite-comprar-ver-nfts-televisores-2663215.jpg' alt='Samsung ya permite comprar y ver NFTs en sus televisores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847'>Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/repartidor-amazon-2540397.jpg' alt='Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía' />
     </a>
 </div>
 
