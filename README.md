@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137'>Samsung ya permite comprar y ver NFTs en sus televisores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-ya-permite-comprar-ver-nfts-televisores-2663215.jpg' alt='Samsung ya permite comprar y ver NFTs en sus televisores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847'>Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/repartidor-amazon-2540397.jpg' alt='Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133'>Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kakuka-k70-bicicleta-electrica-engranajes-ni-cadena-ya-venta-amazon-2663205.jpg' alt='Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123'>El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/soporte-tarjeta-esim-llegaria-mano-android-13-1038123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604645.jpg' alt='El soporte para más de una tarjeta eSIM llegaría de la mano de Android 13' />
     </a>
 </div>
 
