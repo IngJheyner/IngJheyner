@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415'>La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/surface-go-3-2663571.jpg' alt='La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411'>Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017'>Oppo Find X5, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-oppo-find-x5-2663119.jpg' alt='Oppo Find X5, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-espia-te-rastrea-toma-control-telefono-te-enteres-1038393'>Este malware espía te rastrea y toma control de tu teléfono sin que te enteres</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-espia-te-rastrea-toma-control-telefono-te-enteres-1038393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Este malware espía te rastrea y toma control de tu teléfono sin que te enteres' />
     </a>
 </div>
 
