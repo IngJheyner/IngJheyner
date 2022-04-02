@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347'>7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-peliculas-series-basadas-videojuegos-tienes-disponibles-ahora-mismo-2658341.jpg' alt='7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397'>Si usas Internet Explorer no podrás actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='Si usas Internet Explorer no podrás actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017'>Oppo Find X5, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-oppo-find-x5-2663119.jpg' alt='Oppo Find X5, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/displayport-20-novedades-trae-mundo-gaming-1029775'>¿Qué es Displayport 2.0 y qué novedades trae al mundo gaming?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/displayport-20-novedades-trae-mundo-gaming-1029775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/displayport-20-novedades-trae-mundo-gaming-2662675.jpg' alt='¿Qué es Displayport 2.0 y qué novedades trae al mundo gaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-tablet-barata-oferta-amazon-pccomponentes-1037941'>Se ha convertido en una de las mejores tablets baratas del momento y está rebajada: hazte con esta realme Pad por 179€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-tablet-barata-oferta-amazon-pccomponentes-1037941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='Se ha convertido en una de las mejores tablets baratas del momento y está rebajada: hazte con esta realme Pad por 179€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-onlyfans-1035921'>¿Cómo funciona Onlyfans?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-onlyfans-1035921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659279.jpg' alt='¿Cómo funciona Onlyfans?' />
     </a>
 </div>
 
