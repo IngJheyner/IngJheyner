@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463'>Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estos-pinguinos-robots-saltarines-han-batido-record-guinness-saltando-comba-2663763.jpg' alt='Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459'>La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honor-band-6-analisis-opinion-2496847.jpg' alt='La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427'>Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg' alt='Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425'>MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649935.jpg' alt='MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes' />
     </a>
 </div>
 
