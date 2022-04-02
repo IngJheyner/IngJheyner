@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-runner-huawei-tiene-reloj-deportivo-solo-229eu-poco-envidiar-garmin-1037327'>Si eres runner, Huawei tiene un reloj deportivo de solo 229€ con poco que envidiar a los Garmin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eres-runner-huawei-tiene-reloj-deportivo-solo-229eu-poco-envidiar-garmin-1037327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Si eres runner, Huawei tiene un reloj deportivo de solo 229€ con poco que envidiar a los Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-formas-camuflar-router-casa-perder-velocidad-wifi-1037307'>Las 6 formas de camuflar tu router en casa sin perder velocidad WiFi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-formas-camuflar-router-casa-perder-velocidad-wifi-1037307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/esconder-router-2661655.jpg' alt='Las 6 formas de camuflar tu router en casa sin perder velocidad WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073'>Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-1036073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/singles-vinilos-son-segunda-cancion-cada-cara-otras-curiosidades-lps-2659463.jpg' alt='Por qué los singles de los vinilos son la segunda canción de cada cara y otras curiosidades de los LPs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155'>Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363'>Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/canada-medicos-recetan-pases-actividad-parques-nacionales-lugar-medicamentos-2663433.jpg' alt='Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/deshumidicador-999579'>Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad</a></h4>
-    <a href='https://computerhoy.com/guia-compra/deshumidicador-999579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/deshumificador-2593239.jpg' alt='Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad' />
     </a>
 </div>
 
