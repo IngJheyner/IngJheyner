@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/dell-xps-13-9310-2021-review-opinion-1035857'>Dell XPS 13 9310 (2021), análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/dell-xps-13-9310-2021-review-opinion-1035857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dell-xps-13-9310-2021-analisis-opinion-2662673.jpg' alt='Dell XPS 13 9310 (2021), análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-runner-huawei-tiene-reloj-deportivo-solo-229eu-poco-envidiar-garmin-1037327'>Si eres runner, Huawei tiene un reloj deportivo de solo 229€ con poco que envidiar a los Garmin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/eres-runner-huawei-tiene-reloj-deportivo-solo-229eu-poco-envidiar-garmin-1037327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Si eres runner, Huawei tiene un reloj deportivo de solo 229€ con poco que envidiar a los Garmin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013'>15 chollos de AliExpress de menos de 10€ que quieres sí o sí</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/15-chollos-aliexpress-menos-10eu-quieres-1038013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='15 chollos de AliExpress de menos de 10€ que quieres sí o sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155'>Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada' />
     </a>
 </div>
 
