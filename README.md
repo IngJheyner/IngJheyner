@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459'>La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honor-band-6-analisis-opinion-2496847.jpg' alt='La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-puerta-dentro-puerta-pensada-resistir-terremotos-1038449'>Crean una puerta dentro de una puerta y está pensada para resistir terremotos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-puerta-dentro-puerta-pensada-resistir-terremotos-1038449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tasukaru-door-2663691.jpg' alt='Crean una puerta dentro de una puerta y está pensada para resistir terremotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455'>Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/princess-182050-2659981.jpg' alt='Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425'>MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649935.jpg' alt='MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415'>La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/surface-go-3-2663571.jpg' alt='La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411'>Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar' />
     </a>
 </div>
 
