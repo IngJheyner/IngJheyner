@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427'>Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg' alt='Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425'>MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649935.jpg' alt='MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347'>7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-peliculas-series-basadas-videojuegos-tienes-disponibles-ahora-mismo-2658341.jpg' alt='7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397'>Si usas Internet Explorer no podrás actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='Si usas Internet Explorer no podrás actualizar a Windows 11' />
     </a>
 </div>
 
