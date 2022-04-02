@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363'>Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/canada-medicos-recetan-pases-actividad-parques-nacionales-lugar-medicamentos-2663433.jpg' alt='Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/deshumidicador-999579'>Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad</a></h4>
+    <a href='https://computerhoy.com/guia-compra/deshumidicador-999579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/deshumificador-2593239.jpg' alt='Guía y consejos para comprar un deshumidificador para mejorar la calidad del aire y eliminar la humedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137'>Samsung ya permite comprar y ver NFTs en sus televisores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-permite-comprar-ver-nft-televisores-1038137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-ya-permite-comprar-ver-nfts-televisores-2663215.jpg' alt='Samsung ya permite comprar y ver NFTs en sus televisores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135'>The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-amazon-prime-gaming-abril-2663211.jpg' alt='The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131'>Este bug de Facebook habría estado distribuyendo noticias falsas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bug-facebook-habria-estado-distribuyendo-noticias-falsas-1038131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/borrar-facebook-2639585.jpg' alt='Este bug de Facebook habría estado distribuyendo noticias falsas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133'>Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/kakuka-k70-bicicleta-electrica-sin-engranajes-ni-cadena-ya-venta-amazon-1038133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kakuka-k70-bicicleta-electrica-engranajes-ni-cadena-ya-venta-amazon-2663205.jpg' alt='Kakuka K70, la bicicleta eléctrica sin engranajes ni cadena, ya a la venta en Amazon' />
     </a>
 </div>
 
