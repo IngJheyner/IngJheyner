@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411'>Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-renuncia-academia-agresion-chris-rock-premios-oscar-1038411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='Will Smith renuncia a la Academia tras su agresión a Chris Rock en los Premios Óscar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347'>7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-basadas-videojuegos-rodando-1035347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/6-peliculas-series-basadas-videojuegos-tienes-disponibles-ahora-mismo-2658341.jpg' alt='7 películas y series basadas en videojuegos que tienes disponibles ahora mismo, y 4 que se están rodando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-espia-te-rastrea-toma-control-telefono-te-enteres-1038393'>Este malware espía te rastrea y toma control de tu teléfono sin que te enteres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-espia-te-rastrea-toma-control-telefono-te-enteres-1038393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Este malware espía te rastrea y toma control de tu teléfono sin que te enteres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/displayport-20-novedades-trae-mundo-gaming-1029775'>¿Qué es Displayport 2.0 y qué novedades trae al mundo gaming?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/displayport-20-novedades-trae-mundo-gaming-1029775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/displayport-20-novedades-trae-mundo-gaming-2662675.jpg' alt='¿Qué es Displayport 2.0 y qué novedades trae al mundo gaming?' />
     </a>
 </div>
 
