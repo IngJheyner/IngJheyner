@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425'>MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-cuela-primera-vez-top-10-moviles-android-mejor-rendimiento-mes-1038425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649935.jpg' alt='MediaTek se cuela por primera vez en el TOP 10 de móviles Android con mejor rendimiento del mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415'>La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/popular-microsoft-surface-go-3-windows-11-incluido-oferta-solo-534-euros-1038415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/surface-go-3-2663571.jpg' alt='La popular Microsoft Surface Go 3 con Windows 11 incluido en oferta a solo 534 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397'>Si usas Internet Explorer no podrás actualizar a Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usas-internet-explorer-no-podras-actualizar-windows-11-1038397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='Si usas Internet Explorer no podrás actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017'>Oppo Find X5, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-find-x5-review-opinion-1035017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-oppo-find-x5-2663119.jpg' alt='Oppo Find X5, análisis y opinión' />
     </a>
 </div>
 
