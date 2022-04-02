@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155'>Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quieres-movil-top-hay-invertir-dinero-porque-casi-nadie-te-va-regalar-nada-1032155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Si quieres un móvil TOP, hay que invertir dinero porque (casi) nadie te va a regalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363'>Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos</a></h4>
     <a href='https://computerhoy.com/noticias/life/canada-medicos-recetan-pases-actividad-parques-nacionales-1038363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/canada-medicos-recetan-pases-actividad-parques-nacionales-lugar-medicamentos-2663433.jpg' alt='Por qué en Canadá los médicos recetan pases de actividad en los parques nacionales, en lugar de medicamentos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847'>Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-productos-reacondicionados-amazon-estado-descuentos-garantia-999847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/repartidor-amazon-2540397.jpg' alt='Guía para comprar productos reacondicionados de Amazon: estado, descuentos y garantía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135'>The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-abril-1038135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elder-scrolls-iv-oblivion-total-war-warhammer-monkey-island-2-juegos-gratis-amazon-prime-gaming-abril-2663211.jpg' alt='The Elder Scrolls IV Oblivion, Total War Warhammer y Monkey Island 2, entre los juegos gratis de abril' />
     </a>
 </div>
 
