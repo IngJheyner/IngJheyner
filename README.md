@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773'>Cómo declarar correctamente tus criptomonedas en la RENTA 2021</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89mopm.jpg' alt='Cómo declarar correctamente tus criptomonedas en la RENTA 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697'>Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-xiaomi-mi-smart-clock-2408941.jpg' alt='Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-avisan-peor-puede-ocurrir-cambio-climatico-1034711'>7 películas que avisan sobre lo peor que puede ocurrir con el cambio climático</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-avisan-peor-puede-ocurrir-cambio-climatico-1034711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/san-andres-2659373.jpg' alt='7 películas que avisan sobre lo peor que puede ocurrir con el cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673'>Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/inicio-sesion-facebook-netflix-2664041.jpg' alt='Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo' />
     </a>
 </div>
 
