@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697'>Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-xiaomi-mi-smart-clock-2408941.jpg' alt='Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-malla-dos-routers-tendras-mejor-wifi-toda-casa-ahora-oferta-solo-47-euros-1038687'>Con este sistema en malla de dos routers tendrás el mejor WiFi en toda la casa y ahora en oferta a solo 47 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sistema-malla-dos-routers-tendras-mejor-wifi-toda-casa-ahora-oferta-solo-47-euros-1038687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tenda-nova-mw3-2664061.jpg' alt='Con este sistema en malla de dos routers tendrás el mejor WiFi en toda la casa y ahora en oferta a solo 47 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673'>Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/inicio-sesion-facebook-netflix-2664041.jpg' alt='Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cecotec-ha-rebajado-cintas-correr-grandes-descuentos-1037919'>Cecotec ha rebajado sus cintas de correr con grandes descuentos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cecotec-ha-rebajado-cintas-correr-grandes-descuentos-1037919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-runnerfit-sprint-vibrator-2662571.jpg' alt='Cecotec ha rebajado sus cintas de correr con grandes descuentos' />
     </a>
 </div>
 
