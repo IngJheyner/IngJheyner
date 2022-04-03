@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-pc-no-arranca-utilizando-movil-android-1026417'>Cómo arreglar tu PC si no arranca utilizando un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-pc-no-arranca-utilizando-movil-android-1026417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-movil-2642165.jpg' alt='Cómo arreglar tu PC si no arranca utilizando un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407'>Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bose-sport-earbuds-2661837.jpg' alt='Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747'>Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa </a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/telescopio-espacio-2091245.jpg' alt='Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353'>Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bmax-b5-2468677.jpg' alt='Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros' />
     </a>
 </div>
 
