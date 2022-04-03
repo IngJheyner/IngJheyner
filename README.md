@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-paneles-solares-portatiles-caravana-jardin-te-permitiran-ahorrar-factura-1035377'>5 paneles solares portátiles para tu caravana o jardín que te permitirán ahorrar en la factura</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-paneles-solares-portatiles-caravana-jardin-te-permitiran-ahorrar-factura-1035377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-instalando-paneles-solares-tejado-2663707.jpg' alt='5 paneles solares portátiles para tu caravana o jardín que te permitirán ahorrar en la factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069'>Consejos y guía para comprar y vender de forma segura en Milanuncios</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/milanuncios-2621353.jpg' alt='Consejos y guía para comprar y vender de forma segura en Milanuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669'>Guía para comprar infladores de neumáticos y compresores de aire para el coche</a></h4>
     <a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/neumatico-pinchado-2649633.jpg' alt='Guía para comprar infladores de neumáticos y compresores de aire para el coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459'>La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honor-band-6-analisis-opinion-2496847.jpg' alt='La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-puerta-dentro-puerta-pensada-resistir-terremotos-1038449'>Crean una puerta dentro de una puerta y está pensada para resistir terremotos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-puerta-dentro-puerta-pensada-resistir-terremotos-1038449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tasukaru-door-2663691.jpg' alt='Crean una puerta dentro de una puerta y está pensada para resistir terremotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455'>Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/princess-182050-2659981.jpg' alt='Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon' />
     </a>
 </div>
 
