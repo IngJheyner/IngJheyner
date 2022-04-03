@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669'>Guía para comprar infladores de neumáticos y compresores de aire para el coche</a></h4>
+    <a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/neumatico-pinchado-2649633.jpg' alt='Guía para comprar infladores de neumáticos y compresores de aire para el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463'>Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estos-pinguinos-robots-saltarines-han-batido-record-guinness-saltando-comba-2663763.jpg' alt='Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455'>Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-princess-modelo-vendidos-amazon-1036455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/princess-182050-2659981.jpg' alt='Freidora de aire Princess: por qué este modelo es uno de los más vendidos en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427'>Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ahora-tendras-oportunidad-tener-pedacito-luna-casa-1038427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg' alt='Ahora tendrás la oportunidad de tener un pedacito de la Luna en tu casa' />
     </a>
 </div>
 
