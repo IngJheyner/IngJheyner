@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407'>Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bose-sport-earbuds-2661837.jpg' alt='Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-postear-gif-instagram-1033905'>Cómo postear un GIF en Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-postear-gif-instagram-1033905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Cómo postear un GIF en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/poco-x4-pro-review-opinion-1038417'>POCO X4 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/poco-x4-pro-review-opinion-1038417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663751.jpg' alt='POCO X4 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747'>Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa </a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/telescopio-espacio-2091245.jpg' alt='Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353'>Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bmax-b5-2468677.jpg' alt='Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/anuncian-lentillas-inteligentes-avanzadas-realidad-aumentada-seguimiento-ocular-1038461'>Anuncian las lentillas inteligentes más avanzadas con realidad aumentada y seguimiento ocular</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/anuncian-lentillas-inteligentes-avanzadas-realidad-aumentada-seguimiento-ocular-1038461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lentillas-2663755.jpg' alt='Anuncian las lentillas inteligentes más avanzadas con realidad aumentada y seguimiento ocular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/personalidad-depende-comes-1038455'>Tu personalidad depende de lo que comes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/personalidad-depende-comes-1038455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-hamburguesa-2663709.jpg' alt='Tu personalidad depende de lo que comes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-convertir-comprimir-videos-android-1025755'>Aplicaciones para convertir y comprimir vídeos en Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-convertir-comprimir-videos-android-1025755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/video-smartphone-2640985.jpg' alt='Aplicaciones para convertir y comprimir vídeos en Android' />
     </a>
 </div>
 
