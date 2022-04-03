@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pronto-tendremos-gatos-no-producen-alergia-modificados-geneticamente-crispr-1037175'>Pronto tendremos gatos que no producen alergia, modificados genéticamente con CRISPR</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pronto-tendremos-gatos-no-producen-alergia-modificados-geneticamente-crispr-1037175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/persona-gato-2194743.jpg' alt='Pronto tendremos gatos que no producen alergia, modificados genéticamente con CRISPR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/herramienta-atasco-fregadero-inodoro-dragrado-oferta-1038733'>Si tu fregadero o inodoro se atasca constantemente, este aparato lo arregla en segundos y cuesta solo 22€</a></h4>
     <a href='https://computerhoy.com/noticias/life/herramienta-atasco-fregadero-inodoro-dragrado-oferta-1038733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fregadero-inodoro-atasca-constantemente-aparato-arregla-segundos-cuesta-solo-22eu-2664183.jpg' alt='Si tu fregadero o inodoro se atasca constantemente, este aparato lo arregla en segundos y cuesta solo 22€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/leer-ebook-2318329.jpg' alt='Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hack-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-1038717'>Consiguen reducir el ruido del ventilador de stock de los procesadores Intel Alder Lake, usando un simple papel  </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hack-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-1038717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consiguen-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-usando-simple-papel-2664149.jpg' alt='Consiguen reducir el ruido del ventilador de stock de los procesadores Intel Alder Lake, usando un simple papel  ' />
     </a>
 </div>
 
