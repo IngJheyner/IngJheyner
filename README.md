@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-paneles-solares-portatiles-caravana-jardin-te-permitiran-ahorrar-factura-1035377'>5 paneles solares portátiles para tu caravana o jardín que te permitirán ahorrar en la factura</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-paneles-solares-portatiles-caravana-jardin-te-permitiran-ahorrar-factura-1035377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-instalando-paneles-solares-tejado-2663707.jpg' alt='5 paneles solares portátiles para tu caravana o jardín que te permitirán ahorrar en la factura' />
+    <h4><a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747'>Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa </a></h4>
+    <a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/telescopio-espacio-2091245.jpg' alt='Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069'>Consejos y guía para comprar y vender de forma segura en Milanuncios</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/milanuncios-2621353.jpg' alt='Consejos y guía para comprar y vender de forma segura en Milanuncios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353'>Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-windows-10-tiene-8gb-ram-precio-record-cuesta-solo-169-euros-1037353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bmax-b5-2468677.jpg' alt='Este Mini PC con Windows 10 tiene 8GB de RAM y un precio de récord: cuesta solo 169 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669'>Guía para comprar infladores de neumáticos y compresores de aire para el coche</a></h4>
-    <a href='https://computerhoy.com/guia-compra/infladores-neumaticos-1030669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/neumatico-pinchado-2649633.jpg' alt='Guía para comprar infladores de neumáticos y compresores de aire para el coche' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anuncian-lentillas-inteligentes-avanzadas-realidad-aumentada-seguimiento-ocular-1038461'>Anuncian las lentillas inteligentes más avanzadas con realidad aumentada y seguimiento ocular</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/anuncian-lentillas-inteligentes-avanzadas-realidad-aumentada-seguimiento-ocular-1038461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lentillas-2663755.jpg' alt='Anuncian las lentillas inteligentes más avanzadas con realidad aumentada y seguimiento ocular' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463'>Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pinguinos-robots-salto-comba-record-guinness-video-1038463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estos-pinguinos-robots-saltarines-han-batido-record-guinness-saltando-comba-2663763.jpg' alt='Estos pingüinos robot han batido el récord Guinness saltando a la comba (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/life/personalidad-depende-comes-1038455'>Tu personalidad depende de lo que comes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/personalidad-depende-comes-1038455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-hamburguesa-2663709.jpg' alt='Tu personalidad depende de lo que comes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459'>La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-deportiva-honor-band-6-sera-mejor-companero-viaje-solo-3399-euros-1038459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/honor-band-6-analisis-opinion-2496847.jpg' alt='La pulsera de actividad deportiva Honor Band 6 será tu mejor compañero de viaje por solo 33,99 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-convertir-comprimir-videos-android-1025755'>Aplicaciones para convertir y comprimir vídeos en Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-convertir-comprimir-videos-android-1025755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/video-smartphone-2640985.jpg' alt='Aplicaciones para convertir y comprimir vídeos en Android' />
     </a>
 </div>
 
