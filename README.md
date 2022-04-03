@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/twitch-aplicacion-pc-mac-cierra-30-abril-1038731'>Malas noticias si usas Twitch en un PC o Mac: su aplicación de escritorio cerrará en breve</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/twitch-aplicacion-pc-mac-cierra-30-abril-1038731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malas-noticias-usas-twitch-pc-aplicacion-cerrara-breve-2664173.jpg' alt='Malas noticias si usas Twitch en un PC o Mac: su aplicación de escritorio cerrará en breve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/curiosos-regalos-nominados-oscar-2022-1038721'>Los curiosos regalos oficiales que recibieron este año los nominados a un Oscar junto con la nominación</a></h4>
     <a href='https://computerhoy.com/noticias/life/curiosos-regalos-nominados-oscar-2022-1038721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/parcela-escocia-titulo-lord-liposuccion-reformar-casa-regalos-curiosos-recibieron-nominados-oscar-2664151.jpg' alt='Los curiosos regalos oficiales que recibieron este año los nominados a un Oscar junto con la nominación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773'>Cómo declarar correctamente tus criptomonedas en la RENTA 2021</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89mopm.jpg' alt='Cómo declarar correctamente tus criptomonedas en la RENTA 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697'>Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-trabaja-pantalla-inteligente-grande-ahora-cerca-lanzarse-1038697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-xiaomi-mi-smart-clock-2408941.jpg' alt='Xiaomi trabaja en su pantalla inteligente más grande hasta ahora, y está cerca de lanzarse' />
     </a>
 </div>
 
