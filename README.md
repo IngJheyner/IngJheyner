@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673'>Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-prescinde-facebook-eliminara-funcion-perfiles-mayo-1038673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/inicio-sesion-facebook-netflix-2664041.jpg' alt='Netflix prescinde de Facebook y eliminará una función de los perfiles en mayo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cecotec-ha-rebajado-cintas-correr-grandes-descuentos-1037919'>Cecotec ha rebajado sus cintas de correr con grandes descuentos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cecotec-ha-rebajado-cintas-correr-grandes-descuentos-1037919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-runnerfit-sprint-vibrator-2662571.jpg' alt='Cecotec ha rebajado sus cintas de correr con grandes descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/shure-mv7-review-opinion-microfono-podcast-1036631'>Shure MV7, análisis y opinión del micrófono para podcast</a></h4>
+    <a href='https://computerhoy.com/analisis/shure-mv7-review-opinion-microfono-podcast-1036631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-shure-mv7-2663661.jpg' alt='Shure MV7, análisis y opinión del micrófono para podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nueva-interfaz-camara-luce-1038665'>WhatsApp trabaja en una nueva interfaz para la cámara, y así luce</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-nueva-interfaz-camara-luce-1038665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='WhatsApp trabaja en una nueva interfaz para la cámara, y así luce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-pc-no-arranca-utilizando-movil-android-1026417'>Cómo arreglar tu PC si no arranca utilizando un móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-pc-no-arranca-utilizando-movil-android-1026417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-movil-2642165.jpg' alt='Cómo arreglar tu PC si no arranca utilizando un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407'>Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-deportivos-bose-sport-earbuds-oferta-precio-black-friday-1037407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bose-sport-earbuds-2661837.jpg' alt='Amazon ha rebajado los auriculares deportivos Bose Sport Earbuds a precio de Black Friday, solo 148€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-postear-gif-instagram-1033905'>Cómo postear un GIF en Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-postear-gif-instagram-1033905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Cómo postear un GIF en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/poco-x4-pro-review-opinion-1038417'>POCO X4 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/poco-x4-pro-review-opinion-1038417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663751.jpg' alt='POCO X4 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747'>Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa </a></h4>
-    <a href='https://computerhoy.com/noticias/life/foto-dos-astronautas-paseo-espacial-telescopio-domestico-jardin-casa-1037747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/telescopio-espacio-2091245.jpg' alt='Por primera vez capturan la foto de dos astronautas en un paseo espacial desde un telescopio doméstico, en el jardín de casa ' />
     </a>
 </div>
 
