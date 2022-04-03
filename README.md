@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/leer-ebook-2318329.jpg' alt='Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hack-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-1038717'>Consiguen reducir el ruido del ventilador de stock de los procesadores Intel Alder Lake, usando un simple papel  </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hack-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-1038717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consiguen-reducir-ruido-ventilador-stock-procesadores-intel-alder-lake-usando-simple-papel-2664149.jpg' alt='Consiguen reducir el ruido del ventilador de stock de los procesadores Intel Alder Lake, usando un simple papel  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773'>Cómo declarar correctamente tus criptomonedas en la RENTA 2021</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-declarar-correctamente-criptomonedas-renta-2021-1032773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89mopm.jpg' alt='Cómo declarar correctamente tus criptomonedas en la RENTA 2021' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-malla-dos-routers-tendras-mejor-wifi-toda-casa-ahora-oferta-solo-47-euros-1038687'>Con este sistema en malla de dos routers tendrás el mejor WiFi en toda la casa y ahora en oferta a solo 47 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sistema-malla-dos-routers-tendras-mejor-wifi-toda-casa-ahora-oferta-solo-47-euros-1038687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tenda-nova-mw3-2664061.jpg' alt='Con este sistema en malla de dos routers tendrás el mejor WiFi en toda la casa y ahora en oferta a solo 47 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-android-auto-tiene-problema-idioma-1038681'>Ahora el asistente de Google en Android Auto tiene un problema de idioma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-android-auto-tiene-problema-idioma-1038681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Ahora el asistente de Google en Android Auto tiene un problema de idioma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-avisan-peor-puede-ocurrir-cambio-climatico-1034711'>7 películas que avisan sobre lo peor que puede ocurrir con el cambio climático</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-avisan-peor-puede-ocurrir-cambio-climatico-1034711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/san-andres-2659373.jpg' alt='7 películas que avisan sobre lo peor que puede ocurrir con el cambio climático' />
     </a>
 </div>
 
