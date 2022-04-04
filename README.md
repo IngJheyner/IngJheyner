@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-buds-son-realidad-son-auriculares-true-wireless-economicos-1039053'>Los OnePlus Nord Buds son una realidad, así son los auriculares True Wireless económicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-buds-son-realidad-son-auriculares-true-wireless-economicos-1039053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-tws-2625043.jpg' alt='Los OnePlus Nord Buds son una realidad, así son los auriculares True Wireless económicos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119'>Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-fabrican-auriculares-personalizados-usan-cantantes-1038975'>Cómo se fabrican los auriculares personalizados que usan los cantantes</a></h4>
-    <a href='https://computerhoy.com/noticias/como-fabrican-auriculares-personalizados-usan-cantantes-1038975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-fabrican-auriculares-personalizados-usan-cantantes-2664453.jpg' alt='Cómo se fabrican los auriculares personalizados que usan los cantantes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-1039109'>Filtración del drone DJI Mini 3: sub 250 gramos, con mejor cámara y detección de obstáculos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-1039109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-2664747.jpg' alt='Filtración del drone DJI Mini 3: sub 250 gramos, con mejor cámara y detección de obstáculos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-limita-aun-opciones-reenviar-mensajes-como-te-afecta-realmente-1038963'>WhatsApp limita aún más las opciones para reenviar mensajes: ¿cómo te afecta realmente?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-limita-aun-opciones-reenviar-mensajes-como-te-afecta-realmente-1038963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='WhatsApp limita aún más las opciones para reenviar mensajes: ¿cómo te afecta realmente?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-hara-facil-mensajes-contactos-no-guardados-android-1039121'>WhatsApp hará más fácil los mensajes a los contactos no guardados en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-hara-facil-mensajes-contactos-no-guardados-android-1039121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-mensajes-contactos-no-guardados-2664809.jpg' alt='WhatsApp hará más fácil los mensajes a los contactos no guardados en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebooks-barato-lenovo-ahora-oferta-150-euros-1038977'>Uno de los Chromebooks más baratos es este Lenovo que ahora está en oferta por 150 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromebooks-barato-lenovo-ahora-oferta-150-euros-1038977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/lenovo-ideapad-3-chromebook-2312787.jpg' alt='Uno de los Chromebooks más baratos es este Lenovo que ahora está en oferta por 150 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-1039049'>Ya puedes usar las Frases Rápidas, el asistente de Google en español sin decir OK Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-1039049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='Ya puedes usar las Frases Rápidas, el asistente de Google en español sin decir OK Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947'>Cómo acceder a las funciones experimentales de Netflix antes que nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Cómo acceder a las funciones experimentales de Netflix antes que nadie' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-vuelven-arrasar-netflix-ya-espera-otra-continuacion-tratara-temporada-3-1039025'>Los Bridgerton vuelven a arrasar en Netflix y ya se espera otra continuación, ¿de qué tratará la temporada 3?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-vuelven-arrasar-netflix-ya-espera-otra-continuacion-tratara-temporada-3-1039025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bridgerton-2664559.jpg' alt='Los Bridgerton vuelven a arrasar en Netflix y ya se espera otra continuación, ¿de qué tratará la temporada 3?' />
     </a>
 </div>
 
