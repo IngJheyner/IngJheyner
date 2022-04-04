@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-buds-son-realidad-son-auriculares-true-wireless-economicos-1039053'>Los OnePlus Nord Buds son una realidad, así son los auriculares True Wireless económicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-buds-son-realidad-son-auriculares-true-wireless-economicos-1039053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-nord-tws-2625043.jpg' alt='Los OnePlus Nord Buds son una realidad, así son los auriculares True Wireless económicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-fabrican-auriculares-personalizados-usan-cantantes-1038975'>Cómo se fabrican los auriculares personalizados que usan los cantantes</a></h4>
+    <a href='https://computerhoy.com/noticias/como-fabrican-auriculares-personalizados-usan-cantantes-1038975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-fabrican-auriculares-personalizados-usan-cantantes-2664453.jpg' alt='Cómo se fabrican los auriculares personalizados que usan los cantantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-limita-aun-opciones-reenviar-mensajes-como-te-afecta-realmente-1038963'>WhatsApp limita aún más las opciones para reenviar mensajes: ¿cómo te afecta realmente?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-limita-aun-opciones-reenviar-mensajes-como-te-afecta-realmente-1038963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='WhatsApp limita aún más las opciones para reenviar mensajes: ¿cómo te afecta realmente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebooks-barato-lenovo-ahora-oferta-150-euros-1038977'>Uno de los Chromebooks más baratos es este Lenovo que ahora está en oferta por 150 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromebooks-barato-lenovo-ahora-oferta-150-euros-1038977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/lenovo-ideapad-3-chromebook-2312787.jpg' alt='Uno de los Chromebooks más baratos es este Lenovo que ahora está en oferta por 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947'>Cómo acceder a las funciones experimentales de Netflix antes que nadie</a></h4>
     <a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Cómo acceder a las funciones experimentales de Netflix antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tecnica-te-ayuda-respirar-mejor-necesidad-hacer-ejercicio-1038961'>La técnica que te ayuda a respirar mejor sin necesidad de hacer ejercicio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tecnica-te-ayuda-respirar-mejor-necesidad-hacer-ejercicio-1038961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cinta-correr-2315509.jpg' alt='La técnica que te ayuda a respirar mejor sin necesidad de hacer ejercicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fue-red-social-donald-trump-1038927'>Qué fue de la red social de Donald Trump</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fue-red-social-donald-trump-1038927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/donald-trump-2664427.jpg' alt='Qué fue de la red social de Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-calidad-senal-wifi-router-1028353'>Cómo comprobar la calidad de la señal WiFi de tu router</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-calidad-senal-wifi-router-1028353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645457.jpg' alt='Cómo comprobar la calidad de la señal WiFi de tu router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1038895'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1038895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2664341.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
