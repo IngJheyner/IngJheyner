@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197'>Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-compra-trabajadores-patinetes-electricos-gratis-1039239'>Google compra a sus trabajadores con patinetes eléctricos gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-compra-trabajadores-patinetes-electricos-gratis-1039239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Google compra a sus trabajadores con patinetes eléctricos gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-1039227'>Cómo saber las coordenadas de un lugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-1039227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Cómo saber las coordenadas de un lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181'>Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-c35-realme-c31-2664983.jpg' alt='Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235'>A qué continente pertenece Rusia</a></h4>
     <a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='A qué continente pertenece Rusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/episodio-121-podcast-ch-20-1039223'>Episodio 12+1 de nuestro Podcast CH 2.0</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/episodio-121-podcast-ch-20-1039223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89p449.jpg' alt='Episodio 12+1 de nuestro Podcast CH 2.0' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131'>LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienda-lidl-supermercado-2597113.jpg' alt='LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147'>Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/serie-motorola-edge-20-2422677.jpg' alt='Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras' />
     </a>
 </div>
 
