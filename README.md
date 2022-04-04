@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325'>Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-2665287.jpg' alt='Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335'>Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja su precio mínimo histórico... ¡solo 39 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254979.jpg' alt='Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja su precio mínimo histórico... ¡solo 39 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-graficas-amd-estaria-causando-estragos-procesadores-ryzen-1039319'>Este bug de las gráficas AMD estaría causando estragos en los procesadores Ryzen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bug-graficas-amd-estaria-causando-estragos-procesadores-ryzen-1039319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='Este bug de las gráficas AMD estaría causando estragos en los procesadores Ryzen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909'>Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2658545.jpg' alt='Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321'>Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paramount-nada-mejor-ver-proximos-estrenos-conocer-plataforma-2665237.jpg' alt='Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-alerta-nueva-peligrosa-estafa-whatsapp-familiar-apuros-1039309'>La Policía alerta sobre una nueva y peligrosa estafa en WhatsApp: el familiar en apuros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-alerta-nueva-peligrosa-estafa-whatsapp-familiar-apuros-1039309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='La Policía alerta sobre una nueva y peligrosa estafa en WhatsApp: el familiar en apuros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-nueva-funcion-te-facilitara-mucho-vida-cuando-viajes-otros-paises-1039307'>El traductor de Google añade una nueva función que te facilitará mucho la vida cuando viajes a otros países</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-nueva-funcion-te-facilitara-mucho-vida-cuando-viajes-otros-paises-1039307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='El traductor de Google añade una nueva función que te facilitará mucho la vida cuando viajes a otros países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-xiaomi-mix-fold-2-podria-doblar-dos-maneras-diferentes-1039291'>La pantalla del Xiaomi Mix Fold 2 se podría doblar en dos maneras diferentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-xiaomi-mix-fold-2-podria-doblar-dos-maneras-diferentes-1039291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='La pantalla del Xiaomi Mix Fold 2 se podría doblar en dos maneras diferentes' />
     </a>
 </div>
 
