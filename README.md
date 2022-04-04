@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-habria-desvelado-querer-especificaciones-tarjeta-intel-arc-competiria-nvidia-rtx-3070-1039273'>Intel habría desvelado sin querer las especificaciones de su tarjeta Intel Arc que competiría con la NVIDIA RTX 3070</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-habria-desvelado-querer-especificaciones-tarjeta-intel-arc-competiria-nvidia-rtx-3070-1039273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Intel habría desvelado sin querer las especificaciones de su tarjeta Intel Arc que competiría con la NVIDIA RTX 3070' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197'>Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181'>Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-c35-realme-c31-2664983.jpg' alt='Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235'>A qué continente pertenece Rusia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='A qué continente pertenece Rusia' />
     </a>
 </div>
 
