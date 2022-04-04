@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pronto-tendremos-gatos-no-producen-alergia-modificados-geneticamente-crispr-1037175'>Pronto tendremos gatos que no producen alergia, modificados genéticamente con CRISPR</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pronto-tendremos-gatos-no-producen-alergia-modificados-geneticamente-crispr-1037175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/persona-gato-2194743.jpg' alt='Pronto tendremos gatos que no producen alergia, modificados genéticamente con CRISPR' />
+    <h4><a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947'>Cómo acceder a las funciones experimentales de Netflix antes que nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/como-acceder-funciones-experimentales-netflix-antes-nadie-1038947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Cómo acceder a las funciones experimentales de Netflix antes que nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/herramienta-atasco-fregadero-inodoro-dragrado-oferta-1038733'>Si tu fregadero o inodoro se atasca constantemente, este aparato lo arregla en segundos y cuesta solo 22€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/herramienta-atasco-fregadero-inodoro-dragrado-oferta-1038733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fregadero-inodoro-atasca-constantemente-aparato-arregla-segundos-cuesta-solo-22eu-2664183.jpg' alt='Si tu fregadero o inodoro se atasca constantemente, este aparato lo arregla en segundos y cuesta solo 22€' />
+    <h4><a href='https://computerhoy.com/noticias/life/tecnica-te-ayuda-respirar-mejor-necesidad-hacer-ejercicio-1038961'>La técnica que te ayuda a respirar mejor sin necesidad de hacer ejercicio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tecnica-te-ayuda-respirar-mejor-necesidad-hacer-ejercicio-1038961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cinta-correr-2315509.jpg' alt='La técnica que te ayuda a respirar mejor sin necesidad de hacer ejercicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/twitch-aplicacion-pc-mac-cierra-30-abril-1038731'>Malas noticias si usas Twitch en un PC o Mac: su aplicación de escritorio cerrará en breve</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/twitch-aplicacion-pc-mac-cierra-30-abril-1038731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malas-noticias-usas-twitch-pc-aplicacion-cerrara-breve-2664173.jpg' alt='Malas noticias si usas Twitch en un PC o Mac: su aplicación de escritorio cerrará en breve' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fue-red-social-donald-trump-1038927'>Qué fue de la red social de Donald Trump</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fue-red-social-donald-trump-1038927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/donald-trump-2664427.jpg' alt='Qué fue de la red social de Donald Trump' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/curiosos-regalos-nominados-oscar-2022-1038721'>Los curiosos regalos oficiales que recibieron este año los nominados a un Oscar junto con la nominación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/curiosos-regalos-nominados-oscar-2022-1038721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/parcela-escocia-titulo-lord-liposuccion-reformar-casa-regalos-curiosos-recibieron-nominados-oscar-2664151.jpg' alt='Los curiosos regalos oficiales que recibieron este año los nominados a un Oscar junto con la nominación' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-calidad-senal-wifi-router-1028353'>Cómo comprobar la calidad de la señal WiFi de tu router</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-calidad-senal-wifi-router-1028353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645457.jpg' alt='Cómo comprobar la calidad de la señal WiFi de tu router' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/leer-ebook-2318329.jpg' alt='Los mejores lectores de eBook de 2022: cuál comprar, comparativa y guía para elegir' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1038895'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1038895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2664341.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
