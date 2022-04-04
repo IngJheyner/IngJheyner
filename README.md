@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909'>Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2658545.jpg' alt='Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321'>Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paramount-nada-mejor-ver-proximos-estrenos-conocer-plataforma-2665237.jpg' alt='Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-alerta-nueva-peligrosa-estafa-whatsapp-familiar-apuros-1039309'>La Policía alerta sobre una nueva y peligrosa estafa en WhatsApp: el familiar en apuros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-alerta-nueva-peligrosa-estafa-whatsapp-familiar-apuros-1039309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='La Policía alerta sobre una nueva y peligrosa estafa en WhatsApp: el familiar en apuros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-nueva-funcion-te-facilitara-mucho-vida-cuando-viajes-otros-paises-1039307'>El traductor de Google añade una nueva función que te facilitará mucho la vida cuando viajes a otros países</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-nueva-funcion-te-facilitara-mucho-vida-cuando-viajes-otros-paises-1039307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='El traductor de Google añade una nueva función que te facilitará mucho la vida cuando viajes a otros países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-xiaomi-mix-fold-2-podria-doblar-dos-maneras-diferentes-1039291'>La pantalla del Xiaomi Mix Fold 2 se podría doblar en dos maneras diferentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-xiaomi-mix-fold-2-podria-doblar-dos-maneras-diferentes-1039291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='La pantalla del Xiaomi Mix Fold 2 se podría doblar en dos maneras diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mercedes-dejara-fabricar-hibridos-enchufables-2022-1038907'>Mercedes dejará de fabricar híbridos enchufables en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mercedes-dejara-fabricar-hibridos-enchufables-2022-1038907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mercedes-benz-c-300-hibrido-enchufable-2658537.jpg' alt='Mercedes dejará de fabricar híbridos enchufables en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-habria-desvelado-querer-especificaciones-tarjeta-intel-arc-competiria-nvidia-rtx-3070-1039273'>Intel habría desvelado sin querer las especificaciones de su tarjeta Intel Arc que competiría con la NVIDIA RTX 3070</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-habria-desvelado-querer-especificaciones-tarjeta-intel-arc-competiria-nvidia-rtx-3070-1039273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Intel habría desvelado sin querer las especificaciones de su tarjeta Intel Arc que competiría con la NVIDIA RTX 3070' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197'>Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-justifica-trampas-benchmarks-rendimiento-moviles-top-1039197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi justifica las “trampas” en los benchmarks de rendimiento de sus móviles top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-compra-trabajadores-patinetes-electricos-gratis-1039239'>Google compra a sus trabajadores con patinetes eléctricos gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-compra-trabajadores-patinetes-electricos-gratis-1039239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Google compra a sus trabajadores con patinetes eléctricos gratis' />
     </a>
 </div>
 
