@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131'>LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienda-lidl-supermercado-2597113.jpg' alt='LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147'>Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/serie-motorola-edge-20-2422677.jpg' alt='Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-1039149'>Elon Musk se convierte en el accionista mayoritario de Twitter con la compra del 9,2% por casi 3000 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-1039149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk se convierte en el accionista mayoritario de Twitter con la compra del 9,2% por casi 3000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-pc-windows-11-microsoft-surface-8-nos-ha-encantado-ademas-ahora-puedes-comprar-debajo-1000-euros-1038987'>Tablet y PC con Windows 11: la Microsoft Surface 8 nos ha encantado y además ahora la puedes comprar por debajo de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-pc-windows-11-microsoft-surface-8-nos-ha-encantado-ademas-ahora-puedes-comprar-debajo-1000-euros-1038987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613471.jpg' alt='Tablet y PC con Windows 11: la Microsoft Surface 8 nos ha encantado y además ahora la puedes comprar por debajo de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119'>Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-1039109'>Filtración del drone DJI Mini 3: sub 250 gramos, con mejor cámara y detección de obstáculos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-1039109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtracion-drone-dji-mini-3-sub-250-gramos-mejor-camara-deteccion-obstaculos-2664747.jpg' alt='Filtración del drone DJI Mini 3: sub 250 gramos, con mejor cámara y detección de obstáculos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-hara-facil-mensajes-contactos-no-guardados-android-1039121'>WhatsApp hará más fácil los mensajes a los contactos no guardados en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-hara-facil-mensajes-contactos-no-guardados-android-1039121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-mensajes-contactos-no-guardados-2664809.jpg' alt='WhatsApp hará más fácil los mensajes a los contactos no guardados en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-1039049'>Ya puedes usar las Frases Rápidas, el asistente de Google en español sin decir OK Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-1039049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='Ya puedes usar las Frases Rápidas, el asistente de Google en español sin decir OK Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-vuelven-arrasar-netflix-ya-espera-otra-continuacion-tratara-temporada-3-1039025'>Los Bridgerton vuelven a arrasar en Netflix y ya se espera otra continuación, ¿de qué tratará la temporada 3?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-vuelven-arrasar-netflix-ya-espera-otra-continuacion-tratara-temporada-3-1039025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bridgerton-2664559.jpg' alt='Los Bridgerton vuelven a arrasar en Netflix y ya se espera otra continuación, ¿de qué tratará la temporada 3?' />
     </a>
 </div>
 
