@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339'>Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-2665291.jpg' alt='Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325'>Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-2665287.jpg' alt='Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335'>Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja su precio mínimo histórico... ¡solo 39 euros!</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335'>Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254979.jpg' alt='Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja su precio mínimo histórico... ¡solo 39 euros!' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254979.jpg' alt='Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909'>Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tom-cruise-habla-top-gun-maverick-era-ahora-nunca-1038909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2658545.jpg' alt='Tom Cruise habla sobre Top Gun Maverick: "Era ahora o nunca"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321'>Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-estrenos-abril-2022-1039321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paramount-nada-mejor-ver-proximos-estrenos-conocer-plataforma-2665237.jpg' alt='Qué es Paramount+: nada mejor que ver sus próximos estrenos para conocer esta plataforma' />
     </a>
 </div>
 
