@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181'>Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-gama-entrada-realme-c35-c31-moviles-debajo-200-euros-1039181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-c35-realme-c31-2664983.jpg' alt='Nueva gama de entrada de realme con los C35 y C31, móviles por debajo de los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235'>A qué continente pertenece Rusia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/continente-pertenece-rusia-1039235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='A qué continente pertenece Rusia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/episodio-121-podcast-ch-20-1039223'>Episodio 12+1 de nuestro Podcast CH 2.0</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/episodio-121-podcast-ch-20-1039223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89p449.jpg' alt='Episodio 12+1 de nuestro Podcast CH 2.0' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131'>LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES</a></h4>
     <a href='https://computerhoy.com/noticias/industria/lidl-quiere-convertirse-hosting-proveedor-servicios-nube-europa-pymes-1039131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tienda-lidl-supermercado-2597113.jpg' alt='LIDL quiere convertirse en hosting y proveedor de servicios en la nube en Europa para PYMES' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147'>Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-motorola-edge-30-no-pro-procesador-modesto-mismas-camaras-1039147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/serie-motorola-edge-20-2422677.jpg' alt='Así será el Motorola Edge 30 “no Pro”: procesador más modesto, mismas cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-1039149'>Elon Musk se convierte en el accionista mayoritario de Twitter con la compra del 9,2% por casi 3000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-1039149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk se convierte en el accionista mayoritario de Twitter con la compra del 9,2% por casi 3000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-pc-windows-11-microsoft-surface-8-nos-ha-encantado-ademas-ahora-puedes-comprar-debajo-1000-euros-1038987'>Tablet y PC con Windows 11: la Microsoft Surface 8 nos ha encantado y además ahora la puedes comprar por debajo de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-pc-windows-11-microsoft-surface-8-nos-ha-encantado-ademas-ahora-puedes-comprar-debajo-1000-euros-1038987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613471.jpg' alt='Tablet y PC con Windows 11: la Microsoft Surface 8 nos ha encantado y además ahora la puedes comprar por debajo de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119'>Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desvela-todo-misterio-plegable-vivo-x-fold-estos-materiales-marketing-filtrados-1039119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='Se desvela todo el misterio sobre el plegable vivo X Fold con estos materiales de marketing filtrados' />
     </a>
 </div>
 
