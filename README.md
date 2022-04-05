@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211'>Twitter confirma oficialmente que están testeando ya la función de editar tweets</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Twitter confirma oficialmente que están testeando ya la función de editar tweets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209'>La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/coalition-unreal-engine-5-2419363.jpg' alt='La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625'>Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-wars-episodio-iv-nueva-esperanza-2659625.jpg' alt='Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-empezara-mostrar-estado-semaforos-precio-peajes-1040181'>Google Maps empezará a mostrar el estado de los semáforos y el precio de los peajes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-empezara-mostrar-estado-semaforos-precio-peajes-1040181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Google Maps empezará a mostrar el estado de los semáforos y el precio de los peajes' />
     </a>
 </div>
 
