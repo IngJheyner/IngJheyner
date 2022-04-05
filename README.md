@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875'>A qué famoso te pareces   </a></h4>
+    <a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/famoso-te-pareces-2666203.jpg' alt='A qué famoso te pareces   ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tydom-home-gadget-hace-inteligente-casa-1039899'>Tydom Home, así es el gadget que hace inteligente nuestra casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tydom-home-gadget-hace-inteligente-casa-1039899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/casa-conectada-smart-home-1855191.jpg' alt='Tydom Home, así es el gadget que hace inteligente nuestra casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/widget-glance-google-anade-nueva-funciones-auriculares-terremotos-1039861'>Los móviles de Google ya te avisan de terremotos en su pantalla de espera con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/widget-glance-google-anade-nueva-funciones-auriculares-terremotos-1039861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/glance-portada-2666161.jpg' alt='Los móviles de Google ya te avisan de terremotos en su pantalla de espera con esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-reloj-pero-pulsera-xiaomi-barata-mi-band-14-dias-bateria-1039087'>Parece un reloj, pero es una pulsera y de Xiaomi: más barata que la Mi Band y con 14 días de batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/parece-reloj-pero-pulsera-xiaomi-barata-mi-band-14-dias-bateria-1039087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591271.jpg' alt='Parece un reloj, pero es una pulsera y de Xiaomi: más barata que la Mi Band y con 14 días de batería' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lidl-rebaja-100-euros-freidora-aceite-permite-cocinar-dos-alimentos-vez-1039799'>Lidl rebaja 100 euros su freidora sin aceite que permite cocinar dos alimentos a la vez</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-rebaja-100-euros-freidora-aceite-permite-cocinar-dos-alimentos-vez-1039799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-2666015.jpg' alt='Lidl rebaja 100 euros su freidora sin aceite que permite cocinar dos alimentos a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/8-cosas-deberias-llevar-maletero-coche-1039751'>Las 8 cosas que deberías llevar en el maletero del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/8-cosas-deberias-llevar-maletero-coche-1039751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/perro-maletero-coche-2414089.jpg' alt='Las 8 cosas que deberías llevar en el maletero del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695'>Las mejores páginas web para crear un CV online</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/curriculo_regla_seis_segundos_2.jpg' alt='Las mejores páginas web para crear un CV online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787'>MangoPi, el ordenador más pequeño que una tarjeta SD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mangopi-portada-2666005.jpg' alt='MangoPi, el ordenador más pequeño que una tarjeta SD' />
     </a>
 </div>
 
