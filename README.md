@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353'>Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/segway-superscooter-gt-patinete-ultradeportivo-alcanza-70-km-h-2665345.jpg' alt='Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-sony-paralizan-proyectos-will-smith-policias-rebeldes-4-1039351'>Las consecuencias del bofetón: Netflix y Sony paralizan los proyectos con Will Smith, incluyendo Policías Rebeldes 4</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-sony-paralizan-proyectos-will-smith-policias-rebeldes-4-1039351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-oscar-2022-2657723.jpg' alt='Las consecuencias del bofetón: Netflix y Sony paralizan los proyectos con Will Smith, incluyendo Policías Rebeldes 4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335'>Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254979.jpg' alt='Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-graficas-amd-estaria-causando-estragos-procesadores-ryzen-1039319'>Este bug de las gráficas AMD estaría causando estragos en los procesadores Ryzen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bug-graficas-amd-estaria-causando-estragos-procesadores-ryzen-1039319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='Este bug de las gráficas AMD estaría causando estragos en los procesadores Ryzen' />
     </a>
 </div>
 
