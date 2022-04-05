@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583'>Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/olvidate-patatas-fritas-como-preparar-deliciosos-snacks-platano-banana-mucho-saludables-2665645.jpg' alt='Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353'>Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  </a></h4>
     <a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/segway-superscooter-gt-patinete-ultradeportivo-alcanza-70-km-h-2665345.jpg' alt='Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325'>Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-2665287.jpg' alt='Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335'>Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-lite-reloj-deportivo-gps-chollo-39-euros-1039335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-watch-lite-analisis-opinion-2254979.jpg' alt='Xiaomi Mi Watch Lite, el reloj deportivo con GPS, baja a su precio mínimo histórico... ¡solo 39 euros!' />
     </a>
 </div>
 
