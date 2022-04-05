@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-max-seria-ultimas-filtraciones-diseno-camara-1039595'>iPhone 14 Pro Max: así sería según las últimas filtraciones del diseño y la cámara</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-max-seria-ultimas-filtraciones-diseno-camara-1039595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-pro-max-azul-2580971.jpg' alt='iPhone 14 Pro Max: así sería según las últimas filtraciones del diseño y la cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/anillos-saturno-acabaran-desapareciendo-pero-marte-tendra-nuevos-1038917'>Los anillos de Saturno acabarán desapareciendo, pero Marte tendrá unos nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/anillos-saturno-acabaran-desapareciendo-pero-marte-tendra-nuevos-1038917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/saturno-visto-sonda-cassini-1964025.jpg' alt='Los anillos de Saturno acabarán desapareciendo, pero Marte tendrá unos nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-te-afectan-medidas-gobierno-pagar-menos-combustible-1038913'>Cómo te afectan las medidas del Gobierno para pagar menos por el combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-te-afectan-medidas-gobierno-pagar-menos-combustible-1038913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/autopista-consumo-2662305.jpg' alt='Cómo te afectan las medidas del Gobierno para pagar menos por el combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1039585'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1039585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2665647.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-puedes-comprar-1035199'>Mejores Chromebooks baratos que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-puedes-comprar-1035199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chromebook-2658063.jpg' alt='Mejores Chromebooks baratos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583'>Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/olvidate-patatas-fritas-como-preparar-deliciosos-snacks-platano-banana-mucho-saludables-2665645.jpg' alt='Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353'>Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/segway-superscooter-gt-patinete-deportivo-70-km-h-1039353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/segway-superscooter-gt-patinete-ultradeportivo-alcanza-70-km-h-2665345.jpg' alt='Segway SuperScooter GT, el patinete ultradeportivo que alcanza los 70 Km/h  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-sony-paralizan-proyectos-will-smith-policias-rebeldes-4-1039351'>Las consecuencias del bofetón: Netflix y Sony paralizan los proyectos con Will Smith, incluyendo Policías Rebeldes 4</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-sony-paralizan-proyectos-will-smith-policias-rebeldes-4-1039351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-oscar-2022-2657723.jpg' alt='Las consecuencias del bofetón: Netflix y Sony paralizan los proyectos con Will Smith, incluyendo Policías Rebeldes 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339'>Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-2665291.jpg' alt='Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini' />
     </a>
 </div>
 
