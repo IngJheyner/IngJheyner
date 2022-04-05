@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crucial-x6-unidad-ssd-portatil-2tb-oferta-1039261'>Si necesitas una unidad de gran capacidad y muy rápida no te pierdas esta SSD de Crucial: 2 TB por solo 150€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crucial-x6-unidad-ssd-portatil-2tb-oferta-1039261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/crucial-x6-2241367.jpg' alt='Si necesitas una unidad de gran capacidad y muy rápida no te pierdas esta SSD de Crucial: 2 TB por solo 150€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-paso-como-gran-accionista-twitter-elon-musk-editar-tweets-1039627'>El primer paso como gran accionista de Twitter de Elon Musk: ¿Editar tweets?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-paso-como-gran-accionista-twitter-elon-musk-editar-tweets-1039627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='El primer paso como gran accionista de Twitter de Elon Musk: ¿Editar tweets?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dormir-cualquier-luz-perjudicial-salud-ciencia-confirma-1039605'>Dormir con cualquier luz es perjudicial para la salud, la ciencia lo confirma</a></h4>
+    <a href='https://computerhoy.com/noticias/dormir-cualquier-luz-perjudicial-salud-ciencia-confirma-1039605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/razon-te-despiertas-3-manana-no-puedes-dormirte-truco-evitarlo-2651821.jpg' alt='Dormir con cualquier luz es perjudicial para la salud, la ciencia lo confirma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuanta-memoria-ram-necesita-pc-1035001'>¿Cuánta memoria RAM necesita tu PC?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cuanta-memoria-ram-necesita-pc-1035001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/memorias-ram-2657787.jpg' alt='¿Cuánta memoria RAM necesita tu PC?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-conseguir-numero-referencia-borrador-renta-2021-1039111'>Cómo conseguir el número de referencia del borrador para la Renta 2021</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-conseguir-numero-referencia-borrador-renta-2021-1039111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2664745.jpg' alt='Cómo conseguir el número de referencia del borrador para la Renta 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/empresa-taiwanesa-convierte-semaforos-farolas-puntos-recambio-baterias-motos-electricas-1039603'>Esta empresa taiwanesa convierte los semáforos y farolas en puntos de recambio de baterías para motos eléctricas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/empresa-taiwanesa-convierte-semaforos-farolas-puntos-recambio-baterias-motos-electricas-1039603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empresa-taiwanesa-convierte-semaforos-farolas-puntos-recambio-baterias-motos-electricas-2665657.jpg' alt='Esta empresa taiwanesa convierte los semáforos y farolas en puntos de recambio de baterías para motos eléctricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-max-seria-ultimas-filtraciones-diseno-camara-1039595'>iPhone 14 Pro Max: así sería según las últimas filtraciones del diseño y la cámara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-max-seria-ultimas-filtraciones-diseno-camara-1039595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-pro-max-azul-2580971.jpg' alt='iPhone 14 Pro Max: así sería según las últimas filtraciones del diseño y la cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/anillos-saturno-acabaran-desapareciendo-pero-marte-tendra-nuevos-1038917'>Los anillos de Saturno acabarán desapareciendo, pero Marte tendrá unos nuevos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/anillos-saturno-acabaran-desapareciendo-pero-marte-tendra-nuevos-1038917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/saturno-visto-sonda-cassini-1964025.jpg' alt='Los anillos de Saturno acabarán desapareciendo, pero Marte tendrá unos nuevos' />
     </a>
 </div>
 
