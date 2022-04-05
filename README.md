@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625'>Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-wars-episodio-iv-nueva-esperanza-2659625.jpg' alt='Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-empezara-mostrar-estado-semaforos-precio-peajes-1040181'>Google Maps empezará a mostrar el estado de los semáforos y el precio de los peajes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-empezara-mostrar-estado-semaforos-precio-peajes-1040181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Google Maps empezará a mostrar el estado de los semáforos y el precio de los peajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183'>La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desconocida-funcion-spotify-te-ayudara-conocer-mejor-musica-tienes-cerca-2666621.jpg' alt='La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619'>Los frenos del coche: ¿de qué tipos pueden ser?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/frenada-delantera-mclaren-765lt-spider-2656347.jpg' alt='Los frenos del coche: ¿de qué tipos pueden ser?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-1040169'>Apple confirma la WWDC 2022 y con ella veremos las novedades de iOS 16</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-1040169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-2666603.jpg' alt='Apple confirma la WWDC 2022 y con ella veremos las novedades de iOS 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-nueva-funcion-podria-facilitar-consenso-grupos-1040171'>WhatsApp prepara una nueva función que podría facilitar el consenso en los grupos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-nueva-funcion-podria-facilitar-consenso-grupos-1040171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='WhatsApp prepara una nueva función que podría facilitar el consenso en los grupos' />
     </a>
 </div>
 
