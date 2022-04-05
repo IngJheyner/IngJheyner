@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/termina-mejores-series-historia-cuando-podremos-ver-final-espana-1039709'>Termina una mejores series de la historia: ¿cuándo podremos ver el final en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/termina-mejores-series-historia-cuando-podremos-ver-final-espana-1039709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaky-blinders-2607145.jpg' alt='Termina una mejores series de la historia: ¿cuándo podremos ver el final en España?' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695'>Las mejores páginas web para crear un CV online</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/curriculo_regla_seis_segundos_2.jpg' alt='Las mejores páginas web para crear un CV online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-1039687'>Hollywood hará una película sobre el caso de Reddit contra Wall Street, que generó el absoluto caos </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-1039687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-2665757.jpg' alt='Hollywood hará una película sobre el caso de Reddit contra Wall Street, que generó el absoluto caos ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787'>MangoPi, el ordenador más pequeño que una tarjeta SD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mangopi-portada-2666005.jpg' alt='MangoPi, el ordenador más pequeño que una tarjeta SD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aunque-no-creas-posible-no-estes-apagando-bien-pc-windows-10-11-1039701'>Aunque no lo creas es posible que no estés apagando bien tu PC con Windows 10/11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aunque-no-creas-posible-no-estes-apagando-bien-pc-windows-10-11-1039701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='Aunque no lo creas es posible que no estés apagando bien tu PC con Windows 10/11' />
+    <h4><a href='https://computerhoy.com/noticias/motor/peligros-motor-coche-trucos-recomendados-reducir-consumo-1039747'>Los peligros para el motor de tu coche de uno de los trucos más recomendados para reducir el consumo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/peligros-motor-coche-trucos-recomendados-reducir-consumo-1039747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='Los peligros para el motor de tu coche de uno de los trucos más recomendados para reducir el consumo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-app-realityscan-pueden-crear-modelos-3d-iphone-1039637'>Epic Games lanza la app RealityScan con la que se pueden crear modelos 3D desde un iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-app-realityscan-pueden-crear-modelos-3d-iphone-1039637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/epic-games-lanza-app-realityscan-pueden-crear-modelos-3d-iphone-2665713.jpg' alt='Epic Games lanza la app RealityScan con la que se pueden crear modelos 3D desde un iPhone' />
+    <h4><a href='https://computerhoy.com/noticias/motor/120-km-bateria-ciudad-bici-electrica-rompe-records-bateria-precio-1039001'>Hasta 120 km de batería por la ciudad: esta bici eléctrica rompe récords de batería y de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/120-km-bateria-ciudad-bici-electrica-rompe-records-bateria-precio-1039001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/flli-schiano-moon-bicicleta-electrica-2664483.jpg' alt='Hasta 120 km de batería por la ciudad: esta bici eléctrica rompe récords de batería y de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/skypak-1-jetpack-electrico-media-hora-autonomia-1039649'>Skypak 1: un jetpack eléctrico con más de media hora de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/skypak-1-jetpack-electrico-media-hora-autonomia-1039649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jetpack-2665785.jpg' alt='Skypak 1: un jetpack eléctrico con más de media hora de autonomía' />
+    <h4><a href='https://computerhoy.com/noticias/como-saber-hay-nieve-carreteras-tiempo-real-informacion-oficial-dgt-1039727'>Cómo saber si hay nieve en las carreteras en tiempo real con información oficial de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-hay-nieve-carreteras-tiempo-real-informacion-oficial-dgt-1039727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Cómo saber si hay nieve en las carreteras en tiempo real con información oficial de la DGT' />
     </a>
 </div>
 
