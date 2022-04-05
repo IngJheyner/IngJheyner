@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-amenaza-multar-wikipedia-invasion-ucrania-1040197'>Rusia amenaza con multar a la Wikipedia por incluir "información inexacta" y "antirrusa" sobre la invasión de Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusia-amenaza-multar-wikipedia-invasion-ucrania-1040197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rusia-amenaza-multar-wikipedia-incluir-informacion-inexacta-antirrusa-invasion-ucrania-2666671.jpg' alt='Rusia amenaza con multar a la Wikipedia por incluir "información inexacta" y "antirrusa" sobre la invasión de Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137'>Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-premium-jabra-elite-45h-50-descuento-solo-4999-euros-2666499.jpg' alt='Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625'>Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-wars-episodio-iv-nueva-esperanza-2659625.jpg' alt='Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183'>La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desconocida-funcion-spotify-te-ayudara-conocer-mejor-musica-tienes-cerca-2666621.jpg' alt='La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-elon-musk-pedro-sanchez-solucionar-plumazo-crisis-energetica-1040175'>El consejo de Elon Musk a Pedro Sánchez para solucionar de un plumazo la crisis energética</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejo-elon-musk-pedro-sanchez-solucionar-plumazo-crisis-energetica-1040175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='El consejo de Elon Musk a Pedro Sánchez para solucionar de un plumazo la crisis energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619'>Los frenos del coche: ¿de qué tipos pueden ser?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/frenada-delantera-mclaren-765lt-spider-2656347.jpg' alt='Los frenos del coche: ¿de qué tipos pueden ser?' />
     </a>
 </div>
 
