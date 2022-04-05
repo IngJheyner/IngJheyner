@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/regalos-comunion-ninas-ninos-gustan-videojuegos-1039725'>Regalos de comunión para niñas y niños que les gustan los videojuegos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/regalos-comunion-ninas-ninos-gustan-videojuegos-1039725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nino-jugando-nintendo-switch-cama-2665839.jpg' alt='Regalos de comunión para niñas y niños que les gustan los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/conoci-estas-apps-no-puedo-vivir-ellas-version-ios-1039959'>Desde que conocí estas apps no puedo vivir sin ellas: versión iOS</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/conoci-estas-apps-no-puedo-vivir-ellas-version-ios-1039959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/imprescindibles-hernan-2666511.jpg' alt='Desde que conocí estas apps no puedo vivir sin ellas: versión iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135'>Las pestañas en el explorador de archivos de Windows 11 ya son una realidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/descubre-ordenador-compatible-windows-11-herramienta-2384087.jpg' alt='Las pestañas en el explorador de archivos de Windows 11 ya son una realidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953'>Cómo saber si he pasado el COVID</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/covid-19-2448743.jpg' alt='Cómo saber si he pasado el COVID' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-evitar-spotify-comparta-informacion-debes-hacerlo-1039907'>Así puedes evitar que Spotify comparta tu información, y por qué debes hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-evitar-spotify-comparta-informacion-debes-hacerlo-1039907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='Así puedes evitar que Spotify comparta tu información, y por qué debes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-comienza-campana-renta-ella-primeros-intentos-estafa-1039939'>¡Cuidado! Comienza la campaña de la Renta y con ella los primeros intentos de estafa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-comienza-campana-renta-ella-primeros-intentos-estafa-1039939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/estafa-vendedores-fantasma-amazon-2309461.jpg' alt='¡Cuidado! Comienza la campaña de la Renta y con ella los primeros intentos de estafa' />
     </a>
 </div>
 
