@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/termina-mejores-series-historia-cuando-podremos-ver-final-espana-1039709'>Termina una mejores series de la historia: ¿cuándo podremos ver el final en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/termina-mejores-series-historia-cuando-podremos-ver-final-espana-1039709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/peaky-blinders-2607145.jpg' alt='Termina una mejores series de la historia: ¿cuándo podremos ver el final en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-1039687'>Hollywood hará una película sobre el caso de Reddit contra Wall Street, que generó el absoluto caos </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-1039687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hollywood-hara-pelicula-caso-reddit-wall-street-genero-absoluto-caos-2665757.jpg' alt='Hollywood hará una película sobre el caso de Reddit contra Wall Street, que generó el absoluto caos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aunque-no-creas-posible-no-estes-apagando-bien-pc-windows-10-11-1039701'>Aunque no lo creas es posible que no estés apagando bien tu PC con Windows 10/11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aunque-no-creas-posible-no-estes-apagando-bien-pc-windows-10-11-1039701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='Aunque no lo creas es posible que no estés apagando bien tu PC con Windows 10/11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/skypak-1-jetpack-electrico-media-hora-autonomia-1039649'>Skypak 1: un jetpack eléctrico con más de media hora de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/skypak-1-jetpack-electrico-media-hora-autonomia-1039649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jetpack-2665785.jpg' alt='Skypak 1: un jetpack eléctrico con más de media hora de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crucial-x6-unidad-ssd-portatil-2tb-oferta-1039261'>Si necesitas una unidad de gran capacidad y muy rápida no te pierdas esta SSD de Crucial: 2 TB por solo 150€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crucial-x6-unidad-ssd-portatil-2tb-oferta-1039261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/crucial-x6-2241367.jpg' alt='Si necesitas una unidad de gran capacidad y muy rápida no te pierdas esta SSD de Crucial: 2 TB por solo 150€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-paso-como-gran-accionista-twitter-elon-musk-editar-tweets-1039627'>El primer paso como gran accionista de Twitter de Elon Musk: ¿Editar tweets?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-paso-como-gran-accionista-twitter-elon-musk-editar-tweets-1039627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='El primer paso como gran accionista de Twitter de Elon Musk: ¿Editar tweets?' />
     </a>
 </div>
 
