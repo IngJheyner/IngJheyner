@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135'>Las pestañas en el explorador de archivos de Windows 11 ya son una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/descubre-ordenador-compatible-windows-11-herramienta-2384087.jpg' alt='Las pestañas en el explorador de archivos de Windows 11 ya son una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-1039955'>El OnePlus Nord CE 2 Lite se filtra al detalle con especificaciones y fotografías</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-1039955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-2666319.jpg' alt='El OnePlus Nord CE 2 Lite se filtra al detalle con especificaciones y fotografías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953'>Cómo saber si he pasado el COVID</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/covid-19-2448743.jpg' alt='Cómo saber si he pasado el COVID' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-comienza-campana-renta-ella-primeros-intentos-estafa-1039939'>¡Cuidado! Comienza la campaña de la Renta y con ella los primeros intentos de estafa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-comienza-campana-renta-ella-primeros-intentos-estafa-1039939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/estafa-vendedores-fantasma-amazon-2309461.jpg' alt='¡Cuidado! Comienza la campaña de la Renta y con ella los primeros intentos de estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-z-fold-4-daria-salto-calidad-apartados-importantes-1039937'>El nuevo Samsung Galaxy Z Fold 4 daría un salto de calidad en uno de sus apartados más importantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-samsung-galaxy-z-fold-4-daria-salto-calidad-apartados-importantes-1039937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='El nuevo Samsung Galaxy Z Fold 4 daría un salto de calidad en uno de sus apartados más importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-android-va-lento-habitual-android-auto-podria-ser-culpable-1039833'>¿Tu móvil Android va más lento de lo habitual? Android Auto podría ser el culpable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-android-va-lento-habitual-android-auto-podria-ser-culpable-1039833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/android-auto-2289815.jpg' alt='¿Tu móvil Android va más lento de lo habitual? Android Auto podría ser el culpable' />
     </a>
 </div>
 
