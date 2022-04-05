@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/regalos-comunion-ninas-ninos-gustan-videojuegos-1039725'>Regalos de comunión para niñas y niños que les gustan los videojuegos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/regalos-comunion-ninas-ninos-gustan-videojuegos-1039725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nino-jugando-nintendo-switch-cama-2665839.jpg' alt='Regalos de comunión para niñas y niños que les gustan los videojuegos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183'>La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/funcion-spotify-buscar-conciertos-1040183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desconocida-funcion-spotify-te-ayudara-conocer-mejor-musica-tienes-cerca-2666621.jpg' alt='La desconocida función de Spotify que te ayudará a conocer mejor la música que tienes cerca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/conoci-estas-apps-no-puedo-vivir-ellas-version-ios-1039959'>Desde que conocí estas apps no puedo vivir sin ellas: versión iOS</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/conoci-estas-apps-no-puedo-vivir-ellas-version-ios-1039959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/imprescindibles-hernan-2666511.jpg' alt='Desde que conocí estas apps no puedo vivir sin ellas: versión iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-elon-musk-pedro-sanchez-solucionar-plumazo-crisis-energetica-1040175'>El consejo de Elon Musk a Pedro Sánchez para solucionar de un plumazo la crisis energética</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejo-elon-musk-pedro-sanchez-solucionar-plumazo-crisis-energetica-1040175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='El consejo de Elon Musk a Pedro Sánchez para solucionar de un plumazo la crisis energética' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135'>Las pestañas en el explorador de archivos de Windows 11 ya son una realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pestanas-explorador-archivos-windows-11-ya-son-realidad-1040135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/descubre-ordenador-compatible-windows-11-herramienta-2384087.jpg' alt='Las pestañas en el explorador de archivos de Windows 11 ya son una realidad' />
+    <h4><a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619'>Los frenos del coche: ¿de qué tipos pueden ser?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/frenos-coche-tipos-pueden-ser-1039619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/frenada-delantera-mclaren-765lt-spider-2656347.jpg' alt='Los frenos del coche: ¿de qué tipos pueden ser?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-1039955'>El OnePlus Nord CE 2 Lite se filtra al detalle con especificaciones y fotografías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-1039955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-filtra-detalle-especificaciones-fotografias-2666319.jpg' alt='El OnePlus Nord CE 2 Lite se filtra al detalle con especificaciones y fotografías' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-1040169'>Apple confirma la WWDC 2022 y con ella veremos las novedades de iOS 16</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-1040169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-confirma-wwdc-2022-ella-veremos-novedades-ios-16-2666603.jpg' alt='Apple confirma la WWDC 2022 y con ella veremos las novedades de iOS 16' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953'>Cómo saber si he pasado el COVID</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-he-pasado-covid-1039953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/covid-19-2448743.jpg' alt='Cómo saber si he pasado el COVID' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-nueva-funcion-podria-facilitar-consenso-grupos-1040171'>WhatsApp prepara una nueva función que podría facilitar el consenso en los grupos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-nueva-funcion-podria-facilitar-consenso-grupos-1040171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='WhatsApp prepara una nueva función que podría facilitar el consenso en los grupos' />
     </a>
 </div>
 
