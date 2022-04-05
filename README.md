@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/parece-reloj-pero-pulsera-xiaomi-barata-mi-band-14-dias-bateria-1039087'>Parece un reloj, pero es una pulsera y de Xiaomi: más barata que la Mi Band y con 14 días de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/parece-reloj-pero-pulsera-xiaomi-barata-mi-band-14-dias-bateria-1039087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591271.jpg' alt='Parece un reloj, pero es una pulsera y de Xiaomi: más barata que la Mi Band y con 14 días de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-rebaja-100-euros-freidora-aceite-permite-cocinar-dos-alimentos-vez-1039799'>Lidl rebaja 100 euros su freidora sin aceite que permite cocinar dos alimentos a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-rebaja-100-euros-freidora-aceite-permite-cocinar-dos-alimentos-vez-1039799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-2666015.jpg' alt='Lidl rebaja 100 euros su freidora sin aceite que permite cocinar dos alimentos a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/8-cosas-deberias-llevar-maletero-coche-1039751'>Las 8 cosas que deberías llevar en el maletero del coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/8-cosas-deberias-llevar-maletero-coche-1039751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/perro-maletero-coche-2414089.jpg' alt='Las 8 cosas que deberías llevar en el maletero del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695'>Las mejores páginas web para crear un CV online</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-crear-cv-online-583695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/curriculo_regla_seis_segundos_2.jpg' alt='Las mejores páginas web para crear un CV online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787'>MangoPi, el ordenador más pequeño que una tarjeta SD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mangopi-ordenador-pequeno-tarjeta-sd-1039787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mangopi-portada-2666005.jpg' alt='MangoPi, el ordenador más pequeño que una tarjeta SD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/peligros-motor-coche-trucos-recomendados-reducir-consumo-1039747'>Los peligros para el motor de tu coche de uno de los trucos más recomendados para reducir el consumo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/peligros-motor-coche-trucos-recomendados-reducir-consumo-1039747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='Los peligros para el motor de tu coche de uno de los trucos más recomendados para reducir el consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/120-km-bateria-ciudad-bici-electrica-rompe-records-bateria-precio-1039001'>Hasta 120 km de batería por la ciudad: esta bici eléctrica rompe récords de batería y de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/120-km-bateria-ciudad-bici-electrica-rompe-records-bateria-precio-1039001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/flli-schiano-moon-bicicleta-electrica-2664483.jpg' alt='Hasta 120 km de batería por la ciudad: esta bici eléctrica rompe récords de batería y de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-hay-nieve-carreteras-tiempo-real-informacion-oficial-dgt-1039727'>Cómo saber si hay nieve en las carreteras en tiempo real con información oficial de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/como-saber-hay-nieve-carreteras-tiempo-real-informacion-oficial-dgt-1039727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-nieve-2580551.jpg' alt='Cómo saber si hay nieve en las carreteras en tiempo real con información oficial de la DGT' />
     </a>
 </div>
 
