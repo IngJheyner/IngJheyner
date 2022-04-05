@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-puedes-comprar-1035199'>Mejores Chromebooks baratos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-puedes-comprar-1035199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chromebook-2658063.jpg' alt='Mejores Chromebooks baratos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583'>Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-preparar-snacks-platano-banana-dehidratado-1039583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/olvidate-patatas-fritas-como-preparar-deliciosos-snacks-platano-banana-mucho-saludables-2665645.jpg' alt='Olvídate de las patatas fritas: cómo preparar deliciosos snacks de plátano o banana, mucho más saludables' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339'>Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-1039339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/carga-inversa-conectividad-4g-tamano-reducido-nueva-realme-pad-mini-2665291.jpg' alt='Carga inversa, conectividad 4G y un tamaño reducido: así es la nueva realme Pad Mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325'>Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-1039325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/return-monkey-island-llegara-2022-ella-franquicias-conocidas-videojuegos-2665287.jpg' alt='Return to Monkey Island llegará en 2022 y con ella una de las franquicias más conocidas de los videojuegos' />
     </a>
 </div>
 
