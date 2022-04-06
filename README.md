@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497'>Los Bridgerton siguen batiendo récords en Netflix: este es su secreto</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2651741.jpg' alt='Los Bridgerton siguen batiendo récords en Netflix: este es su secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-emite-informe-supervision-humana-1040491'>ChestLink es la primera IA aprobada por la Unión Europea que analiza radiografías y emite un informe sin supervisión humana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-emite-informe-supervision-humana-1040491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-informa-supervision-humana-2666943.jpg' alt='ChestLink es la primera IA aprobada por la Unión Europea que analiza radiografías y emite un informe sin supervisión humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-juego-calamar-sorprende-nuevas-intenciones-segunda-temporada-1040475'>El director de El juego del calamar sorprende con sus nuevas intenciones para la segunda temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/director-juego-calamar-sorprende-nuevas-intenciones-segunda-temporada-1040475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2491655.jpg' alt='El director de El juego del calamar sorprende con sus nuevas intenciones para la segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-limitaciones-envio-dinero-bizum-aunque-solo-algunos-usuarios-1040513'>Nuevas limitaciones para el envío de dinero por Bizum, aunque solo para algunos usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-limitaciones-envio-dinero-bizum-aunque-solo-algunos-usuarios-1040513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Nuevas limitaciones para el envío de dinero por Bizum, aunque solo para algunos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469'>7.000 pasos te pueden salvar la vida</a></h4>
     <a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='7.000 pasos te pueden salvar la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primeras-filtraciones-oppo-reno8-recuerdan-movil-top-competencia-no-1040465'>Las primeras filtraciones sobre el OPPO Reno8 recuerdan a un móvil top de la competencia (o no)</a></h4>
-    <a href='https://computerhoy.com/noticias/primeras-filtraciones-oppo-reno8-recuerdan-movil-top-competencia-no-1040465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno8-portada-2666923.jpg' alt='Las primeras filtraciones sobre el OPPO Reno8 recuerdan a un móvil top de la competencia (o no)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/podria-controlarse-diabetes-tipo-2-medicacion-gracias-ultrasonidos-1040451'>Podría controlarse la diabetes de tipo 2 sin medicación gracias a los ultrasonidos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/podria-controlarse-diabetes-tipo-2-medicacion-gracias-ultrasonidos-1040451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2558939.jpg' alt='Podría controlarse la diabetes de tipo 2 sin medicación gracias a los ultrasonidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-potente-movil-android-baja-precio-competir-xiaomi-ahora-cuesta-solo-264eu-1039697'>El Samsung Galaxy M52 5G es un potente móvil Android que baja de precio para competir con Xiaomi: ahora cuesta solo 264€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-potente-movil-android-baja-precio-competir-xiaomi-ahora-cuesta-solo-264eu-1039697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m52-5g-2607531.jpg' alt='El Samsung Galaxy M52 5G es un potente móvil Android que baja de precio para competir con Xiaomi: ahora cuesta solo 264€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-introduce-nueva-categoria-peliculas-te-hara-vida-facil-1040459'>Netflix introduce una nueva categoría de películas que te hará la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-introduce-nueva-categoria-peliculas-te-hara-vida-facil-1040459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-2666913.jpg' alt='Netflix introduce una nueva categoría de películas que te hará la vida más fácil' />
     </a>
 </div>
 
