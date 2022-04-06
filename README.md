@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-actor-tener-tres-peliculas-top-10-historico-netflix-1040425'>Este es el primer actor en tener tres películas en el top 10 histórico de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primer-actor-tener-tres-peliculas-top-10-historico-netflix-1040425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Este es el primer actor en tener tres películas en el top 10 histórico de Netflix' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2022 (lista actualizada)</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Códigos secretos de Netflix en 2022 (lista actualizada)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-vulnerabilidad-moviles-samsung-permite-restaurar-dispositivo-contrasena-1040813'>Detectan una vulnerabilidad en móviles Samsung que permite restaurar el dispositivo sin contraseña</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-vulnerabilidad-moviles-samsung-permite-restaurar-dispositivo-contrasena-1040813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Detectan una vulnerabilidad en móviles Samsung que permite restaurar el dispositivo sin contraseña' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/uber-no-quiere-encasillarse-como-aplicacion-taxis-convertira-conglomerado-transportes-1040831'>Uber no quiere encasillarse como una aplicación de taxis y se convertirá en un conglomerado de transportes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/uber-no-quiere-encasillarse-como-aplicacion-taxis-convertira-conglomerado-transportes-1040831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/coche-autonomo-uber.jpg' alt='Uber no quiere encasillarse como una aplicación de taxis y se convertirá en un conglomerado de transportes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cansa-planea-poner-fin-permisos-intrusivos-aplicaciones-estan-play-store-1040801'>Google se cansa y planea poner fin a uno de los permisos más intrusivos de las aplicaciones que están la Play Store</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-cansa-planea-poner-fin-permisos-intrusivos-aplicaciones-estan-play-store-1040801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google se cansa y planea poner fin a uno de los permisos más intrusivos de las aplicaciones que están la Play Store' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739'>Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545309.jpg' alt='Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-estan-utilizando-vlc-player-distribuir-malware-1040809'>Ciberdelincuentes están utilizando VLC Player para distribuir malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-estan-utilizando-vlc-player-distribuir-malware-1040809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/malware-movil-2256283.jpg' alt='Ciberdelincuentes están utilizando VLC Player para distribuir malware' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825'>Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-5-personas-2667597.jpg' alt='Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/microcasas-prefabricadas-leroy-merlin-1040803'>Estas microcasas prefabricadas de Leroy Merlin están listas para entrar a vivir con precios a partir de 4.500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/microcasas-prefabricadas-leroy-merlin-1040803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-microcasas-prefabricadas-leroy-merlin-estan-listas-entrar-vivir-precios-partir-4500-euros-2667575.jpg' alt='Estas microcasas prefabricadas de Leroy Merlin están listas para entrar a vivir con precios a partir de 4.500 euros' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-ha-estrenado-pelicula-gal-gadot-estuvo-prohibida-varios-paises-1040815'>Disney+ ha estrenado la película de Gal Gadot que estuvo prohibida en varios países</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-ha-estrenado-pelicula-gal-gadot-estuvo-prohibida-varios-paises-1040815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/gal-gadot-2333451.jpg' alt='Disney+ ha estrenado la película de Gal Gadot que estuvo prohibida en varios países' />
     </a>
 </div>
 
