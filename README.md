@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-moviles-amazon-10-telefonos-estan-oferta-precio-record-1039749'>Liquidación en móviles en Amazon: 10 teléfonos que están en oferta a precio récord</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-moviles-amazon-10-telefonos-estan-oferta-precio-record-1039749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-oppo-find-x5-2663119.jpg' alt='Liquidación en móviles en Amazon: 10 teléfonos que están en oferta a precio récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/silla-ruedas-anfibia-waterwheels-1040399'>La silla de ruedas sumergible para que todo el mundo disfrute en la playa o la piscina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/silla-ruedas-anfibia-waterwheels-1040399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/silla-ruedas-sumergible-todo-mundo-disfrute-playa-piscina-2666849.jpg' alt='La silla de ruedas sumergible para que todo el mundo disfrute en la playa o la piscina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397'>Cómo eliminar definitivamente el olor a humedad de las toallas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Cómo eliminar definitivamente el olor a humedad de las toallas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209'>La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/coalition-unreal-engine-5-2419363.jpg' alt='La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-amenaza-multar-wikipedia-invasion-ucrania-1040197'>Rusia amenaza con multar a la Wikipedia por incluir "información inexacta" y "antirrusa" sobre la invasión de Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusia-amenaza-multar-wikipedia-invasion-ucrania-1040197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rusia-amenaza-multar-wikipedia-incluir-informacion-inexacta-antirrusa-invasion-ucrania-2666671.jpg' alt='Rusia amenaza con multar a la Wikipedia por incluir "información inexacta" y "antirrusa" sobre la invasión de Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137'>Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-premium-jabra-elite-45h-50-descuento-solo-4999-euros-2666499.jpg' alt='Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros' />
     </a>
 </div>
 
