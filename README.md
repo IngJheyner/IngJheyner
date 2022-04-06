@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videollamadas-windows-11-arm-mejoran-contacto-visual-encuadre-desenfoque-fondo-todas-aplicaciones-1040431'>Las videollamadas con Windows 11 ARM mejoran el contacto visual, encuadre y desenfoque de fondo en todas las aplicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videollamadas-windows-11-arm-mejoran-contacto-visual-encuadre-desenfoque-fondo-todas-aplicaciones-1040431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Las videollamadas con Windows 11 ARM mejoran el contacto visual, encuadre y desenfoque de fondo en todas las aplicaciones' />
+    <h4><a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469'>7.000 pasos te pueden salvar la vida</a></h4>
+    <a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='7.000 pasos te pueden salvar la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-alexa-1037243'>¿Cómo funciona Alexa?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-alexa-1037243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-alexa-2661513.jpg' alt='¿Cómo funciona Alexa?' />
+    <h4><a href='https://computerhoy.com/noticias/primeras-filtraciones-oppo-reno8-recuerdan-movil-top-competencia-no-1040465'>Las primeras filtraciones sobre el OPPO Reno8 recuerdan a un móvil top de la competencia (o no)</a></h4>
+    <a href='https://computerhoy.com/noticias/primeras-filtraciones-oppo-reno8-recuerdan-movil-top-competencia-no-1040465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno8-portada-2666923.jpg' alt='Las primeras filtraciones sobre el OPPO Reno8 recuerdan a un móvil top de la competencia (o no)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-windows-11-serie-lg-gram-rebajado-varias-versiones-500eu-descuento-1039675'>Menos de 1 kg de peso y Windows 11 de serie: el LG Gram está rebajado en varias versiones con hasta 500€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-windows-11-serie-lg-gram-rebajado-varias-versiones-500eu-descuento-1039675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Menos de 1 kg de peso y Windows 11 de serie: el LG Gram está rebajado en varias versiones con hasta 500€ de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/life/podria-controlarse-diabetes-tipo-2-medicacion-gracias-ultrasonidos-1040451'>Podría controlarse la diabetes de tipo 2 sin medicación gracias a los ultrasonidos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/podria-controlarse-diabetes-tipo-2-medicacion-gracias-ultrasonidos-1040451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2558939.jpg' alt='Podría controlarse la diabetes de tipo 2 sin medicación gracias a los ultrasonidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ultraprocesados-tambien-son-problema-planeta-no-solo-salud-1039643'>Los ultraprocesados también son un problema para el planeta, no solo para tu salud</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ultraprocesados-tambien-son-problema-planeta-no-solo-salud-1039643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultraprocesado-2665703.jpg' alt='Los ultraprocesados también son un problema para el planeta, no solo para tu salud' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-potente-movil-android-baja-precio-competir-xiaomi-ahora-cuesta-solo-264eu-1039697'>El Samsung Galaxy M52 5G es un potente móvil Android que baja de precio para competir con Xiaomi: ahora cuesta solo 264€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-potente-movil-android-baja-precio-competir-xiaomi-ahora-cuesta-solo-264eu-1039697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-m52-5g-2607531.jpg' alt='El Samsung Galaxy M52 5G es un potente móvil Android que baja de precio para competir con Xiaomi: ahora cuesta solo 264€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/deportivo-denzel-washington-ha-vendido-400000-dolares-1039633'>El deportivo de Denzel Washington se ha vendido por 400.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/deportivo-denzel-washington-ha-vendido-400000-dolares-1039633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/porsche-911-denzel-washington-2660619.jpg' alt='El deportivo de Denzel Washington se ha vendido por 400.000 dólares' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-introduce-nueva-categoria-peliculas-te-hara-vida-facil-1040459'>Netflix introduce una nueva categoría de películas que te hará la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-introduce-nueva-categoria-peliculas-te-hara-vida-facil-1040459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-2666913.jpg' alt='Netflix introduce una nueva categoría de películas que te hará la vida más fácil' />
     </a>
 </div>
 
