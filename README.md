@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397'>Cómo eliminar definitivamente el olor a humedad de las toallas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Cómo eliminar definitivamente el olor a humedad de las toallas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211'>Twitter confirma oficialmente que están testeando ya la función de editar tweets</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Twitter confirma oficialmente que están testeando ya la función de editar tweets' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137'>Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-plegables-jabra-elite-45h-oferta-1040137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-premium-jabra-elite-45h-50-descuento-solo-4999-euros-2666499.jpg' alt='Los auriculares plegables Jabra Elite 45h con un 50% de descuento, solo 49,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625'>Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-premiadas-oscar-no-ganaron-mejor-pelicula-como-star-wars-dune-1039625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-wars-episodio-iv-nueva-esperanza-2659625.jpg' alt='Las más premiadas en los Oscar que no ganaron a Mejor película, como Star Wars o Dune' />
     </a>
 </div>
 
