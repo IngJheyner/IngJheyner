@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puntos-clave-debes-revisar-antes-confirmar-borrador-renta-2021-22-ocu-1040551'>Puntos clave que debes revisar antes de confirmar el borrador de la Renta 2021/22, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puntos-clave-debes-revisar-antes-confirmar-borrador-renta-2021-22-ocu-1040551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Puntos clave que debes revisar antes de confirmar el borrador de la Renta 2021/22, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-presentar-declaracion-movil-android-app-oficial-renta-web-2022-1040589'>Cómo hacer y presentar la declaración desde tu móvil Android con la app oficial Renta Web 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-presentar-declaracion-movil-android-app-oficial-renta-web-2022-1040589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2667123.jpg' alt='Cómo hacer y presentar la declaración desde tu móvil Android con la app oficial Renta Web 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-1040527'>Las multas que pueden ponerte por no coger ni circular bien por una glorieta, según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-1040527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-2667015.jpg' alt='Las multas que pueden ponerte por no coger ni circular bien por una glorieta, según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-amazon-baten-record-precio-tienen-cancelacion-alexa-cuestan-solo-70-euros-1039707'>Los AirPods de Amazon baten récord de precio: tienen cancelación, Alexa y cuestan solo 70 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-amazon-baten-record-precio-tienen-cancelacion-alexa-cuestan-solo-70-euros-1039707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg' alt='Los AirPods de Amazon baten récord de precio: tienen cancelación, Alexa y cuestan solo 70 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497'>Los Bridgerton siguen batiendo récords en Netflix: este es su secreto</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2651741.jpg' alt='Los Bridgerton siguen batiendo récords en Netflix: este es su secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-emite-informe-supervision-humana-1040491'>ChestLink es la primera IA aprobada por la Unión Europea que analiza radiografías y emite un informe sin supervisión humana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-emite-informe-supervision-humana-1040491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/chestlink-primera-ia-aprobada-union-europea-analiza-radiografias-informa-supervision-humana-2666943.jpg' alt='ChestLink es la primera IA aprobada por la Unión Europea que analiza radiografías y emite un informe sin supervisión humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/director-juego-calamar-sorprende-nuevas-intenciones-segunda-temporada-1040475'>El director de El juego del calamar sorprende con sus nuevas intenciones para la segunda temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/director-juego-calamar-sorprende-nuevas-intenciones-segunda-temporada-1040475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-2491655.jpg' alt='El director de El juego del calamar sorprende con sus nuevas intenciones para la segunda temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-limitaciones-envio-dinero-bizum-aunque-solo-algunos-usuarios-1040513'>Nuevas limitaciones para el envío de dinero por Bizum, aunque solo para algunos usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-limitaciones-envio-dinero-bizum-aunque-solo-algunos-usuarios-1040513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Nuevas limitaciones para el envío de dinero por Bizum, aunque solo para algunos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469'>7.000 pasos te pueden salvar la vida</a></h4>
-    <a href='https://computerhoy.com/noticias/7000-pasos-te-pueden-salvar-vida-1040469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/homcom-cinta-correr-andar-2532519.jpg' alt='7.000 pasos te pueden salvar la vida' />
     </a>
 </div>
 
