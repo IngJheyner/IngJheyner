@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/juegos-nintendo-switch-merecen-pena-baratos-1039847'>15 juegos de Nintendo Switch que merecen la pena y son más baratos de lo normal</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/juegos-nintendo-switch-merecen-pena-baratos-1039847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='15 juegos de Nintendo Switch que merecen la pena y son más baratos de lo normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-1040771'>Realme se apunta a la tendencia que inició Apple y que no convence a los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-1040771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-2667479.jpg' alt='Realme se apunta a la tendencia que inició Apple y que no convence a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-samsung-galaxy-s23-llegarian-procesadores-mediatek-1040741'>Los últimos rumores apuntan a que los nuevos Samsung Galaxy S23 llegarían con procesadores de MediaTek</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-samsung-galaxy-s23-llegarian-procesadores-mediatek-1040741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620731.jpg' alt='Los últimos rumores apuntan a que los nuevos Samsung Galaxy S23 llegarían con procesadores de MediaTek' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-convertir-coches-vehiculos-inteligentes-nuevo-carconnect-1040735'>Vodafone se apunta a convertir los coches en vehículos inteligentes con su nuevo CarConnect</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-convertir-coches-vehiculos-inteligentes-nuevo-carconnect-1040735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vodafone-apunta-convertir-coches-vehiculos-inteligentes-nuevo-carconnect-2667435.jpg' alt='Vodafone se apunta a convertir los coches en vehículos inteligentes con su nuevo CarConnect' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-toma-relevo-s-pen-nuevo-moto-g-stylus-5g-1040729'>Motorola toma el relevo del S Pen con su nuevo Moto G Stylus 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-toma-relevo-s-pen-nuevo-moto-g-stylus-5g-1040729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/moto-g-stylus-2667419.jpg' alt='Motorola toma el relevo del S Pen con su nuevo Moto G Stylus 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-snapdragon-7-gen1-chip-gama-media-premium-qualcomm-1040675'>Así será el Snapdragon 7 Gen1, el chip para gama media prémium de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-snapdragon-7-gen1-chip-gama-media-premium-qualcomm-1040675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/qualcomm-2035027.jpg' alt='Así será el Snapdragon 7 Gen1, el chip para gama media prémium de Qualcomm' />
     </a>
 </div>
 
