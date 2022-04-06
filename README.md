@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-samsung-galaxy-s23-llegarian-procesadores-mediatek-1040741'>Los últimos rumores apuntan a que los nuevos Samsung Galaxy S23 llegarían con procesadores de MediaTek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-nuevos-samsung-galaxy-s23-llegarian-procesadores-mediatek-1040741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620731.jpg' alt='Los últimos rumores apuntan a que los nuevos Samsung Galaxy S23 llegarían con procesadores de MediaTek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sirve-l-carnitina-1040745'>Para qué sirve la L-carnitina</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirve-l-carnitina-1040745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/pastillas-2272631.jpg' alt='Para qué sirve la L-carnitina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-snapdragon-7-gen1-chip-gama-media-premium-qualcomm-1040675'>Así será el Snapdragon 7 Gen1, el chip para gama media prémium de Qualcomm</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-snapdragon-7-gen1-chip-gama-media-premium-qualcomm-1040675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/qualcomm-2035027.jpg' alt='Así será el Snapdragon 7 Gen1, el chip para gama media prémium de Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/precio-luz-nubes-sigue-siendo-barato-lavar-platos-lavavajillas-1040639'>Con el precio de la luz por la nubes: ¿sigue siendo más barato lavar los platos en el lavavajillas?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/precio-luz-nubes-sigue-siendo-barato-lavar-platos-lavavajillas-1040639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='Con el precio de la luz por la nubes: ¿sigue siendo más barato lavar los platos en el lavavajillas?' />
     </a>
 </div>
 
