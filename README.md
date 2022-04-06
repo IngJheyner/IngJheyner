@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/precio-luz-nubes-sigue-siendo-barato-lavar-platos-lavavajillas-1040639'>Con el precio de la luz por la nubes: ¿sigue siendo más barato lavar los platos en el lavavajillas?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/precio-luz-nubes-sigue-siendo-barato-lavar-platos-lavavajillas-1040639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/interior-lavavajillas-lg-2429759.jpg' alt='Con el precio de la luz por la nubes: ¿sigue siendo más barato lavar los platos en el lavavajillas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-ibuprofeno-1040653'>Cada cuánto tiempo se puede tomar ibuprofeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-ibuprofeno-1040653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/02/222242-15-errores-que-cometemos-paracetamol-ibuprofeno-aspirina.jpg' alt='Cada cuánto tiempo se puede tomar ibuprofeno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669'>Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dynabook-nuevo-nombre-toshiba.jpg' alt='Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611'>Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-2667189.jpg' alt='Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral' />
     </a>
 </div>
 
