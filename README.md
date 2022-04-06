@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-ibuprofeno-1040653'>Cada cuánto tiempo se puede tomar ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-puede-tomar-ibuprofeno-1040653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/02/222242-15-errores-que-cometemos-paracetamol-ibuprofeno-aspirina.jpg' alt='Cada cuánto tiempo se puede tomar ibuprofeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-evitar-errores-teclado-android-auto-1040637'>El sencillo truco para evitar los errores de teclado en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-evitar-errores-teclado-android-auto-1040637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='El sencillo truco para evitar los errores de teclado en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/te-duelen-cuello-hombros-cojin-casi-milagroso-reducir-dolor-cuesta-poco-30-euros-1040627'>Si te duelen el cuello y los hombros, este cojín es casi milagroso para reducir el dolor y cuesta poco más de 30 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-duelen-cuello-hombros-cojin-casi-milagroso-reducir-dolor-cuesta-poco-30-euros-1040627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medisana-mc-840-2667185.jpg' alt='Si te duelen el cuello y los hombros, este cojín es casi milagroso para reducir el dolor y cuesta poco más de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669'>Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dynabook-nuevo-nombre-toshiba.jpg' alt='Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611'>Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-2667189.jpg' alt='Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-rtx-3090-ti-tarjeta-grafica-potente-mercado-tendra-modelos-tuf-rog-1040645'>ASUS anuncia sus RTX 3090 Ti, la tarjeta gráfica más potente del mercado tendrá modelos TUF y ROG</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-rtx-3090-ti-tarjeta-grafica-potente-mercado-tendra-modelos-tuf-rog-1040645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='ASUS anuncia sus RTX 3090 Ti, la tarjeta gráfica más potente del mercado tendrá modelos TUF y ROG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rocket-lab-no-hara-cohetes-aterricen-como-spacex-capturara-helicoptero-pleno-vuelo-1040567'>Rocket Lab no hará que sus cohetes aterricen como los de SpaceX, los capturará desde un helicóptero en pleno vuelo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rocket-lab-no-hara-cohetes-aterricen-como-spacex-capturara-helicoptero-pleno-vuelo-1040567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/rocket-lab.jpg' alt='Rocket Lab no hará que sus cohetes aterricen como los de SpaceX, los capturará desde un helicóptero en pleno vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-stanford-crean-panel-solar-tambien-genera-electricidad-noche-1040617'>Ingenieros de Stanford crean un panel solar que también genera electricidad de noche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-stanford-crean-panel-solar-tambien-genera-electricidad-noche-1040617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/panel-solar.jpg' alt='Ingenieros de Stanford crean un panel solar que también genera electricidad de noche' />
     </a>
 </div>
 
