@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/capsulas-bicicleta-alpen-1040847'>Estas cápsulas permiten guardar y proteger la bicicleta, incluso en la calle (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/capsulas-bicicleta-alpen-1040847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-capsulas-bicis-permite-guardar-proteger-bicicleta-incluso-calle-2667665.jpg' alt='Estas cápsulas permiten guardar y proteger la bicicleta, incluso en la calle (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peligros-nft-cierra-juego-f1-delta-time-quartz-ubisoft-1040843'>Los peligros de los NFT: cierra el juego F1 Delta Time y los NFT de Ubisoft, pagaron 300.000 dólares por tokens que hoy no valen nada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peligros-nft-cierra-juego-f1-delta-time-quartz-ubisoft-1040843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peligros-nft-cierra-juego-f1-delta-time-nft-ubisoft-pagaron-300000-euros-tokens-hoy-no-valen-nada-2667631.jpg' alt='Los peligros de los NFT: cierra el juego F1 Delta Time y los NFT de Ubisoft, pagaron 300.000 dólares por tokens que hoy no valen nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739'>Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545309.jpg' alt='Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825'>Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-5-personas-2667597.jpg' alt='Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas' />
     </a>
 </div>
 
