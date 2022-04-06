@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-actor-tener-tres-peliculas-top-10-historico-netflix-1040425'>Este es el primer actor en tener tres películas en el top 10 histórico de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primer-actor-tener-tres-peliculas-top-10-historico-netflix-1040425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/proyecto-adam-2636933.jpg' alt='Este es el primer actor en tener tres películas en el top 10 histórico de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-vulnerabilidad-moviles-samsung-permite-restaurar-dispositivo-contrasena-1040813'>Detectan una vulnerabilidad en móviles Samsung que permite restaurar el dispositivo sin contraseña</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-vulnerabilidad-moviles-samsung-permite-restaurar-dispositivo-contrasena-1040813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Detectan una vulnerabilidad en móviles Samsung que permite restaurar el dispositivo sin contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cansa-planea-poner-fin-permisos-intrusivos-aplicaciones-estan-play-store-1040801'>Google se cansa y planea poner fin a uno de los permisos más intrusivos de las aplicaciones que están la Play Store</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cansa-planea-poner-fin-permisos-intrusivos-aplicaciones-estan-play-store-1040801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Google se cansa y planea poner fin a uno de los permisos más intrusivos de las aplicaciones que están la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-estan-utilizando-vlc-player-distribuir-malware-1040809'>Ciberdelincuentes están utilizando VLC Player para distribuir malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-estan-utilizando-vlc-player-distribuir-malware-1040809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/malware-movil-2256283.jpg' alt='Ciberdelincuentes están utilizando VLC Player para distribuir malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/microcasas-prefabricadas-leroy-merlin-1040803'>Estas microcasas prefabricadas de Leroy Merlin están listas para entrar a vivir con precios a partir de 4.500 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/microcasas-prefabricadas-leroy-merlin-1040803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-microcasas-prefabricadas-leroy-merlin-estan-listas-entrar-vivir-precios-partir-4500-euros-2667575.jpg' alt='Estas microcasas prefabricadas de Leroy Merlin están listas para entrar a vivir con precios a partir de 4.500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/suv-premium-1963-jeep-wagoneer-1040419'>Este SUV premium es de 1963: Jeep Wagoneer</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/suv-premium-1963-jeep-wagoneer-1040419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/jeep-wagoneer-1963-2660973.jpg' alt='Este SUV premium es de 1963: Jeep Wagoneer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-probando-caracteristica-app-store-empeoraria-gestion-suscripciones-1040795'>Apple está probando una característica en la App Store que empeoraría la gestión de las suscripciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-probando-caracteristica-app-store-empeoraria-gestion-suscripciones-1040795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-keynote-2638465.jpg' alt='Apple está probando una característica en la App Store que empeoraría la gestión de las suscripciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/juegos-nintendo-switch-merecen-pena-baratos-1039847'>15 juegos de Nintendo Switch que merecen la pena y son más baratos de lo normal</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/juegos-nintendo-switch-merecen-pena-baratos-1039847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='15 juegos de Nintendo Switch que merecen la pena y son más baratos de lo normal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-1040771'>Realme se apunta a la tendencia que inició Apple y que no convence a los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-1040771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-2667479.jpg' alt='Realme se apunta a la tendencia que inició Apple y que no convence a los usuarios' />
     </a>
 </div>
 
