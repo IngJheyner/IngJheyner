@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-windows-11-serie-lg-gram-rebajado-varias-versiones-500eu-descuento-1039675'>Menos de 1 kg de peso y Windows 11 de serie: el LG Gram está rebajado en varias versiones con hasta 500€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/menos-1-kg-peso-windows-11-serie-lg-gram-rebajado-varias-versiones-500eu-descuento-1039675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Menos de 1 kg de peso y Windows 11 de serie: el LG Gram está rebajado en varias versiones con hasta 500€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ultraprocesados-tambien-son-problema-planeta-no-solo-salud-1039643'>Los ultraprocesados también son un problema para el planeta, no solo para tu salud</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ultraprocesados-tambien-son-problema-planeta-no-solo-salud-1039643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultraprocesado-2665703.jpg' alt='Los ultraprocesados también son un problema para el planeta, no solo para tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/deportivo-denzel-washington-ha-vendido-400000-dolares-1039633'>El deportivo de Denzel Washington se ha vendido por 400.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/deportivo-denzel-washington-ha-vendido-400000-dolares-1039633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/porsche-911-denzel-washington-2660619.jpg' alt='El deportivo de Denzel Washington se ha vendido por 400.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1040401'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1040401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2666851.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-moviles-amazon-10-telefonos-estan-oferta-precio-record-1039749'>Liquidación en móviles en Amazon: 10 teléfonos que están en oferta a precio récord</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-moviles-amazon-10-telefonos-estan-oferta-precio-record-1039749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-oppo-find-x5-2663119.jpg' alt='Liquidación en móviles en Amazon: 10 teléfonos que están en oferta a precio récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/silla-ruedas-anfibia-waterwheels-1040399'>La silla de ruedas sumergible para que todo el mundo disfrute en la playa o la piscina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/silla-ruedas-anfibia-waterwheels-1040399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/silla-ruedas-sumergible-todo-mundo-disfrute-playa-piscina-2666849.jpg' alt='La silla de ruedas sumergible para que todo el mundo disfrute en la playa o la piscina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397'>Cómo eliminar definitivamente el olor a humedad de las toallas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-eliminar-definitivamente-olor-humedad-toallas-1040397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Cómo eliminar definitivamente el olor a humedad de las toallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211'>Twitter confirma oficialmente que están testeando ya la función de editar tweets</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-confirma-oficialmente-estan-testeando-ya-funcion-editar-tweets-1040211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Twitter confirma oficialmente que están testeando ya la función de editar tweets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209'>La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/unreal-engine-5-lanzamiento-1040209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/coalition-unreal-engine-5-2419363.jpg' alt='La nueva generación de videojuegos, para todos los desarrolladores: hoy se estrena Unreal Engine 5' />
     </a>
 </div>
 
