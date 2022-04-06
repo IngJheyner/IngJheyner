@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligros-nft-cierra-juego-f1-delta-time-quartz-ubisoft-1040843'>Los peligros de los NFT: cierra el juego F1 Delta Time y los NFT de Ubisoft, pagaron 300.000 dólares por tokens que hoy no valen nada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peligros-nft-cierra-juego-f1-delta-time-quartz-ubisoft-1040843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peligros-nft-cierra-juego-f1-delta-time-nft-ubisoft-pagaron-300000-euros-tokens-hoy-no-valen-nada-2667631.jpg' alt='Los peligros de los NFT: cierra el juego F1 Delta Time y los NFT de Ubisoft, pagaron 300.000 dólares por tokens que hoy no valen nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2022 (lista actualizada)</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Códigos secretos de Netflix en 2022 (lista actualizada)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825'>Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-google-tv-1040825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-compartir-gratis-apps-pago-juegos-peliculas-ebooks-comprados-google-play-5-personas-2667597.jpg' alt='Así puedes compartir gratis apps de pago, juegos, películas y ebooks comprados en Google Play y Google TV, con hasta 5 personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-ha-estrenado-pelicula-gal-gadot-estuvo-prohibida-varios-paises-1040815'>Disney+ ha estrenado la película de Gal Gadot que estuvo prohibida en varios países</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-ha-estrenado-pelicula-gal-gadot-estuvo-prohibida-varios-paises-1040815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/gal-gadot-2333451.jpg' alt='Disney+ ha estrenado la película de Gal Gadot que estuvo prohibida en varios países' />
     </a>
 </div>
 
