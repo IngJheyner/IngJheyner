@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puntos-clave-debes-revisar-antes-confirmar-borrador-renta-2021-22-ocu-1040551'>Puntos clave que debes revisar antes de confirmar el borrador de la Renta 2021/22, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puntos-clave-debes-revisar-antes-confirmar-borrador-renta-2021-22-ocu-1040551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Puntos clave que debes revisar antes de confirmar el borrador de la Renta 2021/22, según la OCU' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669'>Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynabook-portege-x40-k-portatil-14-procesador-intel-12a-gen-1040669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dynabook-nuevo-nombre-toshiba.jpg' alt='Dynabook Portégé X40-K: portátil de 14" y procesador Intel 12ª Gen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-presentar-declaracion-movil-android-app-oficial-renta-web-2022-1040589'>Cómo hacer y presentar la declaración desde tu móvil Android con la app oficial Renta Web 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-presentar-declaracion-movil-android-app-oficial-renta-web-2022-1040589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2667123.jpg' alt='Cómo hacer y presentar la declaración desde tu móvil Android con la app oficial Renta Web 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611'>Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-1040611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/abuela-ha-hecho-viral-tiktok-gracias-3-peculiares-normas-funeral-2667189.jpg' alt='Esta abuela se ha hecho viral en TiKTok gracias a sus 3 peculiares normas para su funeral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-1040527'>Las multas que pueden ponerte por no coger ni circular bien por una glorieta, según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-1040527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-2667015.jpg' alt='Las multas que pueden ponerte por no coger ni circular bien por una glorieta, según la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-rtx-3090-ti-tarjeta-grafica-potente-mercado-tendra-modelos-tuf-rog-1040645'>ASUS anuncia sus RTX 3090 Ti, la tarjeta gráfica más potente del mercado tendrá modelos TUF y ROG</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-anuncia-rtx-3090-ti-tarjeta-grafica-potente-mercado-tendra-modelos-tuf-rog-1040645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='ASUS anuncia sus RTX 3090 Ti, la tarjeta gráfica más potente del mercado tendrá modelos TUF y ROG' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-amazon-baten-record-precio-tienen-cancelacion-alexa-cuestan-solo-70-euros-1039707'>Los AirPods de Amazon baten récord de precio: tienen cancelación, Alexa y cuestan solo 70 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-amazon-baten-record-precio-tienen-cancelacion-alexa-cuestan-solo-70-euros-1039707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg' alt='Los AirPods de Amazon baten récord de precio: tienen cancelación, Alexa y cuestan solo 70 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rocket-lab-no-hara-cohetes-aterricen-como-spacex-capturara-helicoptero-pleno-vuelo-1040567'>Rocket Lab no hará que sus cohetes aterricen como los de SpaceX, los capturará desde un helicóptero en pleno vuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rocket-lab-no-hara-cohetes-aterricen-como-spacex-capturara-helicoptero-pleno-vuelo-1040567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/rocket-lab.jpg' alt='Rocket Lab no hará que sus cohetes aterricen como los de SpaceX, los capturará desde un helicóptero en pleno vuelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497'>Los Bridgerton siguen batiendo récords en Netflix: este es su secreto</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bridgerton-siguen-batiendo-records-netflix-secreto-1040497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bridgerton-2651741.jpg' alt='Los Bridgerton siguen batiendo récords en Netflix: este es su secreto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-stanford-crean-panel-solar-tambien-genera-electricidad-noche-1040617'>Ingenieros de Stanford crean un panel solar que también genera electricidad de noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-stanford-crean-panel-solar-tambien-genera-electricidad-noche-1040617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/panel-solar.jpg' alt='Ingenieros de Stanford crean un panel solar que también genera electricidad de noche' />
     </a>
 </div>
 
