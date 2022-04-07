@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lens-mejora-forma-buscar-objetos-ahora-no-hara-falta-saber-describirlos-1041469'>Google Lens mejora la forma de buscar objetos y ahora no hará falta saber describirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lens-mejora-forma-buscar-objetos-ahora-no-hara-falta-saber-describirlos-1041469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Google Lens mejora la forma de buscar objetos y ahora no hará falta saber describirlos' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505'>HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1000-euros-1041165'>5 portátiles gaming de menos de 1.000 euros para jugar a cualquier juego en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1000-euros-1041165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juega-estudia-donde-cuando-quieras-acer-nitro-5-2528543.jpg' alt='5 portátiles gaming de menos de 1.000 euros para jugar a cualquier juego en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495'>Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-romperia-relaciones-qualcomm-no-montaria-snapdragon-8-gen-1-1041443'>El OnePlus 10 rompería relaciones con Qualcomm y no montaría el Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-romperia-relaciones-qualcomm-no-montaria-snapdragon-8-gen-1-1041443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582725.jpg' alt='El OnePlus 10 rompería relaciones con Qualcomm y no montaría el Snapdragon 8 Gen 1' />
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-reinventa-sabor-kinder-bueno-nuevo-helado-1041501'>Mercadona reinventa el sabor a Kinder bueno con su nuevo helado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-reinventa-sabor-kinder-bueno-nuevo-helado-1041501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-comiendo-helado-2668955.jpg' alt='Mercadona reinventa el sabor a Kinder bueno con su nuevo helado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409'>Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-2668711.jpg' alt='Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-generacion-aclamado-walkie-talkie-xiaomi-tiene-todas-estas-caracteristicas-1041493'>Esta es la tercera generación del aclamado Walkie-Talkie de Xiaomi y tiene todas estas características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tercera-generacion-aclamado-walkie-talkie-xiaomi-tiene-todas-estas-caracteristicas-1041493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-walkie-talkie-3-2668937.jpg' alt='Esta es la tercera generación del aclamado Walkie-Talkie de Xiaomi y tiene todas estas características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423'>Para qué sirve la creatina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/creatina-proteina-2668735.jpg' alt='Para qué sirve la creatina' />
+    <h4><a href='https://computerhoy.com/noticias/motor/lotus-quieren-eletre-900-cv-sea-rapido-mundo-1041091'>En Lotus quieren que el Eletre de 900 CV sea el más rápido del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/lotus-quieren-eletre-900-cv-sea-rapido-mundo-1041091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lotus-eletra-2659627.jpg' alt='En Lotus quieren que el Eletre de 900 CV sea el más rápido del mundo' />
     </a>
 </div>
 
