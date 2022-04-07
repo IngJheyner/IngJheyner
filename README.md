@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409'>Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-2668711.jpg' alt='Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423'>Para qué sirve la creatina</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/creatina-proteina-2668735.jpg' alt='Para qué sirve la creatina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399'>Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/doctor-strange.jpeg' alt='Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323'>Cómo actuar si el cajero automático no te da tu dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cajero-dinero-2291369.jpg' alt='Cómo actuar si el cajero automático no te da tu dinero' />
     </a>
 </div>
 
