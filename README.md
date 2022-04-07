@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423'>Para qué sirve la creatina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/creatina-proteina-2668735.jpg' alt='Para qué sirve la creatina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ano-veremos-ssds-200-terabytes-aunque-no-seran-todos-publicos-1041363'>Este año veremos SSDs de 200 Terabytes aunque no serán para todos los públicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ano-veremos-ssds-200-terabytes-aunque-no-seran-todos-publicos-1041363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ssd-2588933.jpg' alt='Este año veremos SSDs de 200 Terabytes aunque no serán para todos los públicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/significa-crush-1041407'>¿Qué significa CRUSH?</a></h4>
+    <a href='https://computerhoy.com/noticias/significa-crush-1041407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/significa-crush-2668713.jpg' alt='¿Qué significa CRUSH?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399'>Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/doctor-strange.jpeg' alt='Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323'>Cómo actuar si el cajero automático no te da tu dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cajero-dinero-2291369.jpg' alt='Cómo actuar si el cajero automático no te da tu dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zuck-bucks-moneda-virtual-meta-no-no-criptomoneda-1041331'>Así es Zuck Bucks, la moneda virtual para Meta y no, no es una criptomoneda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zuck-bucks-moneda-virtual-meta-no-no-criptomoneda-1041331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/mark-zuckerberg_0.jpg' alt='Así es Zuck Bucks, la moneda virtual para Meta y no, no es una criptomoneda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-cupon-100-euros-descuento-1040749'>Ni en Black Friday: el precio del nuevo Xiaomi 12 cae en picado con este descuento de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-cupon-100-euros-descuento-1040749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-2645227.jpg' alt='Ni en Black Friday: el precio del nuevo Xiaomi 12 cae en picado con este descuento de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039'>Cómo ver vídeos en Android Auto incluso de YouTube</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/android-auto-problemas-solucion-2212087.jpg' alt='Cómo ver vídeos en Android Auto incluso de YouTube' />
     </a>
 </div>
 
