@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529'>Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sistema-filtrado-agua-grifo-brita-forma-comoda-eliminar-microplasticos-metales-pesados-sabor-cloro-2669039.jpg' alt='Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507'>Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-2668965.jpg' alt='Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-encaja-caballero-luna-cronologia-ucm-1041093'>Dónde encaja Caballero Luna en la cronología del UCM</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-encaja-caballero-luna-cronologia-ucm-1041093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oscar-isaac-caballero-luna-moon-night-steven-grant-2643413.jpg' alt='Dónde encaja Caballero Luna en la cronología del UCM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505'>HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495'>Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-reinventa-sabor-kinder-bueno-nuevo-helado-1041501'>Mercadona reinventa el sabor a Kinder bueno con su nuevo helado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-reinventa-sabor-kinder-bueno-nuevo-helado-1041501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-comiendo-helado-2668955.jpg' alt='Mercadona reinventa el sabor a Kinder bueno con su nuevo helado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tercera-generacion-aclamado-walkie-talkie-xiaomi-tiene-todas-estas-caracteristicas-1041493'>Esta es la tercera generación del aclamado Walkie-Talkie de Xiaomi y tiene todas estas características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tercera-generacion-aclamado-walkie-talkie-xiaomi-tiene-todas-estas-caracteristicas-1041493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-walkie-talkie-3-2668937.jpg' alt='Esta es la tercera generación del aclamado Walkie-Talkie de Xiaomi y tiene todas estas características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/lotus-quieren-eletre-900-cv-sea-rapido-mundo-1041091'>En Lotus quieren que el Eletre de 900 CV sea el más rápido del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/lotus-quieren-eletre-900-cv-sea-rapido-mundo-1041091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lotus-eletra-2659627.jpg' alt='En Lotus quieren que el Eletre de 900 CV sea el más rápido del mundo' />
     </a>
 </div>
 
