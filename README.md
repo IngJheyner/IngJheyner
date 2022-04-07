@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323'>Cómo actuar si el cajero automático no te da tu dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cajero-dinero-2291369.jpg' alt='Cómo actuar si el cajero automático no te da tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zuck-bucks-moneda-virtual-meta-no-no-criptomoneda-1041331'>Así es Zuck Bucks, la moneda virtual para Meta y no, no es una criptomoneda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zuck-bucks-moneda-virtual-meta-no-no-criptomoneda-1041331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/mark-zuckerberg_0.jpg' alt='Así es Zuck Bucks, la moneda virtual para Meta y no, no es una criptomoneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-cupon-100-euros-descuento-1040749'>Ni en Black Friday: el precio del nuevo Xiaomi 12 cae en picado con este descuento de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-cupon-100-euros-descuento-1040749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-2645227.jpg' alt='Ni en Black Friday: el precio del nuevo Xiaomi 12 cae en picado con este descuento de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039'>Cómo ver vídeos en Android Auto incluso de YouTube</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/android-auto-problemas-solucion-2212087.jpg' alt='Cómo ver vídeos en Android Auto incluso de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297'>Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ethereum-tenemos-nuevo-record-mundo-criptomonedas-2516887.jpg' alt='Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309'>Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/compras-externas-ios-155-2668351.jpg' alt='Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-distintas-bloquear-pc-windows-11-1010035'>7 maneras distintas de bloquear tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-distintas-bloquear-pc-windows-11-1010035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-ordenador-2612219.jpg' alt='7 maneras distintas de bloquear tu PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiny10-como-instalarlo-ventajas-tiene-frente-windows-10-1041257'>Qué es Tiny10, cómo instalarlo y qué ventajas tiene frente a Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiny10-como-instalarlo-ventajas-tiene-frente-windows-10-1041257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiny10-2668331.jpg' alt='Qué es Tiny10, cómo instalarlo y qué ventajas tiene frente a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521'>Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-m80-2667007.jpg' alt='Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon' />
     </a>
 </div>
 
