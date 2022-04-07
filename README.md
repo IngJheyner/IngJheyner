@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463'>Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/algunos-sonidos-causan-efectos-similares-drogas-psicoactivas-1040441'>Algunos sonidos causan efectos similares a las drogas psicoactivas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/algunos-sonidos-causan-efectos-similares-drogas-psicoactivas-1040441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alucinacion-2666885.jpg' alt='Algunos sonidos causan efectos similares a las drogas psicoactivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429'>Así han puesto a prueba el Ford Bronco, casi ha volado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ford-bronco-2661887.jpg' alt='Así han puesto a prueba el Ford Bronco, casi ha volado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093'>Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-fan-festival-abril-mejores-ofertas-moviles-tablets-relojes-1040575'>Xiaomi Fan Festival de abril: mejores ofertas en móviles, tablets, relojes y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-fan-festival-abril-mejores-ofertas-moviles-tablets-relojes-1040575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-fan-festival-2667453.jpg' alt='Xiaomi Fan Festival de abril: mejores ofertas en móviles, tablets, relojes y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1041079'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1041079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2667917.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-paypal-1028931'>¿Cómo funciona PayPal?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-paypal-1028931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/paypal-2264681.jpg' alt='¿Cómo funciona PayPal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/libros-colorear-adultos-6-razones-medicas-1041077'>Libros de colorear para adultos: 6 razones médicas para que vuelvas a coger los rotuladores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/libros-colorear-adultos-6-razones-medicas-1041077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/libros-colorear-adultos-6-razones-medicas-vuelvas-coger-rotuladores-2667907.jpg' alt='Libros de colorear para adultos: 6 razones médicas para que vuelvas a coger los rotuladores' />
     </a>
 </div>
 
