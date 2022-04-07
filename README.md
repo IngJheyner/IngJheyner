@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439'>Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529'>Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro</a></h4>
     <a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sistema-filtrado-agua-grifo-brita-forma-comoda-eliminar-microplasticos-metales-pesados-sabor-cloro-2669039.jpg' alt='Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505'>HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495'>Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantallas-oled-llegarian-ipads-apple-mucho-antes-pensado-1041495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Las pantallas OLED llegarían a los iPads de Apple mucho antes de lo pensado' />
     </a>
 </div>
 
