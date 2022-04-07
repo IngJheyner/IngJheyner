@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-sigue-completando-gama-magic-4-ahora-llega-modelo-lite-1041121'>Honor sigue completando su gama Magic 4, ahora llega el modelo Lite</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-sigue-completando-gama-magic-4-ahora-llega-modelo-lite-1041121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/honor-magic-3-podria-sorprender-apartado-fotografico-ultimos-rumores-apuntan-llegaria-cinco-camaras-traseras-2426025.jpg' alt='Honor sigue completando su gama Magic 4, ahora llega el modelo Lite' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243'>Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dall-2-2668271.jpg' alt='Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107'>Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-play-store-2667941.jpg' alt='Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sencillo-truco-ahorrar-dinero-suscripciones-netflix-hbo-disney-casi-nadie-utiliza-1041209'>El sencillo truco para ahorrar dinero en las suscripciones de Netflix, HBO o Disney que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sencillo-truco-ahorrar-dinero-suscripciones-netflix-hbo-disney-casi-nadie-utiliza-1041209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='El sencillo truco para ahorrar dinero en las suscripciones de Netflix, HBO o Disney que casi nadie utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463'>Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-todas-plataformas-streaming-cumplen-objetivos-lanzamiento-ha-sido-decepcionante-1041141'>No todas las plataformas de streaming cumplen objetivos: el lanzamiento de esta ha sido decepcionante</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/no-todas-plataformas-streaming-cumplen-objetivos-lanzamiento-ha-sido-decepcionante-1041141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-cnn-tambien-prepara-plataforma-streaming-centrada-noticias-entretenimiento-2638903.jpg' alt='No todas las plataformas de streaming cumplen objetivos: el lanzamiento de esta ha sido decepcionante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/algunos-sonidos-causan-efectos-similares-drogas-psicoactivas-1040441'>Algunos sonidos causan efectos similares a las drogas psicoactivas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/algunos-sonidos-causan-efectos-similares-drogas-psicoactivas-1040441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alucinacion-2666885.jpg' alt='Algunos sonidos causan efectos similares a las drogas psicoactivas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-kindle-tres-meses-libros-gratis-lector-ebooks-rebajado-precio-minimo-historico-1039853'>Ofertón Kindle: tres meses de libros gratis y lector de ebooks rebajado a su precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferton-kindle-tres-meses-libros-gratis-lector-ebooks-rebajado-precio-minimo-historico-1039853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-kindle-luz-frontal-integrada-2666059.jpg' alt='Ofertón Kindle: tres meses de libros gratis y lector de ebooks rebajado a su precio mínimo histórico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429'>Así han puesto a prueba el Ford Bronco, casi ha volado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ford-bronco-2661887.jpg' alt='Así han puesto a prueba el Ford Bronco, casi ha volado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-version-mejorada-reacciones-solo-disponibles-version-beta-1041145'>WhatsApp sigue trabajando en una versión mejorada de las reacciones, solo disponible en la versión beta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-version-mejorada-reacciones-solo-disponibles-version-beta-1041145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reacciones-whatsapp-portada-2668053.jpg' alt='WhatsApp sigue trabajando en una versión mejorada de las reacciones, solo disponible en la versión beta' />
     </a>
 </div>
 
