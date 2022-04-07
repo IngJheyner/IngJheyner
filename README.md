@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399'>Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/doctor-strange.jpeg' alt='Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323'>Cómo actuar si el cajero automático no te da tu dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-actuar-cajero-automatico-no-te-da-dinero-1041323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cajero-dinero-2291369.jpg' alt='Cómo actuar si el cajero automático no te da tu dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039'>Cómo ver vídeos en Android Auto incluso de YouTube</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-videos-android-auto-incluso-youtube-1001039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/android-auto-problemas-solucion-2212087.jpg' alt='Cómo ver vídeos en Android Auto incluso de YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297'>Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ethereum-tenemos-nuevo-record-mundo-criptomonedas-2516887.jpg' alt='Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio' />
     </a>
 </div>
 
