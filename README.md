@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297'>Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inminente-cambio-ethereum-rumoreado-durante-anos-podria-disparar-precio-1041297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ethereum-tenemos-nuevo-record-mundo-criptomonedas-2516887.jpg' alt='Un inminente cambio en Ethereum rumoreado durante años podría disparar su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309'>Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/compras-externas-ios-155-2668351.jpg' alt='Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521'>Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-m80-2667007.jpg' alt='Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243'>Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dall-2-2668271.jpg' alt='Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito' />
     </a>
 </div>
 
