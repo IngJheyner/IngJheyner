@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107'>Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-play-store-2667941.jpg' alt='Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463'>Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gadget-ikea-solo-5-euros-necesitas-tienes-movil-gama-media-alta-1040463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cargador-inalambrico-livboj-2657031.jpg' alt='Este es el gadget de IKEA de solo 5 euros que necesitas si tienes un móvil de gama media-alta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093'>Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-fan-festival-abril-mejores-ofertas-moviles-tablets-relojes-1040575'>Xiaomi Fan Festival de abril: mejores ofertas en móviles, tablets, relojes y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-fan-festival-abril-mejores-ofertas-moviles-tablets-relojes-1040575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-fan-festival-2667453.jpg' alt='Xiaomi Fan Festival de abril: mejores ofertas en móviles, tablets, relojes y más' />
     </a>
 </div>
 
