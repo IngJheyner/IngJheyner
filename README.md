@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-sigue-completando-gama-magic-4-ahora-llega-modelo-lite-1041121'>Honor sigue completando su gama Magic 4, ahora llega el modelo Lite</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-sigue-completando-gama-magic-4-ahora-llega-modelo-lite-1041121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/honor-magic-3-podria-sorprender-apartado-fotografico-ultimos-rumores-apuntan-llegaria-cinco-camaras-traseras-2426025.jpg' alt='Honor sigue completando su gama Magic 4, ahora llega el modelo Lite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107'>Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/play-store-google-no-permitira-instalacion-aplicaciones-no-hayan-recibido-actualizaciones-tiempo-1041107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-play-store-2667941.jpg' alt='Play Store de Google no permitirá la instalación de aplicaciones que no hayan recibido actualizaciones por un tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429'>Así han puesto a prueba el Ford Bronco, casi ha volado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/han-puesto-prueba-ford-bronco-casi-ha-volado-1040429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ford-bronco-2661887.jpg' alt='Así han puesto a prueba el Ford Bronco, casi ha volado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093'>Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-cuenta-whatsapp-te-roban-pierdes-movil-1030093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Cómo bloquear tu cuenta de WhatsApp si te roban o pierdes el móvil' />
     </a>
 </div>
 
