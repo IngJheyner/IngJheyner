@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309'>Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-pasa-aro-permitira-pago-fuera-app-store-ios-155-1041309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/compras-externas-ios-155-2668351.jpg' alt='Apple pasa por el aro y permitirá el pago fuera de su App Store en iOS 15.5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-distintas-bloquear-pc-windows-11-1010035'>7 maneras distintas de bloquear tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-distintas-bloquear-pc-windows-11-1010035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/candado-ordenador-2612219.jpg' alt='7 maneras distintas de bloquear tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiny10-como-instalarlo-ventajas-tiene-frente-windows-10-1041257'>Qué es Tiny10, cómo instalarlo y qué ventajas tiene frente a Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiny10-como-instalarlo-ventajas-tiene-frente-windows-10-1041257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiny10-2668331.jpg' alt='Qué es Tiny10, cómo instalarlo y qué ventajas tiene frente a Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521'>Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-solo-279-euros-ordenador-barato-vende-amazon-1040521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-m80-2667007.jpg' alt='Un PC con Windows por solo 279 euros: este ordenador sí que es barato, y lo vende Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243'>Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dall-2-2668271.jpg' alt='Así funciona DALL-E 2, la IA que dibuja lo que le digas por escrito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sencillo-truco-ahorrar-dinero-suscripciones-netflix-hbo-disney-casi-nadie-utiliza-1041209'>El sencillo truco para ahorrar dinero en las suscripciones de Netflix, HBO o Disney que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sencillo-truco-ahorrar-dinero-suscripciones-netflix-hbo-disney-casi-nadie-utiliza-1041209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nokia-streaming-box-8000-2521119.jpg' alt='El sencillo truco para ahorrar dinero en las suscripciones de Netflix, HBO o Disney que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/no-todas-plataformas-streaming-cumplen-objetivos-lanzamiento-ha-sido-decepcionante-1041141'>No todas las plataformas de streaming cumplen objetivos: el lanzamiento de esta ha sido decepcionante</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/no-todas-plataformas-streaming-cumplen-objetivos-lanzamiento-ha-sido-decepcionante-1041141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/no-cnn-tambien-prepara-plataforma-streaming-centrada-noticias-entretenimiento-2638903.jpg' alt='No todas las plataformas de streaming cumplen objetivos: el lanzamiento de esta ha sido decepcionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferton-kindle-tres-meses-libros-gratis-lector-ebooks-rebajado-precio-minimo-historico-1039853'>Ofertón Kindle: tres meses de libros gratis y lector de ebooks rebajado a su precio mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferton-kindle-tres-meses-libros-gratis-lector-ebooks-rebajado-precio-minimo-historico-1039853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-kindle-luz-frontal-integrada-2666059.jpg' alt='Ofertón Kindle: tres meses de libros gratis y lector de ebooks rebajado a su precio mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-version-mejorada-reacciones-solo-disponibles-version-beta-1041145'>WhatsApp sigue trabajando en una versión mejorada de las reacciones, solo disponible en la versión beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-trabajando-version-mejorada-reacciones-solo-disponibles-version-beta-1041145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reacciones-whatsapp-portada-2668053.jpg' alt='WhatsApp sigue trabajando en una versión mejorada de las reacciones, solo disponible en la versión beta' />
     </a>
 </div>
 
