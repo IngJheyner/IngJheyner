@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541'>Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malaga-inauguran-semaforo-chiquito-calzada-ojala-todos-semaforos-fueran-2669073.jpg' alt='Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-estarian-recopilando-enviando-datos-telefono-android-eliminalas-ya-mismo-1041535'>Estas aplicaciones estarían recopilando y enviando los datos de tu teléfono Android, elimínalas ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-estarian-recopilando-enviando-datos-telefono-android-eliminalas-ya-mismo-1041535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Estas aplicaciones estarían recopilando y enviando los datos de tu teléfono Android, elimínalas ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439'>Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507'>Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-2668965.jpg' alt='Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-encaja-caballero-luna-cronologia-ucm-1041093'>Dónde encaja Caballero Luna en la cronología del UCM</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/donde-encaja-caballero-luna-cronologia-ucm-1041093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oscar-isaac-caballero-luna-moon-night-steven-grant-2643413.jpg' alt='Dónde encaja Caballero Luna en la cronología del UCM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505'>HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-renueva-appl-apple-tv-fire-tv-version-web-1041505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='HBO Max se renueva radicalmente en los dispositivos Apple TV, y desvela sus planes para Fire TV y la versión web' />
     </a>
 </div>
 
