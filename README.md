@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/libros-colorear-adultos-6-razones-medicas-1041077'>Libros de colorear para adultos: 6 razones médicas para que vuelvas a coger los rotuladores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/libros-colorear-adultos-6-razones-medicas-1041077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/libros-colorear-adultos-6-razones-medicas-vuelvas-coger-rotuladores-2667907.jpg' alt='Libros de colorear para adultos: 6 razones médicas para que vuelvas a coger los rotuladores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/capsulas-bicicleta-alpen-1040847'>Estas cápsulas permiten guardar y proteger la bicicleta, incluso en la calle (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/capsulas-bicicleta-alpen-1040847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-capsulas-bicis-permite-guardar-proteger-bicicleta-incluso-calle-2667665.jpg' alt='Estas cápsulas permiten guardar y proteger la bicicleta, incluso en la calle (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/uber-no-quiere-encasillarse-como-aplicacion-taxis-convertira-conglomerado-transportes-1040831'>Uber no quiere encasillarse como una aplicación de taxis y se convertirá en un conglomerado de transportes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/uber-no-quiere-encasillarse-como-aplicacion-taxis-convertira-conglomerado-transportes-1040831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/coche-autonomo-uber.jpg' alt='Uber no quiere encasillarse como una aplicación de taxis y se convertirá en un conglomerado de transportes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739'>Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-50-precio-minimo-1040739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545309.jpg' alt='Honor 50 5G con pantalla a 120 Hz, 6 GB de RAM y todos los servicios de Google baja a su precio mínimo, solo 349 euros' />
     </a>
 </div>
 
