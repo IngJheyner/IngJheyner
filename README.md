@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lens-mejora-forma-buscar-objetos-ahora-no-hara-falta-saber-describirlos-1041469'>Google Lens mejora la forma de buscar objetos y ahora no hará falta saber describirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lens-mejora-forma-buscar-objetos-ahora-no-hara-falta-saber-describirlos-1041469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Google Lens mejora la forma de buscar objetos y ahora no hará falta saber describirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1000-euros-1041165'>5 portátiles gaming de menos de 1.000 euros para jugar a cualquier juego en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1000-euros-1041165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juega-estudia-donde-cuando-quieras-acer-nitro-5-2528543.jpg' alt='5 portátiles gaming de menos de 1.000 euros para jugar a cualquier juego en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-romperia-relaciones-qualcomm-no-montaria-snapdragon-8-gen-1-1041443'>El OnePlus 10 rompería relaciones con Qualcomm y no montaría el Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10-romperia-relaciones-qualcomm-no-montaria-snapdragon-8-gen-1-1041443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582725.jpg' alt='El OnePlus 10 rompería relaciones con Qualcomm y no montaría el Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409'>Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-1041409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-fire-tv-stick-tienen-nueva-competencia-nuevo-realme-smart-tv-stick-2668711.jpg' alt='Los Amazon Fire TV Stick tienen nueva competencia: así es el nuevo realme Smart TV Stick' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423'>Para qué sirve la creatina</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirve-creatina-1041423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/creatina-proteina-2668735.jpg' alt='Para qué sirve la creatina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ano-veremos-ssds-200-terabytes-aunque-no-seran-todos-publicos-1041363'>Este año veremos SSDs de 200 Terabytes aunque no serán para todos los públicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ano-veremos-ssds-200-terabytes-aunque-no-seran-todos-publicos-1041363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ssd-2588933.jpg' alt='Este año veremos SSDs de 200 Terabytes aunque no serán para todos los públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/significa-crush-1041407'>¿Qué significa CRUSH?</a></h4>
-    <a href='https://computerhoy.com/noticias/significa-crush-1041407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/significa-crush-2668713.jpg' alt='¿Qué significa CRUSH?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399'>Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/doctor-strange-quiere-marearnos-nueva-aventura-multiverso-locura-1041399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/doctor-strange.jpeg' alt='Doctor Strange quiere marearnos con su nueva aventura en el Multiverso de la Locura' />
     </a>
 </div>
 
