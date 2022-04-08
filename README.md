@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159'>No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-ovni-ni-cohete-solucion-picaduras-mosquitos-noche-cuesta-21-euros-2670269.jpg' alt='No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155'>El spam en YouTube tendría los días contados gracias a esta nueva característica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='El spam en YouTube tendría los días contados gracias a esta nueva característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143'>Cuánto dinero gastas por teletrabajar</a></h4>
     <a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teletrabajo-pijama-2166643.jpg' alt='Cuánto dinero gastas por teletrabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139'>El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día' />
     </a>
 </div>
 
