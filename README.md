@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-sigue-pasos-samsung-empezara-ofrecer-piezas-repares-pixel-6-pro-casa-1042111'>Google sigue los pasos de Samsung y empezará a ofrecer piezas para que repares tu Pixel 6 Pro en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-sigue-pasos-samsung-empezara-ofrecer-piezas-repares-pixel-6-pro-casa-1042111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Google sigue los pasos de Samsung y empezará a ofrecer piezas para que repares tu Pixel 6 Pro en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-hogar-eficiente-1041305'>Mejores accesorios de IKEA para hacer tu hogar más eficiente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-hogar-eficiente-1041305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-iluminada-2654657.jpg' alt='Mejores accesorios de IKEA para hacer tu hogar más eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-vota-favor-derecho-reparacion-pone-serio-1042073'>La Unión Europea vota a favor del derecho de reparación: esto se pone serio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/union-europea-vota-favor-derecho-reparacion-pone-serio-1042073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reparar-movil-2315331.jpg' alt='La Unión Europea vota a favor del derecho de reparación: esto se pone serio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-pijos-corrupcion-internado-1041491'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: pijos, corrupción y un internado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-pijos-corrupcion-internado-1041491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-ver-fin-semana-2668945.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: pijos, corrupción y un internado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515'>Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-disney-netflix-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-2669433.jpg' alt='Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-996195'>Los 9 mejores juegos de aventuras para Android de 2022 y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-996195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-2668509.jpg' alt='Los 9 mejores juegos de aventuras para Android de 2022 y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047'>Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/296269-peligros-declaracion-renta.jpg' alt='Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061'>Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtro-snapchat-lenguaje-signos-2669941.jpg' alt='Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos' />
     </a>
 </div>
 
