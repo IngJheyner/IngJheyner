@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765'>Las escenas postcréditos de Morbius han despertado mucho debate</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/morbius-2159843.jpg' alt='Las escenas postcréditos de Morbius han despertado mucho debate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12-lite-5g-paso-geekbench-1042125'>Filtradas las especificaciones del Xiaomi 12 Lite 5G en su paso por Geekbench</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12-lite-5g-paso-geekbench-1042125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649385.jpg' alt='Filtradas las especificaciones del Xiaomi 12 Lite 5G en su paso por Geekbench' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133'>El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-modifica-opciones-mejorar-seguridad-1042129'>Raspberry Pi modifica una de sus opciones para mejorar la seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-modifica-opciones-mejorar-seguridad-1042129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/raspberry-pi-2670155.jpg' alt='Raspberry Pi modifica una de sus opciones para mejorar la seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/disney-supera-hbo-max-1042121'>Disney+ avanza en España y ya es la tercera plataforma más vista, a pesar de los esfuerzos de HBO Max</a></h4>
     <a href='https://computerhoy.com/noticias/industria/disney-supera-hbo-max-1042121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/disney-plus-2260781.jpg' alt='Disney+ avanza en España y ya es la tercera plataforma más vista, a pesar de los esfuerzos de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-copia-feed-tiktok-mostrarte-nuevos-contenidos-1042117'>Spotify copia el feed de TikTok para mostrarte nuevos contenidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-copia-feed-tiktok-mostrarte-nuevos-contenidos-1042117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spotify-copia-feed-tiktok-mostrarte-nuevos-contenidos-2670141.jpg' alt='Spotify copia el feed de TikTok para mostrarte nuevos contenidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/formula-1-incorporara-2023-carrera-nocturna-vegas-1041763'>La Fórmula 1 incorporará en 2023 una carrera nocturna en Las Vegas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/formula-1-incorporara-2023-carrera-nocturna-vegas-1041763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gp-vegas-formula-1-2662547.jpg' alt='La Fórmula 1 incorporará en 2023 una carrera nocturna en Las Vegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-sigue-pasos-samsung-empezara-ofrecer-piezas-repares-pixel-6-pro-casa-1042111'>Google sigue los pasos de Samsung y empezará a ofrecer piezas para que repares tu Pixel 6 Pro en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-sigue-pasos-samsung-empezara-ofrecer-piezas-repares-pixel-6-pro-casa-1042111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Google sigue los pasos de Samsung y empezará a ofrecer piezas para que repares tu Pixel 6 Pro en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-hogar-eficiente-1041305'>Mejores accesorios de IKEA para hacer tu hogar más eficiente</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-accesorios-ikea-hogar-eficiente-1041305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-iluminada-2654657.jpg' alt='Mejores accesorios de IKEA para hacer tu hogar más eficiente' />
     </a>
 </div>
 
