@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047'>Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/296269-peligros-declaracion-renta.jpg' alt='Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061'>Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtro-snapchat-lenguaje-signos-2669941.jpg' alt='Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067'>Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ronronean-gatos-1042017'>¿Por qué ronronean los gatos?	</a></h4>
     <a href='https://computerhoy.com/noticias/life/ronronean-gatos-1042017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ronronean-gatos-2669803.jpg' alt='¿Por qué ronronean los gatos?	' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cada-cuanto-tiempo-tiene-cambiar-aceite-coche-1042041'>Cada cuánto tiempo se tiene que cambiar el aceite del coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cada-cuanto-tiempo-tiene-cambiar-aceite-coche-1042041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/aceite-motor-coche.jpg' alt='Cada cuánto tiempo se tiene que cambiar el aceite del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horno-microondas-ikea-tollreda-oferta-1041293'>IKEA revienta el mercado con su microondas low cost: cuesta 59 euros y es más barato que todos sus rivales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horno-microondas-ikea-tollreda-oferta-1041293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/horno-microondas-ikea-tillreda-2668337.jpg' alt='IKEA revienta el mercado con su microondas low cost: cuesta 59 euros y es más barato que todos sus rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-ia-explicarnos-toman-decisiones-no-temamos-posible-skynet-1041995'>Enseñan a las IA a explicarnos por qué toman sus decisiones para que no temamos una posible Skynet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ensenan-ia-explicarnos-toman-decisiones-no-temamos-posible-skynet-1041995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/robots-empleo-2112791.jpg' alt='Enseñan a las IA a explicarnos por qué toman sus decisiones para que no temamos una posible Skynet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-promete-no-habra-retrasos-cybertruck-llegara-2023-mercado-1042019'>Elon Musk promete que no habrá más retrasos para el Cybertruck y llegará en 2023 al mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-promete-no-habra-retrasos-cybertruck-llegara-2023-mercado-1042019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='Elon Musk promete que no habrá más retrasos para el Cybertruck y llegará en 2023 al mercado' />
     </a>
 </div>
 
