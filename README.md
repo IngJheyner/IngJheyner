@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-pijos-corrupcion-internado-1041491'>Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: pijos, corrupción y un internado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-apple-tv-pijos-corrupcion-internado-1041491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-ver-fin-semana-2668945.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Apple TV+: pijos, corrupción y un internado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515'>Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-disney-netflix-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-2669433.jpg' alt='Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061'>Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-filtro-snapchat-realmente-util-aprende-lengua-signos-hemos-probado-1042061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtro-snapchat-lenguaje-signos-2669941.jpg' alt='Probamos un filtro de Snapchat realmente útil: aprendiendo lengua de signos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067'>Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica' />
     </a>
 </div>
 
