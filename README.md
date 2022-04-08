@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-1041827'>Se filtran las especificaciones del nuevo OnePlus Nord 2T, que revelan mejoras clave</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-1041827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-2669535.jpg' alt='Se filtran las especificaciones del nuevo OnePlus Nord 2T, que revelan mejoras clave' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947'>El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-frenar-tecnica-usada-piratas-informaticos-1041811'>Windows 11 se actualiza para frenar la técnica más usada por los piratas informáticos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-frenar-tecnica-usada-piratas-informaticos-1041811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 se actualiza para frenar la técnica más usada por los piratas informáticos' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593'>El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301555.jpg' alt='El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-1041905'>Esto es lo que pasa si dejas 3 días una pizarra en blanco a los usuarios de Reddit, resumen en 3 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-1041905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-2669611.jpg' alt='Esto es lo que pasa si dejas 3 días una pizarra en blanco a los usuarios de Reddit, resumen en 3 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/movilidad-autonomia-claves-hora-elegir-portatil-2022-1039869'>La movilidad y la autonomía: claves a la hora de elegir un portátil en 2022</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/movilidad-autonomia-claves-hora-elegir-portatil-2022-1039869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-apertura-2666141.jpg' alt='La movilidad y la autonomía: claves a la hora de elegir un portátil en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/temporada-final-series-queridas-llegara-mes-movistar-netflix-1041909'>La temporada final de una de las series más queridas llegará este mes a Movistar+ y Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/temporada-final-series-queridas-llegara-mes-movistar-netflix-1041909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2609733.jpg' alt='La temporada final de una de las series más queridas llegará este mes a Movistar+ y Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801'>Científicos británicos rejuvenecen células 30 años con éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/celulas-ciencia.jpg' alt='Científicos británicos rejuvenecen células 30 años con éxito' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fresh-start-desconocida-funcion-dejar-windows-10-como-nuevo-perder-nada-1041923'>Fresh Start: la desconocida función para dejar Windows 10 como nuevo sin perder nada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fresh-start-desconocida-funcion-dejar-windows-10-como-nuevo-perder-nada-1041923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Fresh Start: la desconocida función para dejar Windows 10 como nuevo sin perder nada' />
     </a>
 </div>
 
