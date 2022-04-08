@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155'>El spam en YouTube tendría los días contados gracias a esta nueva característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='El spam en YouTube tendría los días contados gracias a esta nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153'>La Academia de Cine condena a Will Smith a una larga pena</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='La Academia de Cine condena a Will Smith a una larga pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147'>El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wetransfer-2644027.jpg' alt='El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143'>Cuánto dinero gastas por teletrabajar</a></h4>
     <a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teletrabajo-pijama-2166643.jpg' alt='Cuánto dinero gastas por teletrabajar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139'>El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765'>Las escenas postcréditos de Morbius han despertado mucho debate</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/morbius-2159843.jpg' alt='Las escenas postcréditos de Morbius han despertado mucho debate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12-lite-5g-paso-geekbench-1042125'>Filtradas las especificaciones del Xiaomi 12 Lite 5G en su paso por Geekbench</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12-lite-5g-paso-geekbench-1042125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649385.jpg' alt='Filtradas las especificaciones del Xiaomi 12 Lite 5G en su paso por Geekbench' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133'>El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”' />
     </a>
 </div>
 
