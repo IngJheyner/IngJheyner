@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-1041827'>Se filtran las especificaciones del nuevo OnePlus Nord 2T, que revelan mejoras clave</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-1041827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtran-especificaciones-nuevo-oneplus-nord-2t-revelan-mejoras-clave-2669535.jpg' alt='Se filtran las especificaciones del nuevo OnePlus Nord 2T, que revelan mejoras clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-frenar-tecnica-usada-piratas-informaticos-1041811'>Windows 11 se actualiza para frenar la técnica más usada por los piratas informáticos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-actualiza-frenar-tecnica-usada-piratas-informaticos-1041811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 se actualiza para frenar la técnica más usada por los piratas informáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593'>El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301555.jpg' alt='El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801'>Científicos británicos rejuvenecen células 30 años con éxito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/celulas-ciencia.jpg' alt='Científicos británicos rejuvenecen células 30 años con éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767'>Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613469.jpg' alt='Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549'>WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/wabeta-herramientas-dibujo-2669085.jpg' alt='WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS' />
     </a>
 </div>
 
