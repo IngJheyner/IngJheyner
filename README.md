@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-1041929'>Comprueba tu móvil: detectan un peligroso malware bancario en 6 aplicaciones “antivirus” para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-1041929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Comprueba tu móvil: detectan un peligroso malware bancario en 6 aplicaciones “antivirus” para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-prepara-nuevo-modelo-v23-como-gran-alternativa-relacion-calidad-precio-1041959'>La compañía realme prepara el nuevo modelo V23 como gran alternativa en relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-prepara-nuevo-modelo-v23-como-gran-alternativa-relacion-calidad-precio-1041959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-2667479.jpg' alt='La compañía realme prepara el nuevo modelo V23 como gran alternativa en relación calidad-precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/radio-2-din-vale-android-iphone-sony-ahora-precio-record-menos-300eu-1039739'>Esta radio 2 DIN vale para Android y el iPhone, es de Sony y ahora está a precio récord por menos de 300€</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/radio-2-din-vale-android-iphone-sony-ahora-precio-record-menos-300eu-1039739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sony-xav-ax3005db-2665849.jpg' alt='Esta radio 2 DIN vale para Android y el iPhone, es de Sony y ahora está a precio récord por menos de 300€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947'>El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-1041905'>Esto es lo que pasa si dejas 3 días una pizarra en blanco a los usuarios de Reddit, resumen en 3 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-1041905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pasa-dejas-3-dias-pizarra-blanco-usuarios-reddit-resumen-3-minutos-2669611.jpg' alt='Esto es lo que pasa si dejas 3 días una pizarra en blanco a los usuarios de Reddit, resumen en 3 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/temporada-final-series-queridas-llegara-mes-movistar-netflix-1041909'>La temporada final de una de las series más queridas llegará este mes a Movistar+ y Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/temporada-final-series-queridas-llegara-mes-movistar-netflix-1041909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2609733.jpg' alt='La temporada final de una de las series más queridas llegará este mes a Movistar+ y Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fresh-start-desconocida-funcion-dejar-windows-10-como-nuevo-perder-nada-1041923'>Fresh Start: la desconocida función para dejar Windows 10 como nuevo sin perder nada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fresh-start-desconocida-funcion-dejar-windows-10-como-nuevo-perder-nada-1041923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Fresh Start: la desconocida función para dejar Windows 10 como nuevo sin perder nada' />
     </a>
 </div>
 
