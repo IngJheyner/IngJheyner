@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trigo-kamut-dieta-1041753'>Qué es el trigo Kamut, y por qué te interesa introducirlo en tu dieta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trigo-kamut-dieta-1041753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arroz-kamut-te-interesa-introducirlo-dieta-2669271.jpg' alt='Qué es el trigo Kamut, y por qué te interesa introducirlo en tu dieta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551'>Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-2669089.jpg' alt='Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541'>Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malaga-inauguran-semaforo-chiquito-calzada-ojala-todos-semaforos-fueran-2669073.jpg' alt='Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439'>Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529'>Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sistema-filtrado-agua-grifo-brita-oferta-1041529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sistema-filtrado-agua-grifo-brita-forma-comoda-eliminar-microplasticos-metales-pesados-sabor-cloro-2669039.jpg' alt='Sistema de filtrado de agua para el grifo de BRITA, la forma más cómoda de eliminar los microplásticos, metales pesados y el sabor a cloro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507'>Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-1041507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/108-megapixeles-llegan-gama-media-nuevo-samsung-galaxy-m53-5g-2668965.jpg' alt='Los 108 megapíxeles llegan a la gama media con el nuevo Samsung Galaxy M53 5G' />
     </a>
 </div>
 
