@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551'>Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551'>Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-2669089.jpg' alt='Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-2669089.jpg' alt='Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual (vídeo)' />
     </a>
 </div>
 
