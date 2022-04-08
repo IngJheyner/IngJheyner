@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tan-importante-autentificacion-dos-pasos-1006829'>Qué es y por qué es tan importante la autentificación en dos pasos </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tan-importante-autentificacion-dos-pasos-1006829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/clic-movil-2606715.jpg' alt='Qué es y por qué es tan importante la autentificación en dos pasos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejor-sitio-colocar-router-casa-1034149'>Este es el mejor sitio para colocar el router en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejor-sitio-colocar-router-casa-1034149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-wifi-router-4c-2290367.jpg' alt='Este es el mejor sitio para colocar el router en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trigo-kamut-dieta-1041753'>Qué es el trigo Kamut, y por qué te interesa introducirlo en tu dieta</a></h4>
     <a href='https://computerhoy.com/noticias/life/trigo-kamut-dieta-1041753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arroz-kamut-te-interesa-introducirlo-dieta-2669271.jpg' alt='Qué es el trigo Kamut, y por qué te interesa introducirlo en tu dieta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551'>Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-1041551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/excavadoras-futuro-autonomas-control-gestos-realidad-virtual-2669089.jpg' alt='Las excavadoras del futuro: autónomas, con control por gestos, y realidad virtual (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541'>Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/semaforo-chiquito-de-la-calzada-malaga-1041541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malaga-inauguran-semaforo-chiquito-calzada-ojala-todos-semaforos-fueran-2669073.jpg' alt='Inauguran en Málaga el semáforo de Chiquito de la Calzada, ojalá todos los semáforos fueran así (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-estarian-recopilando-enviando-datos-telefono-android-eliminalas-ya-mismo-1041535'>Estas aplicaciones estarían recopilando y enviando los datos de tu teléfono Android, elimínalas ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-estarian-recopilando-enviando-datos-telefono-android-eliminalas-ya-mismo-1041535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Estas aplicaciones estarían recopilando y enviando los datos de tu teléfono Android, elimínalas ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439'>Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/regreso-espacio-ha-llegado-netflix-contarte-todos-secretos-gran-viaje-spacex-1041439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Regreso al espacio ha llegado a Netflix para contarte todos los secretos del gran viaje de SpaceX' />
     </a>
 </div>
 
