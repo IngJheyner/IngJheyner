@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161'>La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-mision-espacial-privada-historia-comandada-espanol-michael-lopez-alegria-ya-orbita-2670273.jpg' alt='La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159'>No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-ovni-ni-cohete-solucion-picaduras-mosquitos-noche-cuesta-21-euros-2670269.jpg' alt='No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147'>El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wetransfer-2644027.jpg' alt='El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143'>Cuánto dinero gastas por teletrabajar</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teletrabajo-pijama-2166643.jpg' alt='Cuánto dinero gastas por teletrabajar' />
     </a>
 </div>
 
