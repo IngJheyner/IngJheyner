@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143'>Cuánto dinero gastas por teletrabajar</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/cuanto-dinero-gastas-teletrabajar-1042143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teletrabajo-pijama-2166643.jpg' alt='Cuánto dinero gastas por teletrabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139'>El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-reloj-inteligente-samsung-mejoraria-caracteristica-imprescindible-dia-dia-1042139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El nuevo reloj inteligente de Samsung mejoraría una característica imprescindible en el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765'>Las escenas postcréditos de Morbius han despertado mucho debate</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/escenas-postcreditos-morbius-han-despertado-mucho-debate-1041765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/morbius-2159843.jpg' alt='Las escenas postcréditos de Morbius han despertado mucho debate' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133'>El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ingenioso-truco-whatsapp-descubrir-quien-contacto-pesado-1042133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='El ingenioso truco de WhatsApp para descubrir quién es tu contacto más “pesado”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-modifica-opciones-mejorar-seguridad-1042129'>Raspberry Pi modifica una de sus opciones para mejorar la seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raspberry-pi-modifica-opciones-mejorar-seguridad-1042129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/raspberry-pi-2670155.jpg' alt='Raspberry Pi modifica una de sus opciones para mejorar la seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/disney-supera-hbo-max-1042121'>Disney+ avanza en España y ya es la tercera plataforma más vista, a pesar de los esfuerzos de HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/disney-supera-hbo-max-1042121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/disney-plus-2260781.jpg' alt='Disney+ avanza en España y ya es la tercera plataforma más vista, a pesar de los esfuerzos de HBO Max' />
     </a>
 </div>
 
