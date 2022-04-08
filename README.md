@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515'>Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-filmin-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-1041515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-disney-netflix-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-2669433.jpg' alt='Qué películas ver este fin de semana en Disney+, Filmin y Prime Video: una increíble Gal Gadot, la vuelta de Jumanji y una oscarizada japonesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-996195'>Los 9 mejores juegos de aventuras para Android de 2022 y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-996195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/9-mejores-juegos-aventuras-android-2022-tienes-descargar-ya-mismo-2668509.jpg' alt='Los 9 mejores juegos de aventuras para Android de 2022 y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047'>Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22</a></h4>
     <a href='https://computerhoy.com/noticias/life/significan-diferentes-estados-borrador-declaracion-renta-2021-22-1042047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/296269-peligros-declaracion-renta.jpg' alt='Qué significan los diferentes estados del borrador de la declaración de la Renta 2021/22' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067'>Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-punto-salir-estacion-espacial-internacional-historica-1042067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='Esta misión espacial está a punto de salir a la Estación Espacial Internacional y es histórica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ronronean-gatos-1042017'>¿Por qué ronronean los gatos?	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ronronean-gatos-1042017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ronronean-gatos-2669803.jpg' alt='¿Por qué ronronean los gatos?	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cada-cuanto-tiempo-tiene-cambiar-aceite-coche-1042041'>Cada cuánto tiempo se tiene que cambiar el aceite del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cada-cuanto-tiempo-tiene-cambiar-aceite-coche-1042041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/aceite-motor-coche.jpg' alt='Cada cuánto tiempo se tiene que cambiar el aceite del coche' />
     </a>
 </div>
 
