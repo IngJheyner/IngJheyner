@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593'>El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f3-5g-sigue-siendo-mejores-moviles-hemos-probado-ahora-ademas-casi-100-euros-barato-1040593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301555.jpg' alt='El POCO F3 5G sigue siendo de los mejores móviles que hemos probado y ahora además es casi 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/movilidad-autonomia-claves-hora-elegir-portatil-2022-1039869'>La movilidad y la autonomía: claves a la hora de elegir un portátil en 2022</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/movilidad-autonomia-claves-hora-elegir-portatil-2022-1039869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-apertura-2666141.jpg' alt='La movilidad y la autonomía: claves a la hora de elegir un portátil en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801'>Científicos británicos rejuvenecen células 30 años con éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-britanicos-rejuvenecen-celulas-30-anos-exito-1041801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/celulas-ciencia.jpg' alt='Científicos británicos rejuvenecen células 30 años con éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767'>Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613469.jpg' alt='Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549'>WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/wabeta-herramientas-dibujo-2669085.jpg' alt='WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/1600-w-potencia-traccion-dos-ruedas-patinete-todoterreno-rebajado-65eu-amazon-1040539'>1600 W de potencia y tracción a las dos ruedas: este patinete todoterreno está rebajado en 65€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/1600-w-potencia-traccion-dos-ruedas-patinete-todoterreno-rebajado-65eu-amazon-1040539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/smartgyro-crossover-dual-x2-2667049.jpg' alt='1600 W de potencia y tracción a las dos ruedas: este patinete todoterreno está rebajado en 65€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/actividad-fisica-puede-mejorar-estado-animo-personas-depresion-1041101'>La actividad física puede mejorar el estado de ánimo en personas con depresión</a></h4>
-    <a href='https://computerhoy.com/noticias/life/actividad-fisica-puede-mejorar-estado-animo-personas-depresion-1041101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg' alt='La actividad física puede mejorar el estado de ánimo en personas con depresión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1041759'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1041759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2669301.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
