@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767'>Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-microsoft-ha-actualizado-190000-ordenadores-windows-11-1041767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613469.jpg' alt='Así es cómo Microsoft ha actualizado más de 190.000 ordenadores a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549'>WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanza-nuevas-herramientas-dibujo-ultima-beta-ios-1041549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/wabeta-herramientas-dibujo-2669085.jpg' alt='WhatsApp lanza nuevas herramientas de dibujo en su última beta para iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1041759'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1041759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2669301.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ford-desarrollando-semaforos-inteligentes-mejoran-trafico-1041099'>Ford está desarrollando semáforos inteligentes que mejoran el tráfico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ford-desarrollando-semaforos-inteligentes-mejoran-trafico-1041099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ford-semaforos-inteligentes-2662937.jpg' alt='Ford está desarrollando semáforos inteligentes que mejoran el tráfico' />
     </a>
 </div>
 
