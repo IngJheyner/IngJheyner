@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-1041929'>Comprueba tu móvil: detectan un peligroso malware bancario en 6 aplicaciones “antivirus” para Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-1041929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Comprueba tu móvil: detectan un peligroso malware bancario en 6 aplicaciones “antivirus” para Android' />
+    <h4><a href='https://computerhoy.com/noticias/life/horno-microondas-ikea-tollreda-oferta-1041293'>IKEA revienta el mercado con su microondas low cost: cuesta 59 euros y es más barato que todos sus rivales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/horno-microondas-ikea-tollreda-oferta-1041293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/horno-microondas-ikea-tillreda-2668337.jpg' alt='IKEA revienta el mercado con su microondas low cost: cuesta 59 euros y es más barato que todos sus rivales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-prepara-nuevo-modelo-v23-como-gran-alternativa-relacion-calidad-precio-1041959'>La compañía realme prepara el nuevo modelo V23 como gran alternativa en relación calidad-precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-prepara-nuevo-modelo-v23-como-gran-alternativa-relacion-calidad-precio-1041959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-apunta-tendencia-inicio-apple-no-convence-usuarios-2667479.jpg' alt='La compañía realme prepara el nuevo modelo V23 como gran alternativa en relación calidad-precio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-ia-explicarnos-toman-decisiones-no-temamos-posible-skynet-1041995'>Enseñan a las IA a explicarnos por qué toman sus decisiones para que no temamos una posible Skynet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ensenan-ia-explicarnos-toman-decisiones-no-temamos-posible-skynet-1041995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/robots-empleo-2112791.jpg' alt='Enseñan a las IA a explicarnos por qué toman sus decisiones para que no temamos una posible Skynet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/radio-2-din-vale-android-iphone-sony-ahora-precio-record-menos-300eu-1039739'>Esta radio 2 DIN vale para Android y el iPhone, es de Sony y ahora está a precio récord por menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/radio-2-din-vale-android-iphone-sony-ahora-precio-record-menos-300eu-1039739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sony-xav-ax3005db-2665849.jpg' alt='Esta radio 2 DIN vale para Android y el iPhone, es de Sony y ahora está a precio récord por menos de 300€' />
+    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-promete-no-habra-retrasos-cybertruck-llegara-2023-mercado-1042019'>Elon Musk promete que no habrá más retrasos para el Cybertruck y llegará en 2023 al mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/elon-musk-promete-no-habra-retrasos-cybertruck-llegara-2023-mercado-1042019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='Elon Musk promete que no habrá más retrasos para el Cybertruck y llegará en 2023 al mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947'>El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-vende-menos-esperado-podria-ser-problema-apple-1041947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg' alt='El nuevo iPhone SE se vende menos de lo esperado y podría ser un problema para Apple' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-1300-chip-veremos-moviles-gama-media-5g-2022-1042029'>Mediatek Dimensity 1300: el chip que veremos en móviles gama media 5G este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-1300-chip-veremos-moviles-gama-media-5g-2022-1042029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/dimensity-2000-mediatek-2507539.jpg' alt='Mediatek Dimensity 1300: el chip que veremos en móviles gama media 5G este 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-opcion-buscar-cosas-no-sabes-como-llaman-haciendoles-foto-1041967'>Google lanza una opción para buscar cosas que no sabes cómo se llaman haciéndoles una foto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-opcion-buscar-cosas-no-sabes-como-llaman-haciendoles-foto-1041967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-android-google-2625925.jpg' alt='Google lanza una opción para buscar cosas que no sabes cómo se llaman haciéndoles una foto' />
     </a>
 </div>
 
