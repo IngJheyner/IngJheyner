@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479'>Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/windows-10-2259677.jpg' alt='Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895'>35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana</a></h4>
     <a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449'>Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kindle-oasis-2670601.jpg' alt='Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441'>La IA que es capaz de crear el retrato de una persona solo escuchando su voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='La IA que es capaz de crear el retrato de una persona solo escuchando su voz' />
     </a>
 </div>
 
