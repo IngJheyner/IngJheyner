@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163'>Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba</a></h4>
+    <a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/derrumba-mito-agilidad-mental-comienza-perderse-mucho-tarde-pensaba-2670275.jpg' alt='Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161'>La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita</a></h4>
     <a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-mision-espacial-privada-historia-comandada-espanol-michael-lopez-alegria-ya-orbita-2670273.jpg' alt='La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153'>La Academia de Cine condena a Will Smith a una larga pena</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='La Academia de Cine condena a Will Smith a una larga pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147'>El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-intento-phishing-hace-pasar-wetransfer-muy-facil-caer-1042147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wetransfer-2644027.jpg' alt='El nuevo intento de phishing se hace pasar por WeTransfer y es muy fácil caer en él' />
     </a>
 </div>
 
