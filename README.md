@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895'>35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-forma-gorro-te-ayudara-dormir-bien-1042457'>Este dispositivo en forma de gorro te ayudará a dormir bien</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-forma-gorro-te-ayudara-dormir-bien-1042457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sleeploop-2670635.jpg' alt='Este dispositivo en forma de gorro te ayudará a dormir bien' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441'>La IA que es capaz de crear el retrato de una persona solo escuchando su voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='La IA que es capaz de crear el retrato de una persona solo escuchando su voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757'>6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/witcher-henry-cavill-2530053.jpg' alt='6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+' />
     </a>
 </div>
 
