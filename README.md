@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-nuevo-adaptador-puerto-usb-c-dual-35-w-1042413'>Apple estaría trabajando en un nuevo adaptador con puerto USB-C dual de 35 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-nuevo-adaptador-puerto-usb-c-dual-35-w-1042413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Apple estaría trabajando en un nuevo adaptador con puerto USB-C dual de 35 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259'>Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673'>Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazfit-smart-scale-2667247.jpg' alt='Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109'>Pantallas: las prefiero pequeñas y juguetonas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmagic-6s-pro-analisis-opinion-2504233.jpg' alt='Pantallas: las prefiero pequeñas y juguetonas' />
     </a>
 </div>
 
