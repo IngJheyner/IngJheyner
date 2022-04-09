@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673'>Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazfit-smart-scale-2667247.jpg' alt='Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109'>Pantallas: las prefiero pequeñas y juguetonas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmagic-6s-pro-analisis-opinion-2504233.jpg' alt='Pantallas: las prefiero pequeñas y juguetonas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127'>Por qué en algunos restaurantes de Japón te sirven un huevo de acero</a></h4>
     <a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/restaurantes-japon-te-sirven-huevo-acero-2661319.jpg' alt='Por qué en algunos restaurantes de Japón te sirven un huevo de acero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599'>Cómo tu smartphone puede sustituir a tu portátil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-smartphone-2660189.jpg' alt='Cómo tu smartphone puede sustituir a tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163'>Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba</a></h4>
-    <a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/derrumba-mito-agilidad-mental-comienza-perderse-mucho-tarde-pensaba-2670275.jpg' alt='Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161'>La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-mision-espacial-privada-historia-comandada-espanol-michael-lopez-alegria-ya-orbita-2670273.jpg' alt='La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita' />
     </a>
 </div>
 
