@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-air-5a-generacion-review-opinion-1040597'>Apple iPad Air 5 (2022), análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-air-5a-generacion-review-opinion-1040597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple iPad Air 5 (2022), análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673'>Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/basculas-inteligentes-completas-mide-grasa-15-valores-amazfit-ahora-rebajada-precio-1040673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazfit-smart-scale-2667247.jpg' alt='Una de las básculas inteligentes más completas mide la grasa y 15 valores más, es de Amazfit y ahora está rebajada de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973'>10 juegos de PS5 que arrasan en ventas y están en oferta</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='10 juegos de PS5 que arrasan en ventas y están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599'>Cómo tu smartphone puede sustituir a tu portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-smartphone-2660189.jpg' alt='Cómo tu smartphone puede sustituir a tu portátil' />
     </a>
 </div>
 
