@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127'>Por qué en algunos restaurantes de Japón te sirven un huevo de acero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/restaurantes-japon-te-sirven-huevo-acero-2661319.jpg' alt='Por qué en algunos restaurantes de Japón te sirven un huevo de acero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973'>10 juegos de PS5 que arrasan en ventas y están en oferta</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='10 juegos de PS5 que arrasan en ventas y están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599'>Cómo tu smartphone puede sustituir a tu portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-smartphone-puede-sustituir-portatil-1036599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-smartphone-2660189.jpg' alt='Cómo tu smartphone puede sustituir a tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163'>Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba</a></h4>
     <a href='https://computerhoy.com/noticias/life/derrumba-mito-agilidad-mental-edadismo-1042163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/derrumba-mito-agilidad-mental-comienza-perderse-mucho-tarde-pensaba-2670275.jpg' alt='Se derrumba un mito: la agilidad mental comienza a perderse mucho más tarde de lo que se pensaba' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161'>La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita</a></h4>
     <a href='https://computerhoy.com/noticias/life/primera-mision-espacial-privada-michael-lopez-alegria-1042161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-mision-espacial-privada-historia-comandada-espanol-michael-lopez-alegria-ya-orbita-2670273.jpg' alt='La primera misión espacial privada de la historia, comandada por el español Michael López-Alegría, ya está en órbita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159'>No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lampara-exterminadora-mosquitos-noche-oferta-1042159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-ovni-ni-cohete-solucion-picaduras-mosquitos-noche-cuesta-21-euros-2670269.jpg' alt='No es un OVNI ni un cohete: es la solución para las picaduras de mosquitos en la noche y cuesta 21 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155'>El spam en YouTube tendría los días contados gracias a esta nueva característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spam-youtube-tendria-dias-contados-gracias-nueva-caracteristica-1042155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='El spam en YouTube tendría los días contados gracias a esta nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153'>La Academia de Cine condena a Will Smith a una larga pena</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/academia-cine-condena-will-smith-larga-pena-1042153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/will-smith-2658849.jpg' alt='La Academia de Cine condena a Will Smith a una larga pena' />
     </a>
 </div>
 
