@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-forma-gorro-te-ayudara-dormir-bien-1042457'>Este dispositivo en forma de gorro te ayudará a dormir bien</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-forma-gorro-te-ayudara-dormir-bien-1042457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sleeploop-2670635.jpg' alt='Este dispositivo en forma de gorro te ayudará a dormir bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455'>Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg' alt='Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757'>6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/witcher-henry-cavill-2530053.jpg' alt='6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421'>El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/warner-bros-discovery-2670553.jpg' alt='El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento' />
     </a>
 </div>
 
