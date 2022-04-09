@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259'>Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-impresionantes-tipos-fotografia-puedes-hacer-movil-1035253'>Los 7 impresionantes tipos de fotografía que puedes hacer con tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-impresionantes-tipos-fotografia-puedes-hacer-movil-1035253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/foto-movil-2658173.jpg' alt='Los 7 impresionantes tipos de fotografía que puedes hacer con tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-air-5a-generacion-review-opinion-1040597'>Apple iPad Air 5 (2022), análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-ipad-air-5a-generacion-review-opinion-1040597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple iPad Air 5 (2022), análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109'>Pantallas: las prefiero pequeñas y juguetonas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/pantallas-prefiero-pequenas-juguetonas-1035109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/redmagic-6s-pro-analisis-opinion-2504233.jpg' alt='Pantallas: las prefiero pequeñas y juguetonas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127'>Por qué en algunos restaurantes de Japón te sirven un huevo de acero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/restaurante-japon-huevo-acero-1037127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/restaurantes-japon-te-sirven-huevo-acero-2661319.jpg' alt='Por qué en algunos restaurantes de Japón te sirven un huevo de acero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973'>10 juegos de PS5 que arrasan en ventas y están en oferta</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-ps5-arrasan-ventas-estan-oferta-1038973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='10 juegos de PS5 que arrasan en ventas y están en oferta' />
     </a>
 </div>
 
