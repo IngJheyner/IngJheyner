@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487'>Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479'>Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/windows-10-2259677.jpg' alt='Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455'>Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg' alt='Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449'>Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kindle-oasis-2670601.jpg' alt='Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited' />
     </a>
 </div>
 
