@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449'>Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kindle-oasis-2670601.jpg' alt='Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441'>La IA que es capaz de crear el retrato de una persona solo escuchando su voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-crear-retrato-persona-solo-escuchando-voz-1042441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='La IA que es capaz de crear el retrato de una persona solo escuchando su voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757'>6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-fantasticas-brujeria-magia-1040757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/witcher-henry-cavill-2530053.jpg' alt='6 series fantásticas de brujería y magia que puedes ver en Netflix, Prime Video, HBO Max y Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421'>El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/warner-bros-discovery-2670553.jpg' alt='El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-hp-victus-ryzen-7-rtx-3050-oferta-1041427'>Este portátil gaming HP Victus tiene un procesador Ryzen 7 y gráfica RTX 3050 con 120€ de descuento por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-hp-victus-ryzen-7-rtx-3050-oferta-1041427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Este portátil gaming HP Victus tiene un procesador Ryzen 7 y gráfica RTX 3050 con 120€ de descuento por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-edge-30-pro-review-opinion-1039037'>Motorola Edge 30 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-edge-30-pro-review-opinion-1039037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669409.jpg' alt='Motorola Edge 30 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-nuevo-adaptador-puerto-usb-c-dual-35-w-1042413'>Apple estaría trabajando en un nuevo adaptador con puerto USB-C dual de 35 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-estaria-trabajando-nuevo-adaptador-puerto-usb-c-dual-35-w-1042413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Apple estaría trabajando en un nuevo adaptador con puerto USB-C dual de 35 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259'>Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-fitbit-tiene-poco-envidiar-apple-watch-cuesta-menos-mitad-ahora-oferta-1041259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-versa-3-2137909.jpg' alt='Este reloj de Fitbit tiene poco que envidiar al Apple Watch y cuesta menos de la mitad ahora que está en oferta' />
     </a>
 </div>
 
