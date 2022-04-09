@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455'>Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pantalla-informacion-seguridad-veras-ahora-whatsapp-1042455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg' alt='Esta es la nueva pantalla de información sobre seguridad que verás ahora en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449'>Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-leer-lector-ebooks-kindle-oasis-rebajado-199-euros-tres-meses-kindle-unlimited-1042449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kindle-oasis-2670601.jpg' alt='Si te gusta leer este es tu lector de ebooks: el Kindle Oasis rebajado a 199 euros y con tres meses de Kindle Unlimited' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421'>El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sector-streaming-puede-cambiar-completo-fusion-dos-gigantes-entretenimiento-1042421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/warner-bros-discovery-2670553.jpg' alt='El sector del streaming puede cambiar por completo tras la fusión de dos gigantes del entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-hp-victus-ryzen-7-rtx-3050-oferta-1041427'>Este portátil gaming HP Victus tiene un procesador Ryzen 7 y gráfica RTX 3050 con 120€ de descuento por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-hp-victus-ryzen-7-rtx-3050-oferta-1041427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Este portátil gaming HP Victus tiene un procesador Ryzen 7 y gráfica RTX 3050 con 120€ de descuento por tiempo limitado' />
     </a>
 </div>
 
