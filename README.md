@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305'>¿Cansado de la gente? 6 películas en las que solo aparece un personaje</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gravity-2665223.jpg' alt='¿Cansado de la gente? 6 películas en las que solo aparece un personaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717'>Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271'>El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709'>Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065'>¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/unity-debe-popularidad-como-motor-desarrollo-videojuegos-2669951.jpg' alt='¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075'>Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-smart-air-quality-monitor-2669981.jpg' alt='Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa' />
     </a>
 </div>
 
