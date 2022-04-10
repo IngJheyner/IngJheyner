@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749'>Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739'>El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultimate-ears-boom-3-2671025.jpg' alt='El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305'>¿Cansado de la gente? 6 películas en las que solo aparece un personaje</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gravity-2665223.jpg' alt='¿Cansado de la gente? 6 películas en las que solo aparece un personaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717'>Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos' />
     </a>
 </div>
 
