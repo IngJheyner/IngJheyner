@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217'>¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-2668207.jpg' alt='¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-mit-te-viste-aunque-te-estes-moviendo-1042483'>El robot del MIT que te viste aunque te estés moviendo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-mit-te-viste-aunque-te-estes-moviendo-1042483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mit-crea-robot-capaz-vestirte-aunque-te-muevas-2670701.jpg' alt='El robot del MIT que te viste aunque te estés moviendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/rascacielos-residencial-delgado-todo-occidente-nueva-york-1042481'>Este es el rascacielos residencial más delgado de todo occidente y está en Nueva York</a></h4>
+    <a href='https://computerhoy.com/noticias/life/rascacielos-residencial-delgado-todo-occidente-nueva-york-1042481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/111-west-57th-2670697.jpg' alt='Este es el rascacielos residencial más delgado de todo occidente y está en Nueva York' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pegatina-intel-inside-intel-envia-gratis-como-pedirla-1041783'>¿Tu PC no tiene la pegatina Intel Inside? Así puedes pedirla gratis a Intel para que te la envíe, incluso con PCs de segunda mano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pegatina-intel-inside-intel-envia-gratis-como-pedirla-1041783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pc-no-tiene-etiqueta-intel-inside-intel-te-envia-gratis-casa-incluso-ordenadores-segunda-mano-2669321.jpg' alt='¿Tu PC no tiene la pegatina Intel Inside? Así puedes pedirla gratis a Intel para que te la envíe, incluso con PCs de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-placas-induccion-portatiles-1012425'>Placas de inducción portátiles: mejores opciones que puedes encontrar en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-placas-induccion-portatiles-1012425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/placa-induccion-portatil-2616627.jpg' alt='Placas de inducción portátiles: mejores opciones que puedes encontrar en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/olor-gusta-todas-personas-mundo-1041885'>¿Cuál es el olor que le gusta a todas las personas del mundo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/olor-gusta-todas-personas-mundo-1041885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cual-olor-gusta-todas-personas-mundo-2669501.jpg' alt='¿Cuál es el olor que le gusta a todas las personas del mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistema-filtrado-agua-grifos-como-funcionan-sirven-995857'>Sistema de filtrado de agua para grifos: cómo funcionan y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sistema-filtrado-agua-grifos-como-funcionan-sirven-995857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtro-agua-grifo-2586743.jpg' alt='Sistema de filtrado de agua para grifos: cómo funcionan y para qué sirven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/diez-veces-resolucion-tele-4k-explora-foto-detallada-jamas-tomada-sol-1041961'>Diez veces más resolución que una tele 4K: explora la foto más detallada jamás tomada del Sol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/diez-veces-resolucion-tele-4k-explora-foto-detallada-jamas-tomada-sol-1041961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/diez-veces-resolucion-tele-4k-explora-foto-detallada-jamas-tomada-sol-2669709.jpg' alt='Diez veces más resolución que una tele 4K: explora la foto más detallada jamás tomada del Sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487'>Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros' />
     </a>
 </div>
 
