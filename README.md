@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819'>La cama gaming de Bauhutte, para jugar como un rey (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-gaming-bauhute-jugar-como-rey-2671151.jpg' alt='La cama gaming de Bauhutte, para jugar como un rey (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791'>Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-electrica-pliega-mitad-ideal-meterla-maletero-ya-venta-amazon-2671145.jpg' alt='Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099'>5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769'>LEGO y Epic Games se alían para crear un metaverso para niños</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lego-epic-games-alian-crear-metaverso-ninos-2671099.jpg' alt='LEGO y Epic Games se alían para crear un metaverso para niños' />
     </a>
 </div>
 
