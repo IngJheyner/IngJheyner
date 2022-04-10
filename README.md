@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419'>Cómo activar el filtro de luz azul en Windows y dormir mejor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/viendo-pantallas-2654787.jpg' alt='Cómo activar el filtro de luz azul en Windows y dormir mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-zx-spectrum-dentro-cinta-cassette-1041925'>Se cierra el círculo: consiguen meter un ordenador ZX Spectrum dentro de una cinta de cassette</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-zx-spectrum-dentro-cinta-cassette-1041925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cierra-circulo-consiguen-meter-ordenador-zx-spectrum-dentro-cinta-cassette-2669635.jpg' alt='Se cierra el círculo: consiguen meter un ordenador ZX Spectrum dentro de una cinta de cassette' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819'>La cama gaming de Bauhutte, para jugar como un rey (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-gaming-bauhute-jugar-como-rey-2671151.jpg' alt='La cama gaming de Bauhutte, para jugar como un rey (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785'>Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-calor-expelen-2671125.jpg' alt='Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783'>¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099'>5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola' />
     </a>
 </div>
 
