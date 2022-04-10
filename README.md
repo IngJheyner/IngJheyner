@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783'>¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099'>5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-baratos-game-pass-ultimate-te-pueden-servir-como-consola-1042099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mini-pc-marca-nipogi-2587215.jpg' alt='5 ordenadores baratos que con Game Pass Ultimate te pueden servir como consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769'>LEGO y Epic Games se alían para crear un metaverso para niños</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lego-epic-games-alian-crear-metaverso-ninos-2671099.jpg' alt='LEGO y Epic Games se alían para crear un metaverso para niños' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739'>El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultimate-ears-boom-3-2671025.jpg' alt='El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/hacks-cheats-legales-gaming-hardcore-pc-1005699'>Hacks y cheats legales para gaming hardcore en PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/hacks-cheats-legales-gaming-hardcore-pc-1005699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/pc-gaming-2058921.jpg' alt='Hacks y cheats legales para gaming hardcore en PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735'>Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta' />
     </a>
 </div>
 
