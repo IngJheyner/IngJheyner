@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739'>El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultimate-ears-boom-3-2671025.jpg' alt='El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/hacks-cheats-legales-gaming-hardcore-pc-1005699'>Hacks y cheats legales para gaming hardcore en PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/hacks-cheats-legales-gaming-hardcore-pc-1005699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/pc-gaming-2058921.jpg' alt='Hacks y cheats legales para gaming hardcore en PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735'>Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305'>¿Cansado de la gente? 6 películas en las que solo aparece un personaje</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gravity-2665223.jpg' alt='¿Cansado de la gente? 6 películas en las que solo aparece un personaje' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717'>Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-advertira-cuando-escribas-contrasenas-bloc-notas-sitios-fraudulentos-1042717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Windows 11 te advertirá cuando escribas contraseñas en el Bloc de notas o en sitios fraudulentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271'>El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-opinion-dygma-raise-teclado-mecanico-ergonomico-1036627'>Análisis del Dygma Raise, el teclado mecánico ergonómico</a></h4>
-    <a href='https://computerhoy.com/analisis/review-opinion-dygma-raise-teclado-mecanico-ergonomico-1036627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-dygma-raise-2664725.jpg' alt='Análisis del Dygma Raise, el teclado mecánico ergonómico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709'>Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp' />
     </a>
 </div>
 
