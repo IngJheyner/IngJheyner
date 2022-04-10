@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785'>Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-calor-expelen-2671125.jpg' alt='Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783'>¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/champions-netflix-liga-disney-apple-tv-partidos-beisbol-directo-1042783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='¿La Champions en Netflix y La Liga en Disney+? Apple TV+ marca el camino retransmitiendo partidos de béisbol en directo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749'>Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739'>El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/altavoz-inalambrico-portatil-necesitas-todas-fiestas-verano-solo-89-euros-1042739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ultimate-ears-boom-3-2671025.jpg' alt='El altavoz inalámbrico portátil que necesitas para todas tus fiestas de este verano a solo 89 euros' />
     </a>
 </div>
 
