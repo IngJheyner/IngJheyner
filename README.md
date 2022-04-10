@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-placas-induccion-portatiles-1012425'>Placas de inducción portátiles: mejores opciones que puedes encontrar en Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-placas-induccion-portatiles-1012425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/placa-induccion-portatil-2616627.jpg' alt='Placas de inducción portátiles: mejores opciones que puedes encontrar en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/olor-gusta-todas-personas-mundo-1041885'>¿Cuál es el olor que le gusta a todas las personas del mundo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/olor-gusta-todas-personas-mundo-1041885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cual-olor-gusta-todas-personas-mundo-2669501.jpg' alt='¿Cuál es el olor que le gusta a todas las personas del mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sistema-filtrado-agua-grifos-como-funcionan-sirven-995857'>Sistema de filtrado de agua para grifos: cómo funcionan y para qué sirven</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sistema-filtrado-agua-grifos-como-funcionan-sirven-995857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/filtro-agua-grifo-2586743.jpg' alt='Sistema de filtrado de agua para grifos: cómo funcionan y para qué sirven' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487'>Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-tendras-toda-tecnologia-muneca-oferta-comprar-apple-watch-259-euros-1042487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='Ahora tendrás toda la tecnología en tu muñeca con esta oferta para comprar el Apple Watch SE a 259 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479'>Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-urge-actualices-windows-10-tienes-estas-dos-versiones-1042479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/windows-10-2259677.jpg' alt='Microsoft urge a que actualices Windows 10 si tienes una de estas dos versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895'>35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/35-juegos-menos-20-euros-ps5-ps4-xbox-switch-1041895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='35 juegos de menos de 20€ para PS5, PS4, Xbox y Switch que te amenizarán el fin de semana' />
     </a>
 </div>
 
