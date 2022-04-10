@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271'>El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-va-arrasar-2022-tiene-ya-100eu-descuento-oferta-1041271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='El móvil Xiaomi que va a arrasar en este 2022 tiene ya 100€ de descuento en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-opinion-dygma-raise-teclado-mecanico-ergonomico-1036627'>Análisis del Dygma Raise, el teclado mecánico ergonómico</a></h4>
+    <a href='https://computerhoy.com/analisis/review-opinion-dygma-raise-teclado-mecanico-ergonomico-1036627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-dygma-raise-2664725.jpg' alt='Análisis del Dygma Raise, el teclado mecánico ergonómico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709'>Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-sabremos-tiempo-espera-hora-recibir-grandes-archivos-traves-whatsapp-1042709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ahora ya sabremos el tiempo de espera a la hora de recibir grandes archivos a través de ‎WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065'>¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/unity-debe-popularidad-como-motor-desarrollo-videojuegos-2669951.jpg' alt='¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075'>Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-smart-air-quality-monitor-2669981.jpg' alt='Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-modificar-borrador-declaracion-renta-2021-1040715'>Cómo modificar el borrador de la declaración de la Renta 2021</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-modificar-borrador-declaracion-renta-2021-1040715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-2667399.jpg' alt='Cómo modificar el borrador de la declaración de la Renta 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-studio-display-review-opinion-1041553'>Apple Studio Display, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/apple-studio-display-review-opinion-1041553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-studio-display-analisis-opinion-2670109.jpg' alt='Apple Studio Display, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217'>¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-2668207.jpg' alt='¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo' />
     </a>
 </div>
 
