@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769'>LEGO y Epic Games se alían para crear un metaverso para niños</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lego-epic-games-alian-crear-metaverso-ninos-2671099.jpg' alt='LEGO y Epic Games se alían para crear un metaverso para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749'>Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735'>Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-extendera-telefono-tomar-control-te-des-cuenta-1042735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Este malware se esconderá en tu teléfono para tomar su control sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305'>¿Cansado de la gente? 6 películas en las que solo aparece un personaje</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-solo-aparece-personaje-1039305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gravity-2665223.jpg' alt='¿Cansado de la gente? 6 películas en las que solo aparece un personaje' />
     </a>
 </div>
 
