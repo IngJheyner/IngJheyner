@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791'>Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-electrica-pliega-mitad-ideal-meterla-maletero-ya-venta-amazon-2671145.jpg' alt='Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785'>Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-1042785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/centro-datos-japones-usa-nieve-enfriar-servidores-cria-anguilas-calor-expelen-2671125.jpg' alt='Un centro de datos japonés usa nieve para enfriar sus servidores y cría anguilas con el calor que expelen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769'>LEGO y Epic Games se alían para crear un metaverso para niños</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/lego-epic-games-metaverso-ninos-1042769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lego-epic-games-alian-crear-metaverso-ninos-2671099.jpg' alt='LEGO y Epic Games se alían para crear un metaverso para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749'>Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-revolucionar-twitter-cambios-twitter-blue-reduccion-precio-publicidad-pagos-dogecoin-1042749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk quiere revolucionar Twitter: cambios en Twitter Blue, reducción de precio, sin publicidad y pagos en Dogecoin' />
     </a>
 </div>
 
